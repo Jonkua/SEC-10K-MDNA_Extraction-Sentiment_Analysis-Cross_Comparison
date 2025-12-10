@@ -1,0 +1,540 @@
+================================================================================
+CIK: 0001604778
+Company Name: Qorvo, Inc
+Filing Date: 2023-05-19
+Form Type: 10-K
+Extraction Date: 2025-09-03 14:24:30
+================================================================================
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+The following discussion should be read in conjunction with, and is qualified in its entirety by reference to, our audited consolidated financial statements, including the notes thereto, set forth in Part II, Item 8 of this report.
+
+OVERVIEW
+
+Company
+
+Qorvo® is a global leader in the development and commercialization of technologies and products for wireless, wired and power markets.
+
+We design, develop, manufacture and market our products to U.S. and international OEMs and ODMs in three reportable operating segments: HPA, CSG and ACG. HPA is a leading global supplier of RF and power solutions for automotive, defense and aerospace, cellular infrastructure, broadband and other markets. CSG is a leading global supplier of connectivity and sensor solutions, with broad expertise spanning UWB, Matter®, Bluetooth® Low Energy, Zigbee®, Thread®, Wi-Fi®, cellular IoT, and MEMS-/BAW-based sensors. ACG is a leading global supplier of cellular RF solutions for smartphones, wearables, laptops, tablets and other devices.
+
+The COVID-19 pandemic has continued to impact the semiconductor industry supply chain, causing uncertainty in customer demand, worldwide economies and financial markets. During fiscal 2023, we experienced unexpectedly weakened demand for 5G handsets in China and EMEA due to unprecedented disruption resulting, in part, from measures taken in China to control the COVID-19 pandemic and the war in Ukraine. As a result, we did not meet the minimum purchase commitments under a long-term capacity reservation agreement with a foundry supplier. In fiscal 2023, the purchase shortfall resulted in an impairment to the prepaid refundable deposit of $130.0 million, and we recorded additional reserves of approximately $20.0 million for inventory in excess of demand forecasts. Additionally, we assessed the future minimum purchase commitments over the remaining term of the agreement and recorded an estimated shortfall liability of $31.0 million. These transactions resulted in a total increase to cost of goods sold of $181.0 million in fiscal 2023.
+
+As part of our ongoing efforts to focus on growth drivers and key markets and to streamline operations, in the fourth quarter of fiscal 2023, we began to seek strategic alternatives related to our non-core biotechnology business. Given the future funding requirements necessary to further develop its diagnostic testing solutions and achieve our desired results, we decided not to invest further in this business. Therefore, we determined that there was a more-likely-than-not expectation of selling or disposing of all, or a portion, of this reporting unit. An evaluation of the asset group within this reporting unit was performed which resulted in total restructuring charges of approximately $94.0 million. These charges included impairment of equipment and inventory of approximately $74.8 million, other charges of approximately $6.8 million, and a goodwill impairment charge of approximately $12.4 million.
+
+Fiscal 2023 Financial Highlights
+
+•Revenue decreased 23.2% in fiscal 2023 to $3,569.4 million, compared to $4,645.7 million in fiscal 2022, primarily due to ongoing global macroeconomic challenges (including measures taken in China to control the COVID-19 pandemic, the war in Ukraine and the negative impact of higher inflation) which resulted in lower demand for 5G handsets and other products, such as Wi-Fi components, power management and base station. Demand was also negatively impacted by ongoing efforts to consume channel inventories.
+
+34
+
+Table of Contents
+•Gross margin for fiscal 2023 was 36.3%, compared to 49.2% in fiscal 2022, primarily due to charges associated with a long-term capacity reservation agreement and factory underutilization resulting from lower production levels.
+
+•Operating income was $183.2 million in fiscal 2023, compared to $1,226.1 million in fiscal 2022. This decrease was primarily due to lower revenue and lower gross margin, as well as higher operating expenses. Operating expenses increased primarily due to restructuring charges and headcount-related expenses (including stock-based compensation), partially offset by lower incentive-based compensation.
+
+•Net income per diluted share was $1.00 for fiscal 2023, compared to net income per diluted share of $9.26 for fiscal 2022.
+
+•Cash flows from operations was $843.2 million for fiscal 2023, compared to $1,049.2 million for fiscal 2022. This year-over-year decrease was primarily due to decreased profitability and changes in working capital.
+
+•Capital expenditures were $159.0 million in fiscal 2023, compared to $213.5 million in fiscal 2022.
+
+•We repurchased approximately 8.7 million shares of our common stock for approximately $862.2 million.
+
+RESULTS OF OPERATIONS
+
+Consolidated
+
+The table below presents a summary of our results of operations for fiscal years 2023 and 2022 along with a year-over-year comparison. Refer to Part II, Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the fiscal year ended April 2, 2022, filed with the SEC on May 20, 2022, which is incorporated by reference herein, for a summary of our results of operations for the fiscal year ended April 3, 2021 along with a year-over-year comparison between fiscal years 2022 and 2021.
+
+----------------------------------- ----------- --------- ------------ ---- ------------------- - ------------ - --------- ---- ----------------- ----- --------- - ----------- ------ -
+ Fiscal 2023 Fiscal 2022 Increase (Decrease)
+(In thousands, except percentages) Dollars % of Revenue Dollars % of Revenue Dollars Percentage Change
+Revenue $ 3,569,399 100.0 % $ 4,645,714 100.0 % $ (1,076,315) (23.2) %
+Cost of goods sold 2,272,457 63.7 2,359,546 50.8 (87,089) (3.7)
+Gross profit 1,296,942 36.3 2,286,168 49.2 (989,226) (43.3)
+Research and development 649,841 18.2 623,636 13.4 26,205 4.2
+Selling, general and administrative 358,790 10.1 349,718 7.5 9,072 2.6
+Other operating expense 105,143 2.9 86,745 1.9 18,398 21.2
+Operating income $ 183,168 5.1 % $ 1,226,069 26.4 % $ (1,042,901) (85.1) %
+
+Revenue
+
+Revenue decreased primarily due to ongoing global macroeconomic challenges (including measures taken in China to control the COVID-19 pandemic, the war in Ukraine and the negative impact of higher inflation) which resulted in lower demand for 5G handsets and other products, such as Wi-Fi components, power management and base station. Demand was also negatively impacted by ongoing efforts to consume channel inventories. The decreased revenue was partially offset by higher demand for our defense products and incremental revenue from SiC-based power products resulting from the acquisition of United Silicon Carbide, Inc. ("United SiC").
+
+We provide products to our largest end customer (Apple) through sales to multiple contract manufacturers, which in the aggregate accounted for approximately 37% and 33% of total revenue in fiscal years 2023 and 2022, respectively. Samsung accounted for approximately 12% and 11% of total revenue in fiscal years 2023 and 2022, respectively. These customers primarily purchase RF solutions for a variety of mobile devices.
+
+35
+
+Table of Contents
+International shipments amounted to $1,751.4 million in fiscal 2023 (approximately 49% of revenue) compared to $2,717.3 million in fiscal 2022 (approximately 58% of revenue). Shipments to Asia totaled $1,549.0 million in fiscal 2023 (approximately 43% of revenue) compared to $2,465.7 million in fiscal 2022 (approximately 53% of revenue).
+
+Gross Margin
+
+Gross margin decreased primarily due to charges associated with a long-term capacity reservation agreement, factory underutilization resulting from lower production levels, inventory charges related to demand fluctuations and supplier quality issues. These decreases to gross margin were partially offset by favorable changes in product mix.
+
+Operating Expenses
+
+Research and Development
+
+R&D spending increased primarily due to headcount-related expenses, including stock-based compensation, as a result of our increased investment in developing new technologies and products. These increases were partially offset by lower incentive-based compensation.
+
+Selling, General and Administrative
+
+Selling, general and administrative expense increased primarily due to headcount-related expenses, including stock-based compensation. These increases were partially offset by lower incentive-based compensation.
+
+Other Operating Expense
+
+Other operating expense increased primarily due to restructuring related charges associated with our non-core biotechnology business. Refer to Note 12 of the Notes to Consolidated Financial Statements for additional information.
+
+Operating Segments
+
+High Performance Analog
+
+---------------------------------- ----------- ------- ------------------- ------- ------- ------- ----------------- - ------ --- -
+ Fiscal Year Increase (Decrease)
+(In thousands, except percentages) 2023 2022 Dollars Percentage Change
+Revenue $ 727,187 $ 707,395 $ 19,792 2.8 %
+Operating income 198,820 210,441 (11,621) (5.5)
+Operating income as a % of revenue 27.3 % 29.7 %
+
+HPA revenue increased primarily due to higher demand for our defense products and incremental revenue from our SiC-based power products resulting from the acquisition of United SiC. These increases were partially offset by a decrease in demand for power management products supporting solid-state drives and power tools and base station products, driven by ongoing efforts to consume channel inventories.
+
+HPA operating income decreased primarily due to effects from factory underutilization. Operating expenses increased primarily as a result of the addition of United SiC expenses, partially offset by lower incentive-based compensation.
+
+36
+
+Table of Contents
+Connectivity and Sensors Group
+
+----------------------------------------- ----------- ------- -------- ------- ------- ------- ----------------- - --------- ------ -
+ Fiscal Year Decrease
+(In thousands, except percentages) 2023 2022 Dollars Percentage Change
+Revenue $ 474,364 $ 703,881 $ (229,517) (32.6) %
+Operating (loss) income (72,080) 107,814 (179,894) (166.9)
+Operating (loss) income as a % of revenue (15.2) % 15.3 %
+
+CSG revenue decreased primarily due to a decrease in end market demand for Wi-Fi components, in addition to ongoing efforts to consume channel inventories.
+
+CSG operating income decreased primarily due to lower revenue, factory underutilization and higher inventory charges. Operating expenses increased primarily due to headcount-related expenses as a result of our increased investment in developing new technologies and products.
+
+Advanced Cellular Group
+
+---------------------------------- ----------- --------- -------- --------- ------- --------- ----------------- - --------- ------ -
+ Fiscal Year Decrease
+(In thousands, except percentages) 2023 2022 Dollars Percentage Change
+Revenue $ 2,367,848 $ 3,234,438 $ (866,590) (26.8) %
+Operating income 627,708 1,233,388 (605,680) (49.1)
+Operating income as a % of revenue 26.5 % 38.1 %
+
+ACG revenue decreased primarily due to ongoing global macroeconomic challenges (including measures taken in China to control the COVID-19 pandemic, the war in Ukraine and the negative impact of higher inflation) which resulted in lower demand for 5G handsets. Demand for ACG products was also negatively impacted by ongoing efforts to consume channel inventories.
+
+ACG operating income decreased primarily due to lower revenue, factory underutilization resulting from lower production levels, as well as inventory charges related to demand fluctuations and supplier quality issues. Operating expenses increased primarily due to headcount-related expenses as a result of increased investment in developing new technologies and products. These decreases to operating income were partially offset by favorable changes in product mix.
+
+Refer to Note 17 of the Notes to Consolidated Financial Statements for a reconciliation of segment operating income to the consolidated operating income for fiscal years 2023, 2022 and 2021.
+
+INTEREST, OTHER INCOME AND INCOME TAXES
+
+------------------ ----------- -------- ---- --------- - --------
+ Fiscal Year
+(In thousands) 2023 2022
+Interest expense $ (68,463) $ (63,326)
+Other income, net 9,924 18,341
+Income tax expense (21,477) (147,731)
+
+Interest expense
+
+During fiscal 2023, we recorded interest expense primarily related to the 4.375% senior notes due 2029 (the "2029 Notes"), the 3.375% senior notes due 2031 (the "2031 Notes"), and the 1.750% senior notes due 2024 (the "2024 Notes"). During fiscal 2022, we recorded interest expense primarily related to the 2029 Notes and the 2031 Notes. Interest expense in the preceding table for fiscal years 2023 and 2022 is net of capitalized interest of $3.9 million and $3.7 million, respectively.
+
+37
+
+Table of Contents
+Other income, net
+
+During fiscal 2023, we recorded interest income of $21.1 million, losses of $4.2 million based on our share of the earnings from our limited partnership investments, and impairments and losses of $7.8 million from other investments.
+
+During fiscal 2022, we recorded income of $12.0 million based on our share of the earnings from our limited partnership investments, net gains of $2.7 million from other investments, and interest income of $2.7 million.
+
+Income tax expense
+
+Income tax expense for fiscal 2023 was $21.5 million, which was primarily comprised of tax expense related to international operations generating pre-tax book income and the impact of the Tax Act's GILTI provisions (including the effects of the capitalization and amortization of research and development expenses which were previously expensed for U.S. tax purposes), offset by a tax benefit related to domestic and international operations generating pre-tax book losses and domestic tax credits. This resulted in an annual effective tax rate of 17.2% for fiscal 2023.
+
+Income tax expense for fiscal 2022 was $147.7 million, which was primarily comprised of tax expense related to domestic and international operations generating pre-tax book income (exclusive of nondeductible expenses associated with acquisition related adjustments), the impact of the Tax Act's GILTI provisions, and an increase in gross unrecognized tax benefits, offset by a tax benefit related to international operations generating pre-tax book losses and domestic tax credits. This resulted in an annual effective tax rate of 12.5% for fiscal 2022.
+
+A valuation allowance has been established against deferred tax assets in the taxing jurisdictions where, based upon the positive and negative evidence available, it is more likely than not that the related deferred tax assets will not be realized. Realization is dependent upon generating future income in the taxing jurisdictions in which the operating loss carryovers, credit carryovers, depreciable tax basis and other deferred tax assets exist. Management reevaluates the ability to realize the benefit of these deferred tax assets on a quarterly basis. As of the end of fiscal years 2023 and 2022, the valuation allowance against domestic and foreign deferred tax assets was $35.9 million and $36.3 million, respectively.
+
+Refer to Note 13 of the Notes to Consolidated Financial Statements for additional information regarding income taxes.
+
+STOCK-BASED COMPENSATION
+
+Under Accounting Standards Codification ("ASC") 718, "Compensation – Stock Compensation," stock-based compensation cost is measured at the grant date, based on the estimated fair value of the award using an option pricing model for stock options (Black-Scholes) and market price for restricted stock units, and is recognized as expense over the employee's requisite service period.
+
+As of April 1, 2023, total remaining unearned compensation cost related to unvested restricted stock units was $137.6 million, which will be amortized over the weighted-average remaining service period of approximately 1.3 years.
+
+Refer to Note 15 of the Notes to Consolidated Financial Statements for additional information regarding stock-based compensation.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash generated by operations is our primary source of liquidity. As of April 1, 2023, we had working capital of approximately $1,474.0 million, including $808.8 million in cash and cash equivalents, compared to working capital of approximately $1,774.7 million, including $972.6 million in cash and cash equivalents, as of April 2, 2022.
+
+Our $808.8 million of total cash and cash equivalents as of April 1, 2023, includes $554.7 million held by our foreign subsidiaries, of which $365.6 million is held by Qorvo International Pte. Ltd. in Singapore. If the
+
+38
+
+Table of Contents
+undistributed earnings of our foreign subsidiaries are needed in the U.S., we may be required to pay state income and/or foreign local withholding taxes to repatriate these earnings.
+
+Credit Agreement
+
+On September 29, 2020, we and certain of our U.S. subsidiaries (the "Guarantors") entered into a five-year unsecured senior credit facility pursuant to a credit agreement (as amended, restated, modified or otherwise supplemented from time to time, the "Credit Agreement") with Bank of America, N.A., acting as administrative agent, and a syndicate of lenders. The Credit Agreement amended and restated the previous credit agreement dated as of December 5, 2017. The Credit Agreement includes a senior revolving line of credit (the "Revolving Facility") of up to $300.0 million, and included a senior term loan, that was fully repaid in fiscal 2022. The Revolving Facility is available to finance working capital, capital expenditures and other general corporate purposes.
+
+Pursuant to the Credit Agreement, we may request one or more additional tranches of term loans or increases to the Revolving Facility, up to an aggregate of $500.0 million and subject to, among other things, securing additional funding commitments from the existing or new lenders.
+
+During fiscal years 2023 and 2022, there were no borrowings under the Revolving Facility.
+
+The Credit Agreement contains various conditions, covenants and representations with which we must be in compliance in order to borrow funds and to avoid an event of default. As of April 1, 2023, we were in compliance with these covenants. Refer to Note 9 of the Notes to Consolidated Financial Statements for further information about the Credit Agreement, including applicable interest rates.
+
+Stock Repurchases
+
+On November 2, 2022, we announced that our Board of Directors authorized a new share repurchase program to repurchase up to $2.0 billion of our outstanding common stock, which included the remaining authorized dollar amount under a prior program terminated concurrent with the new authorization. Under the current program, share repurchases are made in accordance with applicable securities laws on the open market or in privately negotiated transactions. The extent to which we repurchase our shares, the number of shares and the timing of any repurchases depends on general market conditions, regulatory requirements, alternative investment opportunities and other considerations. The program does not require us to repurchase a minimum number of shares, does not have a fixed term, and may be modified, suspended or terminated at any time without prior notice.
+
+During fiscal years 2023, 2022 and 2021, we repurchased approximately 8.7 million shares, 7.3 million shares and 3.6 million shares of our common stock for approximately $862.2 million, $1,152.3 million and $515.1 million, respectively (including transaction costs and excise tax, as applicable) under the prior and current share repurchase programs. As of April 1, 2023, approximately $1,705.0 million remains available for repurchases under the current share repurchase program. Refer to Note 16 of the Notes to Consolidated Financial Statements for further discussion of our share repurchase program.
+
+Cash Flows from Operating Activities
+
+Operating activities in fiscal 2023 generated cash of $843.2 million, compared to $1,049.2 million in fiscal 2022. This decrease in cash provided by operating activities was primarily due to decreased profitability, partially offset by changes in working capital. In fiscal 2022, cash provided by operating activities was impacted by an increase in prepaid expenses primarily due to prepayments of certain fees and deposits associated with a long-term capacity reservation agreement.
+
+Cash Flows from Investing Activities
+
+Net cash used in investing activities in fiscal 2023 was $153.4 million, compared to $596.0 million in fiscal 2022. We did not acquire any businesses in fiscal 2023, while in fiscal 2022 we completed the acquisitions of NextInput, Inc. and United SiC which resulted in net cash outflows of $389.1 million. In addition, our cash outflows for capital expenditures decreased in fiscal 2023.
+
+39
+
+Table of Contents
+Cash Flows from Financing Activities
+
+Net cash used in financing activities in fiscal 2023 was $853.4 million, compared to $875.5 million in fiscal 2022. We did not record any significant debt activity in fiscal 2023, while in fiscal 2022 we received proceeds of $499.1 million from the issuance of the 2024 Notes and repaid a term loan balance of $197.5 million. In addition, less cash was used for stock repurchases in fiscal 2023.
+
+Our future capital requirements may differ materially from those currently anticipated and will depend on many factors, including market acceptance of and demand for our products, acquisition opportunities, technological advances and our relationships with suppliers and customers. Based on current and projected levels of cash flows from operations, coupled with our existing cash and cash equivalents and availability from our Revolving Facility and term loans, we believe that we have sufficient liquidity to meet both our short-term and long-term cash requirements. However, if there is a significant decrease in demand for our products, or if our revenue grows faster than we anticipate, operating cash flows may be insufficient to meet our needs. If existing resources and cash from operations are not sufficient to meet our future requirements or if we perceive conditions to be favorable, we may seek additional debt or equity financing. Additional debt or equity financing could be dilutive to holders of our common stock. Further, we cannot be sure that additional debt or equity financing, if required, will be available on favorable terms, if at all.
+
+CONTRACTUAL OBLIGATIONS
+
+The following table summarizes our significant contractual obligations and commitments (in thousands) as of April 1, 2023, and the effect such obligations are expected to have on our liquidity and cash flows in future periods.
+
+------------------------------ ----------------------------- --------- ---- ------- --------- ------- --------- ------------------- --------- --------- ------- - ---------
+ Payments Due By Fiscal Period
+ Total Payments 2024 2025-2026 2027-2028 2029 and thereafter
+Capital commitments (1) $ 79,987 $ 63,003 $ 16,984 $ — $ —
+Purchase obligations (2) 1,203,691 594,114 567,094 42,483 —
+Leases 102,162 22,408 33,258 24,091 22,405
+Long-term debt obligations (3) 2,516,813 57,750 630,375 133,438 1,695,250
+Total $ 3,902,653 $ 737,275 $ 1,247,711 $ 200,012 $ 1,717,655
+
+(1) Capital commitments represent obligations for the purchase of property and equipment, a majority of which are not recorded as liabilities on our Consolidated Balance Sheet because we had not received the related goods or services as of April 1, 2023.
+(2) Purchase obligations represent payments due related to the purchase of materials and manufacturing services, a majority of which are not recorded as liabilities on our Consolidated Balance Sheet because we had not received the related goods or services as of April 1, 2023. Refer to Note 11 of the Notes to Consolidated Financial Statements for further information.
+(3) Long-term debt obligations represent future cash payments of principal and interest over the life of the 2024 Notes, the 2029 Notes and the 2031 Notes, including anticipated interest payments not recorded as liabilities on our Consolidated Balance Sheet as of April 1, 2023. Debt obligations are classified based on their stated maturity date, and any future redemptions would impact our cash payments. Refer to Note 9 of the Notes to Consolidated Financial Statements for further information.
+
+Other Contractual Obligations
+
+As of April 1, 2023, in addition to the amounts shown in the contractual obligations table above, we have $21.0 million of unrecognized income tax benefits and accrued interest and penalties which have been recorded as a liability. We are uncertain as to if, or when, such amounts may be settled. We also have an obligation related to the Transitional Repatriation Tax that we elected to pay over eight years which has been recorded as a liability. The remaining obligation of $4.8 million is to be paid over the next three years.
+
+As discussed in Note 10 of the Notes to Consolidated Financial Statements, we have two pension plans in Germany with a combined benefit obligation of approximately $9.4 million as of April 1, 2023. Pension benefit payments are not included in the schedule above due to the uncertainty regarding the amount and timing of any future cash outflows. Pension benefit payments were approximately $0.3 million in fiscal 2023 and are expected to be approximately $0.4 million in fiscal 2024.
+
+40
+
+Table of Contents
+We also offer a non-qualified deferred compensation plan to eligible participants to defer and invest a specified percentage of their cash compensation. We record an obligation under the plan for the distributions to be made to participants upon certain triggering events. Although participants are required to make distribution elections at the time of enrollment, the amount and timing of any future cash outflows is uncertain until such triggering events occur. The total deferred compensation obligation as of April 1, 2023 was $40.7 million, of which $1.6 million is estimated to be paid in fiscal 2024. Refer to Note 10 of the Notes to Consolidated Financial Statements for further information.
+
+SUPPLEMENTAL PARENT AND GUARANTOR FINANCIAL INFORMATION
+
+In accordance with the indentures governing the 2024 Notes, the 2029 Notes and the 2031 Notes (together, the "Notes"), our obligations under the Notes are fully and unconditionally guaranteed on a joint and several unsecured basis by the Guarantors, which are listed on Exhibit 22 to this Annual Report on Form 10-K. Each Guarantor is 100% owned, directly or indirectly, by Qorvo, Inc. ("Parent"). A Guarantor can be released in certain customary circumstances. Our other U.S. subsidiaries and our non-U.S. subsidiaries do not guarantee the Notes (such subsidiaries are referred to as the "Non-Guarantors").
+
+The following presents summarized financial information for the Parent and the Guarantors on a combined basis as of and for the periods indicated, after eliminating (i) intercompany transactions and balances among the Parent and Guarantors, and (ii) equity earnings from, and investments in, any Non-Guarantor. The summarized financial information may not necessarily be indicative of the financial position and results of operations had the combined Parent and Guarantors operated independently from the Non-Guarantors.
+
+--------------------------------------- ------------- ------- ------------- --------- - -------
+Summarized Balance Sheets(in thousands) April 1, 2023 April 2, 2022
+ASSETS
+Current assets (1) $ 972,989 $ 771,528
+Non-current assets 2,398,287 2,624,454
+
+LIABILITIES
+Current liabilities $ 296,049 $ 241,674
+Long-term liabilities (2) 2,689,824 2,634,501
+
+(1) Includes net amounts due from Non-Guarantor subsidiaries of $379.5 million and $286.8 million as of April 1, 2023 and April 2, 2022, respectively.
+(2) Includes net amounts due to Non-Guarantor subsidiaries of $509.1 million and $433.5 million as of April 1, 2023 and April 2, 2022, respectively.
+
+-------------------------------------------- ----------- -------
+Summarized Statement of Income(in thousands) Fiscal 2023
+Revenue $ 889,727
+Gross profit (54,576)
+Net loss (372,643)
+
+CRITICAL ACCOUNTING ESTIMATES
+
+The preparation of consolidated financial statements requires management to use judgment and estimates. The level of uncertainty in estimates and assumptions increases with the length of time until the underlying transactions are completed. Actual results could materially differ from those estimates. The accounting policies that are most critical in the preparation of our consolidated financial statements are those that are both important to the presentation of our financial condition and results of operations and require significant judgment and estimates on the part of management. Our critical accounting policies are reviewed periodically with the Audit Committee of the Board of Directors. We also have other policies that we consider key accounting policies; however, these policies
+
+41
+
+Table of Contents
+typically do not require us to make estimates or judgments that are difficult or subjective. Refer to Note 1 of the Notes to Consolidated Financial Statements.
+
+Inventory Reserves. The valuation of inventory requires us to estimate obsolete or excess inventory. The determination of obsolete or excess inventory requires us to estimate the future demand for our products within specific time horizons, generally 12 to 24 months. The estimates of future demand that we use in the valuation of inventory reserves are the same as those used in our revenue forecasts and are also consistent with the estimates used in our manufacturing plans to enable consistency between inventory valuations and build decisions. Product-specific facts and circumstances reviewed in the inventory valuation process include a review of the customer base, market conditions and customer acceptance of our products and technologies, as well as an assessment of the selling price in relation to the product cost.
+
+These valuations and estimates require significant judgment. If actual results are not consistent with our estimates or assumptions, we may be exposed to an impairment charge that could materially adversely impact our consolidated financial position and results of operations.
+
+Historically, inventory reserves have fluctuated as new technologies have been introduced and customers’ demand has shifted.
+
+Refer to Note 3 of the Notes to Consolidated Financial Statements for additional information regarding our inventories.
+
+Property and Equipment. Periodically, we evaluate the period over which we expect to recover the economic value of our property and equipment, considering factors such as changes in machinery and equipment technology, our ability to re-use equipment across generations of process technology and historical usage trends. When we determine that the useful lives of assets are shorter or longer than we had originally estimated, we adjust the rate of depreciation to reflect the revised useful lives of the assets.
+
+We assess property and equipment for impairment when events or changes in circumstances indicate that the carrying value of the assets or the asset group may not be recoverable. Factors that we consider in deciding when to perform an impairment review include an adverse change in our use of the assets or an expectation that the assets will be sold or otherwise disposed. We assess the recoverability of the assets held and used by comparing the projected undiscounted net cash flows associated with the related asset or group of assets over their remaining estimated useful lives against their respective carrying amounts.  Assets identified as "held for sale" are recorded at the lesser of their carrying value or their fair market value less costs to sell.  Impairment, if any, is based on the excess of the carrying amount over the fair value of those assets.
+
+The process of evaluating property and equipment for impairment is highly subjective and requires significant judgment as we are required to make assumptions about items such as future demand for our products and industry trends. If actual results are not consistent with our estimates or assumptions, we may be exposed to an impairment charge that could materially adversely impact our consolidated financial position and results of operations.
+
+Refer to Note 4 of the Notes to Consolidated Financial Statements for additional information regarding our property and equipment.
+
+Business Acquisitions. We allocate the fair value of the purchase price to the assets acquired and liabilities assumed based on their estimated fair value. The excess of the purchase price over the fair values of the identifiable assets and liabilities is recorded to goodwill. Goodwill is assigned to the reporting unit that is expected to benefit from the synergies of the business combination.
+
+A number of significant assumptions, estimates and judgments are used in determining the fair value of acquired assets and liabilities, particularly with respect to the intangible assets acquired. The valuation of intangible assets requires the use of valuation techniques such as the income approach. The income approach includes management’s estimation of future cash flows (including expected revenue growth rates and profitability), the underlying product or technology life cycles and the discount rates applied to future cash flows.
+
+42
+
+Table of Contents
+Judgment is also required in estimating the fair values of deferred tax assets and liabilities, uncertain tax positions and tax-related valuation allowances, which are initially estimated as of the acquisition date, as well as inventory, property and equipment, pre-existing liabilities or legal claims, deferred revenue and contingent consideration, each as may be applicable.
+
+While we use our best estimates and assumptions to accurately value assets acquired and liabilities assumed at the acquisition date as well as contingent consideration, where applicable, our estimates are inherently uncertain and subject to refinement. As a result, during the measurement period, which may be up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. After the measurement period, any purchase price adjustments are recorded to the income statement.
+
+Refer to Note 5 of the Notes to Consolidated Financial Statements for additional information regarding our business acquisitions.
+
+Goodwill Impairment Testing. Goodwill is not amortized, but rather is reviewed for impairment at the reporting unit level on the first day of our fourth quarter of each fiscal year, or when there is evidence that events or changes in circumstances indicate the carrying amount of the goodwill may not be recovered. Under ASC 350, "Intangibles - Goodwill and Other," we have the option to first assess qualitatively whether it is more likely than not the fair value of a reporting unit is less than its carrying amount, including goodwill. If qualitative assessments conclude it is more likely than not the fair value of any reporting unit is less than its carrying value, quantitative assessments are performed on the applicable reporting units. Inherent in the fair value determinations are significant judgments and estimates, including assumptions about our future revenue, profitability and cash flows, our operational plans and our interpretation of current economic indicators and market valuations.
+
+During the second quarter of fiscal 2023, we updated our organizational structure to more closely align similar technologies and applications with customers and end markets (the "Reorganization"). Refer to Note 17 of the Notes to Consolidated Financial Statements for additional information regarding our new organizational structure. Prior to the Reorganization ("Pre-Reorganization"), we operated under two segments with a total of five reporting units and subsequent to the Reorganization ("Post-Reorganization") we are operating under three segments with a total of eight reporting units. In accordance with ASC 350, we performed quantitative impairment assessments on each reporting unit immediately before and after the change in organizational structure.
+
+Our quantitative assessments considered the income approach and the market approach to estimate each reporting unit’s fair value. Under the income approach, the fair value of each reporting unit is based on the present value of estimated future cash flows. Cash flow projections are based on our estimates of revenue growth rates and operating margins, taking into consideration industry and market conditions. The discount rate used to determine the present value of future cash flows is based on the weighted-average cost of capital adjusted for the relevant risk associated with business-specific characteristics and the uncertainty related to the business's ability to execute on the projected cash flows. The market approach estimates fair value based on market multiples of revenue and earnings derived from comparable publicly traded companies with similar operating and investment characteristics. The resulting fair value, based on the income and market approaches, is then compared to the carrying value to determine if impairment is necessary.
+
+Based on the Pre-Reorganization quantitative assessment performed on July 2, 2022, management concluded there was no goodwill impairment. Based on the Post-Reorganization quantitative analysis performed on July 3, 2022 (the "Quantitative Analysis"), it was determined the fair value of five of our eight reporting units significantly exceeded their carrying values. Therefore, for our annual goodwill impairment assessment that was performed as of January 1, 2023, we opted to perform a qualitative impairment assessment for the goodwill related to these five reporting units. We concluded based on the relevant facts and circumstances, including the Quantitative Analysis performed, it was more likely than not that the fair value of each of these reporting units exceeded their related carrying value and no further impairment testing was required. In addition, based on the Quantitative Analysis, it was determined the fair value of three of our eight reporting units did not significantly exceed their carrying values. Therefore, we performed additional quantitative analyses on two of these reporting units as part of our qualitative analysis and concluded that based on the relevant facts and circumstances, it was more likely than not that the fair value of each of these reporting units exceeded their related carrying value and no further impairment testing was required.
+
+43
+
+Table of Contents
+As part of our ongoing efforts to focus on growth drivers and key markets and to streamline operations, in the fourth quarter of fiscal 2023, we began to seek strategic alternatives for the third reporting unit (our non-core biotechnology business). Given the future funding requirements necessary to further develop its diagnostic testing solutions and achieve our desired results, we decided not to invest further in this business. Therefore, we determined that there was a more-likely-than-not expectation of selling or disposing of all, or a portion, of this reporting unit. Based on these facts and circumstances, we determined that the carrying value exceeded the fair value of this reporting unit which resulted in a goodwill impairment charge of approximately $12.4 million (representing the entire goodwill assigned to this reporting unit), which is recorded in "Other operating expense" in the Consolidated Statement of Income for the fiscal year ended April 1, 2023.
+
+In fiscal 2022 (based on the Pre-Reorganization structure), we completed our annual qualitative assessments and concluded that based on the relevant events and circumstances, it was more likely than not that four of our five reporting units’ fair values exceeded their related carrying values. However, for one of our reporting units a quantitative assessment was performed which resulted in a goodwill impairment charge of approximately $48.0 million, which is recorded in "Other operating expense" in the Consolidated Statement of Income.
+
+Refer to Note 6 of the Notes to Consolidated Financial Statements for additional information regarding our goodwill and intangible assets.
+
+Identified Intangible Assets. We amortize definite-lived intangible assets (including developed technology, customer relationships, technology licenses, backlog and trade names) over their estimated useful lives. Upon completion of development, in-process research and development ("IPRD") assets are transferred to developed technology and are amortized over their useful lives. The asset balances relating to abandoned projects are impaired and expensed to research and development ("R&D").
+
+We evaluate definite-lived intangible assets for impairment to determine whether facts and circumstances indicate that the carrying amount of the assets may not be recoverable. If such facts and circumstances exist, we assess the recoverability of identified intangible assets by comparing the projected undiscounted net cash flows associated with the related asset or group of assets over their remaining lives against their respective carrying amounts. Impairments, if any, are based on the excess of the carrying amounts over the fair value of those assets and occur in the period in which the impairment determination was made. When measuring impairment, we make significant assumptions and apply judgment in estimating future cash flows and asset fair values, including annual revenue growth rates and a terminal year growth rate that reflects the inherent risk in future cash flows. If actual results are not consistent with our estimates or assumptions, we may be exposed to an impairment charge that could materially adversely impact our consolidated financial position and results of operations.
+
+No definite-lived intangible asset impairment charges were recorded in fiscal years 2023 or 2022.
+
+Refer to Note 6 of the Notes to Consolidated Financial Statements for additional information regarding our identified intangible assets.
+
+Purchase Obligations. We evaluate material purchase obligations each reporting period to assess whether our contractual commitments exceed our current and long-term forecast. These evaluations include consideration of customer forecasts, legal obligations, macroeconomic and geopolitical factors as well as market and industry trends.
+
+In fiscal 2022, we entered into a long-term capacity reservation agreement with a foundry supplier (which was later amended in fiscal 2023) that requires us to purchase, and the foundry supplier to supply, a certain number of wafers through calendar year 2026. In connection with this agreement, we paid an upfront refundable deposit, and if the purchase commitments per the agreement were not met, under certain circumstances the supplier could deduct the amount of purchase shortfall amounts from the prepaid refundable deposit at the end of each calendar year.
+
+We experienced unexpectedly weakened demand in fiscal 2023 and did not meet the minimum purchase commitments under the amended long-term capacity reservation agreement, which resulted in impairments to the prepaid refundable deposit, additional inventory reserves for inventory in excess of demand forecasts, and a liability for the estimated purchase commitment shortfall over the remaining term of the agreement.
+
+44
+
+Table of Contents
+To the extent that our assumptions pertaining to anticipated future demand are incorrect or there are further declines in customer forecasts, additional charges may be recorded in future periods, which would have a negative impact on our gross margin and other operating results.
+
+Refer to Note 11 of the Notes to Consolidated Financial Statements for additional information regarding our purchase obligations.
+
+Revenue Recognition. Revenue is recognized when control of the promised goods or services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled in exchange for those goods or services. A majority of our revenue is recognized at a point in time, either on shipment or delivery of the product, depending on individual customer terms and conditions.
+
+We apply a five-step approach in determining the amount and timing of revenue to be recognized: (1) identifying the contract with a customer; (2) identifying the performance obligations in the contract; (3) determining the transaction price; (4) allocating the transaction price to the performance obligations in the contract; and (5) recognizing revenue when the corresponding performance obligation is satisfied.
+
+Our revenue recognition accounting methodology contains uncertainties because it requires us to make significant estimates and assumptions, and to apply judgment. For example, for arrangements that have multiple performance obligations, we must exercise judgment and use estimates in order to (1) determine whether performance obligations are distinct and should be accounted for separately; (2) determine the stand-alone selling price of each performance obligation; (3) allocate the transaction price among the various performance obligations on a relative standalone selling price basis; and (4) determine whether revenue for each performance obligation should be recognized at a point in time or over time.
+
+If we were to change any of these judgments or estimates, it could cause a material increase or decrease in the amount of revenue or deferred revenue that we report in a particular period.
+
+Refer to Note 1 of the Notes to Consolidated Financial Statements for a complete discussion of our revenue recognition policies.
+
+Income Taxes. In determining income for financial statement purposes, we must make certain estimates and judgments in the calculation of tax expense, the resultant tax liabilities and the recoverability of deferred tax assets that arise from temporary differences between the tax and financial statement recognition of revenue and expense.
+
+As part of our financial process, we assess on a tax jurisdictional basis the likelihood that our deferred tax assets can be recovered. If recovery is not more likely than not (a likelihood of less than 50 percent), the provision for taxes must be increased by recording a reserve in the form of a valuation allowance for the deferred tax assets that are estimated not to ultimately be recoverable. In this process, certain relevant criteria are evaluated including: the amount of income or loss in prior years, the existence of deferred tax liabilities that can be used to absorb deferred tax assets, the taxable income in prior carryback years that can be used to absorb net operating losses and credit carrybacks, future expected taxable income and prudent and feasible tax planning strategies. Changes in taxable income, market conditions, U.S. or international tax laws and other factors may change our judgment regarding whether we will be able to realize the deferred tax assets. These changes, if any, may require material adjustments to the net deferred tax assets and an accompanying reduction or increase in income tax expense which will result in a corresponding increase or decrease in net income in the period when such determinations are made. Refer to Note 13 of the Notes to Consolidated Financial Statements for additional information regarding changes in the valuation allowance and net deferred tax assets.
+
+As part of our financial process, we also assess the likelihood that our tax reporting positions will ultimately be sustained. To the extent it is determined it is more likely than not (a likelihood of more than 50 percent) that some portion, or all, of a tax reporting position will ultimately not be recognized and sustained, a provision for unrecognized tax benefit is provided by either reducing the applicable deferred tax asset or accruing an income tax liability. Our judgment regarding the sustainability of our tax reporting positions may change in the future due to changes in U.S. or international tax laws and other factors. These changes, if any, may require material adjustments to the related deferred tax assets or accrued income tax liabilities and an accompanying reduction or increase in income tax expense which will result in a corresponding increase or decrease in net income in the period when such
+
+45
+
+Table of Contents
+determinations are made.
+
+Refer to Note 13 of the Notes to Consolidated Financial Statements for additional information regarding our uncertain tax positions and the amount of unrecognized tax benefits.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[Refer to Note 12]:
+Note 12 - Leases 81
+
+[Refer to Note 17]:
+NOTE 17. DEBT The carrying value of our borrowings as of December 2, 2022 and December 3, 2021 were as follows: ----------------------------------------------------------------------------------- ------------- ----- ------------- ----------------------- - ----- --- ---- ----- - --- (dollars in millions) Issuance Date Due Date Effective Interest Rate 2022 2021 1.70% 2023 Notes February 2020 February 2023 1.92% $ 500 $ 500 1.90% 2025 Notes February 2020 February 2025 2.07% 500 500 3.25% 2025 Notes January 2015 February 2025 3.67% 1,000 1,000 2.15% 2027 Notes February 2020 February 2027 2.26% 850 850 2.30% 2030 Notes February 2020 February 2030 2.69% 1,300 1,300 Total debt outstanding, at par $ 4,150 $ 4,150 Less: Current portion of debt (500) -- Unamortized discount and debt issuance costs (21) (27) Carrying value of long-term debt $ 3,629 $ 4,123 Carrying value of current debt, net of unamortized discount and debt issuance costs $ 500 $ -- 86  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Senior Notes In January 2015, we issued $1 billion of senior notes due February 1, 2025. The related discount and issuance costs are amortized to interest expense over the term of the notes using the effective interest method. Interest is payable semi-annually, in arrears on February 1 and August 1. In February 2020, we issued $500 million of senior notes due February 1, 2023, $500 million of senior notes due February 1, 2025, $850 million of senior notes due February 1, 2027, and $1.30 billion of senior notes due February 1, 2030. Our total proceeds of approximately $3.14 billion, net of issuance discount, were used for general corporate purposes including repayment of debt instruments due in fiscal 2020. The related discount and issuance costs are amortized to interest expense over the respective terms of the notes using the effective interest method. Interest is payable semi-annually, in arrears on February 1 and August 1. During the first quarter of fiscal 2022...
+
+[Refer to Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 83
+
+[Refer to Note 15]:
+Note 15 - Commitments and Contingencies Operating Lease Arrangement in Buffalo, New York We have an operating lease through the Research Foundation for the SUNY Foundation with respect to Gigafactory New York. Under the lease and a related research and development agreement, we are continuing to further develop the facility. Under this agreement, we are obligated to, among other things, meet employment targets as well as specified minimum numbers of personnel in the State of New York and in Buffalo, New York and spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York during the 10-year period beginning April 30, 2018. On an annual basis during the initial lease term, as measured on each anniversary of such date, if we fail to meet these specified investment and job creation requirements, then we would be obligated to pay a $41 million "program payment" to the SUNY Foundation for each year that we fail to meet these requirements. Furthermore, if the arrangement is terminated due to a material breach by us, then additional amounts may become payable by us. In 2021, an amendment was executed to extend our overall agreement to spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York through December 31, 2029. On February 1, 2022, we reported to the State of New York that we had met and exceeded our annual requirements for jobs and investment in Buffalo and New York State. As of December 31, 2022, we are currently in excess of such targets relating to investments and personnel in the State of New York and Buffalo and do not currently expect any issues meeting our applicable obligations in the years beyond. However, if our expectations as to the costs and timelines of our investment and operations at Buffalo or our production ramp of the Solar Roof prove incorrect, we may incur additional expenses or be required to make s...
+
+[Refer to Note 9]:
+Note 9. Leases We have entered into various non-cancelable operating lease agreements mostly for certain of our offices, data centers, colocations, and land. We have also entered into various non-cancelable finance lease agreements mostly for certain network infrastructure. Our leases have original lease periods expiring between 2023 and 2093. Many leases include one or more options to renew. We do not assume renewals in our determination of the lease term unless the renewals are deemed to be reasonably assured. Our lease agreements generally do not contain any material residual value guarantees or material restrictive covenants. The components of lease costs are as follows (in millions): ----------------------------------- ----------------------- ----- ---- ----- ---- ----- ----- - ----- Year Ended December 31, 2022 2021 2020 Finance lease cost: Amortization of right-of-use assets $ 380 $ 344 $ 259 Interest 16 15 14 Operating lease cost 1,857 1,540 1,391 Variable lease cost and other, net 363 272 269 Total lease cost $ 2,616 $ 2,171 $ 1,933 During the year ended December 31, 2022, we also recorded $1.71 billion impairment loss for operating lease ROU assets as a part of our facilities consolidation restructuring efforts. For additional information, see Note 3 -- Restructuring. Supplemental balance sheet information related to leases is as follows: -------------------------------------- ------------ - ---------- --- - December 31, 2022 2021 Weighted-average remaining lease term: Finance leases 14.4 years 13.9 years Operating leases 12.5 years 13.0 years Weighted-average discount rate: Finance leases 3.1 % 2.7 % Operating leases 3.2 % 2.8 % 106  The following is a schedule, by years, of maturities of lease liabilities as of December 31, 2022 (in millions): -------------------------------------- ---------------- ------ -------------- ----- - --- Operating Leases Finance Leases 2023 $ 1,739 $ 146 2024 2,034 57 2025 1,771 57 2026 1,723 53 2027 1,699 52 Thereafter 11,801 ...
+
+[Refer to Note 16]:
+NOTE 16. COMMITMENTS AND CONTINGENCIES Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. The following table summarizes our non-cancellable unconditional purchase obligations for each of the next five years and thereafter as of December 2, 2022, primarily relating to contracts with vendors for third-party hosting and data center services: ------------- -------------------- ----- (in millions) Fiscal Year Purchase Obligations 2023 $ 1,632 2024 921 2025 775 2026 753 2027 783 Thereafter 1,226 Total $ 6,090 Royalties We have royalty commitments associated with the licensing of certain offerings and products. Royalty expense is generally based on a dollar amount per unit or a percentage of the underlying revenue. Royalty expense, which was recorded in our cost of revenue on our Consolidated Statements of Income, was approximately $228 million, $202 million and $176 million in fiscal 2022, 2021 and 2020, respectively. Indemnifications In the ordinary course of business, we provide indemnifications of varying scope to customers and channel partners against claims of intellectual property infringement made by third parties arising from the use of our products and from time to time, we are subject to claims by our customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations. To the extent permitted under Delaware law, we have agreements whereby we indemnify our officers and directors for certain events or occurrences while the officer or director is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the officer's or director's lifetime. The maximum potential amount of future payments w...
+
+[Refer to Note 11]:
+Note 11 - Debt The following is a summary of our debt and finance leases as of December 31, 2022 (in millions): ----------------------------------------- ------------------ ----- --------- ------ - --------- ------ ----------- ----------- -------------- ------------- ----- -------------- - -------------- ---------------------------- Unpaid Unused Net Carrying Value Principal Committed Contractual Contractual Current Long-Term Balance Amount (1) Interest Rates Maturity Date Recourse debt: 2024 Notes $ -- $ 37 $ 37 $ -- 2.00 % May 2024 Credit Agreement -- -- -- 2,266 Not applicable July 2023 Solar Bonds -- 7 7 -- 4.70-5.75 % March 2025 - January 2031 Total recourse debt -- 44 44 2,266 Non-recourse debt: Automotive Asset-backed Notes 984 613 1,603 -- 0.36-4.64 % December 2023-September 2025 Solar Asset-backed Notes 4 13 17 -- 4.80 % December 2026 Cash Equity Debt 28 359 397 -- 5.25-5.81 % July 2033-January 2035 Automotive Lease-backed Credit Facilities -- -- -- 151 Not applicable September 2024 Total non-recourse debt 1,016 985 2,017 151 Total debt 1,016 1,029 $ 2,061 $ 2,417 Finance leases 486 568 Total debt and finance leases $ 1,502 $ 1,597 The following is a summary of our debt and finance leases as of December 31, 2021 (in millions): ----------------------------------------- ------------------ - ----- --------- ------ - - --------- ------ ----------- - ----------- -------------- ------------- - ----- --------- -------------- - ------------------------- ----------------------------- Unpaid Unused Net Carrying Value Principal Committed Contractual Contractual Current Long-Term Balance Amount (1) Interest Rates Maturity Date Recourse debt: 2022 Notes $ 29 $ -- $ 29 $ -- 2.375 % March 2022 2024 Notes 1 89 91 -- 2.00 % May 2024 Credit Agreement -- 1,250 1,250 920 3.25 % July 2023 Solar Bonds 0 7 7 -- 4.00-5.75 % January 2022-January 2031 Total recourse debt 30 1,346 1,377 920 Non-recourse debt: Automotive Asset-backed Notes 1,007 1,706 2,723 -- 0.12-5.48 % September 2022-September 2025 So...
+
+[Refer to Note 9]:
+Note 9. Leases We have entered into various non-cancelable operating lease agreements mostly for certain of our offices, data centers, colocations, and land. We have also entered into various non-cancelable finance lease agreements mostly for certain network infrastructure. Our leases have original lease periods expiring between 2023 and 2093. Many leases include one or more options to renew. We do not assume renewals in our determination of the lease term unless the renewals are deemed to be reasonably assured. Our lease agreements generally do not contain any material residual value guarantees or material restrictive covenants. The components of lease costs are as follows (in millions): ----------------------------------- ----------------------- ----- ---- ----- ---- ----- ----- - ----- Year Ended December 31, 2022 2021 2020 Finance lease cost: Amortization of right-of-use assets $ 380 $ 344 $ 259 Interest 16 15 14 Operating lease cost 1,857 1,540 1,391 Variable lease cost and other, net 363 272 269 Total lease cost $ 2,616 $ 2,171 $ 1,933 During the year ended December 31, 2022, we also recorded $1.71 billion impairment loss for operating lease ROU assets as a part of our facilities consolidation restructuring efforts. For additional information, see Note 3 -- Restructuring. Supplemental balance sheet information related to leases is as follows: -------------------------------------- ------------ - ---------- --- - December 31, 2022 2021 Weighted-average remaining lease term: Finance leases 14.4 years 13.9 years Operating leases 12.5 years 13.0 years Weighted-average discount rate: Finance leases 3.1 % 2.7 % Operating leases 3.2 % 2.8 % 106  The following is a schedule, by years, of maturities of lease liabilities as of December 31, 2022 (in millions): -------------------------------------- ---------------- ------ -------------- ----- - --- Operating Leases Finance Leases 2023 $ 1,739 $ 146 2024 2,034 57 2025 1,771 57 2026 1,723 53 2027 1,699 52 Thereafter 11,801 ...
+
+[As discussed in Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2022, 2021 and 2020 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2022 2021 2020 Domestic $ 1,958 $ 1,736 $ 1,090 Foreign 4,050 3,969 3,086 Income before income taxes $ 6,008 $ 5,705 $ 4,176 The provision for (benefit from) income taxes for fiscal 2022, 2021 and 2020 consisted of the following: ----------------------------------------- ---- ----- ---- ----- ---- --- ------- - ------- (in millions) 2022 2021 2020 Current: United States federal $ 465 $ 391 $ 119 Foreign 329 197 222 State and local 132 103 79 Total current 926 691 420 Deferred: United States federal (45) (148) (123) Foreign 360 359 (1,313) State and local 11 (19) (68) Total deferred 326 192 (1,504) Provision for (benefit from) income taxes $ 1,252 $ 883 $ (1,084) Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the income tax expense computed at the U.S. federal statutory rate of 21% as a result of the following: ---------------------------------------...
+
+[Refer to Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2022, 2021 and 2020 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2022 2021 2020 Domestic $ 1,958 $ 1,736 $ 1,090 Foreign 4,050 3,969 3,086 Income before income taxes $ 6,008 $ 5,705 $ 4,176 The provision for (benefit from) income taxes for fiscal 2022, 2021 and 2020 consisted of the following: ----------------------------------------- ---- ----- ---- ----- ---- --- ------- - ------- (in millions) 2022 2021 2020 Current: United States federal $ 465 $ 391 $ 119 Foreign 329 197 222 State and local 132 103 79 Total current 926 691 420 Deferred: United States federal (45) (148) (123) Foreign 360 359 (1,313) State and local 11 (19) (68) Total deferred 326 192 (1,504) Provision for (benefit from) income taxes $ 1,252 $ 883 $ (1,084) Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the income tax expense computed at the U.S. federal statutory rate of 21% as a result of the following: ---------------------------------------...
+
+[Refer to Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+[Refer to Note 3]:
+NOTE 3. ACQUISITIONS Figma On September 15, 2022, we entered into a definitive agreement under which we intend to acquire Figma, Inc. ("Figma") for approximately $20 billion, comprised of approximately half cash and half stock, subject to customary purchase price adjustments. Approximately 6 million additional restricted stock units will be granted to Figma's Chief Executive Officer and employees that will vest over four years subsequent to closing. The transaction is subject to regulatory approvals and customary closing conditions, and is expected to close in 2023. We will be required to pay Figma a reverse termination fee of $1 billion if the transaction fails to receive regulatory clearance, assuming all other closing conditions have been satisfied or waived, or if it fails to close within 18 months from September 15, 2022. Figma is a privately held company that provides a web-first collaborative product design platform. Following the closing, we intend to integrate Figma into our Digital Media reportable segment for financial reporting purposes. Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.24 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. During fiscal 2022, we recorded purchase accounting adjustments that were not material based on changes to management's estimates and assumptions primarily in regards to the total purchase price and its related impact to goodwill. The table below represents the final purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. --------------------------------------- ------ ----- --------------------...
+
+[Refer to Note 4]:
+(4)The year-over-year increases in rental locations and employees include the impact of the December 2022 acquisition of assets of Ahern Rentals, Inc. ("Ahern Rentals"), which is discussed in note 4 to the consolidated financial statements. (5)As discussed below (see "Industry Overview and Economic Outlook"), North American equipment rental industry revenue is based on industry estimates from the American Rental Association ("ARA"). As discussed above, we completed the acquisition of Ahern Rentals in December 2022. Estimated North American market share as of December 31, 2022 includes the standalone, pre-acquisition revenue of Ahern Rentals. Estimated North American market share as of December 31, 2021 does not include the pre-acquisition revenue of Ahern Rental because the acquisition was completed in 2022. If the pre-acquisition revenue of Ahern Rental was included for 2021, estimated North American market share as of December 31, 2021 would have been approximately 16 percent. Global Economic Conditions and COVID-19 Our operations are impacted by global economic conditions, including inflation, increased interest rates and supply chain constraints, and we take actions to modify our plans to address such economic conditions. In 2022, for example, we intentionally held back on sales of rental equipment to ensure we had sufficient capacity for our customers. In 2022, revenue from sales of rental equipment was largely flat year-over-year, however the number of units sold decreased approximately 17 percent year-over-year, as we held on to fleet to serve strong customer demand and to ensure greater fleet availability in the event industry supply chain challenges persist or worsen. While the volume of sales of rental equipment decreased year-over-year, gross margin from sales of rental equipment increased 14.2 percentage points, which primarily reflected strong pricing and improved channel mix. To date, our supply chain disruptions have been limited, but we may experienc...
+
+[Refer to Note 5]:
+(5)As discussed below (see "Industry Overview and Economic Outlook"), North American equipment rental industry revenue is based on industry estimates from the American Rental Association ("ARA"). As discussed above, we completed the acquisition of Ahern Rentals in December 2022. Estimated North American market share as of December 31, 2022 includes the standalone, pre-acquisition revenue of Ahern Rentals. Estimated North American market share as of December 31, 2021 does not include the pre-acquisition revenue of Ahern Rental because the acquisition was completed in 2022. If the pre-acquisition revenue of Ahern Rental was included for 2021, estimated North American market share as of December 31, 2021 would have been approximately 16 percent. Global Economic Conditions and COVID-19 Our operations are impacted by global economic conditions, including inflation, increased interest rates and supply chain constraints, and we take actions to modify our plans to address such economic conditions. In 2022, for example, we intentionally held back on sales of rental equipment to ensure we had sufficient capacity for our customers. In 2022, revenue from sales of rental equipment was largely flat year-over-year, however the number of units sold decreased approximately 17 percent year-over-year, as we held on to fleet to serve strong customer demand and to ensure greater fleet availability in the event industry supply chain challenges persist or worsen. While the volume of sales of rental equipment decreased year-over-year, gross margin from sales of rental equipment increased 14.2 percentage points, which primarily reflected strong pricing and improved channel mix. To date, our supply chain disruptions have been limited, but we may experience more severe supply chain disruptions in the future. Interest rates on our debt instruments have increased recently. For example, in November 2022, URNA issued $1.5 billion aggregate principal amount of senior secured notes at a 6 percent i...
+
+[Refer to Note 17]:
+NOTE 17. DEBT The carrying value of our borrowings as of December 2, 2022 and December 3, 2021 were as follows: ----------------------------------------------------------------------------------- ------------- ----- ------------- ----------------------- - ----- --- ---- ----- - --- (dollars in millions) Issuance Date Due Date Effective Interest Rate 2022 2021 1.70% 2023 Notes February 2020 February 2023 1.92% $ 500 $ 500 1.90% 2025 Notes February 2020 February 2025 2.07% 500 500 3.25% 2025 Notes January 2015 February 2025 3.67% 1,000 1,000 2.15% 2027 Notes February 2020 February 2027 2.26% 850 850 2.30% 2030 Notes February 2020 February 2030 2.69% 1,300 1,300 Total debt outstanding, at par $ 4,150 $ 4,150 Less: Current portion of debt (500) -- Unamortized discount and debt issuance costs (21) (27) Carrying value of long-term debt $ 3,629 $ 4,123 Carrying value of current debt, net of unamortized discount and debt issuance costs $ 500 $ -- 86  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Senior Notes In January 2015, we issued $1 billion of senior notes due February 1, 2025. The related discount and issuance costs are amortized to interest expense over the term of the notes using the effective interest method. Interest is payable semi-annually, in arrears on February 1 and August 1. In February 2020, we issued $500 million of senior notes due February 1, 2023, $500 million of senior notes due February 1, 2025, $850 million of senior notes due February 1, 2027, and $1.30 billion of senior notes due February 1, 2030. Our total proceeds of approximately $3.14 billion, net of issuance discount, were used for general corporate purposes including repayment of debt instruments due in fiscal 2020. The related discount and issuance costs are amortized to interest expense over the respective terms of the notes using the effective interest method. Interest is payable semi-annually, in arrears on February 1 and August 1. During the first quarter of fiscal 2022...
+
+[Refer to Note 6]:
+(6)This reflects write-offs of leasehold improvements and other fixed assets. The 2020 charges primarily reflect the discontinuation of certain equipment programs, and were not related to COVID-19. (7)Reflects the difference between the net carrying amount and the total purchase price of the redeemed notes. For additional information, see "Results of Operations-Other costs/(income)-Interest expense, net" below. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The net income and adjusted EBITDA margins represent net income or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and adjusted EBITDA help investors gain an understanding of the factors and trends affecting our ongoing cash earnings, from which capital investments are made and debt is serviced. However, EBITDA and adjusted EBITDA are not measures of financial performance or liquidity u...
+
+[Refer to Note 6]:
+(6)This reflects write-offs of leasehold improvements and other fixed assets. The 2020 charges primarily reflect the discontinuation of certain equipment programs, and were not related to COVID-19. (7)Reflects the difference between the net carrying amount and the total purchase price of the redeemed notes. For additional information, see "Results of Operations-Other costs/(income)-Interest expense, net" below. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The net income and adjusted EBITDA margins represent net income or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and adjusted EBITDA help investors gain an understanding of the factors and trends affecting our ongoing cash earnings, from which capital investments are made and debt is serviced. However, EBITDA and adjusted EBITDA are not measures of financial performance or liquidity u...
+
+[Refer to Note 11]:
+Note 11 - Debt The following is a summary of our debt and finance leases as of December 31, 2022 (in millions): ----------------------------------------- ------------------ ----- --------- ------ - --------- ------ ----------- ----------- -------------- ------------- ----- -------------- - -------------- ---------------------------- Unpaid Unused Net Carrying Value Principal Committed Contractual Contractual Current Long-Term Balance Amount (1) Interest Rates Maturity Date Recourse debt: 2024 Notes $ -- $ 37 $ 37 $ -- 2.00 % May 2024 Credit Agreement -- -- -- 2,266 Not applicable July 2023 Solar Bonds -- 7 7 -- 4.70-5.75 % March 2025 - January 2031 Total recourse debt -- 44 44 2,266 Non-recourse debt: Automotive Asset-backed Notes 984 613 1,603 -- 0.36-4.64 % December 2023-September 2025 Solar Asset-backed Notes 4 13 17 -- 4.80 % December 2026 Cash Equity Debt 28 359 397 -- 5.25-5.81 % July 2033-January 2035 Automotive Lease-backed Credit Facilities -- -- -- 151 Not applicable September 2024 Total non-recourse debt 1,016 985 2,017 151 Total debt 1,016 1,029 $ 2,061 $ 2,417 Finance leases 486 568 Total debt and finance leases $ 1,502 $ 1,597 The following is a summary of our debt and finance leases as of December 31, 2021 (in millions): ----------------------------------------- ------------------ - ----- --------- ------ - - --------- ------ ----------- - ----------- -------------- ------------- - ----- --------- -------------- - ------------------------- ----------------------------- Unpaid Unused Net Carrying Value Principal Committed Contractual Contractual Current Long-Term Balance Amount (1) Interest Rates Maturity Date Recourse debt: 2022 Notes $ 29 $ -- $ 29 $ -- 2.375 % March 2022 2024 Notes 1 89 91 -- 2.00 % May 2024 Credit Agreement -- 1,250 1,250 920 3.25 % July 2023 Solar Bonds 0 7 7 -- 4.00-5.75 % January 2022-January 2031 Total recourse debt 30 1,346 1,377 920 Non-recourse debt: Automotive Asset-backed Notes 1,007 1,706 2,723 -- 0.12-5.48 % September 2022-September 2025 So...
+
+[Refer to Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+[Refer to Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 83
+
+[Refer to Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 83
+
+[Refer to Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[Exhibit 22 to ]:
+[Reference to Exhibit 22]
+
+["), the 3.375% senior notes due 2031 (the "]:
+NOTE 3. ACQUISITIONS Figma On September 15, 2022, we entered into a definitive agreement under which we intend to acquire Figma, Inc. ("Figma") for approximately $20 billion, comprised of approximately half cash and half stock, subject to customary purchase price adjustments. Approximately 6 million additional restricted stock units will be granted to Figma's Chief Executive Officer and employees that will vest over four years subsequent to closing. The transaction is subject to regulatory approvals and customary closing conditions, and is expected to close in 2023. We will be required to pay Figma a reverse termination fee of $1 billion if the transaction fails to receive regulatory clearance, assuming all other closing conditions have been satisfied or waived, or if it fails to close within 18 months from September 15, 2022. Figma is a privately held company that provides a web-first collaborative product design platform. Following the closing, we intend to integrate Figma into our Digital Media reportable segment for financial reporting purposes. Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.24 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. During fiscal 2022, we recorded purchase accounting adjustments that were not material based on changes to management's estimates and assumptions primarily in regards to the total purchase price and its related impact to goodwill. The table below represents the final purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. --------------------------------------- ------ ----- --------------------...
+
+["), and the 1.750% senior notes due 2024 (the "]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+['s GILTI provisions, and an increase in gross unrecognized tax benefits, offset by a tax benefit related to international operations generating pre-tax book losses and domestic tax credits. This resulted in an annual effective tax rate of 12.5% for fiscal 2022.
+
+A valuation allowance has been established against deferred tax assets in the taxing jurisdictions where, based upon the positive and negative evidence available, it is more likely than not that the related deferred tax assets will not be realized. Realization is dependent upon generating future income in the taxing jurisdictions in which the operating loss carryovers, credit carryovers, depreciable tax basis and other deferred tax assets exist. Management reevaluates the ability to realize the benefit of these deferred tax assets on a quarterly basis. As of the end of fiscal years 2023 and 2022, the valuation allowance against domestic and foreign deferred tax assets was $35.9 million and $36.3 million, respectively.
+
+Refer to Note 13 of the Notes to Consolidated Financial Statements for additional information regarding income taxes.
+
+STOCK-BASED COMPENSATION
+
+Under Accounting Standards Codification ("]:
+Note 12 - Leases 81
+
+[" in the Consolidated Statement of Income.
+
+Refer to Note 6 of the Notes to Consolidated Financial Statements for additional information regarding our goodwill and intangible assets.
+
+Identified Intangible Assets. We amortize definite-lived intangible assets (including developed technology, customer relationships, technology licenses, backlog and trade names) over their estimated useful lives. Upon completion of development, in-process research and development ("]:
+(6)This reflects write-offs of leasehold improvements and other fixed assets. The 2020 charges primarily reflect the discontinuation of certain equipment programs, and were not related to COVID-19. (7)Reflects the difference between the net carrying amount and the total purchase price of the redeemed notes. For additional information, see "Results of Operations-Other costs/(income)-Interest expense, net" below. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The net income and adjusted EBITDA margins represent net income or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and adjusted EBITDA help investors gain an understanding of the factors and trends affecting our ongoing cash earnings, from which capital investments are made and debt is serviced. However, EBITDA and adjusted EBITDA are not measures of financial performance or liquidity u...
+
+[").
+
+The following presents summarized financial information for the Parent and the Guarantors on a combined basis as of and for the periods indicated, after eliminating (i) intercompany transactions and balances among the Parent and Guarantors, and (ii) equity earnings from, and investments in, any Non-Guarantor. The summarized financial information may not necessarily be indicative of the financial position and results of operations had the combined Parent and Guarantors operated independently from the Non-Guarantors.
+
+--------------------------------------- ------------- ------- ------------- --------- - -------
+Summarized Balance Sheets(in thousands) April 1, 2023 April 2, 2022
+ASSETS
+Current assets (1) $ 972,989 $ 771,528
+Non-current assets 2,398,287 2,624,454
+
+LIABILITIES
+Current liabilities $ 296,049 $ 241,674
+Long-term liabilities (2) 2,689,824 2,634,501
+
+(1) Includes net amounts due from Non-Guarantor subsidiaries of $379.5 million and $286.8 million as of April 1, 2023 and April 2, 2022, respectively.
+(2) Includes net amounts due to Non-Guarantor subsidiaries of $509.1 million and $433.5 million as of April 1, 2023 and April 2, 2022, respectively.
+
+-------------------------------------------- ----------- -------
+Summarized Statement of Income(in thousands) Fiscal 2023
+Revenue $ 889,727
+Gross profit (54,576)
+Net loss (372,643)
+
+CRITICAL ACCOUNTING ESTIMATES
+
+The preparation of consolidated financial statements requires management to use judgment and estimates. The level of uncertainty in estimates and assumptions increases with the length of time until the underlying transactions are completed. Actual results could materially differ from those estimates. The accounting policies that are most critical in the preparation of our consolidated financial statements are those that are both important to the presentation of our financial condition and results of operations and require significant judgment and estimates on the part of management. Our critical accounting policies are reviewed periodically with the Audit Committee of the Board of Directors. We also have other policies that we consider key accounting policies; however, these policies
+
+41
+
+Table of Contents
+typically do not require us to make estimates or judgments that are difficult or subjective. Refer to Note 1 of the Notes to Consolidated Financial Statements.
+
+Inventory Reserves. The valuation of inventory requires us to estimate obsolete or excess inventory. The determination of obsolete or excess inventory requires us to estimate the future demand for our products within specific time horizons, generally 12 to 24 months. The estimates of future demand that we use in the valuation of inventory reserves are the same as those used in our revenue forecasts and are also consistent with the estimates used in our manufacturing plans to enable consistency between inventory valuations and build decisions. Product-specific facts and circumstances reviewed in the inventory valuation process include a review of the customer base, market conditions and customer acceptance of our products and technologies, as well as an assessment of the selling price in relation to the product cost.
+
+These valuations and estimates require significant judgment. If actual results are not consistent with our estimates or assumptions, we may be exposed to an impairment charge that could materially adversely impact our consolidated financial position and results of operations.
+
+Historically, inventory reserves have fluctuated as new technologies have been introduced and customers’ demand has shifted.
+
+Refer to Note 3 of the Notes to Consolidated Financial Statements for additional information regarding our inventories.
+
+Property and Equipment. Periodically, we evaluate the period over which we expect to recover the economic value of our property and equipment, considering factors such as changes in machinery and equipment technology, our ability to re-use equipment across generations of process technology and historical usage trends. When we determine that the useful lives of assets are shorter or longer than we had originally estimated, we adjust the rate of depreciation to reflect the revised useful lives of the assets.
+
+We assess property and equipment for impairment when events or changes in circumstances indicate that the carrying value of the assets or the asset group may not be recoverable. Factors that we consider in deciding when to perform an impairment review include an adverse change in our use of the assets or an expectation that the assets will be sold or otherwise disposed. We assess the recoverability of the assets held and used by comparing the projected undiscounted net cash flows associated with the related asset or group of assets over their remaining estimated useful lives against their respective carrying amounts.  Assets identified as "]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+[" are recorded at the lesser of their carrying value or their fair market value less costs to sell.  Impairment, if any, is based on the excess of the carrying amount over the fair value of those assets.
+
+The process of evaluating property and equipment for impairment is highly subjective and requires significant judgment as we are required to make assumptions about items such as future demand for our products and industry trends. If actual results are not consistent with our estimates or assumptions, we may be exposed to an impairment charge that could materially adversely impact our consolidated financial position and results of operations.
+
+Refer to Note 4 of the Notes to Consolidated Financial Statements for additional information regarding our property and equipment.
+
+Business Acquisitions. We allocate the fair value of the purchase price to the assets acquired and liabilities assumed based on their estimated fair value. The excess of the purchase price over the fair values of the identifiable assets and liabilities is recorded to goodwill. Goodwill is assigned to the reporting unit that is expected to benefit from the synergies of the business combination.
+
+A number of significant assumptions, estimates and judgments are used in determining the fair value of acquired assets and liabilities, particularly with respect to the intangible assets acquired. The valuation of intangible assets requires the use of valuation techniques such as the income approach. The income approach includes management’s estimation of future cash flows (including expected revenue growth rates and profitability), the underlying product or technology life cycles and the discount rates applied to future cash flows.
+
+42
+
+Table of Contents
+Judgment is also required in estimating the fair values of deferred tax assets and liabilities, uncertain tax positions and tax-related valuation allowances, which are initially estimated as of the acquisition date, as well as inventory, property and equipment, pre-existing liabilities or legal claims, deferred revenue and contingent consideration, each as may be applicable.
+
+While we use our best estimates and assumptions to accurately value assets acquired and liabilities assumed at the acquisition date as well as contingent consideration, where applicable, our estimates are inherently uncertain and subject to refinement. As a result, during the measurement period, which may be up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. After the measurement period, any purchase price adjustments are recorded to the income statement.
+
+Refer to Note 5 of the Notes to Consolidated Financial Statements for additional information regarding our business acquisitions.
+
+Goodwill Impairment Testing. Goodwill is not amortized, but rather is reviewed for impairment at the reporting unit level on the first day of our fourth quarter of each fiscal year, or when there is evidence that events or changes in circumstances indicate the carrying amount of the goodwill may not be recovered. Under ASC 350, "]:
+(4)The year-over-year increases in rental locations and employees include the impact of the December 2022 acquisition of assets of Ahern Rentals, Inc. ("Ahern Rentals"), which is discussed in note 4 to the consolidated financial statements. (5)As discussed below (see "Industry Overview and Economic Outlook"), North American equipment rental industry revenue is based on industry estimates from the American Rental Association ("ARA"). As discussed above, we completed the acquisition of Ahern Rentals in December 2022. Estimated North American market share as of December 31, 2022 includes the standalone, pre-acquisition revenue of Ahern Rentals. Estimated North American market share as of December 31, 2021 does not include the pre-acquisition revenue of Ahern Rental because the acquisition was completed in 2022. If the pre-acquisition revenue of Ahern Rental was included for 2021, estimated North American market share as of December 31, 2021 would have been approximately 16 percent. Global Economic Conditions and COVID-19 Our operations are impacted by global economic conditions, including inflation, increased interest rates and supply chain constraints, and we take actions to modify our plans to address such economic conditions. In 2022, for example, we intentionally held back on sales of rental equipment to ensure we had sufficient capacity for our customers. In 2022, revenue from sales of rental equipment was largely flat year-over-year, however the number of units sold decreased approximately 17 percent year-over-year, as we held on to fleet to serve strong customer demand and to ensure greater fleet availability in the event industry supply chain challenges persist or worsen. While the volume of sales of rental equipment decreased year-over-year, gross margin from sales of rental equipment increased 14.2 percentage points, which primarily reflected strong pricing and improved channel mix. To date, our supply chain disruptions have been limited, but we may experienc...

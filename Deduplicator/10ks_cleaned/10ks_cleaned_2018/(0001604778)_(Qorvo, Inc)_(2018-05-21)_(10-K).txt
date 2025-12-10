@@ -1,0 +1,730 @@
+================================================================================
+CIK: 0001604778
+Company Name: Qorvo, Inc
+Filing Date: 2018-05-21
+Form Type: 10-K
+Extraction Date: 2025-08-30 17:33:53
+================================================================================
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+This Annual Report on Form 10-K includes "forward-looking statements" within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, but are not limited to, statements about our plans, objectives, representations and contentions, and are not historical facts and typically are identified by use of terms such as "may," "will," "should," "could," "expect," "plan," "anticipate," "believe," "estimate," "predict," "potential," "continue" and similar words, although some forward-looking statements are expressed differently. You should be aware that the forward-looking statements included herein represent management's current judgment and expectations, but our actual results, events and performance could differ materially from those expressed or implied by forward-looking statements. We do not intend to update any of these forward-looking statements or publicly announce the results of any revisions to these forward-looking statements, other than as is required under U.S. federal securities laws. Our business is subject to numerous risks and uncertainties, including those relating to fluctuations in our operating results, our dependence on a few large customers for a substantial portion of our revenue, a loss of revenue if contracts with the United States government or defense and aerospace contractors are canceled or delayed, our ability to implement innovative technologies, our ability to bring new products to market and achieve design wins, the efficient and successful operation of our wafer fabrication and other facilities, our ability to adjust production capacity in a timely fashion in response to changes in demand for our products, variability in manufacturing yields, industry overcapacity, inaccurate product forecasts and corresponding inventory and manufacturing costs, dependence on third parties, our dependence on international sales and operations, our ability to attract and retain skilled personnel and develop leaders, the possibility that future acquisitions may dilute our stockholders’ ownership and cause us to incur debt and assume contingent liabilities, fluctuations in the price of our common stock, our ability to protect our intellectual property, claims of intellectual property infringement and other lawsuits, security breaches and other similar disruptions compromising our information, and the impact of government and stringent environmental regulations. These and other risks and uncertainties, which are described in more detail under Item 1A, "Risk Factors" in this Annual Report on Form 10-K and in other reports and statements that we file with the SEC, could cause actual results and developments to be materially different from those expressed or implied by any of these forward-looking statements.
+
+The following discussion should be read in conjunction with, and is qualified in its entirety by reference to, our audited consolidated financial statements, including the notes thereto.
+
+OVERVIEW
+
+Company
+
+On February 22, 2014, RFMD and TriQuint entered into the Merger Agreement, which provided for the combination of RFMD and TriQuint in a merger of equals and resulted in the Business Combination under a new holding company named Qorvo, Inc. The transactions contemplated by the Merger Agreement were consummated on January 1, 2015.
+
+Qorvo® is a product and technology leader at the forefront of the growing global demand for always-on broadband connectivity. We combine a broad portfolio of RF solutions, highly differentiated semiconductor technologies, deep systems-level expertise and scale manufacturing to supply a diverse group of customers in expanding markets, including smartphones and other mobile devices, defense and aerospace, Wi-Fi customer premises equipment, cellular base stations, optical networks, automotive connectivity, and smart home applications. Within these markets, our products enable a broad range of leading-edge applications – from very-high-power wired and wireless infrastructure solutions to ultra-low-power smart home solutions. Our products and technologies help transform how people around the world access their data, transact commerce, and interact with their communities.
+
+Qorvo employs more than 8,300 people. We have world-class manufacturing facilities, and our fabrication facility in Richardson, Texas, is a U.S. DoD-accredited ‘Trusted Source’ (Category 1A) for GaAs, GaN and BAW technologies. Our design and manufacturing expertise covers many semiconductor process technologies, which we source both internally and through external suppliers. Our primary wafer fabrication facilities are in Florida, North Carolina, Oregon and Texas, and our primary assembly and test facilities are in China, Costa Rica, Germany and Texas. We also operate design, sales and manufacturing facilities throughout Asia, Europe and North America.
+
+35
+
+Table of Contents
+
+Business Segments
+
+We design, develop, manufacture and market our products to leading U.S. and international OEMs and ODMs in the following operating segments:
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Mobile Products (MP) - MP is a leading global supplier of cellular RF and Wi-Fi solutions into a variety of mobile devices, including smartphones, notebook computers, wearables, tablets, and cellular-based applications for the IoT. Mobile device manufacturers and mobile network operators are adopting new technologies to address the growing demand for data-intensive, increasingly cloud-based distributed applications and for mobile devices with smaller form factors, improved signal quality, less heat and longer talk and standby times. New wireless communications standards are being deployed to utilize available spectrum more efficiently. Carrier aggregation is being implemented to support wider bandwidths, increase data rates and improve network performance. These trends increase the complexity of smartphones, require more RF content and place a premium on performance, integration, systems-level expertise, and product and technology portfolio breadth, all of which are MP strengths. We offer a comprehensive product portfolio of BAW and SAW filters, PAs, LNAs, switches, multimode multi-band PAs and transmit modules, RF power management ICs, diversity receive modules, antenna switch modules, antenna tuning and control solutions, modules incorporating PADs and modules incorporating S-PADs.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Infrastructure and Defense Products (IDP) - IDP is a leading global supplier of RF solutions with a diverse portfolio of solutions that "connect and protect," spanning communications and defense applications. These applications include high performance defense systems such as radar, electronic warfare and communication systems, Wi-Fi customer premises equipment for home and work, high speed connectivity in LTE and 5G base stations, cloud connectivity via data center communications and telecom transport, automotive connectivity and other IoT, including smart home solutions. Our IDP products include GaAs and GaN PAs, LNAs, switches, CMOS system-on-a-chip solutions, premium BAW and SAW filter solutions and various multi-chip and hybrid assemblies.
+
+As of March 31, 2018, our reportable segments are MP and IDP. These business segments are based on the organizational structure and information reviewed by our Chief Executive Officer, who is our chief operating decision maker ("CODM"), and are managed separately based on the end markets and applications they support. The CODM allocates resources and evaluates the performance of each operating segment primarily based on operating income and operating income as a percentage of revenue. For financial information about the results of our operating segments for each of the last three fiscal years, see Note 16 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report.
+
+Fiscal 2018 Management Summary
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Our revenue decreased 1.9% in fiscal 2018 to $2,973.5 million compared to $3,032.6 million in fiscal 2017, primarily due to lower demand for our cellular RF solutions in support of customers based in China, partially offset by higher demand for our defense and aerospace and Wi-Fi products as well as higher demand for our cellular RF solutions in support of our largest end customer.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Our gross margin for fiscal 2018 was 38.6% compared to 37.4% for fiscal 2017. Gross margin was positively impacted by improved manufacturing and test yields on certain high-volume products, lower depreciation, favorable changes in product mix within our cellular RF solutions and growth in demand for our IDP products. This increase in gross margin was partially offset by lower factory utilization, average selling price erosion and higher intangible amortization.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Our operating income was $70.3 million in fiscal 2018 compared to $88.1 million in fiscal 2017. This decrease was primarily due to one-time restructuring charges, partially offset by lower personnel-related costs as well as cost savings resulting from restructuring initiatives described below and ongoing efforts to optimize our product portfolio.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• During fiscal 2018, we initiated restructuring actions to improve operating efficiencies. As a result of these actions, we recorded approximately $18.3 million of employee termination benefits and adjusted the carrying value of certain held for sale assets located in China and the U.S. to fair market value (resulting in impairment charges totaling approximately $46.3 million).
+
+36
+
+Table of Contents
+
+- ----------------------------------------------------------------------------------------------------------------------------
+• Our net loss per diluted share was $0.32 for fiscal 2018 as compared to net loss per diluted share of $0.13 for fiscal 2017.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We generated positive cash flow from operations of $852.5 million for fiscal 2018 as compared to $776.8 million for fiscal 2017. This year-over-year increase was primarily due to changes in working capital. The Tax Act did not have an impact on our fiscal 2018 cash flows from operating activities.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Capital expenditures totaled $269.8 million in fiscal 2018, as compared to $552.7 million in fiscal 2017. The comparable prior year period expenditures were related to projects that increased premium filter capacity and manufacturing cost saving initiatives.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The Tax Act, enacted during the third quarter of fiscal 2018, lowers the U.S. federal corporate income tax rate from 35% to 21% as of January 1, 2018, and implements a territorial tax system that will allow the repatriation of future foreign earnings without incurring additional U.S. federal income tax. This tax law change resulted in a provisional tax benefit of $39.1 million to reduce the U.S. deferred tax assets and liabilities and a provisional tax expense of $116.4 million for a one-time transitional deemed repatriation of our historical unremitted foreign earnings.
+
+- -------------------------------------------------------------------------------------------------------------------------
+• During fiscal 2018, we repurchased approximately 2.9 million shares of our common stock for approximately $219.9 million.
+
+RESULTS OF OPERATIONS
+
+Consolidated
+
+The following table presents a summary of our results of operations for fiscal years 2018, 2017 and 2016:
+
+------------------------------------ --------- --------- ----------- ---- ------- - ----------- - --------- ---- ----------- ----- --------- ------ --------- --- ----- -
+
+ 2018 2017 2016
+(In thousands, except percentages) Dollars % ofRevenue Dollars % ofRevenue Dollars % ofRevenue
+Revenue $ 2,973,536 100.0 % $ 3,032,574 100.0 % $ 2,610,726 100.0 %
+Cost of goods sold 1,826,570 61.4 1,897,062 62.6 1,561,173 59.8
+Gross profit 1,146,966 38.6 1,135,512 37.4 1,049,553 40.2
+Research and development 445,103 15.0 470,836 15.5 448,763 17.2
+Selling, general, and administrative 527,751 17.7 545,588 18.0 534,099 20.4
+Other operating expense 103,830 3.5 31,029 1.0 54,723 2.1
+Operating income $ 70,282 2.4 % $ 88,059 2.9 % 11,968 0.5 %
+
+Revenue
+
+Our overall revenue decreased $59.0 million, or 1.9%, in fiscal 2018 as compared to fiscal 2017, primarily due to lower demand for our cellular RF solutions in support of customers based in China, partially offset by higher demand for our defense and aerospace and Wi-Fi products as well as higher demand for our cellular RF solutions in support of our largest end customer.
+
+Our overall revenue increased $421.8 million, or 16.2%, in fiscal 2017 as compared to fiscal 2016, primarily due to higher demand for our cellular RF solutions in support of marquee smartphones and customers based in China and higher sales of our wireless infrastructure, defense and aerospace and Wi-Fi products.
+
+We provided our products to our largest end customer, Apple, through sales to multiple contract manufacturers, which in the aggregate accounted for 36%, 34% and 37% of total revenue in fiscal years 2018, 2017 and 2016, respectively. Huawei accounted for approximately 8%, 11% and 12% of our total revenue in fiscal years 2018, 2017
+
+37
+
+Table of Contents
+
+and 2016, respectively. These customers primarily purchase cellular RF and Wi-Fi solutions offered by our MP segment for a variety of mobile devices, including smartphones, notebook computers, wearables, tablets and cellular-based applications for the IoT.
+
+International shipments amounted to $2,449.1 million in fiscal 2018 (approximately 82% of revenue) compared to $2,565.5 million in fiscal 2017 (approximately 85% of revenue) and $2,304.4 million in fiscal 2016 (approximately 88% of revenue). Shipments to Asia totaled $2,329.3 million in fiscal 2018 (approximately 78% of revenue) compared to $2,441.1 million in fiscal 2017 (approximately 81% of revenue) and $2,162.1 million in fiscal 2016 (approximately 83% of revenue). We expect our international and Asia shipments will remain relatively stable at these historical levels.
+
+Gross Margin
+
+Our overall gross margin for fiscal 2018 was 38.6% as compared to 37.4% in fiscal 2017. The increase was primarily due to improved manufacturing and test yields on certain high-volume parts, lower depreciation, price erosion and higher intangible amortization.
+
+Our overall gross margin for fiscal 2017 was 37.4% as compared to 40.2% in fiscal 2016. Gross margin was adversely impacted in fiscal 2017 by an unfavorable change in product mix towards lower margin low-band PAD modules, product cost reductions lagging normal average selling price erosion, lower factory utilization and unfavorable inventory adjustments primarily due to lower than expected manufacturing and assembly yields on the low-band PAD modules in the second quarter of fiscal 2017. The lower yield was associated with the device packaging, not device functionality; however, the impact was significant because the issue was identified late in the production process. These adverse factors were partially offset by lower intangible amortization, stock-based compensation and other costs related to the Business Combination in fiscal 2017 as compared to fiscal 2016.
+
+Operating Expenses
+
+Research and Development
+
+In fiscal 2018, R&D spending decreased $25.7 million, or 5.5%, as compared to fiscal 2017, primarily due to lower personnel-related costs as well as cost savings resulting from the ongoing efforts to optimize our product portfolio and the restructuring actions initiated in fiscal 2018.
+
+In fiscal 2017, R&D spending increased $22.1 million, or 4.9%, as compared to fiscal 2016, primarily driven by costs associated with the design and development of high-performance filter-based products and GaN-based technologies and products. The increased R&D expense was partially offset by lower stock-based compensation expense.
+
+Selling, General and Administrative
+
+In fiscal 2018, selling, general and administrative expense decreased $17.8 million, or 3.3%, as compared to fiscal 2017, primarily due to lower personnel-related costs as well as cost savings resulting from the restructuring actions initiated in fiscal 2018.
+
+In fiscal 2017, selling, general, and administrative expense increased $11.5 million, or 2.2%, as compared to fiscal 2016, primarily due to higher personnel-related costs, partially offset by lower stock-based compensation expense.
+
+Other Operating Expense
+
+In fiscal 2018, other operating expense was $103.8 million. In fiscal 2018, we initiated restructuring actions to improve operating efficiencies, and, as a result of these actions, we recorded approximately $18.3 million of employee termination benefits and adjusted the carrying value of certain held for sale assets located in China and the U.S. to fair market value (resulting in impairment charges totaling approximately $46.3 million, pursuant to Accounting Standards Codification ("ASC") 360, "Property, Plant, and Equipment"). In fiscal 2018, we also recorded integration costs and restructuring costs of $6.2 million and $2.6 million, respectively, associated with the
+
+38
+
+Table of Contents
+
+Business Combination, as well as $24.3 million of start-up costs related to new processes and operations in both existing and new facilities.
+
+In fiscal 2017, other operating expense was $31.0 million, including integration costs of $16.9 million and restructuring costs of $2.0 million associated with the Business Combination, as well as $9.7 million of start-up costs related to new processes and operations in both existing and new facilities.
+
+In fiscal 2016, other operating expense was $54.7 million, including integration costs of $26.5 million and restructuring costs of $10.1 million (including stock-based compensation) associated with the Business Combination, as well as $14.1 million of start-up costs related to new processes and operations in both existing and new facilities.
+
+Operating Income
+
+Our overall operating income was $70.3 million for fiscal 2018 as compared to $88.1 million for fiscal 2017. This decrease was primarily due to one-time restructuring charges, partially offset by lower personnel-related costs as well as cost savings resulting from the restructuring initiative and ongoing efforts to optimize our product portfolio.
+
+Our overall operating income was $88.1 million for fiscal 2017 as compared to $12.0 million for fiscal 2016. This increase was primarily due to higher gross profit from higher revenue and lower intangible amortization, stock-based compensation and other costs related to the Business Combination, partially offset by lower gross margin.
+
+Segment Product Revenue, Operating Income and Operating Income as a Percentage of Revenue
+
+Mobile Products
+
+---------------------------------- ----------- --------- ---- ---- ---- --------- ---- - - ---------
+
+ Fiscal Year
+(In thousands, except percentages) 2018 2017 2016
+Revenue $ 2,181,161 $ 2,384,041 $ 2,083,334
+Operating income $ 549,574 $ 554,001 $ 591,751
+Operating income as a % of revenue 25.2 % 23.2 % 28.4 %
+
+MP revenue decreased $202.9 million, or 8.5%, in fiscal 2018 as compared to fiscal 2017 primarily due to lower demand for our cellular RF solutions in support of customers based in China, partially offset by higher demand for our cellular RF solutions in support of our largest end customer.
+
+The increase in MP operating income as a percentage of revenue in fiscal 2018 as compared to fiscal 2017 was primarily due to higher gross margin and lower operating expense. Gross margin increased primarily due to favorable changes in product mix within our cellular RF solutions, lower depreciation and improved manufacturing and test yields on certain high-volume parts. This increase in gross margin was partially offset by average selling price erosion and lower factory utilization. Operating expense decreased primarily due to lower personnel-related costs as well as cost savings resulting from restructuring actions that were initiated during fiscal 2018 to improve operating efficiencies and ongoing efforts to optimize our product portfolio.
+
+MP revenue increased $300.7 million, or 14.4%, in fiscal 2017 as compared to fiscal 2016, primarily due to higher demand for our cellular RF solutions in support of marquee smartphones and customers based in China.
+
+The decrease in MP operating income as a percentage of revenue in fiscal 2017 as compared to fiscal 2016 was primarily due to lower gross margin. lower factory utilization, and unfavorable inventory adjustments, primarily due to lower than expected manufacturing assembly yields on the low-band PAD modules in the second quarter of fiscal 2017. The lower yield was associated with the device packaging, not device functionality, however, the impact was significant because the issue was identified late in the production process.
+
+39
+
+Table of Contents
+
+Infrastructure and Defense Products
+
+---------------------------------- ----------- ------- ---- ---- ---- ------- ---- - - -------
+
+ Fiscal Year
+(In thousands, except percentages) 2018 2017 2016
+Revenue $ 788,495 $ 644,653 $ 523,512
+Operating income $ 235,719 $ 152,539 $ 108,370
+Operating income as a % of revenue 29.9 % 23.7 % 20.7 %
+
+IDP revenue increased $143.8 million, or 22.3%, in fiscal 2018 as compared to fiscal 2017, primarily due to higher demand for our defense and aerospace and Wi-Fi products.
+
+IDP operating income increased $83.2 million, or 54.5%, in fiscal 2018 as compared to fiscal 2017, primarily due to higher demand for our defense and aerospace and Wi-Fi products.
+
+IDP revenue increased $121.1 million, or 23.1%, in fiscal 2017 as compared to fiscal 2016, primarily due to higher sales of our wireless infrastructure, defense and aerospace and Wi-Fi products.
+
+The increase in IDP operating income as a percentage of revenue in fiscal 2017 as compared to fiscal 2016 was driven by higher gross profit from increased revenue, favorable factory utilization and lower unfavorable inventory adjustments. This increase in gross profit was partially offset by higher personnel-related expenses.
+
+See Note 16 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report for a reconciliation of segment operating income to the consolidated operating income for fiscal years 2018, 2017 and 2016.
+
+Change in Estimate
+
+During the first quarter of fiscal 2018, we changed our accounting estimate for the expected useful lives of certain machinery and equipment. We evaluated our current asset base and reassessed the estimated useful lives of certain machinery and equipment in connection with the implementation of several capital projects, including the migration of certain SAW processes from 4-inch to 6-inch toolsets and certain BAW processes from 6-inch to 8-inch toolsets. Based on our ability to re-use equipment across generations of process technologies and historical usage trends, we determined that the expected useful lives for certain machinery and equipment should be increased by up to three years to reflect more closely the estimated economic lives of those assets. This change in estimate was applied prospectively effective for the first quarter of fiscal 2018 and resulted in a decrease in depreciation expense of $59.7 million for fiscal 2018. This decrease in depreciation expense for fiscal 2018 resulted in the following: (1) an increase in income from operations of $47.4 million; (2) an increase in net income of $44.1 million; (3) an improvement in earnings per share of $0.34; and (4) a reduction in inventory of $12.3 million.
+
+OTHER (EXPENSE) INCOME AND INCOME TAXES
+
+---------------------- ----------- ------- ---- ------- ---- ------- ------- - - ------- -
+
+ Fiscal Year
+(In thousands) 2018 2017 2016
+Interest expense $ (59,548 ) $ (58,879 ) $ (23,316 )
+Interest income 7,017 1,212 2,068
+Other (expense) income (606 ) (3,087 ) 6,418
+Income tax expense (57,433 ) (43,863 ) (25,983 )
+
+Interest expense
+
+We recognized $70.5 million, $69.9 million and $25.8 million of interest expense in fiscal years 2018, 2017 and 2016, respectively, primarily related to the $1.0 billion of senior notes that were issued in the third quarter of fiscal 2016. Interest expense in the preceding table for fiscal years 2018, 2017 and 2016 is net of capitalized interest of $13.6 million, $13.6 million and $5.2 million, respectively.
+
+40
+
+Table of Contents
+
+Other (expense) income
+
+Other expense in fiscal 2018 of approximately $0.6 million was related primarily to a net loss from foreign currency offset by a gain on investments. The foreign currency loss was driven primarily by the depreciation of the U.S. dollar against the Euro and Singapore Dollar as well as by the changes in the local currency denominated balance sheet accounts.  Other expense in fiscal 2017 of approximately $3.1 million was related primarily to a net loss from foreign currency. The foreign currency loss was driven primarily by the appreciation of the U.S. dollar against the Renminbi as well as by the changes in the local currency denominated balance sheet accounts. In fiscal 2016, we recognized other income primarily due to a gain from the sale of equity securities.
+
+Income tax expense
+
+Income tax expense for fiscal 2018 was $57.4 million, which was primarily comprised of tax expense related to the net $77.3 million provisional impact of the Tax Act, international operations generating pre-tax book income and an increase in gross unrecognized tax benefits, offset by tax benefits related to tax credits and domestic and international operations generating pre-tax book losses. For fiscal 2018, this resulted in an annual effective tax rate of 335.0%.
+The impact of the Tax Act resulted in a provisional net tax expense of $77.3 million in fiscal 2018. This was comprised of a provisional transitional repatriation tax expense of $116.4 million, offset by a provisional deferred tax benefit of $39.1 million from the remeasurement of U.S. deferred tax assets and liabilities. Both the tax charge and the tax benefit represent provisional amounts based on current best estimates.
+Income tax expense for fiscal 2017 was $43.9 million, which was primarily comprised of tax expense related to domestic and international operations generating pre-tax book income and an increase in gross unrecognized tax benefits, offset by tax benefits related to tax credits and international operations generating pre-tax book losses. For fiscal 2017, this resulted in an annual effective tax rate of 160.6%.
+Income tax expense for fiscal 2016 was $26.0 million, which was primarily comprised of tax expense related to international operations, an increase in gross unrecognized tax benefits and a $25.1 million increase in the valuation allowance against domestic state tax net operating loss and credit deferred tax assets and foreign net operating loss deferred tax assets, offset by tax benefits arising from domestic operations and tax credits. For fiscal 2016, this resulted in an annual effective tax rate of (908.0)%.
+A valuation allowance has been established against deferred tax assets in the taxing jurisdictions where, based upon the positive and negative evidence available, it is more likely than not that the related deferred tax assets will not be realized. Realization is dependent upon generating future income in the taxing jurisdictions in which the operating loss carryovers, credit carryovers, depreciable tax basis, and other deferred tax assets exist. Management reevaluates the ability to realize the benefit of these deferred tax assets on a quarterly basis. As of the end of fiscal years 2018, 2017 and 2016, the valuation allowance against domestic and foreign deferred tax assets was $42.8 million, $33.1 million, and $34.7 million, respectively.
+See Note 12 of the Consolidated Financial Statements in Part II, Item 8 of this report for additional information regarding income taxes.
+
+STOCK-BASED COMPENSATION
+
+Under Financial Accounting Standards Board ("FASB") ASC 718, “Compensation – Stock Compensation,” stock-based compensation cost is measured at the grant date, based on the estimated fair value of the award using an option pricing model for stock options (Black-Scholes) and market price for restricted stock units, and is recognized as expense over the employee's requisite service period.
+
+As of March 31, 2018, total remaining unearned compensation cost related to unvested restricted stock units and options was $72.8 million, which will be amortized over the weighted-average remaining service period of approximately 1.2 years.
+
+41
+
+Table of Contents
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash generated by operations is our primary source of liquidity. As of March 31, 2018, we had working capital of approximately $1,402.5 million, including $926.0 million in cash and cash equivalents, compared to working capital of $1,042.8 million, including $545.5 million in cash and cash equivalents, as of April 1, 2017.
+
+Our $926.0 million of total cash and cash equivalents as of March 31, 2018, includes approximately $292.9 million held by our foreign subsidiaries, of which $190.8 million is held by Qorvo International Pte. Ltd. in Singapore. If the undistributed earnings of our foreign subsidiaries are needed in the U.S., we may be required to accrue and pay state income and/or foreign local withholding taxes to repatriate these earnings. Our current plans are to permanently reinvest the undistributed earnings of our foreign subsidiaries, except for the earnings of Qorvo International Pte. Ltd.
+
+Credit Agreement
+
+On December 5, 2017, we and certain of our material domestic subsidiaries (the “Guarantors”) entered into a five-year unsecured senior credit facility with Bank of America, N.A., as administrative agent, swing line lender, and L/C issuer, and a syndicate of lenders (the “Credit Agreement”). On the same date, in connection with the execution of the Credit Agreement, we terminated our prior credit agreement, dated April 7, 2015.
+
+The Credit Agreement includes a senior delayed draw term loan of up to $400.0 million (the "Term Loan") and a $300.0 million revolving line of credit (the "Revolving Facility", together with the Term Loan, the "Credit Facility"). In December 2017, $100.0 million of the Term Loan was funded and this amount was subsequently repaid in March 2018. The remainder of the Term Loan is available, at our discretion, in up to two draws prior to June 5, 2018. The Revolving Facility includes a $25.0 million sublimit for the issuance of standby letters of credit and a $10.0 million sublimit for swing line loans. We may request at any time that the Credit Facility be increased by an amount not to exceed $300.0 million. The Credit Facility is available to finance working capital, capital expenditures and other corporate purposes. Our obligations under the Credit Agreement are jointly and severally guaranteed by the Guarantors. Outstanding amounts are due in full on the maturity date of December 5, 2022 (with amounts borrowed under the swing line option due in full no later than ten business days after such loan is made). We had no outstanding amounts under the Credit Facility as of March 31, 2018.
+
+See Note 8 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report for further information about the Credit Agreement, including applicable interest rates and financial covenants. As of March 31, 2018, we were in compliance with all the financial covenants under the Credit Agreement.
+
+Stock Repurchases
+
+On November 5, 2015, our Board of Directors authorized a share repurchase program to repurchase up to $1.0 billion of our outstanding common stock through November 4, 2016. On February 16, 2016, as part of the $1.0 billion share repurchase program, we entered into variable maturity accelerated share repurchase ("ASR") agreements (a $250.0 million collared agreement and a $250.0 million uncollared agreement) with Bank of America, N.A.  For the upfront payment of $500.0 million, in fiscal 2016, we received an aggregate of 10.0 million shares of our common stock under the ASR agreements. Final settlements of the ASR agreements were completed during the first quarter of fiscal 2017 with 0.4 million shares received resulting in a total of 10.4 million shares of our common stock repurchased under the ASR agreements.
+
+On November 3, 2016, our Board of Directors authorized a share repurchase program to repurchase up to $500.0 million of our outstanding stock. Under this program, share repurchases are made in accordance with applicable securities laws on the open market or in privately negotiated transactions. The extent to which we repurchase our shares, the number of shares and the timing of any repurchases will depend on general market conditions, regulatory requirements, alternative investment opportunities and other considerations. The program does not require us to repurchase a minimum number of shares, does not have a fixed term, and may be modified, suspended or terminated at any time without prior notice. This program included approximately $150.0 million authorized on the $1.0 billion repurchase program that expired November 4, 2016.
+
+We repurchased 2.9 million shares, 4.1 million shares (inclusive of the 0.4 million shares received in final settlement of the ASR agreement) and 24.3 million shares (inclusive of the 10.0 million shares initially received under the ASR
+
+42
+
+Table of Contents
+
+agreement) of our common stock during fiscal years 2018, 2017 and 2016, respectively, at an aggregate cost of $219.9 million, $209.4 million and $1,300.0 million, respectively, in accordance with the share repurchase programs described above. As of March 31, 2018, $162.1 million remains available for future repurchases under our current share repurchase program.
+
+Cash Flows from Operating Activities
+
+Operating activities in fiscal 2018 provided cash of $852.5 million, compared to $776.8 million in fiscal 2017. This year-over-year increase was primarily due to changes in working capital. The Tax Act did not have an impact on our fiscal 2018 cash flows from operating activities.
+
+Operating activities in fiscal 2017 provided cash of $776.8 million, compared to $687.9 million in fiscal 2016. This year-over-year increase was due primarily to improvement in working capital, partially offset by lower adjustments for non-cash items. The adjustments for non-cash items were lower due primarily to stock-based compensation expense and deferred taxes, partially offset by higher depreciation.
+
+Cash Flows from Investing Activities
+
+Net cash used in investing activities in fiscal 2018 was $277.4 million, compared to $490.3 million in fiscal 2017. This year-over-year decrease in cash used in investing activities was primarily due to capital expenditures incurred in fiscal 2017 that increased premium filter capacity and manufacturing cost saving initiatives.
+
+Net cash used in investing activities in fiscal 2017 was $490.3 million, compared to $278.7 million in fiscal 2016. This increase was primarily due to higher capital expenditures related to projects for increasing premium filter capacity and manufacturing cost savings initiatives and the acquisition of GreenPeak Technologies, B.V. ("GreenPeak"), partially offset by higher net proceeds from available-for-sale securities.
+
+Cash Flows from Financing Activities
+
+Net cash used in financing activities in fiscal 2018 was $196.8 million, compared to $165.7 million in fiscal 2017. This year-over-year increase was primarily due to higher share repurchase activity, higher tax withholding paid on behalf of employees for restricted stock units and debt payments.
+
+Net cash used in financing activities in 2017 was $165.7 million, compared to $283.0 million in fiscal 2016. This decrease was primarily due to lower share repurchase activity, partially offset by lower net proceeds from borrowings.
+
+Our future capital requirements may differ materially from those currently anticipated and will depend on many factors, including market acceptance of and demand for our products, acquisition opportunities, technological advances and our relationships with suppliers and customers. Based on current and projected levels of cash flow from operations, coupled with our existing cash and cash equivalents and our Credit Facility, we believe that we have sufficient liquidity to meet both our short-term and long-term cash requirements. However, if there is a significant decrease in demand for our products, or if our revenue grows faster than we anticipate, operating cash flows may be insufficient to meet our needs. If existing resources and cash from operations are not sufficient to meet our future requirements or if we perceive conditions to be favorable, we may seek additional debt or equity financing. Additional equity or debt financing could be dilutive to holders of our common stock. Further, we cannot be sure that additional equity or debt financing, if required, will be available on favorable terms, if at all.
+
+IMPACT OF INFLATION
+
+We do not believe that the effects of inflation had a significant impact on our revenue or operating income during fiscal years 2018, 2017 and 2016.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+As of March 31, 2018, we had no off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of SEC Regulation S-K.
+
+43
+
+Table of Contents
+
+CONTRACTUAL OBLIGATIONS
+
+The following table summarizes our significant contractual obligations and commitments (in thousands) as of March 31, 2018, and the effect such obligations are expected to have on our liquidity and cash flows in future periods.
+
+---------------------------------------------- ---------------------- --------- ----------- ------- ---------------- ------- ---------------- -------------------------- ------- --------- ------- - ---------
+
+ Payments Due By Period
+ Total Payments Fiscal 2019 Fiscal 2020-2021 Fiscal 2022-2023 Fiscal 2024 and thereafter
+Capital commitments (1) $ 39,793 $ 39,200 $ — $ 593 $ —
+Long-term debt obligations (2) 1,480,132 68,396 136,793 136,793 1,138,150
+Capital lease (3) 52,431 — 2,094 2,094 48,243
+Operating leases 68,582 12,490 21,898 15,740 18,454
+Other purchase obligations and commitments (4) 290,626 283,452 7,174 — —
+Cross-licensing liability (5) 10,340 2,540 4,800 3,000 —
+Deferred compensation (6) 14,284 966 1,397 887 11,034
+Total $ 1,956,188 $ 407,044 $ 174,156 $ 159,107 $ 1,215,881
+
+(1) Capital commitments represent obligations for the construction or purchase of property and equipment. They were not recorded as liabilities on our Consolidated Balance Sheet because we had not received the related goods or services as of March 31, 2018.
+(2) Long-term debt obligations represent future cash payments of principal and interest over the life of the Notes, including anticipated interest payments not recorded as liabilities on our Consolidated Balance Sheet as of March 31, 2018. Debt obligations are classified based on their stated maturity date, and any future redemptions would impact our cash payments. See Note 8 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report for further information.
+(3) The capital lease obligation relates to a lease that was signed in the fourth quarter of fiscal 2018. This lease will allow us to consolidate several leased facilities as well as provide additional manufacturing space in Beijing, China. The lease is not recorded on our Consolidated Balance Sheet as of March 31, 2018, because the lease term is not expected to commence until fiscal 2020.
+(4) Other purchase obligations and commitments include payments due under various contracts as well as agreements to purchase materials and manufacturing services. They are not recorded as liabilities on our Consolidated Balance Sheet because we had not received the related goods or services as of March 31, 2018.
+(5) The cross-licensing liability represents payables under a cross-licensing agreement and are included in "Accrued liabilities" and "Other long-term liabilities" in the Consolidated Balance Sheet as of March 31, 2018.
+(6) Commitments for deferred compensation represent the liability under our Non-Qualified Deferred Compensation Plan. See Note 9 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report for further information.
+
+Other Contractual Obligations
+
+As of March 31, 2018, in addition to the amounts shown in the contractual obligations table above, we had $127.4 million of unrecognized income tax benefits and accrued interest, of which $18.3 million had been recorded as a liability.  We are uncertain as to if, or when, such amounts may be settled.
+
+As discussed in Note 9 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report, we have two pension plans in Germany with a combined benefit obligation of approximately $12.7 million as of March 31, 2018. Pension benefit payments are not included in the schedule above because they are not available for all periods presented. Pension benefit payments were approximately $0.2 million in fiscal 2018 and are expected to be approximately $0.3 million in fiscal 2019.
+
+44
+
+Table of Contents
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The preparation of consolidated financial statements requires management to use judgment and estimates. The level of uncertainty in estimates and assumptions increases with the length of time until the underlying transactions are completed. Actual results could differ from those estimates. The accounting policies that are most critical in the preparation of our consolidated financial statements are those that are both important to the presentation of our financial condition and results of operations and require significant judgment and estimates on the part of management. Our critical accounting policies are reviewed periodically with the Audit Committee of the Board of Directors. We also have other policies that we consider key accounting policies, however, these policies typically do not require us to make estimates or judgments that are difficult or subjective (see Note 1 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report).
+
+Inventory Reserves. The valuation of inventory requires us to estimate obsolete or excess inventory. The determination of obsolete or excess inventory requires us to estimate the future demand for our products within specific time horizons, generally 12 to 24 months. The estimates of future demand that we use in the valuation of inventory reserves are the same as those used in our revenue forecasts and are also consistent with the estimates used in our manufacturing plans to enable consistency between inventory valuations and build decisions. Product-specific facts and circumstances reviewed in the inventory valuation process include a review of the customer base, market conditions, and customer acceptance of our products and technologies, as well as an assessment of the selling price in relation to the product cost.
+
+Historically, inventory reserves have fluctuated as new technologies have been introduced and customers’ demand has shifted. Inventory reserves had an impact on margins of less than 2% in fiscal years 2018, 2017 and 2016.
+
+Property and Equipment. Periodically, we evaluate the period over which we expect to recover the economic value of our property and equipment, considering factors such as changes in machinery and equipment technology, our ability to re-use equipment across generations of process technology and historical usage trends. When we determine that the useful lives of assets are shorter or longer than we had originally estimated, we adjust the rate of depreciation to reflect the revised useful lives of the assets.
+
+We assess property and equipment for impairment when events or changes in circumstances indicate that the carrying value of the assets or the asset grouping may not be recoverable. Factors that we consider in deciding when to perform an impairment review include an adverse change in our use of the assets or an expectation that the assets will be sold or otherwise disposed. We assess the recoverability of the assets held for use by comparing the projected undiscounted net cash flows associated with the related asset or group of assets over their remaining estimated useful lives against their respective carrying amounts.  Assets identified as “held for sale” are recorded at the lesser of their carrying value or their fair market value less costs to sell.  Impairment, if any, is based on the excess of the carrying amount over the fair value of those assets.  The process of evaluating property and equipment for impairment is highly subjective and requires significant judgment as we are required to make assumptions about items such as future demand for our products and industry trends.
+
+Goodwill and Intangible Assets. Goodwill is recorded when the purchase price paid for a business exceeds the estimated fair value of the net identified tangible and intangible assets acquired. Intangibles are recorded when such assets are acquired by purchase or license. The value of our intangibles, including goodwill, could be impacted by future adverse changes such as: (i) any future declines in our operating results; (ii) a decline in the value of technology company stocks, including the value of our common stock; (iii) a prolonged or more significant slowdown in the worldwide economy or the semiconductor industry; or (iv) failure to meet the performance projections included in our forecasts of future operating results.
+
+We account for goodwill and indefinite-lived intangible assets in accordance with the FASB's guidance, which requires annual testing for impairment or whenever events or circumstances make it more likely than not that an impairment may have occurred. We perform our annual impairment tests on the first day of the fourth quarter in each fiscal year. Our indefinite-lived intangible assets consist of in-process research and development ("IPRD").
+
+45
+
+Table of Contents
+
+We have the option to perform a qualitative assessment (commonly referred to as "step zero") to determine whether further quantitative analysis for impairment of goodwill or indefinite-lived intangible assets is necessary. In performing step zero for our impairment test, we are required to make assumptions and judgments, including the evaluation of macroeconomic conditions as related to our business, industry and market trends, and the overall future financial performance of our reporting units and future opportunities in the markets in which they operate. We also consider recent fair value calculations of our indefinite-lived intangible assets and reporting units as well as cost factors such as changes in raw materials, labor or other costs. If the step zero analysis indicates that it is more likely than not that the fair value of a reporting unit or indefinite-lived asset is less than its respective carrying value including goodwill, then we would perform an additional quantitative analysis. For goodwill, this involves a two-step process. The first step compares the fair value of the reporting unit, including its goodwill, to its carrying value. If the carrying value of the reporting unit exceeds its fair value, then the second step of the process is performed to determine the amount of impairment. The second step compares the implied fair value of the reporting unit's goodwill to the carrying value of the goodwill. An impairment charge is recognized for the amount the carrying value of the reporting unit's goodwill exceeds its implied fair value.
+
+For indefinite-lived intangible assets, the quantitative analysis compares the carrying value of the asset to its fair value and an impairment charge is recognized for the amount its carrying value exceeds its fair value.
+
+Determining the fair value of reporting units, indefinite-lived intangible assets and implied fair value of a reporting unit's goodwill is reliant upon estimated future revenues, profitability and cash flows and consideration of market factors. Assumptions, judgments and estimates are complex, subjective and can be affected by a variety of factors, including external factors such as industry and economic trends, and internal factors such as changes in our business strategy or our internal forecasts. Although we believe the assumptions, judgments and estimates we have made have been reasonable and appropriate, different assumptions, judgments and estimates could materially affect our results of operations.
+
+Goodwill
+
+Goodwill is allocated to our reporting units based on the expected benefit from the synergies of the business combinations generating the underlying goodwill. For fiscal 2018, we performed a qualitative assessment of the fair value of our reporting units and, as a result of our analysis, we determined that there were no indicators of impairment and no further quantitative impairment test was deemed necessary.
+
+For fiscal 2017, we performed a qualitative assessment of the fair value of our reporting units and, as a result of our analysis, we determined that there were no indicators of impairment and no further quantitative impairment test was deemed necessary.
+
+For fiscal 2016, although there were no indicators of impairment, we opted to bypass the qualitative assessment and proceeded to perform fair value assessments of our reporting units (the first step of the quantitative impairment analysis) as the fair value of the reporting units had changed (due to the Business Combination) since the last time we performed a quantitative analysis. The quantitative assessments performed reaffirmed that there were no indicators of impairment for fiscal 2016.
+
+In performing these quantitative assessments, consistent with our historical approach, we used both the income and market approaches to estimate the fair value of our reporting units. The income approach involves discounting future estimated cash flows. The sum of the reporting unit cash flow projections was compared to our market capitalization in a discounted cash flow framework to calculate an overall implied internal rate of return (or discount rate) for the Company. Our market capitalization was adjusted to a control basis assuming a reasonable control premium, which resulted in an implied discount rate. This implied discount rate serves as a baseline for estimating the specific discount rate for each reporting unit.
+
+The discount rate used is the value-weighted average of our estimated cost of equity and debt (“cost of capital”) derived using both known and estimated customary market metrics. Our weighted average cost of capital is adjusted for each reporting unit to reflect a risk factor, if necessary, for each reporting unit. We perform sensitivity tests with respect to growth rates and discount rates used in the income approach. We
+
+46
+
+Table of Contents
+
+believe the income approach is appropriate because it provides a fair value estimate based upon the respective reporting unit’s expected long-term operations and cash flow performance.
+
+We considered historical rates and current market conditions when determining the discount and growth rates used in our analysis. For fiscal 2016, the material assumptions used for the income approach were eight years of projected net cash flows and a long-term growth rate of 3% for both the MP and IDP reporting units. A discount rate of 15% and 16% was used for the MP and IDP reporting units, respectively.
+
+In applying the market approach, valuation multiples are derived from historical and projected operating data of selected guideline companies, which are evaluated and adjusted, if necessary, based on the strengths and weaknesses of the reporting unit relative to the selected guideline companies. The valuation multiples are then applied to the appropriate historical and/or projected operating data of the reporting unit to arrive at an indication of fair value. We believe the market approach is appropriate because it provides a fair value using multiples from companies with operations and economic characteristics similar to its reporting units. We weighted the results of the income approach and the results of the market approach at 50% each and for the MP and IDP reporting units, concluded that the fair value of the reporting units was determined to be substantially in excess of the carrying value, and as such, no further analysis was warranted.
+
+Under the income approach, the following indicates the sensitivity of key assumptions utilized in the assessment. A one percentage point decrease in the discount rate would have increased the fair value of the MP and IDP reporting units by approximately $660.0 million and $140.0 million, respectively, while a one percentage point increase in the discount rate would have decreased the fair value of the MP and IDP reporting units by approximately $560.0 million and $110.0 million, respectively. A one percentage point decrease in the long-term growth rate would have decreased the fair value of the MP and IDP reporting units by approximately $290.0 million and $50.0 million, respectively, while a one percentage point increase in the long-term growth rate would have increased the fair value of the MP and IDP reporting units by approximately $340.0 million and $70.0 million, respectively.
+
+Intangible Assets with Indefinite Lives
+
+In fiscal 2015, as a result of the Business Combination, we recorded IPRD of $470.0 million. IPRD was recorded at fair value as of the date of acquisition as an indefinite-lived intangible asset until the completion or abandonment of the associated R&D efforts or impairment. The fair value of the acquired IPRD was determined based on an income approach using the "excess earnings method," which estimated the value of the intangible assets by discounting the future projected earnings of the asset to present value as of the valuation date. Upon completion of development, acquired IPRD assets are transferred to finite-lived intangible assets and amortized over their useful lives. During fiscal years 2018, 2017 and 2016, we completed and transferred into developed technology approximately $37.0 million, $220.0 million and $203.0 million, respectively, of IPRD. We performed a qualitative assessment of the remaining IPRD of $10.0 million during fiscal 2018 and concluded that IPRD was not impaired.
+
+Intangible Assets with Definite Lives
+
+Intangible assets are recorded when such assets are acquired by purchase or license. Finite-lived intangible assets consist primarily of technology licenses, customer relationships, developed technology and trade names resulting from business combinations and are subject to amortization.
+
+Technology licenses are recorded at cost and are amortized on a straight-line basis over the lesser of the estimated useful life of the technology or the term of the license agreement, ranging from approximately five to eight years.
+
+The fair value of customer relationships acquired during fiscal years 2013, 2015 and 2017 was determined based on an income approach using the “with and without method," in which the value of the asset is determined by the difference in discounted cash flows of the profitability of the Company "with" the asset and the profitability of the Company "without" the asset. Customer relationships are amortized on a straight-line basis over the estimated useful life, ranging from three to ten years.
+
+47
+
+Table of Contents
+
+The fair value of developed technology acquired during fiscal years 2013, 2015 and 2017 was determined based on an income approach using the "excess earnings method," which estimated the value of the intangible assets by discounting the future projected earnings of the asset to present value as of the valuation date. Developed technology is amortized on a straight-line basis over the estimated useful life, ranging from three to six years.
+
+The fair value of trade names acquired in fiscal years 2015 and 2017 was determined based on an income approach using the "relief from royalty method," in which the value of the asset is determined by discounting the future projected cash flows generated from the trade name's estimated royalties. Trade names are amortized on a straight-line basis over the estimated useful life of two to three years.
+
+The fair value of the non-compete agreements acquired in fiscal 2017 was determined based on an income approach using the "incremental income method" over the useful life of two years.
+
+We regularly review identified intangible assets to determine if facts and circumstances indicate that the useful life has changed from the original estimate or that the carrying amount of the assets may not be recoverable. If such facts and circumstances exist, we assess the recoverability of identified intangible assets by comparing the projected undiscounted net cash flows associated with the related asset or group of assets over their remaining lives against their respective carrying amounts. Impairments, if any, are based on the excess of the carrying amount over the fair value of those assets and occur in the period in which the impairment determination was made.
+
+Revenue Recognition. Net revenue is generated principally from sales of semiconductor products. We recognize revenue from product sales when the fundamental criteria are met, such as the time at which the title and risk and rewards of product ownership are transferred to the customer, price and terms are fixed or determinable, no significant vendor obligation exists and collection of the resulting receivable is reasonably assured.
+
+Sales of products are generally made through either our sales force, manufacturers' representatives or through a distribution network. Revenue from the majority of our products is recognized upon shipment of the product to the customer from a Company-owned or third-party location. Some revenue is recognized upon receipt of the shipment by the customer. We have limited rebate programs offering price protection to certain distributors. These rebates represented approximately 5% of net revenue in fiscal 2018 and can be reasonably estimated based on specific criteria included in the rebate agreements and other known factors at the time. We reduce revenue and record reserves for product returns and allowances for price protection, stock rotation, and scrap allowance based on historical experience or specific identification depending on the contractual terms of the arrangement.
+We also recognize a portion of our net revenue through other agreements such as non-recurring engineering fees, contracts for R&D work, royalty income, intellectual property ("IP") revenue, and service revenue. These agreements are collectively less than 1% of our consolidated annual revenue. Revenue from these agreements is recognized when the service is completed or upon certain milestones, as provided for in the agreements.
+Revenue from certain contracts is recognized on the percentage of completion method based on the costs incurred to date and the total contract amount, plus the contractual fee. If these contracts experience cost overruns, the percentage of completion method is used to determine revenue recognition. Revenue from fixed price contracts is recognized when the required deliverable is satisfied.
+Royalty income is recognized based on a percentage of sales of the relevant product reported by licensees during the period.
+In addition, we license or sell our rights to use portions of our IP portfolio, which includes certain patent rights useful in the manufacture and sales of certain products. IP revenue recognition is dependent on the terms of each agreement. We will recognize IP revenue upon delivery of the IP if we have no substantive future obligation to perform under the arrangement. We will defer recognition of IP revenue where future performance obligations are required to earn the revenue or the revenue is not guaranteed. Revenue from services is recognized during the period that the service is performed.
+
+48
+
+Table of Contents
+
+Accounts receivable are recorded for all revenue items listed above and do not bear interest. We evaluate the collectability of accounts receivable based on a combination of factors. In cases where we are aware of circumstances that may impair a specific customer’s ability to meet its financial obligations after the original sale, we will record an allowance against amounts due, and thereby reduce the receivable to the amount we reasonably believe will be collected. For all other customers, we recognize allowances for doubtful accounts based on the length of time the receivables are past due, industry and geographic concentrations, the current business environment and our historical experience.
+Our terms and conditions do not give our customers a right of return associated with the original sale of our products. However, we will authorize sales returns under certain circumstances, which include perceived quality problems, courtesy returns and like-kind exchanges. We evaluate our estimate of returns by analyzing all types of returns and the timing of such returns in relation to the original sale. Reserves are adjusted to reflect changes in the estimated returns versus the original sale of product.
+
+Income Taxes. In determining income for financial statement purposes, we must make certain estimates and judgments in the calculation of tax expense, the resultant tax liabilities, and in the recoverability of deferred tax assets that arise from temporary differences between the tax and financial statement recognition of revenue and expense.
+
+As part of our financial process, we assess on a tax jurisdictional basis the likelihood that our deferred tax assets can be recovered. If recovery is not more likely than not (a likelihood of less than 50 percent), the provision for taxes must be increased by recording a reserve in the form of a valuation allowance for the deferred tax assets that are estimated not to ultimately be recoverable. In this process, certain relevant criteria are evaluated including: the amount of income or loss in prior years, the existence of deferred tax liabilities that can be used to absorb deferred tax assets, the taxable income in prior carryback years that can be used to absorb net operating losses and credit carrybacks, future expected taxable income, and prudent and feasible tax planning strategies. Changes in taxable income, market conditions, U.S. or international tax laws, and other factors may change our judgment regarding whether we will be able to realize the deferred tax assets. These changes, if any, may require material adjustments to the net deferred tax assets and an accompanying reduction or increase in income tax expense which will result in a corresponding increase or decrease in net income in the period when such determinations are made. See Note 12 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report for additional information regarding changes in the valuation allowance and net deferred tax assets.
+
+As part of our financial process, we also assess the likelihood that our tax reporting positions will ultimately be sustained. To the extent it is determined it is more likely than not (a likelihood of more than 50 percent) that some portion or all of a tax reporting position will ultimately not be recognized and sustained, a provision for unrecognized tax benefit is provided by either reducing the applicable deferred tax asset or accruing an income tax liability. Our judgment regarding the sustainability of our tax reporting positions may change in the future due to changes in U.S. or international tax laws and other factors. These changes, if any, may require material adjustments to the related deferred tax assets or accrued income tax liabilities and an accompanying reduction or increase in income tax expense which will result in a corresponding increase or decrease in net income in the period when such determinations are made. See Note 12 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report for additional information regarding our uncertain tax positions and the amount of unrecognized tax benefits.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+Accounting Pronouncements Not Yet Effective
+
+In January 2017, the FASB issued Accounting Standards Update ("ASU") 2017-04, "Intangibles-Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment." The new guidance simplifies the subsequent measurement of goodwill by eliminating the second step from the quantitative goodwill impairment test. We will continue to have the option to perform a qualitative assessment to determine if a quantitative goodwill impairment test is necessary. The new standard will become effective for us beginning in fiscal 2021 with early adoption permitted. We do not believe it will have a significant impact on our consolidated financial statements.
+
+49
+
+Table of Contents
+
+In January 2017, the FASB issued ASU 2017-01, "Business Combinations (Topic 805): Clarifying the Definition of a Business." The new guidance clarifies the definition of a business and provides further guidance for evaluating whether a transaction will be accounted for as an acquisition of an asset or a business. The new standard will become effective for us beginning in the first quarter of fiscal 2019 with early adoption permitted. The update should be applied prospectively. We do not believe it will have a significant impact on our consolidated financial statements.
+
+In August 2016, the FASB issued ASU 2016-15, "Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments (a consensus of the FASB’s Emerging Issues Task Force)." The new guidance addresses eight specific cash flow issues with the objective of reducing the existing diversity in practice. The new standard will become effective for us beginning in the first quarter of fiscal 2019. We do not believe it will have a significant impact on our consolidated financial statements.
+
+In June 2016, the FASB issued ASU 2016-13, "Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments." The new guidance requires entities to use a current lifetime expected credit loss methodology to measure impairments of certain financial instruments. It also modifies the impairment model for available-for-sale debt securities and provides for a simplified accounting model for purchased financial assets with credit deterioration since their origination. The new standard will become effective for us beginning in the first quarter of fiscal 2021 with early adoption permitted. We do not believe it will have a significant impact on our consolidated financial statements.
+
+In February 2016, the FASB issued ASU 2016-02, "Leases (Topic 842)." The new guidance requires lessees to recognize a right-of-use asset and a lease liability for all leases with a term longer than 12 months, including those previously described as operating leases. Consistent with current U.S. generally accepted accounting principles ("GAAP"), the recognition, measurement, and presentation of expenses and cash flows arising from a lease by a lessee will primarily depend on its classification as a finance or operating lease. The new guidance will become effective for us in the first quarter of fiscal 2020. We expect the valuation of the right-of-use assets and lease liabilities, for leases previously described as operating leases, to be the present value of our forecasted future lease commitments. We are continuing to assess the overall impacts of the new standard, including the discount rate to be applied in these valuations.
+
+In January 2016, the FASB issued ASU 2016-01, "Financial Instruments - Overall (Subtopic 825-10): Recognition and Measurement of Financial Assets and Financial Liabilities." The new guidance will affect the accounting for equity investments, financial liabilities measured under the fair value option and presentation and disclosure requirements for financial instruments. In addition, the FASB clarified guidance related to the assessment of valuation allowances when recognizing deferred tax assets related to unrealized losses on available-for-sale debt securities. The new standard is effective for us beginning in the first quarter of fiscal 2019. We do not believe it will have a significant impact on our consolidated financial statements.
+
+In May 2014, the FASB issued ASU 2014-09, "Revenue from Contracts with Customers (Topic 606)," with several amendments subsequently issued.  The new guidance provides an updated framework for revenue recognition, resulting in a single revenue model to be applied by reporting companies under U.S. GAAP.  Under the new model, recognition of revenue occurs when a customer obtains control of promised goods or services in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.  Additional disclosures will be required regarding the nature, amount, timing and uncertainty of cash flows.  We will adopt the standard in the first quarter of fiscal 2019 using the modified retrospective approach, under which the cumulative effect of adoption is recognized at the date of initial application. We have evaluated the impact of the standard and do not anticipate that the adoption of this standard will have a material impact on our consolidated financial statements. We are implementing changes to our accounting policies, internal controls and disclosures to support the new standard, however, we do not expect these changes to be material.
+
+Accounting Pronouncements Recently Adopted
+
+In March 2018, the FASB issued ASU 2018-05, "Income Taxes (Topic 740): Amendments to SEC Paragraphs Pursuant to SEC Staff Accounting Bulletin No. 118." The amendments incorporate into the ASC the recent SEC guidance related to the income tax accounting implications of the Tax Act. See Note 12 of the Notes to the Consolidated Financial Statements in Part II, Item 8 of this report for additional information.
+
+50
+
+Table of Contents
+
+In May 2017, the FASB issued ASU 2017-09, "Compensation—Stock Compensation (Topic 718): Scope of Modification Accounting."  The new guidance clarifies when modification accounting in Topic 718 should be applied to changes to the terms or conditions of a share-based payment award. We elected to early-adopt the standard in the first quarter of fiscal 2018 with no impact on our consolidated financial statements.
+
+In November 2016, the FASB issued ASU 2016-18, "Statement of Cash Flows (Topic 230): Restricted Cash (a consensus of the FASB Emerging Issues Task Force)."  The new guidance requires that restricted cash and restricted cash equivalents be included in cash and cash equivalents when reconciling the beginning-of-period and end-of-period total amounts shown in the statement of cash flows. We adopted the provisions of ASU 2016-18 in the second quarter of fiscal 2018 using the retrospective transition method. The adjustment to reclassify restricted cash for each period presented was less than $1.0 million.
+
+In October 2016, the FASB issued ASU 2016-16, "Income Taxes (Topic 740), Intra-Entity Transfers of Assets Other Than Inventory." The new guidance requires an entity to recognize the income tax consequences of an intra-entity transfer of an asset, other than inventory, when the transfer occurs. We elected to early-adopt the standard in the first quarter of fiscal 2018 using the modified retrospective method (which resulted in a cumulative adjustment to retained earnings of $1.2 million as of the beginning of the period of adoption). During fiscal 2018, we recognized a tax expense of $6.9 million related to transfers of intra-entity assets.
+
+In March 2016, the FASB issued ASU 2016-09, "Compensation - Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting."  The new guidance simplifies certain aspects of accounting for share-based payment transactions, including income tax consequences, forfeitures, classification of awards on the balance sheet and presentation on the statement of cash flows, and became effective for us in the first quarter of fiscal 2018. We recognized a cumulative-effect adjustment to reduce our accumulated deficit by $36.7 million  with a corresponding increase to deferred tax assets for the federal and state net operating losses attributable to excess tax benefits that had not been previously recognized. All excess tax benefits and deficiencies in the current and future periods will be recognized as income tax expense in our Consolidated Statement of Operations in the reporting period in which they occur. This will result in increased volatility in our effective tax rate. During fiscal 2018, we recognized a discrete tax benefit of $12.2 million related to the excess tax benefits from stock-based compensation. We also elected to prospectively adopt the provision that requires excess tax benefits to be presented within operating activities in the statement of cash flows and no prior periods have been restated as a result of the adoption. We continued our existing practice of estimating expected forfeitures in determining compensation cost.
+
+In March 2016, the FASB issued ASU 2016-07, "Investments-Equity Method and Joint Ventures (Topic 323): Simplifying the Transition to the Equity Method of Accounting."  The new guidance eliminates the requirement to retrospectively apply the equity method of accounting when an investment previously accounted for under the cost basis qualifies for the equity method of accounting. We adopted ASU 2016-07 in the first quarter of fiscal 2018 with no impact on our consolidated financial results.
+
+In July 2015, the FASB issued ASU 2015-11, "Inventory (Topic 330): Simplifying the Measurement of Inventory."  The new guidance changes the measurement principle for inventory from the lower of cost or market to the lower of cost and net realizable value. ASU 2015-11 defines net realizable value as the estimated selling price in the ordinary course of business less reasonably predictable costs to completion, transportation, or disposal. We adopted ASU 2015-11 in the first quarter of fiscal 2018 with no significant impact on our consolidated financial statements.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[see Note 16]:
+Note 16. Pensions and Other Postretirement Benefits 70
+
+[See Note 16]:
+Note 16. Pensions and Other Postretirement Benefits 70
+
+[See Note 12]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, CSX and Norfolk Southern Corporation ("NS") jointly own Conrail. CSX has a 42% economic interest and 50% voting interest in the jointly-owned entity, and NS has the remainder of the economic and voting interests. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service charges in the shared asset area. These expenses are included in materials, supplies and other on the consolidated income statements. Future minimum lease payments due to Conrail under the shared asset area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2018 $ 27 2019 27 2020 27 2021 27 2022 27 Thereafter 48 Total $ 183 Also, included in equity earnings of affiliates are CSX's 42 percent share of Conrail's income and its amortization of the fair value write-up arising from the acquisition of Conrail and certain other adjustments. The amortization primarily represents the additional after-tax depreciation expense related to the write-up of Conrail's fixed assets when the original purchase price, from the 1997 acquisition of Conrail, was allocated based on fair value. This write-up of fixed assets resulted in a difference between CSX's investment in Conrail and its share of Conrail's underlying net equity, which is $347 million as of December 2017. CSX 2017 Form 10-K p. 101 CSX CORPORATION PART II
+
+[See Note 8]:
+Note 8. Long-term Debt In May 2016, we entered into a $2.0 billion senior unsecured revolving credit facility, and any amounts outstanding under this facility will be due and payable on May 20, 2021. As of December 31, 2017, no amounts had been drawn down and we were in compliance with the covenants under the facility. ------- -----------------------------
+
+[See Note 8]:
+Note 8. Long-term Debt In May 2016, we entered into a $2.0 billion senior unsecured revolving credit facility, and any amounts outstanding under this facility will be due and payable on May 20, 2021. As of December 31, 2017, no amounts had been drawn down and we were in compliance with the covenants under the facility. ------- -----------------------------
+
+[See Note 9]:
+NOTE 9. INCOME TAXES Income before income taxes for fiscal 2017, 2016 and 2015 consisted of the following (in thousands): -------------------------- --------- --------- ---- ------- ---- --------- ------- - ------- 2017 2016 2015 Domestic $ 1,056,156 $ 805,749 $ 589,371 Foreign 1,081,485 629,389 284,410 Income before income taxes $ 2,137,641 $ 1,435,138 $ 873,781 The provision for income taxes for fiscal 2017, 2016 and 2015 consisted of the following (in thousands): ------------------------------------------------ ------- ------- ---- ------- ---- ------- ------- - - ------- 2017 2016 2015 Current: United States federal $ 298,802 $ 94,396 $ 204,834 Foreign 60,962 59,749 52,125 State and local 33,578 15,222 (14,975 ) Total current 393,342 169,367 241,984 Deferred: United States federal 48,905 33,924 (31,011 ) Foreign (4,242 ) (2,751 ) (9,368 ) State and local 5,682 (9,287 ) (25,511 ) Total deferred 50,345 21,886 (65,890 ) Tax expense attributable to employee stock plans -- 75,103 68,136 Provision for income taxes $ 443,687 $ 266,356 $ 244,230 See Note 1 to the Consolidated Financial Statements for further information on our adoption of ASU No. 2016-09, Improvements to Employee Share-Based Payment Accounting. 80 ADOBE SYSTEMS INCORPORATED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Total income tax expense differs from the expected tax expense (computed by multiplying the U.S. federal statutory rate of 35% by income before income taxes) as a result of the following (in thousands): ---------------------------------------------------------------------------- -------- ------- ---- -------- ---- ------- ------- - - ------- 2017 2016 2015 Computed "expected" tax expense $ 748,174 $ 502,298 $ 305,824 State tax expense, net of federal benefit 25,131 10,636 (8,316 ) Tax credits (38,000 ) (48,383 ) (25,967 ) Differences between statutory rate and foreign effective tax rate (215,490 ) (133,778 ) (90,063 ) Stock-based compensation, net of tax deduction (42,512 ) 15,10...
+
+[As discussed in Note 9]:
+NOTE 9. INCOME TAXES Income before income taxes for fiscal 2017, 2016 and 2015 consisted of the following (in thousands): -------------------------- --------- --------- ---- ------- ---- --------- ------- - ------- 2017 2016 2015 Domestic $ 1,056,156 $ 805,749 $ 589,371 Foreign 1,081,485 629,389 284,410 Income before income taxes $ 2,137,641 $ 1,435,138 $ 873,781 The provision for income taxes for fiscal 2017, 2016 and 2015 consisted of the following (in thousands): ------------------------------------------------ ------- ------- ---- ------- ---- ------- ------- - - ------- 2017 2016 2015 Current: United States federal $ 298,802 $ 94,396 $ 204,834 TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Total income tax expense differs from the expected tax expense (computed by multiplying the U.S. federal statutory rate of 35% by income before income rate and foreign effective tax rate (215,490 ) (133,778 ) (90,063 ) Stock-based compensation, net of tax deduction (42,512 ) 15,10...
+
+[see Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Systems Incorporated is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing and engaging with compelling content and experiences across personal computers, devices and media. We market and license our products and services directly to enterprise customers through our sales force and to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as a hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas, Europe, Middle East and Africa ("EMEA") and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and Exchange Com...
+
+[See Note 12]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, interests. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2018 $ 27 2019 27 2020 27 2021 27 2022 27 Thereafter certain other adjustments. The amortization primarily represents the additional after-tax depreciation in a difference between CSX's investment in Conrail and its share of Conrail's underlying net equity, which is $347 million as of December 2017. CSX 2017 Form 10-K p. 101 CSX CORPORATION PART II
+
+[See Note 12]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, interests. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2018 $ 27 2019 27 2020 27 2021 27 2022 27 Thereafter certain other adjustments. The amortization primarily represents the additional after-tax depreciation expense related to the write-up of Conrail's fixed assets when the original purchase price, from equity, which is $347 million as of December 2017. CSX 2017 Form 10-K p. 101 CSX CORPORATION PART II
+
+[See Note 12]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, CSX and Norfolk Southern Corporation ("NS") jointly own Conrail. CSX has a 42% economic interest and 50% voting interest in the jointly-owned entity, and NS has the remainder of the economic and voting interests. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service charges in the shared asset area. These expenses are included in materials, supplies and other on the consolidated income statements. Future minimum lease payments due to Conrail under the shared asset area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2018 $ 27 2019 27 2020 27 2021 27 2022 27 Thereafter 48 Total $ 183 Also, included in equity earnings of affiliates are CSX's 42 percent share of Conrail's income and its amortization of the fair value write-up arising from the acquisition of Conrail and certain other adjustments. The amortization primarily represents the additional after-tax depreciation expense related to the write-up of Conrail's fixed assets when the original purchase price, from equity, which is $347 million as of December 2017. CSX 2017 Form 10-K p. 101 CSX CORPORATION PART II
+
+[Note 12 of the Consolidated Financial Statements]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, CSX and Norfolk Southern Corporation ("NS") jointly own Conrail. CSX has a 42% economic interest and 50% voting interest in the jointly-owned entity, and NS has the remainder of the economic and voting interests. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service charges in the shared asset area. These expenses are included in materials, supplies and other on the consolidated income statements. Future minimum lease payments due to Conrail under the shared asset area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2018 $ 27 2019 27 2020 27 2021 27 2022 27 Thereafter 48 Total $ 183 Also, included in equity earnings of affiliates are CSX's 42 percent share of Conrail's income and its amortization of the fair value write-up arising from the acquisition of Conrail and certain other adjustments. The amortization primarily represents the additional after-tax depreciation expense related to the write-up of Conrail's fixed assets when the original purchase price, from the 1997 acquisition of Conrail, was allocated based on fair value. This write-up of fixed assets resulted in a difference between CSX's investment in Conrail and its share of Conrail's underlying net equity, which is $347 million as of December 2017. CSX 2017 Form 10-K p. 101 CSX CORPORATION PART II
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+['s current judgment and expectations, but our actual results, events and performance could differ materially from those expressed or implied by forward-looking statements. We do not intend to update any of these forward-looking statements or publicly announce the results of any revisions to these forward-looking statements, other than as is required under U.S. federal securities laws. Our business is subject to numerous risks and uncertainties, including those relating to fluctuations in our operating results, our dependence on a few large customers for a substantial portion of our revenue, a loss of revenue if contracts with the United States government or defense and aerospace contractors are canceled or delayed, our ability to implement innovative technologies, our ability to bring new products to market and achieve design wins, the efficient and successful operation of our wafer fabrication and other facilities, our ability to adjust production capacity in a timely fashion in response to changes in demand for our products, variability in manufacturing yields, industry overcapacity, inaccurate product forecasts and corresponding inventory and manufacturing costs, dependence on third parties, our dependence on international sales and operations, our ability to attract and retain skilled personnel and develop leaders, the possibility that future acquisitions may dilute our stockholders’ ownership and cause us to incur debt and assume contingent liabilities, fluctuations in the price of our common stock, our ability to protect our intellectual property, claims of intellectual property infringement and other lawsuits, security breaches and other similar disruptions compromising our information, and the impact of government and stringent environmental regulations. These and other risks and uncertainties, which are described in more detail under Item 1A, "]:
+Item 1A. Risk Factors 18
+
+[" in this Annual Report on Form 10-K and in other reports and statements that we file with the SEC, could cause actual results and developments to be materially different from those expressed or implied by any of these forward-looking statements.
+
+The following discussion should be read in conjunction with, and is qualified in its entirety by reference to, our audited consolidated financial statements, including the notes thereto.
+
+OVERVIEW
+
+Company
+
+On February 22, 2014, RFMD and TriQuint entered into the Merger Agreement, which provided for the combination of RFMD and TriQuint in a merger of equals and resulted in the Business Combination under a new holding company named Qorvo, Inc. The transactions contemplated by the Merger Agreement were consummated on January 1, 2015.
+
+Qorvo® is a product and technology leader at the forefront of the growing global demand for always-on broadband connectivity. We combine a broad portfolio of RF solutions, highly differentiated semiconductor technologies, deep systems-level expertise and scale manufacturing to supply a diverse group of customers in expanding markets, including smartphones and other mobile devices, defense and aerospace, Wi-Fi customer premises equipment, cellular base stations, optical networks, automotive connectivity, and smart home applications. Within these markets, our products enable a broad range of leading-edge applications – from very-high-power wired and wireless infrastructure solutions to ultra-low-power smart home solutions. Our products and technologies help transform how people around the world access their data, transact commerce, and interact with their communities.
+
+Qorvo employs more than 8,300 people. We have world-class manufacturing facilities, and our fabrication facility in Richardson, Texas, is a U.S. DoD-accredited ‘Trusted Source’ (Category 1A) for GaAs, GaN and BAW technologies. Our design and manufacturing expertise covers many semiconductor process technologies, which we source both internally and through external suppliers. Our primary wafer fabrication facilities are in Florida, North Carolina, Oregon and Texas, and our primary assembly and test facilities are in China, Costa Rica, Germany and Texas. We also operate design, sales and manufacturing facilities throughout Asia, Europe and North America.
+
+35
+
+Table of Contents
+
+Business Segments
+
+We design, develop, manufacture and market our products to leading U.S. and international OEMs and ODMs in the following operating segments:
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ applications for the IoT. Mobile device manufacturers and mobile network operators are adopting new technologies to address the growing demand for data-intensive, increasingly cloud-based distributed available spectrum more efficiently. Carrier aggregation is being implemented to support wider bandwidths, increase data rates and improve network performance. These trends increase the complexity of and control solutions, modules incorporating PADs and modules incorporating S-PADs.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Infrastructure and Defense Products (IDP) - IDP is a leading global supplier of RF solutions with a diverse portfolio of solutions that "]:
+Note 10. Stockholders' Equity Common Stock Our certificate of incorporation authorizes the issuance of Class A common stock and Class B common stock. As of December 31, 2017, we are authorized to issue 5,000 million shares of Class A common stock and 4,141 million shares of Class B common stock, each with a par value of $0.000006 per share. Holders of our Class A common stock and Class B common stock are entitled to dividends when, as and if, declared by our board of directors, subject to the rights of the holders of all classes of stock outstanding having priority rights to dividends. As of December 31, 2017, we have not declared any dividends and our credit facility contains restrictions on our ability to pay dividends. The holder of each share of Class A common stock is entitled to one vote, while the holder of each share of Class B common stock is entitled to ten votes. Shares of our Class B common stock are convertible into an equivalent number of shares of our Class A common stock and generally convert into shares of our Class A common stock upon transfer. Class A common stock and Class B common stock are referred to as common stock throughout the notes to these financial statements, unless otherwise noted. As of December 31, 2017, there were 2,397 million shares and 509 million shares of Class A common stock and Class B common stock, respectively, issued and outstanding. Abandonment of the Reclassification In September 2017, our board of directors decided to abandon the proposal to create a new class of non-voting capital stock (Class C capital stock) and the intention to issue a dividend of two shares of Class C capital stock for each outstanding share of Class A and Class B common stock (the Reclassification). As a result, we will not proceed with the filing of our amended and restated certificate of incorporation which was approved by our stockholders on June 20, 2016. 77 Share Repurchase Program In November 2016, our board of directors authorized a $6.0 b...
+
+["), and are managed separately based on the end markets and applications they support. The CODM allocates resources and evaluates the performance of each operating segment primarily based on operating income and operating income as a percentage of revenue. For financial information about the results of our operating segments for each of the last three fiscal years, see Note 16 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report.
+
+Fiscal 2018 Management Summary
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ China, partially offset by higher demand for our defense and aerospace and Wi-Fi products as well as higher demand for our cellular RF solutions in support of our largest end customer.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ favorable changes in product mix within our cellular RF solutions and growth in demand for our IDP products. This increase in gross margin was partially offset by lower factory utilization, average selling price erosion and higher intangible amortization.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ costs as well as cost savings resulting from restructuring initiatives described below and ongoing efforts to optimize our product portfolio.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ the carrying value of certain held for sale assets located in China and the U.S. to fair market value (resulting in impairment charges totaling approximately $46.3 million).
+
+36
+
+Table of Contents
+
+- ----------------------------------------------------------------------------------------------------------------------------
+• Our net loss per diluted share was $0.32 for fiscal 2018 as compared to net loss per diluted share of $0.13 for fiscal 2017.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We generated positive cash flow from operations of $852.5 million for fiscal 2018 as compared to $776.8 million for fiscal 2017. This year-over-year increase was primarily due to changes in working capital. The Tax Act did not have an impact on our fiscal 2018 cash flows from operating activities.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ filter capacity and manufacturing cost saving initiatives.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ tax assets and liabilities and a provisional tax expense of $116.4 million for a one-time transitional deemed repatriation of our historical unremitted foreign earnings.
+
+- -------------------------------------------------------------------------------------------------------------------------
+• During fiscal 2018, we repurchased approximately 2.9 million shares of our common stock for approximately $219.9 million.
+
+RESULTS OF OPERATIONS
+
+Consolidated
+
+The following table presents a summary of our results of operations for fiscal years 2018, 2017 and 2016:
+
+------------------------------------ --------- --------- ----------- ---- ------- - ----------- - --------- ---- ----------- ----- --------- ------ --------- --- ----- -
+
+ 2018 2017 2016
+(In thousands, except percentages) Dollars % ofRevenue Dollars % ofRevenue Dollars % ofRevenue
+Revenue $ 2,973,536 100.0 % $ 3,032,574 100.0 % $ 2,610,726 100.0 %
+Cost of goods sold 1,826,570 61.4 1,897,062 62.6 1,561,173 59.8
+Gross profit 1,146,966 38.6 1,135,512 37.4 1,049,553 40.2
+Research and development 445,103 15.0 470,836 15.5 448,763 17.2
+Selling, general, and administrative 527,751 17.7 545,588 18.0 534,099 20.4
+Other operating expense 103,830 3.5 31,029 1.0 54,723 2.1
+Operating income $ 70,282 2.4 % $ 88,059 2.9 % 11,968 0.5 %
+
+Revenue
+
+Our overall revenue demand for our defense and aerospace and Wi-Fi products as well as higher demand for our cellular RF solutions in support of our largest end customer.
+
+Our overall revenue increased $421.8 million, or infrastructure, defense and aerospace and Wi-Fi products.
+
+We provided our products to our largest end customer, Apple, through sales to multiple contract manufacturers, which in the aggregate accounted for 36%, 34% and 37% of total revenue in fiscal years 2018, 2017 and 2016, respectively. Huawei accounted for approximately 8%, 11% and 12% of our total revenue in fiscal years 2018, 2017
+
+37
+
+Table of Contents
+
+and 2016, respectively. These customers primarily purchase cellular RF and Wi-Fi solutions offered by our MP segment for a variety of mobile devices, including smartphones, notebook computers, wearables, tablets and cellular-based applications for the IoT.
+
+International shipments amounted to $2,449.1 million in fiscal 2018 (approximately 82% of revenue) compared to $2,565.5 million in fiscal stable at these historical levels.
+
+Gross Margin
+
+Our overall gross margin for fiscal 2018 was 38.6% as compared to 37.4% in fiscal 2017. The increase was primarily due to improved manufacturing and test yields on certain high-volume parts, lower depreciation, favorable changes in product mix within our cellular RF solutions and growth in demand for our IDP products. This increase in gross margin was partially offset by lower factory utilization, average selling price erosion and higher intangible amortization.
+
+Our overall gross margin for fiscal 2017 was 37.4% as compared to 40.2% in fiscal 2016. Gross margin was adversely impacted in fiscal 2017 by an unfavorable change in product mix towards lower margin low-band PAD modules, product cost reductions lagging normal average selling price erosion, were partially offset by lower intangible amortization, stock-based compensation and other costs related to the Business Combination in fiscal 2017 as compared to fiscal 2016.
+
+Operating Expenses
+
+Research and Development
+
+In fiscal 2018, R&D spending decreased $25.7 million, or 5.5%, as compared to fiscal 2017, primarily due to lower personnel-related costs as well as cost savings resulting from the ongoing efforts to optimize our product portfolio and the restructuring actions initiated in fiscal 2018.
+
+In fiscal 2017, R&D spending increased $22.1 million, or 4.9%, as compared to fiscal 2016, primarily driven compensation expense.
+
+Selling, General and Administrative
+
+In fiscal 2018, selling, general and administrative expense decreased $17.8 million, or 3.3%, as compared to fiscal 2017, primarily due to lower personnel-related costs as well as cost savings resulting from the restructuring actions initiated in fiscal 2018.
+
+In fiscal 2017, selling, general, and administrative expense increased $11.5 million, or 2.2%, as compared to fiscal 2016, primarily due to higher personnel-related costs, partially offset by lower stock-based compensation expense.
+
+Other Operating Expense
+
+In fiscal 2018, other operating pursuant to Accounting Standards Codification ("]:
+Note 16. Pensions and Other Postretirement Benefits 70
+
+[") revenue, and service revenue. These agreements are collectively less than 1% of our consolidated annual revenue. Revenue from these agreements is recognized when the service is completed or upon certain milestones, as provided for in the agreements.
+Revenue from certain contracts is recognized on the percentage of completion method based on the costs incurred to date and the total contract amount, plus the contractual fee. If these contracts experience cost overruns, the percentage of completion method is used to determine revenue recognition. Revenue from fixed price contracts is recognized when the required deliverable is satisfied.
+Royalty income is recognized based on a percentage of sales of the relevant product reported by licensees during the period.
+In addition, we license or sell our rights to use portions of our IP portfolio, which includes certain patent rights useful in the manufacture and sales of certain products. IP revenue recognition is dependent on the terms of each agreement. We will recognize IP revenue upon delivery of the IP if we have no substantive future obligation to perform under the arrangement. We will defer recognition of IP revenue where future performance obligations are required to earn the revenue or the revenue is not guaranteed. Revenue from services is recognized during the period that the service is performed.
+
+48
+
+Table of Contents
+
+Accounts receivable are recorded for all revenue items listed above and do not bear interest. We evaluate the collectability of accounts receivable based on a combination of factors. In cases where we are aware of circumstances that may impair a specific customer’s ability to meet its financial obligations after the original sale, we will record an allowance against amounts due, and thereby reduce the receivable to the amount we reasonably believe will be collected. For all other customers, we recognize allowances for doubtful accounts based on the length of time the receivables are past due, industry and geographic concentrations, the current business environment and our historical experience.
+Our terms and conditions do not give our customers a right of return associated with the original sale of our products. However, we will authorize sales returns under certain circumstances, which include perceived quality problems, courtesy returns and like-kind exchanges. We evaluate our estimate of returns by analyzing all types of returns and the timing of such returns in relation to the original sale. Reserves are adjusted to reflect changes in the estimated returns versus the original sale of product.
+
+Income Taxes. In determining income for financial statement purposes, we must make certain estimates and judgments in the calculation expense.
+
+As part of our financial process, we assess on a tax jurisdictional basis the likelihood that our deferred tax assets can be recovered. If recovery is not more likely than not (a likelihood of in taxable income, market conditions, U.S. or international tax laws, and other factors may change our judgment regarding whether we will be able to realize the deferred tax assets. These changes, if in the valuation allowance and net deferred tax assets.
+
+As part of our financial process, we also assess the likelihood that our tax reporting positions will ultimately be sustained. To the extent it tax benefit is provided by either reducing the applicable deferred tax asset or accruing an income tax liability. Our judgment regarding the sustainability of our tax reporting positions may change in and an accompanying reduction or increase in income tax expense which will result in a corresponding increase or decrease in net income in the period when such determinations are made. See Note 12 of 
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+Accounting Pronouncements Not Yet Effective
+
+In January 2017, the FASB issued Accounting Standards Update ("]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and Exchange Com...
+
+[" The amendments incorporate into the ASC the recent SEC guidance related to the income tax accounting implications of the Tax Act. See Note 12 of the Notes to the Consolidated Financial Statements in Part II, Item 8 of this report for additional information.
+
+50
+
+Table of Contents
+
+In May 2017, the FASB issued ASU 2017-09, "]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, CSX and Norfolk Southern Corporation ("NS") jointly own Conrail. CSX has a 42% economic interest and 50% voting interest in the jointly-owned entity, and NS has the remainder of the economic and voting interests. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service charges in the shared asset area. These expenses are included in materials, supplies and other on the consolidated income statements. Future minimum lease payments due to Conrail under the shared asset area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2018 $ 27 2019 27 2020 27 2021 27 2022 27 Thereafter 48 Total $ 183 Also, included in equity earnings of affiliates are CSX's 42 percent share of Conrail's income and its amortization of the fair value write-up arising from the acquisition of Conrail and certain other adjustments. The amortization primarily represents the additional after-tax depreciation expense related to the write-up of Conrail's fixed assets when the original purchase price, from the 1997 acquisition of Conrail, was allocated based on fair value. This write-up of fixed assets resulted in a difference between CSX's investment in Conrail and its share of Conrail's underlying net equity, which is $347 million as of December 2017. CSX 2017 Form 10-K p. 101 CSX CORPORATION PART II
+
+[" in the Consolidated Balance Sheet as of March 31, 2018.
+(6) Commitments for deferred compensation represent the liability under our Non-Qualified Deferred Compensation Plan. See Note 9 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report for further information.
+
+Other Contractual Obligations
+
+As of March 31, 2018, in addition to the amounts shown in the contractual obligations table above, we had $127.4 million of unrecognized income tax benefits and accrued interest, of which $18.3 million had been recorded as a liability.  We are uncertain as to if, or when, such amounts may be settled.
+
+As discussed in Note 9 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report, we have two pension plans in Germany with a combined benefit obligation of approximately $12.7 million as of March 31, 2018. Pension benefit payments are not included in the schedule above because they are not available for all periods presented. Pension benefit payments were approximately $0.2 million in fiscal 2018 and are expected to be approximately $0.3 million in fiscal 2019.
+
+44
+
+Table of Contents
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The preparation of consolidated financial statements requires management to use judgment and estimates. The level of uncertainty in estimates and assumptions increases with the length of time until the underlying transactions are completed. Actual results could differ from those estimates. The accounting policies that are most critical in the preparation of our consolidated financial statements are those that are both important to the presentation of our financial condition and results of operations and require significant judgment and estimates on the part of management. Our critical accounting policies are reviewed periodically with the Audit Committee of the Board of Directors. We also have other policies that we consider key accounting policies, however, these policies typically do not require us to make estimates or judgments that are difficult or subjective (see Note 1 of the Notes to the Consolidated Financial Statements set forth in Part II, Item 8 of this report).
+
+Inventory Reserves. The valuation of inventory requires 24 months. The estimates of future demand that we use in the valuation of inventory reserves are the same as those used in our revenue forecasts and are also consistent with the estimates used in our manufacturing plans to enable consistency between inventory valuations and build decisions. Product-specific facts and circumstances reviewed in the inventory valuation process include a review of the customer base, market conditions, and customer acceptance of our products and technologies, as well as an assessment of the selling price in relation to the product cost.
+
+Historically, inventory reserves have fluctuated as new technologies have been introduced and customers’ demand has shifted. Inventory reserves had an impact on margins of less than 2% in fiscal years 2018, 2017 and 2016.
+
+Property and Equipment. Periodically, we evaluate the period over which we expect to recover the economic value of our property and equipment, considering factors such as changes in machinery and equipment technology, our ability to re-use equipment across generations of process technology and historical usage trends. When we determine that the useful lives of assets are shorter or longer than we had originally estimated, we adjust the rate of depreciation to reflect the revised useful lives of the assets.
+
+We assess property and equipment for impairment when events or changes in circumstances indicate that the carrying value of the assets or the asset grouping may not be recoverable. Factors that we consider in deciding when to perform an impairment review include an adverse change in our use of the assets or an expectation that the assets will be sold or otherwise disposed. We assess the recoverability of the assets held for use by comparing the projected undiscounted net cash flows associated with the related asset or group of assets over their remaining estimated useful lives against their respective carrying amounts.  Assets identified as “held for sale” are recorded at the lesser of their carrying value or their fair market value less costs to sell.  Impairment, if any, is based on the excess of the carrying amount over the fair value of those assets.  The process of evaluating property and equipment for impairment is highly subjective and requires significant judgment as we are required to make assumptions about items such as future demand for our products and industry trends.
+
+Goodwill and Intangible Assets. Goodwill is recorded when the purchase price paid for a business exceeds the estimated fair value of the net identified tangible and intangible assets acquired. Intangibles are recorded when such assets are acquired by purchase or license. The value of our intangibles, including goodwill, could be impacted by future adverse changes such as: (i) any future declines in our operating results; (ii) a decline in the value of technology company stocks, including the value of our common stock; (iii) a prolonged or more significant slowdown in the worldwide economy or the semiconductor industry; or (iv) failure to meet the performance projections included in our forecasts of future operating results.
+
+We account for goodwill and indefinite-lived intangible assets in accordance with the FASB']:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 92 ------- ------------------------------------------------------ 101.INS XBRL Instance Document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document * Indicates a management contract or compensatory plan or arrangement

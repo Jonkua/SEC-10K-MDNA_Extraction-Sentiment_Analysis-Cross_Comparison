@@ -1,0 +1,634 @@
+================================================================================
+CIK: 0000749251
+Company Name: GARTNER INC
+Filing Date: 2020-02-19
+Form Type: 10-K
+Extraction Date: 2025-08-31 12:56:36
+================================================================================
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+The purpose of this Management’s Discussion and Analysis (“MD&A”) is to facilitate an understanding of significant factors influencing the operating results, financial condition and cash flows of Gartner, Inc. Additionally, the MD&A conveys our expectations of the potential impact of known trends, events or uncertainties that may impact future results. You should read this discussion in conjunction with our consolidated financial statements and related notes included in this Annual Report on Form 10-K. Historical results and percentage relationships are not necessarily indicative of operating results for future periods. References to “Gartner,” the "Company,” “we,” “our” and “us” in this MD&A are to Gartner, Inc. and its consolidated subsidiaries.
+
+This MD&A provides an analysis of our consolidated financial results, segment results and cash flows for 2019 and 2018 under the headings "Results of Operations," "Segment Results" and "Liquidity and Capital Resources." For a similar detailed discussion comparing 2018 and 2017, refer to those headings under Item 7., "Management’s Discussion and Analysis of Financial Condition and Results of Operations," in our Annual Report on Form 10-K for the year ended December 31, 2018.
+
+Acquisition of TOPO Research LLC
+
+On October 1, 2019, the Company acquired 100% of the outstanding membership interests of TOPO Research LLC ("TOPO"), a privately-held company based in Redwood City, California, for $25.0 million. TOPO is a subscription-based research and advisory business that helps sales leaders at the world’s fastest-growing companies achieve their growth objectives.
+
+Business Divestitures
+
+During 2018, the Company divested all of the non-core businesses that comprised its Other segment and moved a small residual product from the Other segment into the Research business and, as a result, no operating activity has been recorded in the Other segment in 2019. The Other segment had $105.6 million of revenue during 2018, while gross contribution was $65.1 million.
+
+Note 2 — Acquisitions and Divestitures in the Notes to Consolidated Financial Statements provides additional information regarding the TOPO acquisition and the Company's 2018 divestitures.
+
+FORWARD-LOOKING STATEMENTS
+
+In addition to historical information, this Annual Report on Form 10-K contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements are any statements other than statements of historical fact, including statements regarding our expectations, beliefs, hopes, intentions, projections or strategies regarding the future. In some cases, forward-looking statements can be identified by the use of words such as “may,” “will,” “expect,” “should,” “could,” “believe,” “plan,” “anticipate,” “estimate,” “predict,” “potential,” “continue” or other words of similar meaning.
+
+We operate in a very competitive and rapidly changing environment that involves numerous risks and uncertainties, some of which are beyond our control. Although we believe that the expectations reflected in any of our forward-looking statements are reasonable, actual results could differ materially from those projected or assumed in any of our forward-looking statements. Our future quarterly and annual revenues, operating income, results of operations and cash flows, as well as any forward-looking statement, are subject to change and to inherent risks and uncertainties, such as those disclosed or incorporated by reference in our filings with the Securities and Exchange Commission. Important factors that could cause our actual results, performance and achievements, or industry results to differ materially from estimates or projections contained in our forward-looking statements include, among others, the following: the timing of our Gartner Symposium/Xpo series that normally occurs during the fourth quarter, as well as our other conferences and meetings; the amount of new business generated, including from acquisitions; the mix of domestic and international business; domestic and international economic conditions; the U.K.’s exit from the European Union and its impact on our results; the impact of changes in tax policy and heightened scrutiny from various taxing authorities globally; changes in market demand for our products and services; changes in foreign currency rates; the timing of the development, introduction and marketing of new products and services; competition in the industry; the payment of performance compensation; uncertainty from the expected discontinuance of LIBOR and transition to any other interest rate benchmark; and other factors. The potential fluctuations in our operating income could cause period-to-period comparisons of operating results not to be meaningful and could provide an unreliable indication of future operating results. A description of the risk factors associated with our business is included under “Risk Factors” in Item 1A. of this Annual Report on Form 10-K, which is incorporated herein by reference.
+
+Forward-looking statements are subject to risks, estimates and uncertainties that could cause actual results to differ materially from those discussed in, or implied by, the forward-looking statements. Factors that might cause such a difference include, but
+
+18
+
+are not limited to, those listed above or described under “Risk Factors” in Item 1A. of this Annual Report on Form 10-K. Readers should not place undue reliance on these forward-looking statements, which reflect management’s opinion only as of the date on which they were made. Forward-looking statements in this Annual Report on Form 10-K speak only as of the date hereof, and forward-looking statements in documents attached that are incorporated by reference speak only as of the date of those documents. Except as required by law, we disclaim any obligation to review or update these forward-looking statements to reflect events or circumstances as they occur.
+
+BUSINESS OVERVIEW
+
+Gartner, Inc. (NYSE: IT) is the world’s leading research and advisory company and a member of the S&P 500. We equip business leaders with indispensable insights, advice and tools to achieve their mission–critical priorities today and build the successful organizations of tomorrow. We believe our unmatched combination of expert-led, practitioner-sourced and data-driven research steers clients toward the right decisions on the issues that matter most. We are a trusted advisor and an objective resource for more than 15,000 enterprises in more than 100 countries — across all major functions, in every industry and enterprise size.
+
+Gartner delivers its products and services globally through three business segments – Research, Conferences and Consulting, as described below.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Research provides trusted, objective insights and advice on the mission-critical priorities of leaders across all functional areas of an enterprise through reports, briefings, proprietary tools, access to our research experts, peer networking services and membership programs that enable our clients to drive organizational performance.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Conferences provides business professionals across an organization the opportunity to learn, share and network. From our Gartner Symposium/Xpo series, to industry-leading conferences focused on specific business roles and topics, to peer-driven sessions, our offerings enable attendees to experience the best of Gartner insight and advice live.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Consulting combines the power of Gartner market-leading research with custom analysis and on-the-ground support to help chief information officers and other senior executives driving technology-related strategic initiatives move confidently from insight to action.
+
+19
+
+BUSINESS MEASUREMENTS
+
+We believe that the following business measurements are important performance indicators for our business segments:
+
+---------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BUSINESS SEGMENT BUSINESS MEASUREMENT
+Research Total contract value represents the value attributable to all of our subscription-related contracts. It is calculated as the annualized value of all contracts in effect at a specific point in time, without regard to the duration of the contract. Total contract value primarily includes Research deliverables for which revenue is recognized on a ratable basis, as well as other deliverables (primarily Conferences tickets) for which revenue is recognized when the deliverable is utilized. Comparing contract value year-over-year not only measures the short-term growth of our business, but also signals the long-term health of our Research subscription business since it measures revenue that is highly likely to recur over a multi-year period. Our total contract value consists of Global Technology Sales contract value, which includes sales to users and providers of technology, and Global Business Sales contract value, which includes sales to all other functional leaders.
+
+ Client retention rate represents a measure of client satisfaction and renewed business relationships at a specific point in time. Client retention is calculated on a percentage basis by dividing our current clients, who were also clients a year ago, by all clients from a year ago. Client retention is calculated at an enterprise level, which represents a single company or customer.
+
+ Wallet retention rate represents a measure of the amount of contract value we have retained with clients over a twelve-month period. Wallet retention is calculated on a percentage basis by dividing the contract value of our current clients, who were also clients a year ago, by the total contract value from a year ago, excluding the impact of foreign currency exchange. When wallet retention exceeds client retention, it is an indication of retention of higher-spending clients, or increased spending by retained clients, or both. Wallet retention is calculated at an enterprise level, which represents a single company or customer.
+
+Conferences Number of destination conferences represents the total number of hosted destination conferences completed during the period. Single day, local meetings are excluded.
+
+ Number of destination conferences attendees represents the total number of people who attend destination conferences. Single day, local meetings are excluded.
+
+Consulting Consulting backlog represents future revenue to be derived from in-process consulting and measurement engagements.
+
+ Utilization rate represents a measure of productivity of our consultants. Utilization rates are calculated for billable headcount on a percentage basis by dividing total hours billed by total hours available to bill.
+
+ Billing rate represents earned billable revenue divided by total billable hours.
+
+ Average annualized revenue per billable headcount represents a measure of the revenue generating ability of an average billable consultant and is calculated periodically by multiplying the average billing rate per hour times the utilization percentage times the billable hours available for one year.
+
+20
+
+EXECUTIVE SUMMARY OF OPERATIONS AND FINANCIAL POSITION
+
+We have executed a consistent growth strategy since 2005 to drive revenue and earnings growth. The fundamentals of our strategy include a focus on creating extraordinary research insight, delivering innovative and highly differentiated product offerings, building a strong sales capability, providing world class client service with a focus on client engagement and retention, and continuously improving our operational effectiveness.
+
+We had total revenues of $4.2 billion in 2019, an increase of 7% compared to 2018 on a reported basis and 9% excluding the foreign currency impact. There was $105.6 million of Other segment revenue on a reported basis in 2018 that did not recur in 2019. Net income increased to $233.3 million in 2019 from $122.5 million in 2018 and, as a result, diluted earnings per share was $2.56 in 2019 compared to $1.33 in 2018.
+
+Research revenues increased to $3.4 billion in 2019, an increase of 9% compared to 2018 on a reported basis and 10% excluding the foreign currency impact. The Research gross contribution margin was 70% and 69% in 2019 and 2018, respectively. Total contract value was $3.4 billion at December 31, 2019, an increase of 12% compared to December 31, 2018 on a foreign currency neutral basis.
+
+Conferences revenues increased to $476.9 million in 2019, an increase of 16% compared to 2018 on a reported basis and 18% excluding the foreign currency impact. The Conferences gross contribution margin was 51% and 50% in 2019 and 2018, respectively. We held 72 and 70 destination conferences in 2019 and 2018, respectively.
+
+Consulting revenues increased to $393.9 million in 2019, an increase of 11% compared to 2018 on a reported basis and 14% excluding the foreign currency impact. The Consulting gross contribution margin was 30% and 29% in 2019 and 2018, respectively. Backlog was $115.7 million at December 31, 2019.
+
+Cash provided by operating activities was $565.4 million and $471.2 million during 2019 and 2018, respectively. As of December 31, 2019, we had $280.8 million of cash and cash equivalents and $1.0 billion of available borrowing capacity on our revolving credit facility. During 2019, we repurchased 1.4 million shares of the Company's common stock for an aggregate purchase price of approximately $194.0 million.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The preparation of our consolidated financial statements requires the application of appropriate accounting policies and the use of estimates. Our significant accounting policies are described in Note 1 — Business and Significant Accounting Policies in the Notes to Consolidated Financial Statements. Management considers the policies discussed below to be critical to an understanding of our consolidated financial statements because their application requires complex and subjective management judgments and estimates. Specific risks for these critical accounting policies are also described below.
+
+The preparation of our consolidated financial statements requires us to make estimates and assumptions about future events. We develop our estimates using both current and historical experience, as well as other factors, including the general economic environment and actions we may take in the future. We adjust such estimates when facts and circumstances dictate. However, our estimates may involve significant uncertainties and judgments and cannot be determined with precision. In addition, these estimates are based on our best judgment at a point in time and, as such, they may ultimately differ materially from actual results. Ongoing changes in our estimates could be material and would be reflected in the Company’s consolidated financial statements in future periods.
+
+Our critical accounting policies are described below.
+
+Accounting for leases — On January 1, 2019, the Company adopted Financial Accounting Standards Board (“FASB”) Accounting Standards Update No. 2016-02, Leases (as amended, "ASU No. 2016-02" or the “new lease standard”), which substantively modifies the accounting and disclosure requirements for lease arrangements. Prior to the issuance of ASU No. 2016-02, generally accepted accounting principles in the United States of America under FASB Accounting Standards Codification ("ASC") Topic 840, Leases, provided that lease arrangements meeting certain criteria were not recorded on an entity's balance sheet. ASU No. 2016-02 significantly changes the accounting for leases because a right-of-use model is now used whereby a lessee must record a right-of-use asset and a related lease liability on its balance sheet for most of its leases. Under ASU No. 2016-02, leases are classified as either operating or finance arrangements, with such classification affecting the pattern of expense recognition in an entity's income statement. ASU No. 2016-02 also requires significantly expanded disclosures to meet the objective of enabling users of financial statements to assess the amount, timing and uncertainty of cash flows related to leases.
+
+21
+
+The Company adopted ASU No. 2016-02 using a modified retrospective approach. We elected to use an optional transition method available under ASU No. 2016-02 to record the required cumulative effect adjustments to the opening balance sheet in the period of adoption rather than in the earliest comparative period presented. As such, the Company's historical consolidated financial statements have not been restated. Certain permitted practical expedients were used by the Company upon adoption of the new lease standard, including: (i) combining lease and nonlease components as a single lease component for purposes of the recognition and measurement requirements under ASU No. 2016-02; (ii) not reassessing a lease arrangement to determine if its classification should be changed under ASU No. 2016-02; and (iii) not reassessing initial direct costs for leases that were in existence on the date of adoption.
+
+The adoption of ASU No. 2016-02 on January 1, 2019 had a material impact on our consolidated balance sheet because the right-of-use model significantly increased both our assets and liabilities from our lease arrangements (all of which were operating leases that were not previously recorded on the Company’s consolidated balance sheets). The adoption of the new lease standard resulted in the recognition of operating lease liabilities aggregating $851.3 million based on the present value of the Company’s remaining minimum lease payments, while the corresponding right-of-use assets totaled $651.9 million. Additionally, the Company’s adoption of ASU No. 2016-02 resulted in a net increase of $638.7 million in each of the Company’s Total Assets and Total Liabilities; however, there was no effect on the Company’s Total Stockholders’ Equity. The Company’s Consolidated Statements of Operations and its cash provided by operating activities in the Consolidated Statements of Cash Flows for 2019 were not materially impacted by the adoption of the new lease standard. Note 1 — Business and Significant Accounting Policies and Note 7 — Leases in the Notes to Consolidated Financial Statements provide additional information regarding the Company's leases and the adoption of ASU No. 2016-02.
+
+Revenue recognition — For 2019 and 2018, revenue was recognized in accordance with the requirements of Accounting Standards Update No. 2014-09, Revenue from Contracts with Customers (as amended, "ASU No. 2014-09"). Prior to January 1, 2018, the Company recognized revenue in accordance with then-existing generally accepted accounting principles in the United States of America and SEC Staff Accounting Bulletin No. 104, Revenue Recognition (collectively, “Prior GAAP”). Under both ASU No. 2014-09 and Prior GAAP, revenue can only be recognized when all of the required criteria for revenue recognition have been met. Although there were certain changes to the Company’s revenue recognition policies and procedures with the adoption of ASU No. 2014-09 on January 1, 2018, there were no material differences between the pattern and timing of revenue recognition under ASU No. 2014-09 and Prior GAAP.
+
+Our revenue by significant source is accounted for as follows:
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Research revenues are mainly derived from subscription contracts for research products. The related revenues are deferred and recognized ratably over the applicable contract term. Fees derived from assisting organizations in selecting the right business software for their needs are recognized when the leads are provided to vendors.
+
+- ----------------------------------------------------------------------------------------------------------
+• Conferences revenues are deferred and recognized upon the completion of the related conference or meeting.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Consulting revenues are principally generated from fixed fee and time and materials engagements. Revenues from fixed fee contracts are recognized as we work to satisfy our performance obligations. Revenues from time and materials engagements are recognized as work is delivered and/or services are provided. Revenues related to contract optimization engagements are contingent in nature and are only recognized upon satisfaction of all conditions related to their payment.
+
+The majority of our Research contracts are billable upon signing, absent special terms granted on a limited basis from time to time. Research contracts are generally non-cancelable and non-refundable, except for government contracts that may have cancellation or fiscal funding clauses. It is our policy to record the amount of a subscription contract that is billable as a fee receivable at the time the contract is signed with a corresponding amount as deferred revenue because the contract represents a legally enforceable claim.
+
+Note 1 — Business and Significant Accounting Policies and Note 9 — Revenue and Related Matters in the Notes to Consolidated Financial Statements provide additional information regarding our revenues and the adoption of ASU No. 2014-09 on January 1, 2018.
+
+Uncollectible fees receivable — The Company maintains an allowance for losses of uncollectible receivables that is classified in our consolidated balance sheets as an offset to the gross amount of fees receivable. Increases and decreases to the allowance are recognized in earnings.
+
+The determination of the amount of the allowance is based on historical loss experience, an assessment of current economic conditions, the aging of outstanding receivables, the financial health of specific clients and probable losses. This evaluation is
+
+22
+
+inherently judgmental and requires the use of estimates. The allowance is periodically re-evaluated and adjusted as more information about the ultimate collectability of fees receivable becomes available. Circumstances that could cause the allowance to increase include changes in our clients’ liquidity and credit quality, other factors negatively impacting our clients’ ability to pay their obligations as they come due, and the effectiveness of our collection efforts.
+
+The table below presents our gross fees receivable and the related allowance for losses as of the dates indicated (in thousands).
+
+--------------------- ------------ --------- ---- ------ - ---------
+
+ December 31,
+ 2019 2018
+Gross fees receivable $ 1,334,012 $ 1,262,818
+Allowance for losses (8,000 ) (7,700 )
+Fees receivable, net $ 1,326,012 $ 1,255,118
+
+Goodwill and other intangible assets — When we acquire a business, we determine the fair value of the assets acquired and liabilities assumed on the date of acquisition, which may include a significant amount of intangible assets such as customer relationships, software and content, as well as goodwill. When determining the fair values of the acquired intangible assets, we consider, among other factors, analyses of historical financial performance and an estimate of the future performance of the acquired business. The fair values of the acquired intangible assets are primarily calculated using an income approach that relies on discounted cash flows. This method starts with a forecast of the expected future net cash flows for the asset and then adjusts the forecast to present value by applying a discount rate that reflects the risk factors associated with the cash flow streams. We consider this approach to be the most appropriate valuation technique because the inherent value of an acquired intangible asset is its ability to generate future income. In a typical acquisition, we engage a third-party valuation expert to assist us with the fair value analyses for acquired intangible assets.
+
+Determining the fair values of acquired intangible assets requires us to exercise significant judgment. We select reasonable estimates and assumptions based on evaluating a number of factors, including, but not limited to, marketplace participants, consumer awareness and brand history. Additionally, there are significant judgments inherent in discounted cash flows such as estimating the amount and timing of projected future cash flows, the selection of discount rates, hypothetical royalty rates and contributory asset capital charges. Specifically, the selected discount rates are intended to reflect the risk inherent in the projected future cash flows generated by the underlying acquired intangible assets.
+
+Determining an acquired intangible asset's useful life also requires significant judgment and is based on evaluating a number of factors, including, but not limited to, the expected use of the asset, historical client retention rates, consumer awareness and trade name history, as well as any contractual provisions that could limit or extend an asset's useful life.
+
+The Company's goodwill is evaluated in accordance with FASB ASC Topic 350, which requires goodwill to be assessed for impairment at least annually and whenever events or changes in circumstances indicate that the carrying value of goodwill may not be recoverable. In addition, an impairment evaluation of our amortizable intangible assets may also be performed if events or circumstances indicate potential impairment. Among the factors that could trigger an impairment review are current operating results that do not align with our annual plan or historical performance; changes in our strategic plans or the use of our assets; restructuring charges or other changes in our business segments; competitive pressures and changes in the general economy or in the markets in which we operate; and a significant decline in our stock price and our market capitalization relative to our net book value.
+
+When performing our annual assessment of the recoverability of goodwill, we initially perform a qualitative analysis evaluating whether any events or circumstances occurred or exist that provide evidence that it is more likely than not that the fair value of any of our reporting units is less than the related carrying amount. If we do not believe that it is more likely than not that the fair value of any of our reporting units is less than the related carrying amount, then no quantitative impairment test is performed. However, if the results of our qualitative assessment indicate that it is more likely than not that the fair value of a reporting unit is less than its respective carrying amount, then we perform a two-step quantitative impairment test.
+
+Evaluating the recoverability of goodwill requires judgments and assumptions regarding future trends and events. As a result, both the precision and reliability of our estimates are subject to uncertainty. Among the factors that we consider in our qualitative assessment are general economic conditions and the competitive environment; actual and projected reporting unit financial performance; forward-looking business measurements; and external market assessments. To determine the fair values of our reporting units for a quantitative analysis, we typically utilize detailed financial projections, which include significant variables, such as projected rates of revenue growth, profitability and cash flows, as well as assumptions regarding discount rates, the Company's weighted average cost of capital and other data.
+
+23
+
+Our most recent annual impairment test of goodwill was a qualitative analysis conducted during the quarter ended September 30, 2019 that indicated no impairment. Subsequent to completing our 2019 annual impairment test, no events or changes in circumstances were noted that required an interim goodwill impairment test. Note 1 — Business and Significant Accounting Policies and Note 3 — Goodwill and Intangible Assets in the Notes to Consolidated Financial Statements provide additional information regarding the Company's goodwill and amortizable intangible assets.
+
+Accounting for income taxes — The Company uses the asset and liability method of accounting for income taxes. We estimate our income taxes in each of the jurisdictions where the Company operates. This process involves estimating our current tax expense or benefit together with assessing temporary differences resulting from differing treatment of items for tax and accounting purposes. These differences result in deferred tax assets and liabilities, which are included in our consolidated balance sheets. When assessing the realizability of deferred tax assets, we consider if it is more likely than not that some or all of the deferred tax assets will not be realized. In making this assessment, we consider the availability of loss carryforwards, projected reversals of deferred tax liabilities, projected future taxable income, and ongoing prudent and feasible tax planning strategies. The Company recognizes the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained based on the technical merits of the position. Recognized tax positions are measured at the largest amount of benefit with greater than a 50% likelihood of being realized. The Company uses estimates in determining the amount of unrecognized tax benefits associated with uncertain tax positions. Significant judgment is required in evaluating tax law and measuring the benefits likely to be realized. Uncertain tax positions are periodically re-evaluated and adjusted as more information about their ultimate realization becomes available.
+
+Accounting for stock-based compensation — The Company accounts for stock-based compensation awards in accordance with FASB ASC Topics 505 and 718 and SEC Staff Accounting Bulletins No. 107 and No. 110. The Company recognizes stock-based compensation expense, which is based on the fair value of the award on the date of grant, over the related service period. Note 10 — Stock-Based Compensation in the Notes to Consolidated Financial Statements provides additional information regarding stock-based compensation. Determining the appropriate fair value model and calculating the fair value of stock-based compensation awards requires the use of certain subjective assumptions, including the expected life of a stock-based compensation award and the Company’s common stock price volatility. In addition, determining the appropriate periodic stock-based compensation expense requires management to estimate the likelihood of the achievement of certain performance targets. The assumptions used in calculating the fair values of stock-based compensation awards and the related periodic expense represent management’s best estimates, which involve inherent uncertainties and the application of judgment. As a result, if circumstances change and the Company deems it necessary in the future to modify the assumptions it made or to use different assumptions, or if the quantity and nature of the Company’s stock-based compensation awards changes, then the amount of expense may need to be adjusted and future stock-based compensation expense could be materially different from what has been recorded in the current period.
+
+Restructuring and other accruals — We may record accruals for severance costs, contract terminations, asset impairments and other costs as a result of ongoing actions we undertake to streamline our organization, reposition certain businesses and reduce future operating costs. Estimates of costs to be incurred to complete these actions, such as future payments under contractual arrangements, the fair value of assets, and severance and related benefits, are based on assumptions at the time the actions are initiated. These accruals may need to be adjusted to the extent that actual costs differ from such estimates. In addition, these actions may be revised due to changes in business conditions that we did not foresee at the time such plans were approved. We also record accruals during the year for our various employee cash incentive programs. Amounts accrued at the end of each reporting period are based on our estimates and may require adjustment as the ultimate amount paid for these incentives are sometimes not known with certainty until the end of our fiscal year.
+
+24
+
+ RESULTS OF OPERATIONS
+
+Consolidated Results
+
+The table below presents an analysis of selected line items and year-over-year changes in our Consolidated Statements of Operations for the years indicated (in thousands).
+
+---------------------------------------- -------------------------- --------- -------------------------- --------- ------------------- --------- ----------------------------- - - ------- - -- -
+
+ Year EndedDecember 31,2019 Year EndedDecember 31,2018 Increase (Decrease) Percentage Increase(Decrease)
+Total revenues $ 4,245,321 $ 3,975,454 $ 269,867 7 %
+Costs and expenses:
+Cost of services and product development 1,550,568 1,468,800 81,768 6
+Selling, general and administrative 2,103,424 1,884,141 219,283 12
+Depreciation 82,066 68,592 13,474 20
+Amortization of intangibles 129,713 187,009 (57,296 ) (31 )
+Acquisition and integration charges 9,463 107,197 (97,734 ) (91 )
+Operating income 370,087 259,715 110,372 42
+Interest expense, net (99,805 ) (124,208 ) (24,403 ) (20 )
+(Loss) gain from divested operations (2,075 ) 45,447 (47,522 ) >(100)
+Other income, net 7,532 167 7,365 >100
+Provision for income taxes 42,449 58,665 (16,216 ) (28 )
+Net income $ 233,290 $ 122,456 $ 110,834 91 %
+
+Total revenues for 2019 were $4.2 billion, an increase of $269.9 million, or 7% compared to 2018 on a reported basis and 9% excluding the foreign currency impact. The tables below present (i) revenues by geographic region (based on where the sale is fulfilled) and (ii) revenues by segment for the years indicated (in thousands).
+
+------------------------------ ---------------------------- --------- ---------------------------- --------- ------------------- --------- ----------------------------- - - ------- - -
+
+Primary Geographic Market Year Ended December 31, 2019 Year Ended December 31, 2018 Increase (Decrease) Percentage Increase(Decrease)
+United States and Canada $ 2,734,490 $ 2,514,952 $ 219,538 9 %
+Europe, Middle East and Africa 996,004 1,000,490 (4,486 ) —
+Other International 514,827 460,012 54,815 12
+Total revenues (1) $ 4,245,321 $ 3,975,454 $ 269,867 7 %
+
+------------------ ---------------------------- --------- ---------------------------- ------- ------------------- --------- ----------------------------- - - ------- - -
+
+Segment Year Ended December 31, 2019 Year Ended December 31, 2018 Increase (Decrease) Percentage Increase(Decrease)
+Research $ 3,374,548 $ 3,105,764 $ 268,784 9 %
+Conferences 476,869 410,461 66,408 16
+Consulting 393,904 353,667 40,237 11
+Other (1) — 105,562 (105,562 ) >(100)
+Total revenues (1) $ 4,245,321 $ 3,975,454 $ 269,867 7 %
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) During 2018, the Company divested all of the non-core businesses that comprised its Other segment and moved a small residual product from the Other segment into the Research business and, as a result, no revenue has been recorded in the Other segment in 2019. Revenue from the Company's divested operations was approximately $97.3 million during 2018. Note 9 — Revenue and Related Matters in the Notes to Consolidated Financial Statements provides additional information regarding the Company's revenue by geography and by segment.
+
+Refer to the section of this MD&A below entitled “Segment Results” for a discussion of revenues and results by segment.
+
+25
+
+Cost of services and product development was $1.6 billion in 2019, an increase of $81.8 million compared to 2018, or 6% on a reported basis and 7% excluding the foreign currency impact. The increase in Cost of services and product development was primarily due to higher payroll and related benefits costs resulting from increased headcount, partially offset by a reduction in expense from certain businesses that were divested during 2018. Cost of services and product development as a percent of revenues was 37% during both 2019 and 2018.
+
+Selling, general and administrative (“SG&A”) expense was $2.1 billion in 2019, an increase of $219.3 million compared to 2018, or 12% on a reported basis and 14% excluding the foreign currency impact. The increase in SG&A expense was primarily due to: (i) higher commissions from increased sales bookings; (ii) more payroll and related benefits costs, which were driven mostly by increased headcount; and (iii) higher facilities and corporate costs. These items were partially offset by a reduction in SG&A expense from certain businesses that were divested during 2018 and a reduction in travel and entertainment expenses during 2019. The overall headcount growth included quota-bearing sales associate increases in Global Technology Sales and Global Business Sales to 3,267 and 869, respectively, at December 31, 2019. On a combined basis, the total number of quota-bearing sales associates increased by 6% when compared to December 31, 2018. SG&A expense as a percent of revenues was 50% and 47% during 2019 and 2018, respectively. SG&A expense increased at a faster pace than our revenue in 2019 as we grew sales capacity and the enabling infrastructure during the year to promote future revenue growth.
+
+Depreciation increased by 20% during 2019 compared to 2018. This increase was due to additional investments, including new leasehold improvements as additional office space went into service and capitalized software.
+
+Amortization of intangibles decreased by 31% during 2019 compared to 2018 due to certain businesses that were divested during 2018, including the related intangible assets, as well as certain intangible assets that became fully amortized in 2018 and 2019.
+
+Acquisition and integration charges declined by $97.7 million during 2019 compared to 2018. This decrease was the result of the Company having completed two acquisitions in 2017, no acquisitions in 2018 and one minor acquisition in late 2019.
+
+Operating income was $370.1 million and $259.7 million during 2019 and 2018, respectively. The increase in operating income reflects several factors, including (i) reduced amortization of intangibles and acquisition and integration charges and (ii) higher segment contributions, primarily in our Research and Conferences segments and, to a lesser extent, Consulting, which were partially offset by higher SG&A expense and Depreciation.
+
+Interest expense, net declined by $24.4 million during 2019 compared to 2018. This decrease was primarily due to lower average outstanding borrowings during 2019 and nominally lower weighted average annual effective interest rates on the Company's total outstanding debt.
+
+Gain from divested operations of $45.4 million in 2018 was due to sales of certain business units and other miscellaneous assets. Loss from divested operations of $2.1 million in 2019 was primarily due to adjustments of certain working capital balances related to the Company's 2018 divestitures. Note 2 — Acquisitions and Divestitures in the Notes to Consolidated Financial Statements provides additional information regarding the Company's 2018 divestitures.
+
+Other income, net for the years presented herein included the net impact of foreign currency gains and losses from our hedging activities, as well as sales of certain state tax credits and the recognition of other tax incentives. During 2019, Other income, net also included a pretax gain of $9.1 million from the Company's sale a minority equity investment.
+
+The provision for income taxes was $42.4 million and $58.7 million during 2019 and 2018, respectively, with an effective income tax rate of 15.4% in 2019 and 32.4% in 2018. The 2019 effective tax rate includes a significant benefit from the intercompany sale of certain intellectual property, while no such benefit occurred in 2018. Note 12 — Income Taxes in the Notes to Consolidated Financial Statements provides additional information regarding the Company's income taxes.
+
+Net income was $233.3 million and $122.5 million during 2019 and 2018, respectively. Additionally, our diluted net income per share increased by $1.23 in 2019 compared to 2018. These year-over-year changes reflect: (i) increases in our 2019 operating income; (ii) lower interest expense; and (iii) a lower effective income tax rate in 2019 compared to 2018. Partially offsetting these items was a loss from divested operations during 2019 compared to a corresponding gain during 2018.
+
+26
+
+SEGMENT RESULTS
+
+We evaluate reportable segment performance and allocate resources based on gross contribution margin. Gross contribution is defined as operating income or loss excluding certain Cost of services and product development expenses, SG&A expenses, Depreciation, Amortization of intangibles, and Acquisition and integration charges. Gross contribution margin is defined as gross contribution as a percent of revenues.
+
+2018 Business Divestitures
+
+During 2018, the Company divested all of the non-core businesses that comprised its Other segment and moved a small residual product from the Other segment into the Research business and, as a result, no operating activity has been recorded in the Other segment in 2019. The Other segment had $105.6 million of revenue during 2018, while gross contribution was $65.1 million. Note 2 — Acquisitions and Divestitures in the Notes to Consolidated Financial Statements provides additional information regarding the Company's 2018 divestitures.
+
+Reportable Segments
+
+The Company’s reportable segments are as follows:
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Research provides trusted, objective insights and advice on the mission-critical priorities of leaders across all functional areas of an enterprise through reports, briefings, proprietary tools, access to our research experts, peer networking services and membership programs that enable our clients to drive organizational performance.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Conferences provides business professionals across an organization the opportunity to learn, share and network. From our Gartner Symposium/Xpo series, to industry-leading conferences focused on specific business roles and topics, to peer-driven sessions, our offerings enable attendees to experience the best of Gartner insight and advice live.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Consulting combines the power of Gartner market-leading research with custom analysis and on-the-ground support to help chief information officers and other senior executives driving technology-related strategic initiatives move confidently from insight to action.
+
+The sections below present the results of the Company's three reportable business segments.
+
+Research
+
+---------------------------- ---------------------------------------------- --------- ---------------------------------------------- --- ------------------ --------- ---------------------------- - ------- -- -
+
+ As Of And For The Year Ended December 31, 2019 As Of And For The Year Ended December 31, 2018 Increase(Decrease) PercentageIncrease(Decrease)
+Financial Measurements:
+Revenues (1) $ 3,374,548 $ 3,105,764 $ 268,784 9 %
+Gross contribution (1) $ 2,351,720 $ 2,144,097 $ 207,623 10 %
+Gross contribution margin 70 % 69 % 1 point —
+Business Measurements:
+Global Technology Sales (2):
+Contract value (1), (3) $ 2,799,000 $ 2,492,000 $ 307,000 12 %
+Client retention 82 % 83 % (1) point —
+Wallet retention 104 % 105 % (1) point —
+Global Business Sales (2):
+Contract value (1), (3) $ 647,000 $ 594,000 $ 53,000 9 %
+Client retention 82 % 82 % — —
+Wallet retention 101 % 95 % 6 points —
+
+--- ---------------------
+(1) Dollars in thousands.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Global Technology Sales includes sales to users and providers of technology. Global Business Sales includes sales to all other functional leaders.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) Contract values are on a foreign exchange neutral basis. Contract values as of December 31, 2018 have been calculated using the same foreign currency rates as 2019.
+
+27
+
+Research revenues increased by $268.8 million during 2019 compared to 2018, or 9% on a reported basis and 10% excluding the foreign currency impact. The gross contribution margin was 70% in 2019 compared to 69% in 2018. The increase in revenues during 2019 was primarily due to the same factors driving the trend in our Research contract value, which are discussed below. The improvement in margin was primarily due to strong fourth quarter results in 2019 wherein program costs and travel and entertainment expenses grew at a slower pace than the corresponding quarterly revenue.
+
+Total contract value increased to $3.4 billion at December 31, 2019, or 12% compared to December 31, 2018 on a foreign exchange neutral basis. Total contract value at December 31, 2019 increased by double-digits across more than half of the Company’s client sizes and half of its industry segments when compared to December 31, 2018. Global Technology Sales ("GTS") contract value increased by 12% at December 31, 2019 when compared to December 31, 2018. The increase in GTS contract value was primarily due to additional sales headcount and productivity improvements. Global Business Sales ("GBS") contract value increased by 9% year-over-year (8% on a foreign exchange neutral basis after excluding the effects of the Company's 2019 acquisition of TOPO Research LLC), primarily driven by the combined effect of improved retention and new business, with a large portion of the new business coming from newly launched products.
+
+GTS client retention was 82% and 83% as of December 31, 2019 and 2018, respectively, while wallet retention was 104% and 105%, respectively. GBS client retention was 82% as of both December 31, 2019 and 2018, while wallet retention was 101% and 95%, respectively. The increase in GBS wallet retention was largely due to increased spending by retained clients. The number of GTS client enterprises increased by 1% at December 31, 2019 when compared to December 31, 2018, while GBS client enterprises declined by 6%.
+
+Conferences
+
+----------------------------------------------- ---------------------------------------------- ------- ---------------------------------------------- ------ ------------------ ------- ---------------------------- - ------ - -- -
+
+ As Of And For The Year Ended December 31, 2019 As Of And For The Year Ended December 31, 2018 Increase(Decrease) PercentageIncrease(Decrease)
+Financial Measurements:
+Revenues (1) $ 476,869 $ 410,461 $ 66,408 16 %
+Gross contribution (1) $ 241,757 $ 207,260 $ 34,497 17 %
+Gross contribution margin 51 % 50 % 1 point —
+Business Measurements:
+Number of destination conferences (2) 72 70 2 3 %
+Number of destination conferences attendees (2) 85,750 78,136 7,614 10 %
+
+--- ---------------------
+(1) Dollars in thousands.
+
+--- ----------------------------------------
+(2) Single day, local meetings are excluded.
+
+Conferences revenues increased by $66.4 million during 2019 compared to 2018, or 16% on a reported basis and 18% excluding the foreign currency impact. Revenues from both attendees and exhibitors at our destination conferences, as well as revenues from our single day, local meetings, increased by double-digits during 2019 compared to 2018. We held 72 destination conferences in 2019 with a 10% increase in the number of attendees and a 15% increase in exhibitors when compared to 2018, while the average revenue per attendee and exhibitor both increased by 3%. The segment gross contribution margin was 51% and 50% in 2019 and 2018, respectively. The higher gross contribution margin during 2019 was primarily due to improvements in our average revenue per attendee and exhibitor, improved margins from our single day, local meetings and our continuing efforts to efficiently manage our conference-related expenses. Partially offsetting these items were higher costs associated with increased headcount.
+
+28
+
+Consulting
+
+----------------------------------------------------- ---------------------------------------------- ------- ---------------------------------------------- -- ------------------ ------- ---------------------------- - - ------ - -- --
+
+ As Of And For The Year Ended December 31, 2019 As Of And For The Year Ended December 31, 2018 Increase(Decrease) PercentageIncrease(Decrease)
+Financial Measurements:
+Revenues (1) $ 393,904 $ 353,667 $ 40,237 11 %
+Gross contribution (1) $ 118,450 $ 102,541 $ 15,909 16 %
+Gross contribution margin 30 % 29 % 1 point —
+Business Measurements:
+Backlog (1), (2) $ 115,700 $ 108,400 $ 7,300 7 %
+Billable headcount 784 718 66 9 %
+Consultant utilization 62 % 63 % (1) point —
+Average annualized revenue per billable headcount (1) $ 373 $ 375 $ (2 ) (1 )%
+
+--- ---------------------
+(1) Dollars in thousands.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Backlog is on a foreign exchange neutral basis. Backlog as of December 31, 2018 has been calculated using the same foreign currency rates as 2019.
+
+Consulting revenues increased 11% during 2019 compared to 2018 on a reported basis and 14% excluding the foreign currency impact, with revenue improvements in labor-based core consulting and contract optimization of 7% and 31%, respectively, on a reported basis. Contract optimization revenue may vary significantly and, as such, 2019 revenues may not be indicative of future results. The segment gross contribution margin was 30% and 29% in 2019 and 2018, respectively. The higher gross contribution margin during 2019 was primarily due to the increase in contract optimization revenue, which has a higher contribution margin than our labor-based core consulting, billing rate increases, improvements in our labor-based consulting margins and benefits derived from certain cost-reduction initiatives, partially offset by increased personnel costs and commissions.
+
+Backlog increased by $7.3 million, or 7%, from December 31, 2018 to December 31, 2019. The $115.7 million of backlog at December 31, 2019 represented approximately four months of backlog, which is in line with the Company's operational target.
+
+29
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+We finance our operations through cash generated from our operating activities and borrowings. Note 6 — Debt in the Notes to Consolidated Financial Statements provides additional information regarding the Company's outstanding debt obligations. At December 31, 2019, we had $280.8 million of cash and cash equivalents and approximately $1.0 billion of available borrowing capacity on the revolving credit facility under our 2016 Credit Agreement. We believe that the Company has adequate liquidity to meet its currently anticipated needs.
+
+We have historically generated significant cash flows from our operating activities. Our operating cash flow has been continuously maintained by the leverage characteristics of our subscription-based business model in our Research segment, which is our largest business segment and historically has constituted a significant portion of our total revenues. The majority of our Research customer contracts are paid in advance and, combined with a strong customer retention rate and high incremental margins, has resulted in continuously strong operating cash flow. Cash flow generation has also benefited from our ongoing efforts to improve the operating efficiencies of our businesses as well as a focus on the optimal management of our working capital as we increase sales.
+
+Our cash and cash equivalents are held in numerous locations throughout the world with 92% held overseas at December 31, 2019. The Company intends to reinvest substantially all of its accumulated undistributed foreign earnings, except in instances where repatriation would result in minimal additional tax. As a result of the U.S. Tax Cuts and Jobs Act of 2017, we believe that the income tax impact if such earnings were repatriated would be minimal.
+
+The table below summarizes the changes in the Company's cash balances for the years indicated (in thousands).
+
+------------------------------------------------------------------------ ----------------------- ------- ------------------ ---------- - ------- -------- - - -------
+
+ Year Ended December 31, Increase(Decrease)
+ 2019 2018
+Cash provided by operating activities $ 565,436 $ 471,158 $ 94,278
+Cash (used in) provided by investing activities (160,885 ) 384,051 (544,936 )
+Cash used in financing activities (285,992 ) (1,257,115 ) 971,123
+Net increase (decrease) in cash and cash equivalents and restricted cash 118,559 (401,906 ) 520,465
+Effects of exchange rates 3,614 (6,489 ) 10,103
+Beginning cash and cash equivalents and restricted cash 158,663 567,058 (408,395 )
+Ending cash and cash equivalents and restricted cash $ 280,836 $ 158,663 $ 122,173
+
+Operating
+
+Cash provided by operating activities was $565.4 million and $471.2 million in 2019 and 2018, respectively. This year-over-year increase was primarily due to (i) greater profitability in 2019, including lower cash payments for both acquisition-related costs and interest on our borrowings, and (ii) improved collections of our fees receivable during 2019. Partially offsetting these items were higher payments for income taxes, net of refunds received, during 2019.
+
+Investing
+
+Cash used in investing activities was $160.9 million in 2019 compared to cash provided by investing activities of $384.1 million in 2018. The cash used in 2019 was primarily for capital expenditures and the acquisition of TOPO Research LLC, partially offset by $14.1 million of cash proceeds from the sale of a minority equity investment. During 2018, $526.8 million of net cash was realized from business unit divestitures and other miscellaneous asset sales, partially offset by payments of $126.9 million for capital expenditures and $15.9 million for deferred consideration from a pre-2018 acquisition.
+
+Financing
+
+Cash used in financing activities was $286.0 million in 2019 compared to cash used of $1.3 billion in 2018. During 2019, the Company borrowed $5.0 million under a financial program offered by the State of Connecticut and repaid $109.6 million of other borrowings. We also used $199.0 million of cash during 2019 for share repurchases. During 2018, the Company paid $1.0 billion in debt principal repayments and $260.8 million for share repurchases.
+
+30
+
+OBLIGATIONS AND COMMITMENTS
+
+Debt
+
+As of December 31, 2019, the Company had $2.2 billion of principal amount of debt outstanding. Note 6 — Debt in the Notes to Consolidated Financial Statements provides additional information regarding the Company's outstanding debt obligations.
+
+Off-Balance Sheet Arrangements
+
+Through December 31, 2019, the Company has not entered into any material off-balance sheet arrangements or transactions with unconsolidated entities or other persons.
+
+Contractual Cash Commitments
+
+The table below summarizes the Company's future contractual cash commitments as of December 31, 2019 (in thousands).
+
+-------------------------------------- ---------------------- ------- --------------- ------- --------------- --------- ----------------------- ----- ------- --------- --------- - ---------
+
+Commitment Description Due In Less Than1 Year Due In 2-3Years Due In 4-5Years Due In More Than5 Years Total
+Debt – principal and interest (1) $ 237,948 $ 1,422,379 $ 100,141 $ 822,585 $ 2,583,053
+Operating leases (2) 142,352 273,920 249,635 682,883 1,348,790
+Deferred compensation arrangements (3) 10,116 14,725 8,784 45,931 79,556
+Other (4) 30,836 34,606 12,712 35,834 113,988
+Totals $ 421,252 $ 1,745,630 $ 371,272 $ 1,587,233 $ 4,125,387
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Principal repayments of the Company's debt obligations were classified in the above table based on the contractual repayment dates. Interest payments were based on the effective interest rates as of December 31, 2019, including the effects of the Company’s interest rate swap contracts. Note 6 — Debt in the Notes to Consolidated Financial Statements provides information regarding the Company's debt obligations and interest rate swap contracts.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) The Company leases various facilities, automobiles, computer equipment and other assets under non-cancelable operating lease agreements expiring between 2020 and 2038. The total commitment excludes approximately $360.6 million of estimated future cash receipts from the Company's subleasing arrangements. Note 1 — Business and Significant Accounting Policies and Note 7 — Leases in the Notes to Consolidated Financial Statements provide additional information regarding the Company's leases.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) The Company has supplemental deferred compensation arrangements with certain of its employees. Amounts payable with known payment dates have been classified in the above table based on those scheduled payment dates. Amounts payable whose payment dates are unknown have been included in the Due In More Than 5 Years category because the Company cannot determine when the amounts will be paid. Note 15 — Employee Benefits in the Notes to Consolidated Financial Statements provides additional information regarding the Company's supplemental deferred compensation arrangements.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Other includes: (i) contractual commitments (a) to secure sites for our Conferences business and (b) for software, telecom and other services; (ii) amounts due for share repurchase transactions that occurred in late December 2019 but were settled in cash in January 2020; and (iii) projected cash contributions to the Company's defined benefit pension plans. Note 15 — Employee Benefits in the Notes to Consolidated Financial Statements provides additional information regarding the Company's defined benefit pension plans.
+
+In addition to the contractual cash commitments included in the above table, the Company has other payables and liabilities that may be legally enforceable but are not considered contractual commitments. Information regarding the Company's payables and liabilities is included in Note 5 — Accounts Payable and Accrued and Other Liabilities in the Notes to Consolidated Financial Statements.
+
+31
+
+QUARTERLY FINANCIAL DATA
+
+The tables below present our quarterly operating results for the two-year period ended December 31, 2019.
+
+------------------------------------- ------ ------- ------ ------- ----- --------- ------ - --------- - ---------
+
+ 2019
+(In thousands, except per share data) First Second Third Fourth
+Revenues $ 970,444 $ 1,070,882 $ 1,000,502 $ 1,203,493
+Operating income 48,799 116,002 69,147 136,139
+Net income (1) 20,795 103,406 41,388 67,701
+Net income per share (1), (2):
+Basic $ 0.23 $ 1.15 $ 0.46 $ 0.76
+Diluted $ 0.23 $ 1.13 $ 0.46 $ 0.75
+
+------------------------------------- ------- ------- ------ ------ ----- --------- ------ - ------- - ---------
+
+ 2018
+(In thousands, except per share data) First Second Third Fourth
+Revenues $ 963,565 $ 1,001,336 $ 921,674 $ 1,088,878
+Operating income (loss) (8,711 ) 86,096 52,724 129,606
+Net income (loss) (19,587 ) 46,270 11,753 84,020
+Net income (loss) per share:
+Basic $ (0.22 ) $ 0.51 $ 0.13 $ 0.93
+Diluted $ (0.22 ) $ 0.50 $ 0.13 $ 0.92
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) In April 2019, we completed an intercompany sale of certain intellectual property and, as a result, the Company recorded a net tax benefit of approximately $38.1 million. The tax benefit increased our net income and each of our basic and diluted net income per share for the second quarter of 2019 by approximately $0.42 per share. Note 12 — Income Taxes in the Notes to Consolidated Financial Statements provides additional information regarding the tax impact of our intercompany sale of certain intellectual property.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) The aggregate of the four quarters’ basic and diluted net income per share may not equal the reported full calendar year amounts due to the effects of share repurchases, dilutive equity compensation and rounding.
+
+RECENTLY ISSUED ACCOUNTING STANDARDS
+
+The FASB has issued accounting standards that had not yet become effective as of December 31, 2019 and may impact the Company’s consolidated financial statements or its disclosures in future periods. Note 1 — Business and Significant Accounting Policies in the Notes to Consolidated Financial Statements provides information regarding those accounting standards.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[" For a similar detailed discussion comparing 2018 and 2017, refer to those headings under Item 7., "]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 13
+
+["). Prior to January 1, 2018, the Company recognized revenue in accordance with then-existing generally accepted accounting principles in the United States of America and SEC Staff Accounting Bulletin No. 104, Revenue Recognition (collectively, “Prior GAAP”). Under both ASU No. 2014-09 and Prior GAAP, revenue can only be recognized when all of the required criteria for revenue recognition have been met. Although there were certain changes to the Company’s revenue recognition policies and procedures with the adoption of ASU No. 2014-09 on January 1, 2018, there were no material differences between the pattern and timing of revenue recognition under ASU No. 2014-09 and Prior GAAP.
+
+Our revenue by significant source is accounted for as follows:
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Research revenues are mainly derived from subscription contracts for research products. The related revenues are deferred and recognized ratably over the applicable contract term. Fees derived from assisting organizations in selecting the right business software for their needs are recognized when the leads are provided to vendors.
+
+- ----------------------------------------------------------------------------------------------------------
+• Conferences revenues are deferred and recognized upon the completion of the related conference or meeting.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Consulting revenues are principally generated from fixed fee and time and materials engagements. Revenues from fixed fee contracts are recognized as we work to satisfy our performance obligations. Revenues from time and materials engagements are recognized as work is delivered and/or services are provided. Revenues related to contract optimization engagements are contingent in nature and are only recognized upon satisfaction of all conditions related to their payment.
+
+The majority of our Research contracts are billable upon signing, absent special terms granted on a limited basis from time to time. Research contracts are generally non-cancelable and non-refundable, except for government contracts that may have cancellation or fiscal funding clauses. It is our policy to record the amount of a subscription contract that is billable as a fee receivable at the time the contract is signed with a corresponding amount as deferred revenue because the contract represents a legally enforceable claim.
+
+Note 1 — Business and Significant Accounting Policies and Note 9 — Revenue and Related Matters in the Notes to Consolidated Financial Statements provide additional information regarding our revenues and the adoption of ASU No. 2014-09 on January 1, 2018.
+
+Uncollectible fees receivable — The Company maintains an allowance for losses of uncollectible receivables that is classified in our consolidated balance sheets as an offset to the gross amount of fees receivable. Increases and decreases to the allowance are recognized in earnings.
+
+The determination of the amount of the allowance is based on historical loss experience, an assessment of current economic conditions, the aging of outstanding receivables, the financial health of specific clients and probable losses. This evaluation is
+
+22
+
+inherently judgmental and requires the use of estimates. The allowance is periodically re-evaluated and adjusted as more information about the ultimate collectability of fees receivable becomes available. Circumstances that could cause the allowance to increase include changes in our clients’ liquidity and credit quality, other factors negatively impacting our clients’ ability to pay their obligations as they come due, and the effectiveness of our collection efforts.
+
+The table below presents our gross fees receivable and the related allowance for losses as of the dates indicated (in thousands).
+
+--------------------- ------------ --------- ---- ------ - ---------
+
+ December 31,
+ 2019 2018
+Gross fees receivable $ 1,334,012 $ 1,262,818
+Allowance for losses (8,000 ) (7,700 )
+Fees receivable, net $ 1,326,012 $ 1,255,118
+
+Goodwill and other intangible assets — When we acquire a business, we determine the fair value of the assets acquired and liabilities assumed on the date of acquisition, which may include a significant amount of intangible assets such as customer relationships, software and content, as well as goodwill. When determining the fair values of the acquired intangible assets, we consider, among other factors, analyses of historical financial performance and an estimate of the future performance of the acquired business. The fair values of the acquired intangible assets are primarily calculated using an income approach that relies on discounted cash flows. This method starts with a forecast of the expected future net cash flows for the asset and then adjusts the forecast to present value by applying a discount rate that reflects the risk factors associated with the cash flow streams. We consider this approach to be the most appropriate valuation technique because the inherent value of an acquired intangible asset is its ability to generate future income. In a typical acquisition, we engage a third-party valuation expert to assist us with the fair value analyses for acquired intangible assets.
+
+Determining the fair values of acquired intangible assets requires us to exercise significant judgment. We select reasonable estimates and assumptions based on evaluating a number of factors, including, but not limited to, marketplace participants, consumer awareness and brand history. Additionally, there are significant judgments inherent in discounted cash flows such as estimating the amount and timing of projected future cash flows, the selection of discount rates, hypothetical royalty rates and contributory asset capital charges. Specifically, the selected discount rates are intended to reflect the risk inherent in the projected future cash flows generated by the underlying acquired intangible assets.
+
+Determining an acquired intangible asset']:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Inc. is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, devices and media. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas, Europe, Middle East and Africa ("EMEA"), and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and...
+
+['s weighted average cost of capital and other data.
+
+23
+
+Our most recent annual impairment test of goodwill was a qualitative analysis conducted during the quarter ended September 30, 2019 that indicated no impairment. Subsequent to completing our 2019 annual impairment test, no events or changes in circumstances were noted that required an interim goodwill impairment test. Note 1 — Business and Significant Accounting Policies and Note 3 — Goodwill and Intangible Assets in the Notes to Consolidated Financial Statements provide additional information regarding the Company']:
+Note 23 - Segment and Revenue Information 111
+
+['s cash balances for the years indicated (in thousands).
+
+------------------------------------------------------------------------ ----------------------- ------- ------------------ ---------- - ------- -------- - - -------
+
+ Year Ended December 31, Increase(Decrease)
+ 2019 2018
+Cash provided by operating activities $ 565,436 $ 471,158 $ 94,278
+Cash (used in) provided by investing activities (160,885 ) 384,051 (544,936 )
+Cash used in financing activities (285,992 ) (1,257,115 ) 971,123
+Net increase (decrease) in cash and cash equivalents and restricted cash 118,559 (401,906 ) 520,465
+Effects of exchange rates 3,614 (6,489 ) 10,103
+Beginning cash and cash equivalents and restricted cash 158,663 567,058 (408,395 )
+Ending cash and cash equivalents and restricted cash $ 280,836 $ 158,663 $ 122,173
+
+Operating
+
+Cash provided by operating activities was $565.4 million and $471.2 million in 2019 and 2018, respectively. This year-over-year increase was primarily due to (i) greater profitability in 2019, including lower cash payments for both acquisition-related costs and interest on our borrowings, and (ii) improved collections of our fees receivable during 2019. Partially offsetting these items were higher payments for income taxes, net of refunds received, during 2019.
+
+Investing
+
+Cash used in investing activities was $160.9 million in 2019 compared to cash provided by investing activities of $384.1 million in 2018. The cash used in 2019 was primarily for capital expenditures and the acquisition of TOPO Research LLC, partially offset by $14.1 million of cash proceeds from the sale of a minority equity investment. During 2018, $526.8 million of net cash was realized from business unit divestitures and other miscellaneous asset sales, partially offset by payments of $126.9 million for capital expenditures and $15.9 million for deferred consideration from a pre-2018 acquisition.
+
+Financing
+
+Cash used in financing activities was $286.0 million in 2019 compared to cash used of $1.3 billion in 2018. During 2019, the Company borrowed $5.0 million under a financial program offered by the State of Connecticut and repaid $109.6 million of other borrowings. We also used $199.0 million of cash during 2019 for share repurchases. During 2018, the Company paid $1.0 billion in debt principal repayments and $260.8 million for share repurchases.
+
+30
+
+OBLIGATIONS AND COMMITMENTS
+
+Debt
+
+As of December 31, 2019, the Company had $2.2 billion of principal amount of debt outstanding. Note 6 — Debt in the Notes to Consolidated Financial Statements provides additional information regarding the Company']:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 89 ------- --------------------------------------------------------------------------- 101.DEF InlineXBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement
+
+['s leases.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) The Company has supplemental deferred compensation arrangements with certain of its employees. Amounts payable with known payment dates have been classified in the above table based on those scheduled payment dates. Amounts payable whose payment dates are unknown have been included in the Due In More Than 5 Years category because the Company cannot determine when the amounts will be paid. Note 15 — Employee Benefits in the Notes to Consolidated Financial Statements provides additional information regarding the Company']:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, a privately held 3D editing and authoring software company for gaming and entertainment, and integrated it into our Digital Media reportable segment. Prior to the acquisition, we held an equity interest that was accounted for as an equity-method investment. We acquired the remaining equity interest for approximately $106.2 million in cash consideration. The total purchase price, inclusive of the acquisition-date fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 million, which represents the difference between the $54.8 million acquisition-date fair value of our pre-existing equity interest and our previous carrying amount. Under the acquisition method of accounting, the total final purchase price was allocated to Allegorithmic's net tangible and intangible assets based upon their estimated fair values as of the acquisition date. The excess purchase price over the value of the net tangible and identifiable intangible assets was recorded as goodwill. Of the total purchase price, $125.9 million was allocated to goodwill that was non-deductible for tax purposes, $44.8 million to identifiable intangible assets and the remainder to net liabilities assumed. Pro forma financial information has not been presented for the Allegorithmic acquisition as the impact to our Consolidated Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash consideration. Adding Marketo's engagement platform to Adobe Experience Cloud furthers our long-term plan for strategic growth in the Digital Experience segment and enables us to offer a comprehensive set of solutions to enable customers across industries...
+
+['s defined benefit pension plans. Note 15 — Employee Benefits in the Notes to Consolidated Financial Statements provides additional information regarding the Company']:
+Note 15 - Arrangements with Off-Balance Sheet Risk 89
+
+['s 2018 divestitures.
+
+FORWARD-LOOKING STATEMENTS
+
+In addition to historical information, this Annual Report on Form 10-K contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements are any statements other than statements of historical fact, including statements regarding our expectations, beliefs, hopes, intentions, projections or strategies regarding the future. In some cases, forward-looking statements can be identified by the use of words such as “may,” “will,” “expect,” “should,” “could,” “believe,” “plan,” “anticipate,” “estimate,” “predict,” “potential,” “continue” or other words of similar meaning.
+
+We operate in a very competitive and rapidly changing environment that involves numerous risks and uncertainties, some of which are beyond our control. Although we believe that the expectations reflected in any of our forward-looking statements are reasonable, actual results could differ materially from those projected or assumed in any of our forward-looking statements. Our future quarterly and annual revenues, operating income, results of operations and cash flows, as well as any forward-looking statement, are subject to change and to inherent risks and uncertainties, such as those disclosed or incorporated by reference in our filings with the Securities and Exchange Commission. Important factors that could cause our actual results, performance and achievements, or industry results to differ materially from estimates or projections contained in our forward-looking statements include, among others, the following: the timing of our Gartner Symposium/Xpo series that normally occurs during the fourth quarter, as well as our other conferences and meetings; the amount of new business generated, including from acquisitions; the mix of domestic and international business; domestic and international economic conditions; the U.K.’s exit from the European Union and its impact on our results; the impact of changes in tax policy and heightened scrutiny from various taxing authorities globally; changes in market demand for our products and services; changes in foreign currency rates; the timing of the development, introduction and marketing of new products and services; competition in the industry; the payment of performance compensation; uncertainty from the expected discontinuance of LIBOR and transition to any other interest rate benchmark; and other factors. The potential fluctuations in our operating income could cause period-to-period comparisons of operating results not to be meaningful and could provide an unreliable indication of future operating results. A description of the risk factors associated with our business is included under “Risk Factors” in Item 1A. of this Annual Report on Form 10-K, which is incorporated herein by reference.
+
+Forward-looking statements are subject to risks, estimates and uncertainties that could cause actual results to differ materially from those discussed in, or implied by, the forward-looking statements. Factors that might cause such a difference include, but
+
+18
+
+are not limited to, those listed above or described under “Risk Factors” in Item 1A. of this Annual Report on Form 10-K. Readers should not place undue reliance on these forward-looking statements, which reflect management’s opinion only as of the date on which they were made. Forward-looking statements in this Annual Report on Form 10-K speak only as of the date hereof, and forward-looking statements in documents attached that are incorporated by reference speak only as of the date of those documents. Except as required by law, we disclaim any obligation to review or update these forward-looking statements to reflect events or circumstances as they occur.
+
+BUSINESS OVERVIEW
+
+Gartner, Inc. (NYSE: IT) is the world’s leading research and advisory company and a member of the S&P 500. We equip business leaders with indispensable insights, advice and tools to achieve their mission–critical priorities today and build the successful organizations of tomorrow. We believe our unmatched combination of expert-led, practitioner-sourced and data-driven research steers clients toward the right decisions on the issues that matter most. We are a trusted advisor and an objective resource for more than 15,000 enterprises in more than 100 countries — across all major functions, in every industry and enterprise size.
+
+Gartner delivers its products and services globally through three business segments – Research, Conferences and Consulting, as described below.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Research provides trusted, objective insights and advice on the mission-critical priorities of leaders across all functional areas of an enterprise through reports, briefings, proprietary tools, access to our research experts, peer networking services and membership programs that enable our clients to drive organizational performance.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Conferences provides business professionals across an organization the opportunity to learn, share and network. From our Gartner Symposium/Xpo series, to industry-leading conferences focused on specific business roles and topics, to peer-driven sessions, our offerings enable attendees to experience the best of Gartner insight and advice live.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Consulting combines the power of Gartner market-leading research with custom analysis and on-the-ground support to help chief information officers and other senior executives driving technology-related strategic initiatives move confidently from insight to action.
+
+19
+
+BUSINESS MEASUREMENTS
+
+We believe that the following business measurements are important performance indicators for our business segments:
+
+---------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BUSINESS SEGMENT BUSINESS MEASUREMENT
+Research Total contract value represents the value attributable to all of our subscription-related contracts. It is calculated as the annualized value of all contracts in effect at a specific point in time, without regard to the duration of the contract. Total contract value primarily includes Research deliverables for which revenue is recognized on a ratable basis, as well as other deliverables (primarily Conferences tickets) for which revenue is recognized when the deliverable is utilized. Comparing contract value year-over-year not only measures the short-term growth of our business, but also signals the long-term health of our Research subscription business since it measures revenue that is highly likely to recur over a multi-year period. Our total contract value consists of Global Technology Sales contract value, which includes sales to users and providers of technology, and Global Business Sales contract value, which includes sales to all other functional leaders.
+
+ Client retention rate represents a measure of client satisfaction and renewed business relationships at a specific point in time. Client retention is calculated on a percentage basis by dividing our current clients, who were also clients a year ago, by all clients from a year ago. Client retention is calculated at an enterprise level, which represents a single company or customer.
+
+ Wallet retention rate represents a measure of the amount of contract value we have retained with clients over a twelve-month period. Wallet retention is calculated on a percentage basis by dividing the contract value of our current clients, who were also clients a year ago, by the total contract value from a year ago, excluding the impact of foreign currency exchange. When wallet retention exceeds client retention, it is an indication of retention of higher-spending clients, or increased spending by retained clients, or both. Wallet retention is calculated at an enterprise level, which represents a single company or customer.
+
+Conferences Number of destination conferences represents the total number of hosted destination conferences completed during the period. Single day, local meetings are excluded.
+
+ Number of destination conferences attendees represents the total number of people who attend destination conferences. Single day, local meetings are excluded.
+
+Consulting Consulting backlog represents future revenue to be derived from in-process consulting and measurement engagements.
+
+ Utilization rate represents a measure of productivity of our consultants. Utilization rates are calculated for billable headcount on a percentage basis by dividing total hours billed by total hours available to bill.
+
+ Billing rate represents earned billable revenue divided by total billable hours.
+
+ Average annualized revenue per billable headcount represents a measure of the revenue generating ability of an average billable consultant and is calculated periodically by multiplying the average billing rate per hour times the utilization percentage times the billable hours available for one year.
+
+20
+
+EXECUTIVE SUMMARY OF OPERATIONS AND FINANCIAL POSITION
+
+We have executed a consistent growth strategy since 2005 to drive revenue and earnings growth. The fundamentals of our strategy include a focus on creating extraordinary research insight, delivering innovative and highly differentiated product offerings, building a strong sales capability, providing world class client service with a focus on client engagement and retention, and continuously improving our operational effectiveness.
+
+We had total revenues of $4.2 billion in 2019, an increase of 7% compared to 2018 on a reported basis and 9% excluding the foreign currency impact. There was $105.6 million of Other segment revenue on a reported basis in 2018 that did not recur in 2019. Net income increased to $233.3 million in 2019 from $122.5 million in 2018 and, as a result, diluted earnings per share was $2.56 in 2019 compared to $1.33 in 2018.
+
+Research revenues increased to $3.4 billion in 2019, an increase of 9% compared to 2018 on a reported basis and 10% excluding the foreign currency impact. The Research gross contribution margin was 70% and 69% in 2019 and 2018, respectively. Total contract value was $3.4 billion at December 31, 2019, an increase of 12% compared to December 31, 2018 on a foreign currency neutral basis.
+
+Conferences revenues increased to $476.9 million in 2019, an increase of 16% compared to 2018 on a reported basis and 18% excluding the foreign currency impact. The Conferences gross contribution margin was 51% and 50% in 2019 and 2018, respectively. We held 72 and 70 destination conferences in 2019 and 2018, respectively.
+
+Consulting revenues increased to $393.9 million in 2019, an increase of 11% compared to 2018 on a reported basis and 14% excluding the foreign currency impact. The Consulting gross contribution margin was 30% and 29% in 2019 and 2018, respectively. Backlog was $115.7 million at December 31, 2019.
+
+Cash provided by operating activities was $565.4 million and $471.2 million during 2019 and 2018, respectively. As of December 31, 2019, we had $280.8 million of cash and cash equivalents and $1.0 billion of available borrowing capacity on our revolving credit facility. During 2019, we repurchased 1.4 million shares of the Company']:
+Item 1A. Risk Factors 22

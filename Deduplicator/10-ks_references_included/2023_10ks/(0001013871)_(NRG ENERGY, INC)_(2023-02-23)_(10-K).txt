@@ -1,0 +1,1245 @@
+================================================================================
+CIK: 0001013871
+Company Name: NRG ENERGY, INC
+Filing Date: 2023-02-23
+Form Type: 10-K
+Extraction Date: 2025-09-03 11:36:06
+================================================================================
+
+Item 7 — Management's Discussion and Analysis of Financial Condition and Results of Operations
+The discussion and analysis below has been organized as follows:
+•Executive Summary, including the business environment in which the Company operates, a discussion of regulation, weather, competition and other factors that affect the business, and other significant events that are important to understanding the results of operations and financial condition;
+•Results of operations for the years ended December 31, 2022 and December 31, 2021, including an explanation of significant differences between the periods in the specific line items of NRG's Consolidated Statements of Operations;
+•Liquidity and capital resources including liquidity position, financial condition addressing credit ratings, material cash requirements and commitments, and other obligations; and
+•Critical accounting estimates that are most important to both the portrayal of the Company's financial condition and results of operations, and require management's most difficult, subjective, or complex judgments.
+As you read this discussion and analysis, refer to NRG's Consolidated Statements of Operations in this Form 10-K, which present the results of the Company's operations for the years ended December 31, 2022 and 2021, and also refer to Item 1 to this Form 10-K for more detail discussion about the Company's business. A discussion and analysis of fiscal year 2020 may be found in Part II, Item 7 — Management's Discussion and Analysis of Financial Condition and Results of Operations of the Annual Report on Form 10-K for the fiscal year ended December 31, 2021.
+Executive Summary
+NRG Energy, Inc., or NRG or the Company, is a consumer services company built on dynamic retail brands. NRG brings the power of energy to customers by producing and selling energy and related products and services, nation-wide in the U.S. and Canada in a manner that delivers value to all of NRG's stakeholders. NRG sells power, natural gas, home and power services, and develops innovative, sustainable solutions, predominately under the brand names NRG, Reliant, Direct Energy, Green Mountain Energy, Stream, and XOOM Energy. The Company has a customer base that includes approximately 5.4 million Home customers as well as commercial, industrial, and wholesale customers, supported by approximately 16 GW of generation as of December 31, 2022.
+Business Environment
+The industry dynamics and external influences affecting the Company, its businesses, and the retail energy and power generation industry in 2022 and for the future medium term include:
+Market Dynamics — The price of natural gas plays an important role in setting the price of electricity in many of the regions where NRG operates. Natural gas prices are driven by variables including demand from the industrial, residential, and electric sectors, productivity across natural gas supply basins, costs of natural gas production, changes in pipeline infrastructure, global LNG demand, exports of natural gas, and the financial and hedging profile of natural gas customers and producers. In 2022, the average natural gas price at Henry Hub was 73% higher than in 2021.
+NRG may experience impacts to gross margins due to significant, rapid changes in current natural gas prices and the lag in its ability to make a corresponding adjustment to the retail rates it charges customers on term and month to month contracts. The Company hedges its load commitments in order to mitigate the impact of changes in commodity prices, and as a result, these gross margin impacts would be realized in future periods until it is able to make the corresponding adjustments to the retail customer rates.
+The relative price of natural gas as compared to coal is the primary driver of coal demand. Coal commodity prices decreased in 2022 although supply chain disruptions are still affecting coal deliveries, as further discussed below in Global Supply Chain Disruptions.
+Electricity Prices — The price of electricity is a key determinant of the profitability of the Company. Many variables such as the price of different fuels, weather, load growth and unit availability all coalesce to impact the final price for electricity and the Company's profitability. An increase in supply cost volatility in the competitive retail markets may result in smaller companies choosing to exit the market, which may result in further consolidation in the competitive retail space. The following table summarizes average on-peak power prices for each of the major markets in which NRG operates for the years ended December 31, 2022 and 2021. The average on-peak power prices decreased significantly in Texas due to Winter Storm Uri's impact on 2021 pricing. East and West average on-peak prices increased as a result of higher natural gas prices.
+
+44
+
+----------------------- ----------------------------------- ----- ------------ ------ -------- ------ ---- - ---- -
+ Average On-Peak Power Price ($/MWh)
+ Year Ended December 31, 2022 vs 2021
+Region 2022 2021 Change %
+Texas
+ERCOT - Houston(a) $ 90.62 $ 192.17 (53) %
+ERCOT - North(a) 78.34 189.05 (59) %
+East
+NY J/NYC(b) 93.58 48.71 92 %
+NEPOOL(b) 92.42 51.81 78 %
+COMED (PJM)(b) 71.86 41.33 74 %
+PJM West Hub(b) 83.48 45.67 83 %
+West
+CAISO - SP15(b) 87.67 53.53 64 %
+MISO - Louisiana Hub(b) 71.12 43.05 65 %
+
+(a)Average on-peak power prices based on real time settlement prices as published by the respective ISOs
+(b)Average on-peak power prices based on day-ahead settlement prices as published by the respective ISOs
+Increased Awareness of, and Action to Combat, Climate Change —Diverse groups of stakeholders, including investors, asset managers, financial institutions, non-government organizations, industry coalitions, individual companies, consumer groups and academic institutions, are increasingly engaged in efforts to limit global warming in the post-industrial era to 1.5 degrees Celsius. As a result, policymakers and regulators at regional, national, sub-national and local levels of government, both in the U.S. and other parts of the world, are increasingly focused on actions to combat climate change.
+NRG actively monitors climate change related developments that could impact its business and regularly engages with a diverse set of stakeholders on these issues. Such engagement helps the Company identify and pursue potential opportunities both to decarbonize its business and better serve its customers. NRG is committed to providing transparent disclosures of its climate risks and opportunities to stakeholders. The Company was an early supporter of the Task Force on Climate-related Financial Disclosures ("TCFD") recommendations after they were issued in 2017, published a TCFD mapping disclosure in December 2020 and issued a stand-alone TCFD report in December 2021.
+Lower Carbon Infrastructure Development — Policy mechanisms at the state and federal level, including production and investment tax credits, cash grants, loan guarantees, accelerated depreciation tax benefits, RPS, and carbon trading plans, have supported and continue to support the development of renewable generation, demand-side and smart grid, and other lower carbon infrastructure technologies. The U.S. Inflation Reduction Act, signed into law in August 2022, is intended to further support the deployment of lower carbon energy technologies. As costs associated with the development of lower carbon infrastructure, such as wind and solar generating facilities, continue to evolve and impact development of lower carbon infrastructure in the markets where the Company participates, it may impact the ability of the Company's generating facilities to participate in those markets. According to ERCOT, 41% of 2022 energy consumption in the ERCOT market was generated from carbon emission-free resources, with wind power contributing 25%. In addition, as subsidies and incentives contribute to increases in renewable power sources, customer awareness and preferences are shifting toward sustainable solutions. Increased demand for sustainable energy products from both residential and commercial customers creates opportunities for diversified product offerings in competitive retail markets.
+Digitization and Customization — The electric industry is experiencing major technology changes in the way power is distributed and consumed by end-use customers. The electric grid is shifting from a centralized analog system, where power is generated from limited sources and flows in one direction, to a decentralized multidirectional system, where power can be generated from a number of distributed resources and stored or dispatched on an as-needed basis. In addition, customers are seeking new ways to engage with their power providers. Technologies like smart thermostats, smart appliances and electric vehicles are giving individuals more choice and control over their electricity usage.
+Weather — Weather conditions in the regions of the U.S. in which NRG conducts business influence the Company's financial results. Weather conditions can affect the supply and demand for electricity and fuels and may also impact the availability of the Company's generating assets. Changes in energy supply and demand may impact the price of these energy commodities in both the spot and forward markets, which may affect the Company's results in any given period. Typically, demand for and the price of electricity is higher in the summer and the winter seasons, when temperatures are more extreme. The demand for and price of natural gas is also generally higher in the winter. However, all regions of the U.S. typically do not experience extreme weather conditions at the same time, thus NRG's operations are typically not exposed to the effects of extreme weather in all parts of its business at once.
+
+45
+
+Global Supply Chain Disruptions — There are currently global supply chain disruptions impacting natural gas, coal, solar and other fuels and materials necessary for the production and sale of electricity to the Company's retail customers. These supply chain disruptions are due in part to a number of factors outside the Company's control including geopolitical conflicts, public policy of the federal government, the COVID-19 pandemic, labor shortages and extreme weather events in the U.S. These factors are impacting the dispatch of generation facilities, as well as the costs to serve retail customers. The Company expects that supply chain disruptions will continue throughout the remainder of 2023. NRG is working closely with its suppliers and customers to minimize any potential adverse impacts of these events. The Company will continue to actively monitor all direct and indirect potential impacts of the supply chain disruptions, and will seek to mitigate and minimize their impact on business.
+Other Factors — A number of other factors significantly influence the level and volatility of prices for energy commodities and related derivative products for NRG's business. These factors include:
+•seasonal, daily and hourly changes in demand;
+•extreme peak demands;
+•performance of renewable generation;
+•available supply resources;
+•transportation and transmission availability and reliability within and between regions;
+•location of NRG's generating facilities relative to the location of its load-serving opportunities;
+•procedures used to maintain the integrity of the physical electricity system during extreme conditions; and
+•changes in the nature and extent of federal and state regulations.
+These factors can affect energy commodity and derivative prices in different ways and to different degrees. These effects may vary throughout the country as a result of regional differences in:
+•weather conditions;
+•market liquidity;
+•capability and reliability of the physical electricity and gas systems;
+•local transportation systems; and
+•the nature and extent of electricity deregulation.
+Environmental Matters, Regulatory Matters and Legal Proceedings — Details of environmental matters are presented in Item 15 — Note 25, Environmental Matters, to the Consolidated Financial Statements and Item 1 — Business, Environmental Matters. Details of regulatory matters are presented in Item 15 — Note 24, Regulatory Matters, to the Consolidated Financial Statements and Item 1 — Business, Regulatory Matters. Details of legal proceedings are presented in Item 15 — Note 23, Commitments and Contingencies, to the Consolidated Financial Statements. Some of this information relates to costs that may be material to the Company's financial results.
+Significant Events
+The following significant events occurred during 2022 and through the filing date, as further described within this Management's Discussion and Analysis and the Consolidated Financial Statements:
+Vivint Acquisition
+On December 6, 2022, NRG and Vivint Smart Home, Inc. announced the entry into a definitive agreement under which the Company will acquire Vivint in an all-cash transaction. The Company will pay $12 per share, or approximately $2.8 billion in cash, and expects to fund the acquisition using proceeds from newly issued debt and preferred equity, drawing on its Revolving Credit Facility and Receivables Securitization Facilities, and through cash on hand. Additionally, in the first quarter of 2023, NRG increased its Revolving Credit Facility by $600 million to meet the additional liquidity requirements related to the acquisition. Close of the acquisition is targeted for the first quarter of 2023 and is subject to customary closing conditions. See Item 15 — Note 4, Acquisitions and Dispositions, to the Consolidated Financial Statements for further discussion.
+Astoria
+On January 6, 2023, NRG closed on the sale of land and related assets from the Astoria site, within the East region of operations, for initial proceeds of $212 million subject to transaction fees of $3 million and certain indemnifications. As part of the transaction, NRG entered into an agreement to lease the land back for the purpose of operating the Astoria gas turbines through the planned April 30, 2023 retirement date. The operating lease agreement is expected to end six months after the facility's actual retirement date. See Item 15 — Note 4, Acquisitions and Dispositions, to the Consolidated Financial Statements for further discussion.
+
+46
+
+Sale of Watson
+On June 1, 2022, the Company closed on the sale of its 49% ownership in the Watson natural gas generating facility for $59 million. NRG recognized a gain on the sale of $46 million.
+Retirement of Joliet
+During the second quarter of 2022, the results of the PJM Base Residual Auction for the 2023/2024 delivery year were released leading the Company to revise its long-term view of certain facilities and announce the planned retirement of the Joliet generating facility on June 1, 2023. Impairment losses of $20 million and $130 million were recorded on the PJM generating assets and Midwest Generation goodwill, respectively.
+W.A. Parish Extended Outage
+In May 2022, W.A. Parish Unit 8 came offline as a result of damage to the steam turbine/generator. Based on work completed to date, NRG is targeting to return the unit to service by the end of the second quarter of 2023. The Company is working with its insurers related to claims surrounding the outage and has received partial settlements in the fourth quarter of 2022.
+Limestone Unit 1 Return to Service
+In early July 2021, Limestone Unit 1 came offline as a result of damage to the duct work associated with the FGD system. The extended forced outage ended in April of 2022 and the unit has returned to service.
+ERCOT Securitization Proceeds
+During February 2021, Texas experienced unprecedented cold temperatures for a prolonged duration as a result of Winter Storm Uri, resulting in a power emergency, blackouts, and an estimated all-time peak demand of 77 GW (without load shed). In 2021, the Texas Legislature passed HB 4492 for ERCOT to mitigate exceptionally high price adders and ancillary service costs incurred by LSEs during Winter Storm Uri. HB 4492 authorized ERCOT to obtain $2.1 billion of financing to distribute to LSEs that were charged and paid to ERCOT those highly priced ancillary service and ORDPA during Winter Storm Uri. The Company accounted for the proceeds as a reduction to cost of operations within its Consolidated Statements of Operations in the 2021 annual period for which the proceeds were intended to compensate. During the year ended December 31, 2021, Winter Storm Uri's pre-tax financial impact to the Company was a loss of $380 million, which reflects the recovery of $689 million of cost of operations as a result of the proceeds. The Company received the proceeds of $689 million from ERCOT in June 2022.
+Share Repurchases
+In December 2021, the Company's board of directors authorized the Company to repurchase $1.0 billion of its common stock, of which $44 million was repurchased in 2021. During the year ended December 31, 2022, the Company repurchased $601 million of shares at an average price of $40.50 per share, including $6 million of equivalent shares purchased in lieu of tax withholdings on equity compensation issuances. The remaining $355 million repurchases under the $1.0 billion authorization are expected to be repurchased in 2023, subject to the availability of excess cash and full visibility of the achievement of the Company's 2023 targeted credit metrics. . See Item 15 - Note 16, Capital Structure, to the Consolidated Financial Statements for additional discussion.
+Renewable Power Purchase Agreements
+The Company's strategy is to procure mid to long-term renewable generation through power purchase agreements. As of December 31, 2022, NRG has entered into Renewable PPAs totaling approximately 2.4 GW, of which approximately 45% are operational. The average tenor of these agreements is twelve years. The Company expects to continue evaluating and executing similar agreements that support the needs of the business. The total GW entered into through Renewable PPAs may be impacted by contract terminations when they occur.
+Dividend Increase
+In the first quarter of 2022, NRG increased the annual dividend to $1.40 from $1.30 per share. In 2023, NRG further increased the annual dividend to $1.51 per share, representing an 8% increase from 2022. The Company expects to target an annual dividend growth rate of 7-9% per share in subsequent years.
+COVID-19
+While the pandemic presented risks, as further described in Part II, Item 1A — Risk Factors of this Form 10-K, to the Company’s business, there was not a material adverse impact on the Company’s results of operations for the years ended December 31, 2022, 2021 and 2020.
+
+47
+
+Consolidated Results of Operations for the years ended December 31, 2022 and 2021
+The following table provides selected financial information for the Company:
+
+------------------------------------------------------------------------ ----------------------- ------ ------- ------- ------ ------ ------- -- -----
+ Year Ended December 31,
+(In millions, except otherwise noted) 2022 2021(a) Change
+Revenues
+Retail revenue $ 29,722 $ 23,561 $ 6,161
+Energy revenue(b) 1,250 1,215 35
+Capacity revenue(b) 272 775 (503)
+Mark-to-market for economic hedging activities (83) (164) 81
+Contract amortization (39) (30) (9)
+Other revenues(b)(c) 421 1,632 (1,211)
+Total revenues 31,543 26,989 4,554
+Operating Costs and Expenses
+Cost of fuel 1,919 1,840 (79)
+Purchased energy and other cost of sales(d) 24,984 19,770 (5,214)
+Mark-to-market for economic hedging activities (1,331) (2,880) (1,549)
+Contract and emissions credit amortization(d) 111 43 (68)
+Operations and maintenance 1,352 1,370 18
+Other cost of operations 411 339 (72)
+Cost of operations (excluding depreciation and amortization shown below) 27,446 20,482 (6,964)
+Depreciation and amortization 634 785 151
+Impairment losses 206 544 338
+Selling, general and administrative costs 1,228 1,293 65
+Provision for credit losses 11 698 687
+Acquisition-related transaction and integration costs 52 93 41
+Total operating costs and expenses 29,577 23,895 (5,682)
+
+Gain on sale of assets 52 247 (195)
+Operating Income 2,018 3,341 (1,323)
+Other Income/(Expense)
+Equity in earnings of unconsolidated affiliates 6 17 (11)
+
+Other income, net 56 63 (7)
+
+Loss on debt extinguishment, net — (77) 77
+Interest expense (417) (485) 68
+Total other expenses (355) (482) 127
+Income Before Income Taxes 1,663 2,859 (1,196)
+Income tax expense 442 672 (230)
+
+Net Income $ 1,221 $ 2,187 $ (966)
+
+Business Metrics
+Average natural gas price — Henry Hub ($/MMBtu) $ 6.64 $ 3.84 73 %
+
+(a)Includes the impact of Winter Storm Uri
+(b)Includes realized gains and losses from financially settled transactions
+(c)Includes trading gains and losses and ancillary revenues
+(d)Includes amortization of SO2 and NOx credits and excludes amortization of RGGI credits
+
+Gross Margin
+The Company calculates gross margin in order to evaluate operating performance as revenues less cost of fuel, purchased energy and other costs of sales, mark-to-market for economic hedging activities, contract and emission credit amortization and depreciation and amortization.
+
+48
+
+Economic Gross Margin
+In addition to gross margin, the Company evaluates its operating performance using the measure of economic gross margin, which is not a GAAP measure and may not be comparable to other companies’ presentations or deemed more useful than the GAAP information provided elsewhere in this report. Economic gross margin should be viewed as a supplement to and not a substitute for the Company's presentation of gross margin, which is the most directly comparable GAAP measure. Economic gross margin is not intended to represent gross margin. The Company believes that economic gross margin is useful to investors as it is a key operational measure reviewed by the Company's chief operating decision maker. Economic gross margin is defined as the sum of retail revenue, energy revenue, capacity revenue and other revenue, less cost of fuels, purchased energy and other cost of sales. Economic gross margin does not include mark-to-market gains or losses on economic hedging activities, contract amortization, emission credit amortization, depreciation and amortization, operations and maintenance, or other costs of operations.
+
+49
+
+The tables below present the composition and reconciliation of gross margin and economic gross margin for the years ended December 31, 2022 and 2021:
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------- ----- ---- --------- ------------------- ------ ------- ---------------------- ----- ----- ---- --------- ---- - ------
+ Year Ended December 31, 2022
+($ in millions, except otherwise noted) Texas East West/Services/Other Corporate/Eliminations Total
+Retail revenue $ 9,617 $ 15,856 $ 4,250 $ (1) $ 29,722
+Energy revenue 111 641 466 32 1,250
+Capacity revenue — 232 40 — 272
+Mark-to-market for economic hedging activities 2 (30) (56) 1 (83)
+Contract amortization — (40) 1 — (39)
+Other revenue(a) 327 104 5 (15) 421
+Total revenue 10,057 16,763 4,706 17 31,543
+Cost of fuel (1,213) (376) (330) — (1,919)
+Purchased energy and other costs of sales(b)(c)(d) (6,379) (14,782) (3,804) (19) (24,984)
+Mark-to-market for economic hedging activities 611 218 503 (1) 1,331
+Contract and emission credit amortization — (91) (20) — (111)
+Depreciation and amortization (310) (208) (85) (31) (634)
+Gross margin $ 2,766 $ 1,524 $ 970 $ (34) $ 5,226
+Less: Mark-to-market for economic hedging activities, net 613 188 447 — 1,248
+Less: Contract and emission credit amortization, net — (131) (19) — (150)
+Less: Depreciation and amortization (310) (208) (85) (31) (634)
+Economic gross margin $ 2,463 $ 1,675 $ 627 $ (3) $ 4,762
+(a)Includes trading gains and losses and ancillary revenues
+(b)Includes capacity and emissions credits
+(c)Includes $3,043 million, $120 million and $1,134 million of TDSP expense in Texas, East, and West/Services/Other respectively
+(d)Excludes depreciation and amortization shown separately
+Business Metrics Texas East West/Services/Other Corporate/Eliminations Total
+Home electricity sales volume (GWh) 43,155 13,269 2,250 — 58,674
+Business electricity sales volume (GWh) 38,447 47,724 10,231 — 96,402
+Home natural gas retail sales volumes (MDth) — 53,051 92,035 — 145,086
+Business natural gas retail sales volumes (MDth) — 1,618,946 154,074 — 1,773,020
+Average retail Home customer count (in thousands)(a) 2,961 1,783 799 — 5,543
+Ending retail Home customer count (in thousands)(a) 2,859 1,761 786 — 5,406
+GWh sold 37,275 10,832 6,676 — 54,783
+GWh generated (b) 37,275 7,282 6,676 — 51,233
+(a)Home customer count includes recurring residential customers, services customers and municipal aggregations. The whole home warranty business was sold in January 2022
+(b)Includes owned and leased generation, excludes tolled generation and equity investments
+
+50
+
+---------------------------------------------------------------------------------------------------------------------------------------- ---------------------------- ----- ---- --------- ---------------------- ------ ------- ---------------------- ----- ----- ---- --------- ---- - ------
+ Year Ended December 31, 2021
+($ in millions, except otherwise noted) Texas East West/Services/Other(a) Corporate/Eliminations Total
+Retail revenue $ 8,404 $ 11,862 $ 3,296 $ (1) $ 23,561
+Energy revenue 329 508 371 7 1,215
+Capacity revenue — 718 57 — 775
+Mark-to-market for economic hedging activities (3) (88) (86) 13 (164)
+Contract amortization — (26) (4) — (30)
+Other revenue(a) 1,565 51 25 (9) 1,632
+Total revenue 10,295 13,025 3,659 10 26,989
+Cost of fuel (1,424) (196) (220) — (1,840)
+Purchased energy and other costs of sales(b)(c)(d) (6,107) (10,774) (2,887) (2) (19,770)
+Mark-to-market for economic hedging activities 988 1,803 102 (13) 2,880
+Contract and emission credit amortization 2 (28) (17) — (43)
+Depreciation and amortization (336) (333) (88) (28) (785)
+Gross margin $ 3,418 $ 3,497 $ 549 $ (33) $ 7,431
+Less: Mark-to-market for economic hedging activities, net 985 1,715 16 — 2,716
+Less: Contract and emission credit amortization 2 (54) (21) — (73)
+Less: Depreciation and amortization (336) (333) (88) (28) (785)
+Economic gross margin $ 2,767 $ 2,169 $ 642 $ (5) $ 5,573
+(a)Includes trading gains and losses and ancillary revenues
+(b)Includes capacity and emissions credits
+(c)Includes $2,648 million, $183 million and $1,033 million of TDSP expense in Texas, East, and West/Services/Other respectively
+(d)Excludes depreciation and amortization shown separately
+Business Metrics Texas East West/Services/Other Corporate/Eliminations Total
+Home electricity sales volume (GWh) 42,397 14,108 2,252 — 58,757
+Business electricity sales volume (GWh) 34,367 53,204 10,625 — 98,196
+Home natural gas retail sales volumes (MDth) — 50,417 97,272 — 147,689
+Business natural gas retail sales volumes (MDth) — 1,620,036 109,021 — 1,729,057
+Average retail Home customer count (in thousands)(a)(b) 3,040 1,844 977 — 5,861
+Ending retail Home customer count (in thousands)(a)(b) 3,010 1,766 946 — 5,722
+GWh sold 36,920 11,452 8,503 — 56,875
+GWh generated(c)(d) 36,920 7,494 7,949 — 52,363
+(a)Home customer count includes recurring residential customers and municipal aggregations
+(b)Includes 135 thousand whole home warranty customers in West/Services/Other. The whole home warranty business was sold in January 2022
+(c)Includes owned and leased generation, excludes tolled generation and equity investments
+(d)Includes 1,054 GWh and 2,445 GWh in East and West/Services/Other, respectively, that was sold to Generation Bridge in December 2021
+
+51
+
+The table below represents the weather metrics for 2022 and 2021:
+
+--------------- ---------------------- -------------------------- ----- --------------------------- --------------------- ---------------------- --- ---------------------- ----- ---- --- ---------------------- ----- ---- --- ---------------------- ----- ---- ----- ---------------------- --- --- ----- ----- -----
+ Year endedDecember 31, Quarter ended December 31, Quarter ended September 30, Quarter endedJune 30, Quarter endedMarch 31,
+Weather Metrics Texas East West/Services/Other(a) Texas East West/Services/Other(a) Texas East West/Services/Other(a) Texas East West/Services/Other(a) Texas East West/Services/Other(a)
+ 2022
+CDDs(b) 3,417 1,340 2,133 277 72 160 1,789 874 1,268 1,283 352 674 68 42 31
+HDDs(b) 1,935 4,627 2,232 734 1,683 884 — 54 3 24 486 194 1,177 2,404 1,151
+ 2021
+CDDs 2,960 1,275 1,877 386 91 185 1,589 784 1,134 899 362 521 86 38 37
+HDDs 1,562 4,306 2,060 360 1,377 662 — 38 5 82 541 192 1,120 2,350 1,201
+10-year average
+CDDs 3,031 1,305 1,920 290 91 162 1,659 819 1,159 970 356 549 112 39 50
+HDDs 1,668 4,569 2,022 661 1,648 766 6 53 11 66 492 183 935 2,376 1,062
+
+(a)The West/Services/Other weather metrics are comprised of the average of the CDD and HDD regional results for the West - California and West - South Central regions
+(b)National Oceanic and Atmospheric Administration-Climate Prediction Center - A Cooling Degree Day ("CDD"), represents the number of degrees that the mean temperature for a particular day is above 65 degrees Fahrenheit in each region. A Heating Degree Day ("HDD"), represents the number of degrees that the mean temperature for a particular day is below 65 degrees Fahrenheit in each region. The CDDs/HDDs for a period of time are calculated by adding the CDDs/HDDs for each day during the period
+
+Gross margin and economic gross margin
+Gross margin decreased $2.2 billion and economic gross margin decreased $811 million, both of which include intercompany sales, during the year ended December 31, 2022, compared to the same period in 2021. The detail by segment is as follows:
+Texas
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- -----
+ (In millions)
+Lower gross margin due to the impact of Winter Storm Uri in 2021, primarily driven by hedging optimization, partially offset by the negative impact of an increase in unhedgeable ancillary and operating reserve demand curve(a), net of securitization proceeds of $689 million $ (88)
+The following explanations exclude the impact of Winter Storm Uri:
+Lower gross margin due to the net effect of: •a 40%, or $1 billion increase in overall average costs to serve the retail load, driven by increases in power, ancillary, and fuel costs, an extended outage at W.A. Parish Unit 8 and the more conservative winter hedge profile in the first quarter of 2022, partially offset by the favorable impact of the early settlement of a solar PPA and partial settlements of business interruption insurance claims related to W.A. Parish and Limestone extended outages; and •increased net revenue rates of $9.50 per MWh, or $611 million primarily driven by changes in customer term, product and mix (427)
+Higher gross margin due to an increase in load due to weather of 5.3 million MWhs, or $185 million and an increase in load of 220k MWhs, or $58 million, primarily driven by changes in customer mix 243
+Lower gross margin from market optimization activities (40)
+
+Other 8
+Decrease in economic gross margin $ (304)
+Decrease in mark-to-market for economic hedging primarily due to net unrealized gains/losses on open positions related to economic hedges (372)
+Increase in contract and emission credit amortization (2)
+Decrease in depreciation and amortization 26
+Decrease in gross margin $ (652)
+
+(a) For further discussion of ERCOT's securitization activity see Regional Regulatory Developments section under Regulatory Matters in Item 1 - Business
+
+52
+
+East
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- -------
+ (In millions)
+Lower gross margin due to the impact of Winter Storm Uri in 2021, primarily driven by natural gas optimization during volatile pricing that occurred during the weather event $ (146)
+The following explanations exclude the impact of Winter Storm Uri:
+Lower gross margin due to the sale of fossil generating assets to Generation Bridge in December 2021 (211)
+Lower gross margin due to a decrease in generation and capacity as a result of Midwest Generation asset retirements in the second quarter of 2022 (91)
+Lower gross margin due to a 32% decrease in PJM capacity prices and a 45% decrease in New York capacity prices coupled with net Capacity Performance penalties resulting from Winter Storm Elliott in December 2022 (109)
+Lower demand response gross margin primarily due to a decrease in early settlements of capacity obligations in 2022 compared to 2021 (94)
+Lower electric gross margin from decreased load of 6.7 TWh due to attrition and change in customer mix (71)
+Lower electric gross margin due to higher supply costs of $15.25 per MWh. driven primarily by increases in power prices, totaling $931 million, partially offset by higher net revenue rates as a result of changes in customer term, product and mix of $14.50 per MWh, or $888 million (43)
+Higher gross margin primarily at Midwest Generation due to a 31% increase in average realized pricing and an increase in generation volumes due to dark spread expansion, partially offset by increased supply costs 33
+Higher gross margin from the sales of NOx emission credits 19
+Higher natural gas gross margin including the impact of transportation and storage contract optimization, resulting in higher net revenue rates from changes in customer term, product and mix of $2.25 per Dth, or $3.8 billion, partially offset by higher supply costs of $2.15 per Dth, or $3.6 billion 219
+
+Decrease in economic gross margin $ (494)
+Decrease in mark-to-market for economic hedging primarily due to net unrealized gains/losses on open positions related to economic hedges (1,527)
+Increase in contract amortization (77)
+Decrease in depreciation and amortization 125
+Decrease in gross margin $ (1,973)
+
+53
+
+West/Services/Other
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- ----
+ (In millions)
+Lower gross margin due to the impact of Winter Storm Uri in 2021, primarily driven by natural gas optimization during volatile pricing that occurred during the weather event $ (13)
+The following explanations exclude the impact of Winter Storm Uri:
+Lower gross margin due to the sale of fossil generating assets to Generation Bridge in December 2021 (86)
+Lower gross margin due to the sale of the whole home warranty business in the first quarter of 2022 (21)
+Higher gross margin at Cottonwood due to a 84% increase in average realized power prices as well as an anticipated Capacity Performance bonus payment from PJM as a result of Winter Storm Elliott, partially offset by increased commodity costs 95
+Higher gross margin primarily due to increased revenue at Airtron 25
+Higher electric gross margin due to higher revenue rates of $26.50 per MWh, totaling $331 million, partially offset by higher supply costs of $26.00 per MWh, or $322 million from changes in customer term, product and mix 8
+Lower natural gas gross margin due to higher supply costs of $1.65 per Dth, totaling $403 million, partially offset by higher net revenue rates of $1.40 per Dth, or $346 million and an increase in load due to changes in customer mix of $33 million (24)
+
+Other 1
+Decrease in economic gross margin $ (15)
+Increase in mark-to-market for economic hedges primarily due to net unrealized gains/losses on open positions related to economic hedges 431
+Decrease in contract amortization 2
+Decrease in depreciation and amortization 3
+Increase in gross margin $ 421
+
+Mark-to-market for Economic Hedging Activities
+Mark-to-market for economic hedging activities includes asset-backed hedges that have not been designated as cash flow hedges. Total net mark-to-market results decreased by $1.5 billion during the year ended December 31, 2022, compared to the same period in 2021.
+The breakdown of gains and losses included in revenues and operating costs and expenses by segment was as follows:
+
+----------------------------------------------------------------------------------------------------------- ---------------------------- ----- ---- ---- ------------------- ----- ------------ ----- ----- ----- --- - -------
+ Year Ended December 31, 2022
+(In millions) Texas East West/Services/Other Eliminations Total
+Mark-to-market results in revenues
+Reversal of previously recognized unrealized losses/(gains) on settled positions related to economic hedges $ 2 $ (5) $ 40 $ (8) $ 29
+Reversal of acquired (gain) positions related to economic hedges — (3) — — (3)
+Net unrealized (losses) on open positions related to economic hedges — (22) (96) 9 (109)
+Total mark-to-market gains/(losses) in revenues $ 2 $ (30) $ (56) $ 1 $ (83)
+Mark-to-market results in operating costs and expenses
+Reversal of previously recognized unrealized (gains) on settled positions related to economic hedges $ (366) $ (738) $ (165) $ 8 $ (1,261)
+Reversal of acquired loss/(gain) positions related to economic hedges 29 (5) (19) — 5
+Net unrealized gains on open positions related to economic hedges 948 961 687 (9) 2,587
+Total mark-to-market gains in operating costs and expenses $ 611 $ 218 $ 503 $ (1) $ 1,331
+
+54
+
+---------------------------------------------------------------------------------------------------- ---------------------------- --- ---- ----- ------------------- ----- ------------ ----- ---- ----- ---- - -----
+ Year Ended December 31, 2021
+(In millions) Texas East West/Services/Other Eliminations Total
+Mark-to-market results in revenues
+Reversal of previously recognized unrealized (gains) on settled positions related to economic hedges $ — $ (34) $ (4) $ (2) $ (40)
+Reversal of acquired (gain) positions related to economic hedges — (6) — — (6)
+Net unrealized (losses) on open positions related to economic hedges (3) (48) (82) 15 (118)
+Total mark-to-market (losses) in revenues $ (3) $ (88) $ (86) $ 13 $ (164)
+Mark-to-market results in operating costs and expenses
+Reversal of previously recognized unrealized (gains) on settled positions related to economic hedges $ (3) $ — $ — $ 2 $ (1)
+Reversal of acquired loss/(gain) positions related to economic hedges 42 235 (15) — 262
+Net unrealized gains on open positions related to economic hedges 949 1,568 117 (15) 2,619
+Total mark-to-market gains in operating costs and expenses $ 988 $ 1,803 $ 102 $ (13) $ 2,880
+
+Mark-to-market results consist of unrealized gains and losses on contracts that are yet to be settled. The settlement of these transactions is reflected in the same revenue or cost caption as the items being hedged.
+The reversals of acquired gain or loss positions were valued based upon the forward prices on the acquisition date.
+For the year ended December 31, 2022, the $83 million loss in revenues from economic hedge positions was driven by a decrease in the value of open positions as a result of increases in power prices across all segments, partially offset by the reversal of previously recognized unrealized losses on contracts that settled during the period. The $1.3 billion gain in operating costs and expenses from economic hedge positions was driven primarily by an increase in the value of open positions as a result of increases in natural gas and power prices across all segments partially offset by the reversal of previously recognized unrealized gains on contracts that settled during the period.
+For the year ended December 31, 2021, the $164 million loss in revenues from economic hedge positions was driven primarily by a decrease in the value of open positions as a result of increases in East and West/Services/Other power prices, as well as the reversal of previously recognized unrealized gains on contracts that settled during the period. The $2.9 billion gain in operating costs and expenses from economic hedge positions was driven primarily by an increase in the value of open positions as a result of increases in natural gas and power prices across all segments as well as the reversal of acquired contracts that settled during the year.
+In accordance with ASC 815, the following table represents the results of the Company's financial and physical trading of energy commodities for the years ended December 31, 2022 and 2021. The realized and unrealized financial and physical trading results are included in revenue. The Company's trading activities are subject to limits within the Company's Risk Management Policy.
+
+---------------------- ----------------------- - ---- ---- - ---
+ Year ended December 31,
+(In millions) 2022 2021
+Trading gains/(losses)
+Realized $ 6 $ 124
+Unrealized (4) (32)
+Total trading gains $ 2 $ 92
+
+55
+
+Operations and Maintenance Expenses
+Operations and maintenance expenses are comprised of the following:
+
+---------------------------- ----- --- ---- --- ------------------- --- --------- ------------ --- ----- --- - ----- - --- - -----
+(In millions) Texas East West/Services/Other Corporate Eliminations Total
+
+Year Ended December 31, 2022 $ 749 $ 391 $ 214 $ 1 $ (3) $ 1,352
+Year Ended December 31, 2021 703 452 218 2 (5) 1,370
+
+Operations and maintenance expenses decreased by $18 million for the year ended December 31, 2022, compared to the same period in 2021, due to the following:
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- ----
+ (In millions)
+Decrease due to the sale of fossil generating assets to Generation Bridge in December 2021 $ (90)
+Decrease due to current year settled property insurance claims for extended outages at W.A. Parish and Limestone, primarily offset by the cost of restoration efforts at W.A. Parish in 2022 (35)
+Decrease due to Midwest Generation asset retirements in the second quarter of 2022 as well as spare parts inventory reserves in 2021 (20)
+Decrease driven by current year scrap proceeds associated with the demolition of the Encina site (4)
+Decrease driven by higher maintenance in 2021 resulting from the impacts of Winter Storm Uri (2)
+Increase due to scope of outages at the Texas coal and gas facilities (excluding W.A. Parish included above) in 2022, partially offset by a prior year planned outage at STP 69
+Increase in variable operation and maintenance expense at the PJM coal facilities associated with increased generation during 2022 39
+Increase in estimates of environmental remediation costs at deactivated sites in the East and West/Services/Other 25
+Increase driven by higher retail operations costs primarily to support growth at Airtron 6
+Other (6)
+Decrease in operations and maintenance expense $ (18)
+
+Other Cost of Operations
+Other Cost of operations are comprised of the following:
+
+---------------------------- ----- --- ---- --- ------------------- --- -- ----- -- --- - ---
+(In millions) Texas East West/Services/Other Total
+
+Year Ended December 31, 2022 $ 246 $ 149 $ 16 $ 411
+Year Ended December 31, 2021 194 129 16 339
+
+Other cost of operations increased by $72 million for the year ended December 31, 2022, compared to the same period in 2021, due to the following:
+
+------------------------------------------------------------------------------------------ ------------- ----
+ (In millions)
+Decrease due to the sale of fossil generating assets to Generation Bridge in December 2021 $ (30)
+Increase in retail gross receipt taxes due to higher revenues 51
+Increase due to changes in current year ARO cost estimates, primarily at Jewett Mine 28
+Increase due to higher property insurance premiums 18
+Other 5
+Increase in other cost of operations $ 72
+
+56
+
+Depreciation and Amortization
+Depreciation and amortization expenses are comprised of the following:
+
+---------------------------- ----- --- ---- --- ------------------- --- --------- ----- -- --- - -- - ---
+(In millions) Texas East West/Services/Other Corporate Total
+
+Year Ended December 31, 2022 $ 310 $ 208 $ 85 $ 31 $ 634
+Year Ended December 31, 2021 336 333 88 28 785
+
+Depreciation and amortization expense decreased by $151 million for the year ended December 31, 2022 compared to the same period in 2021, primarily due to lower depreciation as a result of asset impairments, sales, and retirements, as well as lower amortization as a result of the expected roll off of acquired intangibles.
+Impairment Losses
+During the year ended December 31, 2022, the Company recorded impairment losses of $206 million, of which $150 million were related to the decline in PJM capacity prices and the near-term retirement date of the Joliet facility, $43 million related to the purchase and sale agreement for the sale of the land and related assets at the Astoria generating site and the planned withdrawal and cancellation of its proposed Astoria redevelopment project, and an additional $13 million in the East segment.
+During the year ended December 31, 2021, the Company recorded impairment losses of $544 million, of which $306 million was recorded in the second quarter related to the decline in capacity prices and the planned retirement of a significant portion of the PJM coal fleet, $213 million in the fourth quarter as a result of changes in the long-term outlook of the Joliet facility prompted by market conditions and an assessment of various alternatives for the long-term operational landscape of the facility including the impact of the CEJA in Illinois, and $25 million related to various other power plants.
+Refer to Item 15 — Note 11, Asset Impairments, to the Consolidated Financial Statements for further discussion.
+Selling, General and Administrative Costs
+Selling, general and administrative costs are comprised of the following:
+
+---------------------------- ----- --- ---- --- ------------------- --- --------- ----- --- ----- -- - -----
+(In millions) Texas East West/Services/Other Corporate Total
+
+Year Ended December 31, 2022 $ 559 $ 428 $ 202 $ 39 $ 1,228
+Year Ended December 31, 2021 574 472 198 49 1,293
+
+Selling, general and administrative costs decreased by $65 million for the year ended December 31, 2022 compared to the same period in 2021, due to the following:
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- ----
+ (In millions)
+Decrease due to Winter Storm Uri, including charitable giving, legal and other costs of $20 million in 2021, ERCOT default charges of $9 million in 2021, and the reversal of the ERCOT default charges of $9 million in 2022 $ (38)
+Decrease in personnel costs (30)
+Decrease in transition service agreement costs related to the Direct Energy acquisition (21)
+Decrease in marketing and media expenses (17)
+Increase in broker fee expenses, partially offset by lower commissions expenses 22
+
+Increase due to higher consulting expenses including spending related to Company's growth initiatives 13
+Other 6
+Decrease in selling, general and administrative costs $ (65)
+
+57
+
+Provision for Credit Losses
+Provision for credit losses are comprised of the following:
+
+---------------------------- ----- ---- ---- - ------------------- -- -- ----- -- --- - --
+(In millions) Texas East West/Services/Other Total
+
+Year Ended December 31, 2022 $ (40) $ 28 $ 23 $ 11
+Year Ended December 31, 2021 678 8 12 698
+
+Provision for credit losses decreased by $687 million for the year ended December 31, 2022, compared to the same period in 2021, due to the following:
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------- -----
+ (In millions)
+Decrease due to Winter Storm Uri, including :Decrease of $403 million related to bilateral financial hedging risk in 2021 as well as $70 million of loss mitigation in 2022Decrease of $126 million related to counterparty credit risk in 2021 as well as $12 million of loss mitigation in 2022Decrease of $67 million related to ERCOT default shortfall payments in 2021 as well as $44 million of loss mitigation in 2022 $ (722)
+Increase due to higher revenues and deteriorated customer payment behavior 35
+Decrease in provision for credit losses $ (687)
+
+Acquisition-Related Transaction and Integration Costs
+Acquisition-related transaction and integration costs were $52 million for the year ended December 31, 2022, which included $34 million of integration costs, primarily related to Direct Energy, and $18 million of acquisitions costs, primarily related to the planned acquisition of Vivint. Acquisition-related transaction and integration costs of $93 million were incurred during the year ended December 31, 2021, related to Direct Energy, of which $25 million were acquisition-related transaction costs and $68 million were integration costs, primarily related to employee costs, software costs and consulting services.
+Gain on Sale of Assets
+The gain on sale of assets of $52 million and $247 million recorded for the years ended December 31, 2022 and 2021, respectively, include:
+
+------------------------------------------------------------------------------------- ------------------ --- ---- -- - ---
+ As of December 31,
+(In millions) 2022 2021
+Sale of 4,850 MW of fossil generating assets to Generation Bridge in December of 2021 $ (3) $ 210
+Sale of the Company's 49% ownership in the Watson natural gas generating facility 46 —
+Sale of the Company's 50% ownership in Petra Nova 22 —
+Sale of a deactivated site in November 2021 — 20
+Sale of Agua Caliente in February 2021 — 17
+Other asset sales (13) —
+Gain on sale of assets $ 52 $ 247
+
+Loss on Debt Extinguishment
+A loss on debt extinguishment of $77 million was recorded for the year ended December 31, 2021, driven by the redemption of senior notes as further discussed in Item 15 — Note 13, Long-term Debt and Finance Leases, to the Consolidated Financial Statements.
+Interest Expense
+Interest expense decreased by $68 million for the year ended December 31, 2022, compared to the same period in 2021, primarily due to debt reduction and the refinancing of debt to lower interest rates in the second half of 2021.
+
+58
+
+Income Tax Expense
+For the year ended December 31, 2022, NRG recorded income tax expense of $442 million on pre-tax income of $1.7 billion. For the same period in 2021, NRG recorded income tax expense of $672 million on pre-tax income of $2.9 billion. The effective tax rate was 26.6% and 23.5% for the years ended December 31, 2022 and 2021, respectively.
+For the year ended December 31, 2022, NRG's overall effective tax rate was higher than the federal statutory tax rate of 21% primarily due to state tax expense, partially offset by the recognition of carbon capture tax credits.
+
+----------------------------------------------- ----------------------- ----- ---- ---- - -----
+ Year Ended December 31,
+(In millions, except effective income tax rate) 2022 2021
+Income before income taxes $ 1,663 $ 2,859
+Tax at federal statutory tax rate 349 600
+Foreign rate differential 7 (3)
+State taxes 69 111
+Deferred impact of state tax rate changes 14 (10)
+
+Changes in valuation allowance (3) (29)
+
+Permanent differences 17 8
+Return to provision adjustments — 5
+Carbon capture tax credits (19) —
+Recognition of uncertain tax benefits 8 (10)
+
+Income tax expense $ 442 $ 672
+Effective income tax rate 26.6 % 23.5 %
+
+The effective income tax rate may vary from period to period depending on, among other factors, the geographic and business mix of earnings and losses and changes in valuation allowances in accordance with ASC 740, Income Taxes ("ASC 740"). These factors and others, including the Company's history of pre-tax earnings and losses, are taken into account in assessing the ability to realize deferred tax assets.
+
+Liquidity and Capital Resources
+Liquidity Position
+As of December 31, 2022 and 2021, NRG's liquidity, excluding collateral funds deposited by counterparties, was approximately $2.8 billion and $2.7 billion, respectively, comprised of the following:
+
+------------------------------------------------------------------------------------------ ------------------ ----- ---- ----- - -----
+ As of December 31,
+(In millions) 2022 2021
+
+Cash and cash equivalents: $ 430 $ 250
+Restricted cash - operating 5 4
+Restricted cash - reserves (a) 35 11
+Total 470 265
+Total availability under Revolving Credit Facility and collective collateral facilities(b) 2,324 2,421
+Total liquidity, excluding collateral funds deposited by counterparties $ 2,794 $ 2,686
+
+(a)Includes reserves primarily for debt service, performance obligations and capital expenditures
+(b)Total capacity of Revolving Credit Facility and collective collateral facilities was $6.4 billion and $5.9 billion as of December 31, 2022 and December 31, 2021, respectively
+
+As of December 31, 2022, total liquidity, excluding collateral funds deposited by counterparties, increased by $108 million. Changes in cash and cash equivalent balances are further discussed under the heading Cash Flow Discussion. Cash and cash equivalents at December 31, 2022, were predominantly held in money market funds invested in treasury securities, treasury repurchase agreements or government agency debt.
+Management believes that the Company's liquidity position and cash flows from operations will be adequate to finance operating and maintenance capital expenditures, to fund dividends to NRG's common stockholders, and to fund other liquidity commitments. Management continues to regularly monitor the Company's ability to finance the needs of its operating, financing and investing activity within the dictates of prudent balance sheet management.
+
+59
+
+Credit Ratings
+On December 6, 2022, following the Vivint acquisition announcement, Standard & Poor's placed NRG's issuer credit of BB+ on CreditWatch with negative implications. Concurrently, Fitch assigned NRG a first-time issuer Default Rating of BB+ with a stable outlook. There was no change to Moody's rating during the year ended December 31, 2022.
+The following table summarizes the Company's current credit ratings:
+
+------------------------------------ ------------ ---------- ----------
+ S&P Moody's Fitch
+NRG Energy, Inc. BB+ Negative Ba1 Stable BB+ Stable
+3.75% Senior Secured Notes, due 2024 BBB- Baa3 BBB-
+2.00% Senior Secured Notes, due 2025 BBB- Baa3 BBB-
+2.45% Senior Secured Notes, due 2027 BBB- Baa3 BBB-
+6.625% Senior Notes, due 2027 BB+ Ba2 BB+
+5.75% Senior Notes, due 2028 BB+ Ba2 BB+
+3.375% Senior Notes, due 2029 BB+ Ba2 BB+
+4.45% Senior Secured Notes, due 2029 BBB- Baa3 BBB-
+5.25% Senior Notes, due 2029 BB+ Ba2 BB+
+3.625% Senior Notes, due 2031 BB+ Ba2 BB+
+3.875% Senior Notes, due 2032 BB+ Ba2 BB+
+Revolving Credit Facility, due 2024 BBB- Baa3 BBB-
+
+Liquidity
+The principal sources of liquidity for NRG's operating and capital expenditures are expected to be derived from cash on hand, cash flows from operations and financing arrangements. As described in Item 15 — Note 13, Long-term Debt and Finance Leases, to the Consolidated Financial Statements, the Company's financing arrangements consist mainly of the Senior Notes, Convertible Senior Notes, Senior Secured First Lien Notes, Revolving Credit Facility, and tax-exempt bonds.
+The Company's requirements for liquidity and capital resources, other than for operating its facilities, can generally be categorized by the following: (i) market operations activities; (ii) debt service obligations, as described more fully in Item 15 — Note 13, Long-term Debt and Finance Leases, to the Consolidated Financial Statements; (iii) capital expenditures, including maintenance, repowering, development, and environmental; and (iv) allocations in connection with acquisition opportunities, debt repayments, share repurchases and dividend payments to stockholders, as described in Item 15 — Note 16, Capital Structure, to the Consolidated Financial Statements.
+The Company remains committed to maintaining a strong balance sheet and continues to work to achieve investment grade credit metrics over time primarily through debt reduction and the realization of growth initiatives.
+ERCOT Securitization Proceeds
+During February 2021, Texas experienced unprecedented cold temperatures for a prolonged duration as a result of Winter Storm Uri, resulting in a power emergency, blackouts, and an estimated all-time peak demand of 77 GW (without load shed). In 2021, the Texas Legislature passed HB 4492 for ERCOT to mitigate exceptionally high price adders and ancillary service costs incurred by LSEs during Winter Storm Uri. HB 4492 authorized ERCOT to obtain $2.1 billion of financing to distribute to LSEs that were charged and paid to ERCOT those highly priced ancillary service and ORDPA during Winter Storm Uri. The Company accounted for the proceeds as a reduction to cost of operations within its Consolidated Statements of Operations in the 2021 annual period for which the proceeds were intended to compensate. During the year ended December 31, 2021, Winter Storm Uri's pre-tax financial impact to the Company was a loss of $380 million, which reflects the recovery of $689 million of cost of operations as a result of the proceeds. The Company received the proceeds of $689 million from ERCOT in June 2022.
+Winter Storm Uri Credit Loss Recoveries
+During Winter Storm Uri, in February 2021, the Company experienced nonperformance by a counterparty in one of its bilateral financial hedging transactions, resulting in exposure of $403 million. During December 2022, the Company received $70 million as part of the Company's loss mitigation efforts in settlement of this exposure.
+Brazos Electric Cooperative Bankruptcy
+As further discussed in Item 1 — Business, Regulatory Matters, the Company received $29 million as a result of Brazos' chapter 11 plan and the related ERCOT settlement.
+
+60
+
+Revolving Credit Facility
+On February 14, 2023, the Company amended its Revolving Credit Facility to: (i) increase the existing revolving commitments thereunder by $600 million, (ii) extend the maturity date of a portion of the revolving commitments thereunder to February 14, 2028, (iii) transition the benchmark rate applicable to revolving loans from LIBOR to SOFR and (iv) make certain other amendments to the terms of the Revolving Credit Facility for purposes of, among other things, providing additional flexibility. See Note 13, Long-term Debt and Finance Leases for further discussion.
+Receivables Securitization Facilities
+On February 9, 2022, the Company entered into amendments to its existing Repurchase Facility to, among other things, (i) increase the size of the facility from $75 million to $150 million and (ii) replace LIBOR with term SOFR as the benchmark for the pricing rate. On July 26, 2022, the Company renewed its existing Repurchase Facility to extend the maturity date to July 26, 2023. The Repurchase Facility has no commitment fee and borrowings will be drawn at SOFR + 1.30%. As of December 31, 2022, there were no outstanding borrowings.
+On July 26, 2022, NRG Receivables LLC, a wholly-owned indirect subsidiary of the Company, entered into an amendment to its Receivables Facility dated September 22, 2020, with a group of conduit lenders and banks and Royal Bank of Canada, as Administrative Agent to, among other things, (i) extend the scheduled termination date by one year, (ii) increase the aggregate commitments from $800 million to $1.0 billion, (iii) increase the letter of credit sublimit to equal the aggregate commitments, (iv) replace LIBOR with Term SOFR as the benchmark for borrowings and (v) add new originators. The weighted average interest rate related to usage under the Receivables Facility as of December 31, 2022 was 0.844%. As of December 31, 2022, there were no outstanding borrowings and there were $721 million in letters of credit issued under the Receivables Facility.
+Bilateral Letter of Credit Facilities
+On April 29, 2022, May 27, 2022 and October 13, 2022, the Company increased the size of the facilities by $100 million, $50 million and $50 million, respectively, to provide additional liquidity, allowing for the issuance of up to $675 million of letters of credit. As of December 31, 2022, $668 million was issued under these facilities.
+Vivint Acquisition
+On December 6, 2022, NRG and Vivint announced the entry into a definitive agreement under which the Company will acquire Vivint in an all-cash transaction. The Company will pay $12 per share, or approximately $2.8 billion in cash, and expects to fund the acquisition using proceeds from newly issued debt and preferred equity, drawing on its Revolving Credit Facility and Receivables Securitization Facilities, and through cash on hand. Additionally, in the first quarter of 2023, NRG increased its Revolving Credit Facility by $600 million to meet the additional liquidity requirements related to the acquisition. Close of the acquisition is targeted for the first quarter of 2023 and is subject to customary closing conditions. See Item 15 — Note 4, Acquisitions and Dispositions, to the Consolidated Financial Statements for further discussion.
+Astoria
+On January 6, 2023, the Company closed on the sale of land and related assets from the Astoria site, within the East region of operations, for initial proceeds of $212 million subject to transactions fees of $3 million and certain indemnifications. As part of the transaction, NRG entered into an agreement to lease the land back for the purpose of operating the Astoria gas turbines through the planned April 30, 2023, retirement date. The operating lease agreement is expected to end six months after the facility's actual retirement date. See Item 15 — Note 4, Acquisitions and Dispositions, to the Consolidated Financial Statements for further discussion.
+Sale of Watson
+On June 1, 2022, the Company closed on the sale of its 49% ownership in the Watson natural gas generating facility for $59 million. NRG recognized a gain on the sale of $46 million.
+W.A. Parish Extended Outage
+In May 2022, W.A. Parish Unit 8 came offline as a result of damage to certain components of the steam turbine/generator. Based on work completed to date, the Company is targeting to return the unit to service by the end of the second quarter of 2023. The Company is working with its insurers related to claims surrounding the outage and has received partial settlements in the fourth quarter of 2022.
+
+61
+
+CARES Act
+On March 27, 2020, the U.S. government enacted the CARES Act, which provides, among other things: (i) the option to defer payments of certain 2019 employer payroll taxes incurred after the date of enactment; and (ii) allows NOLs from tax years 2018, 2019, and 2020 to be carried back five years. The total benefit to the Company due to the CARES Act was $35 million. Of this amount, $13 million related to certain 2019 employer payroll taxes was paid in 2022. All deferred employer payroll taxes have been repaid as of December 31, 2022.
+Pension and Other postretirement benefit contributions
+As of December 31, 2022, the Company’s estimated pension minimum funding requirements for the next 5 years were $171 million, of which $83 million are required to be made within the next 12 months. As of December 31, 2022, the Company’s estimated other postretirement benefits minimum funding requirements for the next 5 years were $32 million, of which $7 million are required to be made within the next 12 months. These amounts represent estimates based on assumptions that are subject to change. For further discussion, see Item 15 — Note 15, Benefit Plans and Other Postretirement Benefits, to the Consolidated Financial Statements.
+Debt Service Obligations
+Principal payments on debt and finance leases as of December 31, 2022, are due in the following periods:
+
+----------------------------------------- ---- --- ---- --- ---- --- ---- ---- --- ---------- ----- --- ----- - ----- ----- - ----- - -----
+(In millions)
+Description 2023 2024 2025 2026 2027 Thereafter Total
+Recourse Debt:
+Senior Notes, due 2027 $ — $ — $ — $ — $ 375 $ — $ 375
+Senior Notes, due 2028 — — — — — 821 821
+Senior Notes, due 2029 — — — — — 733 733
+Senior Notes, due 2029 — — — — — 500 500
+Senior Notes, due 2031 — — — — — 1,030 1,030
+Senior Notes, due 2032 — — — — — 1,100 1,100
+Convertible Senior Notes, due 2048 — — — — — 575 575
+Senior Secured First Lien Notes, due 2024 — 600 — — — — 600
+Senior Secured First Lien Notes, due 2025 — — 500 — — — 500
+Senior Secured First Lien Notes, due 2027 — — — — 900 — 900
+Senior Secured First Lien Notes, due 2029 — — — — — 500 500
+
+Tax-exempt bonds 59 — 247 — — 160 466
+Subtotal Recourse Debt 59 600 747 — 1,275 5,419 8,100
+
+Finance Leases:
+Finance leases 4 4 2 1 — — 11
+
+Total Debt and Finance Leases $ 63 $ 604 $ 749 $ 1 $ 1,275 $ 5,419 $ 8,111
+
+Interest Payments $ 390 $ 370 $ 358 $ 355 $ 298 $ 878 $ 2,649
+
+For further discussion, see Item 15 — Note 13, Long-term Debt and Finance Leases.
+Market Operations
+The Company's market operations activities require a significant amount of liquidity and capital resources. These liquidity requirements are primarily driven by: (i) margin and collateral posted with counterparties; (ii) margin and collateral required to participate in physical markets and commodity exchanges; (iii) timing of disbursements and receipts (e.g. buying fuel before receiving energy revenues); and (iv) initial collateral for large structured transactions. As of December 31, 2022, market operations had total cash collateral outstanding of $260 million and $4.0 billion outstanding in letters of credit to third parties primarily to support its market activities. As of December 31, 2022, total funds deposited by counterparties were $1.7 billion in cash and $888 million of letters of credit.
+The Company has entered into long-term contractual arrangements to procure certain fuel and transportation services for the Company's generation assets. As of December 31, 2022, the Company had minimum payment obligations under such outstanding agreements of $452 million, with $110 million payable within the next 12 months. Additionally, the Company has long-term contractual commitments related to electricity and natural gas products, including power purchases, gas
+
+62
+
+transportation and storage of various quantities and durations. As of December 31, 2022, the Company had minimum purchased energy commitments under long-term contracts of $4.3 billion, with $908 million payable within the next 12 months, and an additional $1.5 billion of short-term purchase energy commitments. For further discussion, see Item 15 — Note 23, Commitments and Contingencies.
+Future liquidity requirements may change based on the Company's hedging activities and structures, fuel purchases, and future market conditions, including forward prices for energy and fuel and market volatility. In addition, liquidity requirements are dependent on the Company's credit ratings and general perception of its creditworthiness.
+First Lien Structure
+NRG has granted first liens to certain counterparties on a substantial portion of the Company's assets, subject to various exclusions including NRG's assets that have project-level financing and the assets of certain non-guarantor subsidiaries, to reduce the amount of cash collateral and letters of credit that it would otherwise be required to post from time to time to support its obligations under out-of-the-money hedge agreements for forward sales of power or MWh equivalents. The first lien program does not limit the volume that can be hedged or the value of underlying out-of-the-money positions. The first lien program also does not require NRG to post collateral above any threshold amount of exposure. The first lien structure is not subject to unwind or termination upon a ratings downgrade of a counterparty and has no stated maturity date.
+The Company's first lien counterparties may have a claim on its assets to the extent market prices exceed the hedged prices. As of December 31, 2022, all hedges under the first liens were out-of-the-money on a counterparty aggregate basis.
+The following table summarizes the amount of MW hedged against the Company's coal and nuclear assets and as a percentage relative to the Company's coal and nuclear capacity under the first lien structure as of December 31, 2022:
+
+---------------------------------------------------------- ----
+Equivalent Net Sales Secured by First Lien Structure (a) 2023
+In MW 608
+As a percentage of total net coal and nuclear capacity (b) 17%
+
+(a)Equivalent Net Sales include natural gas swaps converted using a weighted average heat rate by region
+(b)Net coal and nuclear capacity, inclusive of expected outages, represents 80% of the Company's total coal and nuclear assets eligible under the first lien, which excludes coal assets acquired in the Midwest Generation acquisition
+
+Capital Expenditures
+The following table summarizes the Company's capital expenditures for maintenance, environmental and growth investments for the year ended December 31, 2022:
+
+------------------------------------------ ----------- ----- ------------- --- --------------------- --- ----- - ----- - -----
+(In millions) Maintenance Environmental Growth Investments(a) Total
+Texas $ (205) $ (1) $ (67) $ (273)
+East (3) — (4) (7)
+West/Services/Other (23) — (14) (37)
+Corporate (4) — (46) (50)
+Total cash capital expenditures for 2022 (235) (1) (131) (367)
+
+Investments — — (118) (118)
+Total capital expenditures and investments $ (235) $ (1) $ (249) $ (485)
+
+(a)Includes other investments, acquisitions and integration projects
+Growth investments for the year ended December 31, 2022, include expenditures for small book acquisitions, service acquisitions, integration operating expenses, as well as the Encina site improvements classified as ARO payments. NRG has completed its demolition activities at the site and has begun marketing the site.
+
+Environmental Capital Expenditures Estimate
+NRG estimates that environmental capital expenditures from 2023 through 2027 required to comply with environmental laws will be approximately $42 million. The largest component is the cost of complying with ELG at the Company's coal units in Texas.
+
+63
+
+The table below summarizes the status of NRG's coal fleet with respect to air quality controls. NRG uses an integrated approach to fuels, controls and emissions markets to meet environmental requirements.
+
+------------------- ----- ----------------- ------------ ----------------- ------------ ----------------- ------------ ----------------- ------------
+ SO2 NOx Mercury Particulate
+Units State Control Equipment Install Date Control Equipment Install Date Control Equipment Install Date Control Equipment Install Date
+Indian River 4 DE CDS 2011 LNBOFA/SCR 1999/2011 ACI/CDS/FF 2008/2011 ESP/FF 1980/2011
+
+Limestone 1-2 TX FGD 1985-86 LNBOFA 2002/2003 ACI 2015 ESP 1985-1986
+Powerton 5 IL DSI 2016 OFA/SNCR 2003/2012 ACI 2009 ESP/upgrade 1973/2016
+Powerton 6 IL DSI 2014 OFA/SNCR 2002/2012 ACI 2009 ESP/upgrade 1976/2014
+W.A. Parish 5, 6, 7 TX FF co-benefit 1988 SCR 2004 ACI 2015 FF 1988
+W.A. Parish 8 TX FGD 1982 SCR 2004 ACI 2015 FF 1988
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------
+ACI - Activated Carbon InjectionCDS - Circulating Dry ScrubberDSI - Dry Sorbent Injection with TronaESP - Electrostatic PrecipitatorFGD - Flue Gas Desulfurization (wet) FF- Fabric FilterLNBOFA - Low NOx Burner with Overfire AirOFA - Overfire AirSCR - Selective Catalytic ReductionSNCR - Selective Non-Catalytic Reduction
+
+The following table summarizes the estimated environmental capital expenditures by year:
+
+------------- ----- --
+(In millions) Total
+ 2023 $ 17
+ 2024 15
+ 2025 10
+
+Total $ 42
+
+Asset Sales Target
+NRG is targeting additional asset sales with projected proceeds, net of any required deleveraging, of $500 million during 2023.
+Share Repurchases
+In December 2021, the Company's board of directors authorized the Company to repurchase $1.0 billion of its common stock, of which $44 million was repurchased in 2021. During the year ended December 31, 2022, the Company repurchased $601 million of shares at an average price of $40.50 per share, including $6 million of equivalent shares purchased in lieu of tax withholdings on equity compensation issuances. The remaining $355 million repurchases under the $1.0 billion authorization are expected to be repurchased in 2023, subject to the availability of excess cash and full visibility of the achievement of the Company's 2023 targeted credit metrics. See Item 15 - Note 16, Capital Structure, to the Consolidated Financial Statements for additional discussion.
+Dividend Increase
+In the first quarter of 2022, NRG increased the annual dividend to $1.40 from $1.30 per share. The Company returned $334 million of capital to shareholders in the year ended 2022 through a $1.40 dividend per common share. In 2023, NRG further increased the annual dividend to $1.51 per share, representing an 8% increase from 2022. The Company expects to target an annual dividend growth rate of 7-9% per share in subsequent years.
+On January 20, 2023, NRG declared a quarterly dividend on the Company's common stock of $0.3775 per share, or $1.51 per share on an annualized basis, payable on February 15, 2023, to stockholders of record as of February 1, 2023. The Company's common stock dividends are subject to available capital, market conditions, and compliance with associated laws and regulations.
+Additional Material Cash Requirements Not Discussed Above
+Operating leases — The Company leases generating facilities, land, office and equipment, railcars, fleet vehicles and storefront space at retail stores. As of December 31, 2022, the Company had lease payment obligations of $311 million, of which $97 million is payable within the next 12 months. For further discussion, see Item 15 — Note 10, Leases.
+Other liabilities — Other liabilities includes water right agreements, service and maintenance agreements, stadium naming rights, stadium sponsorships, long-term service agreements and other contractual obligations. As of December 31,
+
+64
+
+2022, the Company had total of $266 million under such commitments, of which $66 million are payable within the next 12 months.
+Contingent obligations for guarantees — NRG and its subsidiaries enter into various contracts that include indemnifications and guarantee provisions as a routine part of the Company’s business activities. For further discussion, see Item 15 —Note 27, Guarantees.
+Obligations Arising Out of a Variable Interest in an Unconsolidated Entity
+Variable interest in Equity investments — NRG's investment in Ivanpah is a variable interest entity for which NRG is not the primary beneficiary. See also Item 15 — Note 17, Investments Accounted for by the Equity Method and Variable Interest Entities, to the Consolidated Financial Statements for additional discussion. NRG's pro-rata share of non-recourse debt was approximately $478 million as of December 31, 2022. This indebtedness may restrict the ability of these subsidiaries to issue dividends or distributions to NRG.
+
+Cash Flow Discussion
+2022 compared to 2021
+The following table reflects the changes in cash flows for the comparative years:
+
+-------------------------------------------- ----------------------- --- ---- ------- ------ --- ----- - -----
+ Year ended December 31,
+(In millions) 2022 2021 Change
+Cash provided by operating activities $ 360 $ 493 $ (133)
+Cash used by investing activities (332) (3,039) 2,707
+Cash provided/(used) by financing activities 1,043 (272) 1,315
+
+Cash provided by operating activities
+Changes to cash (used)/provided by operating activities were driven by:
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- -------
+ (In millions)
+Decrease in operating income adjusted for other non-cash items $ (1,161)
+Increase due to receipt of uplift securitization proceeds from ERCOT in 2022 689
+Increase in working capital primarily attributable to the impact of higher market prices on accounts payable, partially offset by a decrease working capital related to higher priced natural gas inventory and accounts receivable 300
+Changes in cash collateral in support of risk management activities due to change in commodity prices 99
+Other changes in working capital primarily driven by lower personnel costs (60)
+
+ $ (133)
+
+Cash used by investing activities
+Changes to cash provided/(used) by investing activities were driven by:
+
+---------------------------------------------------------------------------------------------------------------------------------- ------------- -----
+ (In millions)
+Increase as a result of less cash paid for acquisitions of assets primarily for Direct Energy in 2021 $ 3,497
+Decrease in proceeds from sale of assets primarily due to the prior year's sales of the fossil generating assets and Agua Caliente (721)
+Increase in capital expenditures (98)
+Increase due to fewer purchases of investments in nuclear decommissioning trust fund securities, net of sales 35
+Decrease in sales of emissions allowances (6)
+
+ $ 2,707
+
+65
+
+Cash provided/(used) by financing activities
+Changes in cash provided/(used) by financing activities were driven by:
+
+----------------------------------------------------------------------------------------- ------------- -----
+ (In millions)
+Increase primarily due to prior year repayments of long-term debt $ 1,856
+Decrease in proceeds from issuance of long-term debt (1,100)
+Increase in net receipts from settlement of acquired derivatives 1,057
+Increase in payments for share repurchase activity (558)
+Increase due to payments of debt extinguishment costs and deferred issuance costs in 2021 74
+Increase in payments of dividends to common stockholders (13)
+Other (1)
+
+ $ 1,315
+
+NOLs, Deferred Tax Assets and Uncertain Tax Position Implications
+For the year ended December 31, 2022, the Company had domestic pre-tax book income of $1.4 billion and foreign pre-tax book income of $227 million. For the year ended December 31, 2022, the Company utilized U.S. federal NOLs of $206 million due to current year taxable income, and tax credits of $8 million. As of December 31, 2022, the Company has cumulative U.S. federal NOL carryforwards of $8.2 billion, which do not have an expiration date, and cumulative state NOL carryforwards of $5.3 billion for financial statement purposes. NRG also has cumulative foreign NOL carryforwards of $382 million, most of which have no expiration date. In addition to the above NOLs, NRG has a $270 million indefinite carryforward for interest deductions, as well as $393 million of tax credits to be utilized in future years. As a result of the Company's tax position, including the utilization of federal and state NOLs, and based on current forecasts, the Company anticipates income tax payments, due to federal, state and foreign jurisdictions, of up to $59 million in 2023.
+The Company has $22 million of tax effected uncertain federal and state tax benefits for which the Company has recorded a non-current tax liability of $24 million (including accrued interest) until such final resolution with the related taxing authority.
+The Company is no longer subject to U.S. federal income tax examinations for years prior to 2019. With few exceptions, state and Canadian income tax examinations are no longer open for years before 2014.
+
+Guarantor Financial Information
+As of December 31, 2022, the Company's outstanding registered senior notes consisted of $375 million of the 2027 Senior Notes and $821 million of the 2028 Senior Notes, as shown in Note 13, Long-term Debt and Finance Leases. These Senior Notes are guaranteed by certain of NRG's current and future 100% owned domestic subsidiaries, or guarantor subsidiaries (the “Guarantors”). See Exhibit 22.1 for a listing of the Guarantors. These guarantees are both joint and several.
+NRG conducts much of its business through and derives much of its income from its subsidiaries. Therefore, the Company's ability to make required payments with respect to its indebtedness and other obligations depends on the financial results and condition of its subsidiaries and NRG's ability to receive funds from its subsidiaries. There are no restrictions on the ability of any of the Guarantors to transfer funds to NRG. Other subsidiaries of the Company do not guarantee the registered debt securities of either NRG Energy, Inc. or the Guarantors (such subsidiaries are referred to as the “Non-Guarantors”). The Non-Guarantors include all of NRG's foreign subsidiaries and certain domestic subsidiaries.
+The tables below present summarized financial information of NRG Energy, Inc. and the Guarantors in accordance with Rule 3-10 under the SEC's Regulation S-X. The financial information may not necessarily be indicative of results of operations or financial position of NRG Energy, Inc. and the Guarantors in accordance with U.S. GAAP.
+
+66
+
+The following table presents the summarized statement of operations:
+
+----------------------------------------------------- ------------------------------------ ------
+(In millions) For the Year Ended December 31, 2022
+Revenues(a) $ 27,682
+Operating income(b) 1,954
+Total other expense (322)
+Income from continuing operations before income taxes 1,632
+Net Income 1,247
+
+(a)Intercompany transactions with Non-Guarantors include revenue of $24 million during the year ended December 31, 2022
+(b)Intercompany transactions with Non-Guarantors including cost of operations of $(375) million and selling, general and administrative of $204 million during the year ended December 31, 2022
+The following table presents the summarized balance sheet information:
+
+---------------------------------- ----------------- ------
+(In millions) December 31, 2022
+Current assets(a) $ 12,707
+Property, plant and equipment, net 1,389
+Non-current assets 13,132
+Current liabilities(b) 12,170
+Non-current liabilities 11,860
+
+(a)Includes intercompany receivables due from Non-Guarantors of $30 million as of December 31, 2022
+(b)Includes intercompany payables due to Non-Guarantors of $96 million as of December 31, 2022
+
+Fair Value of Derivative Instruments
+NRG may enter into power purchase and sales contracts, fuel purchase contracts and other energy-related financial instruments to mitigate variability in earnings due to fluctuations in spot market prices and to hedge fuel requirements at power plants or retail load obligations. In addition, in order to mitigate foreign exchange rate risk primarily associated with the purchase of USD denominated natural gas for the Company's Canadian business, NRG enters into foreign exchange contract agreements.
+NRG's trading activities are subject to limits in accordance with the Company's Risk Management Policy. These contracts are recognized on the balance sheet at fair value and changes in the fair value of these derivative financial instruments are recognized in earnings.
+The tables below disclose the activities that include both exchange and non-exchange traded contracts accounted for at fair value in accordance with ASC 820, Fair Value Measurements and Disclosures ("ASC 820"). Specifically, these tables disaggregate realized and unrealized changes in fair value; disaggregate estimated fair values at December 31, 2022, based on their level within the fair value hierarchy defined in ASC 820; and indicate the maturities of contracts at December 31, 2022. For a full discussion of the Company's valuation methodology of its contracts, see Derivative Fair Value Measurements in Item 15 — Note 5, Fair Value of Financial Instruments, to the Consolidated Financial Statements.
+
+--------------------------------------------------------- ------------- -----
+Derivative Activity Gains/(Losses) (In millions)
+Fair value of contracts as of December 31, 2021 $ 2,341
+Contracts realized or otherwise settled during the period (1,225)
+
+Changes in fair value 2,437
+Fair value of contracts as of December 31, 2022 $ 3,553
+
+-------------------------- ----------------------------------------------- ----- ------------------------------ --- ------------------------------- ----- ------------------- --------------- --- ----- --- - -----
+ Fair Value of Contracts as of December 31, 2022
+(In millions) Maturity
+Fair value hierarchy Gains 1 Year or Less Greater Than 1 Year to 3 Years Greater Than 3 Years to 5 Years Greater Than5 Years Total FairValue
+Level 1 $ 219 $ 427 $ 22 $ 17 $ 685
+Level 2 1,354 794 186 29 2,363
+Level 3 118 74 88 225 505
+Total $ 1,691 $ 1,295 $ 296 $ 271 $ 3,553
+
+67
+
+The Company has elected to disclose derivative assets and liabilities on a trade-by-trade basis and does not offset amounts at the counterparty master agreement level. Also, collateral received or posted on the Company's derivative assets or liabilities are recorded on a separate line item on the balance sheet. Consequently, the magnitude of the changes in individual current and non-current derivative assets or liabilities is higher than the underlying credit and market risk of the Company's portfolio. As discussed in Item 7A — Quantitative and Qualitative Disclosures About Market Risk, Commodity Price Risk, NRG measures the sensitivity of the Company's portfolio to potential changes in market prices using VaR, a statistical model which attempts to predict risk of loss based on market price and volatility. NRG's risk management policy places a limit on one-day holding period VaR, which limits the Company's net open position. As the Company's trade-by-trade derivative accounting results in a gross-up of the Company's derivative assets and liabilities, the net derivative assets and liability position is a better indicator of NRG's hedging activity. As of December 31, 2022, NRG's net derivative asset was $3.6 billion, an increase to total fair value of $1.2 billion as compared to December 31, 2021. This increase was primarily driven by gains in fair value, partially offset by roll-off of trades that settled during the period.
+Based on a sensitivity analysis using simplified assumptions, the impact of a $0.50 per MMBtu increase in natural gas prices across the term of the derivative contracts would result in an increase of approximately $1.4 billion in the net value of derivatives as of December 31, 2022.
+The impact of a $0.50 per MMBtu decrease in natural gas prices across the term of the derivative contracts would result in a decrease of approximately $1.4 billion in the net value of derivatives as of December 31, 2022.
+
+Critical Accounting Estimates
+The Company's discussion and analysis of the financial condition and results of operations are based upon the Consolidated Financial Statements, which have been prepared in accordance with GAAP. The preparation of these financial statements and related disclosures in compliance with GAAP requires the application of appropriate technical accounting rules and guidance as well as the use of estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities. The application of appropriate technical accounting rules and guidance involves judgments regarding future events, including the likelihood of success of particular projects, legal and regulatory challenges, and the fair value of certain assets and liabilities. These judgments, in and of themselves, could materially affect the financial statements and disclosures based on varying assumptions, which may be appropriate to use. In addition, the financial and operating environment may also have a significant effect, not only on the operation of the business, but on the results reported through the application of accounting measures used in preparing the financial statements and related disclosures, even if the accounting guidance has not changed.
+NRG evaluates these estimates, on an ongoing basis, utilizing historic experience, consultation with experts and other methods the Company considers reasonable. In any event, actual results may differ substantially from the Company's estimates. Any effects on the Company's business, financial position or results of operations resulting from revisions to these estimates are recorded in the period in which the information that gives rise to the revision becomes known.
+ The Company identifies its most critical accounting estimates as those that are the most pervasive and important to the portrayal of the Company's financial position and results of operations, and require the most difficult, subjective, and/or complex judgments by management about matters that are inherently uncertain.
+
+68
+
+Such accounting estimates include:
+
+------------------------------------------------------------ ---------------------------------------------------------------------------------------------------------------
+Accounting Estimate Judgments/Uncertainties Affecting Application
+Derivative Instruments Assumptions used in valuation techniques
+
+ Market maturity and economic conditions
+ Contract interpretation
+ Market conditions in the energy industry, especially the effects of price volatility on contractual commitments
+Income Taxes and Valuation Allowance for Deferred Tax Assets Interpret existing tax statute and regulations upon application to transactions
+ Ability to utilize tax benefits through carry backs to prior periods and carry forwards to future periods
+Evaluation of Assets for Impairment Regulatory and political environments and requirements
+ Estimated useful lives of assets
+ Environmental obligations and operational limitations
+ Estimates of future cash flows
+ Estimates of fair value
+ Judgment about impairment triggering events
+Goodwill and Other Intangible Assets Estimated useful lives for finite-lived intangible assets
+ Judgment about impairment triggering events
+ Estimates of reporting unit's fair value
+ Fair value estimate of intangible assets acquired in business combinations
+Business Combinations Fair value of assets acquired and liabilities assumed in business combinations
+ Estimated future cash flow
+ Estimated useful lives of assets
+Contingencies Estimated financial impact of event(s)
+ Judgment about likelihood of event(s) occurring
+ Regulatory and political environments and requirements
+
+Derivative Instruments
+The Company follows the guidance of ASC 815, Derivatives and Hedging "(ASC 815"), to account for derivative instruments. ASC 815 requires the Company to mark-to-market all derivative instruments on the balance sheet and recognize fair value change in earnings, unless they qualify for the NPNS exception. ASC 815 applies to NRG's energy related commodity contracts, interest rate swaps and foreign exchange contracts.
+For purposes of measuring the fair value of derivative instruments, the Company uses quoted exchange prices and broker quotes. When external prices are not available, NRG uses internal models to determine the fair value. These internal models include assumptions of the future prices of energy commodities based on the specific market in which the energy commodity is being purchased or sold, using externally available forward market pricing curves for all periods possible under the pricing model. These estimations are considered to be critical accounting estimates.
+In order to mitigate foreign exchange risk primarily associated with the purchase of USD denominated natural gas for the Company's Canadian business, the Company enters into foreign exchange contract agreements.
+Certain derivative instruments that meet the criteria for derivative accounting treatment also qualify for a scope exception to derivative accounting, as they are considered to be NPNS. The availability of this exception is based upon the assumption that the Company has the ability and it is probable to deliver or take delivery of the underlying item. These assumptions are based on expected load requirements, internal forecasts of sales and generation and historical physical delivery on contracts. Derivatives that are considered to be NPNS are exempt from derivative accounting treatment and are accounted for under accrual accounting. If it is determined that a transaction designated as NPNS no longer meets the scope exception due to changes in estimates, the related contract would be recorded on the balance sheet at fair value combined with the immediate recognition through earnings.
+
+69
+
+Income Taxes and Valuation Allowance for Deferred Tax Assets
+As of December 31, 2022, NRG’s deferred tax assets were primarily the result of U.S. federal and state NOLs, the difference between book and tax basis in property, plant, and equipment, and tax credit carryforwards. The realization of deferred tax assets is dependent upon the Company's ability to generate sufficient future taxable income during the periods in which those temporary differences become deductible, prior to the expiration of the tax attributes. The evaluation of deferred tax assets requires judgment in assessing the likely future tax consequences of events that have been recognized in the Company's financial statements or tax returns and forecasting future profitability by tax jurisdiction.
+The Company evaluates its deferred tax assets quarterly on a jurisdictional basis to determine whether adjustments to the valuation allowance are appropriate considering changes in facts or circumstances. As of each reporting date, management considers new evidence, both positive and negative, when determining the future realization of the Company’s deferred tax assets. Given the Company’s current level of pre-tax earnings and forecasted future pre-tax earnings, the Company expects to generate income before taxes in the U.S. in future periods at a level that would fully utilize its U.S. federal NOL carryforwards and the majority of its state NOL carryforwards prior to their expiration.
+The Company continues to maintain a valuation allowance of $224 million as of December 31, 2022 against deferred tax assets consisting of state net operating losses and foreign NOL carryforwards in jurisdictions where the Company does not currently believe that the realization of deferred tax assets is more likely than not. As of December 31, 2021, the Company's valuation allowance balance was $248 million.
+Considerable judgment is required to determine the tax treatment of a particular item that involves interpretations of complex tax laws. The Company is subject to examination by taxing authorities for income tax returns filed in the U.S. federal jurisdiction and various state and foreign jurisdictions, including operations located in Australia and Canada. The Company continues to be under audit for multiple years by taxing authorities in various jurisdictions.
+The Company is no longer subject to U.S. federal income tax examinations for years prior to 2019. With few exceptions, state and Canadian income tax examinations are no longer open for years before 2014.
+NRG does not intend, nor currently foresee a need, to repatriate funds held at its international operations into the U.S. These funds are deemed to be indefinitely reinvested in its foreign operations and the Company has not changed its assertion with respect to distributions of funds that would require the accrual of U.S. income tax.
+Evaluation of Assets for Impairment
+In accordance with ASC 360, Property, Plant, and Equipment ("ASC 360"), the Company evaluates property, plant and equipment and certain intangible assets for impairment whenever indicators of impairment exist. Examples of such indicators or events include:
+•Significant decrease in the market price of a long-lived asset;
+•Significant adverse change in the manner an asset is being used or its physical condition;
+•Adverse business climate;
+•Accumulation of costs significantly in excess of the amounts originally expected for the construction or acquisition of an asset;
+•Current period loss combined with a history of losses or the projection of future losses; and
+•Change in the Company's intent about an asset from an intent to hold to a greater than 50% likelihood that an asset will be sold, or disposed of before the end of its previously estimated useful life.
+Recoverability of assets to be held and used is measured by a comparison of the carrying amount of the assets to the future net cash flows expected to be generated by the asset, through considering project specific assumptions for long-term power and natural gas prices, escalated future project operating costs and expected plant operations. If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the assets exceeds the fair value of the assets by factoring in the different courses of action available to the Company. Generally, fair value will be determined using valuation techniques, such as the present value of expected future cash flows. NRG uses its best estimates in making these evaluations and considers various factors, including forward price curves for energy, fuel and operating costs. However, actual future market prices and project costs could vary from the assumptions used in the Company's estimates and the impact of such variations could be material.
+For assets to be held and used, if the Company determines that the undiscounted cash flows from the asset are less than the carrying amount of the asset, NRG must estimate fair value to determine the amount of any impairment loss. Assets held-for-sale are reported at the lower of the carrying amount or fair value less the cost to sell. The estimation of fair value, whether in conjunction with an asset to be held and used or with an asset held-for-sale, and the evaluation of asset impairment are, by
+
+70
+
+their nature, subjective. The Company considers quoted market prices in active markets to the extent they are available. In the absence of such information, NRG may consider prices of similar assets, consult with brokers, or employ other valuation techniques. The Company will also discount the estimated future cash flows associated with the asset using a single interest rate representative of the risk involved with such an investment or asset. The use of these methods involves the same inherent uncertainty of future cash flows as previously discussed with respect to undiscounted cash flows. Actual future market prices and project costs could vary from those used in NRG's estimates and the impact of such variations could be material.
+Annually, during the fourth quarter, the Company revises its views of power and fuel prices including the Company's fundamental view for long-term prices, forecasted generation and operating and capital expenditures, in connection with the preparation of its annual budget. Changes to the Company's views of long-term power and fuel prices impact the Company’s projections of profitability, based on management's estimate of supply and demand within the sub-markets for its operations and the physical and economic characteristics of each of its businesses.
+For further discussion, see Item 15 —Note 11 , Asset Impairments.
+Goodwill and Other Intangible Assets
+At December 31, 2022, the Company reported goodwill of $1.7 billion, consisting of $1.2 billion from the acquisition of Direct Energy in 2021 and $408 million for retail operations acquisitions, including Stream Energy, which was acquired in 2019.
+The Company applies ASC 805, Business Combinations ("ASC 805"), and ASC 350, Intangibles-Goodwill and Other ("ASC 350") to account for its goodwill and intangible assets. Under these standards, the Company amortizes all finite-lived intangible assets over their respective estimated weighted-average useful lives, while goodwill has an indefinite life and is not amortized. Goodwill is tested for impairment at least annually, or more frequently whenever an event or change in circumstances occurs that would more likely than not reduce the fair value of a reporting unit below its carrying amount. The Company tests goodwill for impairment at the reporting unit level, which is identified by assessing whether the components of the Company's operating segments constitute businesses for which discrete financial information is available and whether segment management regularly reviews the operating results of those components. The Company performs the annual goodwill impairment assessment as of December 31 or when events or changes in circumstances indicate that the fair value of the reporting unit may be below the carrying amount. The Company first assesses qualitative factors to determine whether it is more likely than not that an impairment has occurred. In the absence of sufficient qualitative factors, the Company performs a quantitative assessment by determining the fair value of the reporting unit and comparing to its book value. If it is determined that the fair value of a reporting unit is below its carrying amount, the Company's goodwill will be impaired at that time.
+Fair value determinations require considerable judgment and are sensitive to changes in underlying assumptions and factors. As a result, there can be no assurance that the estimates and assumptions made for purposes of the annual goodwill impairment test will prove to be accurate predictions of the future.
+For further discussion, see Evaluation of Assets for Impairment caption above, and Item 15 —Note 11, Asset Impairments.
+Business Combinations
+NRG accounts for business acquisitions using the acquisition method of accounting prescribed under ASC 805. Under this method, the Company is required to record on its Consolidated Balance Sheets the estimated fair values of the acquired company’s assets and liabilities assumed at the acquisition date. The excess of the consideration transferred over the fair value of the net identifiable assets acquired and liabilities assumed is recorded as goodwill. Determining fair values of assets acquired and liabilities assumed requires significant estimates and judgments. Fair value is determined based on the estimated price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The acquired assets and assumed liabilities that involved the most subjectivity in determining fair value consisted of the trade names, customer relationships and derivative contracts.
+The fair value of trade names and customer relationships are measured using income-based valuation methodologies, which include certain assumptions such as forecasted future cash flows, customer attrition rates, royalty rates and discount rates. The trade names are amortized to depreciation and amortization, on a straight line basis. The customer relationships are amortized to depreciation and amortization, ratably based on discounted future cash flows.
+In measuring the fair value of derivative contracts for Direct Energy, a significant portion of the fair value of the derivative portfolio was based on price quotes from brokers in active markets who regularly facilitate those transactions and the Company believes such price quotes are executable. The Company does not use third-party sources that derive price based on proprietary models or market surveys. The remainder of the assets and liabilities represents contracts for which external sources or observable market quotes are not available. These contracts were valued based on various valuation techniques including but not limited to internal models based on a fundamental analysis of the market and extrapolation of observable market data with similar characteristics. The fair value of each contract was discounted using a risk free interest rate. In addition, the Company
+
+71
+
+applied a credit reserve to reflect credit risk. NRG describes in detail its acquisitions in Item 15 — Note 4, Acquisitions and Dispositions, to the Consolidated Financial Statements
+Contingencies
+NRG records reserves for estimated losses from contingencies when information available indicates that a loss is probable and the amount of the loss, or range of loss, can be reasonably estimated. Gain contingencies are not recorded until management determines it is certain that the future event will become or does become a reality. Such determinations are subject to interpretations of current facts and circumstances, forecasts of future events, and estimates of the financial impacts of such events. NRG describes in detail its contingencies in Item 15 — Note 23, Commitments and Contingencies, to the Consolidated Financial Statements.
+Recent Accounting Developments
+See Item 15 — Note 2, Summary of Significant Accounting Policies, to the Consolidated Financial Statements for a discussion of recent accounting developments.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 83
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[Part II, Item 1A]:
+Item 1A. Risk Factors 20
+
+[discussed in Item 15]:
+Item 15. Exhibit and Financial Statement Schedules 52
+
+[described in Item 15]:
+Item 15. Exhibit and Financial Statement Schedules 52
+
+[described in Item 15]:
+Item 15. Exhibit and Financial Statement Schedules 52
+
+[discussed in Item 1]:
+Item 1 Business 1
+
+[discussed in Item 7A]:
+ITEM 7A Quantitative and Qualitative Disclosures About Market Risk 42
+
+[As described in Item 15]:
+Item 15. Exhibit and Financial Statement Schedules 52
+
+[as described in Item 15]:
+Item 15. Exhibit and Financial Statement Schedules 52
+
+[See Exhibit 22.1]:
+[Exhibit 22.1: List of Guarantor Subsidiaries Filed herewith.]
+
+[Exhibit 22.1 ]:
+[Exhibit 22.1: List of Guarantor Subsidiaries Filed herewith.]
+
+['s business. A discussion and analysis of fiscal year 2020 may be found in Part II, Item 7 — Management']:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+['s actual retirement date. See Item 15 — Note 4, Acquisitions and Dispositions, to the Consolidated Financial Statements for further discussion.
+
+46
+
+Sale of Watson
+On June 1, 2022, the Company closed on the sale of its 49% ownership in the Watson natural gas generating facility for $59 million. NRG recognized a gain on the sale of $46 million.
+Retirement of Joliet
+During the second quarter of 2022, the results of the PJM Base Residual Auction for the 2023/2024 delivery year were released leading the Company to revise its long-term view of certain facilities and announce the planned retirement of the Joliet generating facility on June 1, 2023. Impairment losses of $20 million and $130 million were recorded on the PJM generating assets and Midwest Generation goodwill, respectively.
+W.A. Parish Extended Outage
+In May 2022, W.A. Parish Unit 8 came offline as a result of damage to the steam turbine/generator. Based on work completed to date, NRG is targeting to return the unit to service by the end of the second quarter of 2023. The Company is working with its insurers related to claims surrounding the outage and has received partial settlements in the fourth quarter of 2022.
+Limestone Unit 1 Return to Service
+In early July 2021, Limestone Unit 1 came offline as a result of damage to the duct work associated with the FGD system. The extended forced outage ended in April of 2022 and the unit has returned to service.
+ERCOT Securitization Proceeds
+During February 2021, Texas experienced unprecedented cold temperatures for a prolonged duration as a result of Winter Storm Uri, resulting in a power emergency, blackouts, and an estimated all-time peak demand of 77 GW (without load shed). In 2021, the Texas Legislature passed HB 4492 for ERCOT to mitigate exceptionally high price adders and ancillary service costs incurred by LSEs during Winter Storm Uri. HB 4492 authorized ERCOT to obtain $2.1 billion of financing to distribute to LSEs that were charged and paid to ERCOT those highly priced ancillary service and ORDPA during Winter Storm Uri. The Company accounted for the proceeds as a reduction to cost of operations within its Consolidated Statements of Operations in the 2021 annual period for which the proceeds were intended to compensate. During the year ended December 31, 2021, Winter Storm Uri']:
+Note 15 - Commitments and Contingencies Operating Lease Arrangement in Buffalo, New York We have an operating lease through the Research Foundation for the SUNY Foundation with respect to Gigafactory New York. Under the lease and a related research and development agreement, we are continuing to further develop the facility. Under this agreement, we are obligated to, among other things, meet employment targets as well as specified minimum numbers of personnel in the State of New York and in Buffalo, New York and spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York during the 10-year period beginning April 30, 2018. On an annual basis during the initial lease term, as measured on each anniversary of such date, if we fail to meet these specified investment and job creation requirements, then we would be obligated to pay a $41 million "program payment" to the SUNY Foundation for each year that we fail to meet these requirements. Furthermore, if the arrangement is terminated due to a material breach by us, then additional amounts may become payable by us. In 2021, an amendment was executed to extend our overall agreement to spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York through December 31, 2029. On February 1, 2022, we reported to the State of New York that we had met and exceeded our annual requirements for jobs and investment in Buffalo and New York State. As of December 31, 2022, we are currently in excess of such targets relating to investments and personnel in the State of New York and Buffalo and do not currently expect any issues meeting our applicable obligations in the years beyond. However, if our expectations as to the costs and timelines of our investment and operations at Buffalo or our production ramp of the Solar Roof prove incorrect, we may incur additional expenses or be required to make s...
+
+['s strategy is to procure mid to long-term renewable generation through power purchase agreements. As of December 31, 2022, NRG has entered into Renewable PPAs totaling approximately 2.4 GW, of which approximately 45% are operational. The average tenor of these agreements is twelve years. The Company expects to continue evaluating and executing similar agreements that support the needs of the business. The total GW entered into through Renewable PPAs may be impacted by contract terminations when they occur.
+Dividend Increase
+In the first quarter of 2022, NRG increased the annual dividend to $1.40 from $1.30 per share. In 2023, NRG further increased the annual dividend to $1.51 per share, representing an 8% increase from 2022. The Company expects to target an annual dividend growth rate of 7-9% per share in subsequent years.
+COVID-19
+While the pandemic presented risks, as further described in Part II, Item 1A — Risk Factors of this Form 10-K, to the Company’s business, there was not a material adverse impact on the Company’s results of operations for the years ended December 31, 2022, 2021 and 2020.
+
+47
+
+Consolidated Results of Operations for the years ended December 31, 2022 and 2021
+The following table provides selected financial information for the Company:
+
+------------------------------------------------------------------------ ----------------------- ------ ------- ------- ------ ------ ------- -- -----
+ Year Ended December 31,
+(In millions, except otherwise noted) 2022 2021(a) Change
+Revenues
+Retail revenue $ 29,722 $ 23,561 $ 6,161
+Energy revenue(b) 1,250 1,215 35
+Capacity revenue(b) 272 775 (503)
+Mark-to-market for economic hedging activities (83) (164) 81
+Contract amortization (39) (30) (9)
+Other revenues(b)(c) 421 1,632 (1,211)
+Total revenues 31,543 26,989 4,554
+Operating Costs and Expenses
+Cost of fuel 1,919 1,840 (79)
+Purchased energy and other cost of sales(d) 24,984 19,770 (5,214)
+Mark-to-market for economic hedging activities (1,331) (2,880) (1,549)
+Contract and emissions credit amortization(d) 111 43 (68)
+Operations and maintenance 1,352 1,370 18
+Other cost of operations 411 339 (72)
+Cost of operations (excluding depreciation and amortization shown below) 27,446 20,482 (6,964)
+Depreciation and amortization 634 785 151
+Impairment losses 206 544 338
+Selling, general and administrative costs 1,228 1,293 65
+Provision for credit losses 11 698 687
+Acquisition-related transaction and integration costs 52 93 41
+Total operating costs and expenses 29,577 23,895 (5,682)
+
+Gain on sale of assets 52 247 (195)
+Operating Income 2,018 3,341 (1,323)
+Other Income/(Expense)
+Equity in earnings of unconsolidated affiliates 6 17 (11)
+
+Other income, net 56 63 (7)
+
+Loss on debt extinguishment, net — (77) 77
+Interest expense (417) (485) 68
+Total other expenses (355) (482) 127
+Income Before Income Taxes 1,663 2,859 (1,196)
+Income tax expense 442 672 (230)
+
+Net Income $ 1,221 $ 2,187 $ (966)
+
+Business Metrics
+Average natural gas price — Henry Hub ($/MMBtu) $ 6.64 $ 3.84 73 %
+
+(a)Includes the impact of Winter Storm Uri
+(b)Includes realized gains and losses from financially settled transactions
+(c)Includes trading gains and losses and ancillary revenues
+(d)Includes amortization of SO2 and NOx credits and excludes amortization of RGGI credits
+
+Gross Margin
+The Company calculates gross margin in order to evaluate operating performance as revenues less cost of fuel, purchased energy and other costs of sales, mark-to-market for economic hedging activities, contract and emission credit amortization and depreciation and amortization.
+
+48
+
+Economic Gross Margin
+In addition to gross margin, the Company evaluates its operating performance using the measure of economic gross margin, which is not a GAAP measure and may not be comparable to other companies’ presentations or deemed more useful than the GAAP information provided elsewhere in this report. Economic gross margin should be viewed as a supplement to and not a substitute for the Company']:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement
+
+['s Risk Management Policy.
+
+---------------------- ----------------------- - ---- ---- - ---
+ Year ended December 31,
+(In millions) 2022 2021
+Trading gains/(losses)
+Realized $ 6 $ 124
+Unrealized (4) (32)
+Total trading gains $ 2 $ 92
+
+55
+
+Operations and Maintenance Expenses
+Operations and maintenance expenses are comprised of the following:
+
+---------------------------- ----- --- ---- --- ------------------- --- --------- ------------ --- ----- --- - ----- - --- - -----
+(In millions) Texas East West/Services/Other Corporate Eliminations Total
+
+Year Ended December 31, 2022 $ 749 $ 391 $ 214 $ 1 $ (3) $ 1,352
+Year Ended December 31, 2021 703 452 218 2 (5) 1,370
+
+Operations and maintenance expenses decreased by $18 million for the year ended December 31, 2022, compared to the same period in 2021, due to the following:
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- ----
+ (In millions)
+Decrease due to the sale of fossil generating assets to Generation Bridge in December 2021 $ (90)
+Decrease due to current year settled property insurance claims for extended outages at W.A. Parish and Limestone, primarily offset by the cost of restoration efforts at W.A. Parish in 2022 (35)
+Decrease due to Midwest Generation asset retirements in the second quarter of 2022 as well as spare parts inventory reserves in 2021 (20)
+Decrease driven by current year scrap proceeds associated with the demolition of the Encina site (4)
+Decrease driven by higher maintenance in 2021 resulting from the impacts of Winter Storm Uri (2)
+Increase due to scope of outages at the Texas coal and gas facilities (excluding W.A. Parish included above) in 2022, partially offset by a prior year planned outage at STP 69
+Increase in variable operation and maintenance expense at the PJM coal facilities associated with increased generation during 2022 39
+Increase in estimates of environmental remediation costs at deactivated sites in the East and West/Services/Other 25
+Increase driven by higher retail operations costs primarily to support growth at Airtron 6
+Other (6)
+Decrease in operations and maintenance expense $ (18)
+
+Other Cost of Operations
+Other Cost of operations are comprised of the following:
+
+---------------------------- ----- --- ---- --- ------------------- --- -- ----- -- --- - ---
+(In millions) Texas East West/Services/Other Total
+
+Year Ended December 31, 2022 $ 246 $ 149 $ 16 $ 411
+Year Ended December 31, 2021 194 129 16 339
+
+Other cost of operations increased by $72 million for the year ended December 31, 2022, compared to the same period in 2021, due to the following:
+
+------------------------------------------------------------------------------------------ ------------- ----
+ (In millions)
+Decrease due to the sale of fossil generating assets to Generation Bridge in December 2021 $ (30)
+Increase in retail gross receipt taxes due to higher revenues 51
+Increase due to changes in current year ARO cost estimates, primarily at Jewett Mine 28
+Increase due to higher property insurance premiums 18
+Other 5
+Increase in other cost of operations $ 72
+
+56
+
+Depreciation and Amortization
+Depreciation and amortization expenses are comprised of the following:
+
+---------------------------- ----- --- ---- --- ------------------- --- --------- ----- -- --- - -- - ---
+(In millions) Texas East West/Services/Other Corporate Total
+
+Year Ended December 31, 2022 $ 310 $ 208 $ 85 $ 31 $ 634
+Year Ended December 31, 2021 336 333 88 28 785
+
+Depreciation and amortization expense decreased by $151 million for the year ended December 31, 2022 compared to the same period in 2021, primarily due to lower depreciation as a result of asset impairments, sales, and retirements, as well as lower amortization as a result of the expected roll off of acquired intangibles.
+Impairment Losses
+During the year ended December 31, 2022, the Company recorded impairment losses of $206 million, of which $150 million were related to the decline in PJM capacity prices and the near-term retirement date of the Joliet facility, $43 million related to the purchase and sale agreement for the sale of the land and related assets at the Astoria generating site and the planned withdrawal and cancellation of its proposed Astoria redevelopment project, and an additional $13 million in the East segment.
+During the year ended December 31, 2021, the Company recorded impairment losses of $544 million, of which $306 million was recorded in the second quarter related to the decline in capacity prices and the planned retirement of a significant portion of the PJM coal fleet, $213 million in the fourth quarter as a result of changes in the long-term outlook of the Joliet facility prompted by market conditions and an assessment of various alternatives for the long-term operational landscape of the facility including the impact of the CEJA in Illinois, and $25 million related to various other power plants.
+Refer to Item 15 — Note 11, Asset Impairments, to the Consolidated Financial Statements for further discussion.
+Selling, General and Administrative Costs
+Selling, general and administrative costs are comprised of the following:
+
+---------------------------- ----- --- ---- --- ------------------- --- --------- ----- --- ----- -- - -----
+(In millions) Texas East West/Services/Other Corporate Total
+
+Year Ended December 31, 2022 $ 559 $ 428 $ 202 $ 39 $ 1,228
+Year Ended December 31, 2021 574 472 198 49 1,293
+
+Selling, general and administrative costs decreased by $65 million for the year ended December 31, 2022 compared to the same period in 2021, due to the following:
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- ----
+ (In millions)
+Decrease due to Winter Storm Uri, including charitable giving, legal and other costs of $20 million in 2021, ERCOT default charges of $9 million in 2021, and the reversal of the ERCOT default charges of $9 million in 2022 $ (38)
+Decrease in personnel costs (30)
+Decrease in transition service agreement costs related to the Direct Energy acquisition (21)
+Decrease in marketing and media expenses (17)
+Increase in broker fee expenses, partially offset by lower commissions expenses 22
+
+Increase due to higher consulting expenses including spending related to Company']:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement
+
+['s Fitch
+NRG Energy, Inc. BB+ Negative Ba1 Stable BB+ Stable
+3.75% Senior Secured Notes, due 2024 BBB- Baa3 BBB-
+2.00% Senior Secured Notes, due 2025 BBB- Baa3 BBB-
+2.45% Senior Secured Notes, due 2027 BBB- Baa3 BBB-
+6.625% Senior Notes, due 2027 BB+ Ba2 BB+
+5.75% Senior Notes, due 2028 BB+ Ba2 BB+
+3.375% Senior Notes, due 2029 BB+ Ba2 BB+
+4.45% Senior Secured Notes, due 2029 BBB- Baa3 BBB-
+5.25% Senior Notes, due 2029 BB+ Ba2 BB+
+3.625% Senior Notes, due 2031 BB+ Ba2 BB+
+3.875% Senior Notes, due 2032 BB+ Ba2 BB+
+Revolving Credit Facility, due 2024 BBB- Baa3 BBB-
+
+Liquidity
+The principal sources of liquidity for NRG']:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+[' chapter 11 plan and the related ERCOT settlement.
+
+60
+
+Revolving Credit Facility
+On February 14, 2023, the Company amended its Revolving Credit Facility to: (i) increase the existing revolving commitments thereunder by $600 million, (ii) extend the maturity date of a portion of the revolving commitments thereunder to February 14, 2028, (iii) transition the benchmark rate applicable to revolving loans from LIBOR to SOFR and (iv) make certain other amendments to the terms of the Revolving Credit Facility for purposes of, among other things, providing additional flexibility. See Note 13, Long-term Debt and Finance Leases for further discussion.
+Receivables Securitization Facilities
+On February 9, 2022, the Company entered into amendments to its existing Repurchase Facility to, among other things, (i) increase the size of the facility from $75 million to $150 million and (ii) replace LIBOR with term SOFR as the benchmark for the pricing rate. On July 26, 2022, the Company renewed its existing Repurchase Facility to extend the maturity date to July 26, 2023. The Repurchase Facility has no commitment fee and borrowings will be drawn at SOFR + 1.30%. As of December 31, 2022, there were no outstanding borrowings.
+On July 26, 2022, NRG Receivables LLC, a wholly-owned indirect subsidiary of the Company, entered into an amendment to its Receivables Facility dated September 22, 2020, with a group of conduit lenders and banks and Royal Bank of Canada, as Administrative Agent to, among other things, (i) extend the scheduled termination date by one year, (ii) increase the aggregate commitments from $800 million to $1.0 billion, (iii) increase the letter of credit sublimit to equal the aggregate commitments, (iv) replace LIBOR with Term SOFR as the benchmark for borrowings and (v) add new originators. The weighted average interest rate related to usage under the Receivables Facility as of December 31, 2022 was 0.844%. As of December 31, 2022, there were no outstanding borrowings and there were $721 million in letters of credit issued under the Receivables Facility.
+Bilateral Letter of Credit Facilities
+On April 29, 2022, May 27, 2022 and October 13, 2022, the Company increased the size of the facilities by $100 million, $50 million and $50 million, respectively, to provide additional liquidity, allowing for the issuance of up to $675 million of letters of credit. As of December 31, 2022, $668 million was issued under these facilities.
+Vivint Acquisition
+On December 6, 2022, NRG and Vivint announced the entry into a definitive agreement under which the Company will acquire Vivint in an all-cash transaction. The Company will pay $12 per share, or approximately $2.8 billion in cash, and expects to fund the acquisition using proceeds from newly issued debt and preferred equity, drawing on its Revolving Credit Facility and Receivables Securitization Facilities, and through cash on hand. Additionally, in the first quarter of 2023, NRG increased its Revolving Credit Facility by $600 million to meet the additional liquidity requirements related to the acquisition. Close of the acquisition is targeted for the first quarter of 2023 and is subject to customary closing conditions. See Item 15 — Note 4, Acquisitions and Dispositions, to the Consolidated Financial Statements for further discussion.
+Astoria
+On January 6, 2023, the Company closed on the sale of land and related assets from the Astoria site, within the East region of operations, for initial proceeds of $212 million subject to transactions fees of $3 million and certain indemnifications. As part of the transaction, NRG entered into an agreement to lease the land back for the purpose of operating the Astoria gas turbines through the planned April 30, 2023, retirement date. The operating lease agreement is expected to end six months after the facility']:
+Note 11 - Debt The following is a summary of our debt and finance leases as of December 31, 2022 (in millions): ----------------------------------------- ------------------ ----- --------- ------ - --------- ------ ----------- ----------- -------------- ------------- ----- -------------- - -------------- ---------------------------- Unpaid Unused Net Carrying Value Principal Committed Contractual Contractual Current Long-Term Balance Amount (1) Interest Rates Maturity Date Recourse debt: 2024 Notes $ -- $ 37 $ 37 $ -- 2.00 % May 2024 Credit Agreement -- -- -- 2,266 Not applicable July 2023 Solar Bonds -- 7 7 -- 4.70-5.75 % March 2025 - January 2031 Total recourse debt -- 44 44 2,266 Non-recourse debt: Automotive Asset-backed Notes 984 613 1,603 -- 0.36-4.64 % December 2023-September 2025 Solar Asset-backed Notes 4 13 17 -- 4.80 % December 2026 Cash Equity Debt 28 359 397 -- 5.25-5.81 % July 2033-January 2035 Automotive Lease-backed Credit Facilities -- -- -- 151 Not applicable September 2024 Total non-recourse debt 1,016 985 2,017 151 Total debt 1,016 1,029 $ 2,061 $ 2,417 Finance leases 486 568 Total debt and finance leases $ 1,502 $ 1,597 The following is a summary of our debt and finance leases as of December 31, 2021 (in millions): ----------------------------------------- ------------------ - ----- --------- ------ - - --------- ------ ----------- - ----------- -------------- ------------- - ----- --------- -------------- - ------------------------- ----------------------------- Unpaid Unused Net Carrying Value Principal Committed Contractual Contractual Current Long-Term Balance Amount (1) Interest Rates Maturity Date Recourse debt: 2022 Notes $ 29 $ -- $ 29 $ -- 2.375 % March 2022 2024 Notes 1 89 91 -- 2.00 % May 2024 Credit Agreement -- 1,250 1,250 920 3.25 % July 2023 Solar Bonds 0 7 7 -- 4.00-5.75 % January 2022-January 2031 Total recourse debt 30 1,346 1,377 920 Non-recourse debt: Automotive Asset-backed Notes 1,007 1,706 2,723 -- 0.12-5.48 % September 2022-September 2025 So...
+
+['s common stock dividends are subject to available capital, market conditions, and compliance with associated laws and regulations.
+Additional Material Cash Requirements Not Discussed Above
+Operating leases — The Company leases generating facilities, land, office and equipment, railcars, fleet vehicles and storefront space at retail stores. As of December 31, 2022, the Company had lease payment obligations of $311 million, of which $97 million is payable within the next 12 months. For further discussion, see Item 15 — Note 10, Leases.
+Other liabilities — Other liabilities includes water right agreements, service and maintenance agreements, stadium naming rights, stadium sponsorships, long-term service agreements and other contractual obligations. As of December 31,
+
+64
+
+2022, the Company had total of $266 million under such commitments, of which $66 million are payable within the next 12 months.
+Contingent obligations for guarantees — NRG and its subsidiaries enter into various contracts that include indemnifications and guarantee provisions as a routine part of the Company’s business activities. For further discussion, see Item 15 —Note 27, Guarantees.
+Obligations Arising Out of a Variable Interest in an Unconsolidated Entity
+Variable interest in Equity investments — NRG']:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement
+
+['s current and future 100% owned domestic subsidiaries, or guarantor subsidiaries (the “Guarantors”). See Exhibit 22.1 for a listing of the Guarantors. These guarantees are both joint and several.
+NRG conducts much of its business through and derives much of its income from its subsidiaries. Therefore, the Company']:
+[Exhibit 22.1: List of Guarantor Subsidiaries Filed herewith.]
+
+['s valuation methodology of its contracts, see Derivative Fair Value Measurements in Item 15 — Note 5, Fair Value of Financial Instruments, to the Consolidated Financial Statements.
+
+--------------------------------------------------------- ------------- -----
+Derivative Activity Gains/(Losses) (In millions)
+Fair value of contracts as of December 31, 2021 $ 2,341
+Contracts realized or otherwise settled during the period (1,225)
+
+Changes in fair value 2,437
+Fair value of contracts as of December 31, 2022 $ 3,553
+
+-------------------------- ----------------------------------------------- ----- ------------------------------ --- ------------------------------- ----- ------------------- --------------- --- ----- --- - -----
+ Fair Value of Contracts as of December 31, 2022
+(In millions) Maturity
+Fair value hierarchy Gains 1 Year or Less Greater Than 1 Year to 3 Years Greater Than 3 Years to 5 Years Greater Than5 Years Total FairValue
+Level 1 $ 219 $ 427 $ 22 $ 17 $ 685
+Level 2 1,354 794 186 29 2,363
+Level 3 118 74 88 225 505
+Total $ 1,691 $ 1,295 $ 296 $ 271 $ 3,553
+
+67
+
+The Company has elected to disclose derivative assets and liabilities on a trade-by-trade basis and does not offset amounts at the counterparty master agreement level. Also, collateral received or posted on the Company']:
+Note 15 - Commitments and Contingencies Operating Lease Arrangement in Buffalo, New York We have an operating lease through the Research Foundation for the SUNY Foundation with respect to Gigafactory New York. Under the lease and a related research and development agreement, we are continuing to further develop the facility. Under this agreement, we are obligated to, among other things, meet employment targets as well as specified minimum numbers of personnel in the State of New York and in Buffalo, New York and spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York during the 10-year period beginning April 30, 2018. On an annual basis during the initial lease term, as measured on each anniversary of such date, if we fail to meet these specified investment and job creation requirements, then we would be obligated to pay a $41 million "program payment" to the SUNY Foundation for each year that we fail to meet these requirements. Furthermore, if the arrangement is terminated due to a material breach by us, then additional amounts may become payable by us. In 2021, an amendment was executed to extend our overall agreement to spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York through December 31, 2029. On February 1, 2022, we reported to the State of New York that we had met and exceeded our annual requirements for jobs and investment in Buffalo and New York State. As of December 31, 2022, we are currently in excess of such targets relating to investments and personnel in the State of New York and Buffalo and do not currently expect any issues meeting our applicable obligations in the years beyond. However, if our expectations as to the costs and timelines of our investment and operations at Buffalo or our production ramp of the Solar Roof prove incorrect, we may incur additional expenses or be required to make s...
+
+['s portfolio. As discussed in Item 7A — Quantitative and Qualitative Disclosures About Market Risk, Commodity Price Risk, NRG measures the sensitivity of the Company']:
+ITEM 7A Quantitative and Qualitative Disclosures About Market Risk 42
+
+[refer to Item 1]:
+Item 1 Business 1
+
+[Refer to Item 15]:
+Item 15. Exhibit and Financial Statement Schedules 52
+
+[See also Item 15]:
+Item 15. Exhibit and Financial Statement Schedules 52
+
+['s operations for the years ended December 31, 2022 and 2021, and also refer to Item 1 to this Form 10-K for more detail discussion about the Company']:
+Item 1 Business 1
+
+['s generation assets. As of December 31, 2022, the Company had minimum payment obligations under such outstanding agreements of $452 million, with $110 million payable within the next 12 months. Additionally, the Company has long-term contractual commitments related to electricity and natural gas products, including power purchases, gas
+
+62
+
+transportation and storage of various quantities and durations. As of December 31, 2022, the Company had minimum purchased energy commitments under long-term contracts of $4.3 billion, with $908 million payable within the next 12 months, and an additional $1.5 billion of short-term purchase energy commitments. For further discussion, see Item 15 — Note 23, Commitments and Contingencies.
+Future liquidity requirements may change based on the Company']:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement

@@ -1,0 +1,437 @@
+================================================================================
+CIK: 0001596532
+Company Name: Arista Networks, Inc
+Filing Date: 2020-02-14
+Form Type: 10-K
+Extraction Date: 2025-08-31 12:30:43
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+You should read the following discussion and analysis of our financial condition and results of operations together with the consolidated financial statements and related notes that are included elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements based upon current plans, expectations and beliefs that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under “Risk Factors” and elsewhere in this Annual Report on Form 10-K.
+
+Overview
+Arista Networks pioneered software-driven, cognitive cloud networking for large-scale data center and campus environments. Our cloud networking solutions consist of our EOS, a set of network applications and our Ethernet switching and routing platforms. Our cloud networking solutions deliver industry-leading performance, scalability, availability, programmability, automation and visibility. At the core of our cloud networking platform is EOS, which was purpose-built to be fully programmable, highly modular and reliable. The programmability of EOS has allowed us to create a set of software applications that address the requirements of cloud networking, including workflow automation, network visibility and analytics, and has also allowed us to rapidly integrate with a wide range of third-party applications for virtualization, management, automation, orchestration and network services.
+We believe that cloud networking will continue to replace legacy network technologies across data center and campus environments. Our cloud networking platforms are well positioned to address the growing cloud networking market, and to address increasing performance requirements driven by the growing number of connected devices, as well as the need for constant connectivity and access to data and applications.
+We generate revenue primarily from sales of our switching and routing products which incorporate our EOS software. We generate the majority of our services revenue from post contract support, or PCS, which end customers typically purchase in conjunction with our products. Our end customers span a range of industries and include large internet companies, service providers, financial services organizations, government agencies, media and entertainment companies and others. As we have grown the functionality of our EOS software, expanded the range of our product portfolio and increased the size of our sales force, our revenue has grown rapidly. We have also been profitable and operating cash flow positive for each year since 2010.
+We believe our future success is dependent upon our ability to continue to develop market leading products and features that address the needs of our end customers and our ability to sell these products to new and existing customers, including an increase in sales in the enterprise data center switching, campus and WiFi networking markets. We intend to continue expanding our sales force and marketing activities in key geographies, as well as our relationships with channel, technology and system-level partners in order to reach new end customers more effectively, increase sales to existing customers, and provide services and support. In addition, we intend to continue to invest in our research and development organization to enhance the functionality of our existing cloud networking
+
+54
+
+Table of Contents
+
+platform, introduce new products and features, and build upon our technology leadership. We believe one of our greatest strengths lies in our rapid development of new features and applications.
+Our development model is focused on the development of new products based on our EOS software and enhancements to EOS. We engineer our products to be agnostic to the underlying merchant silicon architecture. Today, we combine our EOS software with merchant silicon into a family of switching and routing products. This enables us to focus our research and development resources on our software core competencies and to leverage the investments made by merchant silicon vendors to achieve cost-effective solutions. We work closely with third party contract manufacturers to manufacture our products. Our contract manufacturers deliver our products to our third party direct fulfillment facilities.  We and our fulfillment partners then perform labeling, final configuration, quality assurance testing and shipment to our customers.
+Historically, large purchases by a relatively limited number of end customers have accounted for a significant portion of our revenue. We have experienced unpredictability in the timing of orders from these large end customers primarily due to changes in demand patterns specific to these customers, the time it takes these end customers to evaluate, test, qualify and accept our products, and the overall complexity of these large orders. We expect continued variability in our customer concentration and timing of sales on a quarterly and annual basis. For example, our sales to Microsoft and Facebook as end users in fiscal 2019 represented 23% and 17% of our revenue, respectively, and benefited from certain factors that are not expected to repeat in fiscal 2020. Consequently, the percentage of our revenue from Microsoft and Facebook in fiscal 2020 is expected to decline, which will likely negatively impact our revenue growth. In addition, we have provided, and may in the future provide, pricing discounts to large end customers, which may result in lower margins for the period in which such sales occur.
+
+Results of Operations
+Year Ended December 31, 2019 Compared to Year Ended December 31, 2018
+Revenue, Cost of Revenue and Gross Profit (in thousands, except percentages)
+
+--------------------- ----------------------- --------- ----------- ----- --------- ---- ----------- - --------- ----- - ---- ------- - ------- ---- -
+
+ Year Ended December 31,
+ 2019 2018 Change in
+ $ % ofRevenue $ % ofRevenue $ %
+Revenue
+Product $ 2,021,150 83.8 % $ 1,841,100 85.6 % $ 180,050 9.8 %
+Service 389,556 16.2 310,269 14.4 79,287 25.6
+Total revenue 2,410,706 100.0 2,151,369 100.0 259,337 12.1
+Cost of revenue
+Product 792,382 32.9 720,584 33.5 71,798 10.0
+Service 73,986 3.0 57,408 2.7 16,578 28.9
+Total cost of revenue 866,368 35.9 777,992 36.2 88,376 11.4
+Gross profit $ 1,544,338 64.1 % $ 1,373,377 63.8 % $ 170,961 12.4 %
+Gross margin 64.1 % 63.8 %
+
+55
+
+Table of Contents
+
+Revenue by Geography (in thousands, except percentages)
+
+------------------------------ ----------------------- --------- ---------- ---- ----- - ---------- - --------- ---- ----- -
+
+ Year Ended December 31,
+ 2019 % of Total 2018 % of Total
+Americas $ 1,833,163 76.1 % $ 1,550,453 72.1 %
+Europe, Middle East and Africa 381,651 15.8 414,069 19.2
+Asia-Pacific 195,892 8.1 186,847 8.7
+Total revenue $ 2,410,706 100.0 % $ 2,151,369 100.0 %
+
+Revenue
+We generate revenue primarily from sales of our products. We also derive a portion of our revenue from sales of PCS, which is typically purchased in conjunction with our products, and subsequent renewals of those contracts. We expect our revenue may vary from period to period based on, among other things, the timing, size, and complexity of orders, especially with respect to our large end customers.
+Product revenue increased $180.1 million, or 9.8%, in the year ended December 31, 2019 compared to 2018. The increase was primarily driven by increased demand from both new and existing customers, and the recognition of product deferred revenue related to sales in the prior year for which revenue was recognized in 2019. Service revenue increased $79.3 million, or 25.6% in the year ended December 31, 2019 compared to 2018 as a result of continued growth in initial and renewal support contracts as our customer installed base has continued to expand. International revenues represented 23.9% of total revenues in the year ended December 31, 2019, compared to 27.9% in 2018, which was primarily due to a move toward U.S. deployments by certain of our large end customers during 2019. We continue to experience pricing pressure on our products and services due to competition, but demand for our products and growth in our installed base has more than offset this pricing pressure during the year. However, we have experienced reduced and volatile demand from certain of our large end customers during 2019, and expect this could continue in future periods, which could impact our future revenue growth.
+Cost of Revenue and Gross Margin
+Cost of revenue primarily consists of amounts paid for inventory to our third-party contract manufacturers and merchant silicon vendors, overhead costs in our manufacturing operations department, and other manufacturing-related costs associated with manufacturing our products and managing our inventory. Cost of providing PCS and other services primarily consists of personnel costs for our global customer support organization.
+Cost of revenue increased $88.4 million or 11.4% for the year ended December 31, 2019 compared to 2018. The increase in cost of revenue was primarily due to the corresponding increases in product and service revenues.
+Gross margin, or gross profit as a percentage of revenue, has been and will continue to be affected by a variety of factors, including sales to large end customers who generally receive lower pricing, manufacturing-related costs including costs associated with supply chain sourcing activities, merchant silicon costs, the mix of products sold, and excess/obsolete inventory write-downs, including charges for excess/obsolete component inventory held by our contract manufacturers. We expect our gross margins to fluctuate over time, depending on the factors described above.
+Gross margin increased to 64.1% for the year ended December 31, 2019 compared to 63.8% in 2018. The increase in gross margin was primarily driven by an increase in product margins due to favorable customer mix, with lower discounts on smaller volume transactions, partially offset by increased product transition costs, including excess and obsolete inventory-related charges.
+Operating Expenses (in thousands, except percentages)
+Our operating expenses consist of research and development, sales and marketing, general and administrative expenses, and legal settlement expenses. The largest component of our operating expenses is personnel costs. Personnel costs consist of wages, benefits, bonuses and, with respect to sales and marketing expenses, sales commissions. Personnel costs also include stock-based compensation and travel expenses. We
+
+56
+
+Table of Contents
+
+expect operating expenses to continue to increase in absolute dollars in the near term as we continue to invest in the growth of our business.
+
+-------------------------- ----------------------- ------- ----------- --- --------- - ----------- - --------- ---- - ---- -------- - - -------- - ----- --
+
+ Year Ended December 31,
+ 2019 2018 Change in
+ $ % ofRevenue $ % ofRevenue $ %
+Operating expenses:
+Research and development $ 462,759 19.2 % $ 442,468 20.6 % $ 20,291 4.6 %
+Sales and marketing 213,907 8.9 187,142 8.7 26,765 14.3
+General and administrative 61,898 2.6 65,420 3.0 (3,522 ) (5.4 )
+Legal settlement — — 405,000 18.8 (405,000 ) (100.0 )
+Total operating expenses $ 738,564 30.7 % $ 1,100,030 51.1 % $ (361,466 ) (32.9 )%
+__________________
+
+Research and development.
+Research and development expenses consist primarily of personnel costs, prototype expenses, third-party engineering and contractor support costs, and an allocated portion of facility and IT costs, including depreciation. Our research and development efforts are focused on maintaining and developing additional functionality for our existing products and on new product development, including new releases and upgrades to our EOS software and applications. We expect our research and development expenses to increase in absolute dollars as we continue to invest in software development in order to expand the capabilities of our cloud networking platform, introduce new products and features, and build upon our technology leadership.
+Research and development expenses increased $20.3 million, or 4.6%, for the year ended December 31, 2019 compared to 2018. The increase was primarily due to a $17.2 million increase in personnel costs driven primarily by headcount growth, and a $7.8 million increase in in development-related facilities costs due to facilities expansion and headcount growth, partially offset by a $5.9 million decrease in new product introduction costs, including third-party engineering and other product development costs.
+Sales and marketing.
+Sales and marketing expenses consist primarily of personnel costs, marketing, trade shows, and other promotional activities, and an allocated portion of facility and IT costs, including depreciation. We expect our sales and marketing expenses to increase in absolute dollars as we continue to expand our sales and marketing efforts worldwide.
+Sales and marketing expenses increased $26.8 million, or 14.3% for the year ended December 31, 2019 compared to 2018. The increase primarily included a $23.4 million increase in personnel costs, which was driven by increased headcount as well as higher sales volumes, resulting in increased compensation costs, including commissions and stock-based compensation.
+General and administrative.
+General and administrative expenses consist primarily of personnel costs and professional services fees, including Cisco and OptumSoft litigation-related expenses. General and administrative personnel costs include those for our executive, finance, human resources and legal functions. Our professional services fees are primarily related to external legal, accounting, and tax services.
+General and administrative expenses decreased $3.5 million, or 5.4%, for the year ended December 31, 2019 compared to 2018. The decrease was primarily related to a reduced level of litigation activities as a result of the settlement of our litigation with Cisco in August 2018.
+
+57
+
+Table of Contents
+
+Legal settlement.
+	During the three months ended June 30, 2018, we recorded $405.0 million in legal settlement expenses in connection with the Term Sheet that was entered into on August 6, 2018 between the Company and Cisco, which included a $400.0 million payment and $5.0 million of legal fees associated with the settlement. Pursuant to the Term Sheet, the Company and Cisco obtained dismissals of all then ongoing district court and USITC litigation between us. On December 3, 2018, the parties entered into a mutual release and settlement agreement, which superseded the Term Sheet but did not substantially alter the terms.
+Other Income (Expense), Net (in thousands, except percentages)
+Other income (expense) consists primarily of interest income from our cash, cash equivalents and marketable securities, gains and losses on our investments in privately-held companies, and foreign currency transaction gains and losses. Upon adoption of Accounting Standard Codification Topic 842 - Leases (“ASC 842”) on January 1, 2019, we derecognized the finance lease obligation associated with our build-to-suit lease, and therefore will not incur further interest expense as it relates to this obligation. See Note 1. Organization and Summary of Significant Accounting Policies of the Notes to Consolidated Financial Statements included in Part II, Item 8, of this Annual Report on Form 10-K for further discussion. We expect other income (expense), net may fluctuate in the future as a result of the re-measurement of our private company equity investments upon the occurrence of observable price change and/or impairments, changes in interest rates or returns on our cash and cash equivalents and marketable securities, and foreign currency exchange rate fluctuations.
+
+------------------------------------------------------ ----------------------- ------ ----------- --- --------- - ----------- - ------ ---- - --- ------ - - ------ - ----- -
+
+ Year Ended December 31,
+ 2019 2018 Change in
+ $ % ofRevenue $ % ofRevenue $ %
+Other income (expense), net:
+Interest income $ 51,144 2.2 % $ 31,666 1.4 % $ 19,478 61.5 %
+Interest expense — — (2,701 ) (0.1 ) 2,701 (100.0 )
+Gain (loss) on investments in privately-held companies 5,427 0.2 (13,800 ) (0.6 ) 19,227 (139.3 )
+Other income (expense) (75 ) — 289 — (364 ) (126.0 )
+Total other income (expense), net $ 56,496 2.4 % $ 15,454 0.7 % $ 41,042 265.6 %
+
+The favorable change in other income (expense), net, during the year ended December 31, 2019 as compared to 2018 was driven by a $19.5 million increase in interest income as we continued to generate cash and expand our marketable securities portfolios, and a $19.2 million favorable change on our investments in privately-held companies resulting from the gain on certain investments of $5.4 million in 2019, compared to a net loss of $13.8 million on these investments during 2018. See Note 5. Investments of the Notes to Consolidated Financial Statements included in Part II, Item 8, of this Annual Report on Form 10-K for further discussion.
+Provision for (Benefit from) Income Taxes (in thousands, except percentages)
+We operate in a number of tax jurisdictions and are subject to taxes in each country or jurisdiction in which we conduct business. Earnings from our non-U.S. activities are subject to local country income tax and may also be subject to U.S. income tax. Generally, our U.S. tax obligations are reduced by a credit for foreign income taxes paid on these foreign earnings which avoids double taxation. Our tax expense to date consists of federal, state and foreign current and deferred income taxes.
+
+58
+
+Table of Contents
+
+----------------------------------------- ----------------------- ----- ----------- --------- ----- ----------- - ------- - - ---- -- - ------ ------ -
+
+ Year Ended December 31,
+ 2019 2018 Change in
+ $ % ofRevenue $ % ofRevenue $ %
+Provision for (benefit from) income taxes $ 2,403 0.1 % $ (39,314 ) (1.9 )% $ 41,717 (106.1 )
+Effective tax rate 0.3 % (13.6 )%
+
+For the years ended December 31, 2019 and 2018, we recorded an expense of $2.4 million and a benefit of $39.3 million for income taxes, respectively. The change in our income taxes was largely attributable to a $96.9 million tax benefit on the Cisco settlement in 2018 and an overall increase in worldwide earnings in 2019, partially offset by a net tax benefit of $86 million resulting from an intra-entity transaction to sell our non-Americas economic and beneficial intellectual property rights. For further information regarding income taxes and the impact on our results of operations and financial position, see Note 10. Income Taxes of the Notes to Consolidated Financial Statements included in Part II, Item 8, of this Annual Report on Form 10-K.
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017
+Revenue, Cost of Revenue and Gross Profit (in thousands, except percentages)
+
+--------------------- ----------------------- --------- ----------- ----- --------- ---- ----------- - --------- ----- - ---- ------- - ------- ---- -
+
+ Year Ended December 31,
+ 2018 2017 Change in
+ $ % ofRevenue $ % ofRevenue $ %
+Revenue
+Product $ 1,841,100 85.6 % $ 1,432,810 87.0 % $ 408,290 28.5 %
+Service 310,269 14.4 213,376 13.0 96,893 45.4
+Total revenue 2,151,369 100.0 1,646,186 100.0 505,183 30.7
+Cost of revenue
+Product 720,584 33.5 538,035 32.7 182,549 33.9
+Service 57,408 2.7 46,382 2.8 11,026 23.8
+Total cost of revenue 777,992 36.2 584,417 35.5 193,575 33.1
+Gross profit $ 1,373,377 63.8 % $ 1,061,769 64.5 % $ 311,608 29.3 %
+Gross margin 63.8 % 64.5 %
+
+Revenue by Geography (in thousands, except percentages)
+
+------------------------------ ----------------------- --------- ---------- ---- ----- - ---------- - --------- ---- ----- -
+
+ Year Ended December 31,
+ 2018 % of Total 2017 % of Total
+Americas $ 1,550,453 72.1 % $ 1,192,289 72.4 %
+Europe, Middle East and Africa 414,069 19.2 299,547 18.2
+Asia-Pacific 186,847 8.7 154,350 9.4
+Total revenue $ 2,151,369 100.0 % $ 1,646,186 100.0 %
+
+Revenue
+Product revenue increased $408.3 million, or 28.5%, in the year ended December 31, 2018 compared to 2017. The increase was primarily driven by sales to our existing customers as they continued to expand and upgrade their cloud networks. In addition, our newer switch products have continued to gain market acceptance, which has contributed to our revenue growth. Service revenue increased $96.9 million, or 45.4%, in the year ended December 31, 2018 compared to 2017 as a result of continued growth in initial and renewal support contracts as our customer installed base has continued to expand. We continue to experience pricing pressure on our products
+
+59
+
+Table of Contents
+
+and services due to competition, but demand for our products and growth in our installed base has more than offset this pricing pressure during the period.
+Cost of Revenue and Gross Margin
+Cost of revenue increased $193.6 million or 33.1% for the year ended December 31, 2018 compared to 2017. The increase in cost of revenue was primarily due to the corresponding increases in product revenues.
+Gross margin decreased from 64.5% to 63.8% for the year ended December 31, 2018 compared to 2017. The decrease in gross margin was primarily driven by a decrease in product margins due to customer mix, partially offset by reduced inventory-related charges and an improved service margins due to a relatively fixed services cost base and growing service revenues. We expect our gross margins to fluctuate over time, depending on the factors described above.
+Operating Expenses (in thousands, except percentages)
+
+-------------------------- ----------------------- --------- ----------- ---- --------- - ----------- - ------- --- - ---- ------- - - ------- - ---- -
+
+ Year Ended December 31,
+ 2018 2017 Change in
+ $ % ofRevenue $ % ofRevenue $ %
+Operating expenses:
+Research and development $ 442,468 20.6 % $ 349,594 21.2 % $ 92,874 26.6 %
+Sales and marketing 187,142 8.7 155,105 9.4 32,037 20.7
+General and administrative 65,420 3.0 86,798 5.3 (21,378 ) (24.6 )
+Legal settlement 405,000 18.8 — — 405,000 *
+Total operating expenses $ 1,100,030 51.1 % $ 591,497 35.9 % $ 508,533 86.0 %
+
+Research and development
+Research and development expenses increased $92.9 million, or 26.6%, for the year ended December 31, 2018 compared to 2017. The increase was primarily due to a $48.9 million increase in personnel costs, including corporate bonuses and stock-based compensation, driven primarily by headcount growth from our normal hiring process and from the two acquisitions we completed in the third quarter of 2018, and a $24.7 million increase in new product introduction costs, driven by additional development projects. In addition, facility and IT costs increased by $9.5 million due to increased IT services, headcount growth and additional costs associated with our acquired businesses.
+Sales and marketing
+Sales and marketing expenses increased $32.0 million, or 20.7% for the year ended December 31, 2018 compared to 2017. The increase primarily included a $28.0 million increase in personnel costs, which was driven by increased headcount as well as higher sales volumes, resulting in increased compensation costs, including commissions and stock-based compensation.
+General and administrative
+General and administrative expenses decreased $21.4 million, or 24.6%, for the year ended December 31, 2018 compared to 2017. The decrease included a $33.8 million decrease that was primarily related to a reduced level of litigation activities and a decrease in bond costs as a result of the settlement of the Cisco litigation in August 2018. The decrease was partially offset by $3.5 million of acquisition-related expenses incurred in 2018, a $3.3 million increase in personnel costs, including increased stock-based compensation, driven by increased headcount, and a $3.1 million increase in other legal and professional fees.
+Legal settlement
+	During the three months ended June 30, 2018, we recorded $405.0 million in legal settlement expenses in connection with the Term Sheet that was entered into on August 6, 2018 between the Company and Cisco, which included a $400.0 million payment and $5.0 million of legal fees associated with the settlement. Pursuant to the
+
+60
+
+Table of Contents
+
+Term Sheet, the Company and Cisco obtained dismissals of all then ongoing district court and USITC litigation between us. On December 3, 2018, the parties entered into a mutual release and settlement agreement, which superseded the Term Sheet but did not substantially alter the terms.
+Other Income (Expense), Net (in thousands, except percentages)
+
+------------------------------------------------------ ----------------------- ------ ----------- ---- --------- - ----------- - ----- ---- - --- ------- - - ------ - ----- -
+
+ Year Ended December 31,
+ 2018 2017 Change in
+ $ % ofRevenue $ % ofRevenue $ %
+Other income (expense), net:
+Interest income $ 31,666 1.4 % $ 8,093 0.5 % $ 23,573 291.3 %
+Interest expense (2,701 ) (0.1 ) (2,780 ) (0.2 ) 79 (2.8 )
+Gain (loss) on investments in privately-held companies (13,800 ) (0.6 ) — — (13,800 ) *
+Other income (expense) 289 — (825 ) (0.1 ) 1,114 (135.0 )
+Total other income (expense), net $ 15,454 0.7 % $ 4,488 0.2 % $ 10,966 244.3 %
+
+The favorable change in other income (expense), net, during the year ended December 31, 2018 as compared to 2017 was driven by a $23.6 million increase in interest income as we continued to generate cash and expand our marketable securities portfolios, which was offset partially by a $13.8 million net loss recorded in 2018 on our investments in privately-held companies. See Note 5. Investments of the Notes to Consolidated Financial Statements included in Part II, Item 8, of this Annual Report on Form 10-K for further discussion.
+Provision for Income Taxes (in thousands, except percentages)
+
+-------------------------- ----------------------- ------- ----------- --------- ---- ----------- - ------ - --- - - ------- - ------ --
+
+ Year Ended December 31,
+ 2018 2017 Change in
+ $ % ofRevenue $ % ofRevenue $ %
+Provision for income taxes $ (39,314 ) (1.9 )% $ 51,559 3.1 % $ (90,873 ) (176.3 )%
+Effective tax rate (13.6 )% 10.9 %
+
+For the years ended December 31, 2018 and 2017, we recorded a benefit of $39.3 million and an expense of $51.6 million for income taxes, respectively. The change in our income taxes was largely attributable to a $96.9 million tax benefit on the Cisco settlement in 2018 whereas we recorded a $51.8 million tax expense in 2017 related to the enactment of the Tax Act. The Tax Act provided for a decrease in the 2018 U.S. federal statutory tax rate, but this was partially offset by a new requirement to provide U.S. tax on foreign earnings. For further information regarding income taxes and the impact on our results of operations and financial position, see Note 10. Income Taxes of the Notes to Consolidated Financial Statements included in Part II, Item 8, of this Annual Report on Form 10-K.
+
+Liquidity and Capital Resources
+Our principal sources of liquidity are cash, cash equivalents, marketable securities, and cash generated from operations. As of December 31, 2019, our total balance of cash, cash equivalents and marketable securities was $2.7 billion, of which approximately $472.5 million was held outside the U.S. in our foreign subsidiaries.
+Our cash, cash equivalents and marketable securities are held for working capital purposes. Our marketable securities investment portfolio is primarily invested in highly-rated securities with the primary objective of minimizing the potential risk of principal loss. We plan to continue to invest for long-term growth. We believe that our existing balances of cash, cash equivalents and marketable securities, together with cash generated from operations will be sufficient to meet our working capital requirements and our growth strategies for at least the next 12 months. Our future capital requirements will depend on many factors, including our growth rate, the timing and extent of our spending to support research and development activities, the timing and cost of establishing
+
+61
+
+Table of Contents
+
+additional sales and marketing capabilities, the introduction of new and enhanced product and service offerings, our costs associated with supply chain activities, including access to outsourced manufacturing, our costs related to investing in or acquiring complementary or strategic businesses and technologies, the continued market acceptance of our products, and stock repurchases. If we require or elect to seek additional capital through debt or equity financing in the future, we may not be able to raise capital on terms acceptable to us or at all. If we are required and unable to raise additional capital when desired, our business, operating results and financial condition may be adversely affected.
+
+Cash Flows
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------- ------- ---- -------- ------------------- -------- -------- - - -------
+
+ Year Ended December 31,
+ 2019 2018 2017As Adjusted (1)
+ (in thousands)
+Cash provided by operating activities $ 963,034 $ 503,119 $ 631,627
+Cash used in investing activities (1) (284,072 ) (755,113 ) (391,320 )
+Cash (used in) provided by financing activities (217,964 ) 42,851 51,469
+Effect of exchange rate changes 353 (1,390 ) 753
+Net increase/(decrease) in cash, cash equivalents and restricted cash $ 461,351 $ (210,533 ) $ 292,529
+__________________________
+(1) Cash used in investing activities for year ended December 31, 2017 were adjusted as a result of our adoption of ASU 2016-18, Statement of Cash Flows (Topic 230): Restricted Cash, in the first quarter of 2018. See Note 1. Organization and Summary of Significant Accounting Policies included in Part II, Item 8, of this Annual Report on Form 10-K for more information.
+
+Cash Flows from Operating Activities
+Our operating activities have consisted of net income, adjusted for certain non-cash items, and changes in assets and liabilities.
+During the year ended December 31, 2019, cash provided by operating activities was $963.0 million, primarily from net income of $859.9 million and net non-cash adjustments to net income of $62.4 million, partially offset by a net decrease of $40.8 million in cash from changes in our operating assets and liabilities. Cash outflows from operating activities consisted of an $11.9 million decrease in deferred revenue primarily due to the recognition of product deferred revenue related to contract acceptance terms, largely offset by increased service deferred revenue related to growth in customer service and support contracts, a $60.2 million increase in accounts receivable due to timing of shipments, and an $8.1 million increase in other assets resulting from increased spares inventory to support our customer base. These cash outflows were partially offset by cash inflows of $54.3 million in prepaid expenses and other current assets from a decrease in deferred cost of inventory due to the recognition of product deferred revenue, $23.5 million from an increase in income taxes payable, $20.9 million decrease in inventories due to timing of product shipments and receipts, and $16.4 million from increased accrued liabilities primarily due to an increase in supplier liability reserves for excess and obsolete component inventory.
+During the year ended December 31, 2018, cash provided by operating activities was $503.1 million, net of $405.0 million payments for the legal settlement with Cisco including the associated legal fees. Our cash provided by operating activities was primarily from net income of $328.1 million, non-cash adjustments to net income of $71.4 million, and a net increase of $103.6 million in cash from changes in our operating assets and liabilities. Our operating cash benefited $70.5 million from increased deferred revenue reflecting ongoing growth in service and support contracts, $51.1 million from decreased inventories driven by improved inventory management and timing of receipts, $39.3 million from increased accounts payable due to timing of vendor payments primarily related to inventory-related purchases, $21.4 million from a decrease in prepaid expenses and other assets primarily
+
+62
+
+Table of Contents
+
+due to decreased deposits at our contract manufacturers, and $17.5 million from an increase in other long term liabilities primarily driven by increased customer prepayments under cancellable contracts. These favorable changes were partially offset by unfavorable changes of $77.9 million from increased accounts receivable due to increased billing and timing of customer shipments, and $14.8 million from decreased accrued liabilities due primarily to a decline in supplier liabilities and the timing of vendor accruals.
+Cash Flows from Investing Activities
+Our investing activities have consisted primarily of purchases of available for sale marketable securities, net of proceeds from maturities of marketable securities, business acquisitions, investments in privately-held companies, and capital expenditures.
+During the year ended December 31, 2019, cash used in investing activities was $284.1 million, primarily consisting of purchases of available-for-sale securities of $1.5 billion, and purchases of property and equipment of 15.8 million, partially offset by proceeds of $1.2 billion from maturities of marketable securities and proceeds from the sale of one of our investments in privately-held companies of $28.2 million.
+During the year ended December 31, 2018, cash used in investing activities was $755.1 million, consisting of purchases of marketable securities of $1.2 billion, offset by proceeds of $547.8 million from maturities of marketable securities, $96.8 million for business acquisitions, additional investments in privately-held companies of $8.0 million, and purchases of property, equipment and other assets of $23.8 million.
+Cash Flows from Financing Activities
+Our financing activities have consisted primarily of proceeds from the issuance of our common stock under employee equity incentive plans, offset by repurchases of our common stock.
+During the year ended December 31, 2019, cash provided by financing activities was $218.0 million, consisting primarily of payments for repurchases of our common stock of $266.1 million and taxes paid of $9.2 million upon vesting of restricted stock units, offset partially by proceeds from the issuance of common stock under employee equity incentive plans of $57.4 million.
+During the year ended December 31, 2018, cash provided by financing activities was $42.9 million, consisting primarily of proceeds of $53.7 million from the issuance of common stock under employee equity incentive plans, partially offset by $8.9 million of taxes paid upon vesting of restricted stock units, and payments of $1.9 million for lease financing obligations.
+
+Stock Repurchase Program
+From time to time, we repurchase our common stock opportunistically pursuant to our Repurchase Program authorized by our board of directors in April 2019. The Repurchase Program allows for stock repurchases of up to $1.0 billion and these repurchases are funded from working capital. The Repurchase Program, which expires in April 2022, does not obligate us to acquire any of our common stock, and may be suspended or discontinued by us at any time without prior notice. As of December 31, 2019, we repurchased a total of $266.1 million of our common stock, and the remaining authorized amount for repurchases under the Repurchase Program was $733.9 million. Refer to Note 8. Equity Award Plan Activities of the Notes to Consolidated Financial Statements included in Part II, Item 8, of this Annual Report on Form 10-K for further discussion.
+
+Off-Balance Sheet Arrangements
+As of December 31, 2019, we did not have any relationships with any unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities that would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+
+63
+
+Table of Contents
+
+Contractual Obligations and Commitments
+Our contractual commitments will have an impact on our future liquidity. Our contractual obligations represent material expected or contractually committed future payment obligations. We believe that we will be able to fund these obligations through cash generated from operations and from our existing balances of cash, cash equivalent and marketable securities.
+The following summarizes our contractual obligations and commitments as of December 31, 2019 (in thousands):
+
+-------------------------------------------------------------- ---------------------- ------- --------------- ------- ------------ ------- ------------ ---------------- ------ ------ ------ - ------
+
+ Payments Due by Period
+ Total Less than1 Year 1 to 3 Years 3 to 5 Years More than5 Years
+Operating lease obligations 117,065 20,563 42,794 27,488 26,220
+Purchase commitments with contract manufacturers and suppliers 279,203 279,203 — — —
+Other non-cancellable purchase obligations 15,482 15,482 — —
+Transition tax payable 5,967 — — 2,025 3,942
+Total $ 417,717 $ 315,248 $ 42,794 $ 29,513 $ 30,162
+
+The contractual obligation table above excludes tax liabilities of $57.5 million related to uncertain tax positions because we are unable to make a reasonably reliable estimate of the timing of settlement, if any, of these future payments.
+In connection with Tax Reform, as of December 31, 2017, we recorded a federal income tax payable for transition tax on the mandatory deemed repatriation of foreign earnings that will be payable over an eight-year period. The amounts included in the table above represent the remaining federal income tax payable after applying the first year’s installment payment and early payments of future installments.
+
+Critical Accounting Policies and Estimates
+We have prepared our consolidated financial statements in accordance with U.S. generally accepted accounting principles (GAAP) and include our accounts and the accounts of our wholly owned subsidiaries. The preparation of these consolidated financial statements requires our management to make estimates, assumptions and judgments that affect the reported amounts of assets and liabilities at the date of the financial statements, disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the applicable periods. We base our estimates, assumptions and judgments on historical experience and on various other factors that we believe to be reasonable under the circumstances. Different assumptions and judgments would change the estimates used in the preparation of our consolidated financial statements, which, in turn, could change the results from those reported. We evaluate our estimates, assumptions and judgments on an ongoing basis. Actual results may differ from these estimates. To the extent that there are material differences between these estimates and our actual results, our future financial statements will be affected. The critical accounting estimates, assumptions and judgments that we believe have the most significant impact on our consolidated financial statements are the following:
+Revenue Recognition
+We generate revenue from sales of our products, which incorporate our EOS software and accessories such as cables and optics, to direct customers and channel partners together with PCS. We typically sell products and PCS in a single contract. We recognize revenue upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to be entitled to receive in exchange for those products or services. We apply the following five-step revenue recognition model:
+
+- -------------------------------------------------------------
+• Identification of the contract, or contracts, with a customer
+
+- -------------------------------------------------------------
+• Identification of the performance obligations in the contract
+
+- --------------------------------------
+• Determination of the transaction price
+
+- ----------------------------------------------------------------------------------
+• Allocation of the transaction price to the performance obligations in the contract
+
+64
+
+Table of Contents
+
+- -------------------------------------------------------------------------
+• Recognition of revenue when (or as) we satisfy the performance obligation
+
+Post-Contract Customer Support
+PCS, which includes technical support, hardware repair and replacement parts beyond standard warranty, bug fixes, patches and unspecified upgrades on a when-and-if-available basis, is offered under renewable, fee-based contracts. We initially defer PCS revenue and recognize it ratably over the life of the PCS contract as there is no discernable pattern of delivery related to these promises. We do not provide unspecified upgrades on a set schedule and addresses customer requests for technical support if and when they arise, with the related expenses recognized as incurred. PCS contracts generally have a term of one to three years. We include billed but unearned PCS revenue in deferred revenue.
+Contracts with Multiple Performance Obligations
+Most of our contracts with customers, other than renewals of PCS, contain multiple performance obligations with a combination of products and PCS. Products and PCS generally qualify as distinct performance obligations. Our hardware includes EOS software, which together deliver the essential functionality of our products. For contracts which contain multiple performance obligations, we allocate revenue to each distinct performance obligation based on the standalone selling price (“SSP”). Judgment is required to determine the SSP for each distinct performance obligation. We use a range of amounts to estimate SSP for products and PCS sold together in a contract to determine whether there is a discount to be allocated based on the relative SSP of the various products and PCS.
+If we do not have an observable SSP, such as when we do not sell a product or service separately, then SSP is estimated using judgment and considering all reasonably available information such as market conditions and information about the size and/or purchase volume of the customer. We generally use a range of amounts to estimate SSP for individual products and services based on multiple factors including, but not limited to the sales channel (reseller, distributor or end customer), the geographies in which our products and services are sold, and the size of the end customer.
+We limit the amount of revenue recognition for contracts containing forms of variable consideration, such as future performance obligations, customer-specific returns, and acceptance or refund obligations. We include some or all of an estimate of the related at risk consideration in the transaction price only to the extent that it is probable that a significant reversal in the amount of cumulative revenue recorded under each contract will not occur when the uncertainties surrounding the variable consideration are resolved.
+Most of our contracts with customers have payment terms of 30 days with some large high volume customers having terms of up to 60 days. We have determined our contracts generally do not include a significant financing component because the Company and the customer have specific business reasons other than financing for entering into such contracts. Specifically, both we and our customers seek to ensure the customer has a simplified way of purchasing Arista products and services.
+We account for multiple contracts with a single partner as one arrangement if the contractual terms and/or substance of those agreements indicate that they may be so closely related that they are, in effect, parts of a single contract.
+We may occasionally accept returns to address customer satisfaction issues even though there is generally no contractual provision for such returns. We estimate returns for sales to customers based on historical returns rates applied against current-period shipments. Specific customer returns and allowances are considered when determining our sales return reserve estimate.
+Our policy applies to the accounting for individual contracts. However, we have elected a practical expedient to apply the guidance to a portfolio of contracts or performance obligations with similar characteristics so long as such application would not differ materially from applying the guidance to the individual contracts (or performance obligations) within that portfolio. Consequently, we have chosen to apply the portfolio approach when possible, which we do not believe will happen frequently. Additionally, we will evaluate a portfolio of data, when possible, in various situations, including accounting for commissions, rights of return and transactions with variable consideration.
+
+65
+
+Table of Contents
+
+We report revenue net of sales taxes. We include shipping charges billed to customers in revenue and the related shipping costs are included in cost of product revenue.
+Inventory Valuation and Contract Manufacturer/Supplier Liabilities
+Inventories primarily consist of finished goods and strategic components, primarily integrated circuits. Inventories are stated at the lower of cost (computed using the first-in, first-out method) and net realizable value. Manufacturing overhead costs and inbound shipping costs are included in the cost of inventory.  We record a provision when inventory is determined to be in excess of anticipated demand, or obsolete, to adjust inventory to its estimated realizable value.
+Our contract manufacturers procure components and assemble products on our behalf based on our forecasts. We record a liability and a corresponding charge for non-cancellable, non-returnable purchase commitments with our contract manufacturers or suppliers for quantities in excess of our demand forecasts or that are considered obsolete due to manufacturing and engineering change orders resulting from design changes.
+We use significant judgment in establishing our forecasts of future demand and obsolete material exposures. These estimates depend on our assessment of current and expected orders from our customers, product development plans and current sales levels. If actual market conditions are less favorable than those projected by management, which may be caused by factors within and outside of our control, we may be required to increase our inventory write-downs and liabilities to our contract manufacturers and suppliers, which could have an adverse impact on our gross margins and profitability. We regularly evaluate our exposure for inventory write-downs and adequacy of our contract manufacturer liabilities.
+Income Taxes
+Income tax expense is an estimate of current income taxes payable in the current fiscal year based on reported income before income taxes. Deferred income taxes reflect the effect of temporary differences and carryforwards that we recognize for financial reporting and income tax purposes.
+We account for income taxes under the liability approach for deferred income taxes, which requires recognition of deferred income tax assets and liabilities for the expected future tax consequences of events that have been recognized in our consolidated financial statements, but have not been reflected in our taxable income. Estimates and judgments occur in the calculation of certain tax liabilities and in the determination of the recoverability of certain deferred income tax assets, which arise from temporary differences and carryforwards. Deferred income tax assets and liabilities are measured using the currently enacted tax rates that apply to taxable income in effect for the years in which those tax assets are expected to be realized or settled. We regularly assess the likelihood that our deferred income tax assets will be realized based on the positive and negative evidence available. We record a valuation allowance to reduce the deferred tax assets to the amount that we are more likely than not to realize.
+We believe that we have adequately reserved for our uncertain tax positions, although we can provide no assurance that the final tax outcome of these matters will not be materially different. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences will affect the provision for income taxes in the period in which such determination is made and could have a material impact on our financial condition and results of operations. The provision for income taxes includes the effects of any reserves that we believe are appropriate, as well as the related net interest and penalties.
+We regularly review our tax positions and benefits to be realized. We recognize tax liabilities based upon our estimate of whether, and to the extent to which, additional taxes will be due when such estimates are more likely than not to be sustained. An uncertain income tax position will not be recognized if it has less than a 50% likelihood of being sustained. We recognize interest and penalties related to income tax matters as income tax expense.
+Loss Contingencies
+In the ordinary course of business, we are a party to claims and legal proceedings including matters relating to commercial, employee relations, business practices and intellectual property. In assessing loss contingencies, we use significant judgment and assumptions to estimate the likelihood of loss, impairment of an asset or the
+
+66
+
+Table of Contents
+
+incurrence of a liability, as well as our ability to reasonably estimate the amount of loss. We record a provision for contingent losses when it is both probable that an asset has been impaired or a liability has been incurred and the amount of the loss can be reasonably estimated. We will record a charge equal to the minimum estimated liability for litigation costs or a loss contingency only when both of the following conditions are met: (i) information available prior to issuance of our consolidated financial statements indicates that it is probable that a liability had been incurred at the date of the financial statements and (ii) the range of loss can be reasonably estimated. We regularly evaluate current information available to us to determine whether such accruals should be adjusted and whether new accruals are required.
+Recent Accounting Pronouncements
+Refer to “Recent Accounting Pronouncements” in Note 1. Organization and Summary of Significant Accounting Policies of the Notes to Consolidated Financial Statements included in Part II, Item 8, of this Annual Report on Form 10-K.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Inc. is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, devices and media. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas, Europe, Middle East and Africa ("EMEA"), and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and...
+
+[See Note 5]:
+(5) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. Strategy For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2020, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * The further optimization of our customer mix and fleet mix, with a dual objective: to enhance our performance in serving our current customer base, and to focus on the accounts and customer types that are best suited to our strategy for profitable growth. We believe these efforts will lead to even better service of our target accounts, primarily large construction and industrial customers, as well as select l...
+
+[see Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- --------- --------- ---- --------- ---- --------- --------- - --------- (in thousands) 2019 2018 2017 Domestic $ 437,603 $ 542,948 $ 1,056,156 Foreign 2,767,138 2,250,928 1,081,485 Income before income taxes $ 3,204,741 $ 2,793,876 $ 2,137,641 The provision for income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- ------- ------- ---- -------- ---- ------- ------- - - ------- (in thousands) 2019 2018 2017 Current: United States federal $ 6,563 $ 501,272 $ 298,802 Foreign 211,174 140,308 60,962 State and local 30,893 28,612 33,578 Total current 248,630 670,192 393,342 Deferred: United States federal 22,528 (466,113 ) 48,905 Foreign (11,675 ) (9,734 ) (4,242 ) State and local (6,200 ) 8,757 5,682 Total deferred 4,653 (467,090 ) 50,345 Provision for income taxes $ 253,283 $ 203,102 $ 443,687 88  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) U.S. Tax Reform On December 22, 2017, the Tax Cuts and Jobs Act (the "Tax Act") was enacted into law, which significantly changed existing U.S. tax law and includes many provisions applicable to us, such as reducing the U.S. federal statutory tax rate, imposing a one-time transition tax on deemed repatriation of deferred foreign income and adopting a territorial tax system. The Tax Act reduced the U.S. federal statutory tax rate from 35% to 21% effective January 1, 2018. For fiscal 2018, our blended U.S. federal statutory tax rate was 22.2%. This was the result of using the tax rate of 35% for the first month of fiscal 2018 and the reduced tax rate of 21% for the remaining eleven months of fiscal 2018. The Tax Act also required us to incur a one-time transition tax on deferred foreign income not previously subject to U.S. income tax at a rate of 15.5% for foreign cash and certain other net current assets, and 8% on the remaining income,...
+
+[See Note 5]:
+(5) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. Strategy For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2020, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * The further optimization of our customer mix and fleet mix, with a dual objective: to enhance our performance in serving our current customer base, and to focus on the accounts and customer types that are best suited to our strategy for profitable growth. We believe these efforts will lead to even better service of our target accounts, primarily large construction and industrial customers, as well as select l...
+
+[see Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- --------- --------- ---- --------- ---- --------- --------- - --------- (in thousands) 2019 2018 2017 Domestic $ 437,603 $ 542,948 $ 1,056,156 Foreign 2,767,138 2,250,928 1,081,485 Income before income taxes $ 3,204,741 $ 2,793,876 $ 2,137,641 The provision for income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- ------- ------- ---- -------- ---- ------- ------- - - ------- (in thousands) 2019 2018 2017 Current: United States federal $ 6,563 $ 501,272 $ 298,802 Foreign 211,174 140,308 60,962 State and local 30,893 28,612 33,578 Total current 248,630 670,192 393,342 Deferred: United States federal 22,528 (466,113 ) 48,905 Foreign (11,675 ) (9,734 ) (4,242 ) State and local (6,200 ) 8,757 5,682 Total deferred 4,653 (467,090 ) 50,345 Provision for income taxes $ 253,283 $ 203,102 $ 443,687 88  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) U.S. Tax Reform On December 22, 2017, the Tax Cuts and Jobs Act (the "Tax Act") was enacted into law, which significantly changed existing U.S. tax law and includes many provisions applicable to us, such as reducing the U.S. federal statutory tax rate, imposing a one-time transition tax on deemed repatriation of deferred foreign income and adopting a territorial tax system. The Tax Act reduced the U.S. federal statutory tax rate from 35% to 21% effective January 1, 2018. For fiscal 2018, our blended U.S. federal statutory tax rate was 22.2%. This was the result of using the tax rate of 35% for the first month of fiscal 2018 and the reduced tax rate of 21% for the remaining eleven months of fiscal 2018. The Tax Act also required us to incur a one-time transition tax on deferred foreign income not previously subject to U.S. income tax at a rate of 15.5% for foreign cash and certain other net current assets, and 8% on the remaining income,...
+
+[See Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Inc. is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, devices and media. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas, Europe, Middle East and Africa ("EMEA"), and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and...
+
+[Refer to Note 8]:
+(8) Registration Statement (Form S-8 No. 333-177561) pertaining to Netflix, Inc. 2011 Stock Plan; of our reports dated January 29, 2020, with respect to the consolidated financial statements of Netflix, Inc. and the effectiveness of internal control over financial reporting of Netflix, Inc. included in this Annual Report (Form 10-K) of Netflix, Inc. for the year ended December 31, 2019. -------------------- --------------------- /s/ Ernst & Young LLP San Jose, California January 29, 2020 EX-31.1 5 ex311q419.htm EXHIBIT 31.1 Exhibit EXHIBIT 31.1 CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Reed Hastings, certify that: -- ----------------------------------------------------------------- 1. I have reviewed this Annual Report on Form 10-K of Netflix, Inc.; -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; -- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; -- -------...
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31

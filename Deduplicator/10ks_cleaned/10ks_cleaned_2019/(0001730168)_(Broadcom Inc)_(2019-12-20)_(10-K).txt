@@ -1,0 +1,546 @@
+================================================================================
+CIK: 0001730168
+Company Name: Broadcom Inc
+Filing Date: 2019-12-20
+Form Type: 10-K
+Extraction Date: 2025-08-31 09:13:26
+================================================================================
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with “Selected Financial Data” and our consolidated financial statements and notes thereto which appear elsewhere in this Annual Report on Form 10-K. This discussion may contain forward-looking statements based upon current expectations that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under the caption “Risk Factors” or in other parts of this Annual Report on Form 10-K.
+
+Overview
+We are a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions. We develop semiconductor devices with a focus on complex digital and mixed signal complementary metal oxide semiconductor based devices and analog III-V based products. We have a history of innovation in the semiconductor industry and offer thousands of products that are used in end products such as enterprise and data center networking, home connectivity, set-top boxes, broadband access, telecommunication equipment, smartphones and base stations, data center servers and storage systems, factory automation, power generation and alternative energy systems, and electronic displays. Our infrastructure software solutions enable customers to plan, develop, automate, manage, and secure applications across mainframe, distributed, mobile, and cloud platforms. Through our fiscal year ended November 3, 2019 (“fiscal year 2019”), we had three reportable segments: semiconductor solutions, infrastructure software and intellectual property (“IP”) licensing.
+Our strategy is to combine best-of-breed technology leadership in semiconductor and infrastructure software solutions, with unmatched scale, on a common sales and administrative platform to deliver a comprehensive suite of infrastructure technology products to the world’s leading business and government customers. We seek to achieve this through responsibly financed acquisitions of category-leading businesses and technologies, as well as investing extensively in research and development, to ensure our products retain their technology leadership. This strategy results in a robust business model designed to drive diversified and sustainable operating and financial results.
+The demand for our products has been affected in the past, and is likely to continue to be affected in the future, by various factors, including the following:
+
+- --------------------------------------
+• gain or loss of significant customers;
+
+- -----------------------------------------------------------------------------------------
+• general economic and market conditions in the industries and markets in which we compete;
+
+- ------------------------------------------------------------
+• our distributors’ product inventory and end customer demand;
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• the rate at which our present and future customers and end-users adopt our products and technologies in our target markets, and the rate at which our customers' products that include our technology are accepted in their markets;
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• the shift to cloud-based IT solutions and services, such as hyperscale computing, which may adversely affect the timing and volume of sales of our products for use in traditional enterprise data centers; and
+
+- ---------------------------------------------------------------------
+• the timing, rescheduling or cancellation of expected customer orders.
+
+Uncertainty in global economic conditions poses significant risks to our business. For example, customers may defer purchases in response to tighter credit and negative financial news, which would in turn adversely affect product demand and our results of operations.
+Our fiscal year 2019 and our fiscal year ended October 29, 2017 (“fiscal year 2017”) were 52-week fiscal years compared to our fiscal year ended November 4, 2018 (“fiscal year 2018”), which was a 53-week fiscal year. The additional week in the first quarter of fiscal year 2018 resulted in higher net revenue, gross margin dollars, research and development expense, and selling general and administrative expense for fiscal year 2018, compared to fiscal years 2019 and 2017.
+Fiscal Year Highlights
+Highlights during fiscal year 2019 include the following:
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• On September 30, 2019, we completed an offering of approximately 4 million shares of 8.00% Mandatory Convertible Preferred Stock, Series A, $0.001 par value per share (the “Mandatory Convertible Preferred Stock”), which generated net proceeds of $3,679 million. We used the net proceeds, together, with cash on hand, to repay $4.8 billion of our long-term debt.
+
+- ----------------------------------------------------
+• We generated $9,697 million of cash from operations.
+
+38
+
+Table of Contents
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We paid $5,435 million to repurchase shares of our common stock under our stock repurchase program, $4,235 million for cash dividends and distributions and $972 million in employee withholding taxes related to net share settled equity awards.
+
+- --------------------------------------------------------------------------------------------------------------------------------
+• On November 5, 2018, we completed the acquisition of CA, Inc. (“CA”) for aggregate consideration of approximately $18.8 billion.
+
+Recent Developments
+Purchase of Symantec Corporation’s Enterprise Security Business
+On November 4, 2019, we completed the purchase and assumption of certain assets and certain liabilities, respectively, of Symantec Corporation’s Enterprise Security business (“Symantec Business”) for approximately $10.7 billion in cash (the “Symantec Asset Purchase”).
+In connection with the Symantec Asset Purchase, we entered into a credit agreement with certain financial institutions to provide (i) up to $12 billion in term loans to fund the Symantec Asset Purchase and related working capital needs and (ii) $3.5 billion in term loans to refinance certain existing senior notes maturing in the first quarter of our fiscal year ending November 1, 2020 (“fiscal year 2020”).
+The discussions below relate to our business, reporting segments and financial results for fiscal year 2019 and prior periods and do not include any impact from or information relating to the Symantec Asset Purchase.
+
+Acquisitions and Divestitures
+The discussion and analysis in this section and the accompanying consolidated financial statements include the results of operations of acquired companies commencing on their respective acquisition dates.
+Acquisition of CA, Inc.
+On November 5, 2018 (the “CA Acquisition Date”), we acquired CA for approximately $18.8 billion in aggregate cash purchase consideration and assumed $2.25 billion of outstanding unsecured bonds (the “CA Merger”). We financed the CA Merger with $18 billion of term loans borrowed on the CA Acquisition Date, as well as cash on hand of the combined companies. See Note 9. “Borrowings” included in Part II, Item 8. of this Annual Report on Form 10-K for further detail. We also assumed all eligible unvested CA equity awards in the transaction. On December 31, 2018, we sold Veracode, Inc. (“Veracode”), a subsidiary of CA and provider of application security testing solutions, to Thoma Bravo, LLC for cash consideration of $950 million, before working capital adjustments.
+Acquisition of Brocade Communications Systems, Inc.
+On November 17, 2017, we acquired Brocade Communications Systems, Inc. (“Brocade”) for approximately $6.0 billion in cash, including retirement of their term loan debt (the “Brocade Merger”), which we financed using the net proceeds from the issuance of our senior unsecured notes, issued in October 2017, as well as cash on hand. We also assumed all eligible unvested Brocade equity awards in the transaction. On December 1, 2017, we sold certain Brocade businesses for an aggregate of $800 million in cash.
+
+Net Revenue
+A majority of our net revenue is derived from sales of a broad range of semiconductor devices that are incorporated into electronic products, as well as from modules, switches and subsystems. Net revenue is also generated from the sale of software solutions that enable our customers to plan, develop, automate, manage, and secure applications across mainframe, distributed, mobile, and cloud platforms. Our three reportable segments in fiscal year 2019 were: semiconductor solutions, infrastructure software and IP licensing.
+Our overall net revenue, as well as the percentage of total net revenue generated by sales in our semiconductor solutions and infrastructure software segments, has varied from quarter to quarter, due largely to fluctuations in end-market demand, including the effects of seasonality, which are discussed in detail in Part I, Item 1. Business under “Seasonality” of this Annual Report on Form 10-K.
+Original equipment manufacturers (“OEMs”), or their contract manufacturers, and distributors typically account for the substantial majority of our semiconductor sales. To serve customers around the world, we have strategically developed relationships with large global electronic component distributors, complemented by a number of regional distributors with customer relationships based on their respective product ranges. We also sell our products to a wide variety of OEMs or their contract manufacturers. We have established strong relationships with leading OEM customers across multiple target markets. Our direct sales force focuses on supporting our large OEM customers and has specialized product and service knowledge that enables us to sell specific offerings at key levels throughout a customer’s organization. Certain customers require us to contract with them directly and with specified intermediaries, such as contract manufacturers. Many of our major customer
+
+39
+
+Table of Contents
+
+relationships have been in place for many years and are often the result of years of collaborative product development. This has enabled us to build our extensive IP portfolio and develop critical expertise regarding our customers’ requirements, including substantial system-level knowledge. This collaboration has provided us with key insights into our customers' businesses and has enabled us to be more efficient and productive and to better serve our target markets and customers. We recognize revenue upon delivery of product to the distributors, which can cause our quarterly net revenue to fluctuate significantly. Such revenue is reduced for estimated returns and distributor allowances.
+Our traditional software customers generally consist of large enterprises that have computing environments from multiple vendors and are highly complex. We believe our enterprise-wide license model will continue to offer our customers reduced complexity, more flexibility and an easier renewal process that will help drive revenue growth.
+Costs and Expenses
+Cost of products sold.  Cost of products sold consists primarily of the costs for semiconductor wafers and other materials as well as the costs of assembling and testing those products and materials. Such costs include personnel and overhead related to our manufacturing operations, which include stock-based compensation expense; related occupancy; computer services; equipment costs; manufacturing quality; order fulfillment; warranty adjustments; inventory adjustments, including write-downs for inventory obsolescence; and acquisition costs, which include direct transaction costs and integration-related costs.
+Although we outsource a significant portion of our manufacturing activities, we do have some proprietary semiconductor fabrication facilities. If we are unable to utilize our owned fabrication facilities at a desired level, the fixed costs associated with these facilities will not be fully absorbed, resulting in higher average unit costs and lower gross margins.
+Cost of subscriptions and services. Cost of subscriptions and services consists of personnel, project costs associated with professional services or support of our subscriptions and services revenue, and allocated facilities costs and other corporate expenses. Personnel costs include stock-based compensation expense.
+Total cost of revenue also includes the purchase accounting effect on inventory, amortization of acquisition-related intangible assets and restructuring charges.
+Research and development.  Research and development expense consists primarily of personnel costs for our engineers engaged in the design and development of our products and technologies, including stock-based compensation expense. These expenses also include project material costs, third-party fees paid to consultants, prototype development expense, allocated facilities costs and other corporate expenses and computer services costs related to supporting computer tools used in the engineering and design process.
+Selling, general and administrative.  Selling expense consists primarily of compensation and associated costs for sales and marketing personnel, including stock-based compensation expense, sales commissions paid to our independent sales representatives, advertising costs, trade shows, corporate marketing, promotion, travel related to our sales and marketing operations, related occupancy and equipment costs, and other marketing costs. General and administrative expense consists primarily of compensation and associated costs for executive management, finance, human resources and other administrative personnel, including stock-based compensation expense, outside professional fees, allocated facilities costs, acquisition-related costs and other corporate expenses.
+Amortization of acquisition-related intangible assets.  In connection with our acquisitions, we recognize intangible assets that are being amortized over their estimated useful lives of 1 year to 25 years. We also recognize goodwill, which is not amortized, and in-process research and development (“IPR&D”), which is initially capitalized as an indefinite-lived intangible asset, in connection with acquisitions. Upon completion of each underlying project, IPR&D assets are reclassified as an amortizable purchased intangible asset and amortized over their estimated useful lives.
+Restructuring, impairment and disposal charges. Restructuring, impairment and disposal charges consist primarily of compensation costs associated with employee exit programs, alignment of our global manufacturing operations, rationalizing product development program costs, IPR&D impairment, fixed asset impairment, facility and lease abandonments, and other exit costs, including curtailment of service or supply agreements.
+Interest expense.  Interest expense includes coupon interest, commitment fees, accretion of original issue discount, and amortization of debt premiums and debt issuance costs, and expenses related to debt modification.
+Other income, net.  Other income, net includes interest income, gains (losses) on investments and on foreign currency remeasurement, and other miscellaneous items.
+Provision for (benefit from) income taxes.  The U.S. Tax Cuts and Jobs Act ( “2017 Tax Reform Act”) made significant changes to the U.S. Internal Revenue Code, including (1) a decrease in the U.S. corporate tax rate from 35% to 21% effective for tax years beginning after December 31, 2017, (2) the accrual of U.S. income tax on foreign earnings when earned, allowing
+
+40
+
+Table of Contents
+
+certain foreign dividends to then be tax-exempt, rather than deferring such income tax payments until the foreign earnings are repatriated into the U.S., and (3) the transition tax on the mandatory deemed repatriation of accumulated non-U.S. earnings of U.S. controlled foreign corporations (the “Transition Tax”). Following the enactment of the 2017 Tax Reform Act, the Securities and Exchange Commission (“SEC”), issued guidance for situations when there is insufficient information to complete the accounting for certain income tax effects of the 2017 Tax Reform Act. Based on our interpretation of the 2017 Tax Reform Act and the SEC’s guidance, we recognized an income tax benefit of $7,278 million during fiscal year 2018. During fiscal year 2019 we recorded an income tax provision of $113 million from a change in estimate of our fiscal year 2018 benefit as a result of proposed U.S. Treasury regulations issued in fiscal year 2019 related to the 2017 Tax Reform Act. We also recognized an income tax benefit of $1,162 million in fiscal year 2018 primarily as a result of our redomiciliation to the United States in April 2018 (the “Redomiciliation Transaction”).
+We have structured our operations to maximize the benefit from tax incentives extended to us in various jurisdictions to encourage investment or employment. Our tax incentives from the Singapore Economic Development Board, an agency of the Government of Singapore, provide that any qualifying income earned in Singapore is subject to tax incentives or reduced rates of Singapore income tax. Subject to our compliance with the conditions specified in these incentives and legislative developments, these Singapore tax incentives are presently expected to expire in November 2025, subject in certain cases to potential extensions, which we may or may not be able to obtain. Absent these tax incentives, the corporate income tax rate in Singapore that would otherwise apply to us would be 17%. We also have a tax holiday on our qualifying income in Malaysia, which is scheduled to expire in fiscal year 2028.
+The tax incentives and tax holiday that we have obtained are also subject to our compliance with various operating and other conditions. If we cannot, or elect not to, comply with the operating conditions included in any particular tax incentive, we will lose the related tax benefits and we could be required to refund previously realized material tax benefits. Depending on the incentive at issue, we could also be required to modify our operational structure and tax strategy, which may not be as beneficial to us as the benefits provided under the present tax concession arrangements. Before taking into consideration the effects of the 2017 Tax Reform Act and other indirect tax impact, the effect of these tax incentives and tax holiday was to increase the benefit from income taxes by approximately $923 million and $590 million for fiscal years 2019 and 2018, respectively. For fiscal year 2017, the effect of these tax incentives and tax holiday was to reduce the overall provision for income taxes by approximately $237 million.
+Our interpretations and conclusions regarding the tax incentives are not binding on any taxing authority, and if our assumptions about tax and other laws are incorrect or if these tax incentives are substantially modified or rescinded we could suffer material adverse tax and other financial consequences, which would increase our expenses, reduce our profitability and adversely affect our cash flows. In addition, taxable income in any jurisdiction is dependent upon acceptance of our operational practices and intercompany transfer pricing by local tax authorities as being on an arm’s length basis. Due to inconsistencies in application of the arm’s length standard among taxing authorities, as well as lack of adequate treaty-based protection, transfer pricing challenges by tax authorities could, if successful, substantially increase our income tax expense.
+
+Critical Accounting Estimates
+The preparation of financial statements in accordance with generally accepted accounting principles in the United States (“GAAP”) requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. We base our estimates and assumptions on current facts, historical experience and various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. Our actual financial results may differ materially and adversely from our estimates. Our critical accounting policies are those that affect our historical financial statements materially and involve difficult, subjective or complex judgments by management. Those policies include revenue recognition, business combinations, valuation of long-lived assets, intangible assets and goodwill, inventory valuation, income taxes, retirement and post-retirement benefit plan assumptions, stock-based compensation and employee bonus programs. See Note 2. “Summary of Significant Accounting Policies” included in Part II, Item 8. of this Annual Report on Form 10-K for further information on our critical accounting policies and estimates.
+Revenue recognition.  We account for a contract with a customer when both parties have approved the contract and are committed to perform their respective obligations, each party’s rights can be identified, payment terms can be identified, the contract has commercial substance, and it is probable we will collect substantially all of the consideration we are entitled to. Revenue is recognized when, or as, performance obligations are satisfied by transferring control of a promised product or service to a customer. Our products and services can be broadly categorized as sales of products and subscriptions and services.
+
+41
+
+Table of Contents
+
+We recognize products revenue from sales to direct customers and distributors when control transfers to the customer. An allowance for distributor credits covering price adjustments is made based on our estimate of historical experience rates as well as considering economic conditions and contractual terms. To date, actual distributor claims activity has been materially consistent with the provisions we have made based on our historical estimates. However, because of the inherent nature of estimates, there is always a risk that there could be significant differences between actual amounts and our estimates. Different judgments or estimates could result in variances that might be significant to reported operating results. We also record reductions of revenue for rebates in the same period that the related revenue is recorded. We accrue 100% of potential rebates at the time of sale. We reverse the accrual of unclaimed rebate amounts as specific rebate programs contractually end and when we believe unclaimed rebates are no longer subject to payment and will not be paid. Thus, the reversal of unclaimed rebates may have a positive impact on our net revenue and net income in subsequent periods.
+Our contracts may contain more than one of our products and services, each of which is separately accounted for as a distinct performance obligation. When available, we use directly observable transactions to determine the standalone selling prices for performance obligations. Our estimates of standalone selling price for each performance obligation require judgment that considers multiple factors, including, but not limited to, historical discounting trends for products and services and pricing practices through different sales channels, gross margin objectives, internal costs, competitor pricing strategies, technology lifecycles and market conditions.
+We also estimate the standalone selling price of our material rights. Our estimate of the value of the customer’s option to purchase or receive additional products or services at a discounted price includes estimating the incremental discount the customer would obtain when exercising the option and the likelihood that the option would be exercised.
+Certain contracts contain a right of return that allows the customer to cancel all or a portion of the product or service and receive a credit. We estimate returns based on historical returns data which is constrained to an amount for which a material revenue reversal is not probable. We do not recognize revenue for products or services that are expected to be returned.
+Business combinations. Accounting for business combinations requires management to make significant estimates and assumptions, especially at the acquisition date, for intangible assets, contractual obligations assumed, restructuring liabilities, pre-acquisition contingencies and contingent consideration, where applicable. Although we believe the assumptions and estimates we have made in the past have been reasonable and appropriate, they are based, in part, on historical experience and information obtained from management of the acquired companies and are inherently uncertain. Critical estimates in valuing certain of the intangible assets we have acquired include, but are not limited to, future expected cash flows from product sales, customer contracts and acquired technologies, expected costs to develop IPR&D into commercially viable products, estimated cash flows from the projects when completed, and discount rates. The discount rates used to discount expected future cash flows to present value are typically derived from a weighted-average cost of capital analysis and adjusted to reflect inherent risks. Unanticipated events and circumstances may occur that could affect either the accuracy or validity of such assumptions, estimates or actual results.
+Valuation of goodwill and long-lived assets.  We perform an annual impairment review of our goodwill during the fourth fiscal quarter of each year, and more frequently if we believe indicators of impairment exist. The process of evaluating the potential impairment of goodwill is highly subjective and requires significant judgment. To review for impairment, we first assess qualitative factors to determine whether events or circumstances lead to a determination that it is more-likely-than-not that the fair value of any of our reporting units is less than its carrying amount. Our qualitative assessment of the recoverability of goodwill, whether performed annually or based on specific events or circumstances, considers various macroeconomic, industry-specific and company-specific factors. These factors include: (i) severe adverse industry or economic trends; (ii) significant company-specific actions, including exiting an activity in conjunction with restructuring of operations; (iii) current, historical or projected deterioration of our financial performance; or (iv) a sustained decrease in our market capitalization below our net book value. After assessing the totality of events and circumstances, if we determine that it is not more-likely-than-not that the fair value of any of our reporting units is less than its carrying amount, no further assessment is performed. If we determine that it is more likely than not that the fair value of any of our reporting units is less than its carrying amount, we calculate the fair value of that reporting unit and compare the fair value to the reporting unit’s net book value.
+Determining the fair value of a reporting unit involves the use of significant estimates and assumptions. Our goodwill impairment test uses both the income approach and the market approach to estimate a reporting unit's fair value. The income approach is based on the discounted cash flow method that uses the reporting unit estimates for forecasted future financial performance including revenues, operating expenses, and taxes, as well as working capital and capital asset requirements. These estimates are developed as part of our long-term planning process based on assumed market segment growth rates and our assumed market segment share, estimated costs based on historical data and various internal estimates. Projected cash flows are then discounted to a present value employing a discount rate that properly accounts for the estimated market
+
+42
+
+Table of Contents
+
+weighted-average cost of capital, as well as any risk unique to the subject cash flows. The market approach is based on weighting financial multiples of comparable companies and applies a control premium. A reporting unit's carrying value represents the assignment of various assets and liabilities, excluding certain corporate assets and liabilities, such as cash and debt.
+We assess the impairment of long-lived assets including purchased IPR&D, property, plant and equipment, and intangible assets, whenever events or changes in circumstances indicate that the carrying value of such assets may not be recoverable. Factors we consider important which could trigger an impairment review include (i) significant under-performance relative to historical or projected future operating results, (ii) significant changes in the manner of our use of the acquired assets or the strategy for our overall business, or (iii) significant negative industry or economic trends. The process of evaluating the potential impairment of long-lived assets under the accounting guidance on property, plant and equipment and other intangible assets is also highly subjective and requires significant judgment. In order to estimate the fair value of long-lived assets, we typically make various assumptions about the future prospects of our business or the part of our business that the long-lived asset relates to. We also consider market factors specific to the business and estimate future cash flows to be generated by the business, which requires significant judgment as it is based on assumptions about market demand for our products over a number of future years. Based on these assumptions and estimates, we determine whether we need to take an impairment charge to reduce the value of the long-lived asset stated on our consolidated balance sheet to reflect its estimated fair value. Assumptions and estimates about future values and remaining useful lives are complex and often subjective. They can be affected by a variety of factors, including external factors, such as the real estate market, industry and economic trends, and internal factors, such as changes in our business strategy and our internal forecasts. Although we believe the assumptions and estimates we have made in the past have been reasonable and appropriate, changes in assumptions and estimates could materially impact our reported financial results.
+Inventory valuation.  We regularly review inventory quantities on hand and record a provision for excess and obsolete inventory based primarily on our forecast of product demand and production requirements. Demand for our products can fluctuate significantly from period to period. A significant decrease in demand could result in an increase in the amount of excess inventory quantities on hand. In addition, our industry is characterized by rapid technological change, frequent new product development and rapid product obsolescence that could result in an increase in the amount of obsolete inventory quantities on hand. Additionally, our estimates of future product demand may prove to be inaccurate, which may cause us to understate or overstate both the provision required for excess and obsolete inventory and cost of products sold. Therefore, although we make every effort to ensure the accuracy of our forecasts of future product demand, any significant unanticipated changes in demand or technological developments could have a significant impact on the value of our inventory and our results of operations.
+Income taxes.  Significant management judgment is required in developing our provision for income taxes, including the determination of deferred tax assets and liabilities and any valuation allowances that might be required against the deferred tax assets. We have considered projected future taxable income and ongoing prudent and feasible tax planning strategies in assessing the need for valuation allowances. If we determine that a valuation allowance is required, such adjustment to the deferred tax assets would increase our tax expense in the period in which such determination is made. Conversely, if we determine that a valuation allowance exceeds our requirement, such adjustment to the deferred tax assets would decrease tax expense in the period in which such determination is made. In evaluating the exposure associated with various tax filing positions, we accrue an income tax liability when such positions do not meet the more-likely-than-not threshold for recognition.
+The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax law and regulations in a multitude of jurisdictions. We recognize potential liabilities for anticipated tax audit issues in the U.S. and other tax jurisdictions based on our estimate of whether, and the extent to which, additional taxes, interest and penalties will be due. If our estimate of income tax liabilities proves to be less than the actual amount ultimately assessed, a further charge to tax expense would be required. If the payment of these amounts ultimately proves to be unnecessary, the reversal of the accrued liabilities would result in tax benefits being recognized in the period when we determine the liabilities no longer exist.
+Retirement and post-retirement benefit plan assumptions.  Retirement and post-retirement benefit plan costs represent obligations that will ultimately be settled sometime in the future and therefore, are subject to estimation. Pension accounting is intended to reflect the recognition of future retirement and post-retirement benefit plan costs over the employees' average expected future service to us, based on the terms of the plans and investment and funding decisions. To estimate the impact of these future payments and our decisions concerning funding of these obligations, we are required to make assumptions using actuarial concepts within the framework of GAAP. One assumption is the discount rate used to calculate the estimated costs. Other assumptions include the expected long-term return on plan assets, expected future salary increases, the health care cost trend rate, expected future increases to benefit payments, expected retirement dates, employee turnover, retiree mortality rates, and portfolio composition. We evaluate these assumptions at least annually.
+
+43
+
+Table of Contents
+
+The discount rate is used to determine the present value of future benefit payments at the relevant measurement dates — November 3, 2019 and November 4, 2018, for both U.S. and non-U.S. plans, in fiscal years 2019 and 2018, respectively. The U.S. discount rates are based on the results of matching expected plan benefit payments with cash flows from a hypothetical yield curve constructed with high-quality corporate bond yields. The discount rate for non-U.S. plans was based either on published rates for government bonds or use of a hypothetical yield curve constructed with high-quality corporate bond yields, depending on the availability of sufficient quantities of quality corporate bonds. Lower discount rates increase present values of the pension liabilities and subsequent year pension expense; higher discount rates decrease present values of the pension liabilities and subsequent year pension expense.
+The U. S. expected rate of return on plan assets is set equal to the discount rate due to the implementation of our fully-matched, liability-driven investment strategy.
+Actuarial assumptions are based on our best estimates and judgment. Material changes may occur in retirement benefit costs in the future if these assumptions differ from actual events or experience. We performed a sensitivity analysis on the discount rate, which is the key assumption in calculating U.S. pension and post-retirement benefit obligations as of November 3, 2019. Each change of 25 basis points in the discount rate assumption would have had an estimated $40 million impact on the benefit obligations as of November 3, 2019. Each change of 25 basis points in the discount rate assumption or expected rate of return assumption would not have a material impact on annual net retirement benefit costs for fiscal year 2020.
+Stock-based compensation expense.  Stock-based compensation expense consists of expense for RSUs and stock options granted to employees and non-employees or assumed from acquisitions as well as expense associated with Broadcom employee stock purchase plan (“ESPP”). We recognize compensation expense for time-based stock options and ESPP rights based on the estimated grant-date fair value method required under the authoritative guidance using the Black-Scholes valuation model.
+ Certain equity awards include both time-based and market-based conditions and are accounted for as market-based awards. The fair value of these market-based awards is estimated on the date of grant using a Monte Carlo simulation model.
+Employee Bonus Programs. Our employee bonus programs, which are overseen by our Compensation Committee, or our Board, in the case of our Chief Executive Officer, provide for variable compensation based on the attainment of overall corporate annual targets and functional performance metrics. In the first fiscal quarter of the year, if management determines that it is probable that the targets and metrics will be achieved and the amounts can be reasonably estimated, a variable, proportional compensation accrual is recognized based on an assumed 100% achievement of the targets and metrics. The bonus payout levels can be greater if attainment of metrics and targets is greater than 100% and a portion of the payouts may not occur if a minimum floor of performance is not achieved. In subsequent quarters, we monitor and accrue for variable compensation expense based on our actual progress toward the achievement of the annual targets and metrics. The actual achievement of target metrics at the end of the fiscal year, which is subject to approval by our Compensation Committee, may result in the actual variable compensation amounts being significantly higher or lower than the relevant estimated amounts accrued in earlier quarters, which would result in a corresponding adjustment in the fourth fiscal quarter.
+Fiscal Year Presentation
+We operate on a 52- or 53-week fiscal year ending on the Sunday closest to October 31 in a 52-week year and the first Sunday in November in a 53-week year. Our fiscal years 2019 and 2017 consisted of 52 weeks. Fiscal year 2018 consisted of 53 weeks.
+The financial statements included in Part II, Item 8. of this Annual Report on Form 10-K are presented in accordance with GAAP and expressed in U.S. dollars.
+
+44
+
+Table of Contents
+
+Results of Operations
+Fiscal Year 2019 Compared to Fiscal Year 2018
+The following table sets forth our results of operations for the periods presented:
+
+----------------------------------------------------- ----------------- ------ -------------------------------- ------ ---------------- ------ ---------------- -- --- -- -
+
+ Fiscal Year Ended
+ November 3, 2019 November 4, 2018 November 3, 2019 November 4, 2018
+
+ (In millions) (As a percentage of net revenue)
+Statements of Operations Data:
+Net revenue:
+Products $ 18,117 $ 19,754 80 % 95 %
+Subscriptions and services 4,480 1,094 20 5
+Total net revenue 22,597 20,848 100 100
+Cost of revenue:
+Cost of products sold 6,208 6,924 28 33
+Cost of subscriptions and services 515 97 2 1
+Purchase accounting effect on inventory — 70 — —
+Amortization of acquisition-related intangible assets 3,314 3,004 15 14
+Restructuring charges 77 20 — —
+Total cost of revenue 10,114 10,115 45 48
+Gross margin 12,483 10,733 55 52
+Research and development 4,696 3,768 21 18
+Selling, general and administrative 1,709 1,056 8 5
+Amortization of acquisition-related intangible assets 1,898 541 8 3
+Restructuring, impairment and disposal charges 736 219 3 1
+Litigation settlements — 14 — —
+Total operating expenses 9,039 5,598 40 27
+Operating income $ 3,444 $ 5,135 15 % 25 %
+
+Net Revenue
+Historically, a relatively small number of customers has accounted for a significant portion of our net revenue. Sales of products to distributors accounted for 46% and 34% of our net revenue for fiscal years 2019 and 2018, respectively. Direct sales to WT Microelectronics, a distributor, accounted for 17% of our net revenue for fiscal year 2019. No direct customer represented more than 10% of our net revenue during fiscal year 2018. We believe our aggregate sales to our top five end customers through all channels accounted for more than 30% and more than 40% of our net revenue for fiscal years 2019 and 2018, respectively. We believe aggregate sales to Apple Inc., through all channels, accounted for approximately 20% of our net revenue for fiscal year 2019 and approximately 25% for fiscal year 2018. We expect to continue to experience significant customer concentration in future periods. The loss of, or significant decrease in demand from, any of our top five end customers could have a material adverse effect on our business, results of operations and financial condition. Additionally, if export restrictions on one of our larger customers continue, revenue in future periods may continue to be adversely impacted.
+From time to time, some of our key semiconductor customers place large orders or delay orders, causing our quarterly net revenue to fluctuate significantly. This is particularly true for our wireless products as fluctuations may be magnified by the launches of, and seasonal variations in sales of mobile handsets.
+Although we recognize revenue for the majority of our products when title and control transfer in Penang, Malaysia, we disclose net revenue by country based on the geographic shipment or delivery location specified by distributors, OEMs, contract manufacturers, channel partners, or software customers. In fiscal year 2019, approximately 35% of our net revenue came from shipments or deliveries to China (including Hong Kong), compared to approximately 50% for both fiscal years 2018 and 2017. However, the end customers for either our products or for the end products into which our products are incorporated, are frequently located in countries other than China (including Hong Kong). As a result, we believe that a substantially smaller percentage of our net revenue is ultimately dependent on sales of either our product or our customers’ product incorporating our product, to end customers located in China (including Hong Kong).
+
+45
+
+Table of Contents
+
+The following tables set forth net revenue by segment for the periods presented:
+
+----------------------- ------------------------------------- ------ ---------------- ----- -------- ------ -------- - - ------ -- -- --
+
+ Fiscal Year Ended
+Net Revenue by Segment November 3, 2019 November 4, 2018 $ Change % Change
+
+ (In millions, except for percentages)
+Semiconductor solutions $ 17,368 $ 18,934 $ (1,566 ) (8 )%
+Infrastructure software 5,156 1,780 3,376 190 %
+IP licensing 73 134 (61 ) (46 )%
+Total net revenue $ 22,597 $ 20,848 $ 1,749 8 %
+
+----------------------- -------------------------------- - ---------------- --- -
+
+ Fiscal Year Ended
+Net Revenue by Segment November 3, 2019 November 4, 2018
+
+ (As a percentage of net revenue)
+Semiconductor solutions 77 % 91 %
+Infrastructure software 23 8
+IP licensing — 1
+Total net revenue 100 % 100 %
+
+Our total net revenue increased primarily due to the acquisition of CA in fiscal year 2019. Net revenue from our semiconductor solutions segment decreased due to lower demand for our wireless content in mobile handsets, as well as lower demand for our broadband, optocoupler, set-top box and server storage connectivity. Fiscal year 2018 semiconductor solutions revenue benefited from a later than typical new mobile handset ramp with a major customer in the first quarter, which resulted in higher shipments in that quarter, as well as an extra week in the fiscal year as compared to fiscal year 2019. Net revenue from our infrastructure software segment increased primarily due to contributions from our CA mainframe and enterprise software products.
+Gross Margin
+Gross margin was $12,483 million for fiscal year 2019 compared to $10,733 million for fiscal year 2018. Gross margin as a percentage of net revenue increased to 55% in fiscal year 2019 from 52% for fiscal year 2018. These increases were primarily due to contributions from our CA mainframe and enterprise software products and favorable product mix within our semiconductor solutions segment. These increases were partially offset by higher amortization of acquisition-related intangible assets and restructuring charges as a result of the CA Merger and higher stock-based compensation expense. We expect to incur additional amortization of acquisition-related intangible assets in future periods as a result of our acquisition of the Symantec Business and any further acquisitions we may make.
+Research and Development Expense
+Research and development expense increased $928 million, or 25%, in fiscal year 2019. Research and development expense as a percentage of net revenue was 21% and 18% for fiscal years 2019 and 2018, respectively. The increase was primarily due to the acquisition of CA and higher stock-based compensation expense, offset by lower variable employee compensation expense. Stock-based compensation expense increased primarily due to the issuance of multi-year equity grants of time- and market-based RSUs (the “Multi-Year Equity Awards”) in the first quarter of fiscal year 2019, the impact of the change from annual to quarterly vesting of equity awards and the assumed CA equity awards. Our stock-based compensation expense for fiscal year 2019 included employee equity awards granted at higher grant-date fair values than those granted in prior years, which also contributed to the increase. We expect to incur additional research and development expense in future periods as a result of our acquisition of the Symantec Business and any future acquisitions we may make.
+Selling, General and Administrative Expense
+Selling, general and administrative expense increased $653 million, or 62%, in fiscal year 2019. Selling, general and administrative expense as a percentage of net revenue was 8% and 5% for fiscal years 2019 and 2018, respectively. The increase was primarily due to the acquisition of CA and higher stock-based compensation expense. Stock-based compensation expense increased primarily due to the issuance of the Multi-Year Equity Awards, the impact of the change from annual to quarterly vesting of equity awards and the assumed CA equity awards.
+
+46
+
+Table of Contents
+
+Amortization of Acquisition-Related Intangible Assets
+Amortization of acquisition-related intangible assets recognized in operating expenses increased $1,357 million, or 251%, in fiscal year 2019. The increase was primarily due to the addition of amortization of intangible assets acquired in the CA Merger. We expect to incur additional amortization of acquisition-related intangible assets in future periods as a result of our acquisition of the Symantec Business and any further acquisitions we may make.
+Restructuring, Impairment and Disposal Charges
+Restructuring, impairment and disposal charges included in operating expenses increased $517 million, or 236%, in fiscal year 2019. The increase was primarily due to employee termination costs, as well as lease and other exit costs resulting from the CA Merger. We expect to incur additional restructuring charges in future periods as a result of our acquisition of the Symantec Business and any further acquisitions we may make.
+Segment Operating Results
+
+----------------------- ------------------------------------- ----- ---------------- ------ -------- ----- -------- - - ------ -- --- --
+
+ Fiscal Year Ended
+Operating Income (Loss) November 3, 2019 November 4, 2018 $ Change % Change
+
+ (In millions, except for percentages)
+Semiconductor solutions $ 8,150 $ 9,090 $ (940 ) (10 )%
+Infrastructure software 3,781 1,250 2,531 202 %
+IP licensing (2 ) 70 (72 ) (103 )%
+Unallocated expenses (8,485 ) (5,275 ) (3,210 ) 61 %
+Total operating income $ 3,444 $ 5,135 $ (1,691 ) (33 )%
+
+Operating income from our semiconductor solutions segment decreased primarily due to lower demand for our wireless content in mobile handsets, as well as lower demand for our optocoupler, broadband, server storage connectivity and set-top box products. Fiscal year 2018 semiconductor solutions operating income benefited from a later than typical new mobile handset ramp with a major customer in the first quarter, which resulted in higher shipments in that quarter, as well as an extra week in the fiscal year as compared to fiscal year 2019. Operating income from our infrastructure software segment increased primarily due to contributions from our CA mainframe and enterprise software products.
+Unallocated expenses include amortization of acquisition-related intangible assets; stock-based compensation expense; acquisition-related costs; restructuring, impairment and disposal charges; and other costs that are not used in evaluating the results of, or in allocating resources to, our segments. Unallocated expenses increased 61% in fiscal year 2019 mainly due to higher amortization of acquisition-related intangible assets, stock-based compensation expense, and restructuring, impairment and disposal charges primarily related to the CA Merger. The increase in stock-based compensation expense also due to the issuance of the Multi-Year Equity Awards and the impact of the change from annual to quarterly vesting of certain time-based equity awards.
+Non-Operating Income and Expenses
+Interest expense. Interest expense was $1,444 million and $628 million for fiscal years 2019 and 2018, respectively. Interest expense was higher in fiscal year 2019 primarily due to interest on the debt we incurred to finance the CA Merger in the first quarter of fiscal year 2019. We expect to incur additional interest expense in future periods as a result of term loan indebtedness associated with any future acquisitions, including our acquisition of the Symantec Business.
+Other income, net. Other income, net was $226 million and $144 million in fiscal years 2019 and 2018, respectively. The increase was primarily due to an increase in unrealized gains on investments partially offset by losses on foreign currency remeasurement.
+
+47
+
+Table of Contents
+
+Benefit from income taxes. Benefit from income taxes was $510 million and $8,084 million for fiscal years 2019 and 2018, respectively. The benefit from income taxes in fiscal year 2019 was primarily due to $232 million of excess benefit from stock-based awards that vested or were exercised during the year, $131 million from the recognition of gross unrecognized tax benefits as a result of audit settlements and lapses of statutes of limitations net of increases in balances related to tax positions taken during the current year, $80 million of benefit from deferred tax measurement in state and foreign jurisdictions, $66 million of benefit related to internal reorganizations, and $54 million of benefit from the partial release of our valuation allowance as a result of the CA Merger, partially offset by $113 million of expense from a change in estimate of our fiscal year 2018 benefit as a result of proposed U.S. Treasury regulations issued in fiscal year 2019 related to the 2017 Tax Reform Act. The benefit from income taxes in fiscal year 2018 was primarily due to income tax benefits recognized from the enactment of the 2017 Tax Reform Act and the Redomiciliation Transaction.
+Fiscal Year 2018 Compared to Fiscal Year 2017
+The following tables set forth our results of operations for the periods presented:
+
+----------------------------------------------------- ----------------- ------ -------------------------------- ------ ---------------- ------ ---------------- -- --- -- -
+
+ Fiscal Year Ended
+Statements of Operations Data: November 4, 2018 October 29, 2017 November 4, 2018 October 29, 2017
+
+ (In millions) (As a percentage of net revenue)
+Net revenue:
+Products $ 19,754 $ 17,033 95 % 97 %
+Subscriptions and services 1,094 603 5 3
+Total net revenue 20,848 17,636 100 100
+Cost of revenue:
+Cost of products sold 6,924 6,549 33 37
+Cost of subscriptions and services 97 44 1 1
+Purchase accounting effect on inventory 70 4 — —
+Amortization of acquisition-related intangible assets 3,004 2,511 14 14
+Restructuring charges 20 19 — —
+Total cost of revenue 10,115 9,127 48 52
+Gross margin 10,733 8,509 52 48
+Research and development 3,768 3,302 18 19
+Selling, general and administrative 1,056 789 5 4
+Amortization of acquisition-related intangible assets 541 1,764 3 10
+Restructuring, impairment and disposal charges 219 161 1 1
+Litigation settlements 14 122 — 1
+Total operating expenses 5,598 6,138 27 35
+Operating income $ 5,135 $ 2,371 25 % 13 %
+
+The following table sets forth net revenue by segment for the periods presented:
+Net Revenue
+
+----------------------- ------------------------------------- ------ ---------------- --- -------- ------ -------- - - ----- -- -- -
+
+ Fiscal Year Ended
+Net Revenue by Segment November 4, 2018 October 29, 2017 $ Change % Change
+
+ (In millions, except for percentages)
+Semiconductor solutions $ 18,934 $ 17,491 $ 1,443 8 %
+Infrastructure software 1,780 — 1,780 —
+IP licensing 134 145 (11 ) (8 )%
+Total net revenue $ 20,848 $ 17,636 $ 3,212 18 %
+
+48
+
+Table of Contents
+
+----------------------- -------------------------------- - ---------------- --- -
+
+ Fiscal Year Ended
+Net Revenue by Segment November 4, 2018 October 29, 2017
+
+ (As a percentage of net revenue)
+Semiconductor solutions 91 % 99 %
+Infrastructure software 8 —
+IP licensing 1 1
+Total net revenue 100 % 100 %
+
+Our total net revenue increased primarily due to the acquisition of Brocade in fiscal year 2018, as well as strong organic year-over-year growth.
+Net revenue from our semiconductor solutions segment increased due to an increase in our wireless content in handsets and a later than typical new handset ramp with a major customer, which resulted in product shipments that typically would have occurred in the fourth quarter of fiscal year 2017 occurring in the first quarter of fiscal year 2018. Additionally, net revenue from our semiconductor solutions segment increased due to an increase in demand for our networking application-specific integrated circuit (“ASIC”) products. These increases were partially offset by a decrease in demand for our set top box and optical products. Net revenue from our infrastructure software segment increased due to contributions from our FC SAN business.
+Gross Margin
+Gross margin was $10,733 million for fiscal year 2018 compared to $8,509 million for fiscal year 2017. Gross margin as a percentage of net revenue increased to 52% in fiscal year 2018 from 48% for fiscal year 2017. The fiscal year 2018 increases were primarily due to the addition of Brocade products, as well as a more favorable product mix, partially offset by an increase in amortization of acquisition-related intangible assets.
+Research and Development Expense
+Research and development expense increased $466 million, or 14%, in fiscal year 2018. Research and development expense remained relatively flat as a percentage of net revenue at 18% and 19% for fiscal years 2018 and 2017, respectively. The increase in research and development expense dollars for fiscal year 2018 was primarily due to the acquisition of Brocade, higher stock-based compensation expense, and higher variable employee compensation expense due to fiscal year 2018 operating performance. Stock-based compensation expense was higher in fiscal year 2018 primarily due to annual employee equity awards granted at higher grant-date fair values.
+Selling, General and Administrative Expense
+Selling, general and administrative expense increased $267 million, or 34%, in fiscal year 2018. Selling, general and administrative expense as a percentage of net revenue remained relatively flat at 5% and 4% for fiscal years 2018 and 2017, respectively. The increase in selling, general and administrative expense dollars for fiscal year 2018 was primarily due to the acquisition of Brocade and associated acquisition-related costs, as well as higher stock-based compensation expense. Stock-based compensation expense was higher in fiscal year 2018 primarily due to annual employee equity awards granted at higher grant-date fair values.
+Amortization of Acquisition-Related Intangible Assets
+Amortization of acquisition-related intangible assets recognized in operating expenses decreased $1,223 million, or 69%, in fiscal year 2018. The decrease was primarily due to the full amortization of certain intangible assets acquired as part of our acquisition of Broadcom Corporation, partially offset by the addition of amortization of intangible assets acquired in the Brocade Merger.
+Restructuring, Impairment and Disposal Charges
+Restructuring, impairment and disposal charges included in operating expenses increased $58 million, or 36%, in fiscal year 2018. The increase was primarily due to an increase in restructuring activities resulting from the Brocade Merger, partially offset by a decrease in restructuring activities resulting from our acquisition of Broadcom Corporation.
+Litigation Settlements
+During fiscal years 2018 and 2017, we incurred $14 million and $122 million of litigation charges, respectively, associated with certain legal settlement agreements.
+
+49
+
+Table of Contents
+
+Segment Operating Results
+
+--------------------------- ------------------------------------- ----- ---------------- ------ -------- ----- -------- - ----- -- --- -
+
+ Fiscal Year Ended
+Operating Income by Segment November 4, 2018 October 29, 2017 $ Change % Change
+
+ (In millions, except for percentages)
+Semiconductor solutions $ 9,090 $ 7,900 $ 1,190 15 %
+Infrastructure software 1,250 — 1,250 —
+IP licensing 70 70 — —
+Unallocated expenses (5,275 ) (5,599 ) 324 (6 )%
+Total operating income $ 5,135 $ 2,371 $ 2,764 117 %
+
+Operating income from our semiconductor solutions segment increased due to an increase in our wireless content in handsets, as well as a later than typical new handset ramp with a major customer, which resulted in higher shipments in fiscal year 2018. Additionally, we experienced an increase in demand for our networking ASIC products. These increases were partially offset by a decrease in demand for our set-top box and optical products. Operating income from our infrastructure software segment increased primarily due to contributions from our FC SAN business.
+Unallocated expenses include amortization of acquisition-related intangible assets, stock-based compensation expense, restructuring, impairment and disposal charges, acquisition-related costs, charges for litigation settlements, and other costs that are not used in evaluating the results of, or in allocating resources to, our segments. Unallocated expenses decreased 6% in fiscal year 2018 primarily due to decreases in amortization of acquisition-related intangible assets and charges for litigation settlements, substantially offset by increases in stock-based compensation expense, acquisition-related costs, purchase accounting effect on inventory, and restructuring, impairment and disposal charges.
+Non-Operating Income and Expenses
+Interest expense. Interest expense was $628 million and $454 million for fiscal years 2018 and 2017, respectively. Interest expense was higher in fiscal year 2018 primarily due to the October 2017 issuance of unsecured senior notes, as well as debt commitment fees paid in connection with the Brocade Merger.
+Impairment on investment. We recognized $106 million in fiscal year 2018 for an other than temporary impairment of one of our cost method investments.
+Loss on extinguishment of debt. Loss on extinguishment of debt was $166 million for fiscal year 2017. We issued senior unsecured notes in January 2017 to repay all of the term loans outstanding under our guaranteed, collateralized credit agreement dated February 1, 2016. As a result, we wrote-off $166 million of debt issuance costs.
+Other income, net. Other income, net was $144 million and $74 million in fiscal years 2018 and 2017, respectively. The increase was primarily due to increases in interest income and gains on foreign currency remeasurement.
+Provision for (benefit from) income taxes. Our benefit from income taxes was $8,084 million for fiscal year 2018, compared to a provision for income taxes of $35 million for fiscal year 2017. The benefit from income taxes in fiscal year 2018 was primarily due to the income tax benefits recognized from the enactment of the 2017 Tax Reform Act and the Redomiciliation Transaction. The provision for income taxes in fiscal year 2017 was primarily due to an increase in profit before tax and a discrete expense of $76 million resulting from entity reorganizations, partially offset by the recognition of $273 million of excess tax benefits from stock-based equity awards that vested or were exercised during fiscal year 2017 and, to a lesser extent, the recognition of previously unrecognized tax benefits primarily as a result of audit settlements.
+
+Liquidity and Capital Resources
+The following section discusses our principal liquidity and capital resources as well as our primary liquidity requirements and uses of cash. Our cash and cash equivalents are maintained in highly liquid investments with remaining maturities of 90 days or less at the time of purchase. We believe our cash equivalents are liquid and accessible.
+Our primary sources of liquidity as of November 3, 2019 consisted of: (i) $5,055 million in cash and cash equivalents, (ii) cash we expect to generate from operations, (iii) available capacity under our $5 billion revolving credit facility (the “Revolving
+Facility”), and (iv) available capacity under our $2 billion commercial paper program. In addition, we may also generate cash from the sale of assets and debt or equity financing from time to time.
+
+50
+
+Our short-term and long-term liquidity requirements primarily arise from: (i) business acquisitions and investments we may make from time to time, (ii) working capital requirements, (iii) research and development and capital expenditure needs, (iv) cash dividend payments (if and when declared by the Board of Directors), (v) interest and principal payments related to outstanding indebtedness and (vi) payment of income taxes. Beginning April 2018, we settle withholding tax amounts due upon vesting of compensatory equity awards using cash on hand, and withholding from the grant recipient that number of shares having a value equivalent to the withholding tax amount (“Tax Shares”). This net settlement method reduces the dilutive effects of such awards as they vest. Previously, the Tax Shares were issued and mandatorily sold into the market, and the cash proceeds were used to pay such withholding tax amounts. This change results in an increased use of our cash as our outstanding equity awards vest. Our ability to fund these requirements will depend, in part, on our future cash flows, which are determined by our future operating performance and, therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control.
+Our capital expenditures for fiscal year 2019 were lower than fiscal year 2018, due primarily to the completion of construction at our Irvine and San Jose campuses. We expect capital expenditures to be higher in fiscal year 2020 as compared to fiscal year 2019 due to the Symantec Asset Purchase on November 4, 2019.
+Our debt and liquidity needs increased as a result of completing the Symantec Asset Purchase. We funded $10.7 billion of cash consideration needed for that transaction with debt financing.
+We believe that our cash and cash equivalents on hand, cash flows from operations, and the Revolving Facility will provide sufficient liquidity to operate our business and fund our current and assumed obligations for at least the next 12 months.
+From time to time, we engage in discussions with third parties regarding potential acquisitions of, or investments in, businesses, technologies and product lines. Any such transaction, or evaluation of potential transactions, could require significant use of our cash and cash equivalents, or require us to increase our borrowings to fund such transactions. If we do not have sufficient cash to fund our operations or finance growth opportunities, including acquisitions, or unanticipated capital expenditures, our business and financial condition could suffer. In such circumstances, we may seek to obtain new debt or equity financing. However, we cannot assure you that such additional financing will be available on terms acceptable to us or at all. Our ability to service our senior unsecured notes and outstanding term loans (including those we borrowed to fund our acquisition of the Symantec Business) and any other indebtedness we may incur will depend on our ability to generate cash in the future. We may also elect to sell additional debt or equity securities for reasons other than those specified above.
+Working Capital
+Working capital decreased to $3,018 million at November 3, 2019 from $6,769 million at November 4, 2018. The decrease was attributable to the following:
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Accounts receivable decreased to $3,259 million at November 3, 2019 from $3,325 million at November 4, 2018, primarily due to a higher volume of trade accounts receivable factoring, partially offset by higher revenue.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Inventory decreased to $874 million at November 3, 2019 from $1,124 million at November 4, 2018 primarily due to our continued focus on inventory management.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------
+• Current portion of long-term debt increased $2,787 million primarily due to certain unsecured senior notes becoming due within the next twelve months.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Other current liabilities increased to $2,616 million at November 3, 2019 from $812 million at November 4, 2018 primarily due to the CA Merger and increases in contract liabilities from adoption of Accounting Standard Codification Topic 606 (“Topic 606”), notional pooling liabilities, restructuring reserves, taxes payable and interest payable.
+
+These decreases in working capital were offset in part by the following:
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Cash and cash equivalents increased to $5,055 million at November 3, 2019 from $4,292 million at November 4, 2018 primarily due to $30,034 million in proceeds from borrowings, $9,697 million in net cash provided by operating activities, $3,679 million of Mandatory Convertible Preferred Stock issuance proceeds and $957 million in proceeds from sale of Veracode, partially offset by $16,800 million of debt repayments, $16,027 million paid for the CA Merger, $5,435 million of common stock repurchases, $4,235 million of dividend payments, and $972 million in payments of employee withholding taxes related to net share settled equity awards. See the “Cash Flows” section below for further details.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Other current assets increased to $729 million at November 3, 2019 from $366 million at November 4, 2018 primarily due to assets acquired in the CA Merger and increases in contract assets from adoption of Topic 606 and prepaid taxes.
+
+51
+
+Working capital decreased to $6,769 million at November 4, 2018 from $13,294 million at October 29, 2017. The decrease was attributable to the following:
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Cash and cash equivalents decreased to $4,292 million at November 4, 2018 from $11,204 million at October 29, 2017 largely due to $7,258 million of common stock repurchases, $4,780 million paid for the Brocade Merger and $2,998 million of dividend and distribution payments, partially offset by $8,880 million in net cash provided by operating activities. See the “Cash Flows” section below for further details.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Inventory decreased to $1,124 million at November 4, 2018 from $1,447 million at October 29, 2017, due to the timing of a major customer's new handset ramp and our continued focus on inventory management.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Other current assets decreased to $366 million at November 4, 2018 from $724 million at October 29, 2017, primarily due to lower prepaid expenses, lower prepaid taxes as a result of the 2017 Tax Reform Act, and collection of other receivables.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Other current liabilities increased to $812 million at November 4, 2018 from $681 million at October 29, 2017, primarily due to higher deferred revenue associated with the Brocade Merger.
+
+These decreases in working capital were offset in part by the following:
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Accounts receivable increased to $3,325 million at November 4, 2018 from $2,448 million at October 29, 2017, primarily due to higher volume and revenue linearity.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------
+• Accounts payable decreased to $811 million at November 4, 2018 from $1,105 million at October 29, 2017, primarily due to timing of vendor payments.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Current portion of long-term debt decreased $117 million due to repayment of certain unsecured senior notes assumed in the acquisition of Broadcom Corporation.
+
+Capital Returns
+During fiscal year 2019, we repurchased and retired approximately 21 million shares of our common stock at a weighted average price of $258.52 under an $18 billion stock repurchase program previously authorized by our Board of Directors. During fiscal year 2018, we repurchased and retired approximately 32 million shares of our common stock at a weighted average price of $227.60 under this stock repurchase program. This authorization ended on November 3, 2019.
+
+----------------------------------------------------------------- ------------------------------------ ----- ---------------- ---------------- ----- - -----
+
+ Fiscal Year Ended
+ November 3, 2019 November 4, 2018 October 29, 2017
+
+ (In millions, except per share data)
+Cash dividends and distributions declared and paid per share/unit $ 10.60 $ 7.00 $ 4.08
+Cash dividends and distributions declared and paid $ 4,235 $ 2,998 $ 1,745
+Stock repurchases $ 5,435 $ 7,258 $ —
+
+In addition, during fiscal years 2019 and 2018, we paid approximately $972 million and $56 million, respectively, in employee withholding taxes due upon the vesting of, and related to net settled equity awards. We withheld approximately 4 million and 0.2 million shares of common stock from employees in fiscal years 2019 and 2018, respectively, in connection with such net share settlements.
+Cash Flows
+
+--------------------------------------------------- ----------------- ----- ---------------- ------- ---------------- ------ ----- - - -----
+
+ Fiscal Year Ended
+ November 3, 2019 November 4, 2018 October 29, 2017
+
+ (In millions)
+Net cash provided by operating activities $ 9,697 $ 8,880 $ 6,551
+Net cash used in investing activities (15,422 ) (4,674 ) (674 )
+Net cash provided by (used in) financing activities 6,488 (11,118 ) 2,230
+Net change in cash and cash equivalents $ 763 $ (6,912 ) $ 8,107
+
+52
+
+Operating Activities
+Cash provided by operating activities consisted of net income adjusted for certain non-cash items and changes in assets and liabilities. The $817 million increase in cash provided by operations during fiscal year 2019 compared to fiscal year 2018 was primarily due to the adjustments to net income for non-cash items and increases in working capital, partially offset by the decrease in net income. Non-cash adjustments to net income for fiscal year 2019 as compared to fiscal year 2018 primarily included a decrease in benefits from deferred taxes and other non-cash taxes and increases in amortization of intangible assets, stock-based compensation, and non-cash restructuring, impairment and disposal charges, partially offset by a decrease in impairment of investment.
+The $2,329 million increase in cash provided by operations during fiscal year 2018 compared to fiscal year 2017 was due to the impact of net income, partially offset by adjustments to net income for non-cash items. Net income for fiscal year 2018 reflected an income tax benefit of $8,084 million principally resulting from the enactment of the 2017 Tax Reform Act and the impact from the Redomiciliation Transaction and related internal reorganizations. This benefit was primarily non-cash, resulting in a significant adjustment to net income, and was included in the deferred taxes and other non-cash taxes line in the consolidated statement of cash flows for fiscal year 2018. Other non-cash adjustments to net income for fiscal year 2018 as compared to fiscal year 2017 primarily included decreases in amortization of intangible assets and the non-cash portion of the debt extinguishment loss, partially offset by increases in stock-based compensation and impairment of investment.
+Investing Activities
+Cash used in investing activities primarily consisted of cash used for acquisitions, capital expenditures and investments, partially offset by proceeds from sales of businesses and assets. The $10,748 million increase in cash used in investing activities for fiscal year 2019 compared to fiscal year 2018 was primarily related to $16,027 million paid for the CA Merger in fiscal year 2019, partially offset by proceeds from sales of businesses as well as lower capital expenditures.
+The $4,000 million increase in cash used in investing activities for fiscal year 2018 compared to fiscal year 2017 was primarily related to $4,780 million paid for the Brocade Merger in fiscal year 2018, partially offset by proceeds from sales of businesses as well as lower capital expenditures.
+Financing Activities
+Cash provided by (used in) financing activities primarily consisted of net proceeds and payments related to our long-term debt, dividend and distribution payments, stock repurchases, and the issuances of common stock pursuant to our employee equity incentive plans. The $17,606 million increase in cash related to financing activities for fiscal year 2019 compared to fiscal year 2018 was primarily due to a $14,207 million increase in net proceeds from borrowings, net proceeds of $3,679 million from issuance of preferred stock, and a $1,823 million decrease in common stock repurchases, partially offset by a $1,237 million increase in dividend and distribution payments and a $916 million increase in employee withholding taxes related to net share settled equity awards.
+The $13,348 million increase in cash used in financing activities for fiscal year 2018 compared to fiscal year 2017 was primarily due to $7,258 million of stock repurchases, an increase in dividend and distribution payments and the repayment of debt.
+
+Indebtedness
+See Note 9. “Borrowings” included in Part II, Item 8. of this Annual Report on Form 10-K.
+
+Contractual Commitments
+
+--------------------------------- ------------- ------ ---------------------- --- --------- ----- --------- ----------------- ------ --- ----- - ------
+
+ Payments Due by Period
+ Total Less than 1 year 1-3 years 3-5 years More than 5 years
+
+ (In millions)
+Debt principal, interest and fees $ 39,038 $ 5,628 $ 10,163 $ 8,021 $ 15,226
+Purchase commitments 716 652 64 — —
+Other contractual commitments 197 133 50 14 —
+Operating lease obligations 800 115 179 116 390
+Total $ 40,751 $ 6,528 $ 10,456 $ 8,151 $ 15,616
+
+Debt Principal, Interest and Fees. Represents principal, estimated interest and fees on borrowings. For borrowings subject to a floating interest rate, the estimated interest was based on the rate in effect during the last month of the fiscal year ended November 3, 2019.
+
+53
+
+Table of Contents
+
+Purchase Commitments. Represents unconditional purchase obligations that include agreements to purchase goods or services, primarily inventory, that are enforceable and legally binding on us and that specify all significant terms, including fixed or minimum quantities to be purchased, fixed, minimum or variable price provisions, and the approximate timing of the transaction. Purchase obligations exclude agreements that are cancelable without penalty. Cancellation for outstanding purchase orders for capital expenditures in connection with the internal fabrication facility expansion and construction of our new campuses is generally allowed but requires payment of all costs incurred through the date of cancellation and, therefore, cancelable purchase orders for these capital expenditures are included in the table above.
+Other Contractual Commitments. Represents amounts payable pursuant to agreements related to information technology, human resources, financial infrastructure outsourcing services and other service agreements.
+Operating Lease Obligations. Represents real property and equipment leased from third parties under non-cancelable operating leases.
+Due to the inherent uncertainty with respect to the timing of future cash outflows associated with our unrecognized tax benefits at November 3, 2019, we are unable to reliably estimate the timing of cash settlement with the respective taxing authority. Therefore, $3,269 million of unrecognized tax benefits and accrued interest classified within other long-term liabilities on our consolidated balance sheet as of November 3, 2019 have been excluded from the contractual obligations table above.
+
+Off-Balance Sheet Arrangements
+We had no material off-balance sheet arrangements at November 3, 2019 as defined in Item 303(a)(4)(ii) of Regulation S-K under the Exchange Act.
+
+Indemnifications
+See Note 13. “Commitments and Contingencies” in Part II, Item 8 of this Form 10-K.
+
+Accounting Changes and Recent Accounting Standards
+For a description of accounting changes and recent accounting standards, including the expected dates of adoption and estimated effects, if any, in our consolidated financial statements, see Note 2. “Summary of Significant Accounting Policies” included in Part II, Item 8. of this Annual Report on Form 10-K.
+
+-------- ----------------------------------------------------------
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 9]:
+Note 9. Commitments and Contingencies Commitments Leases We have entered into various non-cancelable operating lease agreements for certain of our offices, data centers, land, and colocations with original lease periods expiring between 2019 and 2093. We are committed to pay a portion of the related actual operating expenses under certain of these lease agreements. Certain of these arrangements have free rent periods or escalating rent payment provisions, and we recognize rent expense under such arrangements on a straight-line basis. The following is a schedule, by years, of the future minimum lease payments required under non-cancelable operating leases as of December 31, 2018 (in millions): ---------------------------- ---------------- ------ Operating Leases 2019 $ 698 2020 946 2021 1,055 2022 1,048 2023 1,054 Thereafter 9,850 Total minimum lease payments $ 14,651 Operating lease expense was $629 million, $363 million, and $269 million for the years ended December 31, 2018, 2017 and 2016, respectively. We fully repaid all our capital lease obligations during 2016. Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $6.17 billion of non-cancelable contractual commitments as of December 31, 2018, primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Contingencies Lega...
+
+[See Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[See Note 9]:
+Note 9. Commitments and Contingencies Commitments Leases We have entered into various non-cancelable operating lease agreements for certain of our offices, data centers, land, and colocations with original lease periods expiring between 2019 and 2093. We are committed to pay a portion of the related actual operating expenses under certain of these lease agreements. Certain of these arrangements have free rent periods or escalating rent payment provisions, and we recognize rent expense under such arrangements on a straight-line basis. The following is a schedule, by years, of the future minimum lease payments required under non-cancelable operating leases as of December 31, 2018 (in millions): ---------------------------- ---------------- ------ Operating Leases 2019 $ 698 2020 946 2021 1,055 2022 1,048 2023 1,054 Thereafter 9,850 Total minimum lease payments $ 14,651 Operating lease expense was $629 million, $363 million, and $269 million for the years ended December 31, 2018, 2017 and 2016, respectively. We fully repaid all our capital lease obligations during 2016. Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $6.17 billion of non-cancelable contractual commitments as of December 31, 2018, primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Contingencies Lega...
+
+[See Note 13]:
+Note 13. Income Taxes Income from continuing operations before income taxes included income from domestic operations of $12.0 billion, $10.7 billion, and $15.8 billion for the years ended December 31, 2016, 2017, and 2018, respectively, and income from foreign operations of $12.1 billion, $16.5 billion, and $19.1 billion for the years ended December 31, 2016, 2017, and 2018, respectively. The provision for income taxes consists of the following (in millions): -------------------------- ----------------------- ----- ---- ------ ---- ------ ----- - - ----- Year Ended December 31, 2016 2017 2018 Current: Federal and state $ 3,826 $ 12,608 $ 2,153 Foreign 966 1,746 1,251 Total 4,792 14,354 3,404 Deferred: Federal and state (70 ) 220 907 Foreign (50 ) (43 ) (134 ) Total (120 ) 177 773 Provision for income taxes $ 4,672 $ 14,531 $ 4,177 The Tax Act enacted on December 22, 2017 introduced significant changes to U.S. income tax law. Effective 2018, the Tax Act reduced the U.S. statutory tax rate from 35% to 21% and created new taxes on certain foreign-sourced earnings and certain related-party payments. 77 ----------------- -------------  Alphabet Inc. Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we made reasonable estimates of the effects and recorded provisional amounts in our consolidated financial statements as of December 31, 2017. As we collected and prepared necessary data, and interpreted the additional guidance issued by the U.S. Treasury Department, the IRS, and other standard-setting bodies, we made adjustments, over the course of the year, to the provisional amounts including refinements to deferred taxes. The accounting for the tax effects of the Tax Act has been completed as of December 31, 2018. One-time transition tax The Tax Act required us to pay U.S. income taxes on accumulated foreign subsidiary earnings not previously subject to U.S. income tax at a rate of 15.5% to the extent of foreign cash ...
+
+[see Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part I, Item 1]:
+ITEM 1. BUSINESS McCormick is a global leader in flavor. The company manufactures, markets and distributes spices, seasoning mixes, condiments and other flavorful products to the entire food industry-retailers, food manufacturers and foodservice businesses. We also are partners in a number of joint ventures that are involved in the manufacture and sale of flavorful products, the most significant of which is McCormick de Mexico. Our major sales, distribution and production facilities are located in North America, Europe and China. Additional facilities are based in Australia, India, Central America, Thailand and South Africa. McCormick & Company, Incorporated was formed in 1915 under Maryland law as the successor to a business established in 1889. In August 2017, we completed the acquisition of Reckitt Benckiser's Food Division ("RB Foods") from Reckitt Benckiser Group plc. The purchase price was approximately $4.21 billion, net of acquired cash of $24.3 million. The acquired market-leading brands of RB Foods include French's®, Frank's RedHot® and Cattlemen's®, which are a natural strategic fit with our robust global branded flavor portfolio. We believe that these additions move us to a leading position in the attractive U.S. Condiments category and provide significant international growth opportunities for our consumer and flavor solutions segments. At the time of the acquisition, annual sales of RB Foods were approximately $570 million. The results of RB Foods' operations have been included in our financial statements as a component of our consumer and flavor solutions segments from the date of acquisition. Business Segments We operate in two business segments, consumer and flavor solutions. Demand for flavor is growing globally, and across both segments we have the customer base and product breadth to participate in all types of eating occasions. Our products deliver flavor when cooking at home, dining out, purchasing a quick service meal or enjoying a snack. We o...
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31

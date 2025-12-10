@@ -1,0 +1,718 @@
+================================================================================
+CIK: 0001413447
+Company Name: NXP Semiconductors N.V
+Filing Date: 2021-02-25
+Form Type: 10-K
+Extraction Date: 2025-09-01 15:07:56
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Management’s discussion and analysis of financial condition and results of operations (MD&A) should be read in conjunction with the financial statements and the related notes that appear elsewhere in this document. This section of this Form 10-K generally discusses 2020 and 2019 items and year-to-year comparisons between 2020 and 2019. Discussions of 2018 items and year-to-year comparisons between 2019 and 2018 that are not included in this Form 10-K can be found in "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2019 as filed with the SEC on February 27, 2020.
+
+Our MD&A is provided in addition to the accompanying consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition and cash flows. MD&A is organized as follows:
+•Overview - Overall analysis of financial and other highlights to provide context for the MD&A
+•Results of Operations - An analysis of our financial results
+•Financial Condition, Liquidity and Capital Resources - An analysis of changes in our balance sheets and cash flows and a discussion of our financial condition and potential sources of liquidity
+•Critical Accounting Estimates - Accounting estimates that management believes are the most important to understanding the assumptions and judgments incorporated in our financial results and forecasts
+•Use of Certain Non-GAAP Financial Measures - A discussion of the non-GAAP measures used
+
+Effective January 1, 2019, NXP removed the reference to HPMS in its organizational structure in acknowledgment of the one reportable segment representing the entity as a whole. Our segment represents groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. See Note 1 to the consolidated financial statements for more information regarding our segment.
+
+Overview
+
+----------------------------------------------------- ------------------ ------------------ ------- ------------------- ----------------- ----------------- ------- ------------------- ------- -------
+($ in millions, unless otherwise stated) Three Months Ended Years Ended
+ December 31, 2020 September 27, 2020 Increase/(decrease) December 31, 2020 December 31, 2019 Increase/(decrease)
+Revenue 2,507 2,267 240 8,612 8,877 (265)
+Gross profit 1,288 1,090 198 4,235 4,618 (383)
+Operating income (loss) 463 32 431 418 641 (223)
+Cash flow from operating activities 1,029 527 502 2,482 2,373 109
+Total debt 7,609 9,356 (1,747) 7,609 7,365 244
+Net debt 5,334 5,790 (456) 5,334 6,320 (986)
+Diluted weighted average number of shares outstanding 285,258 279,467 5,791 283,809 285,911 (2,102)
+Diluted net income per share 1.08 (0.08) 1.16 0.18 0.85 (0.67)
+Dividends per common share 0.375 0.375 — 1.500 1.25 0.25
+
+Revenue for 2020 was $8,612 million, down 3% from 2019 against a very challenging economic environment, caused by the COVID-19 pandemic. By end market, Automotive revenue was $3,825 million, a decrease of 9% versus the year ago period. Within the Communication Infrastructure & Other end market, revenue was $1,703 million, a decline of 9% year-on-year. These annual declines were partly offset by good year-on-year performance in the Industrial & IoT and Mobile end-markets. Revenue in the Industrial & IoT end market was $1,836 million, a 15% increase, while revenue in the Mobile end market was $1,248 million, a 5% increase. The revenue achieved in both the Industrial & IoT and the Mobile end markets represent new all-time highs. When aggregating all end markets, the decrease in revenue was mostly related to lower sales to OEMs. From a regional perspective, revenue declined in EMEA, Americas and Japan, offset partly by Greater China.
+Our gross profit percentage for 2020 decreased to 49.2% from 52.0%, primarily due to the significant deceleration of revenue and the associated reduced manufacturing activity during the second and third quarters, further amplified by the absorption of excess manufacturing fixed costs as a result of abnormal under-loading in our front-end factories due to the COVID-19 pandemic.
+Revenue for the fourth quarter of 2020 was $2,507 million, an increase of 11% sequentially from revenue for the third quarter of 2020, as the improving business environment emerging at the end of the third quarter continued into the fourth quarter. From an end market perspective, the increase sequentially was driven primarily by Automotive with an
+
+38
+
+increase of 24% and by Mobile with an increase of 21%. These increases were slightly offset by a decline of 13% in Communication Infrastructure & Other and a decrease of 0.6% in Industrial & IoT.
+We continue to generate strong operating cash flows, with $2,482 million in cash flows from operations for 2020. We returned $1,047 million to our shareholders during the year in dividends and repurchases of common stock. Our cash position at the end of 2020 was $2,275 million. On November 19, 2020, the NXP Board of Directors approved a cash dividend of $0.375 per common share for the fourth quarter of 2020.
+Our global communities continue to face unprecedented challenges posed by the COVID-19 pandemic, but NXP has continued to respond actively by addressing the COVID-19 situation and its impact globally with global crisis response teams, working to mitigate the potential impacts to our people and our business. With our strong business model and with demonstrated financial discipline, which is a keystone of our culture, we continue to believe that we will emerge from this time well positioned for long-term growth as we continue to see strong customer interest in the breadth of our product portfolio, combined with solid design win awards. However, we cannot reasonably estimate the duration and severity of this global pandemic or its ultimate impact on the global economy and our business and results.
+Demand has come back more rapidly than we expected and our current focus is to look after our customers and ensure we ship as much product to them as possible. While we are encouraged by the rapid rebound in demand, we are still challenged by the impact of the global pandemic. We are still of the view that the best course of action is to continue to focus on enabling our customers success while simultaneously assuring the safety and health of all our employees.
+
+Results of Operations
+The following table presents the composition of operating income for the years ended December 31, 2020 and December 31, 2019.
+
+----------------------------------------------------- ------- ---- -------
+($ in millions, unless otherwise stated) 2020 2019
+Revenue 8,612 8,877
+% nominal growth (3.0) (5.6)
+Gross profit 4,235 4,618
+Research and development (1,725) (1,643)
+Selling, general and administrative (SG&A) (879) (924)
+Amortization of acquisition-related intangible assets (1,327) (1,435)
+Other income (expense) 114 25
+Operating income (loss) 418 641
+
+Revenue
+Revenue for the year-ended December 31, 2020 was $8,612 million compared to $8,877 million for the year-ended December 31, 2019, a decrease of $265 million or 3%. The decrease is attributed to the impact of the COVID-19 pandemic in our primary end-markets, including year-on-year decreases in the Automotive and in the Communication Infrastructure & Other end markets. These declines were partly offset by increases in the Industrial & IoT and Mobile end markets.
+
+Revenue by end-market was as follows:
+
+---------------------------------------- ----- ---- ----- ------------------- ----- ----- -
+($ in millions, unless otherwise stated) 2020 2019 Increase/(decrease) %
+Automotive 3,825 4,212 (387) (9.2) %
+Industrial & IoT 1,836 1,599 237 14.8 %
+Mobile 1,248 1,191 57 4.8 %
+Communication Infrastructure & Other 1,703 1,875 (172) (9.2) %
+Revenue 8,612 8,877 (265) (3.0) %
+
+Revenue by sales channel was as follows:
+
+---------------------------------------- ----- ---- ----- ------------------- ----- ------ -
+($ in millions, unless otherwise stated) 2020 2019 Increase/(decrease) %
+Distributors 4,720 4,409 311 7.1 %
+OEM/EMS 3,728 4,352 (624) (14.3) %
+Other 164 116 48 41.4 %
+Revenue 8,612 8,877 (265) (3.0) %
+
+39
+
+Revenue by geographic region, which is based on the customer’s shipped-to location, was as follows:
+
+----------------------------------------- ----- ---- ----- ------------------- ----- ------ -
+($ in millions, unless otherwise stated) 2020 2019 Increase/(decrease) %
+Greater China (including Asia Pacific) 5,124 4,934 190 3.9 %
+EMEA (Europe, the Middle East and Africa) 1,538 1,760 (222) (12.6) %
+Americas 977 1,076 (99) (9.2) %
+Japan 647 780 (133) (17.1) %
+South Korea 326 327 (1) (0.3) %
+Revenue 8,612 8,877 (265) (3.0) %
+
+- ---------------- - ------------------ - ------------ - -----
+n Automotive n Mobile n Distributors n Other
+n Industrial & IoT n Comm Infra & Other n OEM/EMS
+
+Revenue in the Automotive end market declined $387 million year-on-year. The decline was due to the COVID-19 pandemic, which impacted automotive supply chains and resulted in many auto OEMs outside of China shutting car production sites, primarily in Europe and North America. The year-on-year declines were most notable in our core automotive products which are more susceptible to variances in auto production rates, including our mainstream auto processors, advanced analog, and sensor products.
+Revenue derived from the Industrial & IoT market increased $237 million year-on-year, driven by the contribution of revenue associated with the recently acquired Marvell wireless connectivity assets for connected IoT solutions. Additionally, revenue increased from higher demand for smart power, high performance analog, and general-purpose microcontrollers, primarily in the distribution channel in Greater China.
+Within the Mobile end-market, revenue increased $57 million year-on-year. The increase was predominantly associated with continued customer adoption of secure mobile wallet solutions primarily to distributors in Greater China, as well as increased demand for embedded power solutions, which increased sales to distributors mainly in Greater China and OEM sales in Asia Pacific. These increases were offset by the divestment of Voice and Audio Solutions, which closed early in the first quarter of 2020.
+Revenue in the Communication Infrastructure & Other end market declined $172 million year-on-year. The decline was related to reduced demand in Greater China and Asia Pacific for High-Performance Radio Frequency (HPRF) power amplifiers used in 4G cellular base stations, offset by increased demand for network communication processors from distributors and OEM customers. In addition, the overall decline was also offset by revenue related to the acquisition of the Marvell wireless connectivity assets used in access solutions.
+
+Gross Profit
+Gross profit for the year-ended December 31, 2020 was $4,235 million, or 49.2% of revenue, compared to $4,618 million, or 52.0% of revenue, for the year-ended December 31, 2019. The decrease of $383 million was primarily driven by lower revenue and the reduced internal manufacturing activity during the second and third quarters, further by with the absorption of excess manufacturing fixed costs as a result of abnormal under-loading in our front-
+
+40
+
+end factories due to the COVID-19 crisis as well as the purchase accounting effect on inventory ($17 million) resulting from the Marvell acquisition. As a result, the gross margin percentage decreased to 49.2% from 52.0%.
+
+Operating Expenses
+Operating expenses for the year-ended December 31, 2020 totaled $3,931 million, or 45.6% of revenue, compared to $4,002 million, or 45.1% of revenue, for the year-ended December 31, 2019.
+
+The following table below presents the composition of operating expenses by line item in the statement of operations.
+
+----------------------------------------------------- ----- ----------- ---- ---- ----------- -------- ---- - ----- -
+($ in millions, unless otherwise stated) 2020 % ofrevenue 2019 % ofrevenue % change
+Research and development 1,725 20.0 % 1,643 18.5 % 5.0 %
+Selling, general and administrative 879 10.2 % 924 10.4 % (4.9) %
+Amortization of acquisition-related intangible assets 1,327 15.4 % 1,435 16.2 % (7.5) %
+Operating expenses 3,931 45.6 % 4,002 45.1 % (1.8) %
+
+- --- - ---- - --------------------------------
+n R&D n SG&A n Amortization acquisition-related
+
+The decrease in operating expenses was a result of the following items:
+
+Research and development (R&D) costs primarily consist of engineer salaries and wages (including share based compensation and other variable compensation), engineering related costs (including outside services, fixed-asset, IP and other licenses related costs), shared service center costs and other pre-production related expenses.
+
+•R&D costs for the year-ended December 31, 2020 increased by $82 million, or 5.0%, when compared to last year driven by:
++ higher cost related to Marvell activities, which were acquired in the last month of 2019;
+
+41
+
++ higher restructuring costs;
++ higher share-based compensation expenses;
++ higher pre-production related expenses;
+- lower travel expenses;
+- lower personnel-related costs, including variable compensation costs; and
+- lower cost related to Voice and Audio Solutions (VAS), which was divested on February 3, 2020.
+
+Selling, general and administrative (SG&A) costs primarily consist of personnel salaries and wages (including share based compensation and other variable compensation), communication and IT related costs, fixed-asset related costs and sales and marketing costs (including travel expenses).
+
+•SG&A costs for the year-ended December 31, 2020 decreased by $45 million, or 4.9%, when compared to last year mainly due to:
+- lower sales and marketing costs;
+- lower travel expenses;
+- lower personnel-related costs, including variable compensation costs;
+- lower professional services;
++ higher restructuring costs; and
++ higher share-based compensation expenses as a result of the CEO transition.
+
+•Amortization of acquisition-related intangible assets decreased by $108 million, or 7.5%, when compared to last year driven by:
+- certain intangibles became fully amortized during 2020;
++ an impairment charge relative to IPR&D acquired as part of the acquisition of Freescale; and
++ the start of amortization of intangible assets related to the Marvell acquisition.
+
+Other Income (Expense)
+Income and expenses derived from manufacturing service arrangements (“MSA”) and transitional service arrangements (“TSA”) that are put into place when we divest a business or activity, are included in other income (expense). These arrangements are short-term in nature and are expected to decrease as the divested business or activity becomes more established.
+
+The following table presents the split of other income (expense) for the years ended December 31, 2020 and 2019:
+
+------------------------------------ ---- ---- --
+($ in millions) 2020 2019
+Result from MSA and TSA arrangements — —
+Other, net 114 25
+Total 114 25
+
+Other income (expense) reflects income of $114 million for 2020, compared to $25 million of income in 2019. Included in 2020 is $110 million relating to the net gain on the sale of the Voice and Audio Solutions (VAS) assets, whereas the 2019 amount included $20 million relating to the sale of assets.
+
+42
+
+Financial Income (Expense)
+
+------------------------------------------------------- -------------------------------- ---- -----
+($ in millions) For the years ended December 31,
+ 2020 2019
+Interest income 13 57
+Interest expense (362) (370)
+Total interest expense, net (349) (313)
+Foreign exchange rate results (16) (15)
+Extinguishment of debt (60) (11)
+Miscellaneous financing income (expense) and other, net 8 (11)
+Total other financial income (expense) (68) (37)
+Total (417) (350)
+
+Financial income (expense) was an expense of $417 million in 2020, compared to an expense of $350 million in 2019. The change in financial income (expense) is primarily attributable to a decrease in interest income of $44 million, as a result of a lower average cash level and lower interest rates and higher debt extinguishment costs in 2020 versus 2019 of $49 million. This was partially offset by results on investments of $24 million.
+
+Benefit (Provision) for Income Taxes
+We recorded an income tax benefit of $83 million for the year-ended December 31, 2020, which reflects an effective tax rate of (8300.0)% compared to an expense of $20 million (6.9%) for the year-ended December 31, 2019.
+
+-------------------------------------------------------------------------------- ----- ---- ---------- - ----- ------
+ 2020 2019
+ $ % $ %
+Statutory income tax in the Netherlands — 25.0 73 25.0
+
+Rate differential local statutory rates versus statutory rate of the Netherlands 22 2,175.0 16 5.5
+Net change in valuation allowance 35 3,500.0 59 20.2
+Non-deductible expenses/losses 61 6,100.0 52 17.8
+Netherlands tax incentives (48) (4,800.0) (68) (23.2)
+Foreign tax incentives (117) (11,700.0) (118) (40.5)
+Changes in estimates of prior years’ income taxes (13) (1,300.0) (3) (1.2)
+Sale of non-deductible goodwill 10 1,000.0 — —
+Withholding taxes (31) (3,100.0) 5 1.8
+Other differences (2) (200.0) 4 1.5
+Effective tax rate (83) (8,300.0) 20 6.9
+
+The effective tax rate reflects the impact of tax incentives, a portion of our earnings being taxed in foreign jurisdictions at rates different than the Netherlands statutory tax rate, changes in estimates of prior years' income taxes, change in valuation allowance and non-deductible expenses, sale of non-deductible goodwill and withholding taxes. The impact of these items results in offsetting factors that attribute to the change in the effective tax rate between the two periods, with the significant drivers outlined below:
+
+•The Company benefits from certain tax incentives, which reduce the effective tax rate. The dollar amount of the incentive in any given year is commensurate with the taxable income in that same period. For 2020, the Netherlands tax incentives was lower than 2019 by $20 million, mainly due to the fact that NXP has a lower qualifying income.
+•The difference in valuation allowance in 2020 as compared with 2019 is mainly due to the fact that there was less Netherlands related interest expense impacted by the interest limitation rules as a result of higher qualifying income mainly linked to the divestiture of the VAS business and the lower Netherlands tax incentives.
+
+43
+
+•The tax effect of the non-deductible goodwill of $10 million is linked to the divestiture of the VAS business in 2020.
+•The difference of $36 million in the withholding tax benefit in 2020 as compared with 2019 is mainly due to changes in the applicable deferred tax liability rate regarding future remittances of the earnings of foreign subsidiaries and due to additional undistributed earnings being considered permanently reinvested.
+•The change in estimates of prior years’ income taxes was higher in 2020 as compared to 2019, mostly relating to NXP USA ($20 million) primarily due to the early adoption of the U.S. regulations issued in Q3 2020. This was partly offset by other changes in estimates relating to multiple jurisdictions.
+
+On a go-forward basis, cash payments for corporate income taxes that are relative to our on-going operations are expected at a quarterly average of $76 million during 2021. Our future cash payments for income taxes will also be impacted by non-recurring events, resulting in additional payments of $78 million in total, which will be paid in 2021.
+
+Results Relating to Equity-accounted Investees
+Results relating to equity-accounted investees amounted to a loss of $4 million in 2020, whereas in 2019, results relating to equity-accounted investees amounted to a gain of $1 million.
+
+Non-controlling Interests
+Non-controlling interests are related to the third-party share in the results of consolidated companies, predominantly SSMC. Their share of non-controlling interests amounted to a profit of $28 million for the year-ended December 31, 2020, compared to a profit of $29 million for the year-ended December 31, 2019.
+
+Financial Condition, Liquidity and Capital Resources
+Thanks to our financial strength, we expect to be able to maintain adequate liquidity as we manage through the current environment impacted by the COVID-19 pandemic. Over the years, NXP has created a business that generates significant cash, thanks to its large and diverse revenue stream. We therefore believe we have sufficient liquidity to satisfy our cash needs. However, we will continue to monitor, evaluate and take action, as necessary, to preserve adequate liquidity and ensure that our business can continue to operate during these uncertain times. We continue to successfully constrain discretionary spending across the organization, re-prioritizing our capital projects, while simultaneously maintaining critical investments in areas that we believe will assure NXP’s long-term success.
+
+We derive our liquidity and capital resources primarily from our cash flows from operations. We continue to generate strong positive operating cash flows. As of December 31, 2020, our cash balance was $2,275 million, an increase of $1,230 million compared to December 31, 2019 ($1,045 million). Taking into account the available undrawn amount of the Unsecured Revolving Credit Facility (the “RCF Agreement”) of $1,500 million, we had access to $3,775 million of liquidity as of December 31, 2020.
+
+We currently use cash to fund operations, meet working capital requirements, for capital expenditures and for potential common stock repurchases, dividends and strategic investments. Based on past performance and current expectations, we believe that our current available sources of funds (including cash and cash equivalents, RCF Agreement, plus anticipated cash generated from operations) will be adequate to finance our operations, working capital requirements, capital expenditures and potential dividends for at least the next year. Our capital expenditures were $392 million in 2020, compared to $526 million in 2019.
+
+The common stock repurchase activity was as follows:
+
+---------------------------------------- --------- ------ ----------
+($ in millions, unless otherwise stated) 2020 2019
+Shares repurchased 4,828,913 15,865,718
+Cost of shares repurchased 627 1,443
+Average price per share $129.70 $90.94
+
+44
+
+Under Dutch corporate law and our articles of association, NXP may acquire its own shares if the general meeting of shareholders has granted the board of directors the authority to effect such acquisitions. It is our standard practice to request our annual general meeting of shareholders (the “AGM”) every year to renew this authorization for a period of 18 months from the AGM. For repurchases of shares in 2019 and 2020, the board of directors made use of the authorizations renewed by the AGM on June 22, 2018, June 17, 2019 and May 27, 2020, respectively. In October 2018, the board of directors of NXP approved the repurchase of shares so long as the total number of shares held by NXP in treasury does not exceed 20% (approximately 69 million shares) of the number of shares issued, and in November 2019, the board of directors approved the additional repurchase of shares up to a maximum of $2 billion. During the fiscal year-ended December 31, 2019 NXP repurchased 15.9 million shares, for a total of approximately $1.4 billion, and during the fiscal year-ended December 31, 2020 NXP repurchased 4.8 million shares, for a total of approximately $0.6 billion. Under Dutch tax law, the repurchase of a company’s shares by an entity domiciled in the Netherlands results in a taxable event (unless exemptions apply). The tax on the repurchased shares is attributed to the shareholders, with NXP making the payment on the shareholders’ behalf. As such, the tax on the repurchased shares is accounted for within stockholders’ equity.
+
+Subject to Dutch corporate law and our articles of association, the board of directors of NXP may cancel shares acquired if authorized by the general meeting of shareholders. As with repurchases of our shares, it is our standard practice to request our annual general meeting of shareholders (the “AGM”) every year to renew this authorization for a period of 18 months from the AGM. For cancellations of shares in 2019 and 2020, the board of directors made use of the authorizations renewed on June 17, 2019 and May 27, 2020, respectively.
+
+As approved by the board of directors, on November 27, 2019, NXP cancelled some 13.2 million shares and on December 15, 2020, NXP cancelled 26 million shares. As a result, the number of issued NXP shares as per December 15, 2020 is 289,519,638.
+
+Under our Quarterly Dividend Program, interim dividends of $0.25 per ordinary share were paid on March 15 and June 13, 2019, and dividends of $0.375 per ordinary share were paid on October 4, 2019; January 6, April 6, July 6, October 5, 2020; and January 5, 2021.
+
+---------------------------------------- ---- ---- ----
+($ in millions, unless otherwise stated) 2020 2019
+Dividend per share 1.50 1.25
+Amount 420 351
+
+Our total debt amounted to $7,609 million as of December 31, 2020, an increase of $244 million compared to December 31, 2019 ($7,365 million). On May 1, 2020, NXP issued $500 million of 2.7% Senior Unsecured Notes due 2025, $500 million of 3.15% Senior Unsecured Notes due 2027 and $1 billion of 3.4% Senior Unsecured Notes due 2030. On September 28, 2020, $1,350 million of 4.125% Senior Notes due 2021 and $400 million of 4.625% Senior Notes due 2022 were redeemed in full.
+
+At December 31, 2020, our cash balance was $2,275 million, of which $185 million was held by SSMC, our consolidated joint venture company with TSMC. Under the terms of our joint venture agreement with TSMC, a portion of this cash can be distributed by way of a dividend to us, but 38.8% of the dividend will be paid to our joint venture partner. During 2020, $90 million dividend (2019, no dividend) was declared.
+
+From time to time, we engage in discussions with third parties regarding potential acquisitions of, or investments in, businesses, technologies and product lines. Any such transaction could require significant use of our cash and cash equivalents, or require us to arrange for new debt and equity financing to fund the transaction. Our ability to make scheduled payments or to refinance our debt obligations depends on our financial and operating performance, which is subject to prevailing economic and competitive conditions. In the future, we may not be able to maintain a level of cash flows from operating activities sufficient to permit us to pay principal, premium, if any, and interest on our indebtedness. Our business may not generate sufficient cash flow from operations, or we may not have enough capacity under the RCF Agreement, or from other sources in an amount sufficient to enable us to repay our indebtedness, including the RCF Agreement, the unsecured notes or
+
+45
+
+to fund our other liquidity needs, including working capital and capital expenditure requirements. In any such case, we may be forced to reduce or delay capital expenditures, sell assets or operations, seek additional capital or restructure or refinance our indebtedness. See Part I, Item 1A. Risk Factors.
+
+Cash flows
+
+Our cash and cash equivalents in 2020 increased by $1,229 million (excluding the effect of changes in exchange rates on our cash position of $1 million) as follows:
+
+---------------------------------------------------- ----------------------- ---- -------
+($ in millions) Year ended December 31,
+ 2020 2019
+Net cash provided by (used for) operating activities 2,482 2,373
+Net cash (used for) provided by investing activities (418) (2,284)
+Net cash provided by (used for) financing activities (835) (1,831)
+Increase (decrease) in cash and cash equivalents 1,229 (1,742)
+
+•Cash Flow from Operating Activities
+For the year-ended December 31, 2020 our operating activities provided $2,482 million in cash. This was primarily the result of net income of $80 million, adjustments to reconcile the net income of $1,959 million and changes in operating assets and liabilities of $438 million. Adjustments to net income includes offsetting non-cash items, such as depreciation and amortization of $1,988 million, share-based compensation of $384 million, amortization of the discount on debt and debt issuance costs of $8 million, a gain on sale of assets of $(115) million, a loss on extinguishment of debt of $60 million, a gain on equity securities of $(21) million, results relating to equity-accounted investees of $4 million and changes in deferred taxes of $(349) million.
+
+The change in operating assets and liabilities (working capital accounts) was attributable to the following:
+
+ The $51 million increase in receivables and other current assets was primarily due to the increase in trade accounts receivable, net, which was driven by the increasing linearity in revenue and the related timing of cash collections in the fourth quarter of 2020 compared with the same period in 2019.
+
+ The $163 million decrease in inventories was primarily related to existing inventory on hand supplying the increase in revenues at the end of the third quarter 2020 continuing into the fourth quarter 2020, while production levels have been increased to align future inventory on hand with the current demand forecasts.
+
+ The $319 million increase in accounts payable and other liabilities was primarily related to increases in trade accounts payable of $47 million, other liabilities of $119 million related to income and social taxes payable, $50 million related to accruals for employee compensation, $41 million related to restructuring, and $5 million in interest payable. An additional increase of $57 million of other movements including the non-cash adjustment for capital expenditures and purchase licenses.
+
+For the year-ended December 31, 2019 our operating activities provided $2,373 million in cash. This was primarily the result of net income of $272 million, adjustments to reconcile the net income of $2,261 million and changes in operating assets and liabilities of $(173) million. Net income includes offsetting non-cash items, such as depreciation and amortization of $2,047 million, share-based compensation of $346 million, amortization of the discount on debt and debt issuance costs of $53 million, a gain on sale of assets of $(20) million, a loss on extinguishment of debt of $11 million, results relating to equity-accounted investees of $(1) million and changes in deferred taxes of $(175) million.
+
+46
+
+•Cash Flow from Investing Activities
+Net cash used for investing activities amounted to $418 million for the year-ended December 31, 2020 and principally consisted of the cash outflows for capital expenditures of $392 million, $130 million for the purchase of identified intangible assets, $34 million purchases of interests in businesses (net of cash acquired),and $30 million purchase of investments, partly offset by proceeds of $161 million from the sale of our Voice and Audio Solution assets (net of cash).
+
+Net cash used for investing activities amounted to $2,284 million for the year-ended December 31, 2019 and principally consisted of the cash outflows for purchases of interests in businesses (net of cash) of $1,698 million, relating to the acquisition of the Wifi assets of Marvell, capital expenditures of $526 million and $102 million for the purchase of identified intangible assets, partly offset by proceeds of $37 million from the sale of businesses (net of cash) and $23 million from the disposal of property, plant and equipment.
+
+•Cash Flow from Financing Activities
+Net cash used for financing activities was $835 million for the year-ended December 31, 2020 compared to $1,831 million for the year-ended December 31, 2019. The cash flows related to financing transactions in 2020 and 2019 are primarily related to the financing activities described below under the captions 2020 Financing Activities and 2019 Financing Activities.
+
+In addition to the financing activities described below, net cash used for financing activities by year included:
+
+----------------------------------------------------------------- ----------------------- ---- -------
+($ in millions) Year ended December 31,
+ 2020 2019
+Dividends paid to non-controlling interests (35) —
+Dividends paid to common stockholders (420) (319)
+Cash proceeds from exercise of stock options 72 84
+Purchase of treasury shares (627) (1,443)
+Cash paid on behalf of shareholders for tax on repurchased shares — (128)
+Other, net (1) —
+
+2020 Financing Activities
+
+2025, 2027 and 2030 Senior Unsecured Notes
+On May 1, 2020, NXP B.V., together with NXP USA Inc. and NXP Funding LLC, issued $500 million of 2.7% Senior Unsecured Notes due 2025, $500 million of 3.15% Senior Unsecured Notes due 2027 and $1 billion of 3.4% Senior Unsecured Notes due 2030. NXP used the net proceeds of the offering of these notes to repay in full on September 28, 2020, the $1,350 million aggregate principal amount of outstanding 4.125% Senior Notes due 2021 and the $400 million aggregate principal amount of outstanding 4.625% Senior Notes due 2022.
+
+2019 Financing Activities
+
+2024 Revolving Credit Facility
+On June 11, 2019, NXP B.V. together with NXP Funding LLC, entered into a $1.5 billion unsecured revolving credit facility agreement maturing June 11, 2024, replacing the $600 million secured revolving credit facility, entered into on December 7, 2015.
+
+2020 Senior Notes
+On June 11, 2019, NXP B.V. together with NXP Funding LLC, commenced a cash tender offer for any and all of their $600 million outstanding aggregate principal amount of the 4.125% Senior Notes due 2020 (“4.125% 2020 Notes”). An amount of $553 million aggregate principal amount of the 4.125% 2020 Notes were
+
+47
+
+tendered in this offer and retired on June 18, 2019. The remaining $47 million were redeemed under the terms of the indenture governing these notes on July 3, 2019.
+
+2026 and 2029 Senior Unsecured Notes
+On June 18, 2019, NXP B.V., together with NXP USA Inc. and NXP Funding LLC, issued $750 million of 3.875% Senior Unsecured Notes due 2026 and $1 billion of 4.3% Senior Unsecured Notes due 2029. NXP used a portion of the net proceeds of the offering of these notes to repay in full, the 2020 Senior Notes, as described above. The remaining proceeds were used to refinance the $1,150 million aggregate principal amount of Cash Convertible Notes due 2019 issued by NXP Semiconductors N.V. on December 1, 2014 upon the maturity of these notes on December 1, 2019.
+
+2019 Cash Convertible Senior Notes
+On December 2, 2019, NXP repaid the Cash Convertible Notes upon their maturity through a combination of available cash and payments made by the counterparties under privately negotiated convertible note hedge transactions (the “Cash Convertible Notes Hedges”), as further described in Note 14 of the notes to consolidated financial statements in this report.
+
+48
+
+Debt Position
+
+Short-term Debt
+As of December 31, 2020 and 2019, there was no short-term debt outstanding.
+
+Long-term Debt
+As of December 31, 2020 and 2019, we had outstanding debt of:
+
+---------------------------------------------------------------------------- ----------------- ----------------------------------------------------------------- - -------------------------------------- ----------------- -----
+($ in millions) December 31, 2019 Accrual/releaseOriginalIssuance/DebtDiscount andDebtIssuance Cost DebtExchanges/Repurchase/NewBorrowings December 31, 2020
+U.S. dollar-denominated 4.125% senior unsecured notes due June 2021 (1) 1,350 — (1,350) —
+U.S. dollar-denominated 4.625% senior unsecured notes due June 2022 (2) 398 2 (400) —
+U.S. dollar-denominated 3.875% senior unsecured notes due September 2022 (3) 997 1 — 998
+U.S. dollar-denominated 4.625% senior unsecured notes due June 2023 (4) 896 1 — 897
+U.S. dollar-denominated 4.875% senior unsecured notes due March 2024 (5) 994 2 — 996
+U.S. dollar-denominated 2.7% senior unsecured notes due May 2025 (6) — — 497 497
+U.S. dollar-denominated 5.35% senior unsecured notes due March 2026 (5) 497 1 — 498
+U.S. dollar-denominated 3.875% senior unsecured notes due June 2026 (7) 746 — — 746
+U.S. dollar-denominated 3.15% senior unsecured notes due May 2027 (6) — 1 496 497
+U.S. dollar-denominated 5.55% senior unsecured notes due December 2028 (5) 496 — — 496
+U.S. dollar-denominated 4.3% senior unsecured notes due June 2029 (7) 991 1 — 992
+U.S. dollar-denominated 3.4% senior unsecured notes due May 2030 (6) — — 992 992
+ 7,365 9 235 7,609
+RCF Agreement (8) — — — —
+Total long-term debt 7,365 9 235 7,609
+
+(1)    On May 23, 2016, and August 1, 2016, we issued $850 million and $500 million, respectively, aggregate principal amount of 4.125% Senior Unsecured Notes due 2021. On September 28, 2020, the Notes were redeemed in full.
+(2)    On June 9, 2015, we issued $400 million aggregate principal amount of 4.625% Senior Unsecured Notes due 2022. On September 28, 2020, the Notes were redeemed in full.
+(3)    On August 11, 2016, we issued $1,000 million aggregate principal amount of 3.875% Senior Unsecured Notes due 2022.
+(4)    On May 23, 2016, we issued $900 million aggregate principal amount of 4.625% Senior Unsecured Notes due 2023.
+(5)    On December 6, 2018, we issued $1,000 million aggregate principal amount of 4.875% Senior Unsecured Notes due 2024, $500 million aggregate principal amount of 5.35% Senior Unsecured Notes due 2026 and $500 million aggregate principal amount of 5.55% Senior Unsecured Notes due 2028.
+
+49
+
+(6)    On May 1, 2020, we issued $500 million aggregate principal amount of 2.7% Senior Unsecured Notes due 2025, $500 million aggregate principal amount of 3.15% Senior Unsecured Notes due 2027 and $1 billion aggregate principal amount of 3.4% Senior Unsecured Notes due 2030.
+(7)    On June 18, 2019, we issued $750 million of 3.875% Senior Unsecured Notes due 2026 and $1 billion of 4.3% Senior Unsecured Notes due 2029.
+(8)    On June 11, 2019, we entered into a $1.5 billion unsecured revolving credit facility agreement, replacing the $600 million secured revolving credit facility, entered into on December 7, 2015.
+
+We may from time to time continue to seek to retire or purchase our outstanding debt through cash purchases and/or exchanges, in open market purchases, privately negotiated transactions or otherwise. See the discussion in Part II, Item 7. Financial Condition, Liquidity and Capital Resources above.
+
+2019 Cash Convertible Senior Notes
+We repaid the Cash Convertible Notes upon their maturity on December 1, 2019 through a combination of available cash and payments made by the counterparties under privately negotiated convertible note hedge transactions (the “Cash Convertible Notes Hedges”), as further described in Note 14 of the notes to consolidated financial statements in this report.
+
+For a detailed description of the Warrants underlying the Cash Convertible Notes Hedge, refer to Note 14 of the notes to the consolidated financial statements included in this report.
+
+Off-Balance Sheet Arrangements
+As of December 31, 2020, we had no material off-balance sheet arrangements.
+
+Contractual Obligations
+Presented below is a summary of our contractual obligations as of December 31, 2020.
+
+------------------------------------------- ------ ---- --- ---- ----- ---- ----- ---- ------------------- --- -----
+($ in millions) Total 2021 2022 2023 2024 2025 2026 and thereafter
+Principal payments on debt 7,650 — 1,000 900 1,000 500 4,250
+Interest payments on debt 1,674 319 306 256 198 181 414
+Finance lease obligations 31 3 3 3 3 3 16
+Operating lease obligations 256 64 50 44 28 23 47
+Long-term purchase obligations 372 203 99 14 13 12 31
+Technology license obligations 132 78 35 7 12 — —
+Total contractual cash obligations (1), (2) 10,115 667 1,493 1,224 1,254 719 4,758
+
+(1)    As of December 31, 2020, we had reserves of $175 million recorded for uncertain tax positions, including interest and penalties. We are not including this amount in the long-term contractual obligations table presented because of the difficulty in making reasonably reliable estimates of the timing of cash settlements, if any, with the respective taxing authorities.
+(2)    Certain of these obligations are denominated in currencies other than U.S. dollars, and have been translated from foreign currencies into U.S. dollars based on a period ending rate of $1.2280 per €1.00, in effect at December 31, 2020. As a result, the actual payments will vary based on any change in exchange rate.
+
+In addition to the above obligations, we enter into a variety of agreements in the normal course of business, containing provisions that certain penalties may be charged if we do not fulfill our commitments. It is not possible to predict with certainty the maximum potential amount of future payments under these or similar provisions due to the conditional nature of our obligations and the unique facts and circumstances involved in each particular case. Historically, payments pursuant to such provisions have not been material and we believe that any future payments required pursuant to such provisions would not have a material adverse effect on our consolidated financial condition. However, such payments may be material to our Consolidated Statement of Operations for a specific period.
+
+50
+
+We sponsor pension plans in many countries in accordance with legal requirements, customs and the local situation in the countries involved. These are defined-benefit pension plans, defined contribution pension plans and multi-employer plans. Contributions to funded pension plans are made as necessary, to provide sufficient assets to meet future benefits payable to plan participants. These contributions are determined by various factors, including funded status, legal and tax considerations and local customs. The expected cash outflows in 2021 and subsequent years are uncertain and may change as a consequence of statutory funding requirements as well as changes in actual versus currently assumed discount rates, estimations of compensation increases and returns on pension plan assets.
+
+Critical Accounting Estimates
+The preparation of financial statements and related disclosures in accordance with U.S. GAAP requires our management to make judgments, assumptions and estimates that affect the amounts reported in our Consolidated Financial Statements and the accompanying notes. Our management bases its estimates and judgments on historical experience, current economic and industry conditions and on various other factors that are believed to be reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions.
+
+The methods, estimates, and judgments that we use in applying our accounting policies have a significant impact on the results that we report in our Consolidated Financial Statements. Some of our accounting policies require us to make difficult and subjective judgments, often as a result of the need to make estimates regarding matters that are inherently uncertain. Our most critical accounting estimates include:
+•the valuation of inventory, which impacts gross margin;
+•the assessment of recoverability of goodwill, identified intangible assets and tangible fixed assets, which impacts gross margin or operating expenses when we record asset impairments or accelerate their depreciation or amortization;
+•revenue recognition, which impacts our results of operations;
+•the recognition of current and deferred income taxes (including the measurement of uncertain tax positions), which impacts our provision for income taxes;
+•the assumptions used in the determination of postretirement benefit obligations, which impacts operating expenses;
+•the assumptions used in the determination of share based compensation, which impacts gross margin and operating expenses; and
+•the recognition and measurement of loss contingencies, which impacts gross margin or operating expenses when we recognize a loss contingency or revise the estimates for a loss contingency.
+
+In the following section, we discuss these policies further, as well as the estimates and judgments involved.
+
+Inventories
+Inventories are valued at the lower of cost or net realizable value. We regularly review our inventories and write down our inventories for estimated losses due to obsolescence. This allowance is determined for groups of products based on sales of our products in the recent past and/or expected future demand. Future demand is affected by market conditions, technological obsolescence, new products and strategic plans, each of which is subject to change with little or no forewarning. In estimating obsolescence, we utilize information that includes projecting future demand.
+
+The need for strategic inventory levels to ensure competitive delivery performance to our customers are balanced against the risk of inventory obsolescence due to rapidly changing technology and customer requirements.
+
+The change in our reserves for inventories was primarily due to the normal review and accrual of obsolete or excess inventory. If actual future demand or market conditions are less favorable than those projected by our management, additional inventory write-downs may be required.
+
+51
+
+Goodwill
+Goodwill is required to be assessed for impairment at least once annually, or more frequently if indicators of potential impairment exist, which includes evaluating qualitative and quantitative factors to assess the likelihood of an impairment of a reporting unit’s goodwill. Such events or changes in circumstances can be significant changes in business climate, operating performance or competition, or upon the disposition of a significant portion of a reporting unit. A significant amount of judgment is involved in determining if an indicator of impairment has occurred between annual test dates. We perform impairment tests using a fair value approach when necessary. Determining the fair value of a reporting unit involves the use of significant estimates and assumptions, including projected future cash flows, discount rates based on weighted average cost of capital and future economic and market conditions. We base our fair-value estimates on assumptions we believe to be reasonable. Actual cash flow amounts for future periods may differ from estimates used in impairment testing.
+
+We perform our annual impairment test for goodwill in the fourth quarter of each fiscal year. We did not recognize any impairment charges for goodwill in the years presented, as our annual impairment testing indicated that the fair value exceeded the recorded value for the respective reporting unit.
+
+Impairment or disposal of identified long-lived assets
+We perform reviews of long-lived assets including property, plant and equipment, and intangible assets subject to amortization, whenever facts and circumstances indicate that the useful life is shorter than what we had originally estimated or that the carrying amount of assets may not be recoverable. If such facts and circumstances exist, we assess the recoverability of the long-lived assets by comparing the projected undiscounted net cash flows associated with the related asset or group of assets over their remaining lives against their respective carrying amounts. In the event such cash flows are not expected to be sufficient to recover the recorded value of the assets, the assets are written down to their estimated fair values based on the expected discounted future cash flows attributable to the assets or based on appraisals. Impairment losses, if any, are based on the excess of the carrying amount over the fair value of those assets. Long-lived assets to be disposed of by sale are reported at the lower of their carrying amounts or their estimated fair values less costs to sell and are not depreciated.
+
+The assumptions and estimates used to determine future values and remaining useful lives of our intangible and other long-lived assets are complex and subjective. They can be affected by various factors, including external factors such as industry and economic trends, and internal factors such as changes in our business strategy and our forecasts for specific product lines. In 2020, we recognized impairment charges of $36 million, relative to IPR&D that was acquired from Freescale. In 2019 and 2018, we had no impairments.
+
+Revenue recognition
+The Company recognizes revenue under the core principle to depict the transfer of control to customers in an amount reflecting the consideration the Company expects to be entitled. In order to achieve that core principle, the Company applies the following five step approach: (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price to the performance obligations in the contract, and (5) recognize revenue when a performance obligation is satisfied.
+
+The vast majority of the Company’s revenue is derived from the sale of semiconductor products to distributors, Original Equipment Manufacturers (“OEMs”) and similar customers. In determining the transaction price, the Company evaluates whether the price is subject to refund or adjustment to determine the consideration to which the Company expects to be entitled. Variable consideration is estimated and includes the impact of discounts, price protection, product returns and distributor incentive programs. The estimate of variable consideration is dependent on a variety of factors, including contractual terms, analysis of historical data, current economic conditions, industry demand and both the current and forecasted pricing environments. The estimate of variable consideration is not constrained because the Company has extensive experience with these contracts.
+
+Revenue is recognized when control of the product is transferred to the customer (i.e., when the Company’s performance obligation is satisfied), which typically occurs at shipment. In determining whether
+
+52
+
+control has transferred, the Company considers if there is a present right to payment and legal title, and whether risks and rewards of ownership having transferred to the customer.
+
+For sales to distributors, revenue is recognized upon transfer of control to the distributor. For some distributors, contractual arrangements are in place which allow these distributors to return products if certain conditions are met. These conditions generally relate to the time period during which a return is allowed and reflect customary conditions in the particular geographic market. Other return conditions relate to circumstances arising at the end of a product life cycle, when certain distributors are permitted to return products purchased during a pre-defined period after the Company has announced a product’s pending discontinuance. These return rights are a form of variable consideration and are estimated using the most likely method based on historical return rates in order to reduce revenues recognized. However, long notice periods associated with these announcements prevent significant amounts of product from being returned. For sales where return rights exist, the Company has determined, based on historical data, that only a very small percentage of the sales of this type to distributors is actually returned. Repurchase agreements with OEMs or distributors are not entered into by the Company.
+
+Sales to most distributors are made under programs common in the semiconductor industry whereby distributors receive certain price adjustments to meet individual competitive opportunities. These programs may include credits granted to distributors, or allow distributors to return or scrap a limited amount of product in accordance with contractual terms agreed upon with the distributor, or receive price protection credits when our standard published prices are lowered from the price the distributor paid for product still in its inventory. In determining the transaction price, the Company considers the price adjustments from these programs to be variable consideration that reduce the amount of revenue recognized. The Company’s policy is to estimate such price adjustments using the most likely method based on rolling historical experience rates, as well as a prospective view of products and pricing in the distribution channel for distributors who participate in our volume rebate incentive program. We continually monitor the actual claimed allowances against our estimates, and we adjust our estimates as appropriate to reflect trends in pricing environments and inventory levels. The estimates are also adjusted when recent historical data does not represent anticipated future activity. Historically, actual price adjustments for these programs relative to those estimated have not materially differed.
+
+Income taxes
+Income taxes are accounted for under the asset and liability method. Deferred tax assets and liabilities are recognized for the expected tax consequences of temporary differences between the tax basis of assets and liabilities and their reported amounts. Measurement of deferred tax assets and liabilities is based upon the enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. Deferred tax liabilities for withholding taxes on dividends from subsidiaries are recognized in situations where the company does not consider the earnings indefinitely reinvested and to the extent that these withholding taxes are not expected to be refundable.
+
+Deferred tax assets, including assets arising from loss carryforwards, are recognized, net of a valuation allowance, if based upon the available evidence it is more likely than not that the asset will be realized.
+
+The income tax benefit from an uncertain tax position is recognized only if it is more likely than not that the tax position will be sustained upon examination by the relevant taxing authorities. The income tax benefit recognized is measured based on the largest benefit that is more than 50% likely to be realized upon resolution of the uncertainty. Unrecognized tax benefits are presented as a reduction to the deferred tax asset for related net operating loss carryforwards, unless these would not be available, in which case the uncertain tax benefits are presented together with the related interest and penalties as a liability, under accrued liabilities and other non-current liabilities based on the timing of the expected payment. Penalties are recorded as income tax expense, whereas interest is reported as financial expense in the statement of operations.
+
+53
+
+Postretirement benefits
+The Company’s employees participate in pension and other postretirement benefit plans in many countries. The costs of pension and other postretirement benefits and related assets and liabilities with respect to the Company’s employees participating in defined-benefit plans are based upon actuarial valuations.
+
+The projected defined-benefit obligation is calculated annually by qualified actuaries using the projected unit credit method. For the Company’s major plans, the discount rate is derived from market yields on high quality corporate bonds. Plans in countries without a deep corporate bond market use a discount rate based on the local government bond rates.
+
+In calculating obligation and expense, the Company is required to select actuarial assumptions. These assumptions include discount rate, expected long-term rate of return on plan assets and rates of increase in compensation costs determined based on current market conditions, historical information and consultation with and input from our actuaries. Changes in the key assumptions can have a significant impact to the projected benefit obligations, funding requirements and periodic pension cost incurred.
+
+The Company determines the fair value of plan assets based on quoted prices or comparable prices for non-quoted assets. For a defined-benefit pension plan, the benefit obligation is the projected benefit obligation; for any other postretirement defined benefit plan it is the accumulated postretirement benefit obligation.
+
+Share-based compensation
+We recognize compensation expense for all share-based awards based on the grant-date estimated fair values, net of an estimated forfeiture rate. We use the Black-Scholes option pricing model to determine the estimated fair value for certain awards. Share-based compensation cost for restricted share units (“RSUs”) with time-based vesting is measured based on the closing fair market value of our common stock on the date of the grant, reduced by the present value of the estimated expected future dividends, and then multiplied by the number of RSUs granted. Share-based compensation cost for performance-based share units (“PSUs”) granted with performance or market conditions is measured using a Monte Carlo simulation model on the date of grant.
+
+Our valuation models and generally accepted valuation techniques require us to make assumptions and to apply judgment to determine the fair value of our awards. These assumptions and judgments include estimating the volatility of our stock price, expected dividend yield, employee turnover rates and employee stock option exercise behaviors. When establishing the expected life assumption, we used the ‘simplified’ method prescribed in ASC Topic 718 for companies that do not have adequate historical data. The risk-free interest rate is measured as the prevailing yield for a U.S. Treasury security with a maturity similar to the expected life assumption. We also estimate a forfeiture rate at the time of grant and revise this rate in subsequent periods if actual forfeitures or vesting differ from the original estimates.
+
+We evaluate the assumptions used to value our awards on a quarterly basis. If factors change and we employ different assumptions, share-based compensation expense may differ significantly from what we have recorded in the past. If there are any modifications or cancellation of the underlying unvested securities, we may be required to accelerate, increase or cancel any remaining unearned share-based compensation expense.
+
+Litigation and claims
+We are regularly involved as plaintiffs or defendants in claims and litigation related to our past and current business operations. The claims can cover a broad range of topics, including intellectual property, reflecting the Company’s identity as a global manufacturing and technology business. The Company vigorously defends itself against improper claims, including those asserted in litigation. Due to the unpredictable nature of litigation, there can be no assurance that the Company’s accruals will be sufficient to cover the extent of its potential exposure to losses but, historically, legal actions have not had a material adverse effect on the Company’s business, results of operations or financial condition.
+
+54
+
+The estimated aggregate range of reasonably possible losses is based on currently available information in relation to the claims that have arisen and on the Company’s best estimate of such losses for those cases for which such estimate can be made. For certain claims, the Company believes that an estimate cannot currently be made. The estimated aggregate range requires significant judgment, given the varying stages of the proceedings (including the fact that many of them are currently in preliminary stages), the existence of multiple defendants (including the Company) in such claims whose share of liability has yet to be determined, the numerous yet-unresolved issues in many of the claims, and the attendant uncertainty of the various potential outcomes of such claims. Accordingly, the Company’s estimate will change from time to time, and actual losses may be more than the current estimate.
+
+Use of Certain Non-GAAP Financial Measures
+In addition to disclosing financial results in accordance with U.S. GAAP, this document contains references to net debt. Net debt is a non-GAAP financial measure and represents total debt (short-term and long-term) after deduction of cash and cash equivalents. We believe this measure provides investors with useful supplemental information about the financial performance of our business, enables comparison of financial results between periods where certain items may vary independent of business performance, and allows for greater transparency with respect to calculating our net leverage.
+
+We understand that, although net debt is used by investors and securities analysts in their evaluation of companies, this concept has limitations as an analytical tool and it should not be used as an alternative to any other measure in accordance with U.S. GAAP.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Inc. is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, devices and media. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model, both of which are referred to as hosted or cloud-based, as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and...
+
+[refer to Note 14]:
+Note 14 - Arrangements with Off-Balance Sheet Risk 103
+
+[Note 1 to the consolidated financial statements]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Inc. is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, devices and media. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model, both of which are referred to as hosted or cloud-based, as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and...
+
+[See Part I, Item 1A]:
+Item 1A. Risk Factors 24
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 22
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 24
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 22
+
+[" in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2019 as filed with the SEC on February 27, 2020.
+
+Our MD&A is provided in addition to the accompanying consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition and cash flows. MD&A is organized as follows:
+•Overview - Overall analysis of financial and other highlights to provide context for the MD&A
+•Results of Operations - An analysis of our financial results
+•Financial Condition, Liquidity and Capital Resources - An analysis of changes in our balance sheets and cash flows and a discussion of our financial condition and potential sources of liquidity
+•Critical Accounting Estimates - Accounting estimates that management believes are the most important to understanding the assumptions and judgments incorporated in our financial results and forecasts
+•Use of Certain Non-GAAP Financial Measures - A discussion of the non-GAAP measures used
+
+Effective January 1, 2019, NXP removed the reference to HPMS in its organizational structure in acknowledgment of the one reportable segment representing the entity as a whole. Our segment represents groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. See Note 1 to the consolidated financial statements for more information regarding our segment.
+
+Overview
+
+----------------------------------------------------- ------------------ ------------------ ------- ------------------- ----------------- ----------------- ------- ------------------- ------- -------
+($ in millions, unless otherwise stated) Three Months Ended Years Ended
+ December 31, 2020 September 27, 2020 Increase/(decrease) December 31, 2020 December 31, 2019 Increase/(decrease)
+Revenue 2,507 2,267 240 8,612 8,877 (265)
+Gross profit 1,288 1,090 198 4,235 4,618 (383)
+Operating income (loss) 463 32 431 418 641 (223)
+Cash flow from operating activities 1,029 527 502 2,482 2,373 109
+Total debt 7,609 9,356 (1,747) 7,609 7,365 244
+Net debt 5,334 5,790 (456) 5,334 6,320 (986)
+Diluted weighted average number of shares outstanding 285,258 279,467 5,791 283,809 285,911 (2,102)
+Diluted net income per share 1.08 (0.08) 1.16 0.18 0.85 (0.67)
+Dividends per common share 0.375 0.375 — 1.500 1.25 0.25
+
+Revenue for 2020 was $8,612 million, down 3% from 2019 against a very challenging economic environment, caused by the COVID-19 pandemic. By end market, Automotive revenue was $3,825 million, a decrease of 9% versus the year ago period. Within the Communication Infrastructure & Other end market, revenue was $1,703 million, a decline of 9% year-on-year. These annual declines were partly offset by good year-on-year performance in the Industrial & IoT and Mobile end-markets. Revenue in the Industrial & IoT end market was $1,836 million, a 15% increase, while revenue in the Mobile end market was $1,248 million, a 5% increase. The revenue achieved in both the Industrial & IoT and the Mobile end markets represent new all-time highs. When aggregating all end markets, the decrease in revenue was mostly related to lower sales to OEMs. From a regional perspective, revenue declined in EMEA, Americas and Japan, offset partly by Greater China.
+Our gross profit percentage for 2020 decreased to 49.2% from 52.0%, primarily due to the significant deceleration of revenue and the associated reduced manufacturing activity during the second and third quarters, further amplified by the absorption of excess manufacturing fixed costs as a result of abnormal under-loading in our front-end factories due to the COVID-19 pandemic.
+Revenue for the fourth quarter of 2020 was $2,507 million, an increase of 11% sequentially from revenue for the third quarter of 2020, as the improving business environment emerging at the end of the third quarter continued into the fourth quarter. From an end market perspective, the increase sequentially was driven primarily by Automotive with an
+
+38
+
+increase of 24% and by Mobile with an increase of 21%. These increases were slightly offset by a decline of 13% in Communication Infrastructure & Other and a decrease of 0.6% in Industrial & IoT.
+We continue to generate strong operating cash flows, with $2,482 million in cash flows from operations for 2020. We returned $1,047 million to our shareholders during the year in dividends and repurchases of common stock. Our cash position at the end of 2020 was $2,275 million. On November 19, 2020, the NXP Board of Directors approved a cash dividend of $0.375 per common share for the fourth quarter of 2020.
+Our global communities continue to face unprecedented challenges posed by the COVID-19 pandemic, but NXP has continued to respond actively by addressing the COVID-19 situation and its impact globally with global crisis response teams, working to mitigate the potential impacts to our people and our business. With our strong business model and with demonstrated financial discipline, which is a keystone of our culture, we continue to believe that we will emerge from this time well positioned for long-term growth as we continue to see strong customer interest in the breadth of our product portfolio, combined with solid design win awards. However, we cannot reasonably estimate the duration and severity of this global pandemic or its ultimate impact on the global economy and our business and results.
+Demand has come back more rapidly than we expected and our current focus is to look after our customers and ensure we ship as much product to them as possible. While we are encouraged by the rapid rebound in demand, we are still challenged by the impact of the global pandemic. We are still of the view that the best course of action is to continue to focus on enabling our customers success while simultaneously assuring the safety and health of all our employees.
+
+Results of Operations
+The following table presents the composition of operating income for the years ended December 31, 2020 and December 31, 2019.
+
+----------------------------------------------------- ------- ---- -------
+($ in millions, unless otherwise stated) 2020 2019
+Revenue 8,612 8,877
+% nominal growth (3.0) (5.6)
+Gross profit 4,235 4,618
+Research and development (1,725) (1,643)
+Selling, general and administrative (SG&A) (879) (924)
+Amortization of acquisition-related intangible assets (1,327) (1,435)
+Other income (expense) 114 25
+Operating income (loss) 418 641
+
+Revenue
+Revenue for the year-ended December 31, 2020 was $8,612 million compared to $8,877 million for the year-ended December 31, 2019, a decrease of $265 million or 3%. The decrease is attributed to the impact of the COVID-19 pandemic in our primary end-markets, including year-on-year decreases in the Automotive and in the Communication Infrastructure & Other end markets. These declines were partly offset by increases in the Industrial & IoT and Mobile end markets.
+
+Revenue by end-market was as follows:
+
+---------------------------------------- ----- ---- ----- ------------------- ----- ----- -
+($ in millions, unless otherwise stated) 2020 2019 Increase/(decrease) %
+Automotive 3,825 4,212 (387) (9.2) %
+Industrial & IoT 1,836 1,599 237 14.8 %
+Mobile 1,248 1,191 57 4.8 %
+Communication Infrastructure & Other 1,703 1,875 (172) (9.2) %
+Revenue 8,612 8,877 (265) (3.0) %
+
+Revenue by sales channel was as follows:
+
+---------------------------------------- ----- ---- ----- ------------------- ----- ------ -
+($ in millions, unless otherwise stated) 2020 2019 Increase/(decrease) %
+Distributors 4,720 4,409 311 7.1 %
+OEM/EMS 3,728 4,352 (624) (14.3) %
+Other 164 116 48 41.4 %
+Revenue 8,612 8,877 (265) (3.0) %
+
+39
+
+Revenue by geographic region, which is based on the customer’s shipped-to location, was as follows:
+
+----------------------------------------- ----- ---- ----- ------------------- ----- ------ -
+($ in millions, unless otherwise stated) 2020 2019 Increase/(decrease) %
+Greater China (including Asia Pacific) 5,124 4,934 190 3.9 %
+EMEA (Europe, the Middle East and Africa) 1,538 1,760 (222) (12.6) %
+Americas 977 1,076 (99) (9.2) %
+Japan 647 780 (133) (17.1) %
+South Korea 326 327 (1) (0.3) %
+Revenue 8,612 8,877 (265) (3.0) %
+
+- ---------------- - ------------------ - ------------ - -----
+n Automotive n Mobile n Distributors n Other
+n Industrial & IoT n Comm Infra & Other n OEM/EMS
+
+Revenue in the Automotive end market declined $387 million year-on-year. The decline was due to the COVID-19 pandemic, which impacted automotive supply chains and resulted in many auto OEMs outside of China shutting car production sites, primarily in Europe and North America. The year-on-year declines were most notable in our core automotive products which are more susceptible to variances in auto production rates, including our mainstream auto processors, advanced analog, and sensor products.
+Revenue derived from the Industrial & IoT market increased $237 million year-on-year, driven by the contribution of revenue associated with the recently acquired Marvell wireless connectivity assets for connected IoT solutions. Additionally, revenue increased from higher demand for smart power, high performance analog, and general-purpose microcontrollers, primarily in the distribution channel in Greater China.
+Within the Mobile end-market, revenue increased $57 million year-on-year. The increase was predominantly associated with continued customer adoption of secure mobile wallet solutions primarily to distributors in Greater China, as well as increased demand for embedded power solutions, which increased sales to distributors mainly in Greater China and OEM sales in Asia Pacific. These increases were offset by the divestment of Voice and Audio Solutions, which closed early in the first quarter of 2020.
+Revenue in the Communication Infrastructure & Other end market declined $172 million year-on-year. The decline was related to reduced demand in Greater China and Asia Pacific for High-Performance Radio Frequency (HPRF) power amplifiers used in 4G cellular base stations, offset by increased demand for network communication processors from distributors and OEM customers. In addition, the overall decline was also offset by revenue related to the acquisition of the Marvell wireless connectivity assets used in access solutions.
+
+Gross Profit
+Gross profit for the year-ended December 31, 2020 was $4,235 million, or 49.2% of revenue, compared to $4,618 million, or 52.0% of revenue, for the year-ended December 31, 2019. The decrease of $383 million was primarily driven by lower revenue and the reduced internal manufacturing activity during the second and third quarters, further by with the absorption of excess manufacturing fixed costs as a result of abnormal under-loading in our front-
+
+40
+
+end factories due to the COVID-19 crisis as well as the purchase accounting effect on inventory ($17 million) resulting from the Marvell acquisition. As a result, the gross margin percentage decreased to 49.2% from 52.0%.
+
+Operating Expenses
+Operating expenses for the year-ended December 31, 2020 totaled $3,931 million, or 45.6% of revenue, compared to $4,002 million, or 45.1% of revenue, for the year-ended December 31, 2019.
+
+The following table below presents the composition of operating expenses by line item in the statement of operations.
+
+----------------------------------------------------- ----- ----------- ---- ---- ----------- -------- ---- - ----- -
+($ in millions, unless otherwise stated) 2020 % ofrevenue 2019 % ofrevenue % change
+Research and development 1,725 20.0 % 1,643 18.5 % 5.0 %
+Selling, general and administrative 879 10.2 % 924 10.4 % (4.9) %
+Amortization of acquisition-related intangible assets 1,327 15.4 % 1,435 16.2 % (7.5) %
+Operating expenses 3,931 45.6 % 4,002 45.1 % (1.8) %
+
+- --- - ---- - --------------------------------
+n R&D n SG&A n Amortization acquisition-related
+
+The decrease in operating expenses was a result of the following items:
+
+Research and development (R&D) costs primarily consist of engineer salaries and wages (including share based compensation and other variable compensation), engineering related costs (including outside services, fixed-asset, IP and other licenses related costs), shared service center costs and other pre-production related expenses.
+
+•R&D costs for the year-ended December 31, 2020 increased by $82 million, or 5.0%, when compared to last year driven by:
++ higher cost related to Marvell activities, which were acquired in the last month of 2019;
+
+41
+
++ higher restructuring costs;
++ higher share-based compensation expenses;
++ higher pre-production related expenses;
+- lower travel expenses;
+- lower personnel-related costs, including variable compensation costs; and
+- lower cost related to Voice and Audio Solutions (VAS), which was divested on February 3, 2020.
+
+Selling, general and administrative (SG&A) costs primarily consist of personnel salaries and wages (including share based compensation and other variable compensation), communication and IT related costs, fixed-asset related costs and sales and marketing costs (including travel expenses).
+
+•SG&A costs for the year-ended December 31, 2020 decreased by $45 million, or 4.9%, when compared to last year mainly due to:
+- lower sales and marketing costs;
+- lower travel expenses;
+- lower personnel-related costs, including variable compensation costs;
+- lower professional services;
++ higher restructuring costs; and
++ higher share-based compensation expenses as a result of the CEO transition.
+
+•Amortization of acquisition-related intangible assets decreased by $108 million, or 7.5%, when compared to last year driven by:
+- certain intangibles became fully amortized during 2020;
++ an impairment charge relative to IPR&D acquired as part of the acquisition of Freescale; and
++ the start of amortization of intangible assets related to the Marvell acquisition.
+
+Other Income (Expense)
+Income and expenses derived from manufacturing service arrangements (“MSA”) and transitional service arrangements (“TSA”) that are put into place when we divest a business or activity, are included in other income (expense). These arrangements are short-term in nature and are expected to decrease as the divested business or activity becomes more established.
+
+The following table presents the split of other income (expense) for the years ended December 31, 2020 and 2019:
+
+------------------------------------ ---- ---- --
+($ in millions) 2020 2019
+Result from MSA and TSA arrangements — —
+Other, net 114 25
+Total 114 25
+
+Other income (expense) reflects income of $114 million for 2020, compared to $25 million of income in 2019. Included in 2020 is $110 million relating to the net gain on the sale of the Voice and Audio Solutions (VAS) assets, whereas the 2019 amount included $20 million relating to the sale of assets.
+
+42
+
+Financial Income (Expense)
+
+------------------------------------------------------- -------------------------------- ---- -----
+($ in millions) For the years ended December 31,
+ 2020 2019
+Interest income 13 57
+Interest expense (362) (370)
+Total interest expense, net (349) (313)
+Foreign exchange rate results (16) (15)
+Extinguishment of debt (60) (11)
+Miscellaneous financing income (expense) and other, net 8 (11)
+Total other financial income (expense) (68) (37)
+Total (417) (350)
+
+Financial income (expense) was an expense of $417 million in 2020, compared to an expense of $350 million in 2019. The change in financial income (expense) is primarily attributable to a decrease in interest income of $44 million, as a result of a lower average cash level and lower interest rates and higher debt extinguishment costs in 2020 versus 2019 of $49 million. This was partially offset by results on investments of $24 million.
+
+Benefit (Provision) for Income Taxes
+We recorded an income tax benefit of $83 million for the year-ended December 31, 2020, which reflects an effective tax rate of (8300.0)% compared to an expense of $20 million (6.9%) for the year-ended December 31, 2019.
+
+-------------------------------------------------------------------------------- ----- ---- ---------- - ----- ------
+ 2020 2019
+ $ % $ %
+Statutory income tax in the Netherlands — 25.0 73 25.0
+
+Rate differential local statutory rates versus statutory rate of the Netherlands 22 2,175.0 16 5.5
+Net change in valuation allowance 35 3,500.0 59 20.2
+Non-deductible expenses/losses 61 6,100.0 52 17.8
+Netherlands tax incentives (48) (4,800.0) (68) (23.2)
+Foreign tax incentives (117) (11,700.0) (118) (40.5)
+Changes in estimates of prior years’ income taxes (13) (1,300.0) (3) (1.2)
+Sale of non-deductible goodwill 10 1,000.0 — —
+Withholding taxes (31) (3,100.0) 5 1.8
+Other differences (2) (200.0) 4 1.5
+Effective tax rate (83) (8,300.0) 20 6.9
+
+The effective tax rate reflects the impact of tax incentives, a portion of our earnings being taxed in foreign jurisdictions at rates different than the Netherlands statutory tax rate, changes in estimates of prior years']:
+(7)Lennar Other 58  LENNAR CORPORATION AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued) The assets and liabilities related to the Company's segments were as follows: -------------------------------------- ----------------- ---------- ------------------ --------- ----------- ------------ --------- ----- ------- ------- ---------- ---------- (In thousands) November 30, 2020 Assets: Homebuilding Financial Services Multifamily Lennar Other Total Cash and cash equivalents $ 2,703,986 116,171 38,963 3,918 2,863,038 Restricted cash 15,211 54,481 -- -- 69,692 Receivables, net (1) 298,671 552,779 86,629 -- 938,079 Inventories 16,925,228 -- 249,920 -- 17,175,148 Loans held-for-sale (2) -- 1,490,105 -- -- 1,490,105 Loans held-for-investments, net -- 72,626 -- -- 72,626 Investments held-to-maturity -- 164,230 -- -- 164,230 Investments available-for-sale (3) -- -- -- 53,497 53,497 Investments in unconsolidated entities 953,177 68,869 724,647 386,999 2,133,692 Goodwill 3,442,359 189,699 -- -- 3,632,058 Other assets (4) 1,190,793 68,027 75,749 8,443 1,343,012 $ 25,529,425 2,776,987 1,175,908 452,857 29,935,177 Liabilities: Notes and other debts payable, net $ 5,955,758 1,463,919 -- 1,906 7,421,583 Other liabilities 3,969,893 180,329 252,911 11,060 4,414,193 $ 9,925,651 1,644,248 252,911 12,966 11,835,776 -------------------------------------- ----------------- ---------- ------------------ --------- ----------- ------------ --------- ----- ------- ------- ---------- ---------- (In thousands) November 30, 2019 Assets: Homebuilding Financial Services Multifamily Lennar Other Total Cash and cash equivalents $ 1,200,832 234,113 8,711 2,340 1,445,996 Restricted cash 9,698 12,022 -- 975 22,695 Receivables, net (1) 329,124 500,847 76,906 -- 906,877 Inventories 17,776,507 -- 315,107 -- 18,091,614 Loans held-for-sale (2) -- 1,644,939 -- -- 1,644,939 Loans held-for-investments, net -- 73,867 -- -- 73,867 Investments held-to-maturity -- 190,289 -- 54,117 244,406 Investments available-for-sale (3) -- 3...

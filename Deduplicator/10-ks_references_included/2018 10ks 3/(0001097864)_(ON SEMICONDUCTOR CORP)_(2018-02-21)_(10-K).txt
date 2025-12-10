@@ -1,0 +1,1054 @@
+================================================================================
+CIK: 0001097864
+Company Name: ON SEMICONDUCTOR CORP
+Filing Date: 2018-02-21
+Form Type: 10-K
+Extraction Date: 2025-08-30 15:03:10
+================================================================================
+
+Item 7.        Management’s
+Discussion and Analysis of Financial Condition and Results of Operations
+You should read the following discussion in
+conjunction with our audited historical consolidated financial statements, including the notes thereto, which are included elsewhere in this Form 10-K. Management’s Discussion and Analysis of Financial
+Condition and Results of Operations contains statements that are forward-looking. These statements are based on current expectations and assumptions that are subject to risk, uncertainties, and other factors. Actual results could differ materially
+because of the factors discussed in “Risk Factors” included elsewhere in this Form 10-K.
+
+Executive Overview
+This
+executive overview presents summarized information regarding our industry, markets, business and operating trends only. For further information relating to the information summarized herein, see “Management’s Discussion and Analysis of
+Financial Condition and Results of Operations” in its entirety.
+
+49
+
+Table of Contents
+
+Industry Overview
+
+According to WSTS (an industry research firm), worldwide semiconductor industry sales were $412.2 billion in 2017, an increase of
+approximately 21.6% from $338.9 billion in 2016. We participate in unit and revenue surveys and use data summarized by WSTS to evaluate overall semiconductor market trends and also to track our progress against the market in the areas we
+provide semiconductor components. The following table sets forth total worldwide semiconductor industry revenues and revenues in our Serviceable Addressable Market (“SAM”) since 2013:
+
+----------------------- ---------------------------------------- ----- ---------------- ------ ----------------------------------------- - ---------------- ------
+Year Ended December 31, WorldwideSemiconductorIndustry Sales (1) PercentageChange ServiceableAddressableMarket Sales (1)(2) PercentageChange
+ (in billions) (in billions)
+ 2017 $ 412.2 21.6 % $ 133.7 12.4 %
+ 2016 $ 338.9 1.1 % $ 118.9 2.6 %
+ 2015 $ 335.2 (0.2)% $ 115.9 (0.2)%
+ 2014 $ 335.8 9.9 % $ 116.1 11.3 %
+ 2013 $ 305.6 4.8 % $ 104.3 0.6 %
+
+(1) Based on shipment information published by WSTS. We believe the data provided by WSTS is reliable, but we have not independently verified it. WSTS periodically revises its information. We assume no obligation to update such information.
+
+(2) Our SAM comprises the following specific WSTS product categories: (a) discrete products (all discrete semiconductors other than sensors, microwave power transistors/modules, microwave diodes, microwave transistors, power modules, logic and optoelectronics); (b) standard analog products (amplifiers, VREGs and references, comparators, ASSP consumer, ASSP communications, ASSP computer, ASSP automotive and ASSP industrial and others); (c) standard logic products (general purpose logic); (d) standard product logic (consumer other, computer other peripherals, wired / wireless communications, automotive, industrial and multipurpose); (e) CMOS and CCD image sensors; (f) memory; (g) microcontrollers and (h) motor control modules. Our SAM is derived using the most recent information available, excluding foundry exposure, at the time of the filing of each respective period’s annual report and is revised in subsequent periods to reflect final results.
+
+As indicated above, worldwide semiconductor sales increased from $305.6 billion in 2013 to $412.2 billion in 2017. The increase of
+21.6% from 2016 to 2017 reflected improving macroeconomic conditions in the second half of 2017. Sales in our SAM increased from $104.3 billion in 2013 to $133.7 billion in 2017. The increase of 12.4% from 2016 to 2017 is consistent with
+the trend in the worldwide semiconductor market. The most recently published estimates of WSTS project a compound annual growth rate in our SAM of approximately 5.0% for the next three years. These projections are not ours and may not be indicative
+of actual results.
+Historically, the semiconductor industry has been highly cyclical. During a down cycle, unit demand and pricing have
+tended to fall in tandem, resulting in revenue declines. In response to such declines, manufacturers have reduced or shut down production capacity. When new applications or other factors have caused demand to strengthen, production volumes have
+historically stabilized and then grown again. As market unit demand reaches levels above capacity production capabilities, shortages begin to occur, which typically causes pricing power to swing back from customers to manufacturers, thus prompting
+further capacity expansion. Such expansion has typically resulted in overcapacity following a decrease in demand, which has triggered another similar cycle.
+
+50
+
+Table of Contents
+
+ON Semiconductor Overview
+
+We are driving innovation in energy-efficient electronics. Our extensive portfolio of sensors, power management, connectivity, custom and SoC,
+analog, logic, timing, and discrete devices helps customers efficiently solve their design challenges in advanced electronic systems and products. Our power management and motor driver semiconductor components control, convert, protect and monitor
+the supply of power to the different elements within a wide variety of electronic devices. Our custom ASICs and SOC devises use analog, MCU, DSP, mixed-signal and advanced logic capabilities to act as the brain behind many of our automotive,
+medical, aerospace/defense, consumer and industrial customers’ products. Our signal management semiconductor components provide high-performance clock management and data flow management for precision computing, communications and industrial
+systems. Our growing portfolio of sensors, including image sensors, optical image stabilization and auto focus devices provide advanced solutions for automotive, wireless, industrial and consumer applications. Our standard semiconductor components
+serve as “building blocks” within virtually all types of electronic devices. These various products fall into the logic, analog, discrete, image sensors and memory categories used by the WSTS group.
+
+Our new product development efforts continue to be focused on building solutions in product areas that appeal to customers in focused market
+segments and across multiple high-growth applications. We collaborate with our customers to identify desired innovations in electronic systems in each end-market that we serve. This enables us to participate
+in the fastest growing sectors of the market. We also innovate in advanced packaging technologies to support ongoing size reduction in electronic systems and in advanced thermal packaging to support high performance power conversion applications. It
+is our practice to regularly re-evaluate our research and development spending, to assess the deployment of resources and to review the funding of high-growth technologies. We deploy people and capital with
+the goal of maximizing our investment in research and development in order to facilitate continued growth by targeting innovative products and solutions for high growth applications that position us to outperform the industry. Our design
+expertise in analog, digital, mixed signal and imaging ICs, combined with our extensive portfolio of standard products enable the company to offer comprehensive, value-added solutions to our global customers for their electronics systems.
+
+We believe that some of the key factors and trends affecting our results of operations include, but not limited to:
+
+ • Our acquisition of Fairchild and our integration of Fairchild’s business into our operations;
+
+ • Macroeconomic conditions affecting the semiconductor industry;
+
+ • The cyclicality and seasonality of the semiconductor industry;
+
+ • The global economic climate;
+
+ • Our significant indebtedness, including the indebtedness incurred in connection with our acquisition of Fairchild;
+
+ • The impact of U.S. corporate tax reform and an uncertain corporate tax environment abroad;
+
+ • An uncertain political climate and related impacts on global trade;
+
+ • The effects of trends in the automotive and industrial end-markets on our revenues; and
+
+ • Competitive conditions, and in particular consolidation, within our industry.
+
+Fairchild Acquisition
+
+On September 19, 2016, we completed the Fairchild Transaction. The purchase price totaled $2,532.2 million and was funded by
+the borrowings against our Term Loan “B” Facility and a partial draw of our revolving Revolving Credit Facility and with cash on hand.
+
+51
+
+Table of Contents
+
+We believe that this acquisition has created a power semiconductor leader with strong
+capabilities in a rapidly consolidating semiconductor industry. The combination of Fairchild operations with our own has provided complementary product lines to offer customers the full spectrum of high, medium and low voltage products, and we will
+continue to pioneer technology and design innovation in efficient energy consumption to help our customers achieve success and drive value for our partners and employees around the world. The acquisition also expanded our footprint in wireless
+communication products, particularly in high efficiency power conversions and USB Type C communication and power delivery. See “Business - 2016 Acquisition Activity,” “Risk Factors” and “Management’s Discussion and
+Analysis of Financial Condition and Results of Operations” for additional information. See Note 4: “Acquisitions, Divestitures and Licensing Transactions” in the notes to our audited consolidated financial statements included
+elsewhere in this Form 10-K for additional information.
+Recent ON Semiconductor Results
+
+Our total revenues for the year ended December 31, 2017 were $5,543.1 million, an increase of approximately 41.9% from
+$3,906.9 million from the year ended December 31, 2016. The increase was primarily attributable to the acquisition of Fairchild. During 2017, we reported net income attributable to ON Semiconductor of $810.7 million compared to
+$182.1 million in 2016. The increase was attributable to the impact of the U.S. tax reform, as well as improved results and contributions from the acquired Fairchild business. Our gross margin increased by approximately 350 basis points to
+36.7% in 2017 from 33.2% in 2016. The increase in gross margin was primarily due to higher factory utilization, product mix and contributions from the acquired Fairchild business.
+
+ON Semiconductor Q1 2018 Outlook
+
+Based upon product booking trends, backlog levels, and estimated turns levels, we estimate that our revenues will be approximately $1,340.0 to
+$1,390.0 million, gross margin as a percentage of revenues will be approximately 36.4% to 38.4%, operating expenses will be approximately $318.0 to $336.0 million, other income and expense (including interest expense), net will be
+approximately $33.0 to $36.0 million and diluted share count will be approximately 445.0 to 447.0 million in the first quarter of 2018.
+
+Statements related to our outlook for the first quarter of 2018 are based on our current expectations, forecasts, estimates and assumptions.
+Such statements involve risks, uncertainties and other factors that could cause results or events to differ materially from those expressed in the forward-looking statements. See “Risk Factors” for additional information.
+
+Business and Macroeconomic Environment Influence on Cost Savings and Restructuring Activities
+
+In 2017 our initiatives were focused on synergy-related cost reductions from the Fairchild acquisition. Additionally, we have historically
+pursued, and expect to continue to pursue, other cost-saving initiatives to align our overall cost structure, capital investments and other expenditures with our expected revenue, spending and capacity levels based on our current sales and
+manufacturing projections. We have recognized efficiencies from previously implemented restructuring activities and programs and continue to implement profitability enhancement programs to improve our cost structure. The semiconductor industry has
+traditionally been highly cyclical and has often experienced significant downturns in connection with, or in anticipation of, declines in general economic conditions. We have historically taken significant actions to align our overall cost structure
+with our expectations of market conditions and by focusing on synergies-related cost reductions arising from each of our acquisitions. However, there can be no assurances that we will adequately forecast economic conditions or that we will
+effectively align our cost structure, capital investments and other expenditures with our revenue, spending and capacity levels in the future.
+
+52
+
+Table of Contents
+
+See “Results of Operations - Restructuring, asset impairments and other, net”
+below, along with Note 6: “Restructuring, Asset Impairments and Other, Net” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for information relating
+to our most recent cost-saving initiatives.
+Anticipated Impact of U.S. Tax Reform
+
+On December 22, 2017, the U.S. enacted the Tax Act. The Tax Act reduces the U.S. federal corporate tax rate from 35% to 21%, requires
+companies to pay a one- time mandatory repatriation tax on earnings of certain foreign subsidiaries that were previously tax deferred and creates new taxes on certain future foreign earnings. Our income tax
+benefit for the year ended December 31, 2017 includes a provisional income tax benefit of $449.9 million as a result of the Tax Act. This benefit includes charges related to the mandatory repatriation tax and the remeasurement of deferred
+tax assets for the new, lower U.S. statutory rate of 21%, offset by a reduction of our deferred tax liability for undistributed current and prior years’ earnings of our foreign subsidiaries. Our provisional estimate of the mandatory
+repatriation tax is $219.4 million, which we believe can be offset, in part, by $191.1 million of existing U.S. tax credit carryforwards. After utilization of our tax credits, the remaining cash tax payable is expected to be
+$28.3 million, which would be payable over eight years with $2.3 million due in 2018.
+We expect our future effective tax rate
+to more approximate the new U.S. federal statutory rate of 21%. The change in our future effective tax rate is not anticipated to have an effect on our cash tax until all of our U.S. federal net operating losses and credits have been utilized.
+
+Results of Operations
+
+Our results of operations for the year ended December 31, 2017 include the full year results of operations from our acquisition of
+Fairchild on September 19, 2016.
+
+53
+
+Table of Contents
+
+Operating Results
+
+The following table summarizes certain information relating to our operating results that has been derived from our audited consolidated
+financial statements for the years ended December 31, 2017, 2016 and 2015 (in millions):
+
+--------------------------------------------------------- ----------------------- ------- - ------------- - ------- ---- - ------------ - ------------ ------- - - ----- -
+ Year ended December 31, Dollar Change
+
+ 2017 2016 2015 2016 to 2017 2015 to 2016
+Revenues $ 5,543.1 $ 3,906.9 $ 3,495.8 $ 1,636.2 $ 411.1
+Cost of revenues (exclusive of amortization shown below) 3,509.3 2,610.0 2,302.6 899.3 307.4
+
+Gross profit 2,033.8 1,296.9 1,193.2 736.9 103.7
+Operating expenses:
+Research and development 594.4 452.3 396.7 142.1 55.6
+Selling and marketing 315.9 238.0 204.3 77.9 33.7
+General and administrative 284.9 230.3 182.3 54.6 48.0
+Amortization of acquisition-related intangible assets 123.8 104.8 135.7 19.0 (30.9 )
+Restructuring, asset impairments and other, net 20.8 33.2 9.3 (12.4 ) 23.9
+Intangible asset impairment 13.1 2.2 3.8 10.9 (1.6 )
+
+Total operating expenses 1,352.9 1,060.8 932.1 292.1 128.7
+
+Operating income 680.9 236.1 261.1 444.8 (25.0 )
+
+Other (expense) income, net:
+Interest expense (141.2 ) (145.3 ) (49.7 ) 4.1 (95.6 )
+Interest income 3.0 4.5 1.1 (1.5 ) 3.4
+Gain on divestiture of business 12.5 92.2 — (79.7 ) 92.2
+Loss on debt refinancing and prepayment (47.2 ) (6.3 ) (0.4 ) (40.9 ) (5.9 )
+Other (expense) income (8.1 ) (0.6 ) 7.7 (7.5 ) (8.3 )
+Licensing income 47.6 — — 47.6 —
+
+Other (expense) income, net (133.4 ) (55.5 ) (41.3 ) (77.9 ) (14.2 )
+
+Income before income taxes 547.5 180.6 219.8 366.9 (39.2 )
+Income tax (provision) benefit 265.5 3.9 (10.8 ) 261.6 14.7
+
+Net income 813.0 184.5 209.0 628.5 (24.5 )
+Less: Net income attributable to non-controlling interest (2.3 ) (2.4 ) (2.8 ) 0.1 0.4
+
+Net income attributable to ON Semiconductor Corporation $ 810.7 $ 182.1 $ 206.2 $ 628.6 $ (24.1 )
+
+Revenues
+
+Revenues were $5,543.1 million, $3,906.9 million and $3,495.8 million for 2017, 2016 and 2015, respectively. The increase of
+$1,636.2 million, or approximately 42%, in 2017 compared to 2016 was primarily attributable to approximately 65% and 32% increases in revenue in our Power Solutions Group and Analog Solutions Group, respectively, which included an entire
+twelve-month period of Fairchild revenues in 2017 and $155.1 million in revenues due to the change in revenue recognition on distributor sales during the first quarter of 2017.
+
+54
+
+Table of Contents
+
+The increase in revenues from 2016 compared to 2015 of $411.1 million, or approximately
+12%, was primarily attributable to approximately 21% and 11% increases in revenue in our Power Solutions Group and Analog Solutions Group, respectively, which included Fairchild revenues of $411.5 million between September 19, 2016 and
+December 31, 2016. This increase was partially offset by lower revenues in our Image Sensor Group.
+Revenues by reportable segment
+for each of 2017, 2016 and 2015 were as follows (dollars in millions):
+
+---------------------- ---- ------- --------------------- ----- ---- - --------------------- ---- ----- --------------------- - ------- -----
+ 2017 As a % of Revenue (1) 2016 As a % of Revenue (1) 2015 As a % of Revenue (1)
+Power Solutions Group $ 2,819.3 50.9% $ 1,708.6 43.7% $ 1,409.9 40.3%
+Analog Solutions Group 1,950.9 35.2% 1,481.5 37.9% 1,338.6 38.3%
+Image Sensor Group 772.9 13.9% 716.8 18.3% 747.3 21.4%
+
+Total revenues $ 5,543.1 $ 3,906.9 $ 3,495.8
+
+(1)   Certain of the amounts may not total due to rounding of individual amounts.
+
+Revenues from the Power Solutions Group
+
+Revenues from the Power Solutions Group increased by $1,110.7 million, or approximately 65%, during 2017 compared to 2016, and increased
+by $298.7 million, or approximately 21%, during 2016 compared to 2015.
+The 2017 increase is primarily attributable to the
+acquisition of Fairchild, which had a full year contribution in 2017, as well as a $107.8 million impact due to the change in revenue recognition on distributor sales during the first quarter of 2017. These two factors contributed to increases
+in substantially all of the divisions within this segment, which resulted in a $417.8 million increase in revenues in our Power MOSFET division, a $327.8 million increase in revenues in our High Power division, and, to a lesser extent,
+$132.9 million increase in revenues in our Integrated Circuits division and $120.7 million increase in revenues in our Protection and Signal division.
+
+The 2016 increase was primarily attributable to the acquisition of Fairchild, which had $277.5 million in revenue across various products
+within this segment. This was due to a $149.5 million increase in revenues in our Power MOSFET division, a $79.5 million increase in revenues in our High Power division, and to a lesser extent, a $47.7 million increase in revenues in
+our Integrated Circuits division and an $18.5 million increase in revenues in our Protection and Signal division.
+Revenues from
+the Analog Solutions Group
+Revenues from the Analog Solutions Group increased by $469.4 million, or approximately 32%, during
+2017 compared to 2016 and increased by $142.9 million, or approximately 11%, during 2016 compared to 2015.
+The 2017 increase is
+primarily attributable to the acquisition of Fairchild, which had a full year contribution in 2017, as well as a $42.1 million impact due to the change in revenue recognition on distributor sales during the first quarter of 2017. These two
+factors contributed to increases in substantially all of the divisions within this segment, which resulted in a $150.6 million increase in revenues in our Mobile Solutions division, a $100.3 million increase in revenues in our Automotive
+division, a $97.5 million increase in revenues in our Digital and DC/DC division and a $81.3 million increase in revenues in our Industrial and Offline Power division.
+
+55
+
+Table of Contents
+
+The 2016 increase was primarily attributable to the acquisition of Fairchild, which had
+$134.0 million in revenue across various products within this segment. This was due to a $72.7 million increase in revenues in our Mobile Solutions division, and to a lesser extent, $33.1 million increase in revenues in our Digital
+and DC/DC division and $29.8 million increase in revenues in our Automotive division.
+Revenues from the Image Sensor Group
+
+Revenues from the Image Sensor Group increased by $56.1 million, or approximately 8%, during 2017 compared to 2016 and decreased
+by $30.5 million, or approximately 4%, during 2016 compared to 2015.
+The 2017 increase is primarily attributable to a
+$84.9 million, or 29% increase in revenues in our Automotive Solutions division, which was partially offset by a $39.6 million, or approximately 13% decrease in revenues in our Consumer Solutions division as a result of the exit of the
+Mobile CIS business which occurred during the fourth quarter of 2016. For further information on the Mobile CIS business exit see Note 4: “Acquisitions, Divestitures and Licensing Transactions”.
+
+The 2016 decrease was primarily attributable to a $100.1 million, or 24% decrease in revenues in our Consumer Solutions division due to
+the exit of the Mobile CIS business, offset by a $57.7 million, or 24% increase in revenues in our Automotive Solutions division, and a $11.8 million, or 12% increase in revenues in our Industrial Solutions division.
+
+Revenues by Geographic Location
+
+Revenues by geographic location, including local sales made by operations within each area, based on sales billed from the respective country,
+are summarized as follows (dollars in millions):
+
+-------------- ---- ------- --------------------- ----- ---- - --------------------- ---- ----- --------------------- - ------- -----
+ 2017 As a % of Revenue (1) 2016 As a % of Revenue (1) 2015 As a % of Revenue (1)
+United States $ 748.8 13.5% $ 588.4 15.1% $ 544.3 15.6%
+United Kingdom 668.8 12.1% 541.1 13.8% 503.2 14.4%
+Hong Kong 1,785.0 32.2% 1,086.8 27.8% 874.4 25.0%
+Japan 429.0 7.7% 334.5 8.6% 281.7 8.1%
+Singapore 1,466.9 26.5% 1,110.4 28.4% 1,120.7 32.1%
+Other 444.6 8.0% 245.7 6.3% 171.5 4.9%
+
+Total $ 5,543.1 $ 3,906.9 $ 3,495.8
+
+(1) Certain of the amounts may not total due to rounding of individual amounts.
+
+56
+
+Table of Contents
+
+Gross Profit and Gross Margin (exclusive of amortization of acquisition-related
+intangible assets described below)
+Our gross profit by reportable segment for each of 2017, 2016 and 2015 was as follows (dollars in millions):
+
+----------------------------- ---- ------- - --------------------------- ------ ---- - --------------------------- - ---- ------ --------------------------- - ------- - ------
+ 2017 As a % ofSegmentRevenue (2) 2016 As a % ofSegmentRevenue (2) 2015 As a % ofSegmentRevenue (2)
+Power Solutions Group $ 959.2 34.0 % $ 566.3 33.1 % $ 428.7 30.4 %
+Analog Solutions Group 817.2 41.9 % 589.0 39.8 % 537.9 40.2 %
+Image Sensor Group 302.0 39.1 % 236.5 33.0 % 242.4 32.4 %
+
+Gross profit for all segments $ 2,078.4 $ 1,391.8 $ 1,209.0
+Unallocated manufacturing (1) (44.6 ) (0.8)% (94.9 ) (2.4)% (15.8 ) (0.5)%
+
+Total gross profit $ 2,033.8 36.7 % $ 1,296.9 33.2 % 1,193.2 34.1 %
+
+(1)   Unallocated manufacturing costs are being shown as a percentage of total revenue (includes expensing of the fair market value step-up of inventory of $67.5 million during 2016 and $13.6 million during 2017).
+(2)
+  Certain of the amounts may not total due to rounding of individual amounts.
+Our gross profit was $2,033.8 million,
+$1,296.9 million and $1,193.2 million for 2017, 2016 and 2015, respectively. The gross profit increase of $736.9 million, or approximately 57%, for 2017 compared to 2016 was primarily due to an increase in gross profit in our Power
+Solutions Group and Analog Solutions group, which included a full-year of contributions from the acquired Fairchild business. ISG gross profit improvement of $65.5 million was due to increased revenue in higher margin automotive and industrial
+markets offsetting decreased revenue on the exit of the Mobile CIS business.
+The gross profit increase of $103.7 million, or
+approximately 9%, for 2016 compared to 2015 was primarily due to the contributions from Fairchild, which generated approximately $87.0 million of gross profit for 2016.
+
+Gross margin increased to approximately 36.7% during 2017 compared to approximately 33.2% during 2016. Excluding the expensing of the fair
+market value of inventory step-up from the Fairchild acquisition, gross margin increased to approximately 36.9% during 2017 compared to approximately 34.9% during 2016. The increase was primarily due to higher factory utilization, product mix, which
+included the mix shift in imaging products to higher margin automotive and industrial imaging products, and the exit of the lower margin Mobile CIS business.
+
+Gross margin decreased to approximately 33.2% during 2016 compared to approximately 34.1% during 2015. Excluding the expensing of the fair
+market value of inventory step-up from the Fairchild acquisition of $67.5 million, gross margin increased to 34.9%, primarily due to higher factory utilization and product mix, which included the growth
+in ISG of higher margin automotive and industrial imaging products and the exit of the lower margin Mobile CIS business.
+Operating
+Expenses
+Research and Development
+
+Research and development expenses were $594.4 million, $452.3 million and $396.7 million, representing approximately 11%, 12%
+and 11% of revenues, for 2017, 2016 and 2015, respectively.
+
+57
+
+Table of Contents
+
+The increase in research and development expenses of $142.1 million, or approximately
+31%, during 2017 compared to 2016 was primarily associated with the acquisition of Fairchild, which added several categories of research and development expenses. Research and development expenses unrelated to Fairchild increased primarily in the
+area of payroll, including incentive compensation and payroll related costs as well as an overall increase in variable compensation for the combined company.
+
+The increase in research and development expenses of $55.6 million, or approximately 14%, during 2016 compared to 2015 was primarily
+associated with the acquisition of Fairchild, which added to several categories of research and development expenses totaling $28.8 million. Research and development expenses unrelated to the Fairchild Transaction increased by
+$26.8 million, primarily in the area of payroll, including incentive compensation and payroll related costs, pension losses and IP related activities.
+
+Selling and Marketing
+
+Selling and marketing expenses were $315.9 million, $238.0 million and $204.3 million, representing approximately 6% of
+revenues in each year period, for 2017, 2016 and 2015, respectively.
+The increase in selling and marketing expenses of
+$77.9 million, or approximately 33%, during 2017 compared to 2016 was primarily associated with the acquisition of Fairchild, primarily in the area of payroll, including incentive compensation and payroll related costs as well as an overall
+increase in variable compensation for the combined company. There were also increases in expenses related to commissions and advertising.
+
+The increase in selling and marketing expenses of $33.7 million, or approximately 16%, during 2016 compared to 2015 was primarily
+associated with the acquisition of Fairchild, which had selling and marketing expenses of $26.7 million, primarily in the area of payroll, including incentive compensation and payroll-related costs. There were also increases in expenses related
+to outside services and travel.
+General and Administrative
+
+General and administrative expenses were $284.9 million, $230.3 million and $182.3 million, representing approximately 5%, 6%
+and 5% of revenues, for 2017, 2016 and 2015, respectively.
+The increase in general and administrative expenses of $54.6 million, or
+approximately 24%, during 2017 compared to 2016 was primarily associated with the acquisition of Fairchild, primarily in the area of payroll, including incentive compensation and payroll related costs, as well as an overall increase in variable
+compensation for the combined company.
+The increase in general and administrative expenses of $48.0 million, or approximately 26%,
+during 2016 compared to 2015 was primarily associated with the acquisition of Fairchild, which had general and administrative expenses of $36.9 million, primarily in the area of payroll, including incentive compensation and payroll related
+costs, outside services, travel related expenses, as well as acquisition related expenses.
+Amortization of Acquisition—Related
+Intangible Assets
+Amortization of acquisition-related intangible assets was $123.8 million, $104.8 million and
+$135.7 million for 2017, 2016 and 2015, respectively. The increase of $19.0 million during 2017 compared to 2016 was primarily associated with the amortization of our intangible assets acquired from the Fairchild acquisition, partially
+offset by the declining amortization of our Aptina intangible assets.
+
+58
+
+Table of Contents
+
+The decrease in amortization of acquisition-related intangible assets during 2016 compared
+to 2015 was attributable to the declining amortization of our Aptina and Truesense intangible assets, partially offset by the amortization of our intangible assets acquired from the Fairchild acquisition.
+
+See Note 4: “Acquisitions, Divestitures and Licensing Transactions” and Note 5: “Goodwill and Intangible Assets” in the
+notes to our audited consolidated financial statements included elsewhere in this Form 10-K for additional information with respect to intangible assets.
+
+Restructuring, asset impairments and other, net
+
+Restructuring, asset impairments and other, net was $20.8 million, $33.2 million and $9.3 million for 2017, 2016 and 2015,
+respectively. The information below summarizes the major activities in each year.
+2017
+
+During 2017, we recorded approximately $20.8 million of net charges related to our restructuring programs, consisting primarily of
+$9.7 million of post-Fairchild acquisition restructuring costs, $2.2 million of the former System Solutions Group voluntary workforce reduction program costs, $7.3 million of asset impairment charges primarily for assets held-for-sale and $3.7 million of other costs, partially offset by a reversal of $2.1 million relating to manufacturing relocation program costs.
+
+2016
+During 2016, we
+recorded approximately $33.2 million of net charges related to our restructuring programs, consisting primarily of $25.7 million of post-Fairchild acquisition restructuring costs, $5.3 million of the former System Solutions Group
+segment voluntary workforce reduction program costs, and $2.1 million of manufacturing relocation program costs.
+2015
+
+During 2015, we recorded approximately $9.3 million of net charges related to our restructuring programs, consisting primarily of
+$3.5 million of employee separation charges from our European marketing organization relocation plan and $4.8 million of general workforce reductions, partially offset by a $3.4 million gain from the sale of assets.
+
+For additional information, see Note 6: “Restructuring, Asset Impairments and Other, Net” in the notes to our audited consolidated
+financial statements included elsewhere in this Form 10-K.
+Intangible Asset Impairment
+
+2017
+During
+2017, we recorded $13.1 million of intangible asset impairment charges consisting of $7.7 million of charges relating to abandoned IPRD projects and $5.4 million relating to the impairment in the value of certain IPRD projects as a
+result of the annual impairment test performed during the fourth quarter of 2017.
+
+59
+
+Table of Contents
+
+2016
+
+During 2016, we canceled certain of our previously capitalized IPRD projects and recorded intangible asset impairment charges of
+$2.2 million.
+2015
+
+During 2015, we canceled certain of our previously capitalized IPRD projects and recorded intangible asset impairment charges of
+$3.8 million.
+See Note 5: “Goodwill and Intangible Assets” in the notes to our audited consolidated financial statements
+included elsewhere in this Form 10-K for additional information.
+Other Income and Expenses
+
+Interest Expense
+
+Interest expense decreased by $4.1 million, or approximately 2.8%, to $141.2 million during 2017 compared to $145.3 million in
+2016, primarily due to the interest rate reduction under our Amended Credit Agreement. Interest expense increased by $95.6 million, or approximately 192%, to $145.3 million during 2016, up from $49.7 million in 2015, primarily due to
+the substantial indebtedness incurred in order to acquire Fairchild. We expect interest expense to remain substantial in future periods as we service the debt we incurred in connection with the Fairchild Transaction. We recorded amortization of debt
+discount to interest expense of $30.8 million, $26.0 million and $17.5 million for 2017, 2016 and 2015, respectively. Our average gross amount of long-term debt balance (including current maturities) during 2017, 2016 and 2015 was
+$3,490.9 million, $2,661.3 million and $1,361.6 million, respectively. Our weighted average interest rate on our gross amount of long-term debt (including current maturities) was approximately 4.0%, 5.5% and 3.7% per annum in 2017,
+2016 and 2015, respectively. See “Liquidity and Capital Resources - Key Financing and Capital Events” below and Note 8: “Long-Term Debt” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for a description of the indebtedness incurred for the Fairchild Transaction and our refinancing activities.
+
+Gain on Divestiture of Business
+
+Gain on divestiture of business was $12.5 million, $92.2 million and zero for 2017, 2016 and 2015, respectively. The information
+below summarizes the major activities in each year.
+2017
+
+Gain on divestiture of business was $12.5 million during 2017. On September 29, 2017, we sold Xsens Holding B.V. to mCube Hong Kong
+Limited (“mCube”) for cash consideration of $26.0 million and recorded a gain of $12.5 million after writing off the carrying value of the assets and liabilities sold of $7.0 million and goodwill of $6.5 million.
+
+2016
+Gain on
+divestiture of business was $92.2 million during 2016. On August 29, 2016, we sold two lines of business for $104.0 million to Littelfuse, Inc., (“Littelfuse”). In connection with the sale, we recorded a gain of
+$92.2 million after, among other things, transferring inventory of $4.1 million to Littelfuse, writing off goodwill of $3.4 million, and deferring $4.3 million of the proceeds to be recognized in the future.
+
+60
+
+Table of Contents
+
+For additional information, see Note 4: “Acquisitions, Divestitures and Licensing
+Transactions” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K.
+
+Loss on Debt Refinancing and Prepayment
+
+2017
+Loss on debt
+refinancing and prepayment increased by $40.9 million from $6.3 million in 2016 to $47.2 million to 2017. The loss relates to the: (1) expensing of $26.2 million of unamortized debt discount and issuance costs attributed to
+the partial pay down of $575.0 million and the repricing of the Term Loan “B” Facility for the Second Amendment (as defined below); (2) expensing of $6.7 million of unamortized debt discount costs attributed to the partial pay
+down of $200.0 million of Term Loan “B” Facility; and (3) expensing of $14.3 million of unamortized debt discount and unamortized issuance costs attributed to the partial pay down of $400.0 million and the repricing of
+Term Loan “B” Facility for the Third Amendment to the Amended Credit Agreement (the “Third Amendment”). See Note 8: “Long-Term Debt” in the notes to our audited consolidated financial statements included elsewhere in
+this Form 10-K.
+2016
+
+Loss on debt refinancing and prepayment increased by $5.9 million from $0.4 million in 2015 to $6.3 million in 2016, due to the
+execution of the First Amendment (as defined below), which resulted in a debt extinguishment charge of $4.7 million, and the termination and replacement of our senior revolving credit facility by the Revolving Credit Facility, which resulted in
+a debt modification and write-off of $1.6 million in unamortized debt issuance costs.
+
+2015
+During 2015, we
+amended our senior revolving credit facility to, among other things, increase the borrowing capacity to $1.0 billion and reset the facility’s five year maturity. As a result of the amendment, we
+wrote-off $0.4 million of existing debt issuance costs associated with the facility.
+
+Other (expense) income
+
+Other income decreased by $7.5 million, from expense of $0.6 million in 2016 to $8.1 million in 2017. Other income decreased by
+$8.3 million, from income of $7.7 million in 2015 to an expense of $0.6 million in 2016. The change from year to year is attributable to fluctuations in foreign currencies against the U.S. dollar for the periods presented, net of the
+impact from our hedging activity and an adjustment to contingent consideration.
+Licensing Income
+
+Licensing income was $47.6 million for 2017 compared to zero for 2016. Approximately $45.1 million was attributable to payments
+received under an asset purchase agreement with HSET Electronic Tech (Hong Kong) Limited in connection with our licensing of certain patents related to the Mobile CIS business. The remaining $2.5 million was received from various other
+licensing agreements. See Note 4: “Acquisitions, Divestitures and Licensing Transactions” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K.
+
+61
+
+Table of Contents
+
+Income Tax (Provision) Benefit
+
+We recorded an income tax benefit of $265.5 million, an income tax benefit of $3.9 million and an income tax provision of
+$10.8 million in 2017, 2016 and 2015, respectively.
+This income tax benefit for the year ended December 31, 2017 consisted
+primarily of the provisional benefit of $449.9 million related to the estimated impact of U.S. tax reform and related effects and a discrete benefit of $13.2 million relating to equity award excess tax benefits. These benefits are offset
+by $186.8 million for income and withholding taxes of certain of our foreign and domestic current year operations and $10.8 million relating to the establishment of additional valuation allowance on certain foreign deferred tax assets.
+
+The income tax benefit for 2016 consisted primarily of the reversal of $359.8 million of our previously established valuation
+allowance against part of our U.S. federal and foreign deferred tax assets and the release of $1.9 million for reserves and interest for uncertain tax positions in foreign taxing jurisdictions which were effectively settled or for which the
+statute lapsed during 2016. This was partially offset by $310.8 million related to the reversal of the prior years’ indefinite reinvestment assertion, $43.5 million for income and withholding taxes of certain of our foreign and
+domestic operations and $3.5 million of new reserves and interest on existing reserves for uncertain tax positions in foreign taxing jurisdictions.
+
+The income tax provision for 2015 consisted of the reversal of $12.1 million of our previously established valuation allowance against
+our foreign deferred tax assets, the release of $4.3 million for reserves and interest for uncertain tax positions in foreign taxing jurisdictions that were effectively settled or for which the statute lapsed during 2015, and a change in tax
+rate that favorably impacted deferred balances by $1.6 million. This is partially offset by $24.4 million for income and withholding taxes of certain of our foreign and domestic operations and $4.4 million of new reserves and interest
+on existing reserves for uncertain tax positions in foreign taxing jurisdictions.
+Our effective tax rate for 2017 was a benefit of 48.5%,
+which differs from the U.S. federal statutory income tax rate of 35% primarily due to U.S. tax reform codified under the Tax Act. Our effective tax rate for 2016 was a benefit of 2.2%, which differs from the U.S. federal
+statutory income tax rate of 35% primarily due to the release of our U.S. and Japan valuation allowances, partially offset by the reversal of the prior years’ indefinite reinvestment assertion. Our effective tax rate for 2015 was a
+provision of 4.9%, which differs from the U.S. federal statutory income tax rate of 35% primarily due to our change in valuation allowance, deemed dividend income from foreign subsidiaries and tax rate differential in our foreign subsidiaries.
+
+We expect our future effective tax rate to more approximate the new U.S. federal statutory rate of 21%. The change in our future effective tax
+rate is not anticipated to have an effect on our cash tax until all of our U.S. federal net operating losses and credits have been utilized.
+
+We continue to maintain a valuation allowance on a portion of our tax credits in foreign jurisdictions and foreign net operating losses, a
+substantial portion of which relate to Japan net operating losses which are projected to expire prior to utilization. In addition, we also maintain a full valuation allowance on our U.S. state deferred tax assets.
+
+For additional information, see Note 15: “Income Taxes” in the notes to the audited consolidated financial statements included
+elsewhere in this Form 10-K.
+
+62
+
+Table of Contents
+
+Liquidity and Capital Resources
+
+This section includes a discussion and analysis of our cash requirements, off-balance sheet
+arrangements, contingencies, sources and uses of cash, operations, working capital and long-term assets and liabilities.
+
+Contractual Obligations
+
+Our principal outstanding contractual obligations relate to our long-term debt, capital leases, operating leases and purchase obligations. The
+following table summarizes our contractual obligations at December 31, 2017 and the effect such obligations are expected to have on our liquidity and cash flow in the future (in millions):
+
+-------------------------------------------------------------------- ---------------------- ------- ---- - ----- ---- - ----- ---- ----- ---- - ----- ---------- - ---- - -------
+ Payments Due by Period
+
+Contractual obligations (1) Total 2018 2019 2020 2021 2022 Thereafter
+Long-term debt, excluding capital leases (2) $ 3,532.9 $ 325.0 $ 121.8 $ 770.3 $ 463.0 $ 52.8 $ 1,800.0
+Capital leases (2) 4.3 3.5 0.8 — — — —
+Operating leases (3) 160.5 33.4 28.6 20.6 16.5 12.4 49.0
+Purchase obligations (3):
+Capital purchase obligations 143.0 126.3 16.7 — — — —
+Inventory and external manufacturing purchase obligations 339.0 246.1 28.7 19.8 19.4 10.5 14.5
+Information technology, communication and mainframe support services 20.0 7.4 7.9 2.5 1.8 0.4 —
+Other 41.4 37.3 2.1 1.1 0.9 — —
+
+Total contractual obligations $ 4,241.1 $ 779.0 $ 206.6 $ 814.3 $ 501.6 $ 76.1 $ 1,863.5
+
+(1) The table above excludes approximately $16.6 million of liabilities related to unrecognized tax benefits because we are unable to reasonably estimate the timing of the settlement of such liabilities.
+
+(2) Includes interest payments at applicable rates as of December 31, 2017.
+
+(3) These represent our off-balance sheet arrangements (See “Liquidity and Capital Resources—Off-Balance Sheet Arrangements” for a description of our off-balance sheet arrangements).
+
+The table also excludes our pension obligations. We expect to make cash contributions to comply with local funding requirements and required
+benefit payments of approximately $16.4 million in 2018. This future payment estimate assumes we continue to meet our statutory funding requirements. The timing and amount of contributions may be impacted by a number of factors, including the
+funded status of the plans. Beyond 2018, the actual amounts required to be contributed are dependent upon, among other things, interest rates, underlying asset returns and the impact of legislative or regulatory actions related to pension funding
+obligations. See Note 11: “Employee Benefit Plans” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for more information on our pension
+obligations.
+Our balance of cash and cash equivalents was $949.2 million as of December 31, 2017. We believe that our cash
+flows from operations, coupled with our existing cash and cash equivalents, will be adequate to fund our operating and capital needs for at least the next 12 months. Total cash and cash equivalents at December 31, 2017 include approximately
+$422.4 million available in the United States. We require a substantial amount of cash in the United States for operating requirements, debt service, debt repayments and acquisitions. While we hold a significant amount of cash, cash equivalents
+and short-term investments outside the United States in various foreign subsidiaries, we have the ability to obtain cash in the United States through distributions from our foreign subsidiaries in order to cover our domestic needs, by utilizing
+existing credit facilities, or through new bank loans or debt obligations.
+
+63
+
+Table of Contents
+
+See Note 8: “Long-Term Debt,” in the notes to our audited consolidated financial
+statements included elsewhere in this Form 10-K for a discussion of our long-term debt. See “Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity
+Securities” included elsewhere in this Form 10-K for a discussion of restrictions on our ability to pay dividends and our stock repurchase activities.
+
+Off-Balance Sheet Arrangements
+
+In the ordinary course of business, we enter into various operating leases for buildings and equipment including our mainframe computer
+system, desktop computers, communications, foundry equipment and service agreements relating to this equipment.
+In the ordinary course of
+business, we provide standby letters of credit or other guarantee instruments to certain parties initiated by either our subsidiaries or us, as required for transactions including, but not limited to: material purchase commitments, agreements to
+mitigate collection risk, leases, utilities or customs guarantees. Our Revolving Credit Facility includes $15.0 million of availability for the issuance of letters of credit. There were $0.4 million letters of credit outstanding under our
+Revolving Credit Facility as of December 31, 2017, which reduces our borrowing capacity. We also had outstanding guarantees and letters of credit outside of our Revolving Credit Facility of $5.7 million at December 31, 2017.
+
+As part of securing financing in the ordinary course of business, we issued guarantees related to certain of our capital lease obligations,
+equipment financing, lines of credit and real estate mortgages, which totaled $120.6 million as of December 31, 2017. We are also a guarantor of SCI LLC’s non-collateralized loan with SMBC,
+which had a balance of $122.7 million as of December 31, 2017, and which was fully repaid on January 2, 2018. See Note 8: “Long-Term Debt” and Note 12: “Commitments and Contingencies” in the notes to our audited
+consolidated financial statements found elsewhere in this Form 10-K for additional information.
+
+Based on historical experience and information currently available, we believe that we will not be required to make payments under the standby
+letters of credit or guarantee arrangements for the foreseeable future.
+For our operating leases, we expect to make cash payments and
+similarly incur expenses totaling $160.5 million as payments come due. We have not recorded any liability in connection with these operating leases, letters of credit and guarantee arrangements. See Note 12: “Commitments and
+Contingencies” in the notes to our audited consolidated financial statements found elsewhere in this Form 10-K for additional information.
+
+Contingencies
+We
+are a party to a variety of agreements entered into in the ordinary course of business pursuant to which we may be obligated to indemnify other parties for certain liabilities that arise out of or relate to the subject matter of the agreements. Some
+of the agreements entered into by us require us to indemnify the other party against losses due to IP infringement, property damage including environmental contamination, personal injury, failure to comply with applicable laws, our negligence or
+willful misconduct, or breach of representations and warranties and covenants related to such matters as title to sold assets.
+We face
+risk of exposure to warranty and product liability claims in the event that our products fail to perform as expected or such failure of our products results, or is alleged to result, in economic damage, bodily injury or property damage. In addition,
+if any of our designed products are alleged to be defective, we may be required to participate in their recall. Depending on the significance of any particular customer and other relevant factors, we may agree to provide more favorable rights to
+such customer for valid defective product claims.
+
+64
+
+Table of Contents
+
+We maintain directors’ and officers’ insurance policies that indemnify our
+directors and officers against various liabilities, including certain liabilities under the Exchange Act, that might be incurred by any director or officer in his or her capacity as such.
+
+The Fairchild Agreement provides for indemnification and insurance rights in favor of Fairchild’s then current and former directors,
+officers and employees. Specifically, the Company has agreed that, for no fewer than six years following the Fairchild acquisition, the Company will: (a) indemnify and hold harmless each such indemnitee against losses and expenses (including
+advancement of attorneys’ fees and expenses) in connection with any proceeding asserted against the indemnified party in connection with such person’s servings as a director, officer, employee or other fiduciary of Fairchild or its
+subsidiaries prior to the effective time of the acquisition; (b) maintain in effect all provisions of the certificate of incorporation or bylaws of Fairchild or any of its subsidiaries or any other agreements of Fairchild or any of its
+subsidiaries with any indemnified party regarding elimination of liability, indemnification of officers, directors and employees and advancement of expenses in existence on the date of the Fairchild Agreement for acts or omissions occurring prior to
+the effective time of the acquisition and; (c) subject to certain qualifications, provide to Fairchild’s then current directors and officers an insurance and indemnification policy that provides coverage for events occurring prior to the
+effective time of the acquisition that is no less favorable than Fairchild’s then-existing policy, or, if insurance coverage that is no less favorable is unavailable, the best available coverage.
+
+While our future obligations under certain agreements may contain limitations on liability for indemnification, other agreements do not
+contain such limitations and under such agreements it is not possible to predict the maximum potential amount of future payments due to the conditional nature of our obligations and the unique facts and circumstances involved in each particular
+agreement. Historically, payments made by us under any of these indemnities have not had a material effect on our business, financial condition, results of operations or cash flows, and we do not believe that any amounts that we may be required to
+pay under these indemnities in the future will be material to our business, financial condition, results of operations or cash flows.
+See
+“Legal Proceedings” and Note 12: “Commitments and Contingencies” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for possible
+contingencies related to legal matters. See also “Business—Government Regulation” for information on certain environmental matters.
+
+Sources and Uses of Cash
+
+We require cash to fund our operating expenses and working capital requirements, including outlays for strategic acquisitions and investments,
+research and development, to make capital expenditures, to repurchase our common stock and other Company securities, and to pay debt service, including principal and interest and capital lease payments. Our principal sources of liquidity are cash on
+hand, cash generated from operations and funds from external borrowings and equity issuances. In the near term, we expect to fund our primary cash requirements through cash generated from operations and cash and cash equivalents on hand. We also
+have the ability to utilize our Revolving Credit Facility.
+As part of our business strategy, we review acquisition and divestiture
+opportunities and proposals on a regular basis. See Note 4: “Acquisitions, Divestitures and Licensing Transactions” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for additional information.
+We believe that the key factors that could affect our internal and
+external sources of cash include:
+
+ • Factors that affect our results of operations and cash flows, including the impact on our business and operations as a result of changes in demand for our products, competitive pricing
+
+65
+
+Table of Contents
+
+ pressures, effective management of our manufacturing capacity, our ability to achieve further reductions in operating expenses, the impact of our restructuring programs on our production and cost efficiency and our ability to make the research and development expenditures required to remain competitive in our business; and
+
+ • Factors that affect our access to bank financing and the debt and equity capital markets that could impair our ability to obtain needed financing on acceptable terms or to respond to business opportunities and developments as they arise, including interest rate fluctuations, macroeconomic conditions, sudden reductions in the general availability of lending from banks or the related increase in cost to obtain bank financing, and our ability to maintain compliance with covenants under our debt agreements in effect from time to time.
+
+Our ability to service our long-term debt, including our 1.625% Notes, 1.00% Notes, Revolving Credit Facility and Term Loan “B”
+Facility, to remain in compliance with the various covenants contained in our debt agreements and to fund working capital, capital expenditures and business development efforts will depend on our ability to generate cash from operating activities,
+which is subject to, among other things, our future operating performance, as well as to general economic, financial, competitive, legislative, regulatory and other conditions, some of which may be beyond our control.
+
+If we fail to generate sufficient cash from operations, we may need to raise additional equity or borrow additional funds to achieve our
+longer term objectives. There can be no assurance that such equity or borrowings will be available or, if available, will be at rates or prices acceptable to us. We believe that cash flow from operating activities coupled with existing cash and cash
+equivalents, short-term investments and existing credit facilities will be adequate to fund our operating and capital needs, as well as enable us to maintain compliance with our various debt agreements, through at least the next 12 months. To the
+extent that results or events differ from our financial projections or business plans, our liquidity may be adversely impacted.
+During
+the ordinary course of business, we evaluate our cash requirements and, if necessary, adjust our expenditures for inventory, operating expenditures and capital expenditures to reflect the current market conditions and our projected sales and demand.
+Our capital expenditures are primarily directed toward production equipment and capacity expansion. Our capital expenditure levels can materially influence our available cash for other initiatives. During 2017, we paid $387.5 million for
+capital expenditures, while in 2016 we paid $210.7 million. Capital expenditure levels can materially influence our available cash for other initiatives. Our capital expenditures have historically been approximately 6% to 7% of annual revenues
+and we expect to continue to incur capital expenditures to support our business activities. Future capital expenditures may be impacted by events and transactions that are not currently forecasted.
+
+On November 30, 2017, we, certain of our domestic subsidiaries (the “Guarantors”), the several lenders party thereto and the
+Agent entered into the Third Amendment. The Third Amendment provides for, among other things, modifications to the Amended Credit Agreement to reduce the interest rate payable under the Term Loan “B” Facility and to increase the amount
+that may be borrowed pursuant to the Revolving Credit Facility to $1.0 billion. In connection with the Third Amendment, the Company prepaid $400.0 million of borrowings under the Term Loan “B” Facility, bringing the outstanding
+borrowings under the Term Loan “B” Facility to approximately $1.2 billion as of the date of the Third Amendment. We had $400 million of borrowings outstanding under the Revolving Credit Facility as of the date of the Third
+Amendment.
+On March 31, 2017, we and the Guarantors entered into the Second Amendment (the “Second Amendment”) to the
+Amended Credit Agreement. The Second Amendment provides for, among other things, modifications to the
+
+66
+
+Table of Contents
+
+Amended Credit Agreement to allow the Notes to rank pari passu with borrowings under the Amended Credit Agreement and to reduce the interest rates payable under the Term Loan “B”
+Facility and the Revolving Credit Facility.
+On March 31, 2017, we completed the private unregistered offering of $575.0 million
+aggregate principal amount of the 1.625% Notes, which amount includes the full exercise of the initial purchasers’ option to purchase additional 1.625% Notes. The net proceeds from the offering of the 1.625% Notes were used to repay
+$562.1 million of borrowings outstanding under the Term Loan “B” Facility.
+On April 15, 2016, we entered into two new
+financing arrangements to secure funds for the purchase consideration of Fairchild among certain other items, including a $2.2 billion Term Loan “B” Facility, with the proceeds deposited into escrow accounts and used to finance the
+transaction, which occurred on September 19, 2016. On September 30, 2016, we amended the financing arrangements and increased the Term Loan “B” Facility by $200.0 million. The associated interest expense related to
+our Term Loan “B” Facility has had, and will continue to have, a material impact on our results of operations throughout the term of the Amended Credit Agreement.
+
+During the year ended December 31, 2015, we issued $690.0 million of our 1.00% Notes and used a portion of the proceeds to pay down
+amounts previously drawn on our senior revolving credit facility. We also increased the borrowing capacity of our senior revolving credit facility from $800.0 million to $1.0 billion and reset the five-year maturity. See Note 8:
+“Long-Term Debt” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for additional information.
+
+Cash Management
+
+Our ability to manage cash is limited, as our primary cash inflows and outflows are dictated by the terms of our sales and supply agreements,
+contractual obligations, debt instruments and legal and regulatory requirements. While we have some flexibility with respect to the timing of capital equipment purchases, we must invest in capital equipment on a timely basis to allow us to maintain
+our manufacturing efficiency and support our platforms of new products.
+Primary Cash Flow Sources
+
+Our long-term cash generation is dependent on the ability of our operations to generate cash. Our cash flows from operating activities were
+$1,094.2 million, $581.2 million, and $470.6 million for the years ended December 31, 2017, 2016 and 2015, respectively.
+
+Our cash flows provided by operating activities for the year ended December 31, 2017, which includes a full year of Fairchild, increased
+by approximately $513.0 million, or approximately 88.3%, compared to the year ended December 31, 2016. The increase was primarily attributable to better results of operations. Our ability to maintain positive operating cash flows is
+dependent on, among other factors, our success in achieving our revenue goals and manufacturing and operating cost targets.
+Our
+management of our assets and liabilities, including both working capital and long-term assets and liabilities, also influences our operating cash flows, and each of these components is discussed below.
+
+67
+
+Table of Contents
+
+Working Capital
+
+Working capital, calculated as total current assets less total current liabilities, fluctuates depending on
+end-market demand and our effective management of certain items such as receivables, inventory and payables. In times of escalating demand, our working capital requirements may be affected as we purchase
+additional manufacturing materials and increase production. Our working capital may also be affected by restructuring programs, which may require us to use cash for severance payments, asset transfers and contract termination costs. In addition, our
+working capital may be affected by acquisitions and transactions involving our convertible notes and other debt instruments. Our working capital, excluding cash and cash equivalents and short-term investments, was $575.1 million as of
+December 31, 2017 and has fluctuated between $338.1 million and $668.2 million at the end of each of our last six fiscal quarters. Our working capital, including cash and cash equivalents and short-term investments, was
+$1,524.3 million as of December 31, 2017 and has fluctuated between $1,304.5 million and $1,524.3 million at the end of each of our last six fiscal quarters.
+
+Although investments made to fund working capital will reduce our cash balances, these investments are necessary to support business and
+operating initiatives. For the year ended December 31, 2017, our working capital was most significantly impacted by our capital expenditures and our repayment of long-term debt, including capital leases. See Note 8: “Long-Term Debt”
+and Note 9: “Earnings Per Share and Equity” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for additional information.
+
+Long-Term Assets and Liabilities
+
+Our long-term assets consist primarily of property, plant and equipment, intangible assets, deferred taxes and goodwill.
+
+Our manufacturing rationalization plans have included efforts to utilize our existing manufacturing assets and supply arrangements more
+efficiently. We believe that near-term access to additional manufacturing capacity, should it be required, could be readily obtained on reasonable terms through manufacturing agreements with third parties. We will continue to look for opportunities
+to make strategic purchases in the future for additional capacity.
+Our long-term liabilities, excluding long-term debt and deferred
+taxes, consist of liabilities under our foreign defined benefit pension plans and contingent tax reserves. In regard to our foreign defined benefit pension plans, generally, our annual funding of these obligations is equal to the minimum amount
+legally required in each jurisdiction in which the plans operate. This annual amount is dependent upon numerous actuarial assumptions. For additional information, see Note 11: “Employee Benefit Plans” and Note 15: “Income Taxes”
+in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K.
+
+Key Financing and Capital Events
+
+Overview
+For the
+past several years, we have undertaken various measures to secure liquidity to pursue acquisitions, repurchase shares of our common stock, reduce interest costs, amend existing key financing arrangements and, in some cases, extend a portion of our
+debt maturities to continue to provide us additional operating flexibility. Certain of these measures continued in 2017. Set forth below is a summary of certain key financing events
+
+68
+
+Table of Contents
+
+affecting our capital structure during the last three years. For further discussion of our debt instruments, see Note 8: “Long-Term Debt” and for further discussion on share
+repurchase program, see Note 9: “Earnings Per Share and Equity” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K.
+
+Recent Events
+
+2017 Financing Events
+
+Amendments to the Credit Agreement
+
+On April 15, 2016, we entered into the Amended Credit Agreement. On March 31, 2017, we entered into the Second Amendment to the
+Amended Credit Agreement. The Second Amendment provided for, among other things, modifications to the Amended Credit Agreement to allow the 1.625% Notes to rank pari passu with borrowings under the Amended Credit Agreement and to reduce the interest
+rates payable under the Term Loan “B” Facility and the Revolving Credit Facility. For any interest period ending after the date of the Second Amendment, the Second Amendment reduced the applicable margins on borrowings under the Amended
+Credit Agreement incurred as eurocurrency loans (“Eurocurrency Loans”) to 1.75% and 2.25% for borrowings under the Revolving Credit Facility and the Term Loan “B” Facility, respectively, and reduced applicable margins on
+borrowings under the Amended Credit Agreement incurred as alternate base rate loans (“ABR Loans”) to 0.75% and 1.25% for borrowings under the Revolving Credit Facility and the Term Loan “B” Facility, respectively. For further
+discussion of the Amended Credit Agreement, see “2016 Financing Events—Amended Credit Agreement.”
+During the quarter ended
+June 30, 2017, we repaid in full the $120.0 million outstanding under the Revolving Credit Facility. During the quarter ended September 29, 2017, we prepaid $200.0 million of borrowings under the Term Loan “B” Facility.
+
+On November 30, 2017, we entered into the Third Amendment to the Amended Credit Agreement. The Third Amendment provided for, among
+other things, modifications to the Amended Credit Agreement to reduce the interest rate payable under the Term Loan “B” Facility and to increase the amount that may be borrowed pursuant to the Revolving Credit Facility to
+$1.0 billion. For any interest period ending after the date of the Third Amendment, the Third Amendment reduced the applicable margins on Eurocurrency Loans to 2.00% for borrowings under the Term Loan “B” Facility, and reduced
+applicable margins on ABR Loans to 1.00% for borrowings under the Term Loan “B” Facility. In connection with the Third Amendment, we prepaid $400.0 million of borrowings under the Term Loan “B” Facility, bringing the
+outstanding borrowings under the Term Loan “B” Facility to approximately $1.2 billion as of the date of the Third Amendment. We had $400.0 million of borrowings outstanding under the Revolving Credit Facility as of the date of
+the Third Amendment.
+Issuance of 1.625% Notes
+
+On March 31, 2017, we completed a private placement of $575.0 million of our 1.625% Notes to qualified institutional buyers pursuant
+to Rule 144A under the Securities Act. The 1.625% Notes are governed by an indenture (the “1.625% Indenture”) between the Company, the guarantors party thereto, and Wells Fargo Bank, National Association, as trustee. The net proceeds from
+the offering of the 1.625% Notes were used to repay $562.1 million of borrowings outstanding under the Term Loan “B” Facility. The 1.625% Notes bear interest at the rate of 1.625% per year from the date of issuance, payable
+semiannually in arrears on April 15 and
+
+69
+
+Table of Contents
+
+October 15 of each year, beginning on October 15, 2017. The 1.625% Notes are fully and unconditionally guaranteed, on a joint and several basis, by each of our subsidiaries that is a
+borrower or guarantor under our Amended Credit Agreement.
+Share Repurchase Program
+
+We repurchased approximately 1.6 million shares of our common stock for an aggregate purchase price of $25.0 million in connection with the
+offering of the 1.625% Notes during the year ended December 31, 2017.
+2016 Financing Events
+
+Redemption of 2.625% Notes, Series B
+
+On November 17, 2016, we announced that we would be exercising our option to redeem the entire $356.9 million outstanding principal
+amount of the 2.625% Notes, Series B, on December 20, 2016 pursuant to the terms of the indenture governing the 2.625% Notes, Series B (the “2.625% Notes, Series B Indenture”). The holders of the 2.625% Notes, Series B, had the right
+to convert their 2.625% Notes, Series B, into shares of common stock of the Company at a conversion rate of 95.2381 shares per $1,000 principal amount until the close of business on December 19, 2016. We satisfied our conversion obligation with
+respect to the 2.625% Notes, Series B, tendered for conversion with cash. The final conversion was settled on January 26, 2017, resulting in an aggregate payment of approximately $445.0 million for the redemption and conversion of the
+2.625% Notes, Series B.
+Amended Credit Agreement
+
+On April 15, 2016, we entered into: (1) the Amended Credit Agreement; and (2) a Guarantee and Collateral Agreement (the
+“Guarantee and Collateral Agreement”) with the Guarantors, pursuant to which the Amended Credit Agreement are guaranteed by the Guarantors and secured by a pledge of substantially all of the assets of the Company and the Guarantors,
+including a pledge of the equity interests in certain of the Company’s domestic and first-tier foreign subsidiaries, subject to customary exceptions. The obligations under the Amended Credit Agreement are also secured by mortgages on certain
+real property assets of the Company and its domestic subsidiaries. Subject to the terms and conditions of the Amended Credit Agreement, on April 15, 2016, we borrowed an aggregate of $2.2 billion under the Term Loan “B” Facility
+(the “Gross Proceeds”).
+On April 15, 2016, the Gross Proceeds, along with certain other amounts funded by the Company,
+were deposited into escrow accounts pursuant to the terms of an escrow agreement and, upon release from escrow, in accordance with the terms of the escrow agreement, were available primarily to pay, directly or indirectly, the purchase price of
+the Fairchild Transaction pursuant to the terms of the Fairchild Agreement and certain other items, subject to the terms and conditions of the Amended Credit Agreement.
+
+On September 19, 2016, the Company completed the acquisition and acquired 100% of Fairchild, whereby Fairchild became a wholly-owned
+subsidiary of the Company. The Company funded the acquisition with the Term Loan “B” Facility proceeds and Company funded amounts previously deposited into escrow accounts, proceeds from a $200.0 million draw against the
+Company’s Revolving Credit Facility, and existing cash on hand. Proceeds from the Term Loan “B” Facility were also used to pay for debt issuance costs, transaction fees and expenses.
+
+On September 30, 2016, the Company entered into the First Amendment to the Amended Credit Agreement. The First Amendment reduced the
+applicable margins on Eurocurrency Loans to 2.75% and 3.25% for borrowings
+
+70
+
+Table of Contents
+
+under the Revolving Credit Facility and the Term Loan “B” Facility, respectively, and reduced applicable margins on ABR Loans to 1.75% and 2.25% for borrowings under the Revolving
+Credit Facility and the Term Loan “B” Facility, respectively. Additionally, the First Amendment included the following: (i) the Term Loan “B” Facility was increased to $2.4 billion; (ii) certain
+restructuring transactions and intercompany intellectual property transfers are permitted in order to achieve efficient integration of the Company, its subsidiaries and acquired entities; and (iii) certain changes were made to the provisions
+regarding hedge agreements to allow the Company and each of the guarantors to enter into certain hedge arrangements. The Company used the additional $200.0 million proceeds under the Term Loan “B” Facility to pay off the
+Company’s $200.0 million outstanding balance under the Revolving Credit Facility.
+Share Repurchase Program
+
+We did not repurchase shares pursuant to our share repurchase program during the year ended December 31, 2016, as we focused on the funding
+required for the Fairchild Transaction.
+2015 Financing Events
+
+Issuance of 1.00% Notes
+
+During the second quarter of 2015, we completed a private unregistered offering for an aggregate principal amount of $690.0 million of
+our 1.00% Notes. The 1.00% Notes mature on December 1, 2020, unless earlier purchased or converted. We concurrently entered into convertible note hedge and warrant transactions with certain institutional counterparties. A portion of the
+proceeds from the offering were used to finance the hedge and warrant transactions associated with the issuance of the 1.00% Notes, to pay down the senior revolving credit facility and to repurchase $70.0 million of our common stock. The
+issuance was a private placement made pursuant to Rule 144A under the Securities Act.
+Amended Senior Revolving Credit Facility
+
+During the second quarter of 2015, we amended our $800.0 million senior revolving credit facility to, among other things,
+increase the borrowing capacity to $1.0 billion and reset the five year maturity. We also amended the terms of the related Amended and Restated Credit Agreement. The facility includes $15.0 million of availability for the issuance of
+letters of credit, $15.0 million of availability for swingline loans for short-term borrowings and a foreign currency sublimit of $75.0 million. The facility may be used for general corporate purposes, including working capital, stock
+repurchase, and/or acquisitions.
+Share Repurchase Program
+
+During the year ended December 31, 2015, we purchased approximately 30.4 million shares of our common stock pursuant to our share
+repurchase program for an aggregate purchase price of approximately $347.8 million, exclusive of fees, commissions and other expenses, at a weighted-average execution price of $11.46 per share. See “Market for Registrant’s Common
+Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities” for additional information.
+Debt Guarantees and
+Related Covenants
+As of December 31, 2017, we were in compliance with the indentures relating to our 1.00% Notes and 1.625%
+Notes and with covenants relating to our Term Loan “B” Facility, Revolving Credit Facility and our other debt
+
+71
+
+Table of Contents
+
+agreements. Our 1.00% Notes are senior to the existing and future subordinated indebtedness of ON Semiconductor and its guarantor subsidiaries. Our 1.625% Notes rank equally in right of payment
+to all of our existing and future senior debt and are subordinated to all of our existing and future secured debt. See Note 8: “Long-Term Debt” in the notes to our audited consolidated financial statements included elsewhere in this
+Form 10-K for additional information.
+Critical Accounting Policies and Estimates
+
+The accompanying discussion and analysis of our financial condition and results of operations is based upon our audited
+consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. We believe certain of our accounting policies are critical to understanding our financial position and
+results of operations. We utilize the following critical accounting policies in the preparation of our financial statements.
+Use of
+Estimates.    The preparation of financial statements in accordance with GAAP requires us to make estimates and assumptions that affect the reported amount of assets and liabilities at the date of the financial statements
+and the reported amount of revenues and expenses during the reporting period. We evaluate these estimates and judgments on an ongoing basis and base our estimates on experience, current and expected future conditions, third-party evaluations and
+various other assumptions that we believe are reasonable under the circumstances. Significant estimates have been used by management in conjunction with the following: (i) estimates of future payouts for customer incentives and estimates of
+amounts subject to allowances, returns and warranties; (ii) measurement of valuation allowances relating to inventories and trade receivables; (iii) future cash flows used to assess and test for impairment of goodwill and indefinite-lived
+intangible assets and long-lived assets, if applicable; (iv) assumptions surrounding future pension obligations; (v) fair values of share-based compensation and of financial instruments (including derivative financial instruments);
+(vi) measurement of valuation allowances against deferred tax assets, evaluations of uncertain tax positions, and the impact of the U.S. tax reform; and (vii) estimates and assumptions used in connection with business combinations. Actual
+results may differ from these estimates.
+Revenue.    We generate revenues from sales of our
+semiconductor products to OEMs, electronic manufacturing service providers and distributors. We also generate revenue, to a much lesser extent, from manufacturing and design services provided to customers. Revenue is recognized when persuasive
+evidence of an arrangement exists, title and risk of loss pass to the customer (generally upon shipment), the price is fixed or determinable and collectability is reasonably assured. Revenues are recorded net of provisions for related sales returns
+and allowances.
+Prior to the first quarter of 2017, for products sold to distributors who are entitled to ship and credit rights, we
+recognized the related revenues and cost of revenues when we were informed by the distributor that it had resold the products to the end-user. This was due to our inability to reliably estimate up front the
+effects of the returns and allowances with these distributors for sales originating through the ON Semiconductor systems and processes. Legacy systems and processes of Fairchild enable us to estimate up front the effects of returns and allowances
+provided to these distributors and thereby record the net revenues at the time of sale related to a legacy Fairchild system and process. We acquired Fairchild on September 19, 2016.
+
+When we adopt ASU 2014-09, ASU 2015-14, ASU 2016-08, ASU 2016-10, ASU 2016-12 and ASU 2016-20 (see Note 3: “Recent Accounting
+Pronouncements”), one of the more significant impacts would be that we would not be permitted to defer revenue until sale by the distributor to the end customer, but rather, would be required to estimate the effects of returns and allowances
+provided to certain distributors and record revenue at the time of
+
+72
+
+Table of Contents
+
+sale to the distributor. In anticipation of the adoption of the new standards, we had developed our internal systems, processes and controls for making the required estimates on the sales to
+these distributors. As a result of these process changes, during the first quarter of 2017, we were able to reliably estimate upfront the effects of returns and allowances and record revenues at the time of sales to these distributors. As a
+result of this change, we recognized $155.1 million in revenue during the first quarter of 2017. The impact of this change resulted in an increase of $59.0 million to income before income taxes, or $0.09 per basic and diluted share, for
+the year ended December 31, 2017. Additionally, we recorded accruals for the estimated returns from the distributors, which decreased revenues by $8.1 million and income before income taxes by $5.3 million for the year ended
+December 31, 2017.
+Although payment terms vary, most distributor agreements require payment within 30 days. Sales returns and
+allowances are estimated based on historical experience. Our OEM customers do not have the right to return products, other than pursuant to the provisions of our standard warranty. Sales to distributors, however, are typically made pursuant to
+agreements that provide return rights with respect to discontinued or slow-moving products. Provisions for discounts and rebates to customers, estimated returns and allowances, and other adjustments are provided for in the same period the related
+revenues are recognized, and are netted against revenues. We review warranty and related claims activities and records provisions, as necessary.
+
+Freight and handling costs are included in cost of revenues and are recognized as period expense when incurred. Taxes assessed by government
+authorities on revenue-producing transactions, including value-added and excise taxes, are presented on a net basis (excluded from revenues) in the statement of operations.
+
+Inventories.    We carry our inventories at the lower of standard cost (which approximates actual
+cost on a first-in, first-out basis) or net realizable value and record provisions for potential excess and obsolete inventories based upon a regular analysis of
+inventory on hand compared to historical and projected end-user demand. These provisions can influence our results from operations. For example, when demand falls for a given part, all or a portion of the
+related inventory that is considered to be in excess of anticipated demand is reserved, impacting our cost of revenues and gross profit. If demand recovers and the parts previously reserved are sold, we will generally recognize a higher than normal
+margin. However, the majority of product inventory that has been previously reserved is ultimately discarded. Although we do sell some products that have previously been written down, such sales have historically been relatively consistent on a
+quarterly basis and the related impact on our margins has not been material.
+Impairment of Long-Lived
+Assets.    We evaluate the recoverability of the carrying amount of our property, plant and equipment and intangible assets (excluding IPRD), whenever events or changes in circumstances indicate that the carrying
+amount of an asset group may not be fully recoverable. Impairment is first assessed when the undiscounted expected cash flows derived for an asset group are less than its carrying amount. Impairment losses, if applicable, are measured as the amount
+by which the carrying value of an asset group exceeds its fair value and are recognized in operating results. We continually apply our best judgment when applying these impairment rules to determine the timing of the impairment test, the
+undiscounted cash flows used to assess impairments and the fair value of an impaired asset group. The dynamic economic environment in which we operate and the resulting assumptions used to estimate future cash flows impact the outcome of our
+impairment tests. In recent years, most of our asset groups that have been impaired consist of assets that were ultimately abandoned, sold or otherwise disposed of due to cost reduction activities and the consolidation of our manufacturing
+facilities. In some instances, these assets have subsequently been sold for amounts higher than their impaired value with related gains recorded in the restructuring, asset impairment and other, net line item in our consolidated statement of
+operations and disclosed in the footnotes to the financial statements.
+
+73
+
+Table of Contents
+
+IPRD.    We are required to test our IPRD assets for
+impairment annually using the guidance for indefinite-lived intangible assets. An IPRD asset is considered to be impaired when the asset’s carrying amount is greater than its fair value. Our impairment evaluation consists of first assessing
+qualitative factors to determine whether events and circumstances indicate that it is more likely than not that the IPRD asset is impaired. If it is more likely than not that the asset is impaired, we calculate the fair value of the IPRD asset and
+record an impairment charge if the carrying amount exceeds fair value. We determine the fair value based on an income approach, which is calculated as the present value of the estimated future cash flows of the IPRD asset. The assumptions about
+estimated cash flows include factors such as future revenues, gross profits, operating expenses, and industry trends. We can bypass the qualitative assessment for any asset in any period and proceed directly to the quantitative impairment test.
+
+Goodwill.    We evaluate our goodwill for potential impairment annually during the fourth quarter and
+whenever events or changes in circumstances indicate the carrying value of goodwill may not be recoverable. Our divisions, which are components of our operating segments, constitute reporting units for purposes of allocating and testing goodwill.
+Our divisions are one level below the operating segments, constituting individual businesses, at which level our segment management conducts regular reviews of the operating results. Our impairment evaluation of goodwill consists of a qualitative
+assessment to determine if it is more likely than not that the fair value of a reporting unit exceeds its carrying amount. If this qualitative assessment indicates it is more likely than not the estimated fair value of a reporting unit exceeds its
+carrying value, no further analysis is required and goodwill is not impaired. Otherwise, we perform a quantitative goodwill impairment test to determine if goodwill is impaired. The quantitative test compares the fair value of a reporting unit with
+its carrying amount, including goodwill.
+If the fair value of the reporting unit exceeds the carrying value of the net assets associated
+with that unit, goodwill is not considered impaired. If the carrying value of the net assets associated with the reporting unit exceeds the fair value of the reporting unit, goodwill is considered impaired and will be determined as the amount by
+which the reporting units carrying value exceeds its fair value, not to exceed the carrying amount of goodwill. Determining the fair value of our reporting units is subjective in nature and involves the use of significant estimates and assumptions,
+including projected net cash flows, discount and long-term growth rates. We determine the fair value of our reporting units based on an income approach, whereby the fair value of the reporting unit is derived from the present value of estimated
+future cash flows. The assumptions about estimated cash flows include factors such as future revenues, gross profits, operating expenses, and industry trends. We consider historical rates and current market conditions when determining the discount
+and long-term growth rates to use in its analysis. We consider other valuation methods, such as the cost approach or market approach, if it is determined that these methods provide a more representative approximation of fair value. Changes in these
+estimates based on evolving economic conditions or business strategies could result in material impairment charges in future periods. We base our fair value estimates on assumptions we believe to be reasonable. Actual results may differ from those
+estimates.
+Our next annual test for impairment is expected to be performed on the first day of the fourth quarter of 2018; however,
+identification of a triggering event may result in the need for earlier reassessments of the recoverability of our goodwill and may result in material impairment charges in future periods.
+
+Defined Benefit Pension Plans and Related Benefits.    We maintain defined benefit pension plans
+covering certain of our non-U.S. employees. For financial reporting purposes, net periodic pension costs and pension obligations are determined based upon a number of actuarial assumptions, including discount
+rates for plan obligations, assumed rates of return on pension plan assets and assumed rates of compensation increase for employees participating in the plans. These assumptions are based upon management’s judgment and
+
+74
+
+Table of Contents
+
+consultation with actuaries, considering all known trends and uncertainties. Actual results that differ from these assumptions impact the expense recognition and cash funding requirements of our
+pension plans. As of December 31, 2017, a 20 basis point change in the discount rates utilized to determine our continuing foreign pension liabilities and expenses would have impacted our results by approximately $8.3 million.
+
+Contingencies.    We are involved in a variety of legal matters that arise in the normal course of
+business. Based on the available information, we evaluate the relevant range and likelihood of potential outcomes and we record the appropriate liability when the amount is deemed probable and reasonably estimable.
+
+Income Taxes.    Income taxes are accounted for using the asset and liability method. Under this method,
+deferred income tax assets and liabilities are recognized for the future tax consequences attributable to temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases.
+Deferred income tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which these temporary differences are expected to be recovered or settled. The effect on deferred tax assets and
+liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. A valuation allowance is provided for those deferred tax assets for which we cannot conclude that it is more likely than not that such
+deferred tax assets will be realized.
+In determining the amount of the valuation allowance, estimated future taxable income, as well as
+feasible tax planning strategies for each taxing jurisdiction, are considered. If we determine it is more likely than not that all or a portion of the remaining deferred tax assets will not be realized, the valuation allowance will be increased with
+a charge to income tax expense. Conversely, if we determine it is more likely than not to be able to utilize all or a portion of the deferred tax assets for which a valuation allowance has been provided, the related portion of the valuation
+allowance will be recorded as a reduction to income tax expense.
+We recognize and measure benefits for uncertain tax positions using a two-step approach. The first step is to evaluate the tax position taken or expected to be taken in a tax return by determining if the weight of available evidence indicates that is it more likely than not that the
+tax positions will be sustained upon audit, including resolution of any related appeals or litigation processes. For tax positions that are more likely than not to be sustained upon audit, the second step is to measure the tax benefit as the largest
+amount that is more than 50% likely to be realized upon settlement. Our practice is to recognize interest and/or penalties related to income tax matters in income tax expense. Significant judgment is required to evaluate uncertain tax positions.
+Evaluations are based upon a number of factors, including changes in facts or circumstances, changes in tax law, correspondence with tax authorities during the course of tax audits and effective settlement of audit issues. Changes in the recognition
+or measurement of uncertain tax positions could result in material increases or decreases in income tax expense in the period in which the change is made, which could have a material impact to our effective tax rate. See Note 15: “Income
+Taxes” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K for additional information. See also “Management’s Discussion and Analysis - Results of
+Operations - Income Tax Provision (Benefit)” for additional information.
+For a further listing and discussion of our accounting
+policies, see Note 2: “Significant Accounting Policies” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K.
+
+Recent Accounting Pronouncements
+
+For a discussion of recent accounting pronouncements, see Note 3: “Recent Accounting Pronouncements” in the notes to our audited
+consolidated financial statements included elsewhere in this Form 10-K.
+
+75
+
+Table of Contents
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 4]:
+(4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES and Neff acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 5 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, (benefit) provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company...
+
+[see Note 4]:
+(4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES and Neff acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 5 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, (benefit) provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company...
+
+[See Note 4]:
+(4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES and Neff acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 5 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, (benefit) provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company...
+
+[see Note 6]:
+(6) Interest rate swaps, settled upon the issuance of these notes in 2017, effectively set the interest rate on the $750 million notes at a weighted-average fixed rate of 3.44%. Maturities of long-term debt during the fiscal years subsequent to November 30, 2018 are as follows (in millions): ---------- ------- ---- 2019 $ 77.1 2020 576.8 2021 326.8 2022 1,182.6 Thereafter 2,317.0 The consideration for our acquisition of RB Foods on August 17, 2017 totaled approximately $4.2 billion in cash (see note 2) and was funded with (a) borrowings under McCormick's $1.5 billion Term Loan Agreement described below; (b) amounts received from the offering of $2.5 billion aggregate principal amount of McCormick's senior unsecured notes described below; and (c) amounts received from the offering of McCormick's common stock non-voting, which closed on August 11, 2017 (see note 13). In connection with our entry into the agreement to acquire RB Foods, we entered into a commitment letter, dated July 18, 2017 (the "Commitment Letter"), under which certain banks agreed to provide a senior unsecured 364-day bridge loan facility (the "Bridge Facility") of up to $4.2 billion in the aggregate. On August 7, 2017, we entered into a Senior Unsecured Bridge Credit Agreement with certain financial institutions under which those financial institutions agreed to provide a senior unsecured 364-day bridge loan facility (the "Bridge Facility") for the purpose of providing the financing necessary to fund all or a portion of the consideration to be paid pursuant to the terms of the agreement related to the acquisition of RB Foods and related fees and expenses (the "Bridge Loan Commitment"). The Bridge Facility provided that the Bridge Loan Commitment would be reduced in equivalent amounts upon any incurrence by McCormick of, among other things, term loans and/or the issuance of equity or notes in a public offering or private placement prior to the consummation of the transaction, subject to certain exce...
+
+[See Note 5]:
+NOTE 5. DERIVATIVES AND HEDGING ACTIVITIES Hedge Accounting and Hedging Programs We recognize derivative instruments and hedging activities as either assets or liabilities in our Consolidated Balance Sheets and measure them at fair value. Gains and losses resulting from changes in fair value are accounted for depending on the use of the derivative and whether it is designated and qualifies for hedge accounting. We evaluate hedge effectiveness at the inception of the hedge prospectively as well as retrospectively, and record any ineffective portion of the hedging instruments in interest and other income (expense), net on our Consolidated Statements of Income. The net gain (loss) recognized in interest and other income (expense), net for cash flow hedges due to hedge ineffectiveness was insignificant for all fiscal years presented. The time value of purchased contracts is recorded in interest and other income (expense), net in our Consolidated Statements of Income. The bank counterparties to these contracts expose us to credit-related losses in the event of their nonperformance which are largely mitigated with collateral security agreements that provide for collateral to be received or posted when the net fair value of certain financial instruments fluctuates from contractually established thresholds. In addition, we enter into master netting arrangements which have the ability to further limit credit-related losses with the same counterparty by permitting net settlement of transactions. Balance Sheet Hedging--Hedges of Foreign Currency Assets and Liabilities We also hedge our net recognized foreign currency denominated assets and liabilities with foreign exchange forward contracts to reduce the risk that the value of these assets and liabilities will be adversely affected by changes in exchange rates. These contracts hedge assets and liabilities that are denominated in foreign currencies and are carried at fair value with changes in the fair value recorded to interest...
+
+[see Note 4]:
+(4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES and Neff acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 5 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, (benefit) provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company...
+
+[See Note 8]:
+Note 8. Long-term Debt In May 2016, we entered into a $2.0 billion senior unsecured revolving credit facility, and any amounts outstanding under this facility will be due and payable on May 20, 2021. As of December 31, 2017, no amounts had been drawn down and we were in compliance with the covenants under the facility. ------- -----------------------------
+
+[See Note 4]:
+(4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES and Neff acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 5 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, (benefit) provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company...
+
+[see Note 15]:
+NOTE 15. DEBT Our long-term debt as of December 1, 2017 and December 2, 2016 consisted of the following (in thousands): -------------------------------- --------- --------- ---- --------- - --------- 2017 2016 Notes $ 1,882,479 $ 1,879,083 Fair value of interest rate swap (1,058 ) 13,117 Adjusted carrying value of Notes 1,881,421 1,892,200 Senior Notes In February 2010, we issued $900 million of 4.75% senior notes due February 1, 2020 (the "2020 Notes"). Our proceeds were $900 million and were net of an issuance discount of $5.5 million. In addition, we incurred issuance costs of $6.4 million. Both the discount and issuance costs are being amortized to interest expense over the term of the 2020 Notes using the effective interest method. The 2020 Notes rank equally with our other unsecured and unsubordinated indebtedness. The effective interest rate including the discount and issuance costs was 4.92% . Interest is payable semi-annually, in arrears, on February 1 and August 1, and commenced on August 1, 2010. In June 2014, we entered into interest rate swaps with a total notional amount of $900 million designated as a fair value hedge related to our 2020 Notes. The interest rate swaps effectively convert the fixed interest rate on our 2020 Notes to a floating interest rate based on LIBOR. Under the terms of the swap, we will pay monthly interest at the one-month LIBOR interest rate plus a fixed number of basis points on the $900 million notional amount. In exchange, we will receive 4.75% fixed rate interest from the swap counterparties. See Note 5 for further details regarding our interest rate swap derivatives. 92  ADOBE SYSTEMS INCORPORATED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) In January 2015, we issued $1 billion of 3.25% senior notes due February 1, 2025 (the "2025 Notes"). Our proceeds were approximately $989.3 million which is net of an issuance discount of $10.7 million. In addition, we incurred issuance costs of $7.9 million. Both the discoun...
+
+[See Note 11]:
+(11) Filed with Form 10-K for the year ended December 31, 2016 on February 6, 2017 and incorporated herein by reference. # Filed electronically with the Report. 157
+
+[See Note 8]:
+Note 8. Long-term Debt In May 2016, we entered into a $2.0 billion senior unsecured revolving credit facility, and any amounts outstanding under this facility will be due and payable on May 20, 2021. As of December 31, 2017, no amounts had been drawn down and we were in compliance with the covenants under the facility. ------- -----------------------------
+
+[See Note 8]:
+Note 8. Long-term Debt In May 2016, we entered into a $2.0 billion senior unsecured revolving credit facility, and any amounts outstanding under this facility will be due and payable on May 20, 2021. As of December 31, 2017, no amounts had been drawn down and we were in compliance with the covenants under the facility. ------- -----------------------------
+
+[See Note 12]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, CSX and Norfolk Southern Corporation ("NS") jointly own Conrail. CSX has a 42% economic interest and 50% voting interest in the jointly-owned entity, and NS has the remainder of the economic and voting interests. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service charges in the shared asset area. These expenses are included in materials, supplies and other on the consolidated income statements. Future minimum lease payments due to Conrail under the shared asset area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2018 $ 27 2019 27 2020 27 2021 27 2022 27 Thereafter 48 Total $ 183 Also, included in equity earnings of affiliates are CSX's 42 percent share of Conrail's income and its amortization of the fair value write-up arising from the acquisition of Conrail and certain other adjustments. The amortization primarily represents the additional after-tax depreciation expense related to the write-up of Conrail's fixed assets when the original purchase price, from the 1997 acquisition of Conrail, was allocated based on fair value. This write-up of fixed assets resulted in a difference between CSX's investment in Conrail and its share of Conrail's underlying net equity, which is $347 million as of December 2017. CSX 2017 Form 10-K p. 101 CSX CORPORATION PART II
+
+[See Note 4]:
+(4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES and Neff acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 5 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, (benefit) provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company...
+
+[See Note 8]:
+Note 8. Long-term Debt In May 2016, we entered into a $2.0 billion senior unsecured revolving credit facility, and any amounts outstanding under this facility will be due and payable on May 20, 2021. As of December 31, 2017, no amounts had been drawn down and we were in compliance with the covenants under the facility. ------- -----------------------------
+
+[See Note 8]:
+Note 8. Long-term Debt In May 2016, we entered into a $2.0 billion senior unsecured revolving credit facility, and any amounts outstanding under this facility will be due and payable on May 20, 2021. As of December 31, 2017, no amounts had been drawn down and we were in compliance with the covenants under the facility. ------- -----------------------------
+
+[see Note 11]:
+(11) Filed with Form 10-K for the year ended December 31, 2016 on February 6, 2017 and incorporated herein by reference. # Filed electronically with the Report. 157
+
+[see Note 8]:
+Note 8. Long-term Debt In May 2016, we entered into a $2.0 billion senior unsecured revolving credit facility, and any amounts outstanding under this facility will be due and payable on May 20, 2021. As of December 31, 2017, no amounts had been drawn down and we were in compliance with the covenants under the facility. ------- -----------------------------
+
+[see Note 9]:
+NOTE 9. INCOME TAXES Income before income taxes for fiscal 2017, 2016 and 2015 consisted of the following (in thousands): -------------------------- --------- --------- ---- ------- ---- --------- ------- - ------- 2017 2016 2015 Domestic $ 1,056,156 $ 805,749 $ 589,371 Foreign 1,081,485 629,389 284,410 Income before income taxes $ 2,137,641 $ 1,435,138 $ 873,781 The provision for income taxes for fiscal 2017, 2016 and 2015 consisted of the following (in thousands): ------------------------------------------------ ------- ------- ---- ------- ---- ------- ------- - - ------- 2017 2016 2015 Current: United States federal $ 298,802 $ 94,396 $ 204,834 Foreign 60,962 59,749 52,125 State and local 33,578 15,222 (14,975 ) Total current 393,342 169,367 241,984 Deferred: United States federal 48,905 33,924 (31,011 ) Foreign (4,242 ) (2,751 ) (9,368 ) State and local 5,682 (9,287 ) (25,511 ) Total deferred 50,345 21,886 (65,890 ) Tax expense attributable to employee stock plans -- 75,103 68,136 Provision for income taxes $ 443,687 $ 266,356 $ 244,230 See Note 1 to the Consolidated Financial Statements for further information on our adoption of ASU No. 2016-09, Improvements to Employee Share-Based Payment Accounting. 80  ADOBE SYSTEMS INCORPORATED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Total income tax expense differs from the expected tax expense (computed by multiplying the U.S. federal statutory rate of 35% by income before income taxes) as a result of the following (in thousands): ---------------------------------------------------------------------------- -------- ------- ---- -------- ---- ------- ------- - - ------- 2017 2016 2015 Computed "expected" tax expense $ 748,174 $ 502,298 $ 305,824 State tax expense, net of federal benefit 25,131 10,636 (8,316 ) Tax credits (38,000 ) (48,383 ) (25,967 ) Differences between statutory rate and foreign effective tax rate (215,490 ) (133,778 ) (90,063 ) Stock-based compensation, net of tax deduction (42,512 ) 15,10...
+
+[See Note 8]:
+Note 8. Long-term Debt In May 2016, we entered into a $2.0 billion senior unsecured revolving credit facility, and any amounts outstanding under this facility will be due and payable on May 20, 2021. As of December 31, 2017, no amounts had been drawn down and we were in compliance with the covenants under the facility. ------- -----------------------------
+
+[see Note 3]:
+(3) This reflects the impact of extending the useful lives of equipment acquired in the RSC, NES and Neff acquisitions, net of the impact of additional depreciation associated with the fair value mark-up of such equipment. --- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES and Neff acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 5 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, (benefit) provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our opera...
+
+[See Note 15]:
+NOTE 15. DEBT Our long-term debt as of December 1, 2017 and December 2, 2016 consisted of the following (in thousands): -------------------------------- --------- --------- ---- --------- - --------- 2017 2016 Notes $ 1,882,479 $ 1,879,083 Fair value of interest rate swap (1,058 ) 13,117 Adjusted carrying value of Notes 1,881,421 1,892,200 Senior Notes In February 2010, we issued $900 million of 4.75% senior notes due February 1, 2020 (the "2020 Notes"). Our proceeds were $900 million and were net of an issuance discount of $5.5 million. In addition, we incurred issuance costs of $6.4 million. Both the discount and issuance costs are being amortized to interest expense over the term of the 2020 Notes using the effective interest method. The 2020 Notes rank equally with our other unsecured and unsubordinated indebtedness. The effective interest rate including the discount and issuance costs was 4.92% . Interest is payable semi-annually, in arrears, on February 1 and August 1, and commenced on August 1, 2010. In June 2014, we entered into interest rate swaps with a total notional amount of $900 million designated as a fair value hedge related to our 2020 Notes. The interest rate swaps effectively convert the fixed interest rate on our 2020 Notes to a floating interest rate based on LIBOR. Under the terms of the swap, we will pay monthly interest at the one-month LIBOR interest rate plus a fixed number of basis points on the $900 million notional amount. In exchange, we will receive 4.75% fixed rate interest from the swap counterparties. See Note 5 for further details regarding our interest rate swap derivatives. 92  ADOBE SYSTEMS INCORPORATED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) In January 2015, we issued $1 billion of 3.25% senior notes due February 1, 2025 (the "2025 Notes"). Our proceeds were approximately $989.3 million which is net of an issuance discount of $10.7 million. In addition, we incurred issuance costs of $7.9 million. Both the discoun...
+
+[see Note 2]:
+NOTE 2. ACQUISITIONS TubeMogul On December 19, 2016, we completed our acquisition of TubeMogul, a publicly held video advertising platform company. As of the end of fiscal 2017, we are continuing to integrate TubeMogul into our Digital Marketing reportable segment. Under the acquisition method of accounting, the total final purchase price was allocated to TubeMogul's net tangible and intangible assets based upon their estimated fair values as of December 19, 2016. During fiscal 2017, we recorded immaterial purchase accounting adjustments based on changes to management's estimates and assumptions in regards to tangible assets, liabilities assumed, and their related impact to goodwill. The total final purchase price for TubeMogul was $560.8 million of which $348.4 million was allocated to goodwill that was non-deductible for tax purposes, $113.1 million to identifiable intangible assets and $99.3 million to net assets acquired. Fotolia On January 27, 2015, we completed our acquisition of privately held Fotolia, a leading marketplace for royalty-free photos, images, graphics and HD videos. During fiscal 2015, we integrated Fotolia into our Digital Media reportable segment. Under the acquisition method of accounting, the total final purchase price was allocated to Fotolia's net tangible and intangible assets based upon their estimated fair values as of January 27, 2015. During fiscal 2015, we recorded immaterial purchase accounting adjustments based on changes to management's estimates and assumptions in regards to assumed intangible assets, calculation of deferred tax assets, liabilities and equity awards. The total final purchase price for Fotolia was $807.5 million of which $745.1 million was allocated to goodwill that was non-deductible for tax purposes, $204.4 million to identifiable intangible assets and $142.0 million to net liabilities assumed. We also completed other immaterial business acquisitions during the fiscal years presented. Pro forma information has n...
+
+[see Note 3]:
+(3) This reflects the impact of extending the useful lives of equipment acquired in the RSC, NES and Neff acquisitions, net of the impact of additional depreciation associated with the fair value mark-up of such equipment. --- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES and Neff acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 5 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, (benefit) provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our opera...

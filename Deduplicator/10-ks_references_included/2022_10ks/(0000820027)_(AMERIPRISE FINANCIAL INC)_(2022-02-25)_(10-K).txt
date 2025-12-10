@@ -1,0 +1,881 @@
+================================================================================
+CIK: 0000820027
+Company Name: AMERIPRISE FINANCIAL INC
+Filing Date: 2022-02-25
+Form Type: 10-K
+Extraction Date: 2025-09-02 06:58:57
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our consolidated financial condition and results of operations should be read in conjunction with the “Forward-Looking Statements,” our Consolidated Financial Statements and Notes that follow and the “Consolidated Five-Year Summary of Selected Financial Data” and the “Risk Factors” included in our Annual Report on Form 10-K. References to “Ameriprise Financial,” “Ameriprise,” the “Company,” “we,” “us,” and “our” refer to Ameriprise Financial, Inc. exclusively, to our entire family of companies, or to one or more of our subsidiaries.
+
+Overview
+Ameriprise is a diversified financial services company with a more than 125-year history of providing financial solutions. We are a long-standing leader in financial planning and advice with $1.4 trillion in assets under management and administration as of December 31, 2021. We offer a broad range of products and services designed to achieve individual and institutional clients’ financial objectives. For additional discussion of our businesses, see Part I, Item 1 of this Annual Report on Form 10-K.
+The COVID-19 pandemic has presented ongoing significant economic and societal disruption and market unpredictability, which has affected our business and operating environment driven by a low interest rate environment and volatility and changes in the equity markets and the potential associated implications to client behavior. COVID-19 continues its ongoing impact and has been occurring in multiple waves, so there are still no reliable estimates of how long the implications from the pandemic will last, the effects current and other new variants will ultimately have, how many people are likely to be affected by it, or its impact on the overall economy. There is still significant uncertainty around the extent to which the COVID-19 pandemic will continue to impact our business, results of operations, and financial condition, which depends on current and future developments, including the ultimate scope, duration and severity of the pandemic, success of worldwide vaccination efforts, multiple mutations of COVID-19 or similar diseases, the effectiveness of our office reopenings, the additional measures that may be taken by various governmental authorities in response to the outbreak, the actions of third parties in response to the pandemic, and the possible further impacts on the global economy. Given the ongoing impact of the pandemic, financial results may not be comparable to previous years and the results presented in this report may not necessarily be indicative of future operating results. For further information regarding the impact of the COVID-19 pandemic, and any potentially material effects, see Part 1 - Item 1A “Risk Factors” in this report.
+The products and services we provide retail clients and, to a lesser extent, institutional clients, are the primary source of our revenues and net income. Revenues and net income are significantly affected by investment performance and the total value and composition of assets we manage and administer for our retail and institutional clients as well as the distribution fees we receive from other companies. These factors, in turn, are largely determined by overall investment market performance and the depth and breadth of our individual client relationships.
+Financial markets and macroeconomic conditions have had and will continue to have a significant impact on our operating and performance results. In addition, the business, political and regulatory environments in which we operate are subject to elevated uncertainty and substantial, frequent change. Accordingly, we expect to continue focusing on our key strategic objectives and obtaining operational and strategic leverage from our core capabilities. The success of these and other strategies may be affected by the factors discussed in Item 1A of this Annual Report on Form 10-K - “Risk Factors” - and other factors as discussed herein.
+Equity price, credit market and interest rate fluctuations can have a significant impact on our results of operations, primarily due to the effects they have on the asset management and other asset-based fees we earn, the value of DAC and deferred sales inducement costs (“DSIC”) assets, the values of liabilities for guaranteed benefits associated with our variable annuities and the values of derivatives held to hedge these benefits and the “spread” income generated on our fixed deferred annuities, fixed insurance, fixed portion of variable annuities and variable insurance contracts and deposit products.
+Earnings, as well as adjusted operating earnings, will be negatively impacted by the ongoing low interest rate environment should it continue. In addition to continuing spread compression in our interest sensitive product lines, a sustained low interest rate environment may result in increases to our reserves and changes in various rate assumptions we use to amortize DAC and DSIC, which may negatively impact our adjusted operating earnings. For additional discussion on our interest rate risk, see Item 7A. “Quantitative and Qualitative Disclosures About Market Risk.”
+In the third quarter, we updated our market-related assumptions and implemented model changes related to our living benefit valuation. In addition, we conducted our annual review of life insurance and annuity valuation assumptions relative to current experience and management expectations including modeling changes. These aforementioned changes are collectively referred to as unlocking. We also reviewed our active life future policy benefit reserve adequacy for our LTC business in the third quarter. See our Consolidated and Segment Results of Operations sections for the pretax impacts on our revenues and expenses attributable to unlocking and LTC loss recognition.
+The following discussion includes a comparison of our 2021 and 2020 results. For a discussion of our 2019 results and for a comparison of results for 2020 and 2019, see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, of our Annual Report on Form 10-K for the year ended December 31, 2020, which was filed with the SEC on February 24, 2021.
+
+    33
+
+On June 2, 2021, we filed an application to convert Ameriprise Bank, FSB to a state-chartered industrial bank regulated by the Utah Department of Financial Institutions and the Federal Deposit Insurance Corporation. We also filed an application to transition the FSB’s personal trust services business to a new limited purpose national trust bank regulated by the Office of the Comptroller of the Currency. If these pending applications are approved, the proposed changes are not expected to impact our long-term strategy for the bank and should enable us to continue our strong lineup of banking solutions, including deposits, credit cards, mortgages and securities-based lending to our wealth management clients without interruption.
+During the third quarter of 2021, RiverSource Life Insurance Company (“RiverSource Life”), one of the Company’s life insurance subsidiaries, closed on a transaction with Commonwealth, effective July 1, 2021, to reinsure approximately $7.0 billion of fixed deferred and immediate annuity policies. As part of the transaction, RiverSource Life transferred $7.8 billion in consideration primarily consisting of Available-for-Sale securities, commercial mortgage loans, syndicated loans and cash. The transaction resulted in a net realized gain of approximately $532 million on investments sold. A similar previously announced transaction with RiverSource Life Insurance Co. of New York did not receive regulatory approval in time to close by September 30, 2021 and the transaction was terminated by the parties.
+On November 8, 2021, we completed our previously announced acquisition of the European-based asset management business of BMO Financial Group. At close, the consideration transferred consisted of £615 million (or $829 million) for initial price, plus an additional £103 million (or $138 million) largely associated with a customary adjustment for excess capital surplus that will be accessible over time. The overall purchase price will continue to be subject to further customary post-close adjustments. The all-cash transaction added $136 billion of assets under management (“AUM”) in EMEA.
+We consolidate certain variable interest entities for which we provide asset management services. These entities are defined as consolidated investment entities (“CIEs”). While the consolidation of the CIEs impacts our balance sheet and income statement, our exposure to these entities is unchanged and there is no impact to the underlying business results. For further information on CIEs, see Note 5 to our Consolidated Financial Statements. The results of operations of the CIEs are reflected in the Corporate & Other segment. On a consolidated basis, the management fees we earn for the services we provide to the CIEs and the related general and administrative expenses are eliminated and the changes in the fair value of assets and liabilities related to the CIEs, primarily syndicated loans and debt, are reflected in net investment income. We include the fees from these entities in the management and financial advice fees line within our Asset Management segment.
+While our Consolidated Financial Statements are prepared in accordance with U.S. generally accepted accounting principles (“GAAP”), management believes that adjusted operating measures, which exclude net realized investment gains or losses, net of the related DSIC and DAC amortization, unearned revenue amortization and the reinsurance accrual; the market impact on non-traditional long-duration products (including variable and fixed deferred annuity contracts and universal life (“UL”) insurance contracts), net of hedges and the related DSIC and DAC amortization, unearned revenue amortization and the reinsurance accrual; mean reversion related impacts (the impact on variable annuity and variable universal life (“VUL”) products for the difference between assumed and updated separate account investment performance on DAC, DSIC, unearned revenue amortization, reinsurance accrual and additional insurance benefit reserves); the market impact of hedges to offset interest rate and currency changes on unrealized gains or losses for certain investments; block transfer reinsurance transaction impact; gain or loss on disposal of a business that is not considered discontinued operations; integration and restructuring charges; income (loss) from discontinued operations; and the impact of consolidating CIEs, best reflect the underlying performance of our core operations and facilitate a more meaningful trend analysis. Management uses these non-GAAP measures to evaluate our financial performance on a basis comparable to that used by some securities analysts and investors. Also, certain of these non-GAAP measures are taken into consideration, to varying degrees, for purposes of business planning and analysis and for certain compensation-related matters. Throughout our Management’s Discussion and Analysis, these non-GAAP measures are referred to as adjusted operating measures. These non-GAAP measures should not be viewed as a substitute for U.S. GAAP measures.
+It is management’s priority to increase shareholder value over a multi-year horizon by achieving our on-average, over-time financial targets.
+Our financial targets are:
+•Adjusted operating earnings per diluted share growth of 12% to 15%, and
+•Adjusted operating return on equity excluding accumulated other comprehensive income (“AOCI”) of over 30%.
+
+    34
+
+The following tables reconcile our GAAP measures to adjusted operating measures:
+
+---------------------------------------------------------------- ------------------------ ----------------- ------------------------ ----- - ----- ------ - ------ - -----
+ Per Diluted Share
+ Years Ended December 31, Years Ended December 31,
+ 2021 2020 2021 2020
+(in millions, except per share amounts)
+Net income $ 2,760 $ 1,534 $ 23.00 $ 12.20
+Less: Net realized investment gains (losses) (1) 87 (10) 0.73 (0.08)
+Add: Market impact on non-traditional long-duration products (1) 656 375 5.47 2.98
+Add: Mean reversion related impacts (1) (152) (87) (1.27) (0.69)
+Add: Market impact of hedges on investments (1) 22 — 0.18 —
+Less: Block transfer reinsurance transaction impacts (1) 521 — 4.34 —
+
+Add: Integration/restructuring charges (1) 32 4 0.27 0.03
+Less: Net income (loss) attributable to CIEs (3) 3 (0.03) 0.02
+Tax effect of adjustments (2) 11 (63) 0.09 (0.50)
+Adjusted operating earnings $ 2,724 $ 1,770 $ 22.70 $ 14.08
+
+Weighted average common shares outstanding:
+Basic 117.3 123.8
+Diluted 120.0 125.7
+
+(1) Pretax adjusted operating adjustments.
+(2) Calculated using the statutory tax rate of 21%.
+The following table reconciles net income to adjusted operating earnings and the five-point average of quarter-end equity to adjusted operating equity:
+
+--------------------------------------------------------------------- ------------------------ ----- ----- - -----
+ Years Ended December 31,
+ 2021 2020
+(in millions)
+Net income $ 2,760 $ 1,534
+Less: Adjustments (1) 36 (236)
+Adjusted operating earnings $ 2,724 $ 1,770
+
+Total Ameriprise Financial, Inc. shareholders’ equity $ 5,689 $ 6,171
+Less: AOCI, net of tax 301 301
+Total Ameriprise Financial, Inc. shareholders’ equity, excluding AOCI 5,388 5,870
+Less: Equity impacts attributable to CIEs 2 1
+Adjusted operating equity $ 5,386 $ 5,869
+
+------------------------------------------------------- ---- - ---- -
+Return on equity, excluding AOCI 51.2 % 26.1 %
+Adjusted operating return on equity, excluding AOCI (2) 50.6 % 30.2 %
+
+(1) Adjustments reflect the sum of after-tax net realized investment gains/losses, net of DSIC and DAC amortization, unearned revenue amortization and the reinsurance accrual; the market impact on non-traditional long-duration products (including variable and fixed deferred annuity contracts and UL insurance contracts), net of hedges and related DSIC and DAC amortization, unearned revenue amortization and the reinsurance accrual; mean reversion related impacts; block transfer reinsurance transaction impacts; the market impact of hedges to offset interest rate and currency changes on unrealized gains or losses for certain investments; gain or loss on disposal of a business that is not considered discontinued operations; integration and restructuring charges; income (loss) from discontinued operations; and net income (loss) from consolidated investment entities. After-tax is calculated using the statutory tax rate of 21%.
+(2) Adjusted operating return on equity, excluding AOCI is calculated using adjusted operating earnings in the numerator and Ameriprise Financial shareholders’ equity, excluding AOCI and the impact of consolidating investment entities using a five-point average of quarter-end equity in the denominator. After-tax is calculated using the statutory rate of 21%.
+
+    35
+
+Critical Accounting Estimates
+The accounting and reporting policies that we use affect our Consolidated Financial Statements. Certain of our accounting and reporting policies are critical to an understanding of our consolidated results of operations and financial condition and, in some cases, the application of these policies can be significantly affected by the estimates, judgments and assumptions made by management during the preparation of our Consolidated Financial Statements. The accounting and reporting policies and estimates we have identified as fundamental to a full understanding of our consolidated results of operations and financial condition are described below. See Note 2 to our Consolidated Financial Statements for further information about our accounting policies.
+Valuation of Investments
+The most significant component of our investments is our Available-for-Sale securities, which we carry at fair value within our Consolidated Balance Sheets. See Note 15 to our Consolidated Financial Statements for discussion of the fair value of our Available-for-Sale securities. Financial markets are subject to significant movements in valuation and liquidity, which can impact our ability to liquidate and the selling price that can be realized for our securities and increases the use of judgment in determining the estimated fair value of certain investments. We are unable to predict impacts and determine sensitivities in reported amounts reflecting such market movements on our aggregate Available-for-Sale portfolio. Changes to these assumptions do not occur in isolation and it is impracticable to predict such impacts at the individual security unit of measure which are predominately Level 2 fair value and based on observable inputs.
+Deferred Acquisition Costs
+See Note 2 to our Consolidated Financial Statements for discussion of our DAC accounting policy. See Note 3 to our Consolidated Financial Statements for discussion of changes to the measurement of DAC amortization effective for interim and annual periods beginning after December 15, 2022.
+Non-Traditional Long-Duration Products
+For our non-traditional long-duration products (including variable, structured variable and fixed deferred annuity contracts, UL and VUL insurance products), our DAC balance at any reporting date is based on projections that show management expects there to be estimated gross profits (“EGPs”) after that date to amortize the remaining balance. These projections are inherently uncertain because they require management to make assumptions about financial markets, mortality levels and contractholder and policyholder behavior over periods extending well into the future. Projection periods used for our annuity products are typically 30 to 50 years and for our UL insurance products 50 years or longer.
+EGPs vary based on persistency rates (assumptions at which contractholders and policyholders are expected to surrender, make withdrawals from and make deposits to their contracts), mortality levels, client asset value growth rates (based on equity and bond market performance), variable annuity benefit utilization and interest margins (the spread between earned rates on invested assets and rates credited to contractholder and policyholder accounts). Changes in these assumptions can be offsetting and we are unable to predict their movement, sensitivities in reported amounts, offsetting impacts or future impacts to the Consolidated Financial Statements over time or in any given future period. When assumptions are changed, the percentage of EGPs used to amortize DAC might also change. A change in the required amortization percentage is applied retrospectively; an increase in amortization percentage will result in a decrease in the DAC balance and an increase in DAC amortization expense, while a decrease in amortization percentage will result in an increase in the DAC balance and a decrease in DAC amortization expense. The effect on the DAC balance that would result from the realization of unrealized gains (losses) on securities is recognized with an offset to accumulated other comprehensive income on the consolidated balance sheet.
+The client asset value growth rates are the rates at which variable annuity and VUL insurance contract values invested in separate accounts are assumed to appreciate in the future. The rates used vary by equity and fixed income investments. The long-term client asset value growth rates are based on assumed gross annual returns of 9% for equity funds and 5.65% for fixed income funds. We typically use a five-year mean reversion process as a guideline in setting near-term equity fund growth rates based on a long-term view of financial market performance as well as recent actual performance. The suggested near-term equity fund growth rate is reviewed quarterly to ensure consistency with management’s assessment of anticipated equity market performance.
+
+    36
+
+A decrease of 100 basis points in separate account fund growth rate assumptions is likely to result in an increase in DAC amortization and an increase in benefits and claims expense for variable annuity and VUL insurance contracts. The following table presents the estimated impact to current period pretax income:
+
+------------------------------------------------------------------------------------------- ------------------------------------- ----- ---- - ---- ---- - -----
+ Estimated Impact to Pretax Income (1)
+DAC Amortization Benefits and Claims Expense Total
+(in millions)
+Decrease in future near- and long-term fixed income fund growth returns by 100 basis points $ (38) $ (70) $ (108)
+
+Decrease in future near-term equity fund growth returns by 100 basis points $ (35) $ (51) $ (86)
+Decrease in future long-term equity fund growth returns by 100 basis points (22) (34) (56)
+Decrease in future near- and long-term equity fund growth returns by 100 basis points $ (57) $ (85) $ (142)
+
+(1) An increase in the above assumptions by 100 basis points would result in an increase to pretax income for approximately the same amount.
+An assessment of sensitivity associated with isolated changes of any single assumption is not an indicator of future results.
+Traditional Long-Duration Products
+For our traditional long-duration products (including traditional life and disability income (“DI”) insurance products), our DAC balance at any reporting date is based on projections that show management expects there to be adequate premiums after the date to amortize the remaining balance. These projections are inherently uncertain because they require management to make assumptions over periods extending well into the future. These assumptions include interest rates, persistency rates and mortality and morbidity rates and are not modified (unlocked) unless recoverability testing determines that reserves are inadequate. Changes in these assumptions can be offsetting and we are unable to predict their movement, sensitivities in reported amounts, offsetting impacts, or future impacts to the Consolidated Financial Statements over time or in any given future period. Projection periods used for our traditional life insurance are up to 30 years. Projection periods for our DI products are up to 45 years. We may experience accelerated amortization of DAC if policies terminate earlier than projected or a slower rate of amortization of DAC if policies persist longer than projected.
+For traditional life and DI insurance products, the assumptions provide for adverse deviations in experience and are revised only if management concludes experience will be so adverse that DAC are not recoverable. If management concludes that DAC are not recoverable, DAC are reduced to the amount that is recoverable based on best estimate assumptions.
+Future Policy Benefits and Claims
+See Note 3 to our Consolidated Financial Statements for discussion of changes to the measurement of DAC amortization effective for interim and annual periods beginning after December 15, 2022.
+We establish reserves to cover the benefits associated with non-traditional and traditional long-duration products. Non-traditional long-duration products include variable and structured variable annuity contracts, fixed annuity contracts and UL and VUL policies. Traditional long-duration products include term life, whole life, DI and LTC insurance products.
+Guarantees accounted for as insurance liabilities include guaranteed minimum death benefits (“GMDB”), gain gross-up (“GGU”), guaranteed minimum income benefit (“GMIB”) and the life contingent benefits associated with guaranteed minimum withdrawal benefit (“GMWB”). In addition, UL and VUL policies with product features that result in profits followed by losses are accounted for as insurance liabilities.
+Guarantees accounted for as embedded derivatives include guaranteed minimum accumulation benefit (“GMAB”) and the non-life contingent benefits associated with GMWB. In addition, the portion of structured variable annuities, indexed annuities and IUL policies allocated to the indexed account is accounted for as an embedded derivative.
+The establishment of reserves is an estimation process using a variety of methods, assumptions and data elements. If actual experience is better than or equal to the results of the estimation process, then reserves should be adequate to provide for future benefits and expenses. If actual experience is worse than the results of the estimation process, additional reserves may be required.
+Non-Traditional Long-Duration Products, including Embedded Derivatives
+UL and VUL
+A portion of our UL and VUL policies have product features that result in profits followed by losses from the insurance component of the contract. These profits followed by losses can be generated by the cost structure of the product or secondary guarantees in the contract. The secondary guarantee ensures that, subject to specified conditions, the policy will not terminate and will continue to provide a death benefit even if there is insufficient policy value to cover the monthly deductions and charges. The liability for these future losses is determined using actuarial models to estimate the death benefits in excess of account value and recognizing the excess over the estimated life based on expected assessments (e.g. cost of insurance charges, contractual administrative charges, similar fees and investment margin). Significant assumptions made in projecting future benefits and assessments relate to client asset
+
+    37
+
+value growth rates, mortality, persistency and investment margins and are consistent with those used for DAC valuation for the same contracts. Changes in these assumptions can be offsetting and we are unable to predict their movement, sensitivities in reported amounts, offsetting impacts, or future impacts to the Consolidated Financial Statements over time or in any given future period. See Note 12 to our Consolidated Financial Statements for information regarding the liability for contracts with secondary guarantees.
+Variable Annuities
+We have approximately $92 billion of variable annuity account value that has been issued over a period of more than fifty years. The diversified variable annuity block consists of $35 billion of account value with no living benefit guarantees and $57 billion of account value with living benefit guarantees, primarily GMWB provisions. The business is predominately issued through the Ameriprise Financial® advisor network. The majority of the variable annuity contracts offered by us contain GMDB provisions. We also offer variable annuities with death benefit provisions that gross up the amount payable by a certain percentage of contract earnings which are referred to as GGU benefits. In addition, we offer contracts with GMWB and GMAB provisions and, until May 2007, we offered contracts containing GMIB provisions. See Note 12 to our Consolidated Financial Statements for further discussion of our variable annuity contracts.
+In determining the liabilities for GMDB, GGU, GMIB and the life contingent benefits associated with GMWB, we project these benefits and contract assessments using actuarial models to simulate various equity market scenarios. Significant assumptions made in projecting future benefits and assessments relate to customer asset value growth rates, mortality, persistency, benefit utilization and investment margins and are consistent with those used for DAC valuation for the same contracts. As with DAC, management reviews, and where appropriate, adjusts its assumptions each quarter. Unless management identifies a material deviation over the course of quarterly monitoring, management reviews and updates these assumptions annually in the third quarter of each year.
+Regarding the exposure to variable annuity living benefit guarantees, the source of behavioral risk is driven by changes in policyholder surrenders and utilization of guaranteed withdrawal benefits. We have extensive experience studies and analysis to monitor changes and trends in policyholder behavior. A significant volume of company-specific policyholder experience data is available and provides management with the ability to regularly analyze policyholder behavior. On a monthly basis, actual surrender and benefit utilization experience is compared to expectations. Experience data includes detailed policy information providing the opportunity to review impacts of multiple variables. The ability to analyze differences in experience, such as presence of a living benefit rider, existence of surrender charges, and tax qualifications provide us an effective approach in quickly detecting changes in policyholder behavior.
+At least annually, we perform a thorough policyholder behavior analysis to validate the assumptions included in our benefit reserve, embedded derivative and DAC balances. The variable annuity assumptions and resulting reserve computations reflect multiple policyholder variables. Differentiation in assumptions by policyholder age, existence of surrender charges, guaranteed withdrawal utilization, and tax qualification are examples of factors recognized in establishing management’s assumptions used in reserve calculations. The extensive data derived from our variable annuity block informs management in confirming previous assumptions and revising the variable annuity behavior assumptions. Changes in assumptions are governed by a review and approval process to ensure an appropriate measurement of all impacted financial statement balances. Changes in these assumptions can be offsetting and we are unable to predict their movement, sensitivities in reported amounts, offsetting impacts, or future impacts to the Consolidated Financial Statements over time or in any given future period.
+See the table in the previous discussion of “Deferred Acquisition Costs” for the estimated impact to benefits and claims expense related to variable annuity and VUL insurance contracts resulting from a decrease of 100 basis points in separate account fund growth rate assumptions.
+Embedded Derivatives
+The fair value of embedded derivatives related to GMAB and the non-life contingent benefits associated with GMWB provisions fluctuate based on equity, interest rate and credit markets which can cause these embedded derivatives to be either an asset or a liability. The fair value of embedded derivatives related to structured variable annuities, indexed annuities and IUL fluctuate based on equity markets and interest rates and is a liability. In addition, the valuation of embedded derivatives is impacted by an estimate of our nonperformance risk adjustment. This estimate includes a spread over the LIBOR swap curve as of the balance sheet date. As our estimate of this spread over LIBOR widens or tightens, the liability will decrease or increase.
+Additionally, our Corporate Actuarial Department calculates the fair value of the embedded derivatives on a monthly basis. During this process, control checks are performed to validate the completeness of the data. Actuarial management approves various components of the valuation along with the final results. The change in the fair value of the embedded derivatives is reviewed monthly with senior management.
+See Note 15 to our Consolidated Financial Statements for information regarding the fair value measurement of embedded derivatives.
+Traditional Long-Duration Products
+Liabilities for unpaid amounts on reported DI and LTC claims include any periodic or other benefit amounts due and accrued, along with estimates of the present value of obligations for continuing benefit payments. These unpaid amounts are calculated using anticipated claim continuance rates based on established industry tables, adjusted as appropriate for our experience. The discount rates used to calculate present values are based on average interest rates earned on assets supporting the liability for unpaid amounts.
+
+    38
+
+Liabilities for estimates of benefits that will become payable on future claims on term life, whole life and DI policies are based on the net level premium and LTC policies are based on a gross premium valuation reflecting management’s current best estimate assumptions. Net level premium includes anticipated premium payments, mortality and morbidity rates, policy persistency and interest rates earned on assets supporting the liability. Gross premium valuation includes expected premium rate increases, benefit reductions, morbidity rates, policy persistency and interest rates earned on assets supporting the liability. Anticipated mortality and morbidity rates are based on established industry mortality and morbidity tables, with modifications based on our experience. Anticipated premium payments and persistency rates vary by policy form, issue age, policy duration and certain other pricing factors.
+Derivative Instruments and Hedging Activities
+We use derivative instruments to manage our exposure to various market risks. All derivatives are recorded at fair value. The fair value of our derivative instruments is determined using either market quotes or valuation models that are based upon the net present value of estimated future cash flows and incorporate current market observable inputs to the extent available. We are unable to predict impacts and determine sensitivities in reported amounts reflecting such market movements on our aggregate derivative portfolio. Changes to assumptions do not occur in isolation and it is impracticable to predict such impacts at the individual security unit of measure which are predominately Level 2 fair value and based on observable inputs.
+For further details on the types of derivatives we use and how we account for them, see Note 2, Note 15 and Note 17 to our Consolidated Financial Statements. For discussion of our market risk exposures and hedging program and related sensitivity testing, see Item 7A. “Quantitative and Qualitative Disclosures About Market Risk.”
+
+Recent Accounting Pronouncements
+For information regarding recent accounting pronouncements and their expected impact on our future consolidated results of operations and financial condition, see Note 3 to our Consolidated Financial Statements.
+
+Sources of Revenues and Expenses
+Management and Financial Advice Fees
+Management and financial advice fees relate primarily to fees earned from managing mutual funds, private funds, separate account and wrap account assets and institutional investments, as well as fees earned from providing financial advice, administrative services (including transfer agent and administration fees earned from providing services to retail mutual funds) and other custodial services. Management and financial advice fees include performance-based incentive management fees, which we may receive on certain management contracts. Management and financial advice fees also include mortality and expense risk fees.
+Distribution Fees
+Distribution fees primarily include point-of-sale fees (such as mutual fund front-end sales loads) and asset-based fees (such as 12b-1 distribution and shareholder service fees). Distribution fees also include amounts received under marketing support arrangements for sales of mutual funds and other companies’ products, such as through our wrap accounts, as well as surrender charges on annuities and UL and VUL insurance.
+Net Investment Income
+Net investment income primarily includes interest income on fixed maturity securities classified as Available-for-Sale, mortgage loans, policy loans, margin loans, pledged asset lines of credit, other investments, cash and cash equivalents and investments of CIEs; the changes in fair value of trading securities, certain derivatives and certain assets and liabilities of CIEs; the pro rata share of net income or loss on equity method investments; and realized gains and losses on the sale of investments and changes for the allowance for credit losses.
+Premiums, policy and contract charges
+Premiums include premiums on traditional life, DI and LTC insurance and life contingent immediate annuities and are net of reinsurance premiums. Policy and contract charges include variable annuity rider charges and UL and VUL insurance charges, which consist of cost of insurance charges (net of reinsurance premiums and cost of reinsurance for UL and VUL insurance products) and administrative charges.
+Other Revenues
+Other revenues primarily include the accretion on the fixed annuities reinsurance deposit receivables and other miscellaneous revenues.
+For discussion of our accounting policies on revenue recognition, see Note 2 to our Consolidated Financial Statements.
+Banking and Deposit Interest Expense
+Banking and deposit interest expense primarily includes interest expense related to investment certificates and banking deposits. The changes in fair value of stock market certificate embedded derivatives and the derivatives hedging stock market certificates are included within banking and deposit interest expense.
+
+    39
+
+Distribution Expenses
+Distribution expenses primarily include compensation paid to our financial advisors, registered representatives, third-party distributors and wholesalers. The portion of these costs which are incremental and direct to the acquisition of a new or renewal insurance policy or annuity contract issued by the RiverSource Life companies are deferred. The amounts capitalized and amortized are based on actual distribution costs. The majority of these costs, such as advisor and wholesaler compensation, vary directly with the level of sales. Distribution expenses also include marketing support and other distribution and administration related payments made to affiliated and unaffiliated distributors of products provided by our affiliates. The majority of these expenses vary with the level of sales, or assets held, by these distributors, and the remainder is fixed. Distribution expenses also include wholesaling costs.
+Interest Credited to Fixed Accounts
+Interest credited to fixed accounts represents amounts earned by contractholders and policyholders on fixed account values associated with UL and VUL insurance and annuity contracts. The changes in fair value of fixed deferred indexed annuity and IUL embedded derivatives and the derivatives hedging these products are also included within Interest credited to fixed accounts.
+Benefits, Claims, Losses and Settlement Expenses
+Benefits, claims, losses and settlement expenses consist of amounts paid and changes in liabilities held for anticipated future benefit payments under insurance policies and annuity contracts, along with costs to process and pay such amounts. Amounts are net of benefit payments recovered or expected to be recovered under reinsurance contracts. Benefits under variable annuity guarantees include the changes in fair value of GMWB and GMAB embedded derivatives and the derivatives hedging these benefits, as well as the changes in fair value of derivatives hedging GMDB provisions. The changes in fair value of structured variable annuity embedded derivatives and the derivatives hedging this product, as well as the amortization of DSIC are also included in Benefits, claims losses and settlement expenses.
+Amortization of DAC
+Direct sales commissions and other costs capitalized as DAC are amortized over time. For annuity and UL/VUL contracts, DAC are amortized based on projections of EGPs over amortization periods equal to the approximate life of the business. For other insurance products, DAC are generally amortized as a percentage of premiums over amortization periods equal to the premium-paying period.
+Interest and Debt Expense
+Interest and debt expense primarily includes interest on corporate debt and CIE debt, the impact of interest rate hedging activities and amortization of debt issuance costs.
+General and Administrative Expense
+General and administrative expense includes compensation, share-based awards and other benefits for employees (other than employees directly related to distribution, such as financial advisors), professional and consultant fees, information technology, facilities and equipment, advertising and promotion, legal and regulatory and corporate related expenses.
+
+Economic Environment
+Global equity market conditions and fluctuations could materially affect our financial condition and results of operations. The following table presents relevant market indices:
+
+--------------------------------- ------------------------ ---- ------ ---
+ Years Ended December 31,
+ 2021 2020 Change
+S&P 500
+Daily average 4,270 3,218 33%
+Period end 4,766 3,756 27%
+Weighted Equity Index (“WEI”) (1)
+Daily average 2,894 2,184 33%
+Period end 3,152 2,573 23%
+
+(1) Weighted Equity Index is an Ameriprise calculated proxy for equity market movements calculated using a weighted average of the S&P 500, Russell 2000, Russell Midcap and MSCI EAFE indices based on North America distributed equity assets.
+See our segment results of operations discussion below for additional information on how changes in the economic environment have and may continue to impact our results. For further information regarding the impact of the economic environment on our financial condition and results of operations, and potentially material effects, see Part 1 - Item 1A “Risk Factors” of this Annual Report on Form 10-K.
+
+    40
+
+Assets Under Management and Administration
+AUM include external client assets for which we provide investment management services, such as the assets of the Columbia Threadneedle Investments funds, institutional clients and clients in our advisor platform held in wrap accounts as well as assets managed by sub-advisors selected by us. AUM also includes certain assets on our Consolidated Balance Sheets for which we provide investment management services and recognize management fees in our Asset Management segment, such as the assets of the general account and the variable product funds held in the separate accounts of our life insurance subsidiaries and CIEs.
+Assets under administration (“AUA”) include assets for which we provide administrative services such as client assets invested in other companies’ products that we offer outside of our wrap accounts. These assets include those held in clients’ brokerage accounts. We generally record revenues received from administered assets as distribution fees. We do not exercise management discretion over these assets and do not earn a management fee. These assets are not reported on our Consolidated Balance Sheets. AUA also includes certain assets on our Consolidated Balance Sheets for which we do not provide investment management services and do not recognize management fees, such as investments in non-affiliated funds held in the separate accounts of our life insurance subsidiaries.
+AUM and AUA do not include assets under advisement, for which we provide advisory services such as model portfolios but do not have full discretionary investment authority.
+The following table presents detail regarding our AUM and AUA:
+
+------------------------------------------ ------------ ------- ------ ------ - ------- ----- - ----- -- -
+ December 31, Change
+ 2021 2020
+(in billions)
+Assets Under Management and Administration
+Advice & Wealth Management AUM $ 460.9 $ 376.8 $ 84.1 22 %
+Asset Management AUM 754.1 546.6 207.5 38
+Corporate AUM 0.1 — 0.1 —
+Eliminations (44.1) (37.4) (6.7) (18)
+Total Assets Under Management 1,171.0 886.0 285.0 32
+Total Assets Under Administration 246.9 216.1 30.8 14
+Total AUM and AUA $ 1,417.9 $ 1,102.1 $ 315.8 29 %
+
+Total AUM increased $285.0 billion, or 32%, to $1.2 trillion as of December 31, 2021 compared to $886.0 billion as of December 31, 2020 due to a $84.1 billion increase in Advice & Wealth Management AUM driven by wrap account net inflows and market appreciation and a $207.5 billion increase in Asset Management AUM driven by the acquisition of the BMO Global Asset Management (EMEA) business, market appreciation and net inflows, partially offset by retail fund distributions. See our segment results of operations discussion for additional information on changes in our AUM.
+
+    41
+
+Consolidated Results of Operations
+Year Ended December 31, 2021 Compared to Year Ended December 31, 2020
+The following table presents our consolidated results of operations:
+
+------------------------------------------------ ------------------------ ----- ------ ------ - ----- ------- - ----- -- -
+ Years Ended December 31, Change
+ 2021 2020
+(in millions)
+Revenues
+Management and financial advice fees $ 9,275 $ 7,368 $ 1,907 26 %
+Distribution fees 1,830 1,661 169 10
+Net investment income 1,683 1,251 432 35
+Premiums, policy and contract charges 273 1,395 (1,122) (80)
+Other revenues 382 283 99 35
+
+Total revenues 13,443 11,958 1,485 12
+Banking and deposit interest expense 12 59 (47) (80)
+Total net revenues 13,431 11,899 1,532 13
+Expenses
+Distribution expenses 5,015 4,059 956 24
+Interest credited to fixed accounts 600 644 (44) (7)
+Benefits, claims, losses and settlement expenses 716 1,806 (1,090) (60)
+Amortization of deferred acquisition costs 124 277 (153) (55)
+Interest and debt expense 191 162 29 18
+General and administrative expense 3,435 3,120 315 10
+Total expenses 10,081 10,068 13 —
+Pretax income 3,350 1,831 1,519 83
+Income tax provision 590 297 293 99
+Net income $ 2,760 $ 1,534 $ 1,226 80 %
+
+Overall
+Pretax income increased $1.5 billion, or 83%, for 2021 compared to the prior year. The following impacts were significant drivers of the year-over-year change in pretax income:
+•The favorable impact of the block transfer reinsurance transaction was $521 million for 2021 primarily reflecting the net realized gains on investments sold to the reinsurer.
+•The favorable impact of unlocking was $17 million for 2021 compared to an unfavorable impact of unlocking and LTC loss recognition of $454 million for the prior year.
+•A positive impact from higher average equity markets compared to the prior year. Our average WEI, which is a proxy for equity movements on AUM, increased 33% in 2021 compared to the prior year. The average S&P 500 index was 33% higher for 2021 compared to the prior year.
+•A positive impact from higher client net inflows and higher transactional activity during 2021 compared to the prior year.
+•The mean reversion related impact was a benefit of $152 million for 2021 compared to a benefit of $87 million for the prior year.
+•The market impact on non-traditional long-duration products (including variable and fixed deferred annuity contracts and UL insurance contracts), net of hedges and the related DSIC and DAC amortization, unearned revenue amortization and the reinsurance accrual was an expense of $656 million for 2021 compared to an expense of $375 million for the prior year.
+•A negative impact of $78 million in the Advice & Wealth Management segment from lower short-term interest rates.
+
+    42
+
+The following table presents the total pretax impacts on our revenues and expenses attributable to unlocking and LTC loss recognition for the years ended December 31:
+
+------------------------------------------------------ ------------- -- ---- --- - -----
+Pretax Increase (Decrease) 2021 2020
+ (in millions)
+Distribution fees $ 2 $ —
+Premiums, policy and contract charges 17 (1)
+Total revenues 19 (1)
+
+Benefits, claims, losses and settlement expenses:
+LTC unlocking and loss recognition 3 141
+Unlocking impact, excluding LTC 59 212
+Total benefits, claims, losses and settlement expenses 62 353
+Amortization of DAC (60) 100
+Total expenses 2 453
+Pretax income (1) $ 17 $ (454)
+
+(1) Includes a $25 million net benefit and a $12 million net expense related to the market impact on non-traditional long-duration products for 2021 and 2020, respectively, which is excluded from adjusted operating earnings. Refer to Results of Operations by Segment for the impact to pretax adjusted operating earnings attributable to unlocking and LTC loss recognition.
+The primary drivers of the year-over-year unlocking impact excluding LTC include the following items:
+•Interest rate assumptions resulted in a lower expense in 2021 compared to the prior year period. Our 10-year Treasury rate assumption remained unchanged in 2021 at 3.5% with a grading period ending December 31, 2026.
+•Equity market volatility and correlation assumptions on variable annuities resulted in a higher benefit in 2021 compared to the prior year.
+•Surrenders assumptions on variable annuities with living benefit guarantees resulted in a lower expense in 2021 compared to the prior year.
+The unfavorable LTC unlocking impact of $3 million in 2021 compared to the unfavorable LTC unlocking and loss recognition impact of $141 million in the prior year is primarily due to prior year updates to our interest rate assumptions.
+Net Revenues
+Management and financial advice fees increased $1.9 billion, or 26%, for 2021 compared to the prior year primarily due to higher average equity markets, higher wrap account net inflows, an increase in performance fees of $89 million, $59 million of revenue associated with the acquisition of the BMO Global Asset Management (EMEA) business, and an unfavorable $19 million performance fee correction in the prior year period.
+Distribution fees increased $169 million, or 10%, for 2021 compared to the prior year due to higher average equity markets and increased transactional activity, partially offset by $55 million of lower fees on off-balance sheet brokerage cash due to a decrease in short-term interest rates.
+Net investment income increased $432 million, or 35%, for 2021 compared to the prior year primarily due to the following impacts:
+•Net realized investment gains of $636 million for 2021 compared to net realized investment losses of $10 million for the prior year period. Net realized gains for 2021 included net realized gains of $561 million on Available-for-Sale securities and a $58 million net gain related to commercial mortgage loans primarily due to the sale of securities and loans to the reinsurer as a result of the fixed deferred and immediate annuity reinsurance transaction that closed in the third quarter 2021, as well as a $15 million gain on a strategic investment.
+•An increase of $38 million in net investment income of CIEs.
+•The favorable impact of higher average invested assets related to the bank, partially offset by lower average certificate balances.
+•The unfavorable impact of lower average invested assets due to the sale of investments as a result of the fixed deferred and immediate annuity reinsurance transaction.
+•The unfavorable impact of lower interest rates, including lower short-term interest rates on the investment portfolio supporting the certificate and on-balance sheet brokerage cash products.
+•The $22 million unfavorable market impact of hedges to offset interest rate and currency changes on certain investments in the year.
+Premiums, policy and contract charges decreased $1.1 billion, or 80%, for 2021 compared to the prior year primarily reflecting ceded premiums of $1.2 billion associated with the reinsurance transaction for life contingent immediate annuity policies.
+
+    43
+
+Other revenues increased $99 million, or 35%, for 2021 compared to the prior year primarily reflecting the yield on deposit receivables.
+Banking and deposit interest expense decreased $47 million, or 80%, for 2021 compared to the prior year due to lower average crediting rates on certificates and lower average certificate balances.
+Expenses
+Distribution expenses increased $956 million, or 24%, for 2021 compared to the prior year primarily reflecting higher advisor compensation due to an increase in average wrap account balances and increased transactional activity.
+Interest credited to fixed accounts decreased $44 million, or 7%, for 2021 compared to the prior year primarily reflecting the following items:
+•An $8 million decrease in expense from the unhedged nonperformance credit spread risk adjustment on IUL benefits. The unfavorable impact of the nonperformance credit spread was $10 million for 2021 compared to an unfavorable impact of $18 million for the prior year.
+•A $22 million decrease in expense from other market impacts on IUL benefits, net of hedges, which was a benefit of $54 million for 2021 compared to a benefit of $32 million for the prior year. The decrease in expense was primarily due to a decrease in the IUL embedded derivative in the current period, which reflected lower option costs due to higher discount rates compared to an increase in the IUL embedded derivative in the prior year period, which reflected higher option costs due to lower discount rates.
+Benefits, claims, losses and settlement expenses decreased $1.1 billion, or 60%, for 2021 compared to the prior year primarily reflecting the following items:
+•A $1.2 billion decrease in expense associated with the reinsurance transaction for life contingent immediate annuity policies.
+•A $450 million increase in expense primarily reflecting the impact of year-over-year changes in the unhedged nonperformance credit spread risk adjustment on variable annuity guaranteed benefits. The unfavorable impact of the nonperformance credit spread was $108 million for 2021 compared to a favorable impact of $342 million for the prior year. As the undiscounted embedded derivative liability on which the nonperformance credit spread is applied increases (decreases), the impact of the nonperformance credit spread on benefits expenses is favorable (unfavorable). Additionally, as the estimate of the nonperformance credit spread over the LIBOR swap curve tightens or widens, the embedded derivative liability will increase or decrease.
+•An $80 million decrease in expense from other market impacts on variable annuity guaranteed benefits, net of hedges in place to offset those risks and the related DSIC amortization. This increase was the result of a favorable $2.5 billion change in the market impact on variable annuity guaranteed living benefits reserves, partially offset by an unfavorable $2.4 billion change in the market impact on derivatives hedging the variable annuity guaranteed benefits. The main market drivers contributing to these changes are summarized below:
+•Equity market impact on the variable annuity guaranteed living benefits liability net of the impact on the corresponding hedge assets resulted in a higher expense for 2021 compared to the prior year.
+•Interest rate impact on the variable annuity guaranteed living benefits liability net of the impact on the corresponding hedge assets resulted in an expense for 2021 compared to a benefit in the prior year.
+•Volatility impact on the variable annuity guaranteed living benefits liability net of the impact on the corresponding hedge assets resulted in a lower expense for 2021 compared to the prior year.
+•Other unhedged items, including the difference between the assumed and actual underlying separate account investment performance, fixed income credit exposures, transaction costs and various contractholder behavioral items, were a net benefit for 2021 compared to a net expense for the prior year.
+•The impact of unlocking excluding LTC was an expense of $59 million for 2021 compared to an expense of $212 million for the prior year.
+•The annual review of LTC future policy benefit reserve in 2021 resulted in unlocking of $3 million compared to unlocking and loss recognition of $141 million in the prior year.
+•The mean reversion related impact was a benefit of $91 million for 2021 compared to a benefit of $53 million for the prior year.
+Amortization of DAC decreased $153 million, or 55%, for 2021 compared to the prior year primarily reflecting the following items:
+•The impact of unlocking in 2021 was a benefit of $60 million compared to an expense of $100 million in the prior year period.
+•The DAC offset to the market impact on non-traditional long-duration products was a benefit of $51 million for 2021 compared to a benefit of $5 million for the prior year.
+•The mean reversion related impact was a benefit of $60 million for 2021 compared to a benefit of $34 million for the prior year.
+•A higher level of normalized amortization due to the growth of variable annuities and unlocked market and policyholder assumptions in the prior year.
+Interest and debt expense increased $29 million, or 18%, for 2021 compared to the prior year primarily due to an increase in interest expense of CIEs.
+
+    44
+
+General and administrative expense increased $315 million, or 10%, for 2021 compared to the prior year primarily reflecting higher performance related compensation, $52 million related to the operating expenses of the acquired BMO Global Asset Management (EMEA) business, an unfavorable foreign exchange impact, and $32 million of integration related expenses, partially offset by disciplined expense management and reengineering.
+Income Taxes
+Our effective tax rate was 17.6% for 2021 compared to 16.2% for the prior year. See Note 24 to our Consolidated Financial Statements for additional discussion on income taxes.
+
+Results of Operations by Segment
+Year Ended December 31, 2021 Compared to Year Ended December 31, 2020
+Adjusted operating earnings is the measure of segment profit or loss management uses to evaluate segment performance. Adjusted operating earnings should not be viewed as a substitute for GAAP pretax income. We believe the presentation of segment adjusted operating earnings as we measure it for management purposes enhances the understanding of our business by reflecting the underlying performance of our core operations and facilitating a more meaningful trend analysis. See Note 28 to the Consolidated Financial Statements for further information on the presentation of segment results and our definition of adjusted operating earnings.
+The following table presents summary financial information by segment:
+
+--------------------------------- ------------------------ ----- ----- - -----
+ Years Ended December 31,
+ 2021 2020
+(in millions)
+Advice & Wealth Management
+Net revenues $ 8,021 $ 6,675
+Expenses 6,278 5,354
+Adjusted operating earnings $ 1,743 $ 1,321
+Asset Management
+Net revenues $ 3,682 $ 2,891
+Expenses 2,586 2,194
+Adjusted operating earnings $ 1,096 $ 697
+Retirement & Protection Solutions
+Net revenues $ 3,244 $ 3,094
+Expenses 2,509 2,614
+Adjusted operating earnings $ 735 $ 480
+Corporate & Other
+Net revenues $ 487 $ 546
+Expenses 757 915
+Adjusted operating loss $ (270) $ (369)
+
+The following table presents the segment pretax adjusted operating impacts on our revenues and expenses attributable to unlocking and LTC loss recognition for the years ended December 31:
+
+------------------------------------------------------ ------------- --------------------------------- ---- --------- - --- --- - ----- - -----
+Segment Pretax Adjusted Operating Increase (Decrease) 2021 2020
+Retirement & Protection Solutions Corporate Retirement & Protection Solutions Corporate
+ (in millions)
+Distribution fees $ 2 $ — $ — $ —
+Premiums, policy and contract charges 17 — 2 (3)
+Total revenues 19 — 2 (3)
+
+Benefits, claims, losses and settlement expenses
+LTC unlocking and loss recognition — 3 — 141
+Unlocking, excluding LTC 89 — 189 7
+Total benefits, claims, losses and settlement expenses 89 3 189 148
+Amortization of DAC (65) — 108 (4)
+Total expenses 24 3 297 144
+Pretax income (loss) $ (5) $ (3) $ (295) $ (147)
+
+    45
+
+Advice & Wealth Management
+The following table presents the changes in wrap account assets and average balances for the years ended December 31:
+
+------------------------------------------------ ---- ----- ---- ---- - -----
+ 2021 2020
+(in billions)
+Beginning balance $ 380.0 $ 317.5
+Net flows (1) 40.4 27.0
+Market appreciation (depreciation) and other (1) 44.3 35.5
+Ending balance $ 464.7 $ 380.0
+
+Advisory wrap account assets ending balance (2) $ 459.5 $ 375.7
+Average advisory wrap account assets (3) $ 415.3 $ 318.3
+
+(1) Beginning in the first quarter of 2021, wrap net flows is calculated including dividends and interest less fees which were previously recorded in Market appreciation (depreciation) and other. Net flows excludes short-term and long-term capital gain distributions. Prior periods have been restated.
+(2) Advisory wrap account assets represent those assets for which clients receive advisory services and are the primary driver of revenue earned on wrap accounts. Clients may hold non-advisory investments in their wrap accounts that do not incur an advisory fee.
+(3) Average ending balances are calculated using an average of the prior period’s ending balance and all months in the current period excluding the most recent month for the twelve months ended December 31, 2021 and 2020.
+Wrap account assets increased $84.7 billion, or 22%, during 2021 due to net inflows of $40.4 billion and market appreciation and other of $44.3 billion. Average advisory wrap account assets increased $97.0 billion, or 30%, compared to the prior year reflecting net inflows and market appreciation. Fourth quarter 2021 represented the fifth consecutive quarter wrap net flows at or above $9.0 billion.
+The following table presents the results of operations of our Advice & Wealth Management segment on an adjusted operating basis:
+
+------------------------------------ ------------------------ ----- ------ ----- - ----- ----- - ----- -- -
+ Years Ended December 31, Change
+ 2021 2020
+(in millions)
+Revenues
+Management and financial advice fees $ 5,297 $ 4,211 $ 1,086 26 %
+Distribution fees 2,253 2,002 251 13
+Net investment income 257 313 (56) (18)
+Other revenues 226 208 18 9
+Total revenues 8,033 6,734 1,299 19
+Banking and deposit interest expense 12 59 (47) (80)
+Total net revenues 8,021 6,675 1,346 20
+Expenses
+Distribution expenses 4,842 3,946 896 23
+Interest and debt expense 10 10 — —
+General and administrative expense 1,426 1,398 28 2
+Total expenses 6,278 5,354 924 17
+Adjusted operating earnings $ 1,743 $ 1,321 $ 422 32 %
+
+Our Advice & Wealth Management segment pretax adjusted operating earnings, which exclude net realized investment gains or losses, increased $422 million, or 32%, for 2021 compared to the prior year due to higher average wrap account balances reflecting wrap account net inflows and equity market appreciation and increased transactional activity, partially offset by lower earnings on brokerage cash as a result of low interest rates. Pretax adjusted operating margin was 21.7% for 2021 compared to 19.8% for the prior year. Adjusted operating net revenue per advisor increased to $796,000 for 2021, up 18%, from $674,000 for the prior year.
+Ameriprise Bank, FSB has continued its growth trend, with $11.4 billion of cash sweep balances and $468 million of brokerage client pledged asset lines of credit as of December 31, 2021.
+Net Revenues
+Management and financial fees increased $1.1 billion, or 26%, for 2021 compared to the prior year primarily due to growth in wrap account assets. Average advisory wrap account assets increased $97.0 billion, or 30%, compared to the prior year reflecting net inflows and market appreciation.
+
+    46
+
+Distribution fees increased $251 million, or 13%, for 2021 compared to the prior year reflecting higher average equity markets and increased transactional activity, partially offset by $55 million of lower fees on off-balance sheet brokerage cash due to a decrease in short-term interest rates.
+Net investment income decreased $56 million, or 18%, for 2021 compared to the prior year primarily due to the unfavorable impact of lower short-term interest rates on the investment portfolio supporting the certificate and on-balance sheet brokerage cash products, as well as the continued decline in certificate balances, partially offset by higher average invested assets due to increased bank deposits.
+Banking and deposit interest expense decreased $47 million, or 80%, for 2021 compared to the prior year primarily due to lower average crediting rates on certificates and the continued decline in average certificate balances.
+Expenses
+Distribution expenses increased $896 million, or 23%, for 2021 compared to the prior year reflecting higher asset-based advisor compensation due to higher wrap account assets and increased transactional activity, as well as investments in recruiting experienced advisors.
+General and administrative expense increased $28 million, or 2%, for 2021 compared to the prior year primarily due to higher volume related expenses and higher performance-based compensation expenses.
+
+    47
+
+Asset Management
+The following tables present the mutual fund performance of our retail Columbia Threadneedle Investments funds, including BMO branded funds, as of December 31, 2021:
+
+------------------------------------------------------------------------------------- ------- ------ ------ -------
+Retail Fund Rankings in Top 2 Quartiles or Above Index Benchmark - Asset Weighted (1) 1 year 3 year 5 year 10 year
+Equity 61% 86% 82% 88%
+Fixed Income 77% 96% 96% 92%
+Asset Allocation 60% 83% 86% 90%
+
+4- or 5-star Morningstar rated funds (2) Overall 3 year 5 year 10 year
+Number of rated funds 133 114 111 102
+Percent of rated assets 70% 64% 60% 71%
+
+(1) Retail Fund performance rankings for each fund is measured on a consistent basis against the most appropriate peer group or index. Peer Groupings are defined by either Lipper, IA, or Morningstar and based primarily on the Institutional Share Class, Net of Fees. Comparisons to Index are measured Gross of Fees.
+To calculate asset weighted performance, the sum of the total assets of the funds with above median ranking are divided by total assets of all funds. Funds with more assets will receive a greater share of the total percentage above or below median.
+Aggregated Asset Allocation Funds may include funds that invest in other Columbia or Threadneedle branded mutual funds included in both equity and fixed income.
+(2) Columbia funds are available for purchase by U.S. customers. Out of 91 Columbia funds (Institutional shares) rated, 16 received a 5-star Overall Rating and 37 received a 4-star Overall Rating. Out of 92 Threadneedle funds (highest rated share class) rated, 19 received a 5-star Overall Rating and 35 received a 4-star Overall Rating. Out of 62 BMO funds (highest rated share class) rated, 8 received a 5-star Overall Rating and 18 received a 4-star Over Rating. The Overall Morningstar Rating is derived from a weighted average of the performance figures associated with its 3-, 5- and 10-year (if applicable) Morningstar Rating metrics.
+The following table presents managed assets by type:
+
+------------------------ ------------ ----- ------ ------------- ----------- ----- ------ - ----- ----- - ----- ----- ---- - ----- -- - ----- -- -
+ December 31, Change Average (1) Change
+December 31,
+ 2021 2020 2021 2020
+(in billions) (in billions)
+Equity $ 402.9 $ 302.6 $ 100.3 33 % $ 338.3 $ 259.8 $ 78.5 30 %
+Fixed income 277.0 196.0 81.0 41 211.8 185.0 26.8 14
+Money market 10.1 5.9 4.2 71 6.5 5.1 1.4 27
+Alternative 39.9 22.4 17.5 78 25.8 21.2 4.6 22
+Hybrid and other 24.2 19.7 4.5 23 22.6 18.0 4.6 26
+Total managed assets (2) $ 754.1 $ 546.6 $ 207.5 38 % $ 605.0 $ 489.1 $ 115.9 24 %
+
+(1) Average ending balances are calculated using an average of the prior period’s ending balance and all months in the current period.
+(2) In the fourth quarter of 2021, the definition of Alternative AUM was changed to now include real estate, CLOs, private equity, hedge funds (direct and fund of funds), infrastructure and commodities to better demonstrate our underlying business and the additional assets from the acquisition of the BMO Global Asset Management (EMEA) business. Prior periods have been restated to reflect this change.
+
+    48
+
+The following tables present the changes in global managed assets:
+
+------------------------------------------------ ------------------------ ----- ------ - -----
+ Years Ended December 31,
+ 2021 2020
+(in billions)
+Global Retail Funds
+Beginning assets $ 323.5 $ 287.5
+Inflows 78.7 64.7
+Outflows (69.3) (61.9)
+Net VP/VIT fund flows (4.2) (2.9)
+Net new flows 5.2 (0.1)
+Reinvested dividends 19.0 10.0
+Net flows 24.2 9.9
+Distributions (21.5) (11.6)
+Acquired assets (1) 46.1 —
+Market appreciation (depreciation) and other 47.7 35.5
+Foreign currency translation (2) (1.7) 2.2
+Total ending assets 418.3 323.5
+
+Global Institutional
+Beginning assets 223.1 206.7
+Inflows (3) 50.7 27.4
+Outflows (3) (32.0) (31.6)
+Net flows 18.7 (4.2)
+Acquired assets (1) 90.1 —
+Market appreciation (depreciation) and other (4) 6.5 16.9
+Foreign currency translation (2) (2.6) 3.7
+Total ending assets 335.8 223.1
+Total managed assets $ 754.1 $ 546.6
+
+Total net flows $ 42.9 $ 5.7
+
+Legacy insurance partners net flows (5) $ (4.9) $ (4.8)
+
+(1) Reflects the acquisition of the BMO Global Asset Management (EMEA) business that closed on November 8, 2021.
+(2) Amounts represent local currency to US dollar translation for reporting purposes.
+(3) Global Institutional inflows and outflows include net flows from our RiverSource Structured Annuity product beginning in the first quarter of 2020 and Ameriprise Bank, FSB beginning in the first quarter of 2021.
+(4) Included in Market appreciation (depreciation) and other for Global Institutional is the change in affiliated general account balance, excluding net flows related to our structured variable annuity product beginning in the first quarter of 2020 and Ameriprise Bank, FSB in the first quarter of 2021.
+(5) Legacy insurance partners assets and net flows are included in the rollforwards above.
+On November 8, 2021, we completed our acquisition of the European-based asset management business of BMO Financial Group. This acquisition added $136 billion in assets under management. See Note 9 for more information on this acquisition.
+Total segment AUM increased $207.5 billion, or 38%, during 2021 driven by the acquisition of the BMO Global Asset Management (EMEA) business, market appreciation and net inflows. Net inflows were $42.9 billion for 2021, a $37.2 billion improvement compared to the prior year and included the transfer of $16.9 billion of retail and institutional assets from U.S. BMO asset management clients that elected to move their assets to us during the fourth quarter of 2021 resulting from the transition of investment advisory services as part of an arrangement with BMO Financial Group for their U.S. business. Overall, the $16.9 billion represents the vast majority of the transfer expected under this arrangement, with any additional transfers of U.S. BMO asset management clients to be completed in the first quarter of 2022. Beyond this arrangement, the acquisition established a strategic relationship with BMO Wealth Management giving its North American Wealth Management clients opportunities to access a range of Columbia Threadneedle investment management solutions.
+
+    49
+
+The following table presents the results of operations of our Asset Management segment on an adjusted operating basis:
+
+------------------------------------------ ------------------------ ----- ------ ----- - ----- --- - --- -- -
+ Years Ended December 31, Change
+ 2021 2020
+(in millions)
+Revenues
+Management and financial advice fees $ 3,202 $ 2,475 $ 727 29 %
+Distribution fees 471 411 60 15
+Net investment income 6 3 3 100
+Other revenues 3 2 1 50
+Total revenues 3,682 2,891 791 27
+Banking and deposit interest expense — — — —
+Total net revenues 3,682 2,891 791 27
+Expenses
+Distribution expenses 1,132 945 187 20
+Amortization of deferred acquisition costs 12 11 1 9
+Interest and debt expense 5 5 — —
+General and administrative expense 1,437 1,233 204 17
+Total expenses 2,586 2,194 392 18
+Adjusted operating earnings $ 1,096 $ 697 $ 399 57 %
+
+Our Asset Management segment pretax adjusted operating earnings, which exclude net realized investment gains or losses, increased $399 million, or 57%, for 2021 compared to the prior year primarily due to equity market appreciation, the cumulative impact of net inflows, and a $38 million increase in net performance fees.
+Net Revenues
+Management and financial advice fees increased $727 million, or 29%, for 2021 compared to the prior year primarily driven by higher average equity markets and net inflows, an $89 million increase in performance fees, and $59 million of revenue associated with the acquisition of the BMO Global Asset Management (EMEA) business.
+Distribution fees increased $60 million, or 15%, for 2021 compared to the prior year primarily due to higher average equity markets.
+Expenses
+Distribution expenses increased $187 million, or 20%, for 2021 compared to the prior year primarily due to higher average equity markets.
+General and administrative expense increased $204 million, or 17%, for 2021 compared to the prior year primarily reflecting $52 million related to the operating expenses of the acquired BMO Global Asset Management (EMEA) business, $51 million in higher performance fee related compensation, higher performance-based compensation expenses related to stronger business performance and an unfavorable foreign exchange impact.
+
+    50
+
+Retirement & Protection Solutions
+The following table presents the results of operations of our Retirement & Protection Solutions segment on an adjusted operating basis:
+
+------------------------------------------------ ------------------------ ---- ------ ----- - --- ----- - ---- -- -
+ Years Ended December 31, Change
+ 2021 2020
+(in millions)
+Revenues
+Management and financial advice fees $ 932 $ 831 $ 101 12 %
+Distribution fees 487 437 50 11
+Net investment income 480 508 (28) (6)
+Premiums, policy and contract charges 1,338 1,315 23 2
+Other revenues 7 3 4 NM
+Total revenues 3,244 3,094 150 5
+Banking and deposit interest expense — — — —
+Total net revenues 3,244 3,094 150 5
+Expenses
+Distribution expenses 531 455 76 17
+Interest credited to fixed accounts 389 394 (5) (1)
+Benefits, claims, losses and settlement expenses 1,042 1,131 (89) (8)
+Amortization of deferred acquisition costs 208 300 (92) (31)
+Interest and debt expense 37 39 (2) (5)
+General and administrative expense 302 295 7 2
+Total expenses 2,509 2,614 (105) (4)
+Adjusted operating earnings $ 735 $ 480 $ 255 53 %
+
+NM  Not Meaningful.
+Our Retirement & Protection Solutions segment pretax adjusted operating earnings, which excludes net realized investment gains or losses (net of the related DSIC and DAC amortization, unearned revenue amortization and the reinsurance accrual), the market impact on non-traditional long-duration products (including variable annuity contracts and IUL contracts, net of hedges and the related DSIC and DAC amortization, unearned revenue amortization and the reinsurance accrual) and mean reversion related impacts, and block transfer reinsurance transaction impacts increased $255 million, or 53%, for 2021 compared to the prior year.
+Variable annuity account balances increased 8% to $92.3 billion as of December 31, 2021 compared to the prior year due to market appreciation, partially offset by net outflows of $1.9 billion. Variable annuity sales increased 37% to $6.0 billion for 2021 compared to the prior year reflecting an increase in sales of structured variable annuities that was partially offset by a decrease in sales of variable annuities with living benefit guarantees. Sales of variable annuities without living benefit guarantees comprised 67% of total variable annuity sales in 2021 compared to 49% in 2020. The risk profile of our in force block continues to improve, with account values with living benefit riders down to 61% as of December 31, 2021 compared to 64% a year ago. This trend is expected to continue and meaningfully shift the mix of business away from products with living benefit guarantees over time.
+We continue to optimize our risk profile and shift our business mix to lower risk offerings. During the fourth quarter of 2021, we made the decision to discontinue new sales of substantially all of our variable annuities with living benefit guarantees at the end of 2021, with a full exit by mid-2022. In addition, we discontinued new sales of our universal life insurance with secondary guarantees and our single-pay fixed universal life with a long term care rider products at the end of 2021.
+Net Revenues
+Management and financial advice fees increased $101 million, or 12%, for 2021 compared to the prior year reflecting higher average equity markets, partially offset by variable annuity net outflows.
+Distribution fees increased $50 million, or 11%, for 2021 compared to the prior year reflecting higher average equity markets, partially offset by net outflows.
+Net investment income, which excludes net realized investment gains or losses, decreased $28 million, or 6%, for 2021 compared to the prior year reflecting lower fixed maturity investment yields.
+Expenses
+Distribution expenses increased $76 million, or 17%, for 2021 compared to the prior year primarily reflecting higher average equity markets and increased variable annuity and insurance sales.
+
+    51
+
+Benefits, claims, losses and settlement expenses, which exclude the market impact on variable annuity contracts (net of hedges and the related DSIC amortization), mean reversion related impacts and the DSIC offset to net realized investment gains or losses, decreased $89 million, or 8%, for 2021 compared to the prior year primarily due to the impact of unlocking, as well as lower sales of immediate annuities with a life contingent feature. The unlocking impact for 2021 was an expense of $89 million primarily reflecting continued lower surrender rates compared to an expense of $189 million for the prior year which was also driven by lower surrender rates.
+Amortization of DAC, which excludes mean reversion related impacts, the DAC offset to the market impact on variable annuity contracts and IUL contracts and the DAC offset to net realized investment gains or losses, decreased $92 million, or 31%, for 2021 compared to the prior year reflecting the impact of unlocking primarily due to lower surrender rates, partially offset by a higher level of normalized amortization. The impact of unlocking for 2021 was a benefit of $65 million compared to an expense of $108 million in the prior year.
+
+Corporate & Other
+The following table presents the results of operations of our Corporate & Other segment on an adjusted operating basis:
+
+------------------------------------------------ ------------------------ ----- ------ --- - ----- ----- - ---- -- -
+ Years Ended December 31, Change
+ 2021 2020
+(in millions)
+Revenues
+Management and financial advice fees $ — $ — $ — — %
+Distribution fees 1 — 1 —
+Net investment income 242 377 (135) (36)
+Premiums, policy and contract charges 100 102 (2) (2)
+Other revenues 146 70 76 NM
+Total revenues 489 549 (60) (11)
+Banking and deposit interest expense 2 3 (1) (33)
+Total net revenues 487 546 (59) (11)
+Expenses
+Distribution expenses (9) (7) (2) 29
+Interest credited to fixed accounts 250 261 (11) (4)
+Benefits, claims, losses and settlement expenses 179 344 (165) (48)
+Amortization of deferred acquisition costs 9 6 3 50
+Interest and debt expense 63 66 (3) (5)
+General and administrative expense 265 245 20 8
+Total expenses 757 915 (158) (17)
+Adjusted operating loss $ (270) $ (369) $ 99 27 %
+
+NM  Not Meaningful.
+Our Corporate & Other segment includes our closed blocks of LTC insurance and fixed annuity and fixed indexed annuity (“FA”) business.
+Our Corporate & Other segment pretax adjusted operating loss excludes net realized investment gains or losses, the market impact on fixed deferred annuity contracts (net of hedges and the related DAC amortization), the market impact of hedges to offset interest rate and currency changes on unrealized gains or losses for certain investments, block transfer reinsurance transaction impacts, gain or loss on disposal of a business that is not considered discontinued operations, integration and restructuring charges, and the impact of consolidating CIEs. Our Corporate & Other segment pretax adjusted operating loss decreased $99 million, or 27%, for 2021 compared to the prior year.
+LTC insurance had pretax adjusted operating earnings of $52 million for 2021 compared to a pretax adjusted operating loss of $95 million for the prior year period primarily reflecting the $141 million unfavorable impact from unlocking and loss recognition in the prior year period. LTC insurance mortality and terminations activity have returned to pre-COVID levels in the fourth quarter of 2021. See below for more details on our closed block of LTC insurance.
+FA business had a pretax adjusted operating loss of $24 million for 2021 compared to a pretax adjusted operating loss of $8 million for the prior year reflecting fixed annuity net outflows and the impact of low interest rates. Fixed deferred annuity account balances declined 5% to $7.6 billion as of December 31, 2021 compared to the prior year period as policies continue to lapse and the discontinuance of new sales of fixed deferred annuities and fixed index annuities due to the low interest rate environment. During the third quarter of 2021, we closed on a transaction to reinsure RiverSource Life’s fixed deferred and immediate annuity policies. See Note 1 for more information on the reinsurance transaction.
+
+    52
+
+Net Revenues
+Net investment income, which excludes net realized investment gains or losses, the market impact of hedges to offset interest rate and currency changes on unrealized gains or losses for certain investments, integration and restructuring charges, and the impact of consolidating CIEs, decreased $135 million, or 36%, for 2021 compared to the prior year primarily reflecting lower average invested assets due to the sale of investments to the reinsurer as a result of the fixed deferred and immediate annuity reinsurance transaction, lower asset earned rates, partially offset by a $15 million gain on a strategic investment.
+Other revenues increased $76 million for 2021 compared to the prior year primarily reflecting the yield on deposit receivables.
+Expenses
+Benefits, claims, losses and settlement expenses, which excludes DSIC offset to net realized investment gains or losses, decreased $165 million, or 48%, for 2021 compared to the prior year primarily reflecting the impacts from unlocking and loss recognition and lower LTC insurance claims. The unlocking impact for 2021 was an expense of $3 million compared to an unlocking and loss recognition expense of $148 million in the prior year.
+General and administrative expense, which excludes integration and restructuring charges and expenses attributable to CIEs, increased $20 million, or 8%, for 2021 compared to the prior year primarily due to an unfavorable change in the mark-to-market impact on share-based compensation expense due to share price appreciation.
+Closed Block LTC Insurance
+As of December 31, 2021, our nursing home indemnity LTC block had approximately $74 million in gross in force annual premium and future policyholder benefits and claim reserves of approximately $1.3 billion, net of reinsurance, which was 52% of GAAP reserves. This block has been shrinking over the last few years given the average attained age is 83 and the average attained age of policyholders on claim is 88. Fifty-four percent of daily benefits in force in this block come from policies that have a lifetime benefit period.
+As of December 31, 2021, our comprehensive reimbursement LTC block had approximately $115 million in gross in force annual premium and future policyholder benefits and claim reserves of approximately $1.2 billion, net of reinsurance. This block has higher premiums per policy than the nursing home indemnity LTC policies. The average attained age is 78 and the average attained age of policyholders on claim is 85. Thirty-five percent of daily benefits in force in this block come from policies that have a lifetime benefit period.
+We utilize three primary levers to manage our LTC business. First, we have taken an active approach of steadily increasing rates since 2005, with cumulative rate increases of 199% on our nursing home indemnity LTC block and 113% on our comprehensive reimbursement LTC block as of December 31, 2021. Second, we have a reserving process that reflects the policy features and risk characteristics of our blocks. As of December 31, 2021, we had 38,000 policies that were closed with claim activity, as well as 8,000 open claims. We apply this experience to our in force policies, which were 91,000 as of December 31, 2021, at a very granular level by issue year, attained age and benefit features. Our statutory reserves are $381 million higher than our GAAP reserves and include margins on key assumptions for morbidity and mortality, as well as $363 million in asset adequacy reserves as of December 31, 2021. Lastly, we have prudently managed our investment portfolio primarily through a liquid, investment grade portfolio that is currently in a net unrealized gain position.
+We undertake an extensive review of active life future policy benefit reserve adequacy annually during the third quarter of each year, or more frequently if appropriate, using current best estimate assumptions as of the date of the review. Our annual review process includes an analysis of our key reserve assumptions, including those for morbidity, terminations (mortality and lapses), premium rate increases and investment yields.
+
+Fair Value Measurements
+We report certain assets and liabilities at fair value; specifically, separate account assets, derivatives, embedded derivatives and most investments and cash equivalents. Fair value assumes the exchange of assets or liabilities occurs in orderly transactions and is not the result of a forced liquidation or distressed sale. We include actual market prices, or observable inputs, in our fair value measurements to the extent available. Broker quotes are obtained when quotes from pricing services are not available. We validate prices obtained from third parties through a variety of means such as: price variance analysis, subsequent sales testing, stale price review, price comparison across pricing vendors and due diligence reviews of vendors. See Note 15 to the Consolidated Financial Statements for additional information on our fair value measurements.
+Fair Value of Liabilities and Nonperformance Risk
+Companies are required to measure the fair value of liabilities at the price that would be received to transfer the liability to a market participant (an exit price). Since there is not a market for our obligations of our variable annuity riders, fixed deferred indexed annuities, structured variable annuities, and IUL insurance, we consider the assumptions participants in a hypothetical market would make to reflect an exit price. As a result, we adjust the valuation of variable annuity riders, fixed deferred indexed annuities, structured variable annuities, and IUL insurance by updating certain contractholder assumptions, adding explicit margins to provide for risk, and adjusting the rates used to discount expected cash flows to reflect a market estimate of our nonperformance risk. The nonperformance
+
+    53
+
+risk adjustment is based on observable market data adjusted to estimate the risk of our life insurance company subsidiaries not fulfilling these liabilities. Consistent with general market conditions, this estimate resulted in a spread over the LIBOR swap curve as of December 31, 2021. As our estimate of this spread widens or tightens, the liability will decrease or increase. If this nonperformance credit spread moves to a zero spread over the LIBOR swap curve, the reduction to future net income would be approximately $457 million, net of DAC, DSIC, unearned revenue amortization, the reinsurance accrual and income taxes (calculated at the statutory tax rate of 21%), based on December 31, 2021 credit spreads.
+
+Liquidity and Capital Resources
+Overview
+We maintained substantial liquidity during the year ended December 31, 2021. At December 31, 2021 and 2020, we had $7.1 billion and $6.8 billion, respectively, in cash and cash equivalents excluding CIEs and other restricted cash on a consolidated basis.
+At December 31, 2021 and 2020, the parent company had $841 million and $1.1 billion, respectively, in cash, cash equivalents, and unencumbered liquid securities. Liquid securities predominantly include U.S. government agency mortgage back securities. Additional sources of liquidity include a line of credit with an affiliate up to $1.0 billion and an unsecured revolving committed credit facility for up to $1.0 billion that expires in June 2026. Management’s estimate of liquidity available to the parent company in a volatile and uncertain economic environment as of December 31, 2021 was $2.4 billion which includes cash, cash equivalents, unencumbered liquid securities, the line of credit with an affiliate and a portion of the committed credit facility.
+Under the terms of the committed credit facility, we can increase the availability to $1.25 billion upon satisfaction of certain approval requirements. Available borrowings under this facility are reduced by any outstanding letters of credit. At December 31, 2021, we had no outstanding borrowings under this credit facility and had $1 million of outstanding letters of credit. Our credit facility contains various administrative, reporting, legal and financial covenants. We remain in compliance with all such covenants at December 31, 2021.
+In addition, we have access to collateralized borrowings, which may include repurchase agreements and Federal Home Loan Bank (“FHLB”) advances. Our subsidiaries, RiverSource Life Insurance Company (“RiverSource Life”), and Ameriprise Bank, FSB are members of the FHLB of Des Moines, which provides access to collateralized borrowings. As of December 31, 2021 and 2020, we had an estimated maximum borrowing capacity of $8.1 billion and $7.7 billion, respectively, under the FHLB facilities, of which $200 million was outstanding as of both December 31, 2021 and 2020, and is collateralized with commercial mortgage backed securities and residential mortgage backed securities. We believe cash flows from operating activities, available cash balances and our availability of revolver borrowings will be sufficient to fund our operating liquidity needs and stress requirements.
+Short-term contractual obligations for the year 2022 include investment certificate maturities of $5.1 billion and estimated insurance and annuity benefits of $1.6 billion in addition to operating liquidity needs. Long-term contractual obligations for years after 2022 include estimated insurance and annuity benefits of $42.9 billion.
+See Note 14 to our Consolidated Financial Statements for further information about our long-term debt maturities, including $500 million maturing within the 2022 calendar year.
+We believe cash flows from operating activities, available cash balances, our availability of revolver borrowings and dividends from our subsidiaries will be sufficient to fund our short-term and long-term operating liquidity needs and stress requirements.
+We continue to monitor and respond to the ongoing COVID-19 pandemic. Our risk management strategy is designed to provide proactive protection during stress events such as the current pandemic. We believe our process is working as intended, and our liquidity and capital resources have remained a source of balance sheet strength during the year ended December 31, 2021.
+Dividends from Subsidiaries
+Ameriprise Financial is primarily a parent holding company for the operations carried out by our wholly-owned subsidiaries. Because of our holding company structure, our ability to meet our cash requirements, including the payment of dividends on our common stock, substantially depends upon the receipt of dividends or return of capital from our subsidiaries, particularly our life insurance subsidiary, RiverSource Life, our face-amount certificate subsidiary, Ameriprise Certificate Company (“ACC”), AMPF Holding Corporation, which is the parent company of our retail introducing broker-dealer subsidiary, Ameriprise Financial Services, LLC (“AFS”) and our clearing broker-dealer subsidiary, American Enterprise Investment Services, Inc. (“AEIS”), our transfer agent subsidiary, Columbia Management Investment Services Corp., our investment advisory company, Columbia Management Investment Advisers, LLC, TAM UK International Holdings Ltd, which includes Threadneedle Asset Management Holdings Sàrl and Ameriprise International Holdings GmbH within its organizational structure, and Columbia Threadneedle Investments UK International Ltd. The payment of dividends by many of our subsidiaries is restricted and certain of our subsidiaries are subject to regulatory capital requirements.
+
+    54
+
+Actual capital and regulatory capital requirements for our wholly owned subsidiaries subject to regulatory capital requirements were as follows:
+
+----------------------------------------------------------- -------------- ----- ------------------------------- - ----- --- --- --- --- - ---
+ Actual Capital Regulatory Capital Requirements
+December 31, December 31,
+ 2021 2020 2021 2020
+(in millions)
+RiverSource Life (1)(2) $ 3,419 $ 5,021 $ 502 $ 993
+RiverSource Life of NY (1)(2) 310 323 42 42
+ACC (4)(5) 304 387 283 362
+TAM UK International Holdings Ltd.(6) 330 N/A 248 N/A
+Threadneedle Asset Management Holdings Sàrl (6) N/A 445 N/A 204
+Ameriprise Bank, FSB (4)(7) 853 658 589 543
+AFS (3)(4) 103 134 # #
+Ameriprise Captive Insurance Company (3) 39 41 10 8
+Ameriprise Trust Company (3) 47 42 44 37
+AEIS (3)(4) 155 122 29 25
+RiverSource Distributors, Inc. (3)(4) 10 12 # #
+Columbia Management Investment Distributors, Inc. (3)(4) 14 16 # #
+Columbia Threadneedle Investments UK International Ltd. (8) 348 N/A 170 N/A
+
+N/A  Not applicable.
+#  Amounts are less than $1 million.
+(1) Actual capital is determined on a statutory basis.
+(2) Regulatory capital requirement is the company action level and is based on the statutory risk-based capital filing.
+(3) Regulatory capital requirement is based on the applicable regulatory requirement, calculated as of December 31, 2021 and 2020.
+(4) Actual capital is determined on an adjusted GAAP basis.
+(5) ACC is required to hold capital in compliance with the Minnesota Department of Commerce and SEC capital requirements.
+(6) Actual capital and regulatory capital requirements are determined in accordance with U.K. regulatory legislation. During 2021, an organizational restructure resulted in Threadneedle Asset Management Sàrl becoming a subsidiary of TAM UK International Holdings Ltd, which is responsible for appropriate capital management in accordance with U.K. regulatory legislation.
+(7) Regulatory capital requirement is based on minimum requirements for well capitalized banks in accordance with the Office of the Comptroller of the Currency (“OCC”). Beginning in the first quarter of 2021, Ameriprise Bank transitioned to the Simplified Supervisory Formula Approach (“SSFA”) for risk-weighting non-agency securitized investments, resulting in a significant reduction in risk-weighted assets and an improvement in regulatory capital ratios that were already in a well-capitalized position.
+(8) Actual capital and regulatory capital requirements are determined in accordance with U.K. regulatory legislation.
+In addition to the particular regulations restricting dividend payments and establishing subsidiary capitalization requirements, we take into account the overall health of the business, capital levels and risk management considerations in determining a strategy for payments to our parent holding company from our subsidiaries, and in deciding to use cash to make capital contributions to our subsidiaries.
+During the year ended December 31, 2021, the parent holding company received cash dividends or a return of capital from its subsidiaries of $4.1 billion and contributed cash to its subsidiaries of $1.3 billion, which includes a $973 million contribution to Columbia Threadneedle Investments UK International Ltd. and Ameriprise Asset Management Holdings Singapore Ltd. for the acquisition of the BMO Global Asset Management (EMEA) business. During the year ended December 31, 2020, the parent holding company received cash dividends or a return of capital from its subsidiaries of $2.1 billion and contributed cash to its subsidiaries of $416 million.
+
+    55
+
+The table below presents the historical subsidiary capacity for dividends and return of capital to the parent holding company in each of the years ended December 31:
+
+----------------------------------------------------------- ----- ----- ---- ----- ---- ----- ----- - -----
+ 2021 2020 2019
+(in millions)
+RiverSource Life (1) $ 1,900 $ 1,505 $ 1,676
+Ameriprise Bank, FSB 78 74 20
+ACC (2) 129 97 96
+CMIA (3) 674 381 368
+CMIS (3) 20 14 48
+TAM UK International Holdings Ltd. 355 N/A N/A
+Ameriprise International Holdings GmbH N/A 254 231
+Ameriprise Trust Company 3 — 3
+Ameriprise Captive Insurance Company 34 48 54
+RiverSource Distributors, Inc. — 12 12
+AMPF Holding Corporation 1,469 1,116 1,092
+Columbia Threadneedle Investments UK International Ltd. (4) 178 N/A N/A
+Total capacity $ 4,840 $ 3,501 $ 3,600
+
+N/A  Not applicable.
+(1) For RiverSource Life payments in excess of statutory unassigned funds require advance notice to the Minnesota Department of Commerce, RiverSource Life’s primary regulator, and are subject to potential disapproval. In addition, dividends and other distributions whose fair market value, together with that of other dividends or distributions made within the preceding 12 months, exceeds the greater of (1) the previous year’s statutory net gain from operations or (2) 10% of the previous year-end statutory capital and surplus are referred to as “extraordinary dividends.” Extraordinary dividends also require advance notice to the Minnesota Department of Commerce, and are subject to potential disapproval. For dividends exceeding these thresholds, RiverSource Life provided notice to the Minnesota Department of Commerce and received responses indicating that it did not object to the payment of these dividends. Total dividend capacity for RiverSource Life represents dividends paid during year ended December 31 along with any unpaid ordinary dividend capacity, subject to unassigned funds limitation.
+(2) The capacity for dividends and return of capital for ACC is based on capital held in excess of regulatory requirements.
+(3) The dividend capacity for CMIA and CMIS is based on available tangible capital net of regulatory non-allowable assets and internal requirements backing Seed Capital.
+(4) Dividend capacity is subject to regulatory approval.
+The following table presents cash dividends paid or return of capital to the parent holding company, net of cash capital contributions made by the parent holding company for the following subsidiaries for the years ended December 31:
+
+------------------------------------------------------- ----- ----- ---- ----- ---- ----- ----- - -----
+ 2021 2020 2019
+(in millions)
+RiverSource Life $ 1,900 $ 800 $ 1,350
+Ameriprise Bank, FSB (142) (300) (260)
+ACC 109 72 69
+CMIA 510 324 286
+CMIS — — 40
+TAM UK International Holdings Ltd. 256 N/A N/A
+Ameriprise International Holdings GmbH (1) N/A — 116
+Ameriprise Advisor Capital, LLC (172) (102) (84)
+Ameriprise Captive Insurance Company 5 15 15
+AMPF Holding Corporation 1,284 924 920
+Ameriprise Trust Company — (4) —
+
+Ameriprise India 2 4 —
+RiverSource Distributors, Inc. (3) — —
+Columbia Threadneedle Investments UK International Ltd. (966) — —
+Ameriprise Asset Management Holdings Singapore Ltd. (7) — —
+Total $ 2,776 $ 1,733 $ 2,452
+
+N/A  Not applicable.
+(1) Includes forgiveness of parent holding company debt of $81 million for the year ended December 31, 2019.
+
+    56
+
+In 2009, RiverSource Life established an agreement to protect its exposure to Genworth Life Insurance Company (“GLIC”) for its reinsured LTC. In 2016, substantial enhancements to this reinsurance protection agreement were finalized. The terms of these confidential provisions within the agreement have been shared, in the normal course of regular reviews, with our domiciliary regulator and rating agencies. GLIC is domiciled in Delaware, so in the event GLIC were subjected to rehabilitation or insolvency proceedings, such proceedings would be located in (and governed by) Delaware laws. Delaware courts have a long tradition of respecting commercial and reinsurance affairs, as well as contracts among sophisticated parties. Similar credit protections to what we have with GLIC have been tested and respected in Delaware and elsewhere in the United States, and as a result we believe our credit protections would be respected even in the unlikely event that GLIC becomes subject to rehabilitation or insolvency proceedings in Delaware. Accordingly, while no credit protections are perfect, we believe the correct way to think about the risks represented by our counterparty credit exposure to GLIC is not the full amount of the gross liability that GLIC reinsures, but a much smaller net exposure to GLIC (if any that might exist after taking into account our credit protections). Thus, management believes that our agreement and offsetting non LTC legacy arrangements with Genworth will enable RiverSource Life to recover on all net exposure in all material respects in the event of a rehabilitation or insolvency of GLIC.
+
+Dividends Paid to Shareholders and Share Repurchases
+We paid regular quarterly dividends to our shareholders totaling $527 million and $512 million for the years ended December 31, 2021 and 2020, respectively. On January 26, 2022, we announced a quarterly dividend of $1.13 per common share. The dividend will be paid on February 28, 2022 to our shareholders of record at the close of business on February 11, 2022.
+In August 2020, our Board of Directors authorized an additional repurchase up to $2.5 billion of our common stock through September 30, 2022. As of December 31, 2021, we had $432 million remaining under this share repurchase authorization. On January 26, 2022, our Board of Directors authorized an additional $3.0 billion for the repurchase of our common stock through March 31, 2024. We intend to fund share repurchases through existing working capital, future earnings and other customary financing methods. The share repurchase program does not require the purchase of any minimum number of shares, and depending on market conditions and other factors, these purchases may be commenced or suspended at any time without prior notice. Acquisitions under the share repurchase program may be made in the open market, through privately negotiated transactions or block trades or other means. During the year ended December 31, 2021, we repurchased a total of 7.1 million shares of our common stock at an average price of $258.29 per share.
+
+Cash Flows
+Cash flows of CIEs and restricted and segregated cash are reflected in our cash flows provided by (used in) operating activities, investing activities and financing activities. Cash held by CIEs is not available for general use by Ameriprise Financial, nor is Ameriprise Financial cash available for general use by its CIEs. Cash segregated under federal and other regulations is held for the exclusive benefit of our brokerage customers and is not available for general use by Ameriprise Financial.
+Operating Activities
+Net cash provided by operating activities decreased $1.3 billion to $3.3 billion for the year ended December 31, 2021 compared to $4.6 billion for the prior year primarily reflecting an increase in income taxes paid of $750 million and a decrease in brokerage deposits of $320 million.
+Investing Activities
+Our investing activities primarily relate to our Available-for-Sale investment portfolio. This activity is significantly affected by the net flows of our investment certificate, banking, fixed annuity and universal life products reflected in financing activities.
+Net cash used in investing activities increased $1.5 billion to $4.4 billion for the year ended December 31, 2021 compared to $2.9 billion for the prior year primarily reflecting the acquisition of the BMO Global Asset Management (EMEA) business for $576 million, net of cash acquired, a $373 million increase in Cash paid for deposit receivables driven by the fixed annuity reinsurance transaction in the third quarter of 2021, an increase in net cash outflows related to Available-for-Sale securities of $398 million, and a $241 million decrease in options with deferred premiums.
+Financing Activities
+Net cash provided by financing activities increased $771 million to $1.7 billion for the year ended December 31, 2021 compared to $1.0 billion for the prior year primarily reflecting a $1.4 billion increase in borrowings by CIEs and a $1.4 billion increase in options with deferred premiums, partially offset by a $1.1 billion decrease in repayments of debt by CIEs, and a $700 million decrease in cash related to investment certificates due to certificate net outflows.
+
+Forward-Looking Statements
+This report contains forward-looking statements that reflect management’s plans, estimates and beliefs. Actual results could differ materially from those described in these forward-looking statements. Examples of such forward-looking statements include:
+•statements of the Company’s plans, intentions, positioning, expectations, objectives or goals, including those relating to asset flows, mass affluent and affluent client acquisition strategy, client retention and growth of our client base, financial advisor productivity, retention, recruiting and enrollments, the introduction, cessation, terms or pricing of new or existing products and
+
+    57
+
+services, acquisition integration, benefits and claims expenses, general and administrative costs, consolidated tax rate, return of capital to shareholders, debt repayment and excess capital position and financial flexibility to capture additional growth opportunities;
+•statements of the Company’s position, future performance and ability to pursue business strategy relative to the spread and impact of the COVID-19 pandemic and the related market, economic, client, governmental and healthcare system response;
+•statements about the expected trend in the shift to lower-risk products, including the exit from variable annuities with living benefit riders and the discontinuance of new sales of universal life insurance with secondary guarantees;
+•statements about the benefit of and integration of the Company’s acquisition of the BMO Global Asset Management (EMEA) business;
+•statements about the outcomes from the application to convert Ameriprise Bank, FSB to a state-chartered bank and national trust bank;
+•other statements about future economic performance, the performance of equity markets and interest rate variations and the economic performance of the United States and of global markets; and
+•statements of assumptions underlying such statements.
+The words “believe,” “expect,” “anticipate,” “optimistic,” “intend,” “plan,” “aim,” “will,” “may,” “should,” “could,” “would,” “likely,” “forecast,” “on track,” “project,” “continue,” “able to remain,” “resume,” “deliver,” “develop,” “evolve,” “drive,” “enable,” “flexibility,” “scenario,” “case” and similar expressions are intended to identify forward-looking statements but are not the exclusive means of identifying such statements. Forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from such statements.
+Such factors include, but are not limited to:
+•the impacts on our business of the COVID-19 pandemic and the related economic, client, governmental and healthcare system responses;
+•market fluctuations and general economic and political factors, including volatility in the U.S. and global market conditions, client behavior and volatility in the markets for our products;
+•changes in interest rates and periods of low interest rates;
+•adverse capital and credit market conditions or any downgrade in our credit ratings;
+•effects of competition and our larger competitors’ economies of scale;
+•declines in our investment management performance;
+•our ability to compete in attracting and retaining talent, including financial advisors;
+•impairment, negative performance or default by financial institutions or other counterparties;
+•the ability to maintain our unaffiliated third-party distribution channels and the impacts of sales of unaffiliated products;
+•changes in valuation of securities and investments included in our assets;
+•the determination of the amount of allowances taken on loans and investments;
+•the illiquidity of our investments;
+•effects of the elimination of LIBOR on, and value of, securities and other assets and liabilities tied to LIBOR;
+•failures by other insurers that lead to higher assessments we owe to state insurance guaranty funds;
+•failures or defaults by counterparties to our reinsurance arrangements;
+•inadequate reserves for future policy benefits and claims or for future redemptions and maturities;
+•deviations from our assumptions regarding morbidity, mortality and persistency affecting our insurance profitability;
+•changes to our reputation arising from employee or advisor misconduct or otherwise;
+•direct or indirect effects of or responses to climate change;
+•interruptions or other failures in our operating systems and networks, including errors or failures caused by third-party service providers, interference or third-party attacks;
+•interruptions or other errors in our telecommunications or data processing systems;
+•    identification and mitigation of risk exposure in market environments, new products, vendors and other types of risk;
+•    ability of our subsidiaries to transfer funds to us to pay dividends;
+•    changes in exchange rates and other risks in connection with our international operations and earnings and income generated overseas;
+•    occurrence of natural or man-made disasters and catastrophes;
+•    risks in acquisition transactions, such as the integration of the BMO Global Asset Management (EMEA) business or other potential strategic acquisitions or divestitures;
+•    legal and regulatory actions brought against us;
+•    changes to laws and regulations that govern operation of our business;
+
+    58
+
+•    supervision by bank regulators and related regulatory and prudential standards as a savings and loan holding company that may limit our activities and strategies;
+•    changes in corporate tax laws and regulations and interpretations and determinations of tax laws impacting our products;
+•    protection of our intellectual property and claims we infringe the intellectual property of others; and
+•changes in and the adoption of new accounting standards.
+Management cautions the reader that the foregoing list of factors is not exhaustive. There may also be other risks that management is unable to predict at this time that may cause actual results to differ materially from those in forward-looking statements. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date on which they are made. Management undertakes no obligation to update publicly or revise any forward-looking statements.
+Ameriprise Financial announces financial and other information to investors through the Company’s investor relations website at ir.ameriprise.com, as well as SEC filings, press releases, public conference calls and webcasts. Investors and others interested in the company are encouraged to visit the investor relations website from time to time, as information is updated and new information is posted. The website also allows users to sign up for automatic notifications in the event new materials are posted. The information found on the website is not incorporated by reference into this report or in any other report or document the Company furnishes or files with the SEC.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[see Note 5]:
+(5)As discussed below (see "Industry Overview and Economic Outlook"), North American equipment rental industry revenue is based on industry estimates from the American Rental Association ("ARA"). Subsequent to our prior disclosure of 2020 industry information, the ARA decreased its estimate of the size of the North American equipment rental industry. As a result of this change, relative to our prior disclosures, our market share for 2020 increased and the size of the 2020 decline in North American equipment rental industry revenue decreased. COVID-19 COVID-19 was first identified in people in late 2019. COVID-19 spread rapidly throughout the world and, in March 2020, the World Health Organization characterized COVID-19 as a pandemic. The COVID-19 pandemic has significantly disrupted supply chains and businesses around the world. Uncertainty remains regarding the ongoing impact of existing and emerging variant strains of COVID-19 on the operations and financial position of United Rentals, and on the global economy. Uncertainty also remains regarding the length of time it will take for the COVID-19 pandemic to ultimately subside, which will be impacted by the effectiveness of vaccines against COVID-19 (including against emerging variant strains), and by measures that may in the future be implemented to protect public health. See "Industry Overview and Economic Outlook" below for a discussion of market performance in 2021 and 2020. The health and safety of our employees and customers remains our top priority, and we also implemented a detailed COVID-19 response plan, which is explained in more detail in "Management's Discussion and Analysis of Financial Condition and Results of Operations," and which we believe helped mitigate the impact of COVID-19 on our results. We began to experience a decline in revenues in March 2020, when rental volume declined in response to shelter-in-place orders and other market restrictions. The volume declines were more pronounced in 2020 ...
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[See Note 15]:
+Note 15. Financial Instruments and Risk Management 63
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[See Note 3]:
+NOTE 3. ACQUISITIONS Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.18 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. The table below represents the preliminary purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. The fair values assigned to assets acquired and liabilities assumed are based on management's best estimates and assumptions as of the reporting date. Fair values associated with the net tax liabilities assumed and their related impact to goodwill were pending finalization as of the reporting date. --------------------------------------- ------ ----- ------------------------------------ --- - (dollars in millions) Amount Weighted Average Useful Life (years) Purchased technology $ 331 4 In-process research and development (1) 19 N/A Trademarks 4 3 Customer contracts and relationships 3 10 Total identifiable intangible assets 357 Net liabilities assumed (39) N/A Goodwill (2) 865 N/A Total purchase price $ 1,183 _________________________________________ (1) Capitalized as purchased technology and considered indefinite lived until the completion or abandonment of the associated research and development efforts. (2) Non-deductible for tax-purposes. Pro forma financial information has not been presented for the Frame.io acquisition as the impact to our Consolidated Financial Statements was not material. 70  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Workfront On December 7, 2020, we completed the acquisition of Workfront, a privately held company that provides a workflow platform, for approximately $1.52 ...
+
+[See Note 3]:
+NOTE 3. ACQUISITIONS Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.18 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. The table below represents the preliminary purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. The fair values assigned to assets acquired and liabilities assumed are based on management's best estimates and assumptions as of the reporting date. Fair values associated with the net tax liabilities assumed and their related impact to goodwill were pending finalization as of the reporting date. --------------------------------------- ------ ----- ------------------------------------ --- - (dollars in millions) Amount Weighted Average Useful Life (years) Purchased technology $ 331 4 In-process research and development (1) 19 N/A Trademarks 4 3 Customer contracts and relationships 3 10 Total identifiable intangible assets 357 Net liabilities assumed (39) N/A Goodwill (2) 865 N/A Total purchase price $ 1,183 _________________________________________ (1) Capitalized as purchased technology and considered indefinite lived until the completion or abandonment of the associated research and development efforts. (2) Non-deductible for tax-purposes. Pro forma financial information has not been presented for the Frame.io acquisition as the impact to our Consolidated Financial Statements was not material. 70  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Workfront On December 7, 2020, we completed the acquisition of Workfront, a privately held company that provides a workflow platform, for approximately $1.52 ...
+
+[See Note 12]:
+Note 12 - Leases 90
+
+[See Note 12]:
+Note 12 - Leases 90
+
+[See Note 15]:
+Note 15. Financial Instruments and Risk Management 63
+
+[see Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[see Note 3]:
+NOTE 3. ACQUISITIONS Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.18 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. The table below represents the preliminary purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. The fair values assigned to assets acquired and liabilities assumed are based on management's best estimates and assumptions as of the reporting date. Fair values associated with the net tax liabilities assumed and their related impact to goodwill were pending finalization as of the reporting date. --------------------------------------- ------ ----- ------------------------------------ --- - (dollars in millions) Amount Weighted Average Useful Life (years) Purchased technology $ 331 4 In-process research and development (1) 19 N/A Trademarks 4 3 Customer contracts and relationships 3 10 Total identifiable intangible assets 357 Net liabilities assumed (39) N/A Goodwill (2) 865 N/A Total purchase price $ 1,183 _________________________________________ (1) Capitalized as purchased technology and considered indefinite lived until the completion or abandonment of the associated research and development efforts. (2) Non-deductible for tax-purposes. Pro forma financial information has not been presented for the Frame.io acquisition as the impact to our Consolidated Financial Statements was not material. 70  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Workfront On December 7, 2020, we completed the acquisition of Workfront, a privately held company that provides a workflow platform, for approximately $1.52 ...
+
+[see Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[See Note 24]:
+Note 24 - Reportable Operating Segments and Geographic Operations 149
+
+[See Note 9]:
+Note 9 -- Derivative Instruments During the year ended December 31, 2021, the Company entered into two foreign currency swap agreements. The objective of both agreements is to manage the risk of changes in cash flows resulting from foreign currency gains/losses realized upon remeasurement of U.S. dollar denominated SCL senior notes by swapping a specified amount of Hong Kong dollars for U.S. dollars at the contractual spot rate. The terms in one of the contracts did not effectively match the terms of the related SCL senior notes; thus, it was not designated as hedging (the "Non-Hedging Swap"). The remaining contract was designated as a hedge of the cash flows related to a portion of the SCL senior notes (the "Hedging Swap," and together with the Non-Hedging Swap, the "FX Swaps"). The Non-Hedging Swap and the Hedging Swap have a total notional value of $500 million and $1.0 billion, respectively, and expire in August 2023 and August 2025, respectively. The total fair value of the FX Swaps is recorded as an asset in other assets, net. The fair value of the FX Swaps was estimated using Level 2 inputs from recently reported market transactions of foreign currency exchange rates. For the Hedging Swap, the changes in fair value of the derivative were recognized as other comprehensive income in the accompanying consolidated balance sheets. Additionally, the foreign currency gains/losses incurred from the remeasurement of the portion of the SCL senior notes being hedged were also recognized in other comprehensive income. For the Non-Hedging Swap the changes in fair value of the derivative were recorded in other income in the accompanying consolidated statements of operations. In August 2018, the Company entered into interest rate swap agreements (the "IR Swaps"), which qualified and were designated as fair value hedges, swapping fixed-rate for variable-rate interest to hedge changes in the fair value of the 2023, 2025 and 2028 SCL Senior Notes. These IR Swaps had a total not...
+
+[See Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+[See Note 15]:
+Note 15. Financial Instruments and Risk Management 63
+
+[See Note 14]:
+Note 14 - Arrangements with Off-Balance Sheet Risk 97
+
+[Note 15 to the Consolidated Financial Statements]:
+Note 15. Financial Instruments and Risk Management 63
+
+[see Part I, Item 1]:
+Item 1 Business 1
+
+[Part I, Item 1]:
+Item 1 Business 1
+
+[discussed in Item 1A]:
+Item 1A. Risk Factors 21

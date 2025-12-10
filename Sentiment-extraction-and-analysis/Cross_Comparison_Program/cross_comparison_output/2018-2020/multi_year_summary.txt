@@ -1,0 +1,111 @@
+================================================================================
+MULTI-YEAR SENTIMENT ANALYSIS COMPARISON
+FinBERT vs. LM Dictionary
+================================================================================
+
+CONFIGURATION
+--------------------------------------------------------------------------------
+Threshold method: std
+LM standardization: proportion
+Year range: (2018, 2025)
+
+YEARS ANALYZED
+--------------------------------------------------------------------------------
+Years: [2018, 2019, 2020]
+Total years: 3
+
+SAMPLE SIZES
+--------------------------------------------------------------------------------
+  2018: 395 companies
+  2019: 380 companies
+  2020: 392 companies
+
+Total observations: 1167
+Unique companies: 483
+
+COMPANY COVERAGE
+--------------------------------------------------------------------------------
+Companies present in all 3 years: 277
+Companies present in some years: 206
+Total unique companies: 483
+
+CORRELATION RESULTS BY YEAR
+================================================================================
+
+Net Sentiment Correlations:
+--------------------------------------------------------------------------------
+  Year 2018:
+    Pearson:  r = 0.437 (p = 8.2562e-20)
+    Spearman: r = 0.521 (p = 8.2120e-29)
+    Kendall:  τ = 0.364 (p = 4.3184e-27)
+  Year 2019:
+    Pearson:  r = 0.512 (p = 8.0913e-27)
+    Spearman: r = 0.555 (p = 4.1552e-32)
+    Kendall:  τ = 0.399 (p = 5.3667e-31)
+  Year 2020:
+    Pearson:  r = 0.476 (p = 1.5981e-23)
+    Spearman: r = 0.525 (p = 4.0152e-29)
+    Kendall:  τ = 0.368 (p = 1.6152e-27)
+
+Positive Sentiment Correlations:
+--------------------------------------------------------------------------------
+  Year 2018:
+    Pearson:  r = 0.566 (p = 8.4704e-35)
+    Spearman: r = 0.472 (p = 2.6271e-23)
+    Kendall:  τ = 0.338 (p = 1.8438e-23)
+  Year 2019:
+    Pearson:  r = 0.596 (p = 6.6373e-38)
+    Spearman: r = 0.552 (p = 1.0040e-31)
+    Kendall:  τ = 0.399 (p = 6.3698e-31)
+  Year 2020:
+    Pearson:  r = 0.574 (p = 1.0829e-35)
+    Spearman: r = 0.537 (p = 1.2090e-30)
+    Kendall:  τ = 0.387 (p = 4.2169e-30)
+
+Negative Sentiment Correlations:
+--------------------------------------------------------------------------------
+  Year 2018:
+    Pearson:  r = 0.489 (p = 3.4639e-25)
+    Spearman: r = 0.477 (p = 7.0762e-24)
+    Kendall:  τ = 0.342 (p = 4.3721e-24)
+  Year 2019:
+    Pearson:  r = 0.549 (p = 2.9604e-31)
+    Spearman: r = 0.555 (p = 4.7439e-32)
+    Kendall:  τ = 0.401 (p = 2.8556e-31)
+  Year 2020:
+    Pearson:  r = 0.574 (p = 9.1349e-36)
+    Spearman: r = 0.572 (p = 1.7947e-35)
+    Kendall:  τ = 0.416 (p = 1.6634e-34)
+
+CLASSIFICATION METRICS BY YEAR
+================================================================================
+  Year 2018:
+    Cohen's Kappa: -0.003
+    Accuracy:      0.590 (59.0%)
+  Year 2019:
+  Year 2020:
+
+OVERALL STATISTICS (ALL YEARS COMBINED)
+================================================================================
+Overall Pearson correlation: r = 0.478 (p = 1.1655e-67, N = 1167)
+
+Average Metrics Across All Years:
+--------------------------------------------------------------------------------
+Average net Pearson correlation:   r = 0.475
+Average net Spearman correlation:  r = 0.534
+Average net Kendall correlation:   τ = 0.377
+Average Cohen's Kappa:             κ = -0.003
+Average classification accuracy:     0.590 (59.0%)
+
+
+SUMMARY & INTERPRETATION
+================================================================================
+The average correlation between FinBERT and LM methods is 0.475,
+indicating a moderate positive relationship.
+
+The classification methods agree 59.0% of the time on average,
+suggesting limited agreement between the two sentiment analysis approaches.
+
+================================================================================
+END OF REPORT
+================================================================================

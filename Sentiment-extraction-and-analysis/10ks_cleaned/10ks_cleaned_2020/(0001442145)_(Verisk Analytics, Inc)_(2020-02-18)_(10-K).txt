@@ -1,0 +1,476 @@
+================================================================================
+CIK: 0001442145
+Company Name: Verisk Analytics, Inc
+Filing Date: 2020-02-18
+Form Type: 10-K
+Extraction Date: 2025-08-31 12:43:27
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion should be read in conjunction with our historical financial statements and the related notes included elsewhere in this annual report on Form 10-K, as well as the discussion under “Selected Consolidated Financial Data.” This discussion contains forward-looking statements that involve risks and uncertainties. Our actual results may differ materially from those discussed in or implied by any of the forward-looking statements as a result of various factors, including but not limited to those listed under “Risk Factors” and “Special Note Regarding Forward-Looking Statements.”
+
+This discussion includes a comparison of our results of operations, liquidity and capital resources, financing and financing capacity and cash flow for the years ended December 31, 2019 and 2018. A discussion of changes in our results of operations and cash flows for the years ended December 31, 2018 and 2017 can be found in "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations" within the annual report on Form 10-K for the year ended December 31, 2018 filed on February 19, 2019.
+
+Verisk is a leading data analytics provider serving customers in insurance, energy and specialized markets, and financial services. Using advanced technologies to collect and analyze billions of records, we draw on unique data assets and deep domain expertise to provide innovations that may be integrated into customer workflows. We offer predictive analytics and decision support solutions to customers in rating, underwriting, claims, catastrophe and weather risk, natural resources intelligence, economic forecasting, commercial banking and finance, and many other fields. In the United States, or U.S., and around the world, we help customers protect people, property, and financial assets. Refer to Item 1. Business for further discussion.
+Our customers use our solutions to make better decisions about risk and opportunities with greater efficiency and discipline. We refer to these products and services as “solutions” due to the integration among our products and the flexibility that enables our customers to purchase components or the comprehensive package of products. These solutions take various forms, including data, statistical models or tailored analytics, all designed to allow our customers to make more logical decisions. We believe our solutions for analyzing risk positively impact our customers’ revenues and help them better manage their costs.
+We previously reported results based on two operating segments, Decision Analytics and Risk Assessment. During the first quarter of 2018, the chief operating decision maker, or CODM, changed how he makes operating decisions, assesses the performance of the business, and allocates resources in a manner that caused the Company's operating segments to change. Consequently, effective as of the first quarter of 2018, our operating segments are based on three vertical markets we serve: Insurance, Energy and Specialized Markets, and Financial Services. These three operating segments are also our reportable segments, which have been retroactively recast to reflect the new segments in all periods presented.
+Our Insurance segment provides underwriting and ratings, and claims insurance data for the U.S. P&C insurance industry. This segment's revenues represented approximately 71% of our revenues for the years ended December 31, 2019 and 2018. Our Energy and Specialized Markets segment provides research and consulting data analytics for the global energy,
+
+30
+
+Table of Contents
+
+chemicals, and metals and mining industries. Our Energy and Specialized Markets segment's revenues represented approximately 22% of our revenues for the years ended December 31, 2019 and 2018. Our Financial Services segment provides competitive benchmarking, decisioning algorithms, business intelligence, and customized analytic services to financial institutions, payment networks and processors, alternative lenders, regulators and merchants. Our Financial Services segment's revenues represented approximately 7% of our revenues for the years ended December 31, 2019 and 2018.
+
+Executive Summary
+Key Performance Metrics
+We believe our business’s ability to grow recurring revenue and generate positive cash flow is the key indicator of the successful execution of our business strategy. We use year-over-year revenue and EBITDA growth as metrics to measure our performance. EBITDA and EBITDA margin are non-GAAP financial measures (see Note 2 within Item 6. Selected Financial Data section of Management’s Discussion and Analysis of Financial Condition and Results of Operations). The respective GAAP financial measures are net income and net income margin.
+Revenue growth. We use year-over-year revenue growth as a key performance metric. We assess revenue growth based on our ability to generate increased revenue through increased sales to existing customers, sales to new customers, sales of new or expanded solutions to existing and new customers, and strategic acquisitions of new businesses.
+EBITDA growth. We use EBITDA growth as a measure of our ability to balance the size of revenue growth with cost management and investing for future growth. EBITDA growth allows for greater transparency regarding our operating performance and facilitate period-to-period comparison.
+EBITDA margin. We use EBITDA margin as a metric to assess segment performance and scalability of our business. We assess EBITDA margin based on our ability to increase revenues while controlling expense growth.
+Revenues
+We earn revenues through agreements for hosted subscriptions, advisory/consulting services, and for transactional solutions, recurring and non-recurring. Subscriptions for our solutions are generally paid in advance of rendering services either quarterly or in full upon commencement of the subscription period, which is usually for one year and automatically renewed each year. As a result, the timing of our cash flows generally precedes our recognition of revenues and income and our cash flow from operations tends to be higher in the first quarter as we receive subscription payments. Examples of these arrangements include subscriptions that allow our customers to access our standardized coverage language, our claims fraud database or our actuarial services throughout the subscription period. In general, we experience minimal revenue seasonality within the business.
+Approximately 82% of the revenues in our Insurance segment for the years ended December 31, 2019 and 2018 were derived from hosted subscriptions through agreements (generally one to five years) for our solutions. Our customers in this segment include most of the P&C insurance providers in the U.S. Approximately 78% of the revenues in our Energy and Specialized Markets segment for the years ended December 31, 2019 and 2018 were derived from hosted subscriptions with long-term agreements for our solutions. Our customers in this segment include most of the top 10 global energy providers around the world. Approximately 72% and 73% of the revenues in our Financial Services segment for the years ended December 31, 2019 and 2018, respectively, were derived from subscriptions with long-term agreements for our solutions, respectively. Our customers in this segment include financial institutions, payment networks and processors, alternative lenders, regulators, merchants, and all of the top 30 credit card issuers in North America, the United Kingdom, and Australia.
+We also provide advisory/consulting services, which help our customers get more value out of our analytics and their subscriptions. In addition, certain of our solutions are paid for by our customers on a transactional basis, recurring and non-recurring. For example, we have solutions that allow our customers to access property-specific rating and underwriting information to price a policy on a commercial building, or compare a P&C insurance or a workers' compensation claim with information in our databases, or use our repair cost estimation solutions on a case-by-case basis. For the years ended December 31, 2019 and 2018, approximately 19% and 20% of our consolidated revenues were derived from providing transactional and advisory/consulting solutions, respectively.
+
+31
+
+Table of Contents
+
+Principal Operating Costs and Expenses
+Personnel expenses are a major component of both our cost of revenues and selling, general and administrative expenses. Personnel expenses, which represented approximately 52% and 58% of our total operating expenses for the years ended December 31, 2019 and 2018, respectively, include salaries, benefits, incentive compensation, equity compensation costs, sales commissions, employment taxes, recruiting costs, and outsourced temporary agency costs.
+We assign personnel expenses between two categories, cost of revenues and selling, general and administrative costs, based on the actual costs associated with each employee. We categorize employees who maintain our solutions as cost of revenues, and all other personnel, including executive managers, sales people, marketing, business development, finance, legal, human resources, and administrative services, as selling, general and administrative expenses. A significant portion of our other operating costs, such as facilities and communications, are either captured within cost of revenues or selling, general and administrative expense based on the nature of the work being performed.
+While we expect to grow our headcount over time to take advantage of our market opportunities, we believe that the economies of scale in our operating model will allow us to grow our personnel expenses at a lower rate than revenues. Historically, our EBITDA margin has improved because we have been able to increase revenues without a proportionate corresponding increase in expenses. However, part of our corporate strategy is to invest in new solutions and new businesses, which may offset margin expansion.
+Cost of Revenues. Our cost of revenues consists primarily of personnel expenses. Cost of revenues also includes the expenses associated with the acquisition and verification of data, the maintenance of our existing solutions and the development and enhancement of our next-generation solutions. Our cost of revenues excludes depreciation and amortization.
+Selling, General and Administrative Expense. Our selling, general and administrative expense also consists primarily of personnel costs. A portion of the other operating costs such as facilities, insurance and communications are allocated to selling, general and administrative costs based on the nature of the work being performed by the employee. Our selling, general and administrative expenses excludes depreciation and amortization.
+Trends Affecting Our Business
+We serve customers in three primary vertical markets: P&C insurance, energy and specialized markets, and financial services. The industry trends in each of those markets can affect our business.
+ A significant change in P&C insurers’ profitability could affect the demand for our solutions. For insurers, the keys to profitability include increasing investment income, premium growth and disciplined underwriting of risks. Investment income remains under pressure as a result of low interest rates. Growth in P&C insurers’ direct written premiums is cyclical, with total industry premium growth receding from a peak of 14.8% in 2002 to a trough of negative 3.1% in 2009 and subsequently recovering to 4.4% in 2012, 4.3% in 2013, 4.4% in 2014, 3.7% in 2015, 3.7% in 2016, 4.7% in 2017 and, 5.5% in 2018.  In recent years, we have signed multi-year contracts with certain customers, and pricing is fixed at the beginning of each multi-year period; pricing for other customers is still linked to prior years' premiums. Based on the most recent results available, direct premium growth and net premium growth accelerated in 2018. However, insurers were also challenged by heightened catastrophic losses in 2018 associated with major hurricanes, such as Florence and Michael, and several devastating wildfires in the state of California, coupled with additional losses reported from the three major hurricanes in 2017 - Harvey, Irma, and Maria. These events illustrate the need for broader coverages, such as flood to meet the changing needs of communities.  We continue to provide the necessary resources to meet insurer needs.
+
+Trends in catastrophe and non-catastrophe weather losses can have an effect on our customers’ profitability, and therefore on their appetite for buying analytics to help them manage their risks. Any increase or decrease in frequency or severity of weather events over time could lead to an increased or decreased demand for our catastrophe modeling, catastrophe loss information, and repair cost solutions. Likewise, any structural changes in the reinsurance and related brokerage industry from the recent influx of alternative capital or newer technologies could affect demand for our products. We also have a portion of our revenue related to the number of claims processed due to losses, which can be impacted by seasonal storm activity. The need by our customers to fight insurance fraud - both in claims and at policy inception - could lead to increased demand for our underwriting and claims solutions.
+
+Trends in the energy, chemicals, metals and mining sectors, and activity in financial markets can influence our revenues. These include geopolitical risks such as the U.S.-China trade dispute and heightened tension in the Middle East, among others, which influenced commodity flows and prices in 2019. Commodity markets in energy were also oversupplied challenging the revenues for some of our major energy customers. Brent oil averaged $64 dollar per barrel in 2019, down from
+
+32
+
+Table of Contents
+
+$71 dollar per barrel in 2018; U.S. and globally traded gas prices are also in a downcycle. Investment in the natural resources sector fell sharply mid-decade but has stabilised at a lower level in recent years. Many companies in the natural resources sector continue to demonstrate tight capital discipline which may affect our business. The energy transition presents both a threat and an opportunity for the sector and our revenues. Increasing global economic growth will lead to higher energy demand and, in turn, potentially our services. Fossil fuels will meet much of global demand for some decades, but zero carbon energy (renewables and emerging technologies such as electric vehicles and energy storage) will grow in importance. The infrastructure needed for the electrification of economies will drive demand for base metals, some bulk commodities and battery raw materials. Climate change and decarbonisation are rising up the agenda, and policy on environmental and social governance is intensifying. Attracting the capital needed to meet future energy demand is one of the industry’s challenges and data, analysis and insight will help our customers achieve this.
+Trends in the banking and retail sectors can influence revenues in our Financial Services segment in many ways. Fraud and similar financial crimes in particular impact our customers in ways ranging from regulatory risk and credit loss for financial institutions, to counterfeit loss and inventory shrinkage for merchants. This can strengthen demand for our credit risk and fraud solutions ranging from enhanced brand protection solutions for retailers, through to enhanced artificial-intelligence led models to identify cross bank and cross-border fraudulent transactions. Following regulatory intervention, some markets are seeing increased standardization of offered products across issuers which could stifle competition and innovation for consumers. Additionally, traditional retail banks and consumer lenders face increasing competition from financial technology companies and on-line lending new entrants, and finally the market is reacting to increased data privacy laws such as General Data Protection Regulation, or GDPR, by demanding broader use of tokenization-based solutions and managing data use rights more closely. Our data model has relied on tokenization, and we address these emerging issues by leveraging our extensive wallet-based market and product data and expertise, and also support an active and ongoing dialogue with regulators worldwide to fully understand the impact and adverse consequences of any intended legislation.
+Description of Acquisitions
+We acquired twenty-three businesses since January 1, 2017. These acquisitions affect the comparability of our consolidated results of operations between periods. See a description of our 2019 acquisitions below and Note 10. to our consolidated financial statements included in this annual report on Form 10-K for further discussions.
+2019 Acquisitions
+On December 23, 2019, we acquired 100 percent of the stock of Flexible Architecture and Simplified Technology, LLC., or FAST, a software company for the life insurance and annuity industry. FAST offers a flexible policy administration system that helps insurers accelerate underwriting and claims to enhance the customer experience and support profitable growth. FAST has become part of the claims category within our Insurance segment, and expanded and enhanced the suite of solutions we are developing across the enterprise for life insurers looking to transform the customer experience throughout the life of the policy, from quote to claims.
+On December 19, 2019, we acquired selected assets of Commerce Signals, Inc., or Commerce Signals, a software company that offers a data sharing platform for retail, restaurant and entertainment marketers. Commerce Signals has become part of our Financial Services segment, and enhanced the existing solutions we currently offer.
+On November 5, 2019, we acquired 100 percent of the stock of Genscape, Inc., or Genscape, a global provider of real-time data and intelligence for commodity and energy markets. Genscape has become part of the Energy and Specialized Markets segment, and enhanced our business’ existing sector intelligence in energy data and analytics.
+On October 10, 2019, we acquired 100 percent of the stock of BuildFax, Inc., or BuildFax. BuildFax uses building permit, contractor, and inspection data to provide information about the condition of properties to insurance and financial institutions. The data from BuildFax enhances property analytics under the underwriting & rating category within our Insurance segment while helping underwriters gain insight into changes in the property insured.
+On August 28, 2019, we acquired substantially all of the assets of Property Pres Wizard, LLC, or PPW. PPW is a web and mobile application that manages work order details and property status in the field services industry throughout the supply chain. PPW has become part of the claims category within our Insurance segment and added a service order and project management application to our PropTech suite of solutions.
+On July 31, 2019, we acquired 100 percent of the stock of Keystone Aerial Surveys, Inc., or Keystone, to expand our remote imagery business. Keystone sources imagery by providing customers geospatial solutions and has become part of the claims category within our Insurance segment. Keystone was a component within the aerial imagery sourcing group, which was qualified as assets held for sale on December 2, 2019. On February 1, 2020, the sale of the aerial imagery sourcing group was
+
+33
+
+Table of Contents
+
+closed. See Description of Businesses Held for Sale and Disposition below and Note 10. of our consolidated financial statements included in this annual report on Form 10-K for further discussion.
+On March 29, 2019, we entered into an agreement with an enterprise application software provider to acquire their Content as a Service (“CaaS”) business, which included the Environmental Health and Safety Regulatory Content and Environmental Health and Safety Regulatory Documentation teams and data assets. The CaaS business has become part of our Energy and Specialized Markets segment. This transaction strengthened our environmental health and safety services business and extended its global customer footprint and European operations.
+
+Description of Businesses Held for Sale and Disposition
+
+During the fourth quarter of 2019, our compliance background screening business and the aerial imagery sourcing group within the remote imagery business qualified as assets held for sale, respectively. These assets held for sale were part of the claims category within our Insurance segment as of December 31, 2019. Our board of directors approved the actions to make these assets held for sale available for immediate sale at their current fair value in the fourth quarter of 2019. On February 1, 2020, the sale of the aerial imagery sourcing group was completed. We contributed the assets and stock related to the business held for sale and cash of $60.0 million in exchange for a non-controlling 35.0% ownership interest in Vexcel Group, Inc. On February 14, 2020, the sale of the compliance background screening business was also completed. See Note 11. to our consolidated financial statements included in this annual report on Form 10-K.
+
+On July 15, 2019, we sold our retail analytics solution business for $2.0 million excluding contingent and indemnity escrows of $0.4 million. The sale resulted in a loss of $6.2 million for the year ended December 31, 2019. See Note 11. to our consolidated financial statements included in this annual report on Form 10-K.
+Year Ended December 31, 2019 Compared to Year Ended December 31, 2018
+Consolidated Results of Continuing Operations
+Revenues
+Revenues were $2,607.1 million for the year ended December 31, 2019 compared to $2,395.1 million for the year ended December 31, 2018, an increase of $212.0 million or 8.9%. Our recent acquisitions (Business Insight, Validus, Rulebook, Keystone, PPW, BuildFax and FAST within the Insurance segment; the CaaS business and Genscape within the Energy and Specialized Markets segment; and Commerce Signals within the Financial Services segment), and businesses held for sale (compliance background screening and the aerial imagery sourcing businesses within the claims category of the Insurance segment), partially offset by the disposition (retail analytics solution business within the Financial Services segment), contributed net revenues of $64.7 million. The remaining increases in our consolidated revenues of $147.3 million or 6.2% related to the following: revenues within our Insurance segment increased $115.6 million or 6.8%; revenues within our Energy and Specialized Markets segment increased $27.5 million or 5.3%; and revenues within our Financial Services segment increased $4.2 million or 2.4%. Refer to the Results of Operations by Segment within this section for more information regarding our revenues.
+
+------------------------------ ------------- ------- ---- ----------------- ------- ----------------------------------------------------------------------------------------- ---- - --- -
+
+ 2019 2018 Percentage change Percentage change excluding recent acquisitions, businesses held for sale and disposition
+
+ (in millions)
+Insurance $ 1,855.5 $ 1,705.9 8.8 % 6.8 %
+Energy and Specialized Markets 573.6 513.3 11.7 % 5.3 %
+Financial Services 178.0 175.9 1.2 % 2.4 %
+Total revenues $ 2,607.1 $ 2,395.1 8.9 % 6.2 %
+
+34
+
+Table of Contents
+
+Cost of Revenues
+Cost of revenues was $976.8 million for the year ended December 31, 2019 compared to $886.2 million for the year ended December 31, 2018, an increase of $90.6 million or 10.2%. Our recent acquisitions, businesses held for sale and disposition accounted for a net increase of $32.3 million in cost of revenues, which was primarily related to salaries and employee benefits. The remaining cost of revenues increased $58.3 million or 6.7% primarily due to increases in salaries and employee benefits of $40.3 million, information technology expenses of $10.2 million, data costs of $4.4 million, and other operating expenses of $3.4 million.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses, or SGA, were $603.5 million for the year ended December 31, 2019 compared to $378.7 million for the year ended December 31, 2018, an increase of $224.8 million or 59.4%. Our litigation reserve related to the Xactware Solutions, Inc. Patent Litigation accounted for an increase of $125.0 million (see Note 21, Commitments and Contingencies, to our consolidated financial statements included in this annual report on Form 10-K). Our acquisition-related costs (earn-outs) accounted for an increase of $71.1 million (see Note 10, Acquisitions, to our consolidated financial statements included in this annual report on Form 10-K). Our recent acquisitions, businesses held for sale, and disposition, accounted for an net increase of $12.6 million primarily related to salaries and employee benefits. The remaining SGA increased $16.1 million or 4.3% primarily due to increases in salaries and employee benefits of $11.7 million, information technology expenses of $3.2 million, and professional consulting costs of $2.7 million; these increases were partially offset by a decrease in other general expenses of $1.5 million.
+The increase in salaries and employee benefits of $11.7 million included an increase in stock based compensation of $2.0 million. Our stock based compensation increased as a result of the expensing of the full impact of the equity awards in the period for all employees upon the attainment of age 62 during the year in accordance with ASC 718, Stock Compensation, or ASC 718, instead of amortizing the expense over the vesting term.
+Other Operating Expenses
+Other operating expenses were $6.2 million for the year ended December 31, 2019 compared to $0 million for the year ended December 31, 2018, an increase of $6.2 million, primarily related to a loss associated with the disposition of our retail analytics solution business.
+Depreciation and Amortization of Fixed Assets
+Depreciation and amortization of fixed assets was $185.7 million for the year ended December 31, 2019 compared to $165.3 million for the year ended December 31, 2018, an increase of $20.4 million or 12.4%. The increase in depreciation and amortization of fixed assets primarily related to depreciation and amortization incurred in connection to our recent acquisitions, hardware and software development costs and aircraft equipment placed into use to support data capacity expansion and revenue growth.
+ Amortization of Intangible Assets
+Amortization of intangible assets was $138.0 million for the year ended December 31, 2019 compared to $130.8 million for the year ended December 31, 2018, an increase of $7.2 million or 5.5%. The increase was primarily due to amortization related to our recent acquisitions of $11.8 million, partially offset by currency fluctuations impacting amortization denominated in currencies other than U.S. dollars.
+Investment (Loss) Income and Others, Net
+Investment (loss) income and others, net was a loss of $1.7 million for the year ended December 31, 2019 compared to a gain of $15.3 million for the year ended December 31, 2018. The decrease of $17.0 million was primarily due to a realized gain and interest income of $20.4 million related to the repayment of the subordinated promissory note receivable in August 2018, prior to its maturity.
+Interest Expense
+Interest expense was $126.8 million for the year ended December 31, 2019 compared to $129.7 million for the year ended December 31, 2018, a decrease of $2.9 million or 2.2%. The decrease was primarily due to our higher average outstanding borrowings for the year ended December 31, 2018 related to the Credit Facility. These higher average outstanding borrowings in 2018 were primarily associated with the funding of the acquisitions of G2, LCI and Sequel, which occurred in August 2017 and PowerAdvocate, which occurred in December 2017.
+
+35
+
+Table of Contents
+
+Provision for Income Taxes
+The provision for income taxes was $118.5 million for the year ended December 31, 2019 compared to $121.0 million for the year ended December 31, 2018, a decrease of $2.5 million or 2.0%. The effective tax rate was 20.9% for the year ended December 31, 2019 compared to 16.8% for the year ended December 31, 2018. The increase in the effective tax rate in 2019 compared to 2018 was primarily due to the impact of lower tax benefits from equity compensation in the current period versus the prior period as well as nondeductible earn-out expenses in the current period.
+Net Income
+The net income margin for our consolidated results was 17.3% for the year ended December 31, 2019 compared to 25.0% for the year ended December 31, 2018.
+EBITDA Margin
+The EBITDA margin for our consolidated results was 39.1% for the year ended December 31, 2019 compared to 47.8% for the year ended December 31, 2018. The decrease in EBITDA margin was primarily related to the litigation reserve, acquisition-related costs (earn-outs), the loss on the sale of our retail analytics solution business, and additional stock-based compensation as a result of accelerated vesting of equity awards granted to employees at age 62 for the year ended December 31, 2019.
+
+Results of Continuing Operations by Segment
+Insurance
+Revenues
+
+Revenues were $1,855.5 million for the year ended December 31, 2019 compared to $1,705.9 million for the year ended December 31, 2018, an increase of $149.6 million or 8.8%. Our underwriting & rating revenues increased $100.1 million or 8.7%. Our claims revenues increased $49.5 million or 8.8%.
+
+--------------------- ------------- ------- ---- ----------------- ------- ----------------------------------------------------------------------------------------- --- - --- -
+
+ 2019 2018 Percentage change Percentage change excluding recent acquisitions, businesses held for sale and disposition
+
+ (in millions)
+Underwriting & rating $ 1,244.6 $ 1,144.5 8.7 % 7.3 %
+Claims 610.9 561.4 8.8 % 5.8 %
+Total Insurance $ 1,855.5 $ 1,705.9 8.8 % 6.8 %
+
+Our recent acquisitions, Business Insight, Validus, Rulebook, Keystone, PPW, BuildFax and FAST, and businesses held for sale, the compliance background screening and aerial imagery sourcing businesses, contributed net revenues of $34.0 million and the remaining Insurance revenues increased $115.6 million or 6.8%. Our underwriting & rating revenues increased $83.5 million or 7.3%, primarily due to an annual increase in prices derived from continued enhancements to the content of the solutions within our industry-standard insurance programs as well as selling expanded solutions to existing customers within commercial and personal lines. In addition, catastrophe modeling services contributed to the growth. Our claims revenues increased $32.1 million or 5.8%, primarily due to growth in our claims analytics revenues and repair cost estimating solutions revenues, slightly offset by the impact of the injunction ruling related to the roof measurement solutions in the fourth quarter.
+Cost of Revenues
+Cost of revenues for our Insurance segment was $631.5 million for the year ended December 31, 2019 compared to $568.1 million for the year ended December 31, 2018, an increase of $63.4 million or 11.2%. Our recent acquisitions and businesses held for sale, represented a net increase of $16.9 million in cost of revenues, which was primarily related to salaries and employee benefits. The remaining cost of revenues increased $46.5 million or 8.3% primarily due to increases in salaries and employee benefits of $31.9 million, information technology expenses of $8.9 million, data costs of $3.6 million, and other operating expenses of $2.1 million.
+
+36
+
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses for our Insurance segment were $397.7 million for the year ended December 31, 2019 compared to $218.8 million for the year ended December 31, 2018, an increase of $178.9 million or 81.7%. Our litigation reserve related to the Xactware Solutions, Inc. Patent Litigation accounted for an increase of $125.0 million. Our acquisition-related costs (earn-outs) accounted for an increase of $32.1 million. Our recent acquisitions, and businesses held for sale, accounted for an increase of $8.0 million primarily related to salaries and employee benefits. The remaining SGA increased $13.8 million or 6.4% primarily due to increases in salaries and employee benefits of $10.0 million, information technology expenses of $2.5 million, and professional consulting costs of $2.3 million; these increases were partially offset by a decrease in other general expenses of $1.0 million.
+The increase in salaries and employee benefits of $10.0 million included an increase in stock based compensation of $1.4 million. Our stock based compensation increased as a result of the expensing of the full impact of the equity awards in the period for all employees upon the attainment of age 62 during the year in accordance with ASC 718, instead of amortizing the expense over the vesting term.
+Investment (Loss) Income and Others, Net
+Investment (loss) income and others, net was a gain of $0.8 million for the year ended December 31, 2019 compared to a gain of $13.2 million for the year ended December 31, 2018. The decrease of $12.4 million was primarily due to a realized gain and interest income of $17.2 million related to the repayment of the subordinated promissory note receivable in August 2018, prior to its maturity.
+EBITDA Margin
+EBITDA for our Insurance segment was $827.1 million for the year ended December 31, 2019 compared to $932.2 million for the year ended December 31, 2018. The EBITDA margin for our Insurance segment was 44.6% for the year ended December 31, 2019 compared to 54.6% for the year ended December 31, 2018. The decrease in EBITDA margin was primarily related to the litigation reserve, acquisition-related costs (earn-outs), and additional stock-based compensation as a result of accelerated vesting of equity awards granted to employees at age 62 for the year ended December 31, 2019.
+Energy and Specialized Markets
+Revenues
+Revenues for our Energy and Specialized Markets segment were $573.6 million for the year ended December 31, 2019 compared to $513.3 million for the year ended December 31, 2018, an increase of $60.3 million or 11.7%. Our recent acquisitions, the Caas business and Genscape, within this segment contributed revenues of $32.8 million. The remaining increase in Energy and Specialized Markets revenue of $27.5 million or 5.3% primarily was due to an increase in new customers for our market and cost intelligence solutions, growth in the continuing end-market improvements in the energy sector, specifically in core research, and an increase in our environmental health and safety services revenue.
+Cost of Revenues
+Cost of revenues for our Energy and Specialized Markets segment was $248.1 million for the year ended December 31, 2019 compared to $218.2 million for the year ended December 31, 2018, an increase of $29.9 million or 13.7%. Our recent acquisitions accounted for an increase of $19.9 million in cost of revenues, which was primarily related to salaries and employee benefits. The remaining cost of revenues increased $10.0 million or 4.5% primarily due to increases in salaries and employee benefits costs of $7.4 million, data costs of $0.8 million, information technology expenses of $0.7 million, and other operating costs of $1.1 million.
+
+37
+
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses for our Energy and Specialized Markets segment were $186.1 million for the year ended December 31, 2019 compared to $141.1 million for the year ended December 31, 2018, an increase of $45.0 million or 32.0%. Our acquisition-related costs (earn-out) accounted for an increase of $39.5 million. Our recent acquisitions accounted for an additional increase of $4.5 million, primarily related to salaries and employee benefits. The remaining SGA increased $1.0 million or 0.8% primarily due to an increase in salaries and employee benefits costs of $0.8 million, professional consulting costs of $0.5 million, and information technology expenses of $0.5 million; these increases were partially offset by a decrease in other general expenses of $0.8 million.
+Investment (Loss) Income and Others, Net
+Investment (loss) income and others, net was a loss of $2.0 million for the year ended December 31, 2019 compared to a gain of $0.4 million for the year ended December 31, 2018.
+EBITDA Margin
+EBITDA for our Energy and Specialized Markets segment was $137.4 million for the year ended December 31, 2019 compared to $154.4 million for the year ended December 31, 2018. The EBITDA margin for our Energy and Specialized Markets segment was 24.0% for the year ended December 31, 2019 compared to 30.1% for the year ended December 31, 2018. The decrease in EBITDA margin was primarily related to acquisition-related costs (earn-out) and additional stock-based compensation as a result of accelerated vesting of equity awards granted to employees at age 62 for the year ended December 31, 2019.
+Financial Services
+Revenues
+Revenues for our Financial Services segment were $178.0 million for the year ended December 31, 2019 compared to $175.9 million for the year ended December 31, 2018, an increase of $2.1 million or 1.2%.The increase within this segment of $4.2 million or 2.4% was primarily due to increases in spend informed analytics revenues and fraud and credit risk management, partially offset by weakness in enterprise data management solutions. The disposition of the retail analytics solution business negatively impacted growth by $2.1 million.
+Cost of Revenues
+Cost of revenues for our Financial Services segment was $97.2 million for the year ended December 31, 2019 compared to $99.9 million for the year ended December 31, 2018, a decrease of $2.7 million or 2.7%. The cost of revenues decreased $1.4 million due to the disposition of our retail analytics solution business for the year ended December 31, 2019 and $3.1 million due to our acquisition-related costs (earn-outs) for the year ended December 31, 2018. These decreases were partially offset by a cost of revenues increase of $1.8 million or 2.0%, primarily due to increases in salaries and employee benefits costs of $1.0 million, information technology expenses of $0.6 million and other operating costs of $0.2 million.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses for our Financial Services segment were $19.7 million for the year ended December 31, 2019 compared to $18.8 million for the year ended December 31, 2018, an increase of $0.9 million or 4.3%. Our acquisition-related costs (earn-out) accounted for a decrease of $0.4 million. The remaining SGA increase of $1.3 million, or 7.3%, is primarily due to increases in salaries and employee benefits costs of $0.9 million, information technology expenses of $0.2 million, and other general expenses of $0.3 million. These increases were partially offset by a decrease in professional consulting fees of $0.1 million.
+Other Operating Expenses
+Other operating expenses were $6.2 million for the year ended December 31, 2019 compared to $0 million for the year ended December 31, 2018, an increase of $6.2 million or 100.0%, which was primarily related to a loss associated with the disposition of our retail analytics solution business.
+Investment (Loss) Income and Others, Net
+Investment (loss) income and others, net was a loss of $0.5 million for the year ended December 31, 2019 compared to a gain of $1.7 million for the year ended December 31, 2018.
+
+38
+
+EBITDA Margin
+EBITDA for our Financial Services segment was $54.4 million for the year ended December 31, 2019 compared to $58.9 million for the year ended December 31, 2018. The EBITDA margin for our Financial Services segment was 30.6% for the year ended December 31, 2019 compared to 33.5% for the year ended December 31, 2018. The decrease in EBITDA margin was primarily related to the loss generated from the sale of our retail analytics solution business and additional stock-based compensation expenses as a result of accelerated vesting of equity awards granted to employees at age 62 for the year ended December 31, 2019.
+
+Quarterly Results of Operations
+The following table sets forth our quarterly unaudited consolidated statement of operations data for each of the eight quarters in the period ended December 31, 2019. In management’s opinion, the quarterly data has been prepared on the same basis as the audited consolidated financial statements included in this annual report on Form 10-K, and reflects all necessary adjustments for a fair presentation of this data. The results of historical periods are not necessarily indicative of the results of operations for a full year or any future period.
+
+----------------------------- - ---------------------------------------- -------- ----- ------------- - ----- ------------ --- --------- ----- - -------
+
+ For the Quarters Ended
+ March 31, June 30, September 30, December 31, Full Year
+
+ 2019 2019
+ (in millions, except for per share data)
+Statement of operations data:
+Revenues $ 625.0 $ 652.6 $ 652.7 $ 676.8 $ 2,607.1
+Operating income $ 202.4 $ 218.3 $ 69.6 (1) $ 206.6 $ 696.9
+Net income $ 134.4 $ 150.4 $ 32.9 $ 132.2 $ 449.9
+Basic net income per share $ 0.82 $ 0.92 $ 0.20 $ 0.81 $ 2.75
+Diluted net income per share $ 0.81 $ 0.90 $ 0.20 $ 0.80 $ 2.70
+ For the Quarters Ended
+ March 31, June 30, September 30, December 31, Full Year
+
+ 2018 2018
+ (in millions, except for per share data)
+Statement of operations data:
+Revenues $ 581.2 $ 601.3 $ 598.7 $ 613.9 $ 2,395.1
+Operating income $ 194.5 $ 212.3 $ 211.1 $ 216.2 $ 834.1
+Net income $ 133.0 $ 153.5 $ 166.0 $ 146.2 $ 598.7
+Basic net income per share $ 0.81 $ 0.93 $ 1.01 $ 0.89 $ 3.63
+Diluted net income per share $ 0.79 $ 0.91 $ 0.99 $ 0.87 $ 3.56
+
+_______________
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Included a loss of $6.2 million from the sale of our retail analytics solution business to conform with the presentation of our consolidated financial statements in this Form 10-K for the year ended December 31, 2019.
+
+Liquidity and Capital Resources
+As of December 31, 2019 and 2018, we had cash and cash equivalents and available-for-sale securities of $188.2 million and $142.8 million, respectively. Subscriptions for our solutions are billed and generally paid in advance of rendering services either quarterly or in full upon commencement of the subscription period, which is usually for one year. Subscriptions are automatically renewed at the beginning of each calendar year. We have historically generated significant cash flows from operations. As a result of this factor, as well as the availability of funds under our syndicated revolving credit facility, we believe we will have sufficient cash to meet our working capital and capital expenditure needs, and to fuel our future growth plans.
+We have historically managed the business with a working capital deficit due to the fact that, as described above, we offer our solutions and services primarily through annual subscriptions or long-term contracts, which are generally prepaid quarterly or annually in advance of the services being rendered. When cash is received for prepayment of invoices, we record an asset (cash and cash equivalents) on our balance sheet with the offset recorded as a current liability (deferred revenues). This current liability is deferred revenue that does not require a direct cash outflow since our customers have prepaid and are
+
+39
+
+Table of Contents
+
+obligated to purchase the services. In most businesses, growth in revenue typically leads to an increase in the accounts receivable balance causing a use of cash as a company grows. Unlike these businesses, our cash position is favorably affected by revenue growth, which results in a source of cash due to our customers prepaying for most of our services.
+Our consolidated capital expenditures as a percentage of consolidated revenues for the years ended December 31, 2019 and 2018, were 8.3% and 9.6%, respectively. Expenditures related to developing and enhancing our solutions are predominately related to internal-use software and are capitalized in accordance with ASC 350-40, “Accounting for Costs of Computer Software Developed or Obtained for Internal Use.” We also capitalize amounts in accordance with ASC 985-20, “Software to be Sold, Leased or Otherwise Marketed.”
+We have historically used a portion of our cash for repurchases of our common stock from our stockholders. For the years ended December 31, 2019, 2018 and 2017, we repurchased $300.0 million, $438.6 million and $276.3 million, respectively, of our common stock. For the year ended December 31, 2019, we also paid dividends of $163.5 million.
+Financing and Financing Capacity
+We had total debt, excluding finance lease obligations, unamortized discounts and premium, and debt issuance costs of $3,145.0 million and $2,715.0 million at December 31, 2019 and 2018, respectively. The debt at December 31, 2019 primarily consists of senior notes issued in 2019, 2015, 2012 and 2011 and borrowings outstanding under our committed senior unsecured Syndicated Revolving Credit Facility, or the Credit Facility, described below. Interest on the senior notes is payable semi-annually each year. The unamortized discount and debt issuance costs were recorded as "Long-term debt" in the accompanying consolidated balance sheets, and will be amortized to "Interest expense" in the accompanying consolidated statements of operations within this Form 10-K over the life of the respective senior note. The indenture governing the senior notes restricts our ability to, among other things, create certain liens, enter into sale/leaseback transactions and consolidate with, sell, lease, convey, or otherwise transfer all or substantially all of our assets, or merge with or into, any other person or entity. As of December 31, 2019, we had senior notes with an aggregate principal amount of $2,650.0 million outstanding, and we were in compliance with our financial debt covenants.
+We have a credit facility with Bank of America N.A., HSBC Bank USA, N.A., JP Morgan Chase Bank, N.A., Wells Fargo Bank, National Association, Citibank, N.A., Credit Suisse AG, Cayman Islands Branch, Morgan Stanley Bank, N.A., TD Bank, N.A., and the Northern Trust Company. On August 15, 2019, we entered into the fourth amendment, or the Amendment, to the Credit Facility, which reduced the borrowing capacity from $1,500.0 million to $1,000.0 million, extended the maturity date to August 15, 2024, and amended the pricing grid. Interest on borrowings under the Amendment is payable at an interest rate of LIBOR plus 1.0% to 1.625%, depending upon the public debt rating. A commitment fee on any unused balance is payable periodically and may range from 8.0 to 20.0 basis points based upon the public debt rating. The Amendment also contains certain financial and other covenants that, among other things, impose certain restrictions on indebtedness, liens, investments, and capital expenditures. These covenants place restrictions on mergers, asset sales, sale/leaseback transactions, and certain transactions with affiliates. The financial covenants require that, at the end of any fiscal quarter, we have a consolidated funded debt leverage ratio of less than 3.5 to 1.0. At our election, the maximum consolidated funded debt leverage ratio could be permitted to increase one time each to 4.0 to 1.0 and 4.25 to 1.0. The Credit Facility may be used for general corporate purposes, including working capital needs and capital expenditures, acquisitions, dividends and the share repurchase program. As of December 31, 2019, we were in compliance with all financial and other debt covenants under the Credit Facility. During the year ended December 31, 2019, we had borrowings of $880.0 million and repayments of $800.0 million under the Credit Facility. As of December 31, 2019 and 2018, we had outstanding borrowings under the Credit Facility of $495.0 million and $415.0 million, respectively. Subsequent to December 31, 2019, we had borrowings of $40.0 million under the Credit Facility. In addition, we subsequently repaid a total of $130.0 million of the $495.0 million outstanding borrowings at December 31, 2019 under the Credit Facility.
+Cash Flow
+The following table summarizes our cash flow data for the years ended December 31:
+
+--------------------------------------------------- ---- ------------- ---- ---- ------ - - -------- -
+
+ 2019 2018 2017
+
+ (in millions)
+Net cash provided by operating activities $ 956.3 $ 934.4 $ 743.5
+Net cash used in investing activities $ (927.9 ) $ (265.4 ) $ (1,105.5 )
+Net cash provided by (used in) financing activities $ 10.9 $ (669.8 ) $ 362.5
+
+40
+
+Table of Contents
+
+Operating Activities
+Net cash provided by operating activities increased to $956.3 million for the year ended December 31, 2019 compared to $934.4 million for the year ended December 31, 2018. The increase was primarily related to an increase in cash receipts from customers driven by an increase in revenues and operating profit partially offset by an increase of income tax payments.
+Investing Activities
+Net cash used in investing activities of $927.9 million for the year ended December 31, 2019 was primarily related to acquisitions of $703.7 million including escrow funding and capital expenditures of $216.8 million.
+
+Net cash used in investing activities of $265.4 million for the year ended December 31, 2018 was primarily related to capital expenditures of $231.0 million and acquisitions of $153.1 million including escrow funding, partially offset by proceeds from the repayment of the subordinated promissory note receivable of $121.4 million.
+Financing Activities
+Net cash provided by financing activities of $10.9 million for the year ended December 31, 2019 was driven by proceeds from issuance of long-term debt, inclusive of original issue premium and net of original discount, of $619.7 million, net debt proceeds on our Credit Facility of $80.0 million, and proceeds from stock options exercised of $52.4 million, partially offset by repurchases of common stock of $300.0 million, the repayment of our 4.875% senior notes of $250.0 million on January 15, 2019, and dividend payments of $163.5 million.
+
+Net cash used in financing activities of $669.8 million for the year ended December 31, 2018 was primarily related to share repurchases of $438.6 million, net debt repayments of $300.0 million of borrowings under our Credit Facility, partially offset by proceeds from stock option exercises and other option-related items of $83.6 million.
+Contractual Obligations
+The following table summarizes our contractual obligations at December 31, 2019 and the future periods in which such obligations are expected to be settled in cash:
+
+-------------------------------------------------------------- - ---------------------- --------------- ----- --------- - ------- --------- - ---------------- - -------
+
+ Payments Due by Period
+ Total Less than1 year 2-3 years 4-5 years More than5 years
+
+ (in millions)
+Contractual obligations
+Long-term debt, current portion of long-term debt and interest $ 4,133.4 $ 615.7 $ 993.2 $ 160.0 $ 2,364.5
+Operating leases (1) 304.7 48.7 74.8 52.4 128.8
+Pension and postretirement plans (2) 16.3 2.0 4.0 3.4 6.9
+Finance lease obligations (3) 8.1 5.2 2.8 0.1 —
+Other long-term liabilities (4) 0.6 0.1 0.1 — 0.4
+Total (5) $ 4,463.1 $ 671.7 $ 1,074.9 $ 215.9 $ 2,500.6
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Future operating lease payments of $2.5 million related to businesses classified as held for sale have been excluded. See Note 11. Businesses held for sale and disposition and Note 22. Subsequent events, to our consolidated financial statements included in this annual report on Form 10-K.
+
+--- --------------------------------------------------------------------------------------------
+(2) Our funding policy is to contribute at least equal to the minimum legal funding requirement.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) Future finance lease payments of $26.5 million related to businesses classified as held for sale have been excluded. See Note 11. Businesses held for sale and disposition and Note 22. Subsequent events, to our consolidated financial statements included in this annual report on Form 10-K.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Other long-term liabilities consist of our employee-related deferred compensation plan. We also have a deferred compensation plan for our Board of Directors; however, based on past performance and the uncertainty of the dollar amounts to be paid, if any, we have excluded such amounts from the above table.
+
+41
+
+Table of Contents
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(5) Unrecognized tax benefits of approximately $11.5 million have been recorded as liabilities in accordance with ASC 740, which have been omitted from the table above, and we are uncertain as to if or when such amounts may be settled, with the exception of those amounts subject to a statute of limitation. Related to the unrecognized tax benefits, we also have recorded a liability for potential penalties and interest of $4.6 million.
+
+Off-Balance Sheet Arrangements
+We have no off-balance sheet arrangements.
+
+Critical Accounting Policies and Estimates
+Our management’s discussion and analysis of financial condition and results of operations are based on our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements require management to make estimates and judgments that affect reported amounts of assets and liabilities and related disclosures of contingent assets and liabilities at the dates of the financial statements and revenue and expenses during the reporting periods. These estimates are based on historical experience and on other assumptions that are believed to be reasonable under the circumstances. On an ongoing basis, management evaluates its estimates, including those related to revenue recognition, goodwill and intangible assets, pension and other post retirement benefits, stock based compensation, and income taxes. Actual results may differ from these assumptions or conditions.
+Revenue Recognition
+We recognize revenue based on the transfer of promised goods or services to customers for the amount that reflects the consideration to which we expect to be entitled in exchange for those goods or services. Revenue is recognized in a five-step model: 1) identify the contract with a customer; 2) identify the performance obligations in the contract; 3) determine the transaction price; 4) allocate the transaction price to the performance obligations in the contract; and 5) recognize revenue when or as the company satisfies a performance obligation. Revenues for hosted subscription services are recognized ratably over the subscription term. Revenues from certain discrete project based advisory/consulting services are recognized over time by measuring the progress toward complete satisfaction of the performance obligation, based on the input method of consulting hours worked; this aligns with the results achieved and value transferred to the customer. Revenues from transactional solutions are recognized as the solutions are delivered or services performed at point in time.
+We invoice our customers in annual, quarterly, or monthly installments. Amounts billed and collected in advance are recorded as deferred revenues on the balance sheet and are recognized as the services are performed and revenue recognition criteria are met.
+Stock-Based Compensation
+Stock-based compensation cost, including stock options, restricted stock, and performance share units, or PSUs, is measured at the grant date, based on the fair value of the awards granted, and is recognized as expense over the requisite service period. The fair value of stock options is measured using a Black-Scholes option-pricing model, which requires the use of several estimates, including expected term, expected risk-free interest rate, expected volatility, and expected dividend yield. The fair value of the restricted stock is determined using the closing price of the Company's common stock on the grant date. The fair value of PSUs is determined on the grant date using the Monte Carlo Simulation model.
+Option grants and restricted stock awards are generally expensed ratably over the four-year vesting period. PSUs are generally expensed ratably over the three-year vesting period. We follow the substantive vesting period approach for awards granted after January 1, 2005, which requires that stock-based compensation expense be recognized over the period from the date of grant to the date when the award is no longer contingent on the employee providing additional service.
+We estimate expected forfeitures of equity awards at the date of grant and recognize compensation expense only for those awards expected to vest. The forfeiture assumption is ultimately adjusted to the actual forfeiture rate.
+Goodwill and Intangibles
+Goodwill represents the excess of acquisition costs over the fair value of tangible net assets and identifiable intangible assets of the businesses acquired. Goodwill and intangible assets deemed to have indefinite lives are not amortized. Intangible assets determined to have definite lives are amortized over their useful lives. Goodwill and intangible assets with indefinite lives are subject to impairment testing annually as of June 30, or whenever events or changes in circumstances indicate that the carrying amount may not be fully recoverable, using the guidance and criteria described in the accounting standard for Goodwill and Other Intangible Assets. This testing compares carrying values to fair values and, when appropriate, the carrying value of these assets is reduced to fair value.
+
+42
+
+Table of Contents
+
+As of December 31, 2019, we had goodwill of $3,864.3 million, which represents 54.8% of our total assets. During 2019, we performed an impairment test as of June 30, 2019 and confirmed that no impairment charge was necessary. None of our reporting units are at risk of impairment as the fair value of each reporting unit exceeds its carrying value. There are many assumptions and estimates used that directly impact the results of impairment testing, including an estimate of future expected revenues, EBITDA, EBITDA margins and cash flows, useful lives and discount rates, and an estimate of value using multiples derived from the stock prices of publicly traded guideline companies applied to such expected cash flows and market approaches in order to estimate fair value. We have the ability to influence the outcome and ultimate results based on the assumptions and estimates we choose for determining the fair value of our reporting units. To mitigate undue influence, we set criteria and benchmarks that are reviewed and approved by various levels of management and reviewed by other independent parties. The determination of whether or not goodwill or indefinite-lived acquired intangible assets have become impaired involves a significant level of judgment in the assumptions and estimates underlying the approach used to determine the value of our reporting units. Changes in our strategy or market conditions could significantly impact these judgments and require an impairment to be recorded to intangible assets and goodwill. There have been no goodwill impairment indicators subsequent to the impairment test performed as of June 30, 2019. For the year ended December 31, 2019, there were no impairment indicators related to our intangible assets.
+We allocate the fair value of the purchase consideration to the tangible assets acquired, liabilities assumed and intangible assets acquired based on their estimated fair values. The excess of the fair value of the purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill.  Such valuations require management to make significant estimates and assumptions, especially with respect to intangible assets. The estimates used in valuing the intangible assets are determined with the assistance of third party specialists, a discounted cash flow analysis and estimates made by management.  Management’s estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. During the measurement period, which is not to exceed one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings.
+Income Taxes
+In projecting future taxable income, we develop assumptions including the amount of future state, federal and foreign pretax operating income, the reversal of temporary differences, and the implementation of feasible and prudent tax planning strategies. These assumptions require significant judgment about the forecasts of future taxable income and are consistent with the plans and estimates we use to manage the underlying businesses. The calculation of our tax liabilities also involves dealing with uncertainties in the application and evolution of complex tax laws and regulations in other jurisdictions.
+We account for uncertain tax positions in accordance with Accounting for Uncertainty in Income Taxes — an interpretation of ASC 740, which addresses the determination of whether tax benefits claimed or expected to be claimed on a tax return should be recorded in the financial statements. Under this interpretation, we may recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained upon examination by the taxing authorities, based on the technical merits of the position.
+We recognize and adjust our liabilities when our judgment changes as a result of the evaluation of new information not previously available. Due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the tax liabilities. These differences will be reflected as increases or decreases to income tax expense in the period in which they are determined.
+We estimate unrecognized tax positions of $1.1 million that may be recognized by December 31, 2020, due to expiration of statutes of limitations and resolution of audits with taxing authorities, net of additional uncertain tax positions.
+As of December 31, 2019, we have gross federal, state, and foreign income tax net operating loss carryforwards of $229.1 million, which will expire at various dates from 2020 through 2039. Such net operating loss carryforwards expire as follows:
+
+------------ ------------- -----
+
+Years Ending (In millions)
+2020 - 2027 $ 24.9
+2028 - 2032 14.6
+2033 - 2039 189.6
+Total $ 229.1
+
+43
+
+Table of Contents
+
+The net deferred income tax liability of $346.2 million consists primarily of timing differences involving depreciation and amortization.
+
+Recent Accounting Pronouncements
+For a discussion of recent accounting pronouncements, refer to Note 2(s) to the audited consolidated financial statements included elsewhere in this annual report on Form 10-K.
+
+-------- ----------------------------------------------------------
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[see Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. Our business is organized into three reportable segments: Digital Media, Digital Experience and Publishing. These segments provide our senior management with a comprehensive financial view of our key businesses. Our segments are aligned around our 70 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) two strategic growth opportunities as described in the "Business Overview" within Part I, Item 1, placing our Publishing business in a third segment that contains some of our mature products and solutions. In fiscal 2019, we categorized our products into the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ * Digital Media--Our Digital Media segment provides tools and solutions that enable individuals, teams and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include content creators, experien...
+
+[See Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $4.54 billion of non-cancelable contractual commitments as of December 31, 2019, which is primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Legal Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking 94 unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class a...
+
+[See Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class a...
+
+[see Note 21]:
+Note 21 -- Retirement Benefits and Trusteed Assets 132
+
+[see Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- --------- --------- ---- --------- ---- --------- --------- - --------- (in thousands) 2019 2018 2017 Domestic $ 437,603 $ 542,948 $ 1,056,156 Foreign 2,767,138 2,250,928 1,081,485 Income before income taxes $ 3,204,741 $ 2,793,876 $ 2,137,641 The provision for income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- ------- ------- ---- -------- ---- ------- ------- - - ------- (in thousands) 2019 2018 2017 Current: United States federal $ 6,563 $ 501,272 $ 298,802 Foreign 211,174 140,308 60,962 State and local 30,893 28,612 33,578 Total current 248,630 670,192 393,342 Deferred: United States federal 22,528 (466,113 ) 48,905 Foreign (11,675 ) (9,734 ) (4,242 ) State and local (6,200 ) 8,757 5,682 Total deferred 4,653 (467,090 ) 50,345 Provision for income taxes $ 253,283 $ 203,102 $ 443,687 88 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) U.S. Tax Reform On December 22, 2017, the Tax Cuts and Jobs Act (the "Tax Act") was enacted into law, which significantly changed existing U.S. tax law and includes many provisions applicable to us, such as reducing the U.S. federal statutory tax rate, imposing a one-time transition tax on deemed repatriation of deferred foreign income and adopting a territorial tax system. The Tax Act reduced the U.S. federal statutory tax rate from 35% to 21% effective January 1, 2018. For fiscal 2018, our blended U.S. federal statutory tax rate was 22.2%. This was the result of using the tax rate of 35% for the first month of fiscal 2018 and the reduced tax rate of 21% for the remaining eleven months of fiscal 2018. The Tax Act also required us to incur a one-time transition tax on deferred foreign income not previously subject to U.S. income tax at a rate of 15.5% for foreign cash and certain other net current assets, and 8% on the remaining income,...
+
+[See Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by class a...
+
+[See Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities December 31, 2019, which is primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Legal Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking 94 unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class a...
+
+[refer to Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. Our business is organized into three reportable segments: Digital Media, Digital Experience and Publishing. These segments provide our senior management with a comprehensive financial view of our key businesses. Our segments are aligned around our 70 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) two strategic growth opportunities as described in the "Business Overview" within Part I, Item 1, placing our Publishing business in a third segment that contains some of our mature products and solutions. In fiscal 2019, we categorized our products into the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ include content creators, experien...
+
+[ "Item 7. Management']:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 13
+
+[" within the annual report on Form 10-K for the year ended December 31, 2018 filed on February 19, 2019.
+
+Verisk is a leading data analytics provider serving customers in insurance, energy and specialized markets, and financial services. Using 
+Our customers use our solutions to make better decisions about risk and opportunities with greater efficiency and discipline. We refer to these products and services as “solutions” due to the integration their costs.
+We previously reported results based on two operating segments, Decision Analytics and Risk Assessment. During the first quarter of 2018, the chief operating decision maker, or CODM, changed how he makes operating decisions, assesses the performance of the business, and allocates resources in a manner that caused the Company']:
+Item 1. Business 3
+
+['s revenues represented approximately 7% of our revenues for the years ended December 31, 2019 and 2018.
+
+Executive Summary
+Key Performance Metrics
+We believe our business’s ability to grow recurring revenue and generate positive cash flow is measures (see Note 2 within Item 6. Selected Financial Data section of Management’s Discussion and Analysis of Financial Condition and Results of Operations). The respective GAAP financial measures are net income and net income margin.
+Revenue growth. We use year-over-year revenue growth as a key performance metric. We assess revenue growth based on our ability to generate increased revenue through increased sales to existing customers, sales to new customers, sales of new or expanded solutions to existing and new customers, and strategic acquisitions of new businesses.
+EBITDA growth. We use EBITDA and facilitate period-to-period comparison.
+EBITDA margin. We use EBITDA margin as a metric to assess segment performance and scalability of our business. We assess EBITDA margin based on our ability to increase revenues while controlling expense growth.
+Revenues
+We earn revenues through agreements for hosted subscriptions, advisory/consulting services, and for transactional solutions, recurring and quarter as we receive subscription payments. Examples of these arrangements include subscriptions that allow our customers to access our standardized coverage language, our claims fraud database or our actuarial services throughout the subscription period. In general, we experience minimal revenue seasonality within the business.
+Approximately 82% of the revenues in our Insurance segment for the years ended December 31, 2019 and 2018 were derived from hosted subscriptions through agreements (generally one to five years) for our solutions. Our customers in this segment include most of the P&C insurance providers in the U.S. Approximately 78% of the revenues in our Energy and Specialized Markets segment for the years ended December 31, 2019 and 2018 were derived from hosted subscriptions with long-term agreements for our solutions. Our customers in this segment include most of the top 10 global energy providers around the world. Approximately 72% and 73% of the revenues in our Financial Services segment for the years ended December 31, 2019 and 2018, respectively, were derived from subscriptions with long-term agreements for our solutions, respectively. Our customers in this segment include financial institutions, payment networks and processors, alternative lenders, regulators, merchants, and all of the top 30 credit card issuers in North America, the United Kingdom, and Australia.
+We also provide advisory/consulting services, which help our customers get more value out of our analytics and their subscriptions. In addition, certain of our solutions are paid for by our customers on a transactional basis, recurring and non-recurring. For example, we have solutions that allow our customers to access property-specific rating and underwriting information to price a policy on a commercial building, or compare a P&C insurance or a workers']:
+(7) Lennar Other Evaluation of segment performance is based primarily on operating earnings (loss) before income taxes. Operations of the Company's homebuilding segments primarily include the construction and sale of single-family attached and detached homes, as well as the purchase, development and sale of residential land directly and through the Company's unconsolidated entities. Operating earnings (loss) for the homebuilding segments consist of revenues generated from the sales of homes and land, equity in earnings (loss) from unconsolidated entities and other income (expense), net, less the cost of homes sold and land sold, selling, general and administrative expenses incurred by the segment and loss due to litigation. The Company's reportable homebuilding segments and all other homebuilding operations not required to be reported separately, have homebuilding divisions located in: East: Florida, New Jersey, North Carolina, Pennsylvania and South Carolina Central: Georgia, Illinois, Indiana, Maryland, Minnesota, Tennessee and Virginia Texas: Texas West: Arizona, California, Colorado, Nevada, Oregon, Utah and Washington Other: Urban divisions and other homebuilding related investments primarily in California, including Five Point Holdings, LLC ("FivePoint") Operations of the Financial Services segment include primarily mortgage financing, title and closing services primarily for buyers of the Company's homes. It also includes originating and selling into securitizations commercial mortgage loans through its RMF business. The Financial Services segment sells substantially all of the loans it originates within a short period of time in the secondary mortgage market, the majority of which are sold on a servicing released, non-recourse basis. After the loans are sold, the Company retains potential liability for possible claims by purchasers that it breached certain limited industry standard representations and warranties in the loan sale agreements. Financial Service...
+
+[" in the accompanying consolidated statements of operations within this Form 10-K over the life of the respective senior note. The indenture governing the senior notes restricts our ability to, among other things, create certain liens, enter into sale/leaseback transactions and consolidate with, sell, lease, convey, or otherwise transfer all or substantially all of our assets, or merge with or into, any other person or entity. As of December 31, 2019, we had senior notes with an aggregate principal amount of $2,650.0 million outstanding, and we were in compliance with our financial debt covenants.
+We have a credit facility with Bank of America N.A., HSBC Bank USA, N.A., JP Morgan Chase Bank, N.A., Wells Fargo Bank, National Association, Citibank, N.A., Credit Suisse AG, Cayman Islands Branch, Morgan Stanley Bank, N.A., TD Bank, N.A., and the Northern Trust Company. On August 15, 2019, we entered into the fourth amendment, or the Amendment, to the Credit Facility, which reduced the borrowing capacity from $1,500.0 million to $1,000.0 million, extended the maturity date to August 15, 2024, and amended the pricing grid. Interest on borrowings under the Amendment is payable at an interest rate of LIBOR plus 1.0% to 1.625%, depending upon the public debt rating. A commitment fee on any unused balance is payable periodically and may range from 8.0 to 20.0 basis points based upon the public debt rating. The Amendment also contains certain financial and other covenants that, among other things, impose certain restrictions on indebtedness, liens, investments, and capital expenditures. These covenants place restrictions on mergers, asset sales, sale/leaseback transactions, and certain transactions with affiliates. The financial covenants require that, at the end of any fiscal quarter, we have a consolidated funded debt leverage ratio of less than 3.5 to 1.0. At our election, the maximum consolidated funded debt leverage ratio could be permitted to increase one time each to 4.0 to 1.0 and 4.25 to 1.0. The Credit Facility may be used for general corporate purposes, including working capital needs and capital expenditures, acquisitions, dividends and the share repurchase program. As of December 31, 2019, we were in compliance with all financial and other debt covenants under the Credit Facility. During the year ended December 31, 2019, we had borrowings of $880.0 million and repayments of $800.0 million under the Credit Facility. As of December 31, 2019 and 2018, we had outstanding borrowings under the Credit Facility of $495.0 million and $415.0 million, respectively. Subsequent to December 31, 2019, we had borrowings of $40.0 million under the Credit Facility. In addition, we subsequently repaid a total of $130.0 million of the $495.0 million outstanding borrowings at December 31, 2019 under the Credit Facility.
+Cash Flow
+The following table summarizes our cash flow data for the years ended December 31:
+
+--------------------------------------------------- ---- ------------- ---- ---- ------ - - -------- -
+
+ 2019 2018 2017
+
+ (in millions)
+Net cash provided by operating activities $ 956.3 $ 934.4 $ 743.5
+Net cash used in investing activities $ (927.9 ) $ (265.4 ) $ (1,105.5 )
+Net cash provided by (used in) financing activities $ 10.9 $ (669.8 ) $ 362.5
+
+40
+
+Table of Contents
+
+Operating Activities
+Net cash provided by operating activities increased to $956.3 million for the year ended December 31, 2019 compared to $934.4 million for the year ended December 31, 2018. The increase was primarily related to an increase in cash receipts from customers driven by an increase in revenues and operating profit partially offset by an increase of income tax payments.
+Investing Activities
+Net cash used in investing activities of $927.9 million for the year ended December 31, 2019 was primarily related to acquisitions of $703.7 million including escrow funding and capital expenditures of $216.8 million.
+
+Net cash used in investing activities of $265.4 million for the year ended December 31, 2018 was primarily related to capital expenditures of $231.0 million and acquisitions of $153.1 million including escrow funding, partially offset by proceeds from the repayment of the subordinated promissory note receivable of $121.4 million.
+Financing Activities
+Net cash provided by financing activities of $10.9 million for the year ended December 31, 2019 was driven by proceeds from issuance of long-term debt, inclusive of original issue premium and net of original discount, of $619.7 million, net debt proceeds on our Credit Facility of $80.0 million, and proceeds from stock options exercised of $52.4 million, partially offset by repurchases of common stock of $300.0 million, the repayment of our 4.875% senior notes of $250.0 million on January 15, 2019, and dividend payments of $163.5 million.
+
+Net cash used in financing activities of $669.8 million for the year ended December 31, 2018 was primarily related to share repurchases of $438.6 million, net debt repayments of $300.0 million of borrowings under our Credit Facility, partially offset by proceeds from stock option exercises and other option-related items of $83.6 million.
+Contractual Obligations
+The following table summarizes our contractual obligations at December 31, 2019 and the future periods in which such obligations are expected to be settled in cash:
+
+-------------------------------------------------------------- - ---------------------- --------------- ----- --------- - ------- --------- - ---------------- - -------
+
+ Payments Due by Period
+ Total Less than1 year 2-3 years 4-5 years More than5 years
+
+ (in millions)
+Contractual obligations
+Long-term debt, current portion of long-term debt and interest $ 4,133.4 $ 615.7 $ 993.2 $ 160.0 $ 2,364.5
+Operating leases (1) 304.7 48.7 74.8 52.4 128.8
+Pension and postretirement plans (2) 16.3 2.0 4.0 3.4 6.9
+Finance lease obligations (3) 8.1 5.2 2.8 0.1 —
+Other long-term liabilities (4) 0.6 0.1 0.1 — 0.4
+Total (5) $ 4,463.1 $ 671.7 $ 1,074.9 $ 215.9 $ 2,500.6
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Future operating lease payments of $2.5 million related to businesses classified as held for sale have been excluded. See Note 11. Businesses held for sale and disposition and Note 22. Subsequent events, to our consolidated financial statements included in this annual report on Form 10-K.
+
+--- --------------------------------------------------------------------------------------------
+(2) Our funding policy is to contribute at least equal to the minimum legal funding requirement.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ to our consolidated financial statements included in this annual report on Form 10-K.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ the uncertainty of the dollar amounts to be paid, if any, we have excluded such amounts from the above table.
+
+41
+
+Table of Contents
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ and interest of $4.6 million.
+
+Off-Balance Sheet Arrangements
+We have no off-balance sheet arrangements.
+
+Critical Accounting Policies and Estimates
+Our management’s discussion and analysis of financial of these financial statements require management to make estimates and judgments that affect reported amounts of assets and liabilities and related disclosures of contingent assets and liabilities at stock based compensation, and income taxes. Actual results may differ from these assumptions or conditions.
+Revenue Recognition
+We recognize revenue based on the transfer of promised goods or services with the results achieved and value transferred to the customer. Revenues from transactional solutions are recognized as the solutions are delivered or services performed at point in time.
+We invoice and revenue recognition criteria are met.
+Stock-Based Compensation
+Stock-based compensation cost, including stock options, restricted stock, and performance share units, or PSUs, is measured at the grant using the closing price of the Company']:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- --------- --------- ---- $ 2,137,641 The provision for income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- ------- ------- ---- -------- ---- ------- ------- - - ------- (in thousands) 2019 2018 2017 Current: United States federal $ 6,563 $ 501,272 $ 298,802 Foreign 211,174 140,308 60,962 State and local 30,893 28,612 33,578 Total current 248,630 670,192 393,342 Deferred: United States federal 22,528 (466,113 ) 48,905 Foreign (11,675 ) (9,734 ) (4,242 ) State and local (6,200 ) 8,757 5,682 Total deferred 4,653 (467,090 ) 50,345 Provision for income taxes $ 253,283 $ 203,102 $ 443,687 88 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) U.S. Tax Reform On December 22, 2017, the Tax Cuts and Jobs Act (the "Tax Act") was enacted into law, which significantly changed existing U.S. tax law and includes many provisions applicable to us, such as reducing the U.S. federal statutory tax rate, imposing a one-time transition tax on deemed repatriation of deferred foreign income and adopting a territorial tax system. The Tax Act reduced the U.S. federal statutory tax rate from 35% to 21% effective January 1, 2018. For fiscal 2018, our blended U.S. federal statutory tax rate was 22.2%. This was the result of using the tax rate of 35% for the first month of fiscal 2018 and the reduced tax rate of 21% for the remaining eleven months of fiscal 2018. The Tax Act also required us to incur a one-time transition tax on deferred foreign income not previously subject to U.S. income tax at a rate of 15.5% for foreign cash and certain other net current assets, and 8% on the remaining income,...
+
+[Refer to Item 1]:
+Item 1. Business 3
+
+["Item 7. Management']:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 13

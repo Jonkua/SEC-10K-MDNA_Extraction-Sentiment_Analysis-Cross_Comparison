@@ -1,0 +1,2222 @@
+================================================================================
+CIK: 0001374310
+Company Name: Cboe Global Markets, Inc
+Filing Date: 2019-02-22
+Form Type: 10-K
+Extraction Date: 2025-08-31 04:25:55
+================================================================================
+
+Item 7.      Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+			Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD&A") should be read in conjunction with the consolidated financial statements of the Company and the notes thereto included in Item 8 of this Annual Report on Form 10-K. The following discussion contains forward-looking statements. Actual results could differ materially from the results discussed in the forward-looking statements. See "Risk Factors" and "Forward-Looking Statements" above.
+
+   Overview
+
+			Cboe Global Markets, Inc. is one of the world’s largest exchange holding companies, offering cutting-edge trading and investment solutions to investors around the world. The Company is committed to relentless innovation, connecting global markets with world-class technology, and providing seamless solutions that enhance the customer experience.
+
+			Cboe offers trading across a diverse range of products in multiple asset classes and geographies, including options, futures, U.S. and European equities, exchange-traded products, global foreign exchange and multi-asset volatility products based on the VIX, the world’s barometer for equity market volatility.
+
+   Cboe’s trading venues include the largest options exchange in the U.S. by volume and the largest stock exchange by value traded in Europe. In addition, the Company is one of the largest stock exchange operators in the U.S. by volume and a leading market globally for ETP trading.
+
+			The Company is headquartered in Chicago with offices in Kansas City, New York, London, San Francisco, Singapore, Hong Kong, and Ecuador.
+
+			On February 28, 2017, pursuant to the Agreement and Plan of Merger, dated as of September 25, 2016, Cboe acquired Bats Global Markets, Inc. The year ended December 31, 2017 includes financial results for Bats for the period from March 1, 2017 through December 31, 2017.
+
+   Business Segments
+
+			We previously operated as a single reportable business segment as of December 31, 2016. As a result of the Merger, in 2017, we began reporting five segments: Options, U.S. Equities, Futures, European Equities, and Global FX. Segment performance is primarily based on operating income (loss). We have aggregated all of our corporate costs and eliminations, as well as other business ventures, within Corporate Items and Eliminations; however, operating expenses that relate to activities of a specific segment have been allocated to that segment. Our management allocates resources, assesses performance and manages our business according to these segments:
+
+			Options. Our Options segment includes trading of listed market indexes (index options), mostly on an exclusive basis, as well as on non-exclusive "multiply-listed" options, such as options on the stocks of individual corporations (equity options) and options on other exchange-traded products (ETP options), such as exchange-traded funds (ETF options) and exchange-traded notes (ETN options) that occur on Cboe Options, C2, BZX and EDGX. It also includes the listed equity and ETP options routed transaction services that occur on Cboe Trading.
+
+   U.S. Equities. Our U.S. Equities segment includes trading of listed cash equities and ETP transaction services that occur on BZX, BYX, EDGX and EDGA. It also includes the listings business where ETPs and the Company are listed on BZX.
+
+			Futures. Our Futures segment includes trading of futures on the VIX Index and bitcoin, and other products that occur on CFE, our all-electronic futures exchange.
+
+			European Equities. Our European Equities segment includes trading of pan‑European listed equities transaction services, ETPs, exchange‑traded commodities, and international depository receipts that occur on the RIE, operated by
+
+   51
+
+   Table of Contents
+
+Cboe Europe Equities. It also includes the listed cash equities and ETPs routed transaction services that occurred through Cboe Chi-X Europe, as well as the listings business where ETPs can be listed on Cboe Europe Equities.
+
+   Global FX. Our Global FX segment includes institutional FX services on the Cboe FX platform, as well as non-deliverable forward FX transactions executed on Cboe SEF.
+
+   Factors Affecting Results of Operations
+
+			In broad terms, our business performance is impacted by a number of drivers, including macroeconomic events affecting the risk and return of financial assets, investor sentiment, the regulatory environment for capital markets, geopolitical events, central bank policies and changing technology, particularly in the financial services industry. Our future revenues and net income will continue to be influenced by a number of domestic and international economic trends, including:
+
+ · trading volumes on our proprietary products such as VIX options and futures and SPX options;
+
+ · trading volumes in listed cash equity securities and ETPs in both the U.S. and Europe, volumes in listed equity options, and volumes in institutional FX trading, all of which are driven primarily by overall macroeconomic conditions;
+
+ · the demand for the U.S. tape plan market data distributed by the Securities Information Processors (SIPs), which determines the pool size of the industry market data revenue we receive based on our market share;
+
+ · the demand for information about, or access to, our markets, which is dependent on the products we trade, our importance as a liquidity center and the quality and pricing of our data and access services;
+
+ · consolidation of our customers and competitors in the industry,
+
+ · continuing pressure in transaction fee pricing due to intense competition in the United States and Europe; and
+
+ · regulatory changes relating to market structure and increased capital requirements, and those which affect certain types of instruments, transactions, pricing structures, capital market participants or reporting or compliance requirements, including any changes resulting from Brexit.
+
+			A number of significant structural, political and monetary issues continue to confront the global economy, and instability could return at any time, resulting in an increased level of market volatility, increased trading volumes and a return of uncertainty. In contrast, many of the largest customers of our transactional businesses continue to adapt their business models as they address the implementation of regulatory changes initiated following the global financial crisis.
+
+   Components of Revenues
+
+   Transaction Fees
+
+			Transaction fees represent fees charged by the Company for the performance obligation of executing a trade on its markets. These fees can be variable based on trade volume tiered discounts, however as all tiered discounts are calculated monthly, the actual discount is recorded on a monthly basis. Transaction fees, as well as any tiered volume discounts, are calculated and billed monthly in accordance with the Company’s published fee schedules. Transaction fees are recognized across all segments. The Company also pays liquidity payments to customers based on its published fee schedules. The Company uses these payments to improve the liquidity on its markets and therefore recognizes those payments as a cost of revenue.
+
+   Access Fees
+
+   Access fees represent fees assessed for the opportunity to trade, including fees for trading-related functionality and connectivity across all segments. They are billed monthly in accordance with the Company’s published fee schedules and recognized on a monthly basis when the performance obligation is met. There is no remaining performance obligation after revenue is recognized.
+
+   52
+
+   Table of Contents
+
+   Exchange Services and Other Fees
+
+			To facilitate trading, the Company offers technology services, terminal and other equipment rights, maintenance services, trading floor space, trading floor connectivity and telecommunications services. Trading floor and equipment rights are generally on a month-to-month basis. Facilities, systems services and other fees are generally monthly fee-based, although certain services are influenced by trading volume or other defined metrics, others are based solely on demand. All fees associated with the trading floor are recognized in the Options segment.
+
+   Market Data Fees
+
+   Market data fees represent the fees from the U.S. tape plans and fees from customers for proprietary market data. Fees from the U.S. tape plans are collected monthly based on published fee schedules and distributed quarterly to the U.S. exchanges based on a known formula using trading and/or quoting activity. A contract for proprietary market data is entered into and charged on a monthly basis in accordance with the Company’s published fee schedules as the service is provided. Both types of market data are satisfied over time, and revenue is recognized on a monthly basis as the customer receives and consumes the benefit as the Company provides the data. U.S. tape plan market data is recognized in the U.S. Equities and Options segments. Proprietary market data fees are recognized across all segments.
+
+   Regulatory Fees
+
+			Regulatory fees primarily represent fees collected by the Company to cover the Section 31 fees charged to the Exchanges under the authority of the SEC (Cboe Options, C2, BZX, BYX, EDGX and EDGA) and are charged by the SEC. Consistent with industry practice, the fees charged to customers are based on the fee set by the SEC per notional value of the transaction executed on the Company’s markets and calculated and billed monthly. These fees are recognized in the U.S. Equities and Options segments and as the exchanges are responsible for the ultimate payment to the SEC, the exchanges are considered the principals in these transactions. Regulatory fees also include the options regulatory fee (ORF) charged to customers which supports the Company’s regulatory oversight function in the Options segment.
+
+   Other Revenue
+
+			Other revenue primarily includes among other items, revenue from various licensing agreements, all fees related to the trade reporting facility operated in the European Equities segment, and revenue associated with advertisements through the Company’s website.
+
+   Components of Cost of Revenues
+
+   Liquidity Payments
+
+			Liquidity payments are directly correlated to the volume of securities traded on our markets. As stated above, we record the liquidity rebates paid to market participants providing liquidity, in the case of C2, BZX, EDGX and Cboe Europe Equities, as cost of revenue. BYX and EDGA offer a pricing model pursuant to which we rebate liquidity takers for executing against an order resting on our book, which is also recorded as a cost of revenue.
+
+   Routing and clearing
+
+			Various rules require that U.S. options and cash equities trade executions occur at the National Best Bid/Offer (NBBO) displayed by any exchange.  Linkage order routing consists of the cost incurred to provide a service whereby Cboe equity and options exchanges deliver orders to other execution venues when there is a potential for obtaining a better execution price or when instructed to directly route an order to another venue by the order provider. The service affords exchange order flow providers an opportunity to obtain the best available execution price and may also result in cost benefits to those clients.  Such an offering improves our competitive position and provides an opportunity to attract orders which would otherwise bypass our exchanges. We utilize third-party brokers or our broker-dealer, Cboe Trading, to facilitate such delivery.
+
+   53
+
+   Table of Contents
+
+   Section 31 Fees
+
+			Exchanges under the authority of the SEC (Cboe Options, C2, BZX, BYX, EDGX and EDGA) are assessed fees pursuant to the Exchange Act designed to recover the costs to the U.S. government of supervision and regulation of securities markets and securities professionals. We treat these fees as a pass-through charge to customers executing eligible listed cash equities and listed equity options trades. Accordingly, we recognize the amount that we are charged under Section 31 as a cost of revenues and the corresponding amount that we charge our customers as regulatory transaction fees revenue. Since the regulatory transaction fees recorded in revenues are equal to the Section 31 fees recorded in cost of revenues, there is no impact on our operating income. CFE, Cboe Europe Equities and Cboe FX are not U.S. national securities exchanges, and accordingly are not charged Section 31 fees.
+
+   Royalty Fees
+
+			Royalty fees primarily consist of license fees paid by us for the use of underlying indexes in our proprietary products usually based on contracts traded. The Company has licenses with the owners of the S&P 500 Index, S&P 100 Index and certain other S&P indexes, FTSE Russell indexes, the DJIA, MSCI, and certain other index products. This category also includes fees related to the dissemination of market data related to S&P indexes.
+
+   Components of Operating Expenses
+
+   Compensation and Benefits
+
+			Compensation and benefits represent our largest expense category and tend to be driven by our staffing requirements, financial performance, and the general dynamics of the employment market. Stock-based compensation is a non-cash expense related to equity awards. Stock-based compensation can vary depending on the quantity and fair value of the award on the date of grant and the related service period.
+
+   Depreciation and Amortization
+
+   Depreciation and amortization expense results from the depreciation of long-lived assets purchased and the amortization of purchased and internally developed software, and the amortization of intangible assets.
+
+   Technology Support Services
+
+			Technology support services consists primarily of costs related to the maintenance of computer equipment supporting our system architecture, circuits supporting our wide area network, support for production software, fees paid to information vendors for displaying data and off-site system hosting fees.
+
+   Professional Fees and Outside Services
+
+			Professional fees and outside services consist primarily of consulting services, which include supplemental staff activities primarily related to systems development and maintenance, legal, regulatory and audit, and tax advisory services.
+
+   Travel and Promotional Expenses
+
+			Travel and promotional expenses primarily consist of advertising, costs for special events, sponsorship of industry conferences, options education seminars and travel-related expenses.
+
+   Facilities Costs
+
+			Facilities costs primarily consist of expenses related to owned and leased properties including rent, maintenance, utilities, real estate taxes and telecommunications costs.
+
+   54
+
+   Table of Contents
+
+   Acquisition-Related Costs
+
+			Acquisition-related costs relate to acquisitions and other strategic opportunities, including the Merger. The acquisition-related costs include fees for investment banking advisors, lawyers, accountants, tax advisors, public relations firms, severance and retention costs, impairment of capitalized software and other external costs directly related to the mergers and acquisitions, as well as compensation-related expenses.
+
+   Other Expenses
+
+   Other expenses represent costs necessary to support our operations that are not already included in the above categories.
+
+   Non-Operating Income (Expense)
+
+			Income and expenses incurred through activities outside of our core operations are considered non-operating and are classified as other income/(expense). These activities primarily include interest earned on the investing of excess cash, interest expense related to outstanding debt facilities, dividend income and equity earnings or losses from our investments in other business ventures.
+
+   Results of Operations
+
+			The comparability of our results of operations between reported periods is impacted by the acquisition of Bats on February 28, 2017. Operating results and other financial metrics for U.S. Equities, European Equities and Global FX represent activity for the ten months ended December 31, 2017. The following are summaries of changes in financial performance and include certain non-GAAP financial measures. These non-GAAP financials measures assist management in comparing our performance on a consistent basis for purposes of business decision making by removing the impact of certain items management believes do not reflect our underlying operations. Please see the footnotes below for additional information and reconciliations from our consolidated financial statements.
+
+   55
+
+   Table of Contents
+
+			Comparison of Years Ended December 31, 2018 and 2017
+
+   Overview
+
+			The following summarizes changes in financial performance for the year ended December 31, 2018, compared to the year ended December 31, 2017:
+
+------------------------------------------- ------------------------------------------------------------------------- ------- --------- - ---------- - ------ ----- - ------- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2018 2017 (Decrease) Change
+ (in millions, except percentages, earnings per share, and as noted below)
+Total revenues $ 2,768.8 $ 2,229.1 $ 539.7 24.2 %
+Total cost of revenues 1,551.9 1,233.5 318.4 25.8 %
+Revenues less cost of revenues 1,216.9 995.6 221.3 22.2 %
+Total operating expenses 617.5 623.7 (6.2) (1.0) %
+Operating income 599.4 371.9 227.5 61.2 %
+Income before income tax provision 571.2 334.4 236.8 70.8 %
+Income tax provision 146.0 (66.2) 212.2 (320.5) %
+Net income $ 425.2 $ 400.6 $ 24.6 6.1 %
+Basic earnings per share $ 3.78 $ 3.70 $ 0.08 2.1 %
+Diluted earnings per share 3.76 3.69 0.07 1.9 %
+EBITDA(1) $ 810.3 $ 564.0 $ 246.3 43.7 %
+EBITDA margin(2) 66.6 % 56.6 % 10.0 % *
+Adjusted EBITDA(1) $ 840.4 $ 662.3 $ 178.1 26.9 %
+Adjusted EBITDA margin(3) 69.1 % 66.5 % 2.6 % *
+Adjusted earnings(4) $ 563.4 $ 368.0 $ 195.4 53.1 %
+Diluted weighted average shares outstanding 112.2 107.5 4.7 4.4 %
+Diluted Adjusted earnings per share(5) $ 5.02 $ 3.42 $ 1.60 46.8 %
+
+   * Not Meaningful
+
+ (1) EBITDA is defined as income before interest, income taxes, depreciation and amortization. Adjusted EBITDA is defined as EBITDA before acquisition-related costs, accelerated stock-based compensation, change in fair value of contingent consideration, and provision for uncollectable convertible notes receivable. EBITDA and adjusted EBITDA do not represent, and should not be considered as, alternatives to net income or cash flows from operations, each as determined in accordance with GAAP. We have presented EBITDA and adjusted EBITDA because we consider them important supplemental measures of our performance and believe that they are frequently used by analysts, investors and other interested parties in the evaluation of companies. In addition, we use adjusted EBITDA as a measure of operating performance for preparation of our forecasts and evaluating our leverage ratio for the debt to earnings covenant included in our outstanding credit facility. Other companies may calculate EBITDA and adjusted EBITDA differently than we do. EBITDA and adjusted EBITDA have limitations as analytical tools, and you should not consider them in isolation or as substitutes for analysis of our results as reported under GAAP.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+ (3) Adjusted EBITDA margin represents Adjusted EBITDA divided by revenues less cost of revenues.
+
+ (4) Adjusted earnings is defined as net income adjusted for amortization of purchased intangibles, acquisition-related costs, interest and other borrowing costs, impairment of intangible assets, provision for uncollectable convertible notes receivable, change in fair value of contingent consideration, changes in redemption value of non-controlling interest, tax effect of amortization and other items, tax effect of tax reform law, tax provision remeasurements, re-measurement of deferred tax assets and liabilities as a result of corporate tax increases in Illinois, net income allocated to participating securities, and accelerated stock-based compensation, net of the income tax effects of these adjustments. Adjusted earnings does not represent, and should not be considered as, an alternative to net income, as determined in accordance with GAAP. We have presented adjusted earnings because we consider it an important supplemental measure of our performance and we use it as the basis for monitoring our own core operating financial performance relative to other operators of exchanges. We also believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies. We believe that investors may find this non-GAAP measure useful in evaluating our performance compared to that of peer companies in our industry. Other companies may calculate adjusted earnings differently than we do. Adjusted earnings has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our results as reported under GAAP.
+
+   56
+
+   Table of Contents
+
+ (5) Diluted Adjusted earnings per share represents Adjusted earnings divided by diluted weighted average shares outstanding.
+
+   The following is a reconciliation of net income (loss) allocated to common stockholders to EBITDA and Adjusted EBITDA:
+
+-------------------------------------------------------- ----------------------- ------------- ------- ----------------- --------- --------- ----- ----- - ------ - ------- - ------
+ Year Ended December 31,
+ 2018
+ Options U.S. Equities Futures European Equities Global FX Corporate Total
+ (in millions)
+Net income (loss) allocated to common stockholders $ 267.5 $ 120.5 $ 42.7 $ 19.2 $ (11.8) $ (16.0) $ 422.1
+Interest (0.5) — — (0.2) — 38.9 38.2
+Income tax provision (benefit) 132.7 19.5 42.8 4.8 0.1 (53.9) 146.0
+Depreciation and amortization 46.4 87.1 2.2 31.3 34.6 2.4 204.0
+EBITDA 446.1 227.1 87.7 55.1 22.9 (28.6) 810.3
+Acquisition-related costs 15.4 — — 1.5 0.1 13.0 30.0
+Change in fair value of contingent consideration — — — — 0.1 — 0.1
+Adjusted EBITDA $ 461.5 $ 227.1 $ 87.7 $ 56.6 $ 23.1 $ (15.6) $ 840.4
+
+ Year Ended December 31,
+ 2017
+ Options U.S. Equities Futures European Equities Global FX Corporate Total
+ (in millions)
+Net income (loss) allocated to common stockholders $ 214.0 $ 23.4 $ 126.2 $ 9.9 $ (13.0) $ 36.2 $ 396.7
+Interest — — — — — 41.3 41.3
+Income tax provision (benefit) 39.4 80.0 — (0.5) 0.2 (185.3) (66.2)
+Depreciation and amortization 53.2 80.5 1.5 25.5 30.3 1.2 192.2
+EBITDA 306.6 183.9 127.7 34.9 17.5 (106.6) 564.0
+Acquisition-related costs 1.6 — — — — 82.8 84.4
+Accelerated stock-based compensation — — — — — 9.1 9.1
+Provision for uncollectable convertible notes receivable 3.8 — — — — — 3.8
+Change in fair value of contingent consideration — — — — 1.0 — 1.0
+Adjusted EBITDA $ 312.0 $ 183.9 $ 127.7 $ 34.9 $ 18.5 $ (14.7) $ 662.3
+
+   The following is a reconciliation of net income allocated to common stockholders to Adjusted earnings:
+
+--------------------------------------------------------------------------------------------------------- ----------------------- ------ ---- - -------
+ Year Ended December 31,
+ 2018 2017
+ (in millions)
+Net income allocated to common stockholders $ 422.1 $ 396.7
+Amortization of purchased intangibles 160.6 142.6
+Acquisition-related costs 30.0 84.4
+Accelerated stock-based compensation — 9.1
+Interest and other borrowing costs — 5.2
+Impairment of intangible assets — 3.8
+Change in fair value of contingent consideration 0.1 1.0
+Change in redemption value of noncontrolling interest 1.3 1.1
+Tax effect of amortization and other items (49.4) (92.3)
+Tax effect of tax reform law — (191.1)
+Tax provision re-measurements (0.4) —
+Re-measurement of deferred tax assets and liabilities as a result of corporate rate increases in Illinois — 7.0
+Net income allocated to participating securities (0.9) 0.5
+Adjusted earnings $ 563.4 $ 368.0
+
+   57
+
+   Table of Contents
+
+			The following summarizes changes in certain operational and financial metrics for the year ended December 31, 2018, compared to the year ended December 31, 2017:
+
+----------------------------------------------------------------------------- ------------------------------------------------------------------- ----- --------- - ---------- - ------ ------- ------ -
+ Year Ended
+ December 31, Increase/ Percent
+ 2018 2017 (Decrease) Change
+ (in millions, except percentages, trading days, and as noted below)
+Options:
+Average daily volume (ADV) (in millions of contracts):
+Total touched contracts 7.9 6.6 1.3 19.7 %
+Market ADV 20.5 16.7 3.8 22.8 %
+Index contract ADV 2.2 2.0 0.2 10.0 %
+Number of trading days 251 251 — — %
+Total Options revenue per contract (RPC) (1) $ 0.258 $ 0.248 $ 0.010 4.0 %
+Multiply Listed Options RPC (1) 0.069 0.061 0.008 13.1 %
+Index Options RPC (1) 0.736 0.687 0.049 7.1 %
+Market share 38.5 % 39.7 % (1.2) (3.0) %
+U.S. Equities:
+ADV:
+Total touched shares (in billions) 1.4 1.3 0.1 7.7 %
+Market ADV (in billions) 7.3 6.5 0.8 12.3 %
+Trading days (3) 251 212 39.0 18.4 %
+Market share 18.4 % 19.0 % (0.6) (3.2) %
+U.S. Equities (net capture per one hundred touched shares)(2) $ 0.025 $ 0.023 $ 0.002 8.7 %
+U.S. ETPs: launches (number of launches) 61 89 (28.0) (31.5) %
+U.S. ETPs: listings (number of listings) 290 250 40.0 16.0 %
+Futures:
+ADV (in thousands) 300.0 294.8 5.2 1.8 %
+Trading days 252 251 1.0 0.4 %
+Revenue per contract $ 1.690 $ 1.779 $ (0.089) (5.0) %
+European Equities:
+ADNV:
+Matched and touched ADNV (in billions) € 10.4 € 9.4 € 1.0 10.6 %
+Market ADNV (in billions) 46.5 44.8 1.7 3.8 %
+Trading days (3) 256 214 42.0 19.6 %
+Market share 22.3 % 21.0 % 1.3 6.2 %
+European Equities (net capture per matched notional value in basis points)(4) 0.192 0.167 0.025 15.0 %
+Average Euro/British pound exchange rate £ 0.884 £ 0.877 £ 0.007 0.8 %
+Global FX:
+ADNV (in billions) $ 37.4 $ 29.8 $ 7.6 25.5 %
+Trading days (3) 259 217 42.0 19.4 %
+Global FX (net capture per one million dollars traded)(5) 2.56 2.61 (0.05) (1.9) %
+Average British pound/U.S. dollar exchange rate $ 1.335 $ 1.287 $ 0.048 3.7 %
+
+ (1) Revenue per contract represents transaction fees less liquidity payments and routing and clearing costs divided by total contracts traded during the period.
+
+ (2) Net capture per one hundred touched shares refers to transaction fees less liquidity payments and routing and clearing costs divided by the product of one-hundredth ADV of touched shares on BZX, BYX, EDGX and EDGA and the number of trading days for the period.
+
+ (3) Trading days presented exclude the two months of 2017 prior to the Bats acquisition.
+
+ (4) Net capture per matched notional value refers to transaction fees less liquidity payments in British pounds divided by the product of matched ADNV in British pounds and the number of trading days for the period.
+
+ (5) Net capture per one million dollars traded refers to net transaction fees, divided by the product of one-millionth of ADNV traded on the Cboe FX market, the number of trading days, and two, which represents the buyer and seller that are both charged on the transaction for the period.
+
+   58
+
+   Table of Contents
+
+   Revenues
+
+			Total revenues for the year ended December 31, 2018 increased $539.7 million, or 24.2%, compared to the prior period primarily due to a $422.0 million, or 27.0% increase in transaction fees as a result of increased market volumes over the prior period. An additional two months of activity in 2018 from the Bats acquisition comprised $349.1 million of the increase over the prior period. The following summarizes changes in revenues for the year ended December 31, 2018 compared to the year ended December 31, 2017:
+
+-------------------------------- --------------------------------- ------- --------- - ---------- ------ ----- ---- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2018 2017 (Decrease) Change
+ (in millions, except percentages)
+Transaction fees $ 1,986.9 $ 1,564.9 $ 422.0 27.0 %
+Access fees 127.9 106.8 21.1 19.8 %
+Exchange services and other fees 83.1 74.8 8.3 11.1 %
+Market data fees 204.0 164.5 39.5 24.0 %
+Regulatory fees 333.9 291.5 42.4 14.5 %
+Other revenue 33.0 26.6 6.4 24.1 %
+Total revenues $ 2,768.8 $ 2,229.1 $ 539.7 24.2 %
+
+   Transaction Fees
+
+			Transaction fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to a 22.8% increase in overall options market ADV, including a 10.0% increase in index options ADV and a 12.3% increase in U.S. Equities ADV. The additional two months of activity in 2018 from the Bats acquisition contributed $232.0 million.
+
+   Access Fees
+
+			Access fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to an increase in the Options segment as a result of additional subscribers and an increase in access fees within the Futures segment, as the pricing model was revised as a result of increased functionality associated with the migration of the futures exchange to the Bats trading platform on February 28, 2018. The additional two months of activity in 2018 from the Bats acquisition contributed $11.8 million.
+
+   Exchange Services and Other Fees
+
+			Exchange services and other fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that contributed $5.7 million.
+
+   Market Data Fees
+
+			Market data fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that contributed $30.8 million, as well as increases from the U.S. Equities, Futures, and Options segments that contributed $7.0 million, $2.1 million, and $1.8 million, respectively.
+
+   Regulatory Fees
+
+			Regulatory transaction fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that added $66.9 million, partially offset by a decrease in U.S. Equities regulatory fees, as the rate decreased to $13.00 per million dollars of covered sales from $23.10 per million dollars of covered sales in May 2018.
+
+   59
+
+   Table of Contents
+
+   Other Revenue
+
+			Other revenue increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to an increase in trade reporting services revenue from the European Equities segment of $3.5 million, coupled with the additional two months of activity in 2018 from the Bats acquisition that contributed $1.9 million.
+
+   Cost of Revenues
+
+			Cost of revenues increased in the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that contributed $260.0 million. The following summarizes changes in cost of revenues for the year ended December 31, 2018 compared to the prior year:
+
+-------------------- --------------------------------- ------- --------- - ---------- ------ ----- ---- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2018 2017 (Decrease) Change
+ (in millions, except percentages)
+Liquidity payments $ 1,113.0 $ 849.7 $ 263.3 31.0 %
+Routing and clearing 39.1 37.6 1.5 4.0 %
+Section 31 fees 302.4 260.0 42.4 16.3 %
+Royalty fees 97.4 86.2 11.2 13.0 %
+Total $ 1,551.9 $ 1,233.5 $ 318.4 25.8 %
+
+   Liquidity Payments
+
+			Liquidity payments increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to two months of additional Bats activity in 2018 of $187.7 million, with the remainder of the increase due to the 12.3% increase in U.S. Equities ADV.
+
+   Routing and Clearing
+
+			The increase in routing and clearing fees for the year ended December 31, 2018 compared to the same period in 2017 was primarily driven by the two months of additional Bats activity in 2018 of $5.8 million, partially offset by a 11.4% decrease in routing fees per 100 touched shares in the U.S. Equities segment.
+
+   Section 31 Fees
+
+			Section 31 fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to two additional months of activity in 2018 from the Bats acquisition that added $66.4 million, partially offset by a decrease in Section 31 Fees in the U.S. Equities segment, as the rate decreased to $13.00 per million dollars of covered sales from $23.10 per million dollars of covered sales in May 2018.
+
+   Royalty Fees
+
+			Royalty fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to higher trading volumes in licensed products in 2018.
+
+   Revenues Less Cost of Revenues
+
+			Revenues less cost of revenues increased $221.3 million, or 22.2%, in the year ended December 31, 2018 compared to the same period in 2017 primarily due to a $157.2 million, or 23.2%, increase in transaction fees less liquidity payments and routing and clearing costs. The additional two months of activity in 2018 from the acquisition of Bats contributed $89.1 million.
+
+   60
+
+   Table of Contents
+
+   The following summarizes the components of revenues less cost of revenues for the year ended December 31, 2018, presented as a percentage of revenues less cost of revenues and compared to the prior year:
+
+----------------------------------------------------------------------- --------------------------------- ------- ------- - ------------ ----- - ------------- - ----- -
+ Percentage of
+ Revenues Less
+ Cost of
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2018 2017 Change 2018 2017
+ (in millions, except percentages)
+Transaction fees less liquidity payments and routing and clearing costs $ 834.8 $ 677.6 23.2 % 68.6 % 68.1 %
+Access fees 127.9 106.8 19.8 % 10.5 % 10.7 %
+Exchange services and other fees 83.1 74.8 11.1 % 6.8 % 7.5 %
+Market data fees 204.0 164.5 24.0 % 16.8 % 16.5 %
+Regulatory fees, less Section 31 fees 31.5 31.5 (0.0) % 2.6 % 3.2 %
+Royalty fees (97.4) (86.2) 13.0 % (8.0) % (8.7) %
+Other 33.0 26.6 24.1 % 2.7 % 2.7 %
+Revenues less cost of revenues $ 1,216.9 $ 995.6 22.2 % 100.0 % 100.0 %
+
+   Transaction Fees Less Liquidity Payments and Routing and Clearing Costs
+
+			Transaction fees less liquidity payments and routing and clearing costs (“Net Transaction Fees”) increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to a 22.8% increase in overall options market ADV, including a 10.0% increase in index options ADV and a 12.3% increase in U.S. Equities ADV, coupled with the additional two months of activity in 2018 from the Bats acquisition that contributed $38.4 million.
+
+   Access Fees
+
+			Access fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to an increase in the Options segment as a result of additional subscribers, as well as an increase in access fees within the Futures segment, as the pricing model was revised as a result of increased functionality associated with the migration of the futures exchange to the Bats trading platform on February 28, 2018. The additional two months of activity in 2018 from the Bats acquisition contributed $11.8 million.
+
+   Exchange Services and Other Fees
+
+			Exchange services and other fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that contributed $5.7 million.
+
+   Market Data Fees
+
+			Market data fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that contributed $30.8 million, as well as increases from the U.S. Equities, Futures, and Options segments that contributed $7.0 million, $2.1 million, and $1.8 million, respectively.
+
+			Regulatory Fees, less Section 31 Fees
+
+			Regulatory fees, less Section 31 Fees, remained flat in the year ended December 31, 2018 compared to the same period in 2017, as a result of a 12.3% increase in U.S. Equities trading ADV.
+
+   61
+
+   Table of Contents
+
+   Royalty Fees
+
+			Royalty fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to higher trading volumes in licensed products in 2018.
+
+   Other
+
+			Other revenue increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to an increase in trade reporting services revenue from the European Equities segment of $3.5 million, coupled with the additional two months of activity in 2018 from the Bats acquisition that contributed $1.9 million.
+
+   Operating Expenses
+
+			For the year ended December 31, 2018 compared to the year ended December 31, 2017, non-recurring acquisition-related costs for the Bats acquisition incurred in 2017 drove the decrease in operating expenses, partially offset by an increase in compensation and benefits and depreciation and amortization in 2018 driven in part by two additional months of activity in 2018 from the Bats acquisition. The following summarizes changes in operating expenses for the year ended December 31, 2018 compared to the prior year:
+
+-------------------------------------- --------------------------------- ----- --------- - ---------- ------ ------ ------ -
+ Year Ended
+ December 31, Increase/ Percent
+ 2018 2017 (Decrease) Change
+ (in millions, except percentages)
+Operating Expenses:
+Compensation and benefits $ 228.8 $ 201.4 $ 27.4 13.6 %
+Depreciation and amortization 204.0 192.2 11.8 6.1 %
+Technology support services 47.9 42.1 5.8 13.8 %
+Professional fees and outside services 68.3 66.0 2.3 3.5 %
+Travel and promotional expenses 13.0 17.2 (4.2) (24.4) %
+Facilities costs 11.5 10.3 1.2 11.7 %
+Acquisition-related costs 30.0 84.4 (54.4) (64.5) %
+Change in contingent consideration 0.1 1.0 (0.9) (90.0) %
+Other expenses 13.9 9.1 4.8 52.7 %
+Total operating expenses $ 617.5 $ 623.7 $ (6.2) (1.0) %
+
+   Compensation and Benefits
+
+			Compensation and benefits increased for the year ended December 31, 2018 compared to the same period in 2017 due to two months of additional activity from the Bats acquisition that contributed $13.9 million, as well as additional bonus expense of $12.4 million in 2018 due to strong financial performance.
+
+   Depreciation and Amortization
+
+			Depreciation and amortization increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to two additional months of amortization of the Bats intangible assets in 2018, contributing an additional $31.1 million, partially offset by a decrease in 2018 amortization due to the accelerated cash flow method for the intangibles acquired in the Bats acquisition.
+
+   Technology Support Services
+
+			Technology support services costs increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to an additional two months of Bats activity in 2018 that contributed $4.7 million.
+
+   62
+
+   Table of Contents
+
+   Professional Fees and Outside Services
+
+			Professional and outside services fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily driven by incremental expense from the acquisition of Bats that contributed $3.3 million, partially offset by a decrease in contract services of $1.1 million.
+
+   Travel and Promotional Expenses
+
+			Travel and promotional expenses decreased for the year ended December 31, 2018 compared to the same period in 2017, primarily due to a decrease in marketing and advertising expenses of $3.4 million and a decrease in sponsorships of $0.8 million.
+
+   Acquisition-Related Costs
+
+			Acquisition-related costs decreased for the year ended December 31, 2018 compared to the same period in 2017 due to the timing of the acquisition of Bats in 2017. Acquisition-related costs include fees for investment banking advisors, lawyers, accountants, tax advisors, public relations firms, severance and retention costs, impairment of capitalized software and other external costs directly related to the mergers and acquisitions, as well as compensation-related expenses.
+
+   Other Expenses
+
+			Other expenses increased for the year ended December 31, 2018 compared to the same period in 2017, primarily due to increases in value added taxes of $0.9 million, RMC related expenses of $0.8 million, a write off of receivables of $0.7 million, and a true-up of sales taxes on fixed assets of $0.5 million. Additionally, the two months of additional activity from the Bats acquisition contributed $0.7 million.
+
+   Operating Income
+
+			As a result of the items above, operating income for the year ended December 31, 2018 was $599.4 million, compared to $371.9 million for the year ended December 31, 2017, an increase of $227.5 million, or 61.2%.
+
+   Interest Expense, Net
+
+			Net interest expense decreased in the year ended December 31, 2018 as the outstanding debt balance decreased from $1,237.9 million at December 31, 2017 to $1,215.4 million at December 31, 2018. Also contributing to the decrease was the lower interest rates resulting from debt refinancing in both June 2017 and March 2018, as well as increased interest income from treasury securities.
+
+   Other Income
+
+			Other income increased in the year ended December 31, 2018 compared to the same period in 2017 primarily due to $8.8 million of dividends recognized during 2018.
+
+   Income Before Income Tax Provision
+
+			As a result of the above, income before income tax provision for the year ended December 31, 2018 was $571.2 million compared to $334.4 million for the year ended December 31, 2017, an increase of $236.8 million, or 70.8%.
+
+   Income Tax Provision (Benefit)
+
+			For the year ended December 31, 2018, the income tax provision (benefit) was $146.0 million compared with a benefit of $(66.2) million for the year ended December 31, 2017. The effective tax rate for the year ended December 31, 2018 was 25.6%, compared to a benefit of (19.8)% for the year ended December 31, 2017.
+
+   63
+
+   Table of Contents
+
+   Net Income
+
+			As a result of the items above, net income for the year ended December 31, 2018 was $426.5 million, or 35.0% of revenues less cost of revenues, compared to $401.7 million, or 40.3% of revenues less cost of revenues, for the year ended December 31, 2017, an increase of $24.8 million, or 6.2%.
+
+   Segment Operating Results
+
+			We report results from our five segments: Options, U.S. Equities, Futures, European Equities, and Global FX. Segment performance is primarily based on operating income (loss). We have aggregated all corporate costs, as well as other business ventures, within the Corporate Items and Eliminations as those activities should not be used to evaluate a segment's operating performance. All operating expenses that relate to activities of a specific segment have been allocated to that segment.
+
+   The following summarizes our total revenues by segment:
+
+----------------- --------------------------------- ------- ------- - ------------ ------ - ------------- - ----- -
+ Percentage of
+ Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2018 2017 Change 2018 2017
+ (in millions, except percentages)
+Options $ 1,057.5 $ 883.5 19.7 % 38.2 % 39.6 %
+U.S. Equities 1,373.1 1,072.5 28.0 % 49.6 % 48.1 %
+Futures 149.8 144.6 3.6 % 5.4 % 6.6 %
+European Equities 131.6 89.6 46.9 % 4.8 % 4.0 %
+Global FX 56.4 38.2 47.6 % 2.0 % 1.7 %
+Corporate 0.4 0.7 (42.9) % 0.0 % 0.0 %
+Total revenues $ 2,768.8 $ 2,229.1 24.2 % 100.0 % 100.0 %
+
+   The following summarizes our revenues less cost of revenues by segment:
+
+------------------------------------ --------------------------------- ------- ------- - ------------ ------ - --------------------- - ----- -
+ Percentage of
+ Total Revenues
+ less Cost of Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2018 2017 Change 2018 2017
+ (in millions, except percentages)
+Options $ 611.2 $ 516.3 18.4 % 50.2 % 51.9 %
+U.S. Equities 310.2 239.1 29.7 % 25.6 % 24.0 %
+Futures 144.1 139.5 3.3 % 11.8 % 14.0 %
+European Equities 94.6 61.8 53.1 % 7.8 % 6.2 %
+Global FX 56.4 38.2 47.6 % 4.6 % 3.8 %
+Corporate 0.4 0.7 (42.9) % 0.0 % 0.1 %
+Total revenues less cost of revenues $ 1,216.9 $ 995.6 22.2 % 100.0 % 100.0 %
+
+   64
+
+   Table of Contents
+
+   Options
+
+			The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Options segment:
+
+------------------------------ --------------------------------- ----- - ------- - ----- ------------ ------ ---- ---------- ---- ---- -
+ Percentage
+ of Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2018 2017 Change 2018 2017
+ (in millions, except percentages)
+Revenues less cost of revenues $ 611.2 $ 516.3 18.4 % 57.8 % 58.4 %
+Operating expenses 220.3 264.1 (16.6) % 20.8 % 29.9 %
+Operating income $ 390.9 $ 252.2 55.0 % 37.0 % 28.5 %
+EBITDA(1) $ 446.1 $ 306.6 45.5 % 42.2 % 34.7 %
+EBITDA margin(2) 73.0 % 59.4 % * * *
+
+			*  Not meaningful
+
+ (1) See footnote (1) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+			Revenue less cost of revenues increased $94.9 million for the year ended December 31, 2018 compared to the year ended December 31, 2017, primarily due to a 22.8% increase in overall options market ADV, including a 10.0% increase in index options ADV, as well as an increase in Options revenue per contract. For the year ended December 31, 2018, the Options segment's operating income increased $138.7 million compared to the year ended December 31, 2017 due to higher revenues less cost of revenues and two additional months of activity from the Bats acquisition in 2017.
+
+   U.S. Equities
+
+			The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our U.S. Equities segment:
+
+------------------------------ --------------------------------- ----- - ------- - ----- ------------ ---- ---- ---------- ---- ---- -
+ Percentage
+ of Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2018 2017 Change 2018 2017
+ (in millions, except percentages)
+Revenues less cost of revenues $ 310.2 $ 239.1 29.7 % 22.6 % 22.3 %
+Operating expenses 169.7 135.9 24.9 % 12.4 % 12.7 %
+Operating income $ 140.5 $ 103.2 36.1 % 10.2 % 9.6 %
+EBITDA(1) $ 227.1 $ 183.9 23.5 % 16.5 % 17.1 %
+EBITDA margin(2) 73.2 % 76.9 % * * *
+
+			*      Not meaningful
+
+ (1) See footnote (1) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+			Revenue less cost of revenues increased $71.1 million for the year ended December 31, 2018 compared to the year ended December 31, 2017, primarily due to an increase in transaction net revenue, as market ADV increased 12.3% over prior year, coupled with an 8.7% increase in net capture. An increase in proprietary market data also contributed to the increase over prior year. For the year ended December 31, 2018, the U.S. Equities segment's operating income increased
+
+   65
+
+   Table of Contents
+
+$37.3 million compared to the year ended December 31, 2017 due to higher revenues less cost of revenues and two additional months of activity from the Bats acquisition in 2017. Operating expenses increased $33.8 million for the year ended December 31, 2018 compared to the year ended December 31, 2017, primarily due to two months of additional activity from the Bats acquisition in 2017.
+
+   Futures
+
+			The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA, and EBITDA margin for our Futures segment:
+
+------------------------------ --------------------------------- ----- - ------- - ----- ------------ ------ ---- ---------- ---- ---- -
+
+ Percentage
+ of Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2018 2017 Change 2018 2017
+ (in millions, except percentages)
+Revenues less cost of revenues $ 144.1 $ 139.5 3.3 % 96.2 % 96.5 %
+Operating expenses 58.4 12.7 359.8 % 39.0 % 8.8 %
+Operating income $ 85.7 $ 126.8 (32.4) % 57.2 % 87.7 %
+EBITDA(1) $ 87.7 $ 127.7 (31.3) % 58.5 % 88.3 %
+EBITDA margin(2) 60.9 % 91.5 % * * *
+
+			*      Not meaningful
+
+ (1) See footnote (1) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+			Revenue less cost of revenues increased $4.6 million for the year ended December 31, 2018 compared to the year ended December 31, 2017, primarily related to increases in access fees and market data fees, offset by a 5.1% decline in revenue per contract during the year. For the year ended December 31, 2018, the Futures segment's operating income decreased $41.1 million compared to the year ended December 31, 2017 due to higher allocations for 2018 initiatives, including the CFE platform migration and new product launches.
+
+   European Equities
+
+			The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our European Equities segment:
+
+------------------------------ --------------------------------- ---- - ------- - ---- ------------ ----- ---- ---------- ---- ---- -
+ Percentage
+ of Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2018 2017 Change 2018 2017
+ (in millions, except percentages)
+Revenues less cost of revenues $ 94.6 $ 61.8 53.1 % 71.9 % 69.0 %
+Operating expenses 70.5 52.9 33.3 % 53.6 % 59.0 %
+Operating income $ 24.1 $ 8.9 170.8 % 18.3 % 9.9 %
+EBITDA(1) $ 55.1 $ 34.9 57.9 % 41.9 % 39.0 %
+EBITDA margin(2) 58.2 % 56.5 % * * *
+
+			*     Not meaningful
+
+ (1) See footnote (1) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+   66
+
+   Table of Contents
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+			Revenue less cost of revenues increased $32.8 million for the year ended December 31, 2018 compared to the year ended December 31, 2017, primarily due to a 15.0% increase in net capture, a 3.6% increase in total market ADNV, and a 6.2% increase in market share. For the year ended December 31, 2018, the European Equities segment's operating income increased $15.2 million compared to the year ended December 31, 2017 due to higher revenues less cost of revenues. Also contributing to the increase were two additional months of activity from the Bats acquisition in 2017. Operating expenses increased $17.6 million for the year ended December 31, 2018 compared to the year ended December 31, 2017, primarily due to two months of additional activity from the Bats acquisition in 2017, as well as increases in compensation and benefits and depreciation and amortization.
+
+   Global FX
+
+			The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Global FX segment:
+
+------------------------------ --------------------------------- ------ - ------- - ------ ------------ ----- ---- ---------- ---- ------ -
+ Percentage
+ of Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2018 2017 Change 2018 2017
+ (in millions, except percentages)
+Revenues less cost of revenues $ 56.4 $ 38.2 47.6 % 100.0 % 100.0 %
+Operating expenses 68.1 51.0 33.5 % 120.7 % 133.5 %
+Operating loss $ (11.7) $ (12.8) (8.6) % (20.7) % (33.5) %
+EBITDA(1) $ 22.9 $ 17.5 30.9 % 40.6 % 45.8 %
+EBITDA margin(2) 40.6 % 45.8 % * * *
+
+			*     Not meaningful
+
+ (1) See footnote (1) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+			Revenue less cost of revenues increased $18.2 million for the year ended December 31, 2018 compared to the year ended December 31, 2017, primarily due to a 25.5% increase in ADNV during 2018. For the year ended December 31, 2018, the Global FX segment's operating loss decreased $1.1 million compared to the year ended December 31, 2017. Also contributing to the decrease were two additional months of activity from the Bats acquisition in 2017. Operating expenses increased $17.1 million for the year ended December 31, 2018 compared to the year ended December 31, 2017, primarily due to two months of additional activity from the Bats acquisition in 2017, as well as increases in compensation and benefits and technology support services.
+
+   67
+
+   Table of Contents
+
+			Comparison of Years Ended December 31, 2017 and 2016
+
+   Overview
+
+			The following summarizes changes in financial performance for the year ended December 31, 2017, compared to the year ended December 31, 2016:
+
+------------------------------------------- ------------------------------------------------------------------------- ------- --------- - ---------- - ------ ------- - ------- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2017 2016 (Decrease) Change
+ (in millions, except percentages, earnings per share, and as noted below)
+Total revenues $ 2,229.1 $ 703.1 $ 1,526.0 217.0 %
+Total cost of revenues 1,233.5 136.7 1,096.8 802.3 %
+Revenues less cost of revenues 995.6 566.4 429.2 75.8 %
+Total operating expenses 623.7 268.2 355.5 132.6 %
+Operating income 371.9 298.2 73.7 24.7 %
+Income before income tax provision 334.4 306.6 27.8 9.1 %
+Income tax provision (66.2) 120.9 (187.1) (154.8) %
+Net income $ 400.6 $ 185.7 $ 214.9 115.7 %
+Basic earnings per share 3.70 2.27 1.43 63.0 %
+Diluted earnings per share 3.69 2.27 1.42 62.5 %
+Organic net revenue (1) 617.4 566.4 51.0 9.0 %
+EBITDA(2) $ 564.0 $ 355.9 $ 208.1 58.5 %
+EBITDA margin(3) 56.6 % 62.8 % (6.2) % *
+Adjusted EBITDA(2) $ 662.3 $ 364.3 $ 298.0 81.8 %
+Adjusted EBITDA margin(4) 66.5 % 64.3 % 2.2 % *
+Adjusted earnings(5) $ 368.0 $ 197.3 $ 170.7 86.5 %
+Adjusted earnings margin(6) 37.0 % 34.8 % 2.1 % *
+Diluted weighted average shares outstanding 107.5 81.4 26.1 32.1 %
+Diluted Adjusted earnings per share(7) $ 3.42 $ 2.42 $ 1.00 41.2 %
+
+			*     Not meaningful
+
+ (1) Organic net revenue is defined as revenues less cost of revenues excluding revenues less cost of revenues of any acquisition for the quarter the business was acquired and the following year comparable quarter. Organic net revenue does not represent, and should not be considered as, an alternative to revenues less cost of revenues, or net revenue, as determined in accordance with GAAP. We have presented organic net revenue because we consider it an important supplemental measure of our performance and we use it as the basis for monitoring our operating financial performance before the effects of acquisitions. We also believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies. We believe that investors may find this non-GAAP measure useful in evaluating our performance compared to that of peer companies in our industry. Other companies may calculate organic net revenue differently than we do. Organic net revenue has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our results as reported under GAAP.
+
+   The following is a reconciliation of revenues less cost of revenues to organic net revenue:
+
+------------------------------------------ ----------------------- ------- ---- - -----
+ Year Ended December 31,
+ 2017 2016
+ (in millions)
+Revenue less cost of revenue (net revenue) $ 995.6 $ 566.4
+Bats revenue less cost of revenue (378.2)
+Organic net revenue $ 617.4 $ 566.4
+
+ (2) EBITDA is defined as income before interest, income taxes, depreciation and amortization. Adjusted EBITDA is defined as EBITDA before acquisition-related costs, accelerated stock-based compensation, and a legal settlement. EBITDA and adjusted EBITDA do not represent, and should not be considered as, alternatives to net income or cash flows from operations, each as determined in accordance with GAAP. We have presented EBITDA and adjusted
+
+   68
+
+   Table of Contents
+
+EBITDA because we consider them important supplemental measures of our performance and believe that they are frequently used by analysts, investors and other interested parties in the evaluation of companies. In addition, we use adjusted EBITDA as a measure of operating performance for preparation of our forecasts, evaluating our leverage ratio for the debt to earnings covenant included in our outstanding credit facility. Other companies may calculate EBITDA and adjusted EBITDA differently than we do. EBITDA and adjusted EBITDA have limitations as analytical tools, and you should not consider them in isolation or as substitutes for analysis of our results as reported under GAAP.
+
+   The following is a reconciliation of net income (loss) allocated to common stockholders to EBITDA and Adjusted EBITDA:
+
+------------------------------------------------------------- ----------------------- ------------- ------- ----------------- --------- --------- ----- ----- - ------ - ------- - ------
+ Year Ended December 31,
+ 2017
+ Options U.S. Equities Futures European Equities Global FX Corporate Total
+ (in millions)
+Net income (loss) allocated to common stockholders $ 214.0 $ 23.4 $ 126.2 $ 9.9 $ (13.0) $ 36.2 $ 396.7
+Interest — — — — — 41.3 41.3
+Income tax provision (benefit) 39.4 80.0 — (0.5) 0.2 (185.3) (66.2)
+Depreciation and amortization 53.2 80.5 1.5 25.5 30.3 1.2 192.2
+EBITDA 306.6 183.9 127.7 34.9 17.5 (106.6) 564.0
+Acquisition-related costs 1.6 — — — — 82.8 84.4
+Accelerated stock-based compensation — — — — — 9.1 9.1
+Provision for uncollectable convertible notes receivable 3.8 — — — — — 3.8
+Change in fair value of contingent consideration — — — — 1.0 — 1.0
+Adjusted EBITDA $ 312.0 $ 183.9 $ 127.7 $ 34.9 $ 18.5 $ (14.7) $ 662.3
+
+ Year Ended December 31,
+ 2016
+ Options U.S. Equities Futures European Equities Global FX Corporate Total
+ (in millions)
+Net income (loss) allocated to common stockholders $ 100.3 $ — $ 96.4 $ — $ — $ (11.8) $ 184.9
+Interest 5.8 — — — — (0.1) 5.7
+Income tax provision (benefit) 120.9 — — — — — 120.9
+Depreciation and amortization 40.3 — 2.8 — — 1.3 44.4
+EBITDA 267.3 — 99.2 — — (10.6) 355.9
+Acquisition-related costs — — — — — 13.5 13.5
+Accelerated stock-based compensation — — — — — 1.5 1.5
+Impairment of intangible assets (1.4) — — — — — (1.4)
+Legal settlement — — — — — (5.5) (5.5)
+Assessment of computer-based lease taxes for prior period use — — — — — 0.3 0.3
+Adjusted EBITDA $ 265.9 $ — $ 99.2 $ — $ — $ (0.8) $ 364.3
+
+ (3) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+ (4) Adjusted EBITDA margin represents Adjusted EBITDA divided by revenues less cost of revenues.
+
+ (5) "Adjusted earnings" is defined as net income adjusted for amortization, net of tax and other items, including acquisition-related costs, accelerated stock-based compensation, assessment of computer-based lease taxes for prior period use, and impairment of intangible assets, net of tax. Adjusted earnings does not represent, and should not be considered as, an alternative to net income, as determined in accordance with U.S. GAAP. We have presented Adjusted earnings because we consider it an important supplemental measure of our performance and we use it as the basis for monitoring our own core operating financial performance relative to other operators of electronic exchanges. We also believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies. We believe that investors may find this non-GAAP measure useful in evaluating our performance compared to that of peer companies in our industry. Other companies may calculate Adjusted earnings
+
+   69
+
+   Table of Contents
+
+differently than we do. Adjusted earnings has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our results as reported under U.S. GAAP.
+
+   The following is a reconciliation of net income allocated to common stockholders to Adjusted earnings:
+
+--------------------------------------------------------------------------------------------------------- ----------------------- ------- ---- - -----
+ Year Ended December 31,
+ 2017 2016
+ (in millions)
+Net income allocated to common stockholders $ 396.7 $ 184.9
+Amortization of purchased intangibles 142.6 1.2
+Acquisition-related costs 84.4 13.5
+Accelerated stock-based compensation 9.1 1.5
+Interest and other borrowing costs 5.2 5.7
+Impairment of intangible assets 3.8 —
+Change in fair value of contingent consideration 1.0 —
+Legal settlement — (5.5)
+Gain on settlement of contingent consideration — (1.4)
+Assessment of computer-based lease taxes for prior period use — 0.3
+Change in redemption value of noncontrolling interest 1.1 1.1
+Tax effect of amortization and other items (92.3) (4.0)
+Tax effect of tax reform law (191.1) —
+Re-measurement of deferred tax assets and liabilities as a result of corporate rate increases in Illinois 7.0 —
+Net income allocated to participating securities 0.5 —
+Adjusted earnings $ 368.0 $ 197.3
+
+ (6) Adjusted earnings margin represents Adjusted earnings divided by revenues less cost of revenues.
+
+ (7) Diluted Adjusted earnings per share represents Adjusted earnings divided by diluted weighted average shares outstanding.
+
+   70
+
+   Table of Contents
+
+			The following summarizes changes in certain operational and financial metrics for the year ended December 31, 2017, compared to the year ended December 31, 2016:
+
+----------------------------------------------------------------------------- ------------------------------------------------------------------- ----- --------- - ---------- - ------ ------- - ------ -
+ Year Ended
+ December 31, Increase/ Percent
+ 2017 2016 (Decrease) Change
+ (in millions, except percentages, trading days, and as noted below)
+Options:
+Average daily volume (ADV) (in millions of contracts):
+Total touched contracts 6.6 6.4 0.2 3.1 %
+Market ADV 16.7 16.1 0.6 3.7 %
+Index contract ADV 2.0 1.7 0.3 17.6 %
+Number of trading days 251 252 (1) (0.4) %
+Total Options revenue per contract (RPC) (1) $ 0.248 $ 0.322 $ (0.074) (23.0) %
+Multiply Listed Options RPC (1) 0.061 0.083 (0.022) (26.5) %
+Index Options RPC (1) 0.687 0.710 (0.023) (3.2) %
+Market share 39.7 % 27.7 % 12.0 % *
+U.S. Equities:
+ADV:
+Total touched shares (in billions) 1.3 * * *
+Market ADV (in billions) 6.5 * * *
+Trading days (3) 212 * * *
+Market share 19.0 % * * *
+U.S. Equities (net capture per one hundred touched shares)(2) $ 0.023 * * *
+U.S. ETPs: launches (number of launches) 89 * * *
+U.S. ETPs: listings (number of listings) 250 * * *
+Futures:
+ADV (in thousands) 294.8 238.8 56.0 23.5 %
+Trading days 251 252 (1) (0.4) %
+Revenue per contract $ 1.779 $ 1.681 $ 0.098 5.8 %
+European Equities:
+ADNV:
+Matched and touched ADNV (in billions) € 9.4 * * *
+Market ADNV (in billions) 44.8 * * *
+Trading days (3) 214 * * *
+Market share 21.0 % * * *
+European Equities (net capture per matched notional value in basis points)(3) 0.167 * * *
+Average Euro/British pound exchange rate £ 0.877 * * *
+Global FX:
+ADNV (in billions) $ 29.8 * * *
+Trading days (3) 217 * * *
+Global FX (net capture per one million dollars traded)(4) 2.61 * * *
+Average British pound/U.S. dollar exchange rate $ 1.287 * * *
+
+			*  Not Meaningful
+
+ (1) Revenue per contract represents transaction fees less liquidity payments and routing and clearing costs divided by total contracts traded during the period.
+
+ (2) Net capture per one hundred touched shares refers to transaction fees less liquidity payments and routing and clearing costs divided by the product of one-hundredth ADV of touched shares on BZX, BYZ, EDGX, and EDGA and the number of trading days for the period.
+
+ (3) Trading days presented exclude the two months of 2017 prior to the Bats acquisition.
+
+ (4) Net capture per matched notional value refers to transaction fees less liquidity payments in British pounds divided by the product of matched ADNV in British pounds of shares and the number of trading days for the period.
+
+   71
+
+   Table of Contents
+
+ (5) Net capture per one million dollars traded refers to net transaction fees divided by the product of one-millionth of ADNV traded on the Cboe FX market, the number of trading days, and two, which represents the buyer and seller that are both charged on the transaction for the period.
+
+   Revenues
+
+			Total revenues increased in the year ended December 31, 2017 reflecting the Bats acquisition on February 28, 2017. The following summarizes changes in revenues for the year ended December 31, 2017, compared to the year ended December 31, 2016:
+
+-------------------------------- --------------------------------- ------- --------- - ---------- ------ ------- ----- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2017 2016 (Decrease) Change
+ (in millions, except percentages)
+Transaction fees $ 1,564.9 $ 509.3 $ 1,055.6 207.3 %
+Access fees 106.8 52.4 54.4 103.8 %
+Exchange services and other fees 74.8 46.3 28.5 61.6 %
+Market data fees 164.5 33.2 131.3 395.5 %
+Regulatory fees 291.5 48.3 243.2 503.5 %
+Other revenue 26.6 13.6 13.0 95.6 %
+Total revenues $ 2,229.1 $ 703.1 $ 1,526.0 217.0 %
+
+   Transaction Fees
+
+			Transaction fees increased for the year ended December 31, 2017 compared to the prior year primarily driven by the acquisition of Bats that contributed $970.5 million. The remaining increase was primarily driven by a 50.0% increase in Futures volumes and a 17.6% increase in index options volumes.
+
+   Access Fees
+
+			Access fees increased for the year ended December 31, 2017 compared to the prior year primarily driven by the acquisition of Bats that contributed $60.1 million. This was partially offset by pricing decreases for market maker permits and floor broker permits effective in the first quarter of 2017.
+
+   Exchange Services and Other Fees
+
+			Exchange services and other fees increased for the year ended December 31, 2017 compared to the prior year. The increase was primarily a result of the Bats acquisition that contributed $25.0 million.
+
+   Market Data Fees
+
+			Market data fees increased for the year ended December 31, 2017 compared to the prior year primarily due to the Bats acquisition that contributed $60.1 million.
+
+   Regulatory Fees
+
+			Regulatory fees increased for the year ended December 31, 2017 compared to the same period in the prior year. The increase in regulatory fees is primarily due to the acquisition of Bats that contributed $246.0 million.
+
+   Other Revenue
+
+			Other revenue increased for the year ended December 31, 2017 compared to the same period in the prior year primarily due to the Bats acquisition that contributed $9.4 million.
+
+   72
+
+   Table of Contents
+
+   Cost of Revenues
+
+			Cost of revenues increased for the year ended December 31, 2017 compared to the year ended December 31, 2016. The increase was primarily due to the acquisition of Bats. The following summarizes changes in cost of revenues for the year ended December 31, 2017 compared to the prior year:
+
+-------------------- --------------------------------- ------- --------- - ---------- ------ ------- ------- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2017 2016 (Decrease) Change
+ (in millions, except percentages)
+Liquidity payments $ 849.7 $ 35.8 $ 813.9 2,273.5 %
+Routing and clearing 37.6 11.1 26.5 238.7 %
+Section 31 fees 260.0 11.8 248.2 2,103.4 %
+Royalty fees 86.2 78.0 8.2 10.5 %
+Total $ 1,233.5 $ 136.7 $ 1,096.8 802.3 %
+
+   Liquidity Payments
+
+			Liquidity payments increased for the year ended December 31, 2017 compared to the same period in the prior year primarily driven by the Bats acquisition that contributed $789.3 million.
+
+   Routing and Clearing
+
+			The increase in routing and clearing fees for the year ended December 31, 2017 compared to the same period in the prior year was primarily driven by the Bats acquisition that contributed $28.3 million.
+
+   Section 31 Fees
+
+			Section 31 fees increased for the year ended December 31, 2017 compared to the same period in the prior year primarily driven by the Bats acquisition that contributed $243.6 million.
+
+   Royalty Fees
+
+   Royalty fees for the year ended December 31, 2017 increased from the same period prior year primarily from higher trading volume in licensed products.
+
+   Revenues Less Cost of Revenues
+
+			Revenues less cost of revenues remained increased for the year ended December 31, 2017 compared to the year ended December 31, 2016 primarily due to the acquisition of Bats.
+
+   73
+
+   Table of Contents
+
+			The following summarizes the components of revenues less cost of revenues for the year ended December 31, 2017 and 2016, presented as a percentage of revenues less cost of revenues and compared to the prior year:
+
+----------------------------------------------------------------------- --------------------------------- ------ ------- - ------------ ------ - ------------- - ------ -
+ Percentage of
+ Revenues Less
+ Cost of
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2017 2016 Change 2017 2016
+ (in millions, except percentages)
+Transaction fees less liquidity payments and routing and clearing costs $ 677.6 $ 462.4 46.5 % 68.1 % 81.6 %
+Access fees 106.8 52.4 103.8 % 10.7 % 9.3 %
+Exchange services and other fees 74.8 46.3 61.6 % 7.5 % 8.2 %
+Market data fees 164.5 33.2 395.5 % 16.5 % 5.9 %
+Regulatory fees, less Section 31 fees 31.5 36.5 (13.7) % 3.2 % 6.4 %
+Royalty fees (86.2) (78.0) 10.5 % (8.7) % (13.8) %
+Other 26.6 13.6 95.6 % 2.7 % 2.4 %
+Revenues less cost of revenues $ 995.6 $ 566.4 75.8 % 100.0 % 100.0 %
+
+   Transaction Fees Less Liquidity Payments and Routing and Clearing Costs
+
+			Transaction fees less liquidity payments and routing and clearing costs increased for the year ended December 31, 2017 compared to the same period in 2016 primarily driven by the acquisition of Bats that contributed $153.0 million. The remaining increase was primarily due to higher trading volumes in index options and futures for the year ended December 31, 2017.
+
+   Access Fees
+
+			Access fees increased for the year ended December 31, 2017 compared to the same period in 2016 primarily driven by the Bats acquisition that contributed $60.1 million. This was partially offset by decreases driven by pricing decreases for market maker permits and floor broker permits effective in the first quarter of 2017.
+
+   Exchange Services and Other Fees
+
+			Exchange services and other increased for the year ended December 31, 2017 compared to the prior year primarily driven by the Bats acquisition that contributed $25.0 million.
+
+   Market Data Fees
+
+			Market data fees increased for the year ended December 31, 2017 compared to the prior year primarily due to the Bats acquisition that contributed $128.6 million.
+
+			Regulatory Fees, less Section 31 fees
+
+   Regulatory fees decreased for the year ended 2017 compared to the same period in the prior year primarily due to a decrease in options regulatory fees reflecting lower regulatory costs to oversee the options markets.
+
+   Royalty Fees
+
+   Royalty fees for the year ended December 31, 2017 increased from the prior year period primarily from higher trading volume in licensed products.
+
+   74
+
+   Table of Contents
+
+   Other Revenue
+
+			Other revenue increased for the year ended December 31, 2017 compared to the same period in the prior year primarily due to the Bats acquisition that contributed $9.0 million.
+
+   Operating Expenses
+
+			For the year ended December 31, 2017 compared to the year ended December 31, 2016, acquisition-related costs for the Bats acquisition drove the increase in operating expenses. Incremental operating expenses of Bats from the acquisition date to December 31, 2017 also contributed to the increase, primarily in depreciation and amortization and compensation and benefits. The following summarizes changes in operating expenses for the year ended December 31, 2017, compared to the prior year:
+
+-------------------------------------- --------------------------------- ----- --------- - ---------- ------ ----- ----- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2017 2016 (Decrease) Change
+ (in millions, except percentages)
+Operating Expenses:
+Compensation and benefits $ 201.4 $ 113.2 $ 88.2 77.9 %
+Depreciation and amortization 192.2 44.4 147.8 332.9 %
+Technology support services 42.1 22.5 19.6 87.1 %
+Professional fees and outside services 66.0 53.1 12.9 24.3 %
+Travel and promotional expenses 17.2 11.0 6.2 56.4 %
+Facilities costs 10.3 5.7 4.6 80.7 %
+Acquisition related costs 84.4 13.6 70.8 520.6 %
+Change in contingent consideration 1.0 — 1.0 *
+Other expenses 9.1 4.7 4.4 93.6 %
+Total operating expenses $ 623.7 $ 268.2 $ 355.5 132.6 %
+
+			*     Not meaningful
+
+   Compensation and Benefits
+
+			For the year ended December 31, 2017, compensation and benefits increased compared to the same period in 2016 primarily driven by the incremental costs for additional employees from the Bats acquisition of $77.4 million. The remainder of the increase during the year was due to the acceleration of stock-based compensation due to a change in the vesting terms in the first quarter of 2017.
+
+   Depreciation and Amortization
+
+			Depreciation and amortization increased for the year ended December 31, 2017 compared to the same period in 2016 primarily driven by amortization of purchased intangible assets acquired from the Bats acquisition of $152.7 million.
+
+   Technology Support Services
+
+			Technology support services costs increased for the year ended December 31, 2017 compared to the same period in the prior year primarily driven by incremental expense from the acquisition of Bats that contributed $20.1 million.
+
+   Professional Fees and Outside Services
+
+			Expenses related to professional fees and outside services increased for the year ended December 31, 2017 compared to the same period in the prior year primarily driven by incremental expense from the acquisition of Bats that contributed $14.3 million.
+
+   75
+
+   Table of Contents
+
+   Acquisition-Related Costs
+
+			Acquisition-related costs increased for the year ended December 31, 2017 compared to the same period in the prior year primarily driven by the timing of our acquisition of Bats. Acquisition-related costs include fees for investment banking advisors, lawyers, accountants, tax advisors, public relations firms, severance and retention costs, impairment of capitalized software and other external costs directly related to the mergers and acquisitions.
+
+   Operating Income
+
+			As a result of the items above, operating income in 2017 was $371.9 million compared to $298.2 million in 2016, an increase of $73.7 million.
+
+   Interest Expense, Net
+
+			Net interest expense increased in the year ended December 31, 2017 primarily due to $39.3 million in interest expense related to the financing of the Bats acquisition. To finance the cash required for the acquisition, we entered into a $1.0 billion term loan agreement and issued $650 million in aggregate principal amount of 3.650% senior notes. In June 2017, we issued $300 million in aggregate principal amount of 1.950% senior notes and used the net proceeds to pay down a portion of the term loan. See Note 13, Debt, to the consolidated financial statements for a discussion of debt agreements.
+
+   Other (Expense) Income
+
+			Other (expense) income decreased in 2017 compared to 2016 driven by the provision for uncollectable convertible notes receivable of $3.8 million related to our investment in Tradelegs, LLC.
+
+   Income Before Income Tax Provision
+
+			As a result of the items above, income before income taxes in 2017 was $334.4 million compared to $306.6 million in 2016, an increase of $27.8 million, or 9.1%.
+
+   Income Tax Provision (Benefit)
+
+			For the year ended December 31, 2017, the income tax provision (benefit) was $(66.2) million compared with $120.9 million for the same period in 2016. The effective tax rate was (19.8)% and 39.4% for the years ended December 31, 2017 and 2016, respectively. The lower effective tax rate in 2017 was primarily due to the tax benefit associated with re-measuring net deferred tax liabilities as a result of the Jobs Act.
+
+   Net Income
+
+			As a result of the items above, net income for the year ended December 31, 2017 was $401.7 million, or 40.3% of revenues less cost of revenues, compared to $186.8 million, or 32.6% of revenues less cost of revenues, for the year ended December 31, 2016, an increase of $214.9 million.
+
+   Segment Operating Results
+
+			We previously operated as a single reportable business segment as of December 31, 2016. As a result of the Merger, in 2017, we began reporting five segments: Options, U.S. Equities, Futures, European Equities, and Global FX. Segment performance is primarily based on operating income (loss). Prior to the Merger, the Company did not conduct business within the current U.S. Equities, European Equities and Global FX segments, and therefore those segments are excluded from the analysis below. We have aggregated all of our corporate costs and eliminations, as well as other business ventures, within Corporate Items and Eliminations; however, operating expenses that relate to activities of a specific segment have been allocated to that segment.
+
+   76
+
+   Table of Contents
+
+   The following summarizes our revenues by segment:
+
+----------------- --------------------------------- ------- ------- - ------ ------------ ----- ---- ------------- - ----- -
+ Percentage of
+ Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2017 2016 Change 2017 2016
+ (in millions, except percentages)
+Options $ 883.5 $ 589.5 49.9 % 39.6 % 83.8 %
+U.S. Equities 1,072.5 — * 48.1 % — %
+Futures 144.6 113.6 27.3 % 6.5 % 16.2 %
+European Equities 89.6 — * 4.0 % — %
+Global FX 38.2 — * 1.7 % — %
+Corporate 0.7 — * 0.0 % — %
+Total revenues $ 2,229.1 $ 703.1 217.0 % 100.0 % 100.0 %
+
+   * Not Meaningful
+
+   The following summarizes our revenues less cost of revenues by segment:
+
+------------------------------ --------------------------------- ----- ------- - ------ ------------ ---- ---- --------------------- - ----- -
+ Percentage of
+ Total Revenues
+ less Cost of Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2017 2016 Change 2017 2016
+ (in millions, except percentages)
+Options $ 516.3 $ 457.0 13.0 % 51.9 % 80.7 %
+U.S. Equities 239.1 — * 24.0 % — %
+Futures 139.5 109.4 27.5 % 14.0 % 19.3 %
+European Equities 61.8 — * 6.2 % — %
+Global FX 38.2 — * 3.8 % — %
+Corporate 0.7 — * — % — %
+Revenues less cost of revenues $ 995.6 $ 566.4 75.8 % 100.0 % 100.0 %
+
+   * Not Meaningful
+
+   Options
+
+			The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Options segment:
+
+------------------------------ --------------------------------- ----- - ------- ----- - ------------ ---- ---- ---------- ---- ---- -
+ Percentage
+ of Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2017 2016 Change 2017 2016
+ (in millions, except percentages)
+Revenues less cost of revenues $ 516.3 $ 457.0 13.0 % 58.4 % 77.5 %
+Operating expenses 264.1 238.6 10.7 % 29.9 % 40.5 %
+Operating income $ 252.2 $ 218.4 15.5 % 28.5 % 37.0 %
+EBITDA(1) $ 306.6 $ 267.3 14.7 % 34.7 % 45.3 %
+EBITDA margin(2) 59.4 % 58.5 % * * *
+
+			*  Not meaningful
+
+   77
+
+   Table of Contents
+
+ (1) See footnote (1) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+			For the year ended December 31, 2017, the Options segment's operating income increased $33.8 million compared to the year ended December 31, 2016 primarily due to the acquisition of Bats, which contributed $27.2 million. Also contributing to the increase was the higher volume of index option contracts traded in 2017.
+
+   U.S. Equities
+
+			The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our U.S. Equities segment:
+
+------------------------------ --------------------------------- ----- - ------- -- ------------ - ---- ---------- ---- -
+ Percentage
+ of Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2017 2016 Change 2017 2016
+ (in millions, except percentages)
+Revenues less cost of revenues $ 239.1 $ -- * 22.3 % *
+Operating expenses 135.9 -- * 12.7 % *
+Operating income $ 103.2 $ -- * 9.6 % *
+EBITDA(1) $ 183.9 $ -- * 17.1 % *
+EBITDA margin(2) 76.9 % * * * *
+
+			*      Not meaningful
+
+ (1) See footnote (1) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+			For the year ended December 31, 2017, U.S. Equities contributed revenues less costs of revenues of $239.1 million, and operating income of $103.2 million, resulting from our acquisition of Bats on February 28, 2017.
+
+   Futures
+
+			The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Futures segment:
+
+------------------------------ --------------------------------- ----- - ------- - ----- ------------ ----- ---- ---------- ---- ---- -
+ Percentage
+ of Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2017 2016 Change 2017 2016
+ (in millions, except percentages)
+Revenues less cost of revenues $ 139.5 $ 109.4 27.5 % 96.5 % 96.3 %
+Operating expenses 12.7 13.0 (2.3) % 8.8 % 11.4 %
+Operating income $ 126.8 $ 96.4 31.5 % 87.7 % 84.9 %
+EBITDA(1) $ 127.7 $ 99.2 28.7 % 88.3 % 87.3 %
+EBITDA margin(2) 91.5 % 90.7 % * * *
+
+			*      Not meaningful
+
+ (1) See footnote (1) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+   78
+
+   Table of Contents
+
+			For the year ended December 31, 2017 compared to the same period in 2016, the net revenue and operating income increased $30.1 million and $30.4 million, respectively, primarily driven by a 50% increase in ADV, from 0.2 million contracts per day in 2016 to 0.3 million contracts per day in 2017 and a 5.3% increase in revenue per contract.
+
+   European Equities
+
+			The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our European Equities segment:
+
+------------------------------ --------------------------------- ---- - ------- - ------------ - ---- ---------- ---- -
+ Percentage
+ of Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2017 2016 Change 2017 2016
+ (in millions, except percentages)
+Revenues less cost of revenues $ 61.8 $ — * 69.0 % *
+Operating expenses 52.9 — * 59.0 % *
+Operating income $ 8.9 $ — * 9.9 % *
+EBITDA(1) $ 34.9 $ — * 39.0 % *
+EBITDA margin(2) 56.5 % * * * *
+
+			*      Not meaningful
+
+ (1) See footnote (1) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+			For the year ended December 31, 2017 European Equities contributed revenues less costs of revenues of $61.8 million, and operating income of $8.9 million, resulting from our acquisition of Bats on February 28, 2017.
+
+   Global FX
+
+			The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Global FX segment:
+
+------------------------------ --------------------------------- ------ - ------- - ------------ - ---- ---------- ---- -
+ Percentage
+ of Total
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2017 2016 Change 2017 2016
+ (in millions, except percentages)
+Revenues less cost of revenues $ 38.2 $ — * 100.0 % *
+Operating expenses 51.0 — * 133.5 % *
+Operating income $ (12.8) $ — * (33.5) % *
+EBITDA(1) $ 17.5 $ — * 45.8 % *
+EBITDA margin(2) 45.8 % * * * *
+
+			*      Not meaningful
+
+ (1) See footnote (1) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+			For the year ended December 31, 2017 Global FX contributed revenues less costs of revenues of $38.2 million, and operating loss of $12.8 million, resulting from our acquisition of Bats on February 28, 2017.
+
+   79
+
+   Table of Contents
+
+   Seasonality
+
+			In the securities and FX industries, quarterly revenue fluctuations may occur primarily due to seasonal variations in trading volumes, as well as competition and technological and regulatory changes. Our business could experience seasonal fluctuations with the U.S. Equities, European Equities and Global FX segments, reflecting reduced trading activity generally during the third quarter of each year and during the last month of the year. As a result, our operating results for the third or fourth quarter of any year may not be indicative of the results we expect for the full year.
+
+   Liquidity and Capital Resources
+
+			We expect our cash on hand at December 31, 2018 and other available resources, including cash generated from operations, to be sufficient to continue to meet our cash requirements for the foreseeable future. In the near term, we expect that our cash from operations and availability under our revolving credit facility will meet our cash needs to fund our operations, capital expenditures, interest payments on debt, debt repayments, any dividends, a potential strategic acquisition, and opportunities for common stock repurchases under the previously announced program. We may also utilize excess cash on hand to pay down amounts outstanding under the Term Loan Agreement. See Note 13 “Debt” of the consolidated financial statements for further information.  Our long-term cash needs will depend on many factors including an introduction of new products, enhancements of current products, the geographic mix of our business and any potential acquisitions. We believe our cash from operations and the availability under our revolving credit facility will meet any long-term needs unless a significant acquisition is identified, in which case we expect that we would be able to borrow the necessary funds to complete such an acquisition.
+
+			Cash and cash equivalents include cash in banks and all non-restricted, highly liquid investments with original maturities of three months or less at the time of purchase. Cash and cash equivalents as of December 31, 2018 increased $114.2 million from December 31, 2017 primarily driven by net income, partially offset by share repurchases of $140.9 million and distributions of $130.3 million. See “Cash Flow” below for further discussion.
+
+			Our cash and cash equivalents held outside of the United States in various foreign subsidiaries totaled $72.9 million and $44.9 million as of December 31, 2018 and December 31, 2017, respectively. The remaining balance was held in the United States and totaled $202.2 million and $98.6 million as of December 31, 2018 and December 31, 2017, respectively. The majority of cash held outside the United States is available for repatriation, but under current law, could subject us to additional United States income taxes, less applicable foreign tax credits.
+
+   Our financial investments include investments with original or acquired maturities longer than three months but that mature in less than one year from the balance sheet date and are recorded at fair value. As of December 31, 2018 financial investments consisted of U.S. Treasury securities.
+
+   Cash Flow
+
+			The following table summarizes our cash flow data for the years ended December 31, 2018, 2017 and 2016:
+
+----------------------------------------------------------------------------- ------------------ ------- ---- - --------- - -------
+ For the Year Ended
+ December 31,
+ 2018 2017 2016
+ (in millions)
+Net cash provided by operating activities $ 534.7 $ 374.4 $ 229.6
+Net cash used in investing activities (25.6) (1,436.5) (84.4)
+Net cash (used in) provided by financing activities (371.6) 1,099.7 (150.2)
+Effect of foreign currency exchange rate changes on cash and cash equivalents (5.9) 8.6 —
+Increase (decrease) in cash and cash equivalents $ 131.6 $ 46.2 $ (5.0)
+
+   Net Cash Flows Provided by Operating Activities
+
+			During the year ended December 31, 2018, net cash provided by operating activities was $109.5 million higher than net income. The primary adjustments were related to accounts receivable of $70.3 million, income tax receivable of
+
+   80
+
+   Table of Contents
+
+$53.2 million, provision for deferred income taxes of $47.7 million, Section 31 fees payable of $24.5 million, partially offset by the $204.0 million in depreciation and amortization, accounts payable and accrued liabilities of $46.8 million, the recognition of stock-based compensation totaling $35.1 million, and income tax liability of $36.1 million.
+
+			Net cash provided by operating activities was $374.4 million and $229.6 million for the years ended December 31, 2017 and 2016, respectively. The increase in net cash flows provided by operating activities was primarily due to higher net income.
+
+			Net cash provided by operating activities was $26.2 million less than net income for the fiscal year ended December 31, 2017. The primary adjustments were related to provision for deferred income taxes of $238.4 million, income taxes payable of $50.5 million, Section 31 fees payable of $42.4 million, partially offset by the $192.2 million in depreciation and amortization, the recognition of stock-based compensation totaling $52.6 million, income tax receivable of $42.4 million, impairment of data processing software of $14.9 million, and accounts payable and accrued liabilities of $10.1 million.
+
+   Net Cash Flows Used in Investing Activities
+
+			Net cash flows used in investing activities for the year ended December 31, 2018 were $25.6 million. The variance is primarily attributed to purchases of property and equipment of $36.3 million.
+
+			On March 13, 2015, Bats completed the acquisition of Hotspot FX Holdings LLC (“Hotspot”). In the second quarter of 2018, we paid the Hotspot seller $56.6 million relating to a tax sharing arrangement in connection with such acquisition. The contingent consideration liability represented a tax sharing arrangement with the seller for payment of 70% of the tax benefit from the amortization resulting from the Hotspot transaction for the first three years after the Hotspot acquisition date and 50% of the tax benefit for the remaining twelve years.
+
+			Net cash flows used in investing activities totaled $1,436.5 million and $84.4 million for the years ended December 31, 2017 and 2016, respectively. Expenditures for capital and other assets totaled $37.5 million and $44.4 million for the years ended December 31, 2017 and 2016, respectively, primarily representing purchases of systems hardware and development of software to develop and enhance our trading platform and operations. In 2017, investing activities primarily represented our acquisition of Bats.
+
+			In 2016, investing activities primarily represented our majority investment in Vest, which totaled $14.3 million, and other investments totaling $23.3 million, which primarily includes our investments in CurveGlobal and Eris.
+
+			We expect to spend $50 million to $55 million in capital expenditures in 2019 primarily for the potential office relocation, Brexit, and general maintenance and ongoing enhancement of our data and telecommunications infrastructure.
+
+   Net Cash Flows Provided by (Used in) Financing Activities
+
+			For the year ended December 31, 2018, $300.0 million was received in proceeds from long-term debt, offset by $325.0 million in payments of long-term debt. Purchase of common stock totaled $140.9 million. Dividends paid totaled $130.3 million.
+
+			Net cash flows provided by financing activities totaled $1.1 billion for the year ended December 31, 2017. Net cash flows used in financing activities totaled $150.2 million for the year ended December 31, 2016. The $1.3 billion increase in net cash flows provided by financing activities resulted primarily from proceeds from long-term debt.
+
+   81
+
+   Table of Contents
+
+   Financial Assets
+
+			The following summarizes our financial assets for the years ended December 31, 2018, 2017 and 2016:
+
+--------------------------------------- ---- ------------------ ---- - ------ ---- - ----
+ For the Year Ended
+ December 31,
+ 2018 2017 2016
+ (in millions)
+Cash and cash equivalents $ 275.1 $ 143.5 $ 97.3
+Financial investments 35.7 47.3 —
+Less cash collected for Section 31 Fees (53.1) (70.5) —
+Adjusted Cash(1) $ 257.7 $ 120.3 $ 97.3
+
+ (1) Adjusted Cash is a non-GAAP measure and represents cash and cash equivalents plus financial investments minus cash collected for Section 31 fees. We have presented Adjusted Cash because we consider it an important supplemental measure of our liquidity and believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies.
+
+   Debt
+
+			The following summarizes our debt obligations for the years ended December 31, 2018, 2017 and 2016:
+
+------------------------------------------------- ------------------ ------- ---- - ------- - -
+ For the Year Ended
+ December 31,
+ 2018 2017 2016
+ (in millions)
+Debt:
+Term Loan Agreement 275.0 300.0 —
+3.650% Senior Notes 650.0 650.0 —
+1.950% Senior Notes 300.0 300.0 —
+Revolving Credit Agreement — — —
+Less unamortized discount and debt issuance costs (9.6) (12.1) —
+Total debt $ 1,215.4 $ 1,237.9 $ —
+
+   At December 31, 2018, we were in compliance with the covenants of our debt agreements.
+
+			In addition to the debt outstanding, as of December 31, 2018 we had an additional $150.0 million available through our revolving credit facility, with the ability to borrow another $100.0 million by increasing the commitments under the facility. Together with Adjusted Cash, we had $407.7 million available to fund our operations, capital expenditures, potential acquisitions, debt repayments and any dividends as of December 31, 2018.
+
+   Dividends
+
+			The Company’s expectation is to continue to pay dividends. The decision to pay a dividend, however, remains within the discretion of the Company's board of directors and may be affected by various factors, including our earnings, financial condition, capital requirements, level of indebtedness and other considerations our board of directors deems relevant. Future debt obligations and statutory provisions, among other things, may limit, or in some cases prohibit, our ability to pay dividends.
+
+   Share Repurchase Program
+
+			In 2011, the board of directors approved an initial authorization for the Company to repurchase shares of its outstanding common stock of $100 million and approved additional authorizations of $100 million in each of 2012, 2013, 2014, 2015 and 2016, $150 million in February 2018, and $100 million in August 2018, for a total authorization of $850 million. The program permits the Company to purchase shares through a variety of methods, including in the open
+
+   82
+
+   Table of Contents
+
+market or through privately negotiated transactions, in accordance with applicable securities laws. It does not obligate the Company to make any repurchases at any specific time or situation.
+
+			Under the program, for the year ended December 31, 2018, the Company repurchased 1,347,954 shares of common stock at an average cost per share of $104.52, totaling $140.9 million. Since inception of the program through December 31, 2018, the Company has repurchased 12,295,355 shares of common stock at an average cost per share of $52.37, totaling $643.9 million.
+
+			As of December 31, 2018, the Company had $206.1 million of availability remaining under its existing share repurchase authorizations.
+
+   OCC Capital Plan
+
+			In December 2014, OCC announced a newly-formed capital plan. The OCC capital plan was designed to strengthen OCC's capital base and facilitate its compliance with proposed SEC regulations for Systemically Important Financial Market Utilities ("SIFMUs") as well as international standards applicable to financial market infrastructures. On February 26, 2015, the SEC issued a notice of no objection to OCC's advance notice filing regarding the capital plan, and OCC and OCC's existing exchange stockholders, which include Cboe Options, subsequently executed agreements effecting the capital plan. Under the plan, each of OCC's existing exchange stockholders agreed to contribute its pro-rata share, based on ownership percentage, of $150 million in equity capital, which would increase OCC's shareholders' equity, and to provide its pro rata share in replenishment capital, up to a maximum of $40 million per exchange stockholder, if certain capital thresholds are breached. OCC also adopted policies under the plan with respect to fees, customer refunds, and stockholder dividends, which envision an annual dividend payment to the exchange stockholders equal to the portion of OCC's after-tax income that exceeds OCC's capital requirements after payment of refunds to OCC's clearing members (with such customer refunds generally to constitute 50% of the portion of OCC's pre-tax income that exceeds OCC's capital requirements). On March 3, 2015, in accordance with the plan, Cboe Options contributed $30 million to OCC. That contribution has been recorded under investments in the consolidated balance sheets as of December 31, 2018 and 2017.
+
+			On March 6, 2015, OCC informed Cboe Options that the SEC, acting through delegated authority, had approved OCC's proposed rule filing for the capital plan. Following petitions to review the approval based on delegated authority, the SEC conducted its own review and then approved the proposed rule change implementing OCC's capital plan. Certain petitioners subsequently appealed the SEC approval order for the OCC capital plan to the U.S. Court of Appeals for the D.C. Circuit, (the “Court”) and moved to stay the SEC approval order. On February 23, 2016, the Court denied the petitioners' motion to stay. On August 8, 2017, the Court held that the SEC’s approval order lacked reasoned decision-making sufficient to support the SEC’s conclusion that the OCC capital plan complied with applicable statutory requirements. The Court declined to vacate the SEC’s approval order or to require the unwinding of actions taken under the OCC capital plan, but instead remanded the matter to the SEC for further proceedings concerning whether that capital plan complies with those statutory requirements. Petitioners requested a stay of dividend payments to the exchange stockholders until the SEC made a final decision about the OCC capital plan, but the SEC denied that request on September 14, 2017. The SEC allowed for and received information from interested parties for the SEC’s consideration in connection its review of the OCC capital plan on remand from the Court.
+
+			 On February 13, 2019, the SEC issued an order disapproving the proposed rule change implementing OCC’s capital plan following the SEC’s review of the OCC capital plan on remand from the Court. The SEC concluded, upon further review, that the information before the SEC was insufficient to support a finding that the OCC capital plan was consistent with the Exchange Act and Exchange Act rules and regulations. Among other items, the SEC noted in its order that while OCC represented to the Court that it is possible to unwind the OCC capital plan, the petitioners argued and the Court recognized that unwinding and replacing the OCC capital plan may pose considerable logistical challenges for OCC. The SEC also stated in its order, among other items, that the SEC would consider any requests for exemptive relief that OCC might seek while OCC establishes a new capital plan and seeks to come into compliance with the SEC requirement that OCC maintain a capital plan to cover potential general business losses. As a result of the recency, there is uncertainty regarding next steps and potential consequences.
+
+   83
+
+   Table of Contents
+
+   Lease and Obligations
+
+			The Company currently leases additional office space, data centers and remote network operations center, with lease terms remaining from 1 months to 102 months as of December 31, 2018. In December 2014, we entered into an agreement with FINRA to provide certain regulatory services to the Cboe and C2 options markets. The agreement included the assignment of the office space Cboe leased for regulatory operations.
+
+			Total rent expense related to current and former lease obligations for the years ended December 31, 2018, 2017 and 2016 totaled $10.1 million, $7.6 million and $4.4 million, respectively. In addition to our lease obligations, we have contractual obligations related to certain operating leases, data and telecommunications agreements, and our long-term debt outstanding. Future minimum payments under these leases and agreements were as follows as of December 31, 2018:
+
+-------------------------- ------------- ---------------------- ------ --------- --------- ----- --------- ---- ------- ---------
+ Payments Due by Period
+ Less than More than
+ Total 1 year 1-3 years 4-5 years 5 years
+Contractual Obligations (in millions)
+Operating leases $ 34.0 $ 6.1 $ 9.6 $ 9.8 $ 8.5
+Principal payments of debt 1,225.0 300.0 275.0 — 650.0
+Interest payments on debt 233.2 38.9 95.9 48.8 49.6
+Total $ 1,492.2 $ 345.0 $ 380.5 $ 58.6 $ 708.1
+
+   Off Balance Sheet Arrangements
+
+			As of December 31, 2018 and 2017, we did not have any off-balance sheet arrangements.
+
+   Guarantees
+
+			We use Wedbush Securities and Morgan Stanley to clear our routed cash equities transactions in our U.S. Equities segment. Wedbush Securities and Morgan Stanley guarantee the trade until one day after the trade date, after which time the NSCC provides a guarantee. In the case of failure to perform on the part of one of our clearing firms, Wedbush Securities or Morgan Stanley, we provide the guarantee to the counterparty to the trade. The OCC acts as a central counterparty on all transactions in listed equity options in our Options segment, and as such, guarantees clearance and settlement of all of our options transactions. We believe that any potential requirement for us to make payments under these guarantees is remote and accordingly, have not recorded any liability in the consolidated financial statements for these guarantees. Similarly, with respect to U.S. listed equity options and futures, we deliver matched trades of our customers to the OCC, which acts as a central counterparty on all transactions occurring on Cboe Options, C2, BZX, EDGX and CFE and, as such, guarantees clearance and settlement of all of our matched options and futures trades.
+
+			Our equity method investment, EuroCCP, has entered into a Liquidity Facility with ABN Amro Clearing Bank N.V. (“AACB”). Based on our shareholders’ agreement with EuroCCP, Cboe Europe Limited has provided a guarantee to AACB of up to €6 million. We believe that any potential requirement for us to make payments under this guarantee is remote and accordingly, have not recorded any liability in the consolidated financial statements for this guarantee.
+
+   Critical Accounting Policies
+
+			The preparation of consolidated financial statements in conformity with U.S. GAAP requires our management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of the amounts of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ materially from those estimates. On an ongoing basis, the Company evaluates its estimates, including those related to areas that require a significant level of judgment or are otherwise subject to an inherent degree of uncertainty. The Company bases its estimates on historical experience, observance of trends in particular areas, information available from outside sources and various other assumptions that are believed to be reasonable under the circumstances. Information from these sources form the basis for making judgments about the carrying values of assets and liabilities that may not be readily apparent from other sources.
+
+   84
+
+   Table of Contents
+
+			We have identified the policies below as critical to our business operations and the understanding of our results of operations. The impact of, and any associated risks related to, these policies on our business operations is discussed throughout "Management's Discussion and Analysis of Financial Condition and Results of Operations." For a detailed discussion on the application of these and other accounting policies, see Note 2 to our consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K.
+
+   Revenue Recognition
+
+			For further discussion related to revenue recognition of fees, such as transaction fees and liquidity payments, access fees, exchange services and other fees, market data fees, and regulation transaction and Section 31 fees, see Note 4.
+
+   Goodwill and Other Intangible Assets
+
+			Our acquisitions of Bats, Vest, Silexx, and Livevol resulted in the recording of goodwill and other intangible assets. In accordance with ASC 350—Intangibles—Goodwill and Other, we test the carrying values of goodwill and indefinite-lived intangible assets for impairment at least annually, or more frequently when events or changes in circumstances signal indicators of impairment are present. We perform our annual impairment test of goodwill and other indefinite-lived intangible assets during the fourth quarter of our fiscal year, using the October 1 carrying values. Goodwill is tested for impairment at the reporting unit level in accordance with ASC 350-20. If the carrying value of the reporting unit exceeds its fair value, an impairment loss will be recognized in an amount equal to the excess. If the fair value of indefinite-lived intangible assets is less than their carrying value, an impairment loss will be recognized in an amount equal to the difference. We performed our annual goodwill impairment test as of October 1, 2018 and determined that no impairment existed.
+
+			The estimated fair values of our reporting units are based on the market approach and the income approach (using discounted estimated future cash flows). The estimated fair values of indefinite-lived intangibles used the income approach. The discounted cash flow analysis requires significant judgment, including judgments about the discount rate, anticipated revenue growth rate, and operating expenses, that are inherent in these fair value estimates over the estimated remaining operating period. As such, actual results may differ from these estimates and lead to a revaluation of our goodwill and indefinite-lived intangible assets. If updated estimates indicate that the fair value of goodwill or any indefinite-lived intangibles is less than the carrying value of the asset, an impairment charge is expected to be recorded in the consolidated statements of income in the period of the change in estimate.
+
+   Purchase Accounting
+
+			Tangible and intangible assets acquired and liabilities assumed in an acquired business are recorded at their estimated fair values on the date of acquisition. The difference between the purchase price amount and the net fair value of assets acquired and liabilities assumed is recognized as goodwill on the balance sheet if the purchase price exceeds the estimated net fair value or as a bargain purchase gain on the income statement if the purchase price is less than the estimated net fair value. Determining the fair value of assets acquired and liabilities assumed requires management’s judgment, often utilizes independent valuation experts and involves the use of significant estimates and assumptions with respect to the timing and amounts of future cash inflows and outflows, discount rates, market prices and asset lives, among other items. The judgments made in the determination of the estimated fair value assigned to the assets acquired and liabilities assumed, as well as the estimated useful life of each asset and the duration of each liability, could significantly impact the financial statements in periods after acquisition, such as through depreciation and amortization expense. When available, the estimated fair values of these assets and liabilities are determined based on observable inputs, such as quoted market prices, information from comparable transactions, offers made by other prospective acquirers (in such cases where we may have certain rights to acquire additional interests in existing investments) and the replacement cost of assets in the same condition or stage of usefulness (Level 1 and 2). Unobservable inputs, such as expected future cash flows or internally developed estimates of value (Level 3), are used if observable inputs are not available. As noted in ASC 805-Business Combinations, the allocation of the purchase price may be modified up to twelve months after the acquisition date as more information is obtained about the fair value of assets acquired and liabilities assumed. The results of operations of the acquired businesses are included in our operating results from the date of acquisition. See Note 5 for additional information.
+
+   85
+
+   Table of Contents
+
+   Stock-Based Compensation
+
+   We have historically granted stock-based compensation to our employees in the form of restricted stock units. With the acquisition of Bats, we also assumed Bats’ grants of restricted stock and stock options to certain employees. We record the related compensation expense based on the grant date fair value calculated in accordance with the authoritative guidance issued by FASB. We recognize these compensation costs on a straight-line basis over the requisite service period of the award.
+
+			We estimate the grant date fair value of stock options using the Black-Scholes valuation model. Stock-based compensation expense related to awards of restricted stock is based on the fair value at the grant date. We recognized compensation expense of approximately $35.1 million, $50.1 million, and $14.5 million for the years ended December 31, 2018, 2017 and 2016, respectively. This expense is included in the compensation and benefits expense and acquisition related costs in the consolidated statements of income. Assumptions used to estimate compensation expense are determined as follows:
+
+ · expected term is determined using the contractual term and vesting period of the award;
+
+ · expected volatility of award grants is measured using the weighted average of historical daily changes in the market price of the common stock of comparable public companies over the period equal to the expected term of the award;
+
+ · expected dividend rate is determined based on expected dividends to be declared; and
+
+ · risk-free interest rate is equivalent to the implied yield on zero-coupon U.S. Treasury bonds with a maturity equal to the expected term of the awards.
+
+   Income Taxes
+
+			Deferred taxes are provided on a liability method whereby deferred tax assets are recognized for deductible temporary differences and operating loss and tax credit carryforwards and deferred tax liabilities are recognized for taxable temporary differences. Temporary differences are the differences between the reported amounts of assets and liabilities and their tax bases. Deferred tax assets are reduced by a valuation allowance when, in our opinion, it is more likely than not that all or some portion of the deferred tax assets will not be realized. Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the date of enactment.
+
+   Foreign Currency
+
+			The functional currency of Cboe Europe and certain Cboe FX operations is the British pound. Certain Cboe FX operations also use the Singapore dollar and Hong Kong dollar as functional currency. Trades on our European Equities exchange are denominated in Euros, British pounds and other European currencies. Billing for trading revenues are primarily billed in British pounds, but customers may elect to be billed in the currency traded, including Euros, Swiss Francs, Norwegian Kroners, Swedish Kronas and Danish Kroners. The assets and liabilities of Cboe Europe and certain Cboe FX operations are translated from British pounds, Singapore dollars, and Hong Kong dollars into U.S. dollars using the relevant exchange rate in effect as of each balance sheet date. Statements of income and cash flow amounts are translated using the average exchange rate during the period. The cumulative effects of translating the balance sheet accounts from the functional currency into the U.S. dollar at the applicable exchange rates are included in accumulated other comprehensive income (loss). Foreign currency gains and losses are recorded as other income (expense) in our consolidated statements of income and have historically not been material.
+
+   Recent Accounting Pronouncements
+
+   See Note 3 “Recent Accounting Pronouncements” to the consolidated financial statements for further discussion of recently adopted and recently issued accounting pronouncements that are applicable to the Company.
+
+   86
+
+   Table of Contents
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 13]:
+Note 13. Income Taxes Income from continuing operations before income taxes included income from domestic operations of $12.0 billion, $10.7 billion, and $15.8 billion for the years ended December 31, 2016, 2017, and 2018, respectively, and income from foreign operations of $12.1 billion, $16.5 billion, and $19.1 billion for the years ended December 31, 2016, 2017, and 2018, respectively. The provision for income taxes consists of the following (in millions): -------------------------- ----------------------- ----- ---- ------ ---- ------ ----- - - ----- Year Ended December 31, 2016 2017 2018 Current: Federal and state $ 3,826 $ 12,608 $ 2,153 Foreign 966 1,746 1,251 Total 4,792 14,354 3,404 Deferred: Federal and state (70 ) 220 907 Foreign (50 ) (43 ) (134 ) Total (120 ) 177 773 Provision for income taxes $ 4,672 $ 14,531 $ 4,177 The Tax Act enacted on December 22, 2017 introduced significant changes to U.S. income tax law. Effective 2018, the Tax Act reduced the U.S. statutory tax rate from 35% to 21% and created new taxes on certain foreign-sourced earnings and certain related-party payments. 77 ----------------- -------------  Alphabet Inc. Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we made reasonable estimates of the effects and recorded provisional amounts in our consolidated financial statements as of December 31, 2017. As we collected and prepared necessary data, and interpreted the additional guidance issued by the U.S. Treasury Department, the IRS, and other standard-setting bodies, we made adjustments, over the course of the year, to the provisional amounts including refinements to deferred taxes. The accounting for the tax effects of the Tax Act has been completed as of December 31, 2018. One-time transition tax The Tax Act required us to pay U.S. income taxes on accumulated foreign subsidiary earnings not previously subject to U.S. income tax at a rate of 15.5% to the extent of foreign cash ...
+
+[See Note 13]:
+Note 13. Income Taxes Income from continuing operations before income taxes included income from domestic operations of $12.0 billion, $10.7 billion, and $15.8 billion for the years ended December 31, 2016, 2017, and 2018, respectively, and income from foreign operations of $12.1 billion, $16.5 billion, and $19.1 billion for the years ended December 31, 2016, 2017, and 2018, respectively. The provision for income taxes consists of the following (in millions): -------------------------- ----------------------- ----- ---- ------ ---- ------ ----- - - ----- Year Ended December 31, 2016 2017 2018 Current: Federal and state $ 3,826 $ 12,608 $ 2,153 Foreign 966 1,746 1,251 Total 4,792 14,354 3,404 Deferred: Federal and state (70 ) 220 907 Foreign (50 ) (43 ) (134 ) Total (120 ) 177 773 Provision for income taxes $ 4,672 $ 14,531 $ 4,177 The Tax Act enacted on December 22, 2017 introduced significant changes to U.S. income tax law. Effective 2018, the Tax Act reduced the U.S. statutory tax rate from 35% to 21% and created new taxes on certain foreign-sourced earnings and certain related-party payments. 77 ----------------- -------------  Alphabet Inc. Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we made reasonable estimates of the effects and recorded provisional amounts in our consolidated financial statements as of December 31, 2017. As we collected and prepared necessary data, and interpreted the additional guidance issued by the U.S. Treasury Department, the IRS, and other standard-setting bodies, we made adjustments, over the course of the year, to the provisional amounts including refinements to deferred taxes. The accounting for the tax effects of the Tax Act has been completed as of December 31, 2018. One-time transition tax The Tax Act required us to pay U.S. income taxes on accumulated foreign subsidiary earnings not previously subject to U.S. income tax at a rate of 15.5% to the extent of foreign cash ...
+
+[see Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[see Note 4]:
+(4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES, Neff and BlueLine acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision (benefit) for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with t...
+
+[See Note 5]:
+(5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision (benefit) for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distor...
+
+[See Note 3]:
+(3) This reflects the impact of extending the useful lives of equipment acquired in the RSC, NES, Neff, BakerCorp and BlueLine acquisitions, net of the impact of additional depreciation associated with the fair value mark-up of such equipment. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES, Neff and BlueLine acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision (benefit) for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EB...
+
+[") should be read in conjunction with the consolidated financial statements of the Company and the notes thereto included in Item 8 of this Annual Report on Form 10-K. The following discussion contains forward-looking statements. Actual results could differ materially from the results discussed in the forward-looking statements. See "]:
+Note 8. Securitization Activities Jefferies Group engages in securitization activities related to corporate loans, commercial mortgage loans, consumer loans and mortgage-backed and other asset-backed securities. In securitization transactions, Jefferies Group transfers assets to special purpose entities ("SPEs") and acts as the placement or structuring agent for the beneficial interests sold to investors by the SPE. A significant portion of the securitization transactions are the securitization of assets issued or guaranteed by U.S. government agencies. These SPEs generally meet the criteria of VIEs; however, the SPEs are generally not consolidated as Jefferies Group is not considered the primary beneficiary for these SPEs. F-47 Jefferies Group accounts for securitization transactions as sales, provided it has relinquished control over the transferred assets. Transferred assets are carried at fair value with unrealized gains and losses reflected in Principal transactions revenues in the Consolidated Statements of Operations prior to the identification and isolation for securitization. Subsequently, revenues recognized upon securitization are reflected as net underwriting revenues. Jefferies Group generally receives cash proceeds in connection with the transfer of assets to an SPE. Jefferies Group may, however, have continuing involvement with the transferred assets, which is limited to retaining one or more tranches of the securitization (primarily senior and subordinated debt securities in the form of mortgage- and other asset-backed securities or CLOs), which are included in Trading assets and are generally initially categorized as Level 2 within the fair value hierarchy. Jefferies Group applies fair value accounting to the securities. The following table presents activity related to Jefferies Group's securitizations that were accounted for as sales in which it had continuing involvement (in millions): ----------------------------------------- --------------------...
+
+[" options, such as options on the stocks of individual corporations (equity options) and options on other exchange-traded products (ETP options), such as exchange-traded funds (ETF options) and exchange-traded notes (ETN options) that occur on Cboe Options, C2, BZX and EDGX. It also includes the listed equity and ETP options routed transaction services that occur on Cboe Trading.
+
+   U.S. Equities. Our U.S. Equities segment includes trading of listed cash equities and ETP transaction services that occur on BZX, BYX, EDGX and EDGA. It also includes the listings business where ETPs and the Company are listed on BZX.
+
+			Futures. Our Futures segment includes trading of futures on the VIX Index and bitcoin, and other products that occur on CFE, our all-electronic futures exchange.
+
+			European Equities. Our European Equities segment includes trading of pan‑European listed equities transaction services, ETPs, exchange‑traded commodities, and international depository receipts that occur on the RIE, operated by
+
+   51
+
+   Table of Contents
+
+Cboe Europe Equities. It also includes the listed cash equities and ETPs routed transaction services that occurred through Cboe Chi-X Europe, as well as the listings business where ETPs can be listed on Cboe Europe Equities.
+
+   Global FX. Our Global FX segment includes institutional FX services on the Cboe FX platform, as well as non-deliverable forward FX transactions executed on Cboe SEF.
+
+   Factors Affecting Results of Operations
+
+			In broad terms, our business performance is impacted by a number of drivers, including macroeconomic events affecting the risk and return of financial assets, investor sentiment, the regulatory environment for capital markets, geopolitical events, central bank policies and changing technology, particularly in the financial services industry. Our future revenues and net income will continue to be influenced by a number of domestic and international economic trends, including:
+
+ · trading volumes on our proprietary products such as VIX options and futures and SPX options;
+
+ · trading volumes in listed cash equity securities and ETPs in both the U.S. and Europe, volumes in listed equity options, and volumes in institutional FX trading, all of which are driven primarily by overall macroeconomic conditions;
+
+ · the demand for the U.S. tape plan market data distributed by the Securities Information Processors (SIPs), which determines the pool size of the industry market data revenue we receive based on our market share;
+
+ · the demand for information about, or access to, our markets, which is dependent on the products we trade, our importance as a liquidity center and the quality and pricing of our data and access services;
+
+ · consolidation of our customers and competitors in the industry,
+
+ · continuing pressure in transaction fee pricing due to intense competition in the United States and Europe; and
+
+ · regulatory changes relating to market structure and increased capital requirements, and those which affect certain types of instruments, transactions, pricing structures, capital market participants or reporting or compliance requirements, including any changes resulting from Brexit.
+
+			A number of significant structural, political and monetary issues continue to confront the global economy, and instability could return at any time, resulting in an increased level of market volatility, increased trading volumes and a return of uncertainty. In contrast, many of the largest customers of our transactional businesses continue to adapt their business models as they address the implementation of regulatory changes initiated following the global financial crisis.
+
+   Components of Revenues
+
+   Transaction Fees
+
+			Transaction fees represent fees charged by the Company for the performance obligation of executing a trade on its markets. These fees can be variable based on trade volume tiered discounts, however as all tiered discounts are calculated monthly, the actual discount is recorded on a monthly basis. Transaction fees, as well as any tiered volume discounts, are calculated and billed monthly in accordance with the Company’s published fee schedules. Transaction fees are recognized across all segments. The Company also pays liquidity payments to customers based on its published fee schedules. The Company uses these payments to improve the liquidity on its markets and therefore recognizes those payments as a cost of revenue.
+
+   Access Fees
+
+   Access fees represent fees assessed for the opportunity to trade, including fees for trading-related functionality and connectivity across all segments. They are billed monthly in accordance with the Company’s published fee schedules and recognized on a monthly basis when the performance obligation is met. There is no remaining performance obligation after revenue is recognized.
+
+   52
+
+   Table of Contents
+
+   Exchange Services and Other Fees
+
+			To facilitate trading, the Company offers technology services, terminal and other equipment rights, maintenance services, trading floor space, trading floor connectivity and telecommunications services. Trading floor and equipment rights are generally on a month-to-month basis. Facilities, systems services and other fees are generally monthly fee-based, although certain services are influenced by trading volume or other defined metrics, others are based solely on demand. All fees associated with the trading floor are recognized in the Options segment.
+
+   Market Data Fees
+
+   Market data fees represent the fees from the U.S. tape plans and fees from customers for proprietary market data. Fees from the U.S. tape plans are collected monthly based on published fee schedules and distributed quarterly to the U.S. exchanges based on a known formula using trading and/or quoting activity. A contract for proprietary market data is entered into and charged on a monthly basis in accordance with the Company’s published fee schedules as the service is provided. Both types of market data are satisfied over time, and revenue is recognized on a monthly basis as the customer receives and consumes the benefit as the Company provides the data. U.S. tape plan market data is recognized in the U.S. Equities and Options segments. Proprietary market data fees are recognized across all segments.
+
+   Regulatory Fees
+
+			Regulatory fees primarily represent fees collected by the Company to cover the Section 31 fees charged to the Exchanges under the authority of the SEC (Cboe Options, C2, BZX, BYX, EDGX and EDGA) and are charged by the SEC. Consistent with industry practice, the fees charged to customers are based on the fee set by the SEC per notional value of the transaction executed on the Company’s markets and calculated and billed monthly. These fees are recognized in the U.S. Equities and Options segments and as the exchanges are responsible for the ultimate payment to the SEC, the exchanges are considered the principals in these transactions. Regulatory fees also include the options regulatory fee (ORF) charged to customers which supports the Company’s regulatory oversight function in the Options segment.
+
+   Other Revenue
+
+			Other revenue primarily includes among other items, revenue from various licensing agreements, all fees related to the trade reporting facility operated in the European Equities segment, and revenue associated with advertisements through the Company’s website.
+
+   Components of Cost of Revenues
+
+   Liquidity Payments
+
+			Liquidity payments are directly correlated to the volume of securities traded on our markets. As stated above, we record the liquidity rebates paid to market participants providing liquidity, in the case of C2, BZX, EDGX and Cboe Europe Equities, as cost of revenue. BYX and EDGA offer a pricing model pursuant to which we rebate liquidity takers for executing against an order resting on our book, which is also recorded as a cost of revenue.
+
+   Routing and clearing
+
+			Various rules require that U.S. options and cash equities trade executions occur at the National Best Bid/Offer (NBBO) displayed by any exchange.  Linkage order routing consists of the cost incurred to provide a service whereby Cboe equity and options exchanges deliver orders to other execution venues when there is a potential for obtaining a better execution price or when instructed to directly route an order to another venue by the order provider. The service affords exchange order flow providers an opportunity to obtain the best available execution price and may also result in cost benefits to those clients.  Such an offering improves our competitive position and provides an opportunity to attract orders which would otherwise bypass our exchanges. We utilize third-party brokers or our broker-dealer, Cboe Trading, to facilitate such delivery.
+
+   53
+
+   Table of Contents
+
+   Section 31 Fees
+
+			Exchanges under the authority of the SEC (Cboe Options, C2, BZX, BYX, EDGX and EDGA) are assessed fees pursuant to the Exchange Act designed to recover the costs to the U.S. government of supervision and regulation of securities markets and securities professionals. We treat these fees as a pass-through charge to customers executing eligible listed cash equities and listed equity options trades. Accordingly, we recognize the amount that we are charged under Section 31 as a cost of revenues and the corresponding amount that we charge our customers as regulatory transaction fees revenue. Since the regulatory transaction fees recorded in revenues are equal to the Section 31 fees recorded in cost of revenues, there is no impact on our operating income. CFE, Cboe Europe Equities and Cboe FX are not U.S. national securities exchanges, and accordingly are not charged Section 31 fees.
+
+   Royalty Fees
+
+			Royalty fees primarily consist of license fees paid by us for the use of underlying indexes in our proprietary products usually based on contracts traded. The Company has licenses with the owners of the S&P 500 Index, S&P 100 Index and certain other S&P indexes, FTSE Russell indexes, the DJIA, MSCI, and certain other index products. This category also includes fees related to the dissemination of market data related to S&P indexes.
+
+   Components of Operating Expenses
+
+   Compensation and Benefits
+
+			Compensation and benefits represent our largest expense category and tend to be driven by our staffing requirements, financial performance, and the general dynamics of the employment market. Stock-based compensation is a non-cash expense related to equity awards. Stock-based compensation can vary depending on the quantity and fair value of the award on the date of grant and the related service period.
+
+   Depreciation and Amortization
+
+   Depreciation and amortization expense results from the depreciation of long-lived assets purchased and the amortization of purchased and internally developed software, and the amortization of intangible assets.
+
+   Technology Support Services
+
+			Technology support services consists primarily of costs related to the maintenance of computer equipment supporting our system architecture, circuits supporting our wide area network, support for production software, fees paid to information vendors for displaying data and off-site system hosting fees.
+
+   Professional Fees and Outside Services
+
+			Professional fees and outside services consist primarily of consulting services, which include supplemental staff activities primarily related to systems development and maintenance, legal, regulatory and audit, and tax advisory services.
+
+   Travel and Promotional Expenses
+
+			Travel and promotional expenses primarily consist of advertising, costs for special events, sponsorship of industry conferences, options education seminars and travel-related expenses.
+
+   Facilities Costs
+
+			Facilities costs primarily consist of expenses related to owned and leased properties including rent, maintenance, utilities, real estate taxes and telecommunications costs.
+
+   54
+
+   Table of Contents
+
+   Acquisition-Related Costs
+
+			Acquisition-related costs relate to acquisitions and other strategic opportunities, including the Merger. The acquisition-related costs include fees for investment banking advisors, lawyers, accountants, tax advisors, public relations firms, severance and retention costs, impairment of capitalized software and other external costs directly related to the mergers and acquisitions, as well as compensation-related expenses.
+
+   Other Expenses
+
+   Other expenses represent costs necessary to support our operations that are not already included in the above categories.
+
+   Non-Operating Income (Expense)
+
+			Income and expenses incurred through activities outside of our core operations are considered non-operating and are classified as other income/(expense). These activities primarily include interest earned on the investing of excess cash, interest expense related to outstanding debt facilities, dividend income and equity earnings or losses from our investments in other business ventures.
+
+   Results of Operations
+
+			The comparability of our results of operations between reported periods is impacted by the acquisition of Bats on February 28, 2017. Operating results and other financial metrics for U.S. Equities, European Equities and Global FX represent activity for the ten months ended December 31, 2017. The following are summaries of changes in financial performance and include certain non-GAAP financial measures. These non-GAAP financials measures assist management in comparing our performance on a consistent basis for purposes of business decision making by removing the impact of certain items management believes do not reflect our underlying operations. Please see the footnotes below for additional information and reconciliations from our consolidated financial statements.
+
+   55
+
+   Table of Contents
+
+			Comparison of Years Ended December 31, 2018 and 2017
+
+   Overview
+
+			The following summarizes changes in financial performance for the year ended December 31, 2018, compared to the year ended December 31, 2017:
+
+------------------------------------------- ------------------------------------------------------------------------- ------- --------- - ---------- - ------ ----- - ------- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2018 2017 (Decrease) Change
+ (in millions, except percentages, earnings per share, and as noted below)
+Total revenues $ 2,768.8 $ 2,229.1 $ 539.7 24.2 %
+Total cost of revenues 1,551.9 1,233.5 318.4 25.8 %
+Revenues less cost of revenues 1,216.9 995.6 221.3 22.2 %
+Total operating expenses 617.5 623.7 (6.2) (1.0) %
+Operating income 599.4 371.9 227.5 61.2 %
+Income before income tax provision 571.2 334.4 236.8 70.8 %
+Income tax provision 146.0 (66.2) 212.2 (320.5) %
+Net income $ 425.2 $ 400.6 $ 24.6 6.1 %
+Basic earnings per share $ 3.78 $ 3.70 $ 0.08 2.1 %
+Diluted earnings per share 3.76 3.69 0.07 1.9 %
+EBITDA(1) $ 810.3 $ 564.0 $ 246.3 43.7 %
+EBITDA margin(2) 66.6 % 56.6 % 10.0 % *
+Adjusted EBITDA(1) $ 840.4 $ 662.3 $ 178.1 26.9 %
+Adjusted EBITDA margin(3) 69.1 % 66.5 % 2.6 % *
+Adjusted earnings(4) $ 563.4 $ 368.0 $ 195.4 53.1 %
+Diluted weighted average shares outstanding 112.2 107.5 4.7 4.4 %
+Diluted Adjusted earnings per share(5) $ 5.02 $ 3.42 $ 1.60 46.8 %
+
+   * Not Meaningful
+
+ (1) EBITDA is defined as income before interest, income taxes, depreciation and amortization. Adjusted EBITDA is defined as EBITDA before acquisition-related costs, accelerated stock-based compensation, change in fair value of contingent consideration, and provision for uncollectable convertible notes receivable. EBITDA and adjusted EBITDA do not represent, and should not be considered as, alternatives to net income or cash flows from operations, each as determined in accordance with GAAP. We have presented EBITDA and adjusted EBITDA because we consider them important supplemental measures of our performance and believe that they are frequently used by analysts, investors and other interested parties in the evaluation of companies. In addition, we use adjusted EBITDA as a measure of operating performance for preparation of our forecasts and evaluating our leverage ratio for the debt to earnings covenant included in our outstanding credit facility. Other companies may calculate EBITDA and adjusted EBITDA differently than we do. EBITDA and adjusted EBITDA have limitations as analytical tools, and you should not consider them in isolation or as substitutes for analysis of our results as reported under GAAP.
+
+ (2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+ (3) Adjusted EBITDA margin represents Adjusted EBITDA divided by revenues less cost of revenues.
+
+ (4) Adjusted earnings is defined as net income adjusted for amortization of purchased intangibles, acquisition-related costs, interest and other borrowing costs, impairment of intangible assets, provision for uncollectable convertible notes receivable, change in fair value of contingent consideration, changes in redemption value of non-controlling interest, tax effect of amortization and other items, tax effect of tax reform law, tax provision remeasurements, re-measurement of deferred tax assets and liabilities as a result of corporate tax increases in Illinois, net income allocated to participating securities, and accelerated stock-based compensation, net of the income tax effects of these adjustments. Adjusted earnings does not represent, and should not be considered as, an alternative to net income, as determined in accordance with GAAP. We have presented adjusted earnings because we consider it an important supplemental measure of our performance and we use it as the basis for monitoring our own core operating financial performance relative to other operators of exchanges. We also believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies. We believe that investors may find this non-GAAP measure useful in evaluating our performance compared to that of peer companies in our industry. Other companies may calculate adjusted earnings differently than we do. Adjusted earnings has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our results as reported under GAAP.
+
+   56
+
+   Table of Contents
+
+ (5) Diluted Adjusted earnings per share represents Adjusted earnings divided by diluted weighted average shares outstanding.
+
+   The following is a reconciliation of net income (loss) allocated to common stockholders to EBITDA and Adjusted EBITDA:
+
+-------------------------------------------------------- ----------------------- ------------- ------- ----------------- --------- --------- ----- ----- - ------ - ------- - ------
+ Year Ended December 31,
+ 2018
+ Options U.S. Equities Futures European Equities Global FX Corporate Total
+ (in millions)
+Net income (loss) allocated to common stockholders $ 267.5 $ 120.5 $ 42.7 $ 19.2 $ (11.8) $ (16.0) $ 422.1
+Interest (0.5) — — (0.2) — 38.9 38.2
+Income tax provision (benefit) 132.7 19.5 42.8 4.8 0.1 (53.9) 146.0
+Depreciation and amortization 46.4 87.1 2.2 31.3 34.6 2.4 204.0
+EBITDA 446.1 227.1 87.7 55.1 22.9 (28.6) 810.3
+Acquisition-related costs 15.4 — — 1.5 0.1 13.0 30.0
+Change in fair value of contingent consideration — — — — 0.1 — 0.1
+Adjusted EBITDA $ 461.5 $ 227.1 $ 87.7 $ 56.6 $ 23.1 $ (15.6) $ 840.4
+
+ Year Ended December 31,
+ 2017
+ Options U.S. Equities Futures European Equities Global FX Corporate Total
+ (in millions)
+Net income (loss) allocated to common stockholders $ 214.0 $ 23.4 $ 126.2 $ 9.9 $ (13.0) $ 36.2 $ 396.7
+Interest — — — — — 41.3 41.3
+Income tax provision (benefit) 39.4 80.0 — (0.5) 0.2 (185.3) (66.2)
+Depreciation and amortization 53.2 80.5 1.5 25.5 30.3 1.2 192.2
+EBITDA 306.6 183.9 127.7 34.9 17.5 (106.6) 564.0
+Acquisition-related costs 1.6 — — — — 82.8 84.4
+Accelerated stock-based compensation — — — — — 9.1 9.1
+Provision for uncollectable convertible notes receivable 3.8 — — — — — 3.8
+Change in fair value of contingent consideration — — — — 1.0 — 1.0
+Adjusted EBITDA $ 312.0 $ 183.9 $ 127.7 $ 34.9 $ 18.5 $ (14.7) $ 662.3
+
+   The following is a reconciliation of net income allocated to common stockholders to Adjusted earnings:
+
+--------------------------------------------------------------------------------------------------------- ----------------------- ------ ---- - -------
+ Year Ended December 31,
+ 2018 2017
+ (in millions)
+Net income allocated to common stockholders $ 422.1 $ 396.7
+Amortization of purchased intangibles 160.6 142.6
+Acquisition-related costs 30.0 84.4
+Accelerated stock-based compensation — 9.1
+Interest and other borrowing costs — 5.2
+Impairment of intangible assets — 3.8
+Change in fair value of contingent consideration 0.1 1.0
+Change in redemption value of noncontrolling interest 1.3 1.1
+Tax effect of amortization and other items (49.4) (92.3)
+Tax effect of tax reform law — (191.1)
+Tax provision re-measurements (0.4) —
+Re-measurement of deferred tax assets and liabilities as a result of corporate rate increases in Illinois — 7.0
+Net income allocated to participating securities (0.9) 0.5
+Adjusted earnings $ 563.4 $ 368.0
+
+   57
+
+   Table of Contents
+
+			The following summarizes changes in certain operational and financial metrics for the year ended December 31, 2018, compared to the year ended December 31, 2017:
+
+----------------------------------------------------------------------------- ------------------------------------------------------------------- ----- --------- - ---------- - ------ ------- ------ -
+ Year Ended
+ December 31, Increase/ Percent
+ 2018 2017 (Decrease) Change
+ (in millions, except percentages, trading days, and as noted below)
+Options:
+Average daily volume (ADV) (in millions of contracts):
+Total touched contracts 7.9 6.6 1.3 19.7 %
+Market ADV 20.5 16.7 3.8 22.8 %
+Index contract ADV 2.2 2.0 0.2 10.0 %
+Number of trading days 251 251 — — %
+Total Options revenue per contract (RPC) (1) $ 0.258 $ 0.248 $ 0.010 4.0 %
+Multiply Listed Options RPC (1) 0.069 0.061 0.008 13.1 %
+Index Options RPC (1) 0.736 0.687 0.049 7.1 %
+Market share 38.5 % 39.7 % (1.2) (3.0) %
+U.S. Equities:
+ADV:
+Total touched shares (in billions) 1.4 1.3 0.1 7.7 %
+Market ADV (in billions) 7.3 6.5 0.8 12.3 %
+Trading days (3) 251 212 39.0 18.4 %
+Market share 18.4 % 19.0 % (0.6) (3.2) %
+U.S. Equities (net capture per one hundred touched shares)(2) $ 0.025 $ 0.023 $ 0.002 8.7 %
+U.S. ETPs: launches (number of launches) 61 89 (28.0) (31.5) %
+U.S. ETPs: listings (number of listings) 290 250 40.0 16.0 %
+Futures:
+ADV (in thousands) 300.0 294.8 5.2 1.8 %
+Trading days 252 251 1.0 0.4 %
+Revenue per contract $ 1.690 $ 1.779 $ (0.089) (5.0) %
+European Equities:
+ADNV:
+Matched and touched ADNV (in billions) € 10.4 € 9.4 € 1.0 10.6 %
+Market ADNV (in billions) 46.5 44.8 1.7 3.8 %
+Trading days (3) 256 214 42.0 19.6 %
+Market share 22.3 % 21.0 % 1.3 6.2 %
+European Equities (net capture per matched notional value in basis points)(4) 0.192 0.167 0.025 15.0 %
+Average Euro/British pound exchange rate £ 0.884 £ 0.877 £ 0.007 0.8 %
+Global FX:
+ADNV (in billions) $ 37.4 $ 29.8 $ 7.6 25.5 %
+Trading days (3) 259 217 42.0 19.4 %
+Global FX (net capture per one million dollars traded)(5) 2.56 2.61 (0.05) (1.9) %
+Average British pound/U.S. dollar exchange rate $ 1.335 $ 1.287 $ 0.048 3.7 %
+
+ (1) Revenue per contract represents transaction fees less liquidity payments and routing and clearing costs divided by total contracts traded during the period.
+
+ (2) Net capture per one hundred touched shares refers to transaction fees less liquidity payments and routing and clearing costs divided by the product of one-hundredth ADV of touched shares on BZX, BYX, EDGX and EDGA and the number of trading days for the period.
+
+ (3) Trading days presented exclude the two months of 2017 prior to the Bats acquisition.
+
+ (4) Net capture per matched notional value refers to transaction fees less liquidity payments in British pounds divided by the product of matched ADNV in British pounds and the number of trading days for the period.
+
+ (5) Net capture per one million dollars traded refers to net transaction fees, divided by the product of one-millionth of ADNV traded on the Cboe FX market, the number of trading days, and two, which represents the buyer and seller that are both charged on the transaction for the period.
+
+   58
+
+   Table of Contents
+
+   Revenues
+
+			Total revenues for the year ended December 31, 2018 increased $539.7 million, or 24.2%, compared to the prior period primarily due to a $422.0 million, or 27.0% increase in transaction fees as a result of increased market volumes over the prior period. An additional two months of activity in 2018 from the Bats acquisition comprised $349.1 million of the increase over the prior period. The following summarizes changes in revenues for the year ended December 31, 2018 compared to the year ended December 31, 2017:
+
+-------------------------------- --------------------------------- ------- --------- - ---------- ------ ----- ---- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2018 2017 (Decrease) Change
+ (in millions, except percentages)
+Transaction fees $ 1,986.9 $ 1,564.9 $ 422.0 27.0 %
+Access fees 127.9 106.8 21.1 19.8 %
+Exchange services and other fees 83.1 74.8 8.3 11.1 %
+Market data fees 204.0 164.5 39.5 24.0 %
+Regulatory fees 333.9 291.5 42.4 14.5 %
+Other revenue 33.0 26.6 6.4 24.1 %
+Total revenues $ 2,768.8 $ 2,229.1 $ 539.7 24.2 %
+
+   Transaction Fees
+
+			Transaction fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to a 22.8% increase in overall options market ADV, including a 10.0% increase in index options ADV and a 12.3% increase in U.S. Equities ADV. The additional two months of activity in 2018 from the Bats acquisition contributed $232.0 million.
+
+   Access Fees
+
+			Access fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to an increase in the Options segment as a result of additional subscribers and an increase in access fees within the Futures segment, as the pricing model was revised as a result of increased functionality associated with the migration of the futures exchange to the Bats trading platform on February 28, 2018. The additional two months of activity in 2018 from the Bats acquisition contributed $11.8 million.
+
+   Exchange Services and Other Fees
+
+			Exchange services and other fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that contributed $5.7 million.
+
+   Market Data Fees
+
+			Market data fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that contributed $30.8 million, as well as increases from the U.S. Equities, Futures, and Options segments that contributed $7.0 million, $2.1 million, and $1.8 million, respectively.
+
+   Regulatory Fees
+
+			Regulatory transaction fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that added $66.9 million, partially offset by a decrease in U.S. Equities regulatory fees, as the rate decreased to $13.00 per million dollars of covered sales from $23.10 per million dollars of covered sales in May 2018.
+
+   59
+
+   Table of Contents
+
+   Other Revenue
+
+			Other revenue increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to an increase in trade reporting services revenue from the European Equities segment of $3.5 million, coupled with the additional two months of activity in 2018 from the Bats acquisition that contributed $1.9 million.
+
+   Cost of Revenues
+
+			Cost of revenues increased in the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that contributed $260.0 million. The following summarizes changes in cost of revenues for the year ended December 31, 2018 compared to the prior year:
+
+-------------------- --------------------------------- ------- --------- - ---------- ------ ----- ---- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2018 2017 (Decrease) Change
+ (in millions, except percentages)
+Liquidity payments $ 1,113.0 $ 849.7 $ 263.3 31.0 %
+Routing and clearing 39.1 37.6 1.5 4.0 %
+Section 31 fees 302.4 260.0 42.4 16.3 %
+Royalty fees 97.4 86.2 11.2 13.0 %
+Total $ 1,551.9 $ 1,233.5 $ 318.4 25.8 %
+
+   Liquidity Payments
+
+			Liquidity payments increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to two months of additional Bats activity in 2018 of $187.7 million, with the remainder of the increase due to the 12.3% increase in U.S. Equities ADV.
+
+   Routing and Clearing
+
+			The increase in routing and clearing fees for the year ended December 31, 2018 compared to the same period in 2017 was primarily driven by the two months of additional Bats activity in 2018 of $5.8 million, partially offset by a 11.4% decrease in routing fees per 100 touched shares in the U.S. Equities segment.
+
+   Section 31 Fees
+
+			Section 31 fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to two additional months of activity in 2018 from the Bats acquisition that added $66.4 million, partially offset by a decrease in Section 31 Fees in the U.S. Equities segment, as the rate decreased to $13.00 per million dollars of covered sales from $23.10 per million dollars of covered sales in May 2018.
+
+   Royalty Fees
+
+			Royalty fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to higher trading volumes in licensed products in 2018.
+
+   Revenues Less Cost of Revenues
+
+			Revenues less cost of revenues increased $221.3 million, or 22.2%, in the year ended December 31, 2018 compared to the same period in 2017 primarily due to a $157.2 million, or 23.2%, increase in transaction fees less liquidity payments and routing and clearing costs. The additional two months of activity in 2018 from the acquisition of Bats contributed $89.1 million.
+
+   60
+
+   Table of Contents
+
+   The following summarizes the components of revenues less cost of revenues for the year ended December 31, 2018, presented as a percentage of revenues less cost of revenues and compared to the prior year:
+
+----------------------------------------------------------------------- --------------------------------- ------- ------- - ------------ ----- - ------------- - ----- -
+ Percentage of
+ Revenues Less
+ Cost of
+ Revenues
+ Year Ended Year Ended
+ December 31, Percent December 31,
+ 2018 2017 Change 2018 2017
+ (in millions, except percentages)
+Transaction fees less liquidity payments and routing and clearing costs $ 834.8 $ 677.6 23.2 % 68.6 % 68.1 %
+Access fees 127.9 106.8 19.8 % 10.5 % 10.7 %
+Exchange services and other fees 83.1 74.8 11.1 % 6.8 % 7.5 %
+Market data fees 204.0 164.5 24.0 % 16.8 % 16.5 %
+Regulatory fees, less Section 31 fees 31.5 31.5 (0.0) % 2.6 % 3.2 %
+Royalty fees (97.4) (86.2) 13.0 % (8.0) % (8.7) %
+Other 33.0 26.6 24.1 % 2.7 % 2.7 %
+Revenues less cost of revenues $ 1,216.9 $ 995.6 22.2 % 100.0 % 100.0 %
+
+   Transaction Fees Less Liquidity Payments and Routing and Clearing Costs
+
+			Transaction fees less liquidity payments and routing and clearing costs (“Net Transaction Fees”) increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to a 22.8% increase in overall options market ADV, including a 10.0% increase in index options ADV and a 12.3% increase in U.S. Equities ADV, coupled with the additional two months of activity in 2018 from the Bats acquisition that contributed $38.4 million.
+
+   Access Fees
+
+			Access fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to an increase in the Options segment as a result of additional subscribers, as well as an increase in access fees within the Futures segment, as the pricing model was revised as a result of increased functionality associated with the migration of the futures exchange to the Bats trading platform on February 28, 2018. The additional two months of activity in 2018 from the Bats acquisition contributed $11.8 million.
+
+   Exchange Services and Other Fees
+
+			Exchange services and other fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that contributed $5.7 million.
+
+   Market Data Fees
+
+			Market data fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to the additional two months of activity in 2018 from the Bats acquisition that contributed $30.8 million, as well as increases from the U.S. Equities, Futures, and Options segments that contributed $7.0 million, $2.1 million, and $1.8 million, respectively.
+
+			Regulatory Fees, less Section 31 Fees
+
+			Regulatory fees, less Section 31 Fees, remained flat in the year ended December 31, 2018 compared to the same period in 2017, as a result of a 12.3% increase in U.S. Equities trading ADV.
+
+   61
+
+   Table of Contents
+
+   Royalty Fees
+
+			Royalty fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to higher trading volumes in licensed products in 2018.
+
+   Other
+
+			Other revenue increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to an increase in trade reporting services revenue from the European Equities segment of $3.5 million, coupled with the additional two months of activity in 2018 from the Bats acquisition that contributed $1.9 million.
+
+   Operating Expenses
+
+			For the year ended December 31, 2018 compared to the year ended December 31, 2017, non-recurring acquisition-related costs for the Bats acquisition incurred in 2017 drove the decrease in operating expenses, partially offset by an increase in compensation and benefits and depreciation and amortization in 2018 driven in part by two additional months of activity in 2018 from the Bats acquisition. The following summarizes changes in operating expenses for the year ended December 31, 2018 compared to the prior year:
+
+-------------------------------------- --------------------------------- ----- --------- - ---------- ------ ------ ------ -
+ Year Ended
+ December 31, Increase/ Percent
+ 2018 2017 (Decrease) Change
+ (in millions, except percentages)
+Operating Expenses:
+Compensation and benefits $ 228.8 $ 201.4 $ 27.4 13.6 %
+Depreciation and amortization 204.0 192.2 11.8 6.1 %
+Technology support services 47.9 42.1 5.8 13.8 %
+Professional fees and outside services 68.3 66.0 2.3 3.5 %
+Travel and promotional expenses 13.0 17.2 (4.2) (24.4) %
+Facilities costs 11.5 10.3 1.2 11.7 %
+Acquisition-related costs 30.0 84.4 (54.4) (64.5) %
+Change in contingent consideration 0.1 1.0 (0.9) (90.0) %
+Other expenses 13.9 9.1 4.8 52.7 %
+Total operating expenses $ 617.5 $ 623.7 $ (6.2) (1.0) %
+
+   Compensation and Benefits
+
+			Compensation and benefits increased for the year ended December 31, 2018 compared to the same period in 2017 due to two months of additional activity from the Bats acquisition that contributed $13.9 million, as well as additional bonus expense of $12.4 million in 2018 due to strong financial performance.
+
+   Depreciation and Amortization
+
+			Depreciation and amortization increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to two additional months of amortization of the Bats intangible assets in 2018, contributing an additional $31.1 million, partially offset by a decrease in 2018 amortization due to the accelerated cash flow method for the intangibles acquired in the Bats acquisition.
+
+   Technology Support Services
+
+			Technology support services costs increased for the year ended December 31, 2018 compared to the same period in 2017 primarily due to an additional two months of Bats activity in 2018 that contributed $4.7 million.
+
+   62
+
+   Table of Contents
+
+   Professional Fees and Outside Services
+
+			Professional and outside services fees increased for the year ended December 31, 2018 compared to the same period in 2017 primarily driven by incremental expense from the acquisition of Bats that contributed $3.3 million, partially offset by a decrease in contract services of $1.1 million.
+
+   Travel and Promotional Expenses
+
+			Travel and promotional expenses decreased for the year ended December 31, 2018 compared to the same period in 2017, primarily due to a decrease in marketing and advertising expenses of $3.4 million and a decrease in sponsorships of $0.8 million.
+
+   Acquisition-Related Costs
+
+			Acquisition-related costs decreased for the year ended December 31, 2018 compared to the same period in 2017 due to the timing of the acquisition of Bats in 2017. Acquisition-related costs include fees for investment banking advisors, lawyers, accountants, tax advisors, public relations firms, severance and retention costs, impairment of capitalized software and other external costs directly related to the mergers and acquisitions, as well as compensation-related expenses.
+
+   Other Expenses
+
+			Other expenses increased for the year ended December 31, 2018 compared to the same period in 2017, primarily due to increases in value added taxes of $0.9 million, RMC related expenses of $0.8 million, a write off of receivables of $0.7 million, and a true-up of sales taxes on fixed assets of $0.5 million. Additionally, the two months of additional activity from the Bats acquisition contributed $0.7 million.
+
+   Operating Income
+
+			As a result of the items above, operating income for the year ended December 31, 2018 was $599.4 million, compared to $371.9 million for the year ended December 31, 2017, an increase of $227.5 million, or 61.2%.
+
+   Interest Expense, Net
+
+			Net interest expense decreased in the year ended December 31, 2018 as the outstanding debt balance decreased from $1,237.9 million at December 31, 2017 to $1,215.4 million at December 31, 2018. Also contributing to the decrease was the lower interest rates resulting from debt refinancing in both June 2017 and March 2018, as well as increased interest income from treasury securities.
+
+   Other Income
+
+			Other income increased in the year ended December 31, 2018 compared to the same period in 2017 primarily due to $8.8 million of dividends recognized during 2018.
+
+   Income Before Income Tax Provision
+
+			As a result of the above, income before income tax provision for the year ended December 31, 2018 was $571.2 million compared to $334.4 million for the year ended December 31, 2017, an increase of $236.8 million, or 70.8%.
+
+   Income Tax Provision (Benefit)
+
+			For the year ended December 31, 2018, the income tax provision (benefit) was $146.0 million compared with a benefit of $(66.2) million for the year ended December 31, 2017. The effective tax rate for the year ended December 31, 2018 was 25.6%, compared to a benefit of (19.8)% for the year ended December 31, 2017.
+
+   63
+
+   Table of Contents
+
+   Net Income
+
+			As a result of the items above, net income for the year ended December 31, 2018 was $426.5 million, or 35.0% of revenues less cost of revenues, compared to $401.7 million, or 40.3% of revenues less cost of revenues, for the year ended December 31, 2017, an increase of $24.8 million, or 6.2%.
+
+   Segment Operating Results
+
+			We report results from our five segments: Options, U.S. Equities, Futures, European Equities, and Global FX. Segment performance is primarily based on operating income (loss). We have aggregated all corporate costs, as well as other business ventures, within the Corporate Items and Eliminations as those activities should not be used to evaluate a segment']:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+['s operating loss decreased $1.1 million compared to the year ended December 31, 2017. Also contributing to the decrease were two additional months of activity from the Bats acquisition in 2017. Operating expenses increased $17.1 million for the year ended December 31, 2018 compared to the year ended December 31, 2017, primarily due to two months of additional activity from the Bats acquisition in 2017, as well as increases in compensation and benefits and technology support services.
+
+   67
+
+   Table of Contents
+
+			Comparison of Years Ended December 31, 2017 and 2016
+
+   Overview
+
+			The following summarizes changes in financial performance for the year ended December 31, 2017, compared to the year ended December 31, 2016:
+
+------------------------------------------- ------------------------------------------------------------------------- ------- --------- - ---------- - ------ ------- - ------- -
+ Year Ended
+ December 31, Increase/ Percent
+ 2017 2016 (Decrease) Change
+ (in millions, except percentages, earnings per share, and as noted below)
+Total revenues $ 2,229.1 $ 703.1 $ 1,526.0 217.0 %
+Total cost of revenues 1,233.5 136.7 1,096.8 802.3 %
+Revenues less cost of revenues 995.6 566.4 429.2 75.8 %
+Total operating expenses 623.7 268.2 355.5 132.6 %
+Operating income 371.9 298.2 73.7 24.7 %
+Income before income tax provision 334.4 306.6 27.8 9.1 %
+Income tax provision (66.2) 120.9 (187.1) (154.8) %
+Net income $ 400.6 $ 185.7 $ 214.9 115.7 %
+Basic earnings per share 3.70 2.27 1.43 63.0 %
+Diluted earnings per share 3.69 2.27 1.42 62.5 %
+Organic net revenue (1) 617.4 566.4 51.0 9.0 %
+EBITDA(2) $ 564.0 $ 355.9 $ 208.1 58.5 %
+EBITDA margin(3) 56.6 % 62.8 % (6.2) % *
+Adjusted EBITDA(2) $ 662.3 $ 364.3 $ 298.0 81.8 %
+Adjusted EBITDA margin(4) 66.5 % 64.3 % 2.2 % *
+Adjusted earnings(5) $ 368.0 $ 197.3 $ 170.7 86.5 %
+Adjusted earnings margin(6) 37.0 % 34.8 % 2.1 % *
+Diluted weighted average shares outstanding 107.5 81.4 26.1 32.1 %
+Diluted Adjusted earnings per share(7) $ 3.42 $ 2.42 $ 1.00 41.2 %
+
+			*     Not meaningful
+
+ (1) Organic net revenue is defined as revenues less cost of revenues excluding revenues less cost of revenues of any acquisition for the quarter the business was acquired and the following year comparable quarter. Organic net revenue does not represent, and should not be considered as, an alternative to revenues less cost of revenues, or net revenue, as determined in accordance with GAAP. We have presented organic net revenue because we consider it an important supplemental measure of our performance and we use it as the basis for monitoring our operating financial performance before the effects of acquisitions. We also believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies. We believe that investors may find this non-GAAP measure useful in evaluating our performance compared to that of peer companies in our industry. Other companies may calculate organic net revenue differently than we do. Organic net revenue has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our results as reported under GAAP.
+
+   The following is a reconciliation of revenues less cost of revenues to organic net revenue:
+
+------------------------------------------ ----------------------- ------- ---- - -----
+ Year Ended December 31,
+ 2017 2016
+ (in millions)
+Revenue less cost of revenue (net revenue) $ 995.6 $ 566.4
+Bats revenue less cost of revenue (378.2)
+Organic net revenue $ 617.4 $ 566.4
+
+ (2) EBITDA is defined as income before interest, income taxes, depreciation and amortization. Adjusted EBITDA is defined as EBITDA before acquisition-related costs, accelerated stock-based compensation, and a legal settlement. EBITDA and adjusted EBITDA do not represent, and should not be considered as, alternatives to net income or cash flows from operations, each as determined in accordance with GAAP. We have presented EBITDA and adjusted
+
+   68
+
+   Table of Contents
+
+EBITDA because we consider them important supplemental measures of our performance and believe that they are frequently used by analysts, investors and other interested parties in the evaluation of companies. In addition, we use adjusted EBITDA as a measure of operating performance for preparation of our forecasts, evaluating our leverage ratio for the debt to earnings covenant included in our outstanding credit facility. Other companies may calculate EBITDA and adjusted EBITDA differently than we do. EBITDA and adjusted EBITDA have limitations as analytical tools, and you should not consider them in isolation or as substitutes for analysis of our results as reported under GAAP.
+
+   The following is a reconciliation of net income (loss) allocated to common stockholders to EBITDA and Adjusted EBITDA:
+
+------------------------------------------------------------- ----------------------- ------------- ------- ----------------- --------- --------- ----- ----- - ------ - ------- - ------
+ Year Ended December 31,
+ 2017
+ Options U.S. Equities Futures European Equities Global FX Corporate Total
+ (in millions)
+Net income (loss) allocated to common stockholders $ 214.0 $ 23.4 $ 126.2 $ 9.9 $ (13.0) $ 36.2 $ 396.7
+Interest — — — — — 41.3 41.3
+Income tax provision (benefit) 39.4 80.0 — (0.5) 0.2 (185.3) (66.2)
+Depreciation and amortization 53.2 80.5 1.5 25.5 30.3 1.2 192.2
+EBITDA 306.6 183.9 127.7 34.9 17.5 (106.6) 564.0
+Acquisition-related costs 1.6 — — — — 82.8 84.4
+Accelerated stock-based compensation — — — — — 9.1 9.1
+Provision for uncollectable convertible notes receivable 3.8 — — — — — 3.8
+Change in fair value of contingent consideration — — — — 1.0 — 1.0
+Adjusted EBITDA $ 312.0 $ 183.9 $ 127.7 $ 34.9 $ 18.5 $ (14.7) $ 662.3
+
+ Year Ended December 31,
+ 2016
+ Options U.S. Equities Futures European Equities Global FX Corporate Total
+ (in millions)
+Net income (loss) allocated to common stockholders $ 100.3 $ — $ 96.4 $ — $ — $ (11.8) $ 184.9
+Interest 5.8 — — — — (0.1) 5.7
+Income tax provision (benefit) 120.9 — — — — — 120.9
+Depreciation and amortization 40.3 — 2.8 — — 1.3 44.4
+EBITDA 267.3 — 99.2 — — (10.6) 355.9
+Acquisition-related costs — — — — — 13.5 13.5
+Accelerated stock-based compensation — — — — — 1.5 1.5
+Impairment of intangible assets (1.4) — — — — — (1.4)
+Legal settlement — — — — — (5.5) (5.5)
+Assessment of computer-based lease taxes for prior period use — — — — — 0.3 0.3
+Adjusted EBITDA $ 265.9 $ — $ 99.2 $ — $ — $ (0.8) $ 364.3
+
+ (3) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+ (4) Adjusted EBITDA margin represents Adjusted EBITDA divided by revenues less cost of revenues.
+
+ (5) "]:
+(1) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. As discussed above, we completed the acquisitions of NES and Neff in April 2017 and October 2017, respectively. Estimated market share as of December 31, 2017 includes the standalone, pre-acquisition revenues of NES and Neff. Estimated market share as of December 31, 2017 does not include BakerCorp and BlueLine because we had not acquired them as of December 31, 2017. If the standalone, pre-acquisition revenues of BakerCorp and BlueLine were included for the year ended December 31, 2017, estimated market share as of December 31, 2017 would have been 12.9 percent. Strategy 2  For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2019, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------...
+
+[' motion to stay. On August 8, 2017, the Court held that the SEC’s approval order lacked reasoned decision-making sufficient to support the SEC’s conclusion that the OCC capital plan complied with applicable statutory requirements. The Court declined to vacate the SEC’s approval order or to require the unwinding of actions taken under the OCC capital plan, but instead remanded the matter to the SEC for further proceedings concerning whether that capital plan complies with those statutory requirements. Petitioners requested a stay of dividend payments to the exchange stockholders until the SEC made a final decision about the OCC capital plan, but the SEC denied that request on September 14, 2017. The SEC allowed for and received information from interested parties for the SEC’s consideration in connection its review of the OCC capital plan on remand from the Court.
+
+			 On February 13, 2019, the SEC issued an order disapproving the proposed rule change implementing OCC’s capital plan following the SEC’s review of the OCC capital plan on remand from the Court. The SEC concluded, upon further review, that the information before the SEC was insufficient to support a finding that the OCC capital plan was consistent with the Exchange Act and Exchange Act rules and regulations. Among other items, the SEC noted in its order that while OCC represented to the Court that it is possible to unwind the OCC capital plan, the petitioners argued and the Court recognized that unwinding and replacing the OCC capital plan may pose considerable logistical challenges for OCC. The SEC also stated in its order, among other items, that the SEC would consider any requests for exemptive relief that OCC might seek while OCC establishes a new capital plan and seeks to come into compliance with the SEC requirement that OCC maintain a capital plan to cover potential general business losses. As a result of the recency, there is uncertainty regarding next steps and potential consequences.
+
+   83
+
+   Table of Contents
+
+   Lease and Obligations
+
+			The Company currently leases additional office space, data centers and remote network operations center, with lease terms remaining from 1 months to 102 months as of December 31, 2018. In December 2014, we entered into an agreement with FINRA to provide certain regulatory services to the Cboe and C2 options markets. The agreement included the assignment of the office space Cboe leased for regulatory operations.
+
+			Total rent expense related to current and former lease obligations for the years ended December 31, 2018, 2017 and 2016 totaled $10.1 million, $7.6 million and $4.4 million, respectively. In addition to our lease obligations, we have contractual obligations related to certain operating leases, data and telecommunications agreements, and our long-term debt outstanding. Future minimum payments under these leases and agreements were as follows as of December 31, 2018:
+
+-------------------------- ------------- ---------------------- ------ --------- --------- ----- --------- ---- ------- ---------
+ Payments Due by Period
+ Less than More than
+ Total 1 year 1-3 years 4-5 years 5 years
+Contractual Obligations (in millions)
+Operating leases $ 34.0 $ 6.1 $ 9.6 $ 9.8 $ 8.5
+Principal payments of debt 1,225.0 300.0 275.0 — 650.0
+Interest payments on debt 233.2 38.9 95.9 48.8 49.6
+Total $ 1,492.2 $ 345.0 $ 380.5 $ 58.6 $ 708.1
+
+   Off Balance Sheet Arrangements
+
+			As of December 31, 2018 and 2017, we did not have any off-balance sheet arrangements.
+
+   Guarantees
+
+			We use Wedbush Securities and Morgan Stanley to clear our routed cash equities transactions in our U.S. Equities segment. Wedbush Securities and Morgan Stanley guarantee the trade until one day after the trade date, after which time the NSCC provides a guarantee. In the case of failure to perform on the part of one of our clearing firms, Wedbush Securities or Morgan Stanley, we provide the guarantee to the counterparty to the trade. The OCC acts as a central counterparty on all transactions in listed equity options in our Options segment, and as such, guarantees clearance and settlement of all of our options transactions. We believe that any potential requirement for us to make payments under these guarantees is remote and accordingly, have not recorded any liability in the consolidated financial statements for these guarantees. Similarly, with respect to U.S. listed equity options and futures, we deliver matched trades of our customers to the OCC, which acts as a central counterparty on all transactions occurring on Cboe Options, C2, BZX, EDGX and CFE and, as such, guarantees clearance and settlement of all of our matched options and futures trades.
+
+			Our equity method investment, EuroCCP, has entered into a Liquidity Facility with ABN Amro Clearing Bank N.V. (“AACB”). Based on our shareholders’ agreement with EuroCCP, Cboe Europe Limited has provided a guarantee to AACB of up to €6 million. We believe that any potential requirement for us to make payments under this guarantee is remote and accordingly, have not recorded any liability in the consolidated financial statements for this guarantee.
+
+   Critical Accounting Policies
+
+			The preparation of consolidated financial statements in conformity with U.S. GAAP requires our management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of the amounts of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ materially from those estimates. On an ongoing basis, the Company evaluates its estimates, including those related to areas that require a significant level of judgment or are otherwise subject to an inherent degree of uncertainty. The Company bases its estimates on historical experience, observance of trends in particular areas, information available from outside sources and various other assumptions that are believed to be reasonable under the circumstances. Information from these sources form the basis for making judgments about the carrying values of assets and liabilities that may not be readily apparent from other sources.
+
+   84
+
+   Table of Contents
+
+			We have identified the policies below as critical to our business operations and the understanding of our results of operations. The impact of, and any associated risks related to, these policies on our business operations is discussed throughout "]:
+Note 8. Securitization Activities Jefferies Group engages in securitization activities related to corporate loans, commercial mortgage loans, consumer loans and mortgage-backed and other asset-backed securities. In securitization transactions, Jefferies Group transfers assets to special purpose entities ("SPEs") and acts as the placement or structuring agent for the beneficial interests sold to investors by the SPE. A significant portion of the securitization transactions are the securitization of assets issued or guaranteed by U.S. government agencies. These SPEs generally meet the criteria of VIEs; however, the SPEs are generally not consolidated as Jefferies Group is not considered the primary beneficiary for these SPEs. F-47 Jefferies Group accounts for securitization transactions as sales, provided it has relinquished control over the transferred assets. Transferred assets are carried at fair value with unrealized gains and losses reflected in Principal transactions revenues in the Consolidated Statements of Operations prior to the identification and isolation for securitization. Subsequently, revenues recognized upon securitization are reflected as net underwriting revenues. Jefferies Group generally receives cash proceeds in connection with the transfer of assets to an SPE. Jefferies Group may, however, have continuing involvement with the transferred assets, which is limited to retaining one or more tranches of the securitization (primarily senior and subordinated debt securities in the form of mortgage- and other asset-backed securities or CLOs), which are included in Trading assets and are generally initially categorized as Level 2 within the fair value hierarchy. Jefferies Group applies fair value accounting to the securities. The following table presents activity related to Jefferies Group's securitizations that were accounted for as sales in which it had continuing involvement (in millions): ----------------------------------------- --------------------...

@@ -1,0 +1,1256 @@
+================================================================================
+CIK: 0001467858
+Company Name: General Motors Co
+Filing Date: 2018-02-06
+Form Type: 10-K
+Extraction Date: 2025-08-30 13:52:18
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+This Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) should be read in conjunction with the accompanying audited consolidated financial statements and notes. Forward-looking statements in this MD&A are not guarantees of future performance and may involve risks and uncertainties that could cause actual results to differ materially from those projected. Refer to the "Forward-Looking Statements" section of this MD&A and Item 1A. "Risk Factors" for a discussion of these risks and uncertainties.
+
+ 18
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Non-GAAP Measures Unless otherwise indicated, our non-GAAP measures discussed in this MD&A are related to our continuing operations and not our discontinued operations or our assets and liabilities held for sale. Our non-GAAP measures include earnings before interest and taxes (EBIT)-adjusted, presented net of noncontrolling interests, earnings per share (EPS)-diluted-adjusted, effective tax rate-adjusted (ETR-adjusted), return on invested capital-adjusted (ROIC-adjusted) and adjusted automotive free cash flow. Our calculation of these non-GAAP measures may not be comparable to similarly titled measures of other companies due to potential differences between companies in the method of calculation. As a result, the use of these non-GAAP measures has limitations and should not be considered superior to, in isolation from, or as a substitute for, related U.S. GAAP measures.
+
+These non-GAAP measures allow management and investors to view operating trends, perform analytical comparisons and benchmark performance between periods and among geographic regions to understand operating performance without regard to items we do not consider a component of our core operating performance. Furthermore, these non-GAAP measures allow investors the opportunity to measure and monitor our performance against our externally communicated targets and evaluate the investment decisions being made by management to improve ROIC-adjusted. Management uses these measures in its financial, investment and operational decision-making processes, for internal reporting and as part of its forecasting and budgeting processes. Further, our Board of Directors uses certain of these and other measures as key metrics to determine management performance under our performance-based compensation plans. For these reasons we believe these non-GAAP measures are useful for our investors.
+
+EBIT-adjusted EBIT-adjusted is presented net of noncontrolling interests and is used by management and can be used by investors to review our consolidated operating results because it excludes automotive interest income, automotive interest expense and income taxes as well as certain additional adjustments that are not considered part of our core operations. Examples of adjustments to EBIT include but are not limited to impairment charges related to goodwill; impairment charges on long-lived assets and other exit costs resulting from strategic shifts in our operations or discrete market and business conditions; costs arising from the ignition switch recall and related legal matters; and certain currency devaluations associated with hyperinflationary economies. For EBIT-adjusted and our other non-GAAP measures, once we have made an adjustment in the current period for an item, we will also adjust the related non-GAAP measure in any future periods in which there is an impact from the item.
+
+Core EBIT-adjusted Beginning in 2018, we intend to report a Core EBIT-adjusted metric. Core EBIT-adjusted will be used by management and can be used by investors to review our core consolidated operating results. Core EBIT-adjusted begins with EBIT-adjusted and excludes the EBIT-adjusted results of our autonomous vehicle operations, including Cruise Automation Inc. (Cruise), Maven and our investment in Lyft.
+
+EPS-diluted-adjusted EPS-diluted-adjusted is used by management and can be used by investors to review our consolidated diluted EPS results on a consistent basis. EPS-diluted-adjusted is calculated as net income attributable to common stockholders-diluted less income (loss) from discontinued operations on an after-tax basis, adjustments noted above for EBIT-adjusted, gains or losses on the extinguishment of debt obligations on an after-tax basis and certain income tax adjustments divided by weighted-average common shares outstanding-diluted. Examples of income tax adjustments include the establishment or reversal of significant deferred tax asset valuation allowances.
+
+ETR-adjusted ETR-adjusted is used by management and can be used by investors to review the consolidated effective tax rate for our core operations on a consistent basis. ETR-adjusted is calculated as Income tax expense less the income tax related to the adjustments noted above for EBIT-adjusted and the income tax adjustments noted above for EPS-diluted-adjusted divided by Income before income taxes less adjustments.
+
+ROIC-adjusted ROIC-adjusted is used by management and can be used by investors to review our investment and capital allocation decisions. We define ROIC-adjusted as EBIT-adjusted for the trailing four quarters divided by ROIC-adjusted average net assets, which is considered to be the average equity balances adjusted for average automotive debt and interest liabilities, exclusive of capital leases; average automotive net pension and other postretirement benefits (OPEB) liabilities; and average automotive net income tax assets during the same period. Adjustments to the average equity balances exclude assets and liabilities classified as either assets held for sale or liabilities held for sale.
+
+Adjusted automotive free cash flow Adjusted automotive free cash flow is used by management and can be used by investors to review the liquidity of our automotive operations and to measure and monitor our performance against our capital allocation program and evaluate our automotive liquidity against the substantial cash requirements of our automotive operations. We measure adjusted automotive free cash flow as automotive operating cash flow from continuing operations less capital expenditures adjusted for management actions, primarily related to strengthening our balance sheet, such as prepayments of debt and discretionary
+
+ 19
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+contributions to employee benefit plans. Refer to the “Liquidity and Capital Resources” section of this MD&A for our reconciliation of Net automotive cash provided by operating activities under U.S. GAAP to this non-GAAP measure.
+
+Core adjusted automotive free cash flow Beginning in 2018, we intend to report a Core adjusted automotive free cash flow metric. Core adjusted automotive free cash flow will be used by management and can be used by investors to review the liquidity of our automotive operations and to measure and monitor our performance against our capital allocation program and evaluate our automotive liquidity against the substantial cash requirements of our automotive operations. Core adjusted automotive free cash flow begins with adjusted automotive free cash flow and excludes the cash flows of our autonomous vehicle operations, including Cruise, Maven and our investment in Lyft.
+
+The following table reconciles Net income (loss) attributable to stockholders under U.S. GAAP to EBIT-adjusted:
+
+------------------------------------------------------ ------------------------ ------ ---- ----- ---- ------ ------ - - ------
+
+ Years Ended December 31,
+ 2017 2016 2015
+Net income (loss) attributable to stockholders $ (3,864 ) $ 9,427 $ 9,687
+(Income) loss from discontinued operations, net of tax 4,212 1 (25 )
+Income tax expense (benefit) 11,533 2,739 (1,219 )
+Gain on extinguishment of debt — — (449 )
+Automotive interest expense 575 563 423
+Automotive interest income (266 ) (182 ) (167 )
+Adjustments
+GMI restructuring(a) 460 — 297
+Venezuela-related matters(b) 80 — 720
+Ignition switch recall and related legal matters(c) 114 300 1,785
+Russia exit costs(d) — — 438
+Other — — (41 )
+Total adjustments 654 300 3,199
+EBIT-adjusted $ 12,844 $ 12,848 $ 11,449
+
+________
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) This adjustment was excluded because of a strategic decision to rationalize our core operations by exiting or significantly reducing our presence in various international markets to focus resources on opportunities expected to deliver higher returns. The adjustment primarily consists of asset impairments, sales incentives, inventory provisions, dealer restructuring, employee separations and other contract cancellation costs in India, South Africa, and Thailand.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) In the year ended December 31, 2017 this adjustment was excluded because we ceased operations and terminated employment relationships in Venezuela. In the year ended December 31, 2015 this adjustment was excluded because of the devaluation of the Venezuela Bolivar Fuerte (BsF) and our inability to transact to obtain U.S. Dollars.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(c) These adjustments were excluded because of the unique events associated with the ignition switch recall. These events included the creation of the Compensation Program, as well as various investigations, inquiries and complaints from constituents.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(d) These adjustments were excluded because of our decision to exit the Russia market in 2015. The Russia exit costs primarily consisted of sales incentives, dealer restructuring and other contract cancellation costs and asset impairments.
+
+The following table reconciles diluted earnings (loss) per common share under U.S. GAAP to EPS-diluted-adjusted:
+
+ 20
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+------------------------------------------------------------------ ------------------------ ------ --------- ----- ------ ----- --------- - ------ ----- --------- ------ ---- ----- - ----- - ----
+
+ Years Ended December 31,
+ 2017 2016 2015
+ Amount Per Share Amount Per Share Amount Per Share
+Diluted earnings (loss) per common share $ (3,880 ) $ (2.60 ) $ 9,427 $ 6.00 $ 9,686 $ 5.91
+Diluted (earnings) loss per common share – discontinued operations 4,212 2.82 1 — (25 ) (0.02 )
+Adjustments
+Gain on extinguishment of debt — — — — (449 ) (0.27 )
+All other adjustments(a) 654 0.44 300 0.19 3,199 1.95
+Total adjustments 654 0.44 300 0.19 2,750 1.68
+Tax effect on adjustments(b) (208 ) (0.14 ) (114 ) (0.07 ) (201 ) (0.13 )
+Tax adjustments(c) 9,099 6.10 — — (4,001 ) (2.44 )
+EPS-diluted-adjusted $ 9,877 $ 6.62 $ 9,614 $ 6.12 $ 8,209 $ 5.00
+
+________
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) Refer to the reconciliation of Net income (loss) attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of MD&A for adjustment details.
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) The tax effect of each adjustment is determined based on the tax laws and valuation allowance status of the jurisdiction to which the adjustment relates.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(c) In the year ended December 31, 2017 these adjustments consist of the tax expense of $7.3 billion related to U.S. tax reform legislation and the establishment of a valuation allowance against deferred tax assets of $2.3 billion that will no longer be realizable as a result of the sale of the Opel/Vauxhall Business, partially offset by tax benefits related to tax settlements. In the year ended December 31, 2015 these adjustments primarily consist of the tax benefit related to the valuation allowance reversal in Europe. These adjustments were excluded because impacts of tax legislation and valuation allowances are not considered part of our core operations.
+
+The following table reconciles our effective tax rate under U.S. GAAP to ETR-adjusted:
+
+------------------ -------------------------- ------ ------------------ --- ------------------ ------ -------------------------- ------------------ - ------------------ --- -------------------------- ---------------------------- - ------------------ ---- - - ------ - ------ - ----- --
+
+ Years Ended December 31,
+ 2017 2016 2015
+ Income before income taxes Income tax expense Effective tax rate Income before income taxes Income tax expense Effective tax rate Income before income taxes Income tax expense (benefit) Effective tax rate
+Effective tax rate $ 11,863 $ 11,533 97.2 % $ 12,008 $ 2,739 22.8 % $ 8,371 $ (1,219 ) (14.6 )%
+Adjustments(a) 654 208 300 114 2,750 201
+Tax adjustments(b) (9,099 ) — 4,001
+ETR-adjusted $ 12,517 $ 2,642 21.1 % $ 12,308 $ 2,853 23.2 % $ 11,121 $ 2,983 26.8 %
+
+__________
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) Refer to the reconciliation of Net income (loss) attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of MD&A for adjustment details.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) Refer to the reconciliation of diluted earnings (loss) per common share under U.S. GAAP to EPS-diluted-adjusted within this section of MD&A for adjustment details.
+
+We define return on equity (ROE) as Net income (loss) attributable to stockholders for the trailing four quarters divided by average equity for the same period. Management uses average equity to provide comparable amounts in the calculation of ROE. The following table summarizes the calculation of ROE (dollars in billions):
+
+---------------------------------------------- ------------------------ ---- ---- ---- ---- ---- ---- - - ----
+
+ Years Ended December 31,
+ 2017 2016 2015
+Net income (loss) attributable to stockholders $ (3.9 ) $ 9.4 $ 9.7
+Average equity $ 42.2 $ 43.6 $ 37.0
+ROE (9.2 )% 21.6 % 26.2 %
+
+The following table summarizes the calculation of ROIC-adjusted (dollars in billions):
+
+ 21
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+-------------------------------------------------------------------------------- ------------------------ ---- ---- ----- ---- ---- ----- - - ----
+
+ Years Ended December 31,
+ 2017 2016 2015
+EBIT-adjusted(a) $ 12.8 $ 12.8 $ 11.4
+Average equity $ 42.2 $ 43.6 $ 37.0
+Add: Average automotive debt and interest liabilities (excluding capital leases) 11.6 9.9 8.0
+Add: Average automotive net pension & OPEB liability 21.0 22.0 25.8
+Less: Average automotive net income tax asset (29.3 ) (32.8 ) (33.0 )
+ROIC-adjusted average net assets $ 45.5 $ 42.7 $ 37.8
+ROIC-adjusted 28.2 % 30.1 % 30.3 %
+
+________
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------
+(a) Refer to the reconciliation of Net income (loss) attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of MD&A.
+
+Overview Our management team has adopted a strategic plan to transform GM into the world's most valued automotive company. Our plan includes several major initiatives that we anticipate will redefine the future of personal mobility through our zero crashes, zero emissions, zero congestion vision while also strengthening the core of our business: earning customers for life by delivering winning vehicles, leading the industry in quality and safety and improving the customer ownership experience; leading in technology and innovation, including electrification, autonomous, data monetization and connectivity; growing our brands; making tough, strategic decisions about which markets and products in which we will invest and compete; building profitable adjacent businesses and targeting 10% core margins on an EBIT-adjusted basis.
+
+In addition to our EBIT-adjusted margin improvement goal, our overall financial targets include total annual operational and functional cost savings of $6.5 billion through 2018 compared to 2014 costs, of which approximately $5.5 billion has been realized as of December 31, 2017, and which will more than offset our planned incremental investments in brand building, engineering and technology as we launch new products; and execution of our capital allocation program as described in the "Liquidity and Capital Resources" section of this MD&A.
+
+For the year ending December 31, 2018 we expect EPS-diluted and EPS-diluted-adjusted to be in the mid-six dollar range. We do not consider the potential future impact of adjustments on our expected financial results. We expect core EBIT-adjusted and core adjusted automotive free cash flow to be in line with 2017. Core consists of all operations excluding our autonomous vehicle operations, including Cruise, Maven car sharing entities, and our investment in Lyft.
+
+We face continuing challenges from a market, operating and regulatory standpoint in a number of countries across the globe due to, among other factors, weak economic conditions, competitive pressures, our product portfolio offerings, emissions standards, foreign exchange volatility and political uncertainty. As a result of these conditions, we continue to strategically assess our performance and ability to achieve acceptable returns on our invested capital. Refer to Item1A. Risk Factors for a discussion of these challenges. As we continue to assess our performance, additional restructuring and rationalization actions may be required or determination may be made that the carrying amount of our long-lived assets may not be recoverable in certain of these countries. Such a determination may give rise to future asset impairments or other charges which may have a material impact on our results of operations.
+
+GMNA In the year ended December 31, 2017 industry sales in North America were 21.5 million units representing a decrease of 1.5% compared to the corresponding period in 2016. U.S. industry sales were 17.6 million units in the year ended December 31, 2017.
+
+In the year ended December 31, 2017 our vehicle sales in the U.S., our largest market in North America, totaled 3.0 million units for market share of 17.1%, representing an increase of 0.1 percentage points compared to the corresponding period in 2016. We continue to lead the U.S. industry in market share.
+
+We achieved EBIT-adjusted margins of 10.7% on continued strength of U.S. industry light vehicle sales, key product launches and continued focus on overall cost savings. Based on our current cost structure, we estimate GMNA’s breakeven point at the U.S. industry level to be in the range of 10.0 to 11.0 million units. We expect to sustain an EBIT-adjusted margin of 10% in 2018 on continued strength of U.S. industry light vehicle sales, favorable mix of full-size trucks and crossovers relative to passenger cars, key product launches and continued focus on overall cost savings.
+
+ 22
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+GMI In the year ended December 31, 2017 China industry sales were 28.3 million units and our market share was 14.3%. We continue to see strength in sales of our Cadillac and Baojun passenger vehicles and SUVs, as well as positive momentum in Chevrolet sales driven by new product launches. Wuling sales were impacted by the market shift away from mini commercial vehicles. In the year ended December 31, 2017 our Automotive China JVs generated equity income of $2.0 billion. We expect low industry growth in 2018 and continuation of pricing pressures, which will continue to pressure margins. We continue to expect equal to increased vehicle sales in 2018 driven by new launches and expect to sustain strong China equity income by focusing on improvements in vehicle mix, cost efficiencies, and downstream performance optimization.
+
+Many markets across the region continue to improve led by increases in Argentina and Brazil leading to industry sales of 25.2 million units, representing an increase of 4.0% in the year ended December 31, 2017 compared to the corresponding period in 2016. In the year ended December 31, 2017 our retail sales totaled 1.3 million units leading to a market share of 5.1%, representing a decrease of 0.3 percentage points compared to the corresponding period in 2016.
+
+In May 2017 we announced several restructuring actions in GMI which were primarily related to the withdrawal of Chevrolet from the Indian and South African markets at the end of 2017 and the transition of our South African manufacturing operations to Isuzu Motors. These actions occurred as a result of a strategic decision to focus resources on opportunities expected to deliver higher returns. Refer to Note 19 to our consolidated financial statements for additional information related to these restructuring actions. In May 2017 we deconsolidated our business in Venezuela which resulted in a charge of $0.1 billion during the year ended December 31, 2017.
+
+GM Korea Company (GM Korea) entered into a collectively bargained wage agreement which was ratified by its union in January 2018. The impact of the agreement was not material to our consolidated financial statements.
+
+We have had recent discussions with key stakeholders in GM Korea, including its minority owners and union, regarding the need to improve GM Korea's financial and operational performance. As we strategically assess our performance and the manner in which we operate in Korea and certain other countries, additional restructuring and rationalization actions may be required and may have a material impact on our results of operations.
+
+Corporate Beginning in 2012 through January 30, 2018, we purchased an aggregate of 504 million shares of our outstanding common stock for $16.2 billion.
+
+The Ignition Switch Recall has led to various inquiries, investigations, subpoenas, requests for information and complaints from agencies or other representatives of U.S., federal, state and Canadian governments. In addition these and other recalls have resulted in a number of claims and lawsuits. Such lawsuits and investigations could in the future result in the imposition of material damages, fines, civil consent orders, civil and criminal penalties or other remedies. Refer to Note 17 to our consolidated financial statements for additional information.
+
+Takata Matters In May 2016 NHTSA issued an amended consent order requiring Takata to file defect information reports (DIRs) for previously unrecalled front airbag inflators that contain phased-stabilized ammonium nitrate-based propellant without a moisture absorbing desiccant on a multi-year, risk-based schedule through 2019 impacting tens of millions of vehicles produced by numerous automotive manufacturers. NHTSA concluded that the likely root cause of the rupturing of the airbag inflators is a function of time, temperature cycling and environmental moisture.
+
+Although we do not believe there is a safety defect at this time in any unrecalled GM vehicles within scope of the Takata DIRs, in cooperation with NHTSA we filed Preliminary DIRs on May 27, 2016, updated as of June 13, 2016, covering 2.5 million of certain of our GMT900 vehicles, which are full-size pick-up trucks and SUVs. On November 15, 2016, we filed a petition for inconsequentiality and request for deferral of determination regarding those GMT900 vehicles. On November 28, 2016, NHTSA granted GM’s deferral request in connection with this petition. The deferral provides GM until August 31, 2017 to present evidence and analysis that our vehicles do not pose an unreasonable risk to motor vehicle safety.
+
+We filed a second set of Preliminary DIRs for certain GMT900 vehicles on January 10, 2017. These January 2017 DIRs are consistent with GM’s May 2016 DIRs. On the same day, we also filed a second petition for inconsequentiality and deferral of decision with respect to the vehicles subject to our January 2017 DIRs. On January 18, 2017, NHTSA consolidated our first and second petitions for inconsequentiality and will rule on both at the same time.
+
+ 23
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+On August 25, 2017, we filed a supplemental brief in support of our petitions that provided NHTSA with the results of our long-term study and testing and the basis for our determination that the inflators in these vehicles do not present an unreasonable risk to safety and that no repair should ultimately be required. In our brief, we requested that NHTSA grant our petitions or, in the alternative, grant an additional deferral period to provide time for further testing.
+
+We filed a third set of Preliminary DIRs for certain GMT900 vehicles on January 9, 2018. These January 2018 DIRs are consistent with GM's May 2016 DIRs and January 2017 DIRs. On the same day, we also filed a third petition for inconsequentiality with respect to the vehicles subject to our January 2018 DIRs.
+
+We believe these vehicles are currently performing as designed and ongoing testing continues to support the belief that the vehicles' unique design and integration mitigates against inflator propellant degradation and rupture risk. For example, the airbag inflators used in the vehicles are a variant engineered specifically for our vehicles, and include features such as greater venting, unique propellant wafer configurations, and machined steel end caps. The inflators are packaged in the instrument panel in such a way as to minimize exposure to moisture from the climate control system. Also, these vehicles have features that minimize the maximum temperature to which the inflator will be exposed, such as larger interior volumes and standard solar absorbing windshields and side glass.
+
+Accordingly, no warranty provision has been made for any repair associated with our vehicles subject to the Preliminary DIRs and amended consent order. However, in the event we are ultimately obligated to repair the vehicles subject to current or future Takata DIRs under the amended consent order in the U.S., we estimate a reasonably possible impact to GM of approximately $1.0 billion.
+
+GM is engaged in discussions with regulators outside the U.S. with respect to Takata inflators. There are differences in vehicle and inflator design between the relevant vehicles sold internationally and those sold in the U.S. We continue to gather and analyze evidence about these inflators and to share our findings with regulators. We were required to recall certain vehicles sold outside of the U.S. in the three months ended September 30, 2017 to replace Takata inflators in these vehicles. Additional recalls, if any, could be material to our results of operations and cash flows. We continue to monitor the international situation.
+
+On June 26, 2017, Takata filed for bankruptcy protection in the United States and Japan. Over the past several months, a group of global automakers, including GM, have had discussions with Takata and Key Safety Systems, Inc. regarding a potential transaction involving the sale of Takata's business. GM has not experienced any supply interruptions arising from Takata initiating formal insolvency proceedings and anticipates that Takata will continue an uninterrupted supply of component parts to GM during the insolvency proceedings. GM continues to monitor Takata’s financial and operational performance and to develop alternative and contingent supplies to attempt to mitigate prospective threats to the supply of components.
+
+PSA Group Transaction On July 31, 2017 we closed the sale of our Opel/Vauxhall Business to PSA Group and on October 31, 2017 we closed the sale of the Fincos to Banque PSA Finance S.A. and BNP Paribas Personal Finance S.A.
+
+The net consideration paid at closing for the European Business was $2.5 billion, consisting of (1) $2.2 billion in cash; and (2) $0.8 billion in warrants in PSA Group; partially offset by (3) the $0.5 billion de-risking premium payment made to PSA Group for assuming certain underfunded pension liabilities. In addition, we agreed to sell the shares of PSA Group received upon exercise of the warrants within 35 days after exercise. The purchase price is subject to certain working capital adjustments as provided in the Master Agreement (the Agreement).
+
+The total charge from the sale of the European Business was $6.2 billion, net of tax, of which $3.9 billion is recorded in Income (loss) from discontinued operations, net of tax, and $2.3 billion was treated as an adjustment to both EPS-diluted-adjusted and ETR-adjusted. The charge relates to: (1) $4.3 billion of deferred tax assets that will no longer be realizable or that transferred to PSA Group; (2) $1.5 billion related to previously deferred pension losses and payment of the de-risking premium to PSA Group for its assumption of certain underfunded pension liabilities; (3) a pre-tax disposal loss of $0.5 billion as a result of the sale of the Fincos, which includes the recognition of $0.2 billion of foreign currency translation losses; (4) a pre-tax charge of $0.4 billion for the cancellation of production programs resulting from the convergence of vehicle platforms between the European Business and PSA Group; and (5) other costs to support the separation of operations to be provided for a period of time following closing; partially offset by proceeds.
+
+Our wholly owned subsidiary (the Seller) has agreed to indemnify PSA Group for certain losses resulting from any inaccuracy of the representations and warranties or breaches of our covenants included in the Agreement and for certain other liabilities, including emissions and product liabilities. The Company has entered into a guarantee for the benefit of PSA Group and pursuant
+
+ 24
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+to which the Company has agreed to guarantee the Seller's obligation to indemnify PSA Group. Certain of these indemnification obligations are subject to time limitations, thresholds and/or caps as to the amount of required payments. We are currently unable to estimate any reasonably possible overall amounts or range of loss that may result from claims made under these indemnities, if any.
+
+PSA Group has provided a number of working capital and other adjustments under the Agreement and other ancillary agreements, many of which are customary in these types of transactions. We currently believe that post-closing adjustments under the Agreement, if any, would not have a material impact on our results of operations.
+
+We retained net underfunded pension liabilities of $6.8 billion owed primarily to current pensioners and former employees of the European Business with vested pension rights. PSA Group assumed, pursuant to the Agreement, approximately $3.1 billion of net underfunded pension liabilities primarily with respect to active employees of the Opel/Vauxhall Business, and during the three months ended September 30, 2017 the Seller made payments of $3.4 billion in respect of these assumed liabilities, which includes pension funding payments for active employees and the de-risking premium payment discussed above. At closing we drew upon our three-year unsecured revolving credit facility to fund these payments. We issued debt securities thereafter to repay the draw on our credit facility. As part of the retained pension liabilities described above, we retained the U.K. defined benefit pension plans in existence at signing related to the Opel/Vauxhall Business, including responsibility for service cost accruals through the closing date.
+
+We have agreed to purchase from and supply to PSA Group certain vehicles for a period of time following closing and not to engage in certain competing businesses in Europe for a period of three years.
+
+Refer to Note 3 to our consolidated financial statements for additional information.
+
+Contingently Issuable Shares  Under the Amended and Restated Master Sale and Purchase Agreement between us and Motors Liquidation Company we may be obligated to issue additional shares (Adjustment Shares) of our common stock in the event that allowed general unsecured claims against the GUC Trust, as estimated by the Bankruptcy Court, exceed $35.0 billion. Refer to Note 17 to our consolidated financial statements for a description of the contingently issuable Adjustment Shares.
+
+Automotive Financing - GM Financial Summary and Outlook GM Financial has expanded its leasing and prime lending programs in North America; therefore, leasing and prime lending have become a larger percentage of the originations and retail portfolio balance. During 2017 we saw used car prices in the U.S. decline approximately 5% as compared to 2016. For 2018, an increasing supply of used vehicles resulting from off-lease returns will continue to pressure used car prices. As a result, we expect a further decline in used car prices in the U.S. between 5% and 6% in 2018 as compared to 2017. GM Financial continues to expect pre-tax income to double from 2014 earnings of $0.8 billion once full captive penetration levels are achieved on a consistent basis. The following table summarizes the residual value as well as the number of units included in GM Financial equipment on operating leases, net by vehicle type (units in thousands):
+
+---------- ----------------- ------ ----------------- --- ---------- -------------- ----- ----- ------ ---------- ------ --- ----- ---- - ----- -
+
+ December 31, 2017 December 31, 2016
+ Residual Value Units Percentage Residual Value Units Percentage
+Cars $ 5,701 450 27.2 % $ 5,240 420 31.7 %
+Trucks 7,173 285 17.3 % 5,231 224 16.9 %
+Crossovers 13,723 818 49.5 % 10,349 604 45.7 %
+SUVs 3,809 99 6.0 % 2,791 75 5.7 %
+Total $ 30,406 1,652 100.0 % $ 23,611 1,323 100.0 %
+
+ GM Financial's retail penetration in North America grew to approximately 37% in the year ended December 31, 2017 from approximately 33% in 2016 as a result of the expanded leasing and lending programs. In the year ended December 31, 2017 GM Financial's revenue consisted of leased vehicle income of 71%, retail finance charge income of 23%, and commercial finance charge income of 3%. We believe that offering a comprehensive suite of financing products will generate incremental sales of our vehicles, drive incremental GM Financial earnings and help support our sales throughout various economic cycles.
+
+Consolidated Results We review changes in our results of operations under five categories: volume, mix, price, cost and other. Volume measures the impact of changes in wholesale vehicle volumes driven by industry volume, market share and changes in dealer stock levels. Mix measures the impact of changes to the regional portfolio due to product, model, trim, country and option
+
+ 25
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+penetration in current year wholesale vehicle volumes. Price measures the impact of changes related to Manufacturer’s Suggested Retail Price and various sales allowances. Cost includes primarily: (1) material and freight; (2) manufacturing, engineering, advertising, administrative and selling and warranty expense; and (3) non-vehicle related activity. Other includes primarily foreign exchange and non-vehicle related automotive revenues as well as equity income or loss from our nonconsolidated affiliates. Refer to the regional sections of this MD&A for additional information.
+
+Total Net Sales and Revenue
+
+--------------------------- ------------------------ ------- ------------------------ ------- - --------------------- ------ --------------- - ------ -- ----- ---- ----- ----- - - ----- --- - --- --- ---- - --- --- - ---
+
+ Years Ended December 31, Favorable/ (Unfavorable) Variance Due To
+ 2017 2016 % Volume Mix Price Other
+ (Dollars in billions)
+GMNA $ 111,345 $ 119,113 $ (7,768 ) (6.5 )% $ (12.2 ) $ 3.5 $ 0.6 $ 0.3
+GMI 21,920 20,943 977 4.7 % $ 0.2 $ 0.2 $ 0.6 $ —
+Corporate 342 149 193 n.m. $ 0.2
+Automotive 133,607 140,205 (6,598 ) (4.7 )% $ (12.0 ) $ 3.7 $ 1.3 $ 0.5
+GM Financial 12,151 8,983 3,168 35.3 % $ 3.2
+Eliminations (170 ) (4 ) (166 ) n.m. $ (0.2 )
+Total net sales and revenue $ 145,588 $ 149,184 $ (3,596 ) (2.4 )% $ (12.0 ) $ 3.7 $ 1.3 $ 3.5
+
+________
+n.m. = not meaningful
+
+--------------------------- ------------------------ ------- ------------------------ ------- - --------------------- ------ --------------- - ------ -- ----- ---- ----- ---- - - ---- --- - --- --- --- - --- ---- - - ---- -
+
+ Years Ended December 31, Favorable/ (Unfavorable) Variance Due To
+ 2016 2015 % Volume Mix Price Other
+ (Dollars in billions)
+GMNA $ 119,113 $ 106,744 $ 12,369 11.6 % $ 10.8 $ 0.7 $ 1.7 $ (0.8 )
+GMI 20,943 22,970 (2,027 ) (8.8 )% $ (1.7 ) $ 0.2 $ 1.2 $ (1.7 )
+Corporate 149 150 (1 ) (0.7 )% $ —
+Automotive 140,205 129,864 10,341 8.0 % $ 9.1 $ 0.9 $ 2.9 $ (2.5 )
+GM Financial 8,983 5,867 3,116 53.1 % $ 3.1
+Eliminations (4 ) (6 ) 2 33.3 % $ —
+Total net sales and revenue $ 149,184 $ 135,725 $ 13,459 9.9 % $ 9.1 $ 0.9 $ 2.9 $ 0.7
+
+Automotive Cost of Sales
+
+------------------------------ ------------------------ ------- ------------------------ ------ - --------------------- ------ --------------- ------ ----- --- ---- - ----- - - --- ---- - --- ---- ---- - - --- ---- - - ---- -
+
+ Years Ended December 31, Favorable/ (Unfavorable) Variance Due To
+ 2017 2016 % Volume Mix Cost Other
+ (Dollars in billions)
+GMNA $ 92,765 $ 99,690 $ 6,925 6.9 % $ 8.7 $ (2.7 ) $ 1.2 $ (0.3 )
+GMI 21,449 20,426 (1,023 ) (5.0 )% $ (0.1 ) $ (0.5 ) $ (0.1 ) $ (0.3 )
+Corporate 818 387 (431 ) n.m. $ — $ (0.6 ) $ 0.2
+Eliminations (163 ) (4 ) 159 n.m. $ 0.2 $ —
+Total automotive cost of sales $ 114,869 $ 120,499 $ 5,630 4.7 % $ 8.6 $ (3.1 ) $ 0.6 $ (0.4 )
+
+________
+n.m. = not meaningful
+
+ 26
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+------------------------------ ------------------------ ------- ------------------------ ------ - --------------------- ----- --------------- ------ ------- --- ----- -- ----- - ---- ---- - ---- ---- --- - --- ---- --- - ---
+
+ Years Ended December 31, Favorable/ (Unfavorable) Variance Due To
+ 2016 2015 % Volume Mix Cost Other
+ (Dollars in billions)
+GMNA $ 99,690 $ 88,880 $ (10,810 ) (12.2 )% $ (7.6 ) $ (1.9 ) $ (1.7 ) $ 0.4
+GMI 20,426 23,694 3,268 13.8 % $ 1.4 $ (0.6 ) $ 0.9 $ 1.6
+Corporate 387 426 39 9.2 % $ (0.1 ) $ 0.1
+Eliminations (4 ) (5 ) (1 ) (20.0 )% $ —
+Total automotive cost of sales $ 120,499 $ 112,995 $ (7,504 ) (6.6 )% $ (6.2 ) $ (2.6 ) $ (0.9 ) $ 2.2
+
+The most significant element of our Automotive cost of sales is material cost which makes up approximately two-thirds of the total amount. The remaining portion includes labor costs, depreciation and amortization, engineering, and product warranty and recall campaigns.
+
+Factors which most significantly influence a region's profitability are industry volume, market share, and the relative mix of vehicles (cars, trucks, crossovers) sold. Variable profit is a key indicator of product profitability. Variable profit is defined as revenue less material cost, freight, the variable component of manufacturing expense and warranty and recall-related costs. Vehicles with higher selling prices generally have higher variable profit. Refer to the regional sections of this MD&A for additional information on volume and mix.
+
+In the year ended December 31, 2017 favorable Cost was due primarily to: (1) decreased warranty costs of $1.4 billion; (2) decreased employee related costs of $0.8 billion; (3) decreased material and freight costs of $0.7 billion related to carryover vehicles; and (4) decreased restructuring costs related to UAW cash severance incentive program of $0.2 billion in 2016 that did not recur in 2017; partially offset by (5) increased material and freight costs of $1.4 billion related to vehicles launched within the last twelve months incorporating significant exterior and/or interior changes (Majors); (6) increased engineering costs of $0.7 billion; and (7) charges of $0.4 billion related to restructuring actions in India and South Africa. In the year ended December 31, 2017 unfavorable Other was due primarily to the foreign currency effect of $0.4 billion due to the strengthening of the Brazilian Real and other currencies against the U.S. Dollar.
+
+In the year ended December 31, 2016 unfavorable Cost was due primarily to: (1) increased other costs of $2.3 billion primarily manufacturing, engineering, depreciation and amortization and warranty which are inclusive of launch costs; partially offset by (2) decreased material and freight costs of $2.3 billion related to carryover vehicles, partially offset by increased material and freight costs of $1.3 billion related to Majors; and (3) impairments of $0.4 billion related to Thailand and Venezuela in 2015. In the year ended December 31, 2016 favorable Other was due primarily to the foreign currency effect of $2.0 billion due primarily to the BsF devaluation in 2015 and the weakening of the Argentine Peso, Canadian Dollar and other currencies against the U.S. Dollar; and costs related to our exit in Russia of $0.2 billion in 2015.
+
+Automotive Selling, General and Administrative Expense
+
+------------------------------------------------------ ------------------------ ----- ------------------------------ ------------------------------ ------ ------------------------ - ------ ------------------------ - --- --- - - ----- ---- -
+
+ Years Ended December 31, Year Ended2017 vs. 2016 Change Year Ended2016 vs. 2015 Change
+
+ 2017 2016 2015 Favorable/ (Unfavorable) % Favorable/ (Unfavorable) %
+Automotive selling, general and administrative expense $ 9,575 $ 10,354 $ 11,888 $ 779 7.5 % $ 1,534 12.9 %
+
+In the year ended December 31, 2017 Automotive selling, general and administrative expense decreased due primarily to decreased advertising costs of $0.4 billion and a decrease in net charges of $0.2 billion for legal related matters related to the ignition switch recall.
+
+In the year ended December 31, 2016 Automotive selling, general and administrative expense decreased due primarily to a net decrease in charges of $1.5 billion for matters related to the ignition switch recall and favorable net foreign currency effect of $0.2 billion due primarily to the weakening of various currencies against the U.S. Dollar.
+
+Income Tax Expense (Benefit)
+
+ 27
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+---------------------------- ------------------------ ------ ------------------------------ ------------------------------ ----- ------------------------ - ------ ------------------------ - ------ - ---- - ------ - ----
+
+ Years Ended December 31, Year Ended2017 vs. 2016 Change Year Ended2016 vs. 2015 Change
+
+ 2017 2016 2015 Favorable/ (Unfavorable) % Favorable/ (Unfavorable) %
+Income tax expense (benefit) $ 11,533 $ 2,739 $ (1,219 ) $ (8,794 ) n.m. $ (3,958 ) n.m.
+
+________
+n.m. = not meaningful
+
+In the year ended December 31, 2017 Income tax expense increased due primarily to the $7.3 billion tax expense related to U.S. tax reform legislation and the establishment of a $2.3 billion valuation allowance related to the sale of Opel/Vauxhall Business, partially offset by tax benefits related to tax settlements and foreign dividends.
+
+In the year ended December 31, 2016 Income tax expense increased due primarily to the absence of the 2015 income tax benefit from the release of European valuation allowances of $3.9 billion and an increase in income tax expense of $0.6 billion due primarily to an increase in pre-tax income; partially offset by $0.6 billion in tax benefits related to foreign currency losses.
+
+For the year ended December 31, 2017 our ETR-adjusted was 21.1%, and we expect the effective tax rate to be similar for the year ending December 31, 2018.
+
+Refer to Note 18 to our consolidated financial statements for additional information related to Income tax expense (benefit) including information on U.S. tax reform legislation.
+
+Discontinued Operations
+
+------------------------------------------------------ ------------------------ ------ ------------------------------ ------------------------------ -- ------------------------ - -- ------------------------ - ------ - ---- - --- - ----
+
+ Years Ended December 31, Year Ended2017 vs. 2016 Change Year Ended2016 vs. 2015 Change
+
+ 2017 2016 2015 Favorable/ (Unfavorable) % Favorable/ (Unfavorable) %
+Income (loss) from discontinued operations, net of tax $ (4,212 ) $ (1 ) $ 25 $ (4,211 ) n.m. $ (26 ) n.m.
+
+________
+n.m. = not meaningful
+
+In the year ended December 31, 2017 Income (loss) from discontinued operations, net of tax, decreased due primarily to a disposal loss of $3.9 billion, net of tax, primarily related to deferred tax assets that transferred to PSA Group, previously deferred pension losses and payment of the de-risking premium to PSA Group for its assumption of certain underfunded pension liabilities and the loss as a result of the sale of the Fincos.
+
+GM North America
+
+--------------------------- ------------------------ ------- ------------------------ ----- - ------- --------------------- --------------- ------ ------ --- ----- -- ---- ----- ----- - - --- - --- - --- - --- ---- -
+
+ Years Ended December 31, Favorable/ (Unfavorable) Variance Due To
+ 2017 2016 % Volume Mix Price Cost Other
+ (Dollars in billions)
+Total net sales and revenue $ 111,345 $ 119,113 $ (7,768 ) (6.5 )% $ (12.2 ) $ 3.5 $ 0.6 $ 0.3
+EBIT-adjusted $ 11,889 $ 12,388 $ (499 ) (4.0 )% $ (3.5 ) $ 0.9 $ 0.6 $ 1.8 $ (0.3 )
+EBIT-adjusted margin 10.7 % 10.4 % 0.3 %
+ (Vehicles in thousands)
+Wholesale vehicle sales 3,511 3,958 (447 ) (11.3 )%
+
+ 28
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+--------------------------- ------------------------ ------- ------------------------ ----- - ------- --------------------- --------------- ------ ------ --- ----- - ---- ----- ---- - ---- - - --- - ---- - - ---- ---- -
+
+ Years Ended December 31, Favorable/ (Unfavorable) Variance Due To
+ 2016 2015 % Volume Mix Price Cost Other
+ (Dollars in billions)
+Total net sales and revenue $ 119,113 $ 106,744 $ 12,369 11.6 % $ 10.8 $ 0.7 $ 1.7 $ (0.8 )
+EBIT-adjusted $ 12,388 $ 11,354 $ 1,034 9.1 % $ 3.2 $ (1.2 ) $ 1.7 $ (2.2 ) $ (0.4 )
+EBIT-adjusted margin 10.4 % 10.6 % (0.2 )%
+ (Vehicles in thousands)
+Wholesale vehicle sales 3,958 3,558 400 11.2 %
+
+GMNA Total Net Sales and Revenue In the year ended December 31, 2017 Total net sales and revenue decreased due primarily to: (1) decreased net wholesale volumes associated with a decrease in Chevrolet passenger car sales and a decrease in off-lease rental car sales; partially offset by (2) favorable mix associated with a decrease in sales of Chevrolet passenger cars and decreased volumes of off-lease rental car sales; (3) favorable pricing for Majors of $1.4 billion, partially offset by unfavorable pricing for carryover vehicles of $0.8 billion; and (4) favorable Other due primarily to the foreign currency effect resulting from the strengthening of the Canadian Dollar against the U.S. Dollar.
+
+In the year ended December 31, 2016 Total net sales and revenue increased due primarily to: (1) increased net wholesale volumes reflecting our strategic decision to reduce daily rental activity, strong retail demand for the Chevrolet Malibu and Spark, full-size trucks and SUVs and the Buick Envision; (2) favorable pricing for Majors of $1.8 billion; and (3) favorable mix associated with full-size trucks and SUVs and a reduction in rental car activities, partially offset by the Chevrolet Malibu and Spark; partially offset by (4) unfavorable Other due primarily to the foreign currency effect resulting from the weakening of the Mexican Peso and Canadian Dollar against the U.S. Dollar.
+
+GMNA EBIT-Adjusted The most significant factors which influence profitability are industry volume and market share. While not as significant as industry volume and market share, another factor affecting profitability is the relative mix of vehicles sold. Trucks, crossovers and cars sold currently have a variable profit of approximately 180%, 55% and 15% of our GMNA portfolio on a weighted-average basis.
+
+In the year ended December 31, 2017 EBIT-adjusted decreased due primarily to: (1) decreased net wholesale volumes; and (2) unfavorable Other due primarily to the foreign currency effect resulting from the weakening of the Mexican Peso against the U.S. Dollar; partially offset by (3) favorable Cost including decreased warranty costs of $1.4 billion, decreased material and freight costs related to carryover vehicles of $0.7 billion, decreased other employee related costs of $0.7 billion, decreased advertising costs of $0.3 billion and decreased restructuring charges of $0.2 billion related to the 2016 UAW cash severance incentive program, partially offset by increased material costs for Majors of $1.3 billion and increased engineering costs of $0.3 billion; (4) favorable mix; and (5) favorable pricing.
+
+In the year ended December 31, 2016 EBIT-adjusted increased due primarily to: (1) increased net wholesale volumes; and (2) favorable pricing; partially offset by (3) unfavorable Cost including increased material costs for Majors of $1.1 billion, restructuring charges of $0.2 billion related to the UAW cash severance incentive program and increased other costs of $2.8 billion primarily engineering, depreciation and amortization, manufacturing, warranty and marketing which are inclusive of launch costs, partially offset by favorable material and freight costs related to carryover vehicles of $2.0 billion; (4) unfavorable mix associated with the Chevrolet Malibu, Volt and Spark, partially offset by full-size trucks and SUVs and a reduction in rental car activities; and (5) unfavorable Other due primarily to the foreign currency effect resulting from the weakening of the Mexican Peso and Canadian Dollar against the U.S. Dollar.
+
+GM International
+
+ 29
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+---------------------------------------------- ------------------------ ------ ------------------------ ----- - ------ --------------------- --------------- ------ --- --- ----- - ---- ----- --- - ---- - - --- - --- - - - ---- -
+
+ Years Ended December 31, Favorable/ (Unfavorable) Variance Due To
+ 2017 2016 % Volume Mix Price Cost Other
+ (Dollars in billions)
+Total net sales and revenue $ 21,920 $ 20,943 $ 977 4.7 % $ 0.2 $ 0.2 $ 0.6 $ —
+EBIT-adjusted $ 1,300 $ 767 $ 533 69.5 % $ — $ (0.3 ) $ 0.6 $ 0.3 $ (0.2 )
+EBIT-adjusted margin 5.9 % 3.7 % 2.2 %
+Equity income — Automotive China $ 1,976 $ 1,973 $ 3 0.2 %
+EBIT (loss)-adjusted — excluding Equity income $ (676 ) $ (1,206 ) $ 530 43.9 %
+ (Vehicles in thousands)
+Wholesale vehicle sales 1,267 1,255 12 1.0 %
+
+--------------------------------------------- ------------------------ ------ ------------------------ ----- - --------------------- ---- --------------- ------ ------ --- ----- -- ---- ----- ---- - - ---- - - --- - --- - ---- - ---- -
+
+ Years Ended December 31, Favorable/ (Unfavorable) Variance Due To
+ 2016 2015 % Volume Mix Price Cost Other
+ (Dollars in billions)
+Total net sales and revenue $ 20,943 $ 22,970 $ (2,027 ) (8.8 )% $ (1.7 ) $ 0.2 $ 1.2 $ (1.7 )
+EBIT-adjusted $ 767 $ 665 $ 102 15.3 % $ (0.3 ) $ (0.5 ) $ 1.1 $ 0.5 $ (0.7 )
+EBIT-adjusted margin 3.7 % 2.9 % 0.8 %
+Equity income — Automotive China $ 1,973 $ 2,057 $ (84 ) (4.1 )%
+EBIT (loss)-adjusted —excluding Equity income $ (1,206 ) $ (1,392 ) $ 186 13.4 %
+ (Vehicles in thousands)
+Wholesale vehicle sales 1,255 1,372 (117 ) (8.5 )%
+
+The vehicle sales of our Automotive China JVs are not recorded in Total net sales and revenue. The results of our joint ventures are recorded in Equity income, which is included in EBIT-adjusted above.
+
+GMI Total Net Sales and Revenue In the year ended December 31, 2017 Total net sales and revenue increased due primarily to: (1) favorable pricing related to carryover vehicles in Argentina and Brazil and in Egypt to mitigate the impact of the weakening Egyptian Pound against the U.S. Dollar; (2) favorable mix driven by the increased sales of Chevrolet Cruze in Brazil and Argentina; and (3) increased wholesale volumes associated with the Chevrolet Onix in Brazil and Argentina, partially offset by decreased wholesale volumes across multiple product lines in Asia/Pacific, the Middle East and Africa; (4) flat Other due primarily to the foreign currency effect resulting from the strengthening of the Brazilian Real and Korean Won against the U.S. Dollar, offset by the depreciation of the Argentinian Peso and Egyptian Pound against the U.S. Dollar and decreased parts and accessories sales in the Middle East.
+
+In the year ended December 31, 2016 Total net sales and revenue decreased due primarily to: (1) decreased wholesale volumes across multiple product lines in Egypt, South Africa, the Middle East, Brazil and Venezuela, partially offset by increased sales of the Chevrolet Spark and Malibu in Korea and the Middle East; and (2) unfavorable Other of $1.7 billion due primarily to the foreign currency effect resulting from the weakening of all currencies across South America, the Egyptian Pound and South African Rand against the U.S. Dollar; partially offset by (3) favorable pricing related to carryover vehicles due primarily to high inflation in Argentina.
+
+GMI EBIT-Adjusted In the year ended December 31, 2017 EBIT-adjusted increased due primarily to: (1) favorable pricing; and (2) favorable Cost due to decreased employee related costs and selling, general and administrative expenses across the region; partially offset by (3) unfavorable mix driven by decreased high-margin sales in the Middle East.
+
+In the year ended December 31, 2016 EBIT-adjusted increased due primarily to: (1) favorable pricing; and (2) favorable Cost due to lower engineering expenses and material and freight performance related to carryover vehicles; partially offset by (3) unfavorable mix due primarily to the lack of vehicle sales in Venezuela and decreased sales of full-size trucks and SUVs in the Middle East as a result of a weaker economy due to low oil prices; and (4) unfavorable Other due primarily to the foreign currency effect resulting from the weakening of all currencies across South America, the Egyptian Pound and South African Rand against the U.S. Dollar.
+
+ 30
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+We view the Chinese market as important to our global growth strategy and are employing a multi-brand strategy led by our Buick, Chevrolet and Cadillac brands. In the coming years we plan to leverage our global architectures to increase the number of product offerings under the Buick, Chevrolet and Cadillac brands in China and continue to grow our business under the local Baojun and Wuling brands, with Baojun seizing the growth opportunities in less developed cities and markets. We operate in the Chinese market through a number of joint ventures and maintaining good relations with our joint venture partners, which are affiliated with the Chinese government, is an important part of our China growth strategy.
+
+The following tables summarize certain key operational and financial data for the Automotive China JVs (vehicles in thousands):
+
+-------------------------------------------------------------------------- ------------------------ ------ ---- ----- ---- ------ ----- - ------
+
+ Years Ended December 31,
+ 2017 2016 2015
+Wholesale vehicles including vehicles exported to markets outside of China 4,140 4,013 3,794
+Total net sales and revenue $ 50,065 $ 47,150 $ 44,959
+Net income $ 3,984 $ 4,117 $ 4,290
+
+------------------------- ----------------- ----- ----------------- - -----
+
+ December 31, 2017 December 31, 2016
+Cash and cash equivalents $ 9,202 $ 8,197
+Debt $ 381 $ 246
+
+GM Financial
+
+------------------------------------- ------------------------ ------ -------------------- --- -------------------- ----- ------ - - ----- ------ - ----- ---- ---- - - ----- ---- -
+
+ Years Ended December 31, 2017 vs. 2016 Change 2016 vs. 2015 Change
+ 2017 2016 2015 Amount % Amount %
+Total revenue $ 12,151 $ 8,983 $ 5,867 $ 3,168 35.3 % $ 3,116 53.1 %
+Provision for loan losses $ 757 $ 644 $ 603 $ 113 17.5 % $ 41 6.8 %
+Earnings before income taxes-adjusted $ 1,196 $ 763 $ 679 $ 433 56.7 % $ 84 12.4 %
+ (Dollars in billions)
+Average debt outstanding $ 74.9 $ 54.8 $ 36.2 $ 20.1 36.7 % $ 18.6 51.4 %
+Effective rate of interest paid 3.4 % 3.6 % 4.0 % (0.2 )% (0.4 )%
+
+GM Financial Revenue In the year ended December 31, 2017 Total revenue increased due primarily to increased leased vehicle income of $2.7 billion due to a larger lease portfolio and increased finance charge income of $0.4 billion due to growth in the retail and commercial finance receivables portfolios.
+
+In the year ended December 31, 2016 Total revenue increased due primarily to increased leased vehicle income of $3.1 billion due to a larger lease portfolio.
+
+GM Financial Earnings Before Income Taxes-Adjusted In the year ended December 31, 2017 Earnings before income taxes-adjusted increased due primarily to: (1) increased net leased vehicle income of $0.8 billion due primarily to a larger lease portfolio; and (2) increased finance charge income; partially offset by (3) increased interest expense of $0.6 billion due to an increase in average debt outstanding.
+
+In the year ended December 31, 2016 Earnings before income taxes-adjusted increased due primarily to: (1) increased net leased vehicle income of $0.8 billion due primarily to a larger lease portfolio; partially offset by (2) increased interest expense of $0.5 billion due to an increase in average debt outstanding; and (3) increased operating expenses of $0.2 billion.
+
+Liquidity and Capital Resources We believe that our current level of cash and cash equivalents, marketable securities and availability under our revolving credit facilities will be sufficient to meet our liquidity needs. We expect to have substantial cash requirements going forward which we plan to fund through total available liquidity and cash flows generated from operations and future debt issuances. We also maintain access to the capital markets and may issue debt or equity securities from time to time, which may provide an additional source of liquidity. Our future uses of cash, which may vary from time to time based on market conditions and other factors, are focused on three objectives: (1) reinvest in our business; (2) maintain a strong investment-grade balance sheet; and (3) return available cash to shareholders. Our known future material uses of cash include, among other possible demands: (1) capital expenditures of approximately $8.5 billion annually as well as payments for engineering and product
+
+ 31
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+development activities; (2) payments associated with previously announced vehicle recalls, the settlements of the multidistrict litigation and any other recall-related contingencies; (3) payments to service debt and other long-term obligations, including discretionary and mandatory contributions to our pension plans; (4) dividend payments on our common stock that are declared by our Board of Directors; and (5) payments to purchase shares of our common stock authorized by our Board of Directors.
+
+Our liquidity plans are subject to a number of risks and uncertainties, including those described in the "Forward-Looking Statements" section of this MD&A and Item 1A. Risk Factors, some of which are outside of our control.
+
+We continue to monitor and evaluate opportunities to strengthen our competitive position over the long-term while maintaining a strong investment-grade balance sheet. These actions may include opportunistic payments to reduce our long-term obligations as well as the possibility of acquisitions, dispositions, investments with joint venture partners and strategic alliances that we believe would generate significant advantages and substantially strengthen our business. These actions may negatively impact our liquidity in the short term.
+
+Our senior management evaluates our capital allocation program on an ongoing basis and recommends any modifications to the program to our Board of Directors, not less than once annually. Management reaffirmed and our Board of Directors approved the capital allocation program, which includes reinvesting in our business at an average target ROIC-adjusted rate of 20% or greater, maintaining a strong investment-grade balance sheet, including a target cash balance of $18 billion, and returning available cash to shareholders.
+
+As part of our capital allocation program, we announced in January 2016 that our Board of Directors had authorized a program to purchase up to $4 billion of our common stock before the end of 2017, which was completed in the three months ended September 30, 2017. We also announced in January 2017 that our Board of Directors had authorized the purchase of up to an additional $5 billion of our common stock with no expiration date, subsequent to completing the remaining portion of the previously announced programs. We completed $1.5 billion of the $5 billion program in the three months ended December 31, 2017. From inception of the program in 2015 through January 30, 2018 we had purchased an aggregate of 299 million shares of our outstanding common stock under our common stock repurchase program for $10.5 billion. In the year ended December 31, 2017, we returned total cash to shareholders of $6.7 billion, consisting of dividends paid on our common stock and purchases of our common stock.
+
+In August 2017 we issued $3.0 billion in aggregate principal amount of senior unsecured notes and used the net proceeds to repay the $3.0 billion drawn on our three-year unsecured revolving credit facility to fund the payments to PSA Group, or one or more pension funding vehicles, for the assumed net underfunded pension liabilities in connection with the sale of the Opel/Vauxhall Business. Refer to Note 14 to our consolidated financial statements for additional information on the senior unsecured notes.
+
+Automotive Liquidity Total available liquidity includes cash, cash equivalents, marketable securities and funds available under credit facilities. The amount of available liquidity is subject to intra-month and seasonal fluctuations and includes balances held by various business units and subsidiaries worldwide that are needed to fund their operations.
+
+We manage our liquidity primarily at our treasury centers as well as at certain of our significant consolidated overseas subsidiaries. Approximately 90% of our cash and marketable securities were managed within North America and at our regional treasury centers at December 31, 2017. We have used and will continue to use other methods including intercompany loans to utilize these funds across our global operations as needed.
+
+Our cash equivalents and marketable securities balances are primarily denominated in U.S. Dollars and include investments in U.S. government and agency obligations, foreign government securities, time deposits, corporate debt securities and mortgage and asset-backed securities. Our investment guidelines, which we may change from time to time, prescribe certain minimum credit worthiness thresholds and limit our exposures to any particular sector, asset class, issuance or security type. The majority of our current investments in debt securities are with A/A2 or better rated issuers.
+
+We use credit facilities as a mechanism to provide additional flexibility in managing our global liquidity. The total size of our credit facilities was $14.5 billion at December 31, 2017 and 2016, which consisted principally of our two primary revolving credit facilities. We did not have any borrowings against our primary facilities, but had letters of credit outstanding under our sub-facility of $0.4 billion at December 31, 2017 and 2016. GM Financial had access to our revolving credit facilities at December 31, 2017 and 2016 but did not borrow against them. Refer to Note 14 to our consolidated financial statements for additional information on credit facilities. At December 31, 2017 and 2016 we had intercompany loans from GM Financial of $0.4 billion and $0.3 billion, which consisted primarily of commercial loans to dealers we consolidate, and we had no intercompany loans to GM Financial.
+
+ 32
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+As a means to access the strong liquidity available in our China JVs, from time to time, we may borrow from our joint ventures to provide additional liquidity to support our operations and capital investment. In the three months ending March 31, 2018, we expect to borrow approximately $1.3 billion from SAIC General Motors Corp., Ltd. (SGM) pursuant to a short-term unsecured note payable.
+
+The following table summarizes our automotive available liquidity (dollars in billions):
+
+--------------------------------------- ----------------- ---- ----------------- ---- - ----
+
+ December 31, 2017 December 31, 2016
+Cash and cash equivalents $ 11.2 $ 9.8
+Marketable securities 8.3 11.8
+Available liquidity(a) 19.6 21.6
+Available under credit facilities(b) 14.1 14.2
+Total automotive available liquidity(a) $ 33.6 $ 35.8
+
+__________
+
+--- -----------------------------------
+(a) Amounts do not add due to rounding.
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) Excludes outstanding letters of credit of $0.2 billion at December 31, 2016 under our primary credit facilities which were transferred to PSA Group at closing.
+
+The following table summarizes the changes in our automotive available liquidity (dollars in billions):
+
+------------------------------------------------------------------ ---------------------------- ---- -
+
+ Year Ended December 31, 2017
+Operating cash flow $ 13.9
+Capital expenditures (8.4 )
+Dividends paid and payments to purchase common stock (6.7 )
+Net cash used in investing activities – discontinued operations(a) (3.6 )
+Issuance of senior unsecured notes 3.0
+Other non-operating (0.4 )
+Total change in automotive available liquidity $ (2.2 )
+
+__________
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) Consists primarily of payments to PSA Group, or one or more pension funding vehicles, of $3.4 billion for the assumed net underfunded pension liabilities in connection with the sale of the Opel/Vauxhall Business, which includes pension funding payments for active employees and the de-risking premium payment of $455 million, partially offset by proceeds.
+
+Automotive Cash Flow (Dollars in Billions)
+
+---------------------------------------------------- ------------------------ ---- -------------------- ---- -------------------- ---- ---- - - ---- - ---- ---- - - ---- -
+
+ Years Ended December 31, 2017 vs. 2016 Change 2016 vs. 2015 Change
+ 2017 2016 2015
+Operating Activities
+Income (loss) from continuing operations $ (0.8 ) $ 8.6 $ 9.0 $ (9.4 ) $ (0.4 )
+Depreciation, amortization and impairments charges 5.7 5.1 5.2 0.6 (0.1 )
+Pension and OPEB activities (2.6 ) (4.2 ) (1.5 ) 1.6 (2.7 )
+Working capital 1.8 2.2 0.3 (0.4 ) 1.9
+Equipment on operating leases (0.3 ) 0.8 0.5 (1.1 ) 0.3
+Accrued and other liabilities (2.3 ) 1.0 (1.0 ) (3.3 ) 2.0
+Income taxes 10.9 2.1 (2.0 ) 8.8 4.1
+GM Financial dividend 0.6 — — 0.6 —
+Other 0.9 (1.1 ) 0.2 2.0 (1.3 )
+Net automotive cash provided by operating activities $ 13.9 $ 14.5 $ 10.7 $ (0.6 ) $ 3.8
+
+In the year ended December 31, 2017 the decrease in Net automotive cash provided by operating activities was due primarily to unfavorable impacts from: (1) decreased Income (loss) from continuing operations partially offset by the add back of $7.3 billion
+
+ 33
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+as a result of U.S. tax reform legislation and the establishment of a $2.3 billion valuation allowance related to the sale of the Opel/Vauxhall Business; (2) a decrease in Accrued and other liabilities due to increased sales allowance payments; (3) a decrease in Equipment on operating leases due to an increase in units out to daily rental car companies; and (4) a decrease in Working capital due to lower production volumes, partially offset by accelerated cash receipts from GM Financial and other external sources totaling $0.5 billion; partially offset by (5) discretionary contributions of $2.0 billion made to our U.S. hourly pension plan in the year ended December 31, 2016; and (6) an increase in Other due to several insignificant items.
+
+In the year ended December 31, 2016 the increase in Net automotive cash provided by operating activities was due primarily to: (1) an increase in Income taxes due primarily to the reversal of valuation allowances in 2015; (2) an increase in Accrued and other liabilities due primarily to an increase in sales incentives of $1.6 billion; (3) an increase in Working capital due primarily to increased accounts payable due to increased production volumes and decreased inventories due to lower repurchased rental car activity; partially offset by (4) a decrease in Pension and OPEB activities due primarily to discretionary contributions of $2.0 billion made to our U.S. hourly pension plan in the year ended December 31, 2016 and pension income from the refinement to the discount rate methodology for service and interest cost; and (5) a decrease in Other due primarily to foreign exchange and an increase in deposits.
+
+----------------------------------------------------------- ------------------------ ---- -------------------- ---- -------------------- ----- --- - ---- - ---- ---- - - ---- -
+
+ Years Ended December 31, 2017 vs. 2016 Change 2016 vs. 2015 Change
+ 2017 2016 2015
+Investing Activities
+Capital expenditures $ (8.4 ) $ (8.3 ) $ (6.7 ) $ (0.1 ) $ (1.6 )
+Acquisitions and liquidations of marketable securities, net 3.5 (3.7 ) 0.9 7.2 (4.6 )
+Investment in Lyft — (0.5 ) — 0.5 (0.5 )
+Acquisition of Cruise — (0.3 ) — 0.3 (0.3 )
+Other 0.2 0.2 — — 0.2
+Net automotive cash used in investing activities $ (4.7 ) $ (12.6 ) $ (5.8 ) $ 7.9 $ (6.8 )
+
+------------------------------------------------ ------------------------ ---- -------------------- ---- -------------------- ---- ---- - - ---- - ---- ---- - - ---
+
+ Years Ended December 31, 2017 vs. 2016 Change 2016 vs. 2015 Change
+ 2017 2016 2015
+Financing Activities
+Issuance of senior unsecured notes $ 3.0 $ 2.0 $ — $ 1.0 $ 2.0
+Payments to purchase common stock (4.5 ) (2.5 ) (3.5 ) (2.0 ) 1.0
+Dividends paid (2.2 ) (2.3 ) (2.2 ) 0.1 (0.1 )
+Other (0.5 ) (0.3 ) (0.1 ) (0.2 ) (0.2 )
+Net automotive cash used in financing activities $ (4.2 ) $ (3.1 ) $ (5.8 ) $ (1.1 ) $ 2.7
+
+Adjusted Automotive Free Cash Flow (Dollars in Billions)
+
+ 34
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+---------------------------------------------------------------------------- ------------------------ ---- ---- ---- ---- ---- ---- - - ----
+
+ Years Ended December 31,
+ 2017 2016 2015
+Net automotive cash provided by operating activities – continuing operations $ 13.9 $ 14.5 $ 10.7
+Less: capital expenditures – continuing operations (8.4 ) (8.3 ) (6.7 )
+Adjustments
+Discretionary U.S. pension plan contributions — 2.0 —
+U.K. pension plan contribution(a) 0.2 — —
+GM Financial dividend(a) (0.6 ) — —
+Total adjustments (0.4 ) 2.0 —
+Adjusted automotive free cash flow – continuing operations(b) 5.2 8.2 4.0
+Net automotive cash used in operating activities – discontinued operations — (0.1 ) (0.7 )
+Less: capital expenditures – discontinued operations (0.7 ) (1.1 ) (1.0 )
+Adjusted automotive free cash flow(b) $ 4.5 $ 6.9 $ 2.3
+
+__________
+
+--- --------------------------------------------------------------------------------------------
+(a) These cash flows were excluded because they resulted from the sale of the European Business.
+
+--- -----------------------------------
+(b) Amounts do not add due to rounding.
+
+Status of Credit Ratings We receive ratings from four independent credit rating agencies: DBRS Limited, Fitch Ratings (Fitch), Moody's Investor Service (Moody's) and Standard & Poor's (S&P). All four credit rating agencies currently rate our corporate credit at investment grade. The following table summarizes our credit ratings at January 30, 2018:
+
+------------ ---------------- --------------------------- ---------------- -------
+
+ Corporate Revolving Credit Facilities Senior Unsecured Outlook
+DBRS Limited BBB BBB N/A Stable
+Fitch BBB BBB BBB Stable
+Moody's Investment Grade Baa2 Baa3 Stable
+S&P BBB BBB BBB Stable
+
+Rating actions taken by each of the credit rating agencies from January 1, 2017 through January 30, 2018 were as follows: (1) Moody’s upgraded our revolving credit facilities rating to Baa2 from Baa3, and revised their outlook to Stable from Positive in January 2017. Also in January 2017 our senior unsecured bonds were upgraded to Baa3 from Ba1 and remain notched below our revolving credit facilities rating; (2) S&P upgraded our corporate rating, revolving credit facilities rating and senior unsecured rating to BBB from BBB- and revised their outlook to Stable from Positive in January 2017; and (3) Fitch upgraded our corporate rating, revolving credit facilities rating and senior unsecured rating to BBB from BBB– and revised their outlook to Stable from Positive in June 2017.
+
+Automotive Financing – GM Financial Liquidity GM Financial's primary sources of cash are finance charge income, leasing income and proceeds from the sale of terminated leased vehicles, servicing fees, net distributions from secured debt facilities, including securitizations, secured and unsecured borrowings and collections and recoveries on finance receivables. GM Financial's primary uses of cash are purchases of retail finance receivables and leased vehicles, the funding of commercial finance receivables, repayment of secured and unsecured debt, funding credit enhancement requirements in connection with securitizations and secured debt facilities, operating expenses, and interest costs. GM Financial continues to monitor and evaluate opportunities to optimize its liquidity position and the mix of its debt between secured and unsecured debt. In September 2017 GM Financial issued $1.0 billion of Fixed-to-Floating Rate Cumulative Perpetual Preferred Stock, Series A, $0.01 par value, with a liquidation preference of $1,000 per share. The following table summarizes GM Financial's available liquidity (dollars in billions):
+
+--------------------------------------------------------- ----------------- ---- ----------------- --- - ----
+
+ December 31, 2017 December 31, 2016
+Cash and cash equivalents $ 4.3 $ 2.8
+Borrowing capacity on unpledged eligible assets 12.5 8.3
+Borrowing capacity on committed unsecured lines of credit 0.1 0.1
+Available liquidity $ 16.9 $ 11.2
+
+ 35
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+In the year ended December 31, 2017 available liquidity increased due primarily to an increase in cash and additional net borrowing capacity on new and renewed secured credit facilities, resulting from the issuance of securitizations, unsecured debt and preferred stock.
+
+GM Financial has the ability to borrow up to $1.0 billion against our three-year, $4.0 billion revolving credit facility and up to $3.0 billion against our five-year, $10.5 billion revolving credit facility. We have a support agreement with GM Financial which, among other things, establishes commitments of funding from us to GM Financial. This agreement also provides that we will continue to own all of GM Financial’s outstanding voting shares so long as any unsecured debt securities remain outstanding at GM Financial. In addition we are required to use our commercially reasonable efforts to ensure GM Financial remains a subsidiary borrower under our corporate revolving credit facilities.
+
+Credit Facilities In the normal course of business, in addition to using its available cash, GM Financial utilizes borrowings under its credit facilities, which may be secured or unsecured, and GM Financial repays these borrowings as appropriate under its cash management strategy. At December 31, 2017 secured, committed unsecured and uncommitted unsecured credit facilities totaled $26.0 billion, $0.1 billion and $2.4 billion with advances outstanding of $4.7 billion, an insignificant amount and $2.4 billion.
+
+GM Financial Cash Flow (Dollars in Billions)
+
+----------------------------------------- ------------------------ ----- -------------------- -------------------- ----- - - ----- - - ---- - - ---- -
+
+ Years Ended December 31, 2017 vs. 2016 Change 2016 vs. 2015 Change
+ 2017 2016 2015
+Net cash provided by operating activities $ 6.5 $ 4.7 $ 2.7 $ 1.8 $ 2.0
+Net cash used in investing activities $ (21.9 ) $ (23.7 ) $ (21.2 ) $ 1.8 $ (2.5 )
+Net cash provided by financing activities $ 16.1 $ 19.1 $ 17.9 $ (3.0 ) $ 1.2
+
+In the years ended December 31, 2017 and 2016 Net cash provided by operating activities increased due primarily to an increase in net leased vehicle income, partially offset by increased interest expense and operating expenses.
+
+In the year ended December 31, 2017 Net cash used in investing activities decreased due primarily to: (1) increased proceeds from the termination of leased vehicles of $4.1 billion; (2) increased collections and recoveries on retail finance receivables of $3.0 billion; and (3) decreased purchases of leased vehicles of $0.3 billion; partially offset by (4) increased net purchases of retail finance receivables of $5.5 billion.
+
+In the year ended December 31, 2016 Net cash used in investing activities increased due primarily to: (1) increased purchases of leased vehicles of $4.4 billion; and (2) increased purchases and funding of finance receivables of $1.9 billion; partially offset by (3) increased proceeds from the termination of leased vehicles of $1.5 billion; (4) increased collections on finance receivables of $1.4 billion; and (5) prior year impact of cash used for the acquisition of the equity interest in SAIC-GMAC of $0.9 billion.
+
+In the year ended December 31, 2017 Net cash provided by financing activities decreased due primarily to an increase in repayments of $12.4 billion and a special dividend payment to GM of $0.6 billion, partially offset by an increase in borrowings of $9.0 billion and the issuance of preferred stock of $1.0 billion.
+
+In the year ended December 31, 2016 Net cash provided by financing activities increased due primarily to a net increase in borrowings.
+
+Off-Balance Sheet Arrangements We do not currently utilize off-balance sheet securitization arrangements. All trade or finance receivables and related obligations subject to securitization programs are recorded on our consolidated balance sheets at December 31, 2017 and 2016. Refer to Note 17 of our consolidated financial statements for detailed information related to guarantees we have provided and for our noncancelable operating lease obligations.
+
+Contractual Obligations and Other Long-Term Liabilities We have minimum commitments under contractual obligations, including purchase obligations. A purchase obligation is defined as an agreement to purchase goods or services that is enforceable and legally binding on us and that specifies all significant terms, including fixed or minimum quantities to be purchased or fixed minimum price provisions and the approximate timing of the transaction. Based on these definitions, the following table includes only those contracts which include fixed or minimum obligations. The majority of our purchases are not included in the table as they are made under purchase orders which are requirements based and accordingly do not specify minimum quantities. The
+
+ 36
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+following table summarizes aggregated information about our outstanding contractual obligations and other long-term liabilities at December 31, 2017:
+
+----------------------------------------- ---------------------- ------ --------- ------ --------- ------ -------------- ----- ------ ------ ------ - -------
+
+ Payments Due by Period
+ 2018 2019-2020 2021-2022 2023 and after Total
+Automotive debt $ 2,252 $ 553 $ 54 $ 10,423 $ 13,282
+Automotive Financing debt 24,502 33,185 13,125 10,477 81,289
+Capital lease obligations 276 187 68 188 719
+Automotive interest payments(a) 693 1,209 1,147 8,452 11,501
+Automotive Financing interest payments(b) 2,373 2,802 1,319 1,144 7,638
+Postretirement benefits(c) 243 268 3 — 514
+Operating lease obligations, net 222 377 231 206 1,036
+Other contractual commitments:
+Material 1,090 522 147 144 1,903
+Marketing 840 441 54 31 1,366
+Rental car repurchases 2,113 — — — 2,113
+Other 1,056 612 100 246 2,014
+Total contractual commitments(d) $ 35,660 $ 40,156 $ 16,248 $ 31,311 $ 123,375
+
+Non-contractual benefits(e) $ 269 $ 648 $ 858 $ 9,696 $ 11,471
+
+__________
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) Amounts include automotive interest payments based on contractual terms and current interest rates on our debt and capital lease obligations. Automotive interest payments based on variable interest rates were determined using the interest rate in effect at December 31, 2017.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) GM Financial interest payments were determined using the interest rate in effect at December 31, 2017 for floating rate debt and the contractual rates for fixed rate debt. GM Financial interest payments on floating rate tranches of the securitization notes payable were converted to a fixed rate based on the floating rate plus any expected hedge payments.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(c) Amounts include OPEB payments under the current U.S. contractual labor agreements through 2019 and Canada labor agreements through 2021. These agreements are generally renegotiated in the year of expiration. Amounts do not include pension funding obligations, which are discussed in Note 16 to our consolidated financial statements.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(d) Amounts do not include future cash payments for long-term purchase obligations and other accrued expenditures (unless specifically listed in the table above) which were recorded in Accounts payable or Accrued liabilities at December 31, 2017.
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(e) Amounts include all expected future payments for both current and expected future service at December 31, 2017 for OPEB obligations for salaried and hourly employees extending beyond the current North American union contract agreements, workers' compensation and extended disability benefits. Amounts do not include pension funding obligations, which are discussed in Note 16 to our consolidated financial statements.
+
+The table above does not reflect product warranty and related liabilities, certified pre-owned extended warranty and free maintenance of $9.1 billion and unrecognized tax benefits of $1.6 billion due to the uncertainty regarding the future cash outflows potentially associated with these amounts.
+
+Critical Accounting Estimates Accounting estimates are an integral part of the consolidated financial statements. These estimates require the use of judgments and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses in the periods presented. We believe the accounting estimates employed are appropriate and the resulting balances are reasonable; however, due to the inherent uncertainties in developing estimates actual results could differ from the original estimates, requiring adjustments to these balances in future periods. Refer to Note 2 to our consolidated financial statements for our significant accounting policies related to our critical accounting estimates.
+
+Pension and OPEB Plans Our defined benefit pension plans are accounted for on an actuarial basis, which requires the selection of various assumptions, including an expected long-term rate of return on plan assets, a discount rate, mortality rates of participants and expectation of mortality improvement. The expected long-term rate of return on U.S. plan assets that is utilized in determining pension expense is derived from periodic studies, which include a review of asset allocation strategies, anticipated future long-term performance of individual asset classes, risks using standard deviations and correlations of returns among the asset classes that comprise the plans' asset mix. While the studies give appropriate consideration to recent plan performance and historical returns, the assumptions are primarily long-term, prospective rates of return.
+
+ 37
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+In December 2017 an investment policy study was completed for the U.S. pension plans. As a result of changes to our capital market assumptions, primarily those related to the fixed income asset class, the weighted-average long-term rate of return on assets increased from 6.2% at December 31, 2016 to 6.6% at December 31, 2017. The assumption change related to the fixed income asset class is expected to increase the return on assets by $0.3 billion in 2018. The expected long-term rate of return on plan assets used in determining pension expense for non-U.S. plans is determined in a similar manner to the U.S. plans.
+
+Another key assumption in determining net pension and OPEB expense is the assumed discount rate used to discount plan obligations. We estimate the assumed discount rate for U.S. plans using a cash flow matching approach, which uses projected cash flows matched to spot rates along a high quality corporate bond yield curve to determine the weighted-average discount rate for the calculation of the present value of cash flows. We apply the individual annual yield curve rates instead of the assumed discount rate to determine the service cost and interest cost, which more specifically links the cash flows related to service cost and interest cost to bonds maturing in their year of payment.
+
+We have reviewed the mortality improvement tables published by the Society of Actuaries in the three months ended December 31, 2017 and determined that our current assumptions are appropriate to measure our December 31, 2017 U.S. pension plan obligations.
+
+Significant differences in actual experience or significant changes in assumptions may materially affect the pension obligations. The effects of actual results differing from assumptions and the changing of assumptions are included in unamortized net actuarial gains and losses that are subject to amortization to pension expense over future periods. The unamortized pre-tax actuarial loss on our pension plans was $4.0 billion and $3.8 billion at December 31, 2017 and 2016. The year-over-year change is primarily due to the decrease in discount rates partially offset by assumption changes and the increase in actual return on assets. At December 31, 2017 $2.4 billion of the unamortized pre-tax actuarial loss is outside the corridor (10% of the projected benefit obligation (PBO)) and subject to amortization. The weighted-average amortization period is approximately fifteen years resulting in amortization expense of $0.2 billion in 2018.
+
+The underfunded status of the U.S. pension plans decreased by $1.4 billion in the year ended December 31, 2017 to $5.8 billion due primarily to: (1) a favorable effect of actual returns on plan assets of $6.5 billion; (2) other favorable changes including contributions, demographic gains and assumption changes of $0.4 billion; partially offset by (3) an unfavorable effect due to a decrease in the discount rate of $3.2 billion; and (4) service and interest cost of $2.3 billion.
+
+The following table illustrates the sensitivity to a change in certain assumptions for the pension plans, holding all other assumptions constant:
+
+------------------------------------------------------------ ------------------------------ ------------------------------- ------------------------------ -------------------------------
+
+ U.S. Plans(a) Non-U.S. Plans(a)
+ Effect on 2018 Pension Expense Effect on December 31, 2017 PBO Effect on 2018 Pension Expense Effect on December 31, 2017 PBO
+25 basis point decrease in discount rate -$100 +$1,780 +$17 +$688
+25 basis point increase in discount rate +$90 -$1,700 -$12 -$652
+25 basis point decrease in expected rate of return on assets +$150 N/A +$35 N/A
+25 basis point increase in expected rate of return on assets -$150 N/A -$35 N/A
+
+__________
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------
+(a) The sensitivity does not include the effects of the individual annual yield curve rates applied for the calculation of the service and interest cost.
+
+Refer to Note 16 to our consolidated financial statements for additional information on pension contributions, investment strategies, assumptions, the change in benefit obligations and related plan assets, pension funding requirements and future net benefit payments. Refer to Note 2 to our consolidated financial statements for a discussion of the inputs used to determine fair value for each significant asset class or category.
+
+Valuation of Deferred Tax Assets The ability to realize deferred tax assets depends on the ability to generate sufficient taxable income within the carryback or carryforward periods provided for in the tax law for each applicable tax jurisdiction. The assessment regarding whether a valuation allowance is required or should be adjusted is based on an evaluation of possible sources of taxable income and also considers all available positive and negative evidence factors. Our accounting for the valuation of deferred tax assets represents our best estimate of future events. Changes in our current estimates, due to unanticipated market conditions, governmental legislative actions or events, could have a material effect on our ability to utilize deferred tax assets.
+
+ 38
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+At December 31, 2017 total deferred tax assets were $30.7 billion and valuation allowances against those deferred tax assets were $6.7 billion. Refer to Note 18 to our consolidated financial statements for additional information on the composition of these valuation allowances and for information on the impact of U.S. tax reform legislation.
+
+Valuation of GM Financial Equipment on Operating Leases Assets and Residuals GM Financial has investments in leased vehicles recorded as operating leases, which relate to vehicle leases to retail customers with lease terms which typically range from two to five years. At the beginning of the lease an estimate is made of the expected residual value at the end of the lease term. The expected residual value is based on third-party data which considers inputs including recent auction values, the expected future volume of returning leased vehicles, used car prices, manufacturer incentive programs and fuel prices. The customer is obligated to make payments during the term of the lease for the difference between the purchase price and the contract residual value plus a money factor. Since the customer is not obligated to purchase the vehicle at the end of the contract, we are exposed to a risk of loss to the extent the customer returns the vehicle at the end of the lease term and the value of the vehicle is below the expected residual value estimated at the inception of the lease.
+
+The following table summarizes vehicles included in GM Financial equipment on operating leases, net (vehicles in thousands):
+
+---------- ----------------- ----------------- -----
+
+ December 31, 2017 December 31, 2016
+Cars 450 420
+Trucks 285 224
+Crossovers 818 604
+SUVs 99 75
+Total 1,652 1,323
+
+At December 31, 2017 the estimated residual value of our leased assets at the end of the lease term was $30.4 billion. We periodically review the adequacy of the depreciation rates. If we believe that the expected residual values of the leased assets have changed, we revise the depreciation rate to ensure the net investment in the operating leases reflects the revised estimate of expected residual value at the end of the lease term. Such adjustments to the depreciation rate would result in a change in depreciation expense on leased assets which is recorded prospectively on a straight-line basis. The following table illustrates the effect of a 1% change in the estimated residual values at December 31, 2017, which would increase or decrease depreciation expense over the remaining term of our operating lease portfolio, holding all other assumptions constant:
+
+---------- ------------------------------ ---
+
+ Impact to Depreciation Expense
+Cars $ 57
+Trucks 72
+Crossovers 137
+SUVs 38
+Total $ 304
+
+We also evaluate the carrying value of the operating leases aggregated by vehicle make, year and model into leased asset groups, check for indicators of impairment and test for impairment to the extent necessary in accordance with applicable accounting standards. A leased asset group is considered impaired if impairment indicators exist and the undiscounted expected future cash flows (including the expected residual value) are lower than the carrying value of the asset group. We believe no impairment indicators existed during 2017, 2016 or 2015.
+
+Product Warranty and Recall Campaigns The estimates related to product warranties are established using historical information on the nature, frequency and average cost of claims of each vehicle line or each model year of the vehicle line and assumptions about future activity and events. When little or no claims experience exists for a model year or a vehicle line, the estimate is based on comparable models.
+
+In GMNA we primarily accrue the costs for recall campaigns at the time of vehicle sale. In the other regions, there is not sufficient historical data to support the application of an actuarial-based estimation technique and the estimated costs are accrued at the time when they are probable and reasonably estimable, which typically occurs once it is determined a specific recall campaign is needed and announced.
+
+ 39
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+The estimates related to recall campaigns accrued at the time of vehicle sale are established by applying a frequency times severity approach that considers the number of recall campaigns, the number of vehicles per recall campaign, the assumed number of vehicles that will be brought in by customers for repair (take rate) and the cost per vehicle for each recall campaign. These estimates consider the nature, frequency and magnitude of historical recall campaigns. Costs associated with recall campaigns not accrued at the time of vehicle sale are estimated based on the estimated cost of repairs and the estimated vehicles to be repaired. Depending on part availability and time to complete repairs we may, from time to time, offer courtesy transportation at no cost to our customers. These estimates are re-evaluated on an ongoing basis and based on the best available information. Revisions are made when necessary based on changes in these factors.
+
+The estimated amount accrued for recall campaigns at the time of vehicle sale is most sensitive to the estimated number of recall events, the number of vehicles per recall event, the take rate, and the cost per vehicle for each recall event. The estimated cost of a recall campaign that is accrued on an individual basis is most sensitive to our estimated assumed take rate that is primarily developed based on our historical take rate experience. A 10% increase in the estimated take rate for all recall campaigns would increase the estimated cost by approximately $0.3 billion.
+
+Actual experience could differ from the amounts estimated requiring adjustments to these liabilities in future periods. Due to the uncertainty and potential volatility of the factors contributing to developing estimates, changes in our assumptions could materially affect our results of operations.
+
+Sales Incentives The estimated effect of sales incentives offered to dealers and end customers is recorded as a reduction of Automotive net sales and revenue at the later of the time of sale or announcement of an incentive program to dealers. There may be numerous types of incentives available at any particular time, including a choice of incentives for a specific model. Incentive programs are generally brand specific, model specific or sales region specific and are for specified time periods, which may be extended. Significant factors used in estimating the cost of incentives include the volume of vehicles that will be affected by the incentive programs offered by product, the product mix, the rate of customer acceptance of any incentive program and the likelihood that an incentive program will be extended, all of which are estimated based on historical experience and assumptions concerning customer behavior and future market conditions. When an incentive program is announced, the number of vehicles in dealer inventory eligible for the incentive program is determined and a reduction of Automotive net sales and revenue is recorded in the period in which the program is announced. If the actual number of affected vehicles differs from this estimate, or if a different mix of incentives is actually paid, the reduction in Automotive net sales and revenue due to incentives could be affected. There are a multitude of inputs affecting the calculation of the estimate for sales incentives and an increase or decrease in any of these variables could have a significant effect on recorded sales incentives. On January 1, 2018, the date of our adoption of Accounting Standards Update (ASU) 2014-09, "Revenue from Contracts with Customers" (ASU 2014-09), sales incentives began to be recorded at the time of sale rather than at the later of sale or announcement. This change affected our processes for estimating and recording sales incentives. Refer to Note 2 to our consolidated financial statements for additional information on the adoption ASU 2014-09.
+
+Forward-Looking Statements In this 2017 Form 10-K and in reports we subsequently file and have previously filed with the SEC on Forms 10-K and 10-Q and file or furnish on Form 8-K, and in related comments by our management, we use words like “anticipate,” “appears,” “approximately,” “believe,” “continue,” “could,” “designed,” “effect,” “estimate,” “evaluate,” “expect,” “forecast,” “goal,” “initiative,” “intend,” “may,” “objective,” “outlook,” “plan,” “potential,” “priorities,” “project,” “pursue,” “seek,” “should,” “target,” “when,” “will,” “would,” or the negative of any of those words or similar expressions to identify forward-looking statements that represent our current judgment about possible future events. In making these statements we rely on assumptions and analysis based on our experience and perception of historical trends, current conditions and expected future developments as well as other factors we consider appropriate under the circumstances. We believe these judgments are reasonable, but these statements are not guarantees of any events or financial results, and our actual results may differ materially due to a variety of important factors, both positive and negative. These factors, which may be revised or supplemented in subsequent reports on SEC Forms 10-Q and 8-K, include among others the following: (1) our ability to deliver new products, services and customer experiences in response to new participants in the automotive industry; (2) our ability to timely fund and introduce new and improved vehicle models that are able to attract a sufficient number of consumers; (3) the success of our crossovers, SUVs and full-size pick-up trucks; (4) our ability to reduce the costs associated with the manufacture and sale of electric vehicles; (5) global automobile market sales volume, which can be volatile; (6) our significant business in China which subjects us to unique operational, competitive and regulatory risks; (7) our joint ventures, which we cannot operate solely for our benefit and over which we may have limited control; (8) the international scale and footprint of our operations which exposes us to a variety of political, economic and regulatory risks, including the risk of changes in government leadership and laws (including tax laws), economic tensions between governments and changes in international trade policies, new barriers to entry and changes to or withdrawals from free trade agreements, changes in foreign exchange rates, economic downturns in foreign countries, differing local product preferences and product requirements, compliance with U.S. and foreign countries' export controls and economic sanctions, differing labor
+
+ 40
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+regulations and difficulties in obtaining financing in foreign countries; (9) any significant disruption at one of our manufacturing facilities could disrupt our production schedule; (10) the ability of our suppliers to deliver parts, systems and components without disruption and at such times to allow us to meet production schedules; (11) prices of raw materials used by us and our suppliers; (12) our highly competitive industry, which is characterized by excess manufacturing capacity and the use of incentives and the introduction of new and improved vehicle models by our competitors; (13) the possibility that competitors may independently develop products and services similar to ours and there are no guarantees that our intellectual property rights would prevent competitors from independently developing or selling those products or services; (14) our ability to manage risks related to security breaches and other disruptions to our vehicles, information technology networks and systems; (15) our ability to comply with extensive laws and regulations applicable to our industry, including those regarding fuel economy and emissions; (16) costs and risks associated with litigation and government investigations; (17) our ability to comply with the terms of the DPA; (18) the cost and effect on our reputation of product safety recalls and alleged defects in products and services; (19) our ability to successfully and cost-effectively restructure our operations in various countries with minimal disruption; (20) our ability to realize production efficiencies and to achieve reductions in costs; (21) our continued ability to develop captive financing capability through GM Financial; and (22) significant increases in our pension expense or projected pension contributions resulting from changes in the value of plan assets or the discount rate applied to value the pension liabilities or mortality or other assumption changes. A further list and description of these risks, uncertainties and other factors can be found in this 2017 Form 10-K and our subsequent filings with the SEC.
+
+We caution readers not to place undue reliance on forward-looking statements. We undertake no obligation to update publicly or otherwise revise any forward-looking statements, whether as a result of new information, future events or other factors that affect the subject of these statements, except where we are expressly required to do so by law.
+
+*  *  *  *  *  *  *
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[Refer to Note 19]:
+Note 19. Restructuring and Other Initiatives 79
+
+[Refer to Note 17]:
+NOTE 17. INDUSTRY SEGMENT, GEOGRAPHIC INFORMATION AND SIGNIFICANT CUSTOMERS We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our CEO, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. For fiscal 2017, we have the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ * Digital Media--Our Digital Media segment provides tools and solutions that enable individuals, small and medium businesses and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include traditional content creators, web application developers and digital media professionals, as well as their management in marketing departments and agencies, companies and publishers. Our customers also include knowledge workers who create, collaborate and distribute documents. - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------...
+
+[Refer to Note 3]:
+(3) This reflects the impact of extending the useful lives of equipment acquired in the RSC, NES and Neff acquisitions, net of the impact of additional depreciation associated with the fair value mark-up of such equipment. --- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES and Neff acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 5 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, (benefit) provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our opera...
+
+[Refer to Note 17]:
+NOTE 17. INDUSTRY SEGMENT, GEOGRAPHIC INFORMATION AND SIGNIFICANT CUSTOMERS We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our CEO, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. For fiscal 2017, we have the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ * Digital Media--Our Digital Media segment provides tools and solutions that enable individuals, small and medium businesses and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include traditional content creators, web application developers and digital media professionals, as well as their management in marketing departments and agencies, companies and publishers. Our customers also include knowledge workers who create, collaborate and distribute documents. - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------...
+
+[Refer to Note 18]:
+Note 18. Income Taxes 76
+
+[Refer to Note 14]:
+NOTE 14. COMMITMENTS AND CONTINGENCIES Lease Commitments We lease certain of our facilities and some of our equipment under non-cancellable operating lease arrangements that expire at various dates through 2031. We also have one land lease that expires in 2091. Rent expense includes base contractual rent and variable costs such as building expenses, utilities, taxes, insurance and equipment rental. Rent expense for these leases was approximately $115.4 million in fiscal 2017 and $92.9 million in both fiscal 2016 and 2015. Our sublease income was immaterial for all periods presented. We occupy three office buildings in San Jose, California where our corporate headquarters are located. We reference these office buildings as the Almaden, East and West Towers. In March 2017, we exercised our option to purchase the Almaden Tower for a total purchase price of $103.6 million. Upon purchase, our investment in the lease receivable of $80.4 million was credited against the total purchase price. We capitalized the Almaden Tower as property and equipment on our Consolidated Balance Sheets at $104.2 million, the lesser of cost or fair value, which represented the total purchase price plus other direct costs associated with the purchase. As of December 1, 2017, we own the buildings and the underlying land that make up our corporate headquarters in San Jose, California, including the Almaden Tower. Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. 90  ADOBE SYSTEMS INCORPORATED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) The following table summarizes our non-cancellable unconditional purchase obligations and operating leases for each of the next five years and thereafter as of December 1, 2017 (in thousands): ----------- ------- -------------------- -------------------------- - --------------------------- ----- - ------ Operating Leases Fiscal Year Purchase O...
+
+[Refer to Note 14]:
+NOTE 14. COMMITMENTS AND CONTINGENCIES Lease Commitments We lease certain of our facilities and some of our equipment under non-cancellable operating lease arrangements that expire at various dates through 2031. We also have one land lease that expires in 2091. Rent expense includes base contractual rent and variable costs such as building expenses, utilities, taxes, insurance and equipment rental. Rent expense for these leases was approximately $115.4 million in fiscal 2017 and $92.9 million in both fiscal 2016 and 2015. Our sublease income was immaterial for all periods presented. We occupy three office buildings in San Jose, California where our corporate headquarters are located. We reference these office buildings as the Almaden, East and West Towers. In March 2017, we exercised our option to purchase the Almaden Tower for a total purchase price of $103.6 million. Upon purchase, our investment in the lease receivable of $80.4 million was credited against the total purchase price. We capitalized the Almaden Tower as property and equipment on our Consolidated Balance Sheets at $104.2 million, the lesser of cost or fair value, which represented the total purchase price plus other direct costs associated with the purchase. As of December 1, 2017, we own the buildings and the underlying land that make up our corporate headquarters in San Jose, California, including the Almaden Tower. Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. 90  ADOBE SYSTEMS INCORPORATED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) The following table summarizes our non-cancellable unconditional purchase obligations and operating leases for each of the next five years and thereafter as of December 1, 2017 (in thousands): ----------- ------- -------------------- -------------------------- - --------------------------- ----- - ------ Operating Leases Fiscal Year Purchase O...
+
+[Refer to Note 17]:
+NOTE 17. INDUSTRY SEGMENT, GEOGRAPHIC INFORMATION AND SIGNIFICANT CUSTOMERS We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our CEO, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. For fiscal 2017, we have the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ * Digital Media--Our Digital Media segment provides tools and solutions that enable individuals, small and medium businesses and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include traditional content creators, web application developers and digital media professionals, as well as their management in marketing departments and agencies, companies and publishers. Our customers also include knowledge workers who create, collaborate and distribute documents. - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------...
+
+[Refer to Note 2]:
+NOTE 2. ACQUISITIONS TubeMogul On December 19, 2016, we completed our acquisition of TubeMogul, a publicly held video advertising platform company. As of the end of fiscal 2017, we are continuing to integrate TubeMogul into our Digital Marketing reportable segment. Under the acquisition method of accounting, the total final purchase price was allocated to TubeMogul's net tangible and intangible assets based upon their estimated fair values as of December 19, 2016. During fiscal 2017, we recorded immaterial purchase accounting adjustments based on changes to management's estimates and assumptions in regards to tangible assets, liabilities assumed, and their related impact to goodwill. The total final purchase price for TubeMogul was $560.8 million of which $348.4 million was allocated to goodwill that was non-deductible for tax purposes, $113.1 million to identifiable intangible assets and $99.3 million to net assets acquired. Fotolia On January 27, 2015, we completed our acquisition of privately held Fotolia, a leading marketplace for royalty-free photos, images, graphics and HD videos. During fiscal 2015, we integrated Fotolia into our Digital Media reportable segment. Under the acquisition method of accounting, the total final purchase price was allocated to Fotolia's net tangible and intangible assets based upon their estimated fair values as of January 27, 2015. During fiscal 2015, we recorded immaterial purchase accounting adjustments based on changes to management's estimates and assumptions in regards to assumed intangible assets, calculation of deferred tax assets, liabilities and equity awards. The total final purchase price for Fotolia was $807.5 million of which $745.1 million was allocated to goodwill that was non-deductible for tax purposes, $204.4 million to identifiable intangible assets and $142.0 million to net liabilities assumed. We also completed other immaterial business acquisitions during the fiscal years presented. Pro forma information has n...
+
+[Refer to Note 16]:
+Note 16. Pensions and Other Postretirement Benefits 70
+
+[Refer to Note 2]:
+NOTE 2. ACQUISITIONS TubeMogul On December 19, 2016, we completed our acquisition of TubeMogul, a publicly held video advertising platform company. As of the end of fiscal 2017, we are continuing to integrate TubeMogul into our Digital Marketing reportable segment. Under the acquisition method of accounting, the total final purchase price was allocated to TubeMogul's net tangible and intangible assets based upon their estimated fair values as of December 19, 2016. During fiscal 2017, we recorded immaterial purchase accounting adjustments based on changes to management's estimates and assumptions in regards to tangible assets, liabilities assumed, and their related impact to goodwill. The total final purchase price for TubeMogul was $560.8 million of which $348.4 million was allocated to goodwill that was non-deductible for tax purposes, $113.1 million to identifiable intangible assets and $99.3 million to net assets acquired. Fotolia On January 27, 2015, we completed our acquisition of privately held Fotolia, a leading marketplace for royalty-free photos, images, graphics and HD videos. During fiscal 2015, we integrated Fotolia into our Digital Media reportable segment. Under the acquisition method of accounting, the total final purchase price was allocated to Fotolia's net tangible and intangible assets based upon their estimated fair values as of January 27, 2015. During fiscal 2015, we recorded immaterial purchase accounting adjustments based on changes to management's estimates and assumptions in regards to assumed intangible assets, calculation of deferred tax assets, liabilities and equity awards. The total final purchase price for Fotolia was $807.5 million of which $745.1 million was allocated to goodwill that was non-deductible for tax purposes, $204.4 million to identifiable intangible assets and $142.0 million to net liabilities assumed. We also completed other immaterial business acquisitions during the fiscal years presented. Pro forma information has n...
+
+[Refer to Note 18]:
+Note 18. Income Taxes 76
+
+[Refer to Note 2]:
+NOTE 2. ACQUISITIONS TubeMogul On December 19, 2016, we completed our acquisition of TubeMogul, a publicly held video advertising platform company. As of the end of fiscal 2017, we are continuing to integrate TubeMogul into our Digital Marketing reportable segment. Under the acquisition method of accounting, the total final purchase price was allocated to TubeMogul's net tangible and intangible assets based upon their estimated fair values as of December 19, 2016. During fiscal 2017, we recorded immaterial purchase accounting adjustments based on changes to management's estimates and assumptions in regards to tangible assets, liabilities assumed, and their related impact to goodwill. The total final purchase price for TubeMogul was $560.8 million of which $348.4 million was allocated to goodwill that was non-deductible for tax purposes, $113.1 million to identifiable intangible assets and $99.3 million to net assets acquired. Fotolia On January 27, 2015, we completed our acquisition of privately held Fotolia, a leading marketplace for royalty-free photos, images, graphics and HD videos. During fiscal 2015, we integrated Fotolia into our Digital Media reportable segment. Under the acquisition method of accounting, the total final purchase price was allocated to Fotolia's net tangible and intangible assets based upon their estimated fair values as of January 27, 2015. During fiscal 2015, we recorded immaterial purchase accounting adjustments based on changes to management's estimates and assumptions in regards to assumed intangible assets, calculation of deferred tax assets, liabilities and equity awards. The total final purchase price for Fotolia was $807.5 million of which $745.1 million was allocated to goodwill that was non-deductible for tax purposes, $204.4 million to identifiable intangible assets and $142.0 million to net liabilities assumed. We also completed other immaterial business acquisitions during the fiscal years presented. Pro forma information has n...
+
+[" section of this MD&A and Item 1A. "]:
+Item 1A. Risk Factors 18
+
+[" for a discussion of these risks and uncertainties.
+
+ 18
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Non-GAAP Measures Unless otherwise indicated, our non-GAAP measures discussed in this MD&A are related to our continuing operations and not our discontinued operations or our assets and liabilities held for sale. Our non-GAAP measures include earnings before interest and taxes (EBIT)-adjusted, presented net of noncontrolling interests, earnings per share (EPS)-diluted-adjusted, effective tax rate-adjusted (ETR-adjusted), return on invested capital-adjusted (ROIC-adjusted) and adjusted automotive free cash flow. Our calculation of these non-GAAP measures may not be comparable to similarly titled measures of other companies due to potential differences between companies in the method of calculation. As a result, the use of these non-GAAP measures has limitations and should not be considered superior to, in isolation from, or as a substitute for, related U.S. GAAP measures.
+
+These non-GAAP measures allow management and investors to view operating trends, perform analytical comparisons and benchmark performance between periods and among geographic regions to understand operating performance without regard to items we do not consider a component of our core operating performance. Furthermore, these non-GAAP measures allow investors the opportunity to measure and monitor our performance against our externally communicated targets and evaluate the investment decisions being made by management to improve ROIC-adjusted. Management uses these measures in its financial, investment and operational decision-making processes, for internal reporting and as part of its forecasting and budgeting processes. Further, our Board of Directors uses certain of these and other measures as key metrics to determine management performance under our performance-based compensation plans. For these reasons we believe these non-GAAP measures are useful for our investors.
+
+EBIT-adjusted EBIT-adjusted is presented net of noncontrolling interests and is used by management and can be used by investors to review our consolidated operating results because it excludes automotive interest income, automotive interest expense and income taxes as well as certain additional adjustments that are not considered part of our core operations. Examples of adjustments to EBIT include but are not limited to impairment charges related to goodwill; impairment charges on long-lived assets and other exit costs resulting from strategic shifts in our operations or discrete market and business conditions; costs arising from the ignition switch recall and related legal matters; and certain currency devaluations associated with hyperinflationary economies. For EBIT-adjusted and our other non-GAAP measures, once we have made an adjustment in the current period for an item, we will also adjust the related non-GAAP measure in any future periods in which there is an impact from the item.
+
+Core EBIT-adjusted Beginning in 2018, we intend to report a Core EBIT-adjusted metric. Core EBIT-adjusted will be used by management and can be used by investors to review our core consolidated operating results. Core EBIT-adjusted begins with EBIT-adjusted and excludes the EBIT-adjusted results of our autonomous vehicle operations, including Cruise Automation Inc. (Cruise), Maven and our investment in Lyft.
+
+EPS-diluted-adjusted EPS-diluted-adjusted is used by management and can be used by investors to review our consolidated diluted EPS results on a consistent basis. EPS-diluted-adjusted is calculated as net income attributable to common stockholders-diluted less income (loss) from discontinued operations on an after-tax basis, adjustments noted above for EBIT-adjusted, gains or losses on the extinguishment of debt obligations on an after-tax basis and certain income tax adjustments divided by weighted-average common shares outstanding-diluted. Examples of income tax adjustments include the establishment or reversal of significant deferred tax asset valuation allowances.
+
+ETR-adjusted ETR-adjusted is used by management and can be used by investors to review the consolidated effective tax rate for our core operations on a consistent basis. ETR-adjusted is calculated as Income tax expense less the income tax related to the adjustments noted above for EBIT-adjusted and the income tax adjustments noted above for EPS-diluted-adjusted divided by Income before income taxes less adjustments.
+
+ROIC-adjusted ROIC-adjusted is used by management and can be used by investors to review our investment and capital allocation decisions. We define ROIC-adjusted as EBIT-adjusted for the trailing four quarters divided by ROIC-adjusted average net assets, which is considered to be the average equity balances adjusted for average automotive debt and interest liabilities, exclusive of capital leases; average automotive net pension and other postretirement benefits (OPEB) liabilities; and average automotive net income tax assets during the same period. Adjustments to the average equity balances exclude assets and liabilities classified as either assets held for sale or liabilities held for sale.
+
+Adjusted automotive free cash flow Adjusted automotive free cash flow is used by management and can be used by investors to review the liquidity of our automotive operations and to measure and monitor our performance against our capital allocation program and evaluate our automotive liquidity against the substantial cash requirements of our automotive operations. We measure adjusted automotive free cash flow as automotive operating cash flow from continuing operations less capital expenditures adjusted for management actions, primarily related to strengthening our balance sheet, such as prepayments of debt and discretionary
+
+ 19
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+contributions to employee benefit plans. Refer to the “Liquidity and Capital Resources” section of this MD&A for our reconciliation of Net automotive cash provided by operating activities under U.S. GAAP to this non-GAAP measure.
+
+Core adjusted automotive free cash flow Beginning in 2018, we intend to report a Core adjusted automotive free cash flow metric. Core adjusted automotive free cash flow will be used by management and can be used by investors to review the liquidity of our automotive operations and to measure and monitor our performance against our capital allocation program and evaluate our automotive liquidity against the substantial cash requirements of our automotive operations. Core adjusted automotive free cash flow begins with adjusted automotive free cash flow and excludes the cash flows of our autonomous vehicle operations, including Cruise, Maven and our investment in Lyft.
+
+The following table reconciles Net income (loss) attributable to stockholders under U.S. GAAP to EBIT-adjusted:
+
+------------------------------------------------------ ------------------------ ------ ---- ----- ---- ------ ------ - - ------
+
+ Years Ended December 31,
+ 2017 2016 2015
+Net income (loss) attributable to stockholders $ (3,864 ) $ 9,427 $ 9,687
+(Income) loss from discontinued operations, net of tax 4,212 1 (25 )
+Income tax expense (benefit) 11,533 2,739 (1,219 )
+Gain on extinguishment of debt — — (449 )
+Automotive interest expense 575 563 423
+Automotive interest income (266 ) (182 ) (167 )
+Adjustments
+GMI restructuring(a) 460 — 297
+Venezuela-related matters(b) 80 — 720
+Ignition switch recall and related legal matters(c) 114 300 1,785
+Russia exit costs(d) — — 438
+Other — — (41 )
+Total adjustments 654 300 3,199
+EBIT-adjusted $ 12,844 $ 12,848 $ 11,449
+
+________
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) This adjustment was excluded because of a strategic decision to rationalize our core operations by exiting or significantly reducing our presence in various international markets to focus resources on opportunities expected to deliver higher returns. The adjustment primarily consists of asset impairments, sales incentives, inventory provisions, dealer restructuring, employee separations and other contract cancellation costs in India, South Africa, and Thailand.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) In the year ended December 31, 2017 this adjustment was excluded because we ceased operations and terminated employment relationships in Venezuela. In the year ended December 31, 2015 this adjustment was excluded because of the devaluation of the Venezuela Bolivar Fuerte (BsF) and our inability to transact to obtain U.S. Dollars.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(c) These adjustments were excluded because of the unique events associated with the ignition switch recall. These events included the creation of the Compensation Program, as well as various investigations, inquiries and complaints from constituents.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(d) These adjustments were excluded because of our decision to exit the Russia market in 2015. The Russia exit costs primarily consisted of sales incentives, dealer restructuring and other contract cancellation costs and asset impairments.
+
+The following table reconciles diluted earnings (loss) per common share under U.S. GAAP to EPS-diluted-adjusted:
+
+ 20
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+------------------------------------------------------------------ ------------------------ ------ --------- ----- ------ ----- --------- - ------ ----- --------- ------ ---- ----- - ----- - ----
+
+ Years Ended December 31,
+ 2017 2016 2015
+ Amount Per Share Amount Per Share Amount Per Share
+Diluted earnings (loss) per common share $ (3,880 ) $ (2.60 ) $ 9,427 $ 6.00 $ 9,686 $ 5.91
+Diluted (earnings) loss per common share – discontinued operations 4,212 2.82 1 — (25 ) (0.02 )
+Adjustments
+Gain on extinguishment of debt — — — — (449 ) (0.27 )
+All other adjustments(a) 654 0.44 300 0.19 3,199 1.95
+Total adjustments 654 0.44 300 0.19 2,750 1.68
+Tax effect on adjustments(b) (208 ) (0.14 ) (114 ) (0.07 ) (201 ) (0.13 )
+Tax adjustments(c) 9,099 6.10 — — (4,001 ) (2.44 )
+EPS-diluted-adjusted $ 9,877 $ 6.62 $ 9,614 $ 6.12 $ 8,209 $ 5.00
+
+________
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) Refer to the reconciliation of Net income (loss) attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of MD&A for adjustment details.
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) The tax effect of each adjustment is determined based on the tax laws and valuation allowance status of the jurisdiction to which the adjustment relates.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(c) In the year ended December 31, 2017 these adjustments consist of the tax expense of $7.3 billion related to U.S. tax reform legislation and the establishment of a valuation allowance against deferred tax assets of $2.3 billion that will no longer be realizable as a result of the sale of the Opel/Vauxhall Business, partially offset by tax benefits related to tax settlements. In the year ended December 31, 2015 these adjustments primarily consist of the tax benefit related to the valuation allowance reversal in Europe. These adjustments were excluded because impacts of tax legislation and valuation allowances are not considered part of our core operations.
+
+The following table reconciles our effective tax rate under U.S. GAAP to ETR-adjusted:
+
+------------------ -------------------------- ------ ------------------ --- ------------------ ------ -------------------------- ------------------ - ------------------ --- -------------------------- ---------------------------- - ------------------ ---- - - ------ - ------ - ----- --
+
+ Years Ended December 31,
+ 2017 2016 2015
+ Income before income taxes Income tax expense Effective tax rate Income before income taxes Income tax expense Effective tax rate Income before income taxes Income tax expense (benefit) Effective tax rate
+Effective tax rate $ 11,863 $ 11,533 97.2 % $ 12,008 $ 2,739 22.8 % $ 8,371 $ (1,219 ) (14.6 )%
+Adjustments(a) 654 208 300 114 2,750 201
+Tax adjustments(b) (9,099 ) — 4,001
+ETR-adjusted $ 12,517 $ 2,642 21.1 % $ 12,308 $ 2,853 23.2 % $ 11,121 $ 2,983 26.8 %
+
+__________
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) Refer to the reconciliation of Net income (loss) attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of MD&A for adjustment details.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) Refer to the reconciliation of diluted earnings (loss) per common share under U.S. GAAP to EPS-diluted-adjusted within this section of MD&A for adjustment details.
+
+We define return on equity (ROE) as Net income (loss) attributable to stockholders for the trailing four quarters divided by average equity for the same period. Management uses average equity to provide comparable amounts in the calculation of ROE. The following table summarizes the calculation of ROE (dollars in billions):
+
+---------------------------------------------- ------------------------ ---- ---- ---- ---- ---- ---- - - ----
+
+ Years Ended December 31,
+ 2017 2016 2015
+Net income (loss) attributable to stockholders $ (3.9 ) $ 9.4 $ 9.7
+Average equity $ 42.2 $ 43.6 $ 37.0
+ROE (9.2 )% 21.6 % 26.2 %
+
+The following table summarizes the calculation of ROIC-adjusted (dollars in billions):
+
+ 21
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+-------------------------------------------------------------------------------- ------------------------ ---- ---- ----- ---- ---- ----- - - ----
+
+ Years Ended December 31,
+ 2017 2016 2015
+EBIT-adjusted(a) $ 12.8 $ 12.8 $ 11.4
+Average equity $ 42.2 $ 43.6 $ 37.0
+Add: Average automotive debt and interest liabilities (excluding capital leases) 11.6 9.9 8.0
+Add: Average automotive net pension & OPEB liability 21.0 22.0 25.8
+Less: Average automotive net income tax asset (29.3 ) (32.8 ) (33.0 )
+ROIC-adjusted average net assets $ 45.5 $ 42.7 $ 37.8
+ROIC-adjusted 28.2 % 30.1 % 30.3 %
+
+________
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------
+(a) Refer to the reconciliation of Net income (loss) attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of MD&A.
+
+Overview Our management team has adopted a strategic plan to transform GM into the world']:
+Note 18. Income Taxes 76
+
+['s obligation to indemnify PSA Group. Certain of these indemnification obligations are subject to time limitations, thresholds and/or caps as to the amount of required payments. We are currently unable to estimate any reasonably possible overall amounts or range of loss that may result from claims made under these indemnities, if any.
+
+PSA Group has provided a number of working capital and other adjustments under the Agreement and other ancillary agreements, many of which are customary in these types of transactions. We currently believe that post-closing adjustments under the Agreement, if any, would not have a material impact on our results of operations.
+
+We retained net underfunded pension liabilities of $6.8 billion owed primarily to current pensioners and former employees of the European Business with vested pension rights. PSA Group assumed, pursuant to the Agreement, approximately $3.1 billion of net underfunded pension liabilities primarily with respect to active employees of the Opel/Vauxhall Business, and during the three months ended September 30, 2017 the Seller made payments of $3.4 billion in respect of these assumed liabilities, which includes pension funding payments for active employees and the de-risking premium payment discussed above. At closing we drew upon our three-year unsecured revolving credit facility to fund these payments. We issued debt securities thereafter to repay the draw on our credit facility. As part of the retained pension liabilities described above, we retained the U.K. defined benefit pension plans in existence at signing related to the Opel/Vauxhall Business, including responsibility for service cost accruals through the closing date.
+
+We have agreed to purchase from and supply to PSA Group certain vehicles for a period of time following closing and not to engage in certain competing businesses in Europe for a period of three years.
+
+Refer to Note 3 to our consolidated financial statements for additional information.
+
+Contingently Issuable Shares  Under the Amended and Restated Master Sale and Purchase Agreement between us and Motors Liquidation Company we may be obligated to issue additional shares (Adjustment Shares) of our common stock in the event that allowed general unsecured claims against the GUC Trust, as estimated by the Bankruptcy Court, exceed $35.0 billion. Refer to Note 17 to our consolidated financial statements for a description of the contingently issuable Adjustment Shares.
+
+Automotive Financing - GM Financial Summary and Outlook GM Financial has expanded its leasing and prime lending programs in North America; therefore, leasing and prime lending have become a larger percentage of the originations and retail portfolio balance. During 2017 we saw used car prices in the U.S. decline approximately 5% as compared to 2016. For 2018, an increasing supply of used vehicles resulting from off-lease returns will continue to pressure used car prices. As a result, we expect a further decline in used car prices in the U.S. between 5% and 6% in 2018 as compared to 2017. GM Financial continues to expect pre-tax income to double from 2014 earnings of $0.8 billion once full captive penetration levels are achieved on a consistent basis. The following table summarizes the residual value as well as the number of units included in GM Financial equipment on operating leases, net by vehicle type (units in thousands):
+
+---------- ----------------- ------ ----------------- --- ---------- -------------- ----- ----- ------ ---------- ------ --- ----- ---- - ----- -
+
+ December 31, 2017 December 31, 2016
+ Residual Value Units Percentage Residual Value Units Percentage
+Cars $ 5,701 450 27.2 % $ 5,240 420 31.7 %
+Trucks 7,173 285 17.3 % 5,231 224 16.9 %
+Crossovers 13,723 818 49.5 % 10,349 604 45.7 %
+SUVs 3,809 99 6.0 % 2,791 75 5.7 %
+Total $ 30,406 1,652 100.0 % $ 23,611 1,323 100.0 %
+
+ GM Financial']:
+(6) Interest rate swaps, settled upon the issuance of these notes in 2017, effectively set the interest rate on the $750 million notes at a weighted-average fixed rate of 3.44%. Maturities of long-term debt during the fiscal years subsequent to November 30, 2018 are as follows (in millions): ---------- ------- ---- 2019 $ 77.1 2020 576.8 2021 326.8 2022 1,182.6 Thereafter 2,317.0 The consideration for our acquisition of RB Foods on August 17, 2017 totaled approximately $4.2 billion in cash (see note 2) and was funded with (a) borrowings under McCormick's $1.5 billion Term Loan Agreement described below; (b) amounts received from the offering of $2.5 billion aggregate principal amount of McCormick's senior unsecured notes described below; and (c) amounts received from the offering of McCormick's common stock non-voting, which closed on August 11, 2017 (see note 13). In connection with our entry into the agreement to acquire RB Foods, we entered into a commitment letter, dated July 18, 2017 (the "Commitment Letter"), under which certain banks agreed to provide a senior unsecured 364-day bridge loan facility (the "Bridge Facility") of up to $4.2 billion in the aggregate. On August 7, 2017, we entered into a Senior Unsecured Bridge Credit Agreement with certain financial institutions under which those financial institutions agreed to provide a senior unsecured 364-day bridge loan facility (the "Bridge Facility") for the purpose of providing the financing necessary to fund all or a portion of the consideration to be paid pursuant to the terms of the agreement related to the acquisition of RB Foods and related fees and expenses (the "Bridge Loan Commitment"). The Bridge Facility provided that the Bridge Loan Commitment would be reduced in equivalent amounts upon any incurrence by McCormick of, among other things, term loans and/or the issuance of equity or notes in a public offering or private placement prior to the consummation of the transaction, subject to certain exce...
+
+[Refer to Item1A]:
+Item 1A. Risk Factors 18
+
+[" section of this MD&A and Item 1A. Risk Factors, some of which are outside of our control.
+
+We continue to monitor and evaluate opportunities to strengthen our competitive position over the long-term while maintaining a strong investment-grade balance sheet. These actions may include opportunistic payments to reduce our long-term obligations as well as the possibility of acquisitions, dispositions, investments with joint venture partners and strategic alliances that we believe would generate significant advantages and substantially strengthen our business. These actions may negatively impact our liquidity in the short term.
+
+Our senior management evaluates our capital allocation program on an ongoing basis and recommends any modifications to the program to our Board of Directors, not less than once annually. Management reaffirmed and our Board of Directors approved the capital allocation program, which includes reinvesting in our business at an average target ROIC-adjusted rate of 20% or greater, maintaining a strong investment-grade balance sheet, including a target cash balance of $18 billion, and returning available cash to shareholders.
+
+As part of our capital allocation program, we announced in January 2016 that our Board of Directors had authorized a program to purchase up to $4 billion of our common stock before the end of 2017, which was completed in the three months ended September 30, 2017. We also announced in January 2017 that our Board of Directors had authorized the purchase of up to an additional $5 billion of our common stock with no expiration date, subsequent to completing the remaining portion of the previously announced programs. We completed $1.5 billion of the $5 billion program in the three months ended December 31, 2017. From inception of the program in 2015 through January 30, 2018 we had purchased an aggregate of 299 million shares of our outstanding common stock under our common stock repurchase program for $10.5 billion. In the year ended December 31, 2017, we returned total cash to shareholders of $6.7 billion, consisting of dividends paid on our common stock and purchases of our common stock.
+
+In August 2017 we issued $3.0 billion in aggregate principal amount of senior unsecured notes and used the net proceeds to repay the $3.0 billion drawn on our three-year unsecured revolving credit facility to fund the payments to PSA Group, or one or more pension funding vehicles, for the assumed net underfunded pension liabilities in connection with the sale of the Opel/Vauxhall Business. Refer to Note 14 to our consolidated financial statements for additional information on the senior unsecured notes.
+
+Automotive Liquidity Total available liquidity includes cash, cash equivalents, marketable securities and funds available under credit facilities. The amount of available liquidity is subject to intra-month and seasonal fluctuations and includes balances held by various business units and subsidiaries worldwide that are needed to fund their operations.
+
+We manage our liquidity primarily at our treasury centers as well as at certain of our significant consolidated overseas subsidiaries. Approximately 90% of our cash and marketable securities were managed within North America and at our regional treasury centers at December 31, 2017. We have used and will continue to use other methods including intercompany loans to utilize these funds across our global operations as needed.
+
+Our cash equivalents and marketable securities balances are primarily denominated in U.S. Dollars and include investments in U.S. government and agency obligations, foreign government securities, time deposits, corporate debt securities and mortgage and asset-backed securities. Our investment guidelines, which we may change from time to time, prescribe certain minimum credit worthiness thresholds and limit our exposures to any particular sector, asset class, issuance or security type. The majority of our current investments in debt securities are with A/A2 or better rated issuers.
+
+We use credit facilities as a mechanism to provide additional flexibility in managing our global liquidity. The total size of our credit facilities was $14.5 billion at December 31, 2017 and 2016, which consisted principally of our two primary revolving credit facilities. We did not have any borrowings against our primary facilities, but had letters of credit outstanding under our sub-facility of $0.4 billion at December 31, 2017 and 2016. GM Financial had access to our revolving credit facilities at December 31, 2017 and 2016 but did not borrow against them. Refer to Note 14 to our consolidated financial statements for additional information on credit facilities. At December 31, 2017 and 2016 we had intercompany loans from GM Financial of $0.4 billion and $0.3 billion, which consisted primarily of commercial loans to dealers we consolidate, and we had no intercompany loans to GM Financial.
+
+ 32
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+As a means to access the strong liquidity available in our China JVs, from time to time, we may borrow from our joint ventures to provide additional liquidity to support our operations and capital investment. In the three months ending March 31, 2018, we expect to borrow approximately $1.3 billion from SAIC General Motors Corp., Ltd. (SGM) pursuant to a short-term unsecured note payable.
+
+The following table summarizes our automotive available liquidity (dollars in billions):
+
+--------------------------------------- ----------------- ---- ----------------- ---- - ----
+
+ December 31, 2017 December 31, 2016
+Cash and cash equivalents $ 11.2 $ 9.8
+Marketable securities 8.3 11.8
+Available liquidity(a) 19.6 21.6
+Available under credit facilities(b) 14.1 14.2
+Total automotive available liquidity(a) $ 33.6 $ 35.8
+
+__________
+
+--- -----------------------------------
+(a) Amounts do not add due to rounding.
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) Excludes outstanding letters of credit of $0.2 billion at December 31, 2016 under our primary credit facilities which were transferred to PSA Group at closing.
+
+The following table summarizes the changes in our automotive available liquidity (dollars in billions):
+
+------------------------------------------------------------------ ---------------------------- ---- -
+
+ Year Ended December 31, 2017
+Operating cash flow $ 13.9
+Capital expenditures (8.4 )
+Dividends paid and payments to purchase common stock (6.7 )
+Net cash used in investing activities – discontinued operations(a) (3.6 )
+Issuance of senior unsecured notes 3.0
+Other non-operating (0.4 )
+Total change in automotive available liquidity $ (2.2 )
+
+__________
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) Consists primarily of payments to PSA Group, or one or more pension funding vehicles, of $3.4 billion for the assumed net underfunded pension liabilities in connection with the sale of the Opel/Vauxhall Business, which includes pension funding payments for active employees and the de-risking premium payment of $455 million, partially offset by proceeds.
+
+Automotive Cash Flow (Dollars in Billions)
+
+---------------------------------------------------- ------------------------ ---- -------------------- ---- -------------------- ---- ---- - - ---- - ---- ---- - - ---- -
+
+ Years Ended December 31, 2017 vs. 2016 Change 2016 vs. 2015 Change
+ 2017 2016 2015
+Operating Activities
+Income (loss) from continuing operations $ (0.8 ) $ 8.6 $ 9.0 $ (9.4 ) $ (0.4 )
+Depreciation, amortization and impairments charges 5.7 5.1 5.2 0.6 (0.1 )
+Pension and OPEB activities (2.6 ) (4.2 ) (1.5 ) 1.6 (2.7 )
+Working capital 1.8 2.2 0.3 (0.4 ) 1.9
+Equipment on operating leases (0.3 ) 0.8 0.5 (1.1 ) 0.3
+Accrued and other liabilities (2.3 ) 1.0 (1.0 ) (3.3 ) 2.0
+Income taxes 10.9 2.1 (2.0 ) 8.8 4.1
+GM Financial dividend 0.6 — — 0.6 —
+Other 0.9 (1.1 ) 0.2 2.0 (1.3 )
+Net automotive cash provided by operating activities $ 13.9 $ 14.5 $ 10.7 $ (0.6 ) $ 3.8
+
+In the year ended December 31, 2017 the decrease in Net automotive cash provided by operating activities was due primarily to unfavorable impacts from: (1) decreased Income (loss) from continuing operations partially offset by the add back of $7.3 billion
+
+ 33
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+as a result of U.S. tax reform legislation and the establishment of a $2.3 billion valuation allowance related to the sale of the Opel/Vauxhall Business; (2) a decrease in Accrued and other liabilities due to increased sales allowance payments; (3) a decrease in Equipment on operating leases due to an increase in units out to daily rental car companies; and (4) a decrease in Working capital due to lower production volumes, partially offset by accelerated cash receipts from GM Financial and other external sources totaling $0.5 billion; partially offset by (5) discretionary contributions of $2.0 billion made to our U.S. hourly pension plan in the year ended December 31, 2016; and (6) an increase in Other due to several insignificant items.
+
+In the year ended December 31, 2016 the increase in Net automotive cash provided by operating activities was due primarily to: (1) an increase in Income taxes due primarily to the reversal of valuation allowances in 2015; (2) an increase in Accrued and other liabilities due primarily to an increase in sales incentives of $1.6 billion; (3) an increase in Working capital due primarily to increased accounts payable due to increased production volumes and decreased inventories due to lower repurchased rental car activity; partially offset by (4) a decrease in Pension and OPEB activities due primarily to discretionary contributions of $2.0 billion made to our U.S. hourly pension plan in the year ended December 31, 2016 and pension income from the refinement to the discount rate methodology for service and interest cost; and (5) a decrease in Other due primarily to foreign exchange and an increase in deposits.
+
+----------------------------------------------------------- ------------------------ ---- -------------------- ---- -------------------- ----- --- - ---- - ---- ---- - - ---- -
+
+ Years Ended December 31, 2017 vs. 2016 Change 2016 vs. 2015 Change
+ 2017 2016 2015
+Investing Activities
+Capital expenditures $ (8.4 ) $ (8.3 ) $ (6.7 ) $ (0.1 ) $ (1.6 )
+Acquisitions and liquidations of marketable securities, net 3.5 (3.7 ) 0.9 7.2 (4.6 )
+Investment in Lyft — (0.5 ) — 0.5 (0.5 )
+Acquisition of Cruise — (0.3 ) — 0.3 (0.3 )
+Other 0.2 0.2 — — 0.2
+Net automotive cash used in investing activities $ (4.7 ) $ (12.6 ) $ (5.8 ) $ 7.9 $ (6.8 )
+
+------------------------------------------------ ------------------------ ---- -------------------- ---- -------------------- ---- ---- - - ---- - ---- ---- - - ---
+
+ Years Ended December 31, 2017 vs. 2016 Change 2016 vs. 2015 Change
+ 2017 2016 2015
+Financing Activities
+Issuance of senior unsecured notes $ 3.0 $ 2.0 $ — $ 1.0 $ 2.0
+Payments to purchase common stock (4.5 ) (2.5 ) (3.5 ) (2.0 ) 1.0
+Dividends paid (2.2 ) (2.3 ) (2.2 ) 0.1 (0.1 )
+Other (0.5 ) (0.3 ) (0.1 ) (0.2 ) (0.2 )
+Net automotive cash used in financing activities $ (4.2 ) $ (3.1 ) $ (5.8 ) $ (1.1 ) $ 2.7
+
+Adjusted Automotive Free Cash Flow (Dollars in Billions)
+
+ 34
+
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+---------------------------------------------------------------------------- ------------------------ ---- ---- ---- ---- ---- ---- - - ----
+
+ Years Ended December 31,
+ 2017 2016 2015
+Net automotive cash provided by operating activities – continuing operations $ 13.9 $ 14.5 $ 10.7
+Less: capital expenditures – continuing operations (8.4 ) (8.3 ) (6.7 )
+Adjustments
+Discretionary U.S. pension plan contributions — 2.0 —
+U.K. pension plan contribution(a) 0.2 — —
+GM Financial dividend(a) (0.6 ) — —
+Total adjustments (0.4 ) 2.0 —
+Adjusted automotive free cash flow – continuing operations(b) 5.2 8.2 4.0
+Net automotive cash used in operating activities – discontinued operations — (0.1 ) (0.7 )
+Less: capital expenditures – discontinued operations (0.7 ) (1.1 ) (1.0 )
+Adjusted automotive free cash flow(b) $ 4.5 $ 6.9 $ 2.3
+
+__________
+
+--- --------------------------------------------------------------------------------------------
+(a) These cash flows were excluded because they resulted from the sale of the European Business.
+
+--- -----------------------------------
+(b) Amounts do not add due to rounding.
+
+Status of Credit Ratings We receive ratings from four independent credit rating agencies: DBRS Limited, Fitch Ratings (Fitch), Moody']:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Systems Incorporated is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing and engaging with compelling content and experiences across personal computers, devices and media. We market and license our products and services directly to enterprise customers through our sales force and to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as a hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas, Europe, Middle East and Africa ("EMEA") and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and Exchange Com...

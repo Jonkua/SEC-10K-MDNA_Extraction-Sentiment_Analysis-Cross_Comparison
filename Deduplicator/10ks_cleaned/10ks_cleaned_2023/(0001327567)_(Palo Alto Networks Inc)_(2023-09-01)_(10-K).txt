@@ -1,0 +1,477 @@
+================================================================================
+CIK: 0001327567
+Company Name: Palo Alto Networks Inc
+Filing Date: 2023-09-01
+Form Type: 10-K
+Extraction Date: 2025-09-03 15:00:04
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K. The following discussion and analysis contains forward-looking statements based on current expectations and assumptions that are subject to risks and uncertainties, which could cause our actual results to differ materially from those anticipated or implied by any forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in this Annual Report on Form 10-K, and in particular, the risks discussed under the caption “Risk Factors” in Part I, Item 1A of this report.
+Our Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is organized as follows:
+•Overview. A discussion of our business and overall analysis of financial and other highlights in order to provide context for the remainder of MD&A.
+•Key Financial Metrics. A summary of our U.S. GAAP and non-GAAP key financial metrics, which management monitors to evaluate our performance.
+•Results of Operations. A discussion of the nature and trends in our financial results and an analysis of our financial results comparing fiscal 2023 to fiscal 2022. For discussion and analysis related to our financial results comparing fiscal 2022 to 2021, refer to Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for fiscal 2022, which was filed with the Securities and Exchange Commission on September 6, 2022.
+•Liquidity and Capital Resources. An analysis of changes on our balance sheets and cash flows, and a discussion of our financial condition and our ability to meet cash needs.
+•Critical Accounting Estimates. A discussion of our accounting policies that require critical estimates, assumptions, and judgments.
+
+Overview
+We empower enterprises, organizations, service providers, and government entities to protect themselves against today’s most sophisticated cyber threats. Our cybersecurity platforms and services help secure enterprise users, networks, clouds, and endpoints by delivering comprehensive cybersecurity backed by industry-leading artificial intelligence and automation. We are a leading provider of zero trust solutions, starting with next-generation zero trust network access to secure today’s remote hybrid workforces and extending to securing all users, applications, and infrastructure with zero trust principles. Our security solutions are designed to reduce customers’ total cost of ownership by improving operational efficiency and eliminating the need for siloed point products. Our company focuses on delivering value in four fundamental areas:
+Network Security:
+•Our network security platform, designed to deliver complete zero trust solutions to our customers, includes our hardware and software ML-Powered Next-Generation Firewalls, as well as a cloud-delivered Secure Access Service Edge (“SASE”). Prisma® Access, our Security Services Edge (“SSE”) solution, when combined with Prisma SD-WAN, provides a comprehensive single-vendor SASE offering that is used to secure remote workforces and enable the cloud-delivered branch. We have been recognized as a leader in network firewalls, SSE, and SD-WAN. Our network security platform also includes our cloud-delivered security services, such as Advanced Threat Prevention, Advanced WildFire®, Advanced URL Filtering, DNS Security, IoT/OT Security, GlobalProtect®, Enterprise Data Loss Prevention (“Enterprise DLP”), Artificial Intelligence for Operations (“AIOps”), SaaS Security API, and SaaS Security Inline. Through these add-on security services, our customers are able to secure their content, applications, users, and devices across their entire organization. Panorama®, our network security management solution, can centrally manage our network security platform irrespective of form factor, location, or scale.
+Cloud Security:
+•We enable cloud-native security through our Prisma Cloud platform. As a comprehensive Cloud Native Application Protection Platform (“CNAPP”), Prisma Cloud secures multi- and hybrid-cloud environments for applications, data, and the entire cloud native technology stack across the full development lifecycle; from code to runtime. For inline network security on multi- and hybrid-cloud environments, we also offer our VM-Series and CN-Series Firewall offerings.
+
+- 38 -
+
+Table of Contents
+Security Operations:
+•We deliver the next generation of security automation, security analytics, endpoint security, and attack surface management solutions through our Cortex portfolio. These include Cortex XSIAM, our AI security automation platform, Cortex XDR® for the prevention, detection, and response to complex cybersecurity attacks on the endpoint, Cortex XSOAR® for security orchestration, automation, and response (“SOAR”), and Cortex XpanseTM for attack surface management (“ASM”). These products are delivered as SaaS or software subscriptions.
+Threat Intelligence and Security Consulting (Unit 42):
+•Unit 42 brings together world-renowned threat researchers with an elite team of incident responders and security consultants to create an intelligence-driven, response-ready organization to help customers proactively manage cyber risk. Our consultants serve as trusted advisors to our customers by assessing and testing their security controls against the right threats, transforming their security strategy with a threat-informed approach, and responding to security incidents on behalf of our clients.
+For fiscal 2023 and 2022, total revenue was $6.9 billion and $5.5 billion, respectively, representing year-over-year growth of 25.3%. Our growth reflects the increased adoption of our portfolio, which consists of product, subscriptions, and support. We believe our portfolio will enable us to benefit from recurring revenues and new revenues as we continue to grow our end-customer base. As of July 31, 2023, we had end-customers in over 180 countries. Our end-customers represent a broad range of industries, including education, energy, financial services, government entities, healthcare, Internet and media, manufacturing, public sector, and telecommunications, and include almost all of the Fortune 100 companies and a majority of the Global 2000 companies. We maintain a field sales force that works closely with our channel partners in developing sales opportunities. We primarily use a two-tiered, indirect fulfillment model whereby we sell our products, subscriptions, and support to our distributors, which, in turn, sell to our resellers, which then sell to our end-customers.
+Our product revenue grew to $1.6 billion or 22.9% of total revenue for fiscal 2023, representing year-over-year growth of 15.8%. Product revenue is derived from sales of our appliances, primarily our ML-Powered Next-Generation Firewall. Product revenue also includes revenue derived from software licenses of Panorama, SD-WAN, and the VM-Series. Our ML-Powered Next-Generation Firewall incorporates our PAN-OS operating system, which provides a consistent set of capabilities across our entire network security product line. Our appliances and software licenses include a broad set of built-in networking and security features and functionalities. Our products are designed for different performance requirements throughout an organization, ranging from our PA-410, which is designed for small organizations and remote or branch offices, to our top-of-the-line PA-7080, which is designed for large-scale data centers and service provider use. The same firewall functionality that is delivered in our physical appliances is also available in our VM-Series virtual firewalls, which secure virtualized and cloud-based computing environments, and in our CN-Series container firewalls, which secure container environments and traffic.
+Our subscription and support revenue grew to $5.3 billion or 77.1% of total revenue for fiscal 2023, representing year-over-year growth of 28.4%. Our subscriptions provide our end-customers with near real-time access to the latest antivirus, intrusion prevention, web filtering, modern malware prevention, data loss prevention, and cloud access security broker capabilities across the network, endpoints, and the cloud. When end-customers purchase our physical, virtual, or container firewall appliances, or certain cloud offerings, they typically purchase support in order to receive ongoing security updates, upgrades, bug fixes, and repairs. In addition to the subscriptions purchased with these appliances, end-customers may also purchase other subscriptions on a per-user, per-endpoint, or capacity-based basis. We also offer professional services, including incident response, risk management, and digital forensic services.
+We continue to invest in innovation as we evolve and further extend the capabilities of our portfolio, as we believe that innovation and timely development of new features and products are essential to meeting the needs of our end-customers and improving our competitive position. During fiscal 2023, we introduced several new offerings, including: Cortex XSIAM 1.0, major updates to Prisma Cloud (including three new security modules), Prisma Access 4.0, PAN-OS 11.0, Cloud NGFW for AWS, and Cloud NGFW for Azure. Additionally, we acquired productive investments that fit well within our long-term strategy. For example, in December 2022, we acquired Cider, which we expect will support our Prisma Cloud’s platform approach to securing the entire application security lifecycle from code to cloud.
+We believe that the growth of our business and our short-term and long-term success are dependent upon many factors, including our ability to extend our technology leadership, grow our base of end-customers, expand deployment of our portfolio and support offerings within existing end-customers, and focus on end-customer satisfaction. To manage any future growth effectively, we must continue to improve and expand our information technology and financial infrastructure, our operating and administrative systems and controls, and our ability to manage headcount, capital, and processes in an efficient manner. While these areas present significant opportunities for us, they also pose challenges and risks that we must successfully address in order to sustain the growth of our business and improve our operating results. For additional information regarding the challenges and risks we face, see the “Risk Factors” section in Part I, Item 1A of this Annual Report on Form 10-K.
+
+- 39 -
+
+Table of Contents
+Impact of Macroeconomic Developments and Other Factors on Our Business
+Our overall performance depends in part on worldwide economic and geopolitical conditions and their impact on customer behavior. Worsening economic conditions, including inflation, higher interest rates, slower growth, fluctuations in foreign exchange rates, and other conditions, may adversely affect our results of operations and financial performance.
+We continue to experience supply chain disruption and incur increased costs resulting from inflationary pressures. We are monitoring the tensions between China and Taiwan, and between the U.S. and China, which could have an adverse impact on our business or results of operations in future periods.
+
+Key Financial Metrics
+We monitor the key financial metrics set forth in the tables below to help us evaluate growth trends, establish budgets, measure the effectiveness of our sales and marketing efforts, and assess operational efficiencies. We discuss revenue, gross margin, and the components of operating income (loss) and margin below under “Results of Operations.”
+
+--------------------------------------- ------------- ------- ---- - -------
+ July 31,
+ 2023 2022
+
+ (in millions)
+Total deferred revenue $ 9,296.4 $ 6,994.0
+Cash, cash equivalents, and investments $ 5,437.9 $ 4,686.4
+
+------------------------------------------------ --------------------- ------- ---- ----- ---- ------- ----- - - -------
+ Year Ended July 31,
+ 2023 2022 2021
+
+ (dollars in millions)
+Total revenue $ 6,892.7 $ 5,501.5 $ 4,256.1
+Total revenue year-over-year percentage increase 25.3 % 29.3 % 24.9 %
+Gross margin 72.3 % 68.8 % 70.0 %
+Operating income (loss) $ 387.3 $ (188.8) $ (304.1)
+Operating margin 5.6 % (3.4) % (7.1) %
+Billings $ 9,194.4 $ 7,471.5 $ 5,452.2
+Billings year-over-year percentage increase 23.1 % 37.0 % 26.7 %
+Cash flow provided by operating activities $ 2,777.5 $ 1,984.7 $ 1,503.0
+Free cash flow (non-GAAP) $ 2,631.2 $ 1,791.9 $ 1,387.0
+
+•Deferred Revenue. Our deferred revenue primarily consists of amounts that have been invoiced but have not been recognized as revenue as of the period end. The majority of our deferred revenue balance consists of subscription and support revenue that is recognized ratably over the contractual service period. We monitor our deferred revenue balance because it represents a significant portion of revenue to be recognized in future periods.
+•Billings. We define billings as total revenue plus the change in total deferred revenue, net of acquired deferred revenue, during the period. We consider billings to be a key metric used by management to manage our business. We believe billings provides investors with an important indicator of the health and visibility of our business because it includes subscription and support revenue, which is recognized ratably over the contractual service period, and product revenue, which is recognized at the time of hardware shipment or delivery of software license, provided that all other conditions for revenue recognition have been met. We consider billings to be a useful metric for management and investors, particularly if we continue to experience increased sales of subscriptions and strong renewal rates for subscription and support offerings, and as we monitor our near-term cash flows. While we believe that billings provides useful information to investors and others in understanding and evaluating our operating results in the same manner as our management, it is important to note that other companies, including companies in our industry, may not use billings, may calculate billings differently, may have different billing frequencies, or may use other financial measures to evaluate their performance, all of which could reduce the usefulness of billings as a comparative measure. We calculate billings in the following manner:
+
+- 40 -
+
+Table of Contents
+
+----------------------------------------------------------------------- ------------------- ------- ---- ------- ---- ------- ------- - -------
+ Year Ended July 31,
+ 2023 2022 2021
+
+ (in millions)
+Billings:
+Total revenue $ 6,892.7 $ 5,501.5 $ 4,256.1
+Add: change in total deferred revenue, net of acquired deferred revenue 2,301.7 1,970.0 1,196.1
+Billings $ 9,194.4 $ 7,471.5 $ 5,452.2
+
+•Cash Flow Provided by Operating Activities. We monitor cash flow provided by operating activities as a measure of our overall business performance. Our cash flow provided by operating activities is driven in large part by sales of our products and from up-front payments for subscription and support offerings. Monitoring cash flow provided by operating activities enables us to analyze our financial performance without the non-cash effects of certain items such as share-based compensation costs, depreciation and amortization, thereby allowing us to better understand and manage the cash needs of our business.
+•Free Cash Flow (non-GAAP). We define free cash flow, a non-GAAP financial measure, as cash provided by operating activities less purchases of property, equipment, and other assets. We consider free cash flow to be a profitability and liquidity measure that provides useful information to management and investors about the amount of cash generated by the business after necessary capital expenditures. A limitation of the utility of free cash flow as a measure of our financial performance and liquidity is that it does not represent the total increase or decrease in our cash balance for the period. In addition, it is important to note that other companies, including companies in our industry, may not use free cash flow, may calculate free cash flow in a different manner than we do, or may use other financial measures to evaluate their performance, all of which could reduce the usefulness of free cash flow as a comparative measure. A reconciliation of free cash flow to cash flow provided by operating activities, the most directly comparable financial measure calculated and presented in accordance with U.S. GAAP, is provided below:
+
+-------------------------------------------------------- ------------------- --------- ---- ----- ---- ------- ----- - ---------
+ Year Ended July 31,
+ 2023 2022 2021
+
+ (in millions)
+Free cash flow (non-GAAP):
+Net cash provided by operating activities $ 2,777.5 $ 1,984.7 $ 1,503.0
+Less: purchases of property, equipment, and other assets 146.3 192.8 116.0
+Free cash flow (non-GAAP) $ 2,631.2 $ 1,791.9 $ 1,387.0
+Net cash used in investing activities $ (2,033.8) $ (933.4) $ (1,480.6)
+Net cash used in financing activities $ (1,726.3) $ (806.6) $ (1,104.0)
+
+- 41 -
+
+Table of Contents
+Results of Operations
+The following table summarizes our results of operations for the periods presented and as a percentage of our total revenue for those periods based on our consolidated statements of operations data. The period-to-period comparison of results is not necessarily indicative of results for future periods.
+
+--------------------------------- --------------------- ------- ------------ ----- ------ - ------------ - ------- ----- ------------ ----- ------- - ------- - ------ -
+ Year Ended July 31,
+ 2023 2022 2021
+ Amount % of Revenue Amount % of Revenue Amount % of Revenue
+
+ (dollars in millions)
+Revenue:
+Product $ 1,578.4 22.9 % $ 1,363.1 24.8 % $ 1,120.3 26.3 %
+Subscription and support 5,314.3 77.1 % 4,138.4 75.2 % 3,135.8 73.7 %
+Total revenue 6,892.7 100.0 % 5,501.5 100.0 % 4,256.1 100.0 %
+Cost of revenue:
+Product 418.3 6.1 % 455.5 8.3 % 308.5 7.2 %
+Subscription and support 1,491.4 21.6 % 1,263.2 22.9 % 966.4 22.8 %
+Total cost of revenue(1) 1,909.7 27.7 % 1,718.7 31.2 % 1,274.9 30.0 %
+Total gross profit 4,983.0 72.3 % 3,782.8 68.8 % 2,981.2 70.0 %
+Operating expenses:
+Research and development 1,604.0 23.3 % 1,417.7 25.8 % 1,140.4 26.8 %
+Sales and marketing 2,544.0 36.9 % 2,148.9 39.0 % 1,753.8 41.1 %
+General and administrative 447.7 6.5 % 405.0 7.4 % 391.1 9.2 %
+Total operating expenses(1) 4,595.7 66.7 % 3,971.6 72.2 % 3,285.3 77.1 %
+Operating income (loss) 387.3 5.6 % (188.8) (3.4) % (304.1) (7.1) %
+Interest expense (27.2) (0.4) % (27.4) (0.5) % (163.3) (3.8) %
+Other income, net 206.2 3.0 % 9.0 0.1 % 2.4 — %
+Income (loss) before income taxes 566.3 8.2 % (207.2) (3.8) % (465.0) (10.9) %
+Provision for income taxes 126.6 1.8 % 59.8 1.1 % 33.9 0.8 %
+Net income (loss) $ 439.7 6.4 % $ (267.0) (4.9) % $ (498.9) (11.7) %
+
+(1)Includes share-based compensation as follows:
+
+---------------------------------------- ------------------- ------- ---- ----- ---- ------- ----- - -----
+ Year Ended July 31,
+ 2023 2022 2021
+
+ (in millions)
+Cost of product revenue $ 9.8 $ 9.3 $ 6.2
+Cost of subscription and support revenue 123.4 110.2 93.0
+Research and development 488.4 471.1 428.9
+Sales and marketing 335.3 304.7 269.9
+General and administrative 130.4 118.1 128.9
+Total share-based compensation $ 1,087.3 $ 1,013.4 $ 926.9
+
+- 42 -
+
+Table of Contents
+REVENUE
+Our revenue consists of product revenue and subscription and support revenue. Revenue is recognized upon transfer of control of the corresponding promised products and subscriptions and support to our customers in an amount that reflects the consideration we expect to be entitled to in exchange for those products and subscriptions and support. We expect our revenue to vary from quarter to quarter based on seasonal and cyclical factors.
+PRODUCT REVENUE
+Product revenue is derived from sales of our appliances, primarily our ML-Powered Next-Generation Firewall. Product revenue also includes revenue derived from software licenses of Panorama, SD-WAN, and the VM-Series. Our appliances and software licenses include a broad set of built-in networking and security features and functionalities. We recognize product revenue at the time of hardware shipment or delivery of software license.
+
+------- --------------------- ------- ------ ------------------- ------- ---- ------ ----- ------ ------ - - - ------- - ------- - ----- ---- -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+Product $ 1,578.4 $ 1,363.1 $ 215.3 15.8 % $ 1,363.1 $ 1,120.3 $ 242.8 21.7 %
+
+Product revenue increased for fiscal 2023 compared to fiscal 2022 driven by increased demand for our new generation of hardware products, increased software revenue primarily due to a new go-to-market strategy for certain Network Security offerings and an increased demand for our VM-Series virtual firewalls, partially offset by decreased revenue from our prior generation of hardware products.
+SUBSCRIPTION AND SUPPORT REVENUE
+Subscription and support revenue is derived primarily from sales of our subscription and support offerings. Our subscription and support contracts are typically one to five years. We recognize revenue from subscriptions and support over time as the services are performed. As a percentage of total revenue, we expect our subscription and support revenue to vary from quarter to quarter and increase over the long term as we introduce new subscriptions, renew existing subscription and support contracts, and expand our installed end-customer base.
+
+------------------------------ --------------------- ------- ------ ------- ------------------- ------- ----- ------ ------- ------ ------- - - ------- ------- ----- - ------- ---- - - ------- ---- -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+Subscription $ 3,335.4 $ 2,539.0 $ 796.4 31.4 % $ 2,539.0 $ 1,898.8 $ 640.2 33.7 %
+Support 1,978.9 1,599.4 379.5 23.7 % 1,599.4 1,237.0 362.4 29.3 %
+Total subscription and support $ 5,314.3 $ 4,138.4 $ 1,175.9 28.4 % $ 4,138.4 $ 3,135.8 $ 1,002.6 32.0 %
+
+Subscription and support revenue increased for fiscal 2023 compared to fiscal 2022 due to increased demand for our subscription and support offerings from our end-customers. The mix between subscription revenue and support revenue will fluctuate over time, depending on the introduction of new subscription offerings, renewals of support services, and our ability to increase sales to new and existing end-customers.
+
+- 43 -
+
+Table of Contents
+REVENUE BY GEOGRAPHIC THEATER
+
+------------- --------------------- ------- ------ ------- ------------------- ------- ----- ------ ------- ------ ------- - - ----- ------- ----- - ------- ---- - - ------- ---- -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+Americas $ 4,719.9 $ 3,802.6 $ 917.3 24.1 % $ 3,802.6 $ 2,937.5 $ 865.1 29.5 %
+EMEA 1,359.6 1,055.8 303.8 28.8 % 1,055.8 817.3 238.5 29.2 %
+APAC 813.2 643.1 170.1 26.5 % 643.1 501.3 141.8 28.3 %
+Total revenue $ 6,892.7 $ 5,501.5 $ 1,391.2 25.3 % $ 5,501.5 $ 4,256.1 $ 1,245.4 29.3 %
+
+Revenue from the Americas, Europe, the Middle East, and Africa (“EMEA”) and Asia Pacific and Japan (“APAC”) increased year-over-year for fiscal 2023 as we continued to increase investment in our global sales force in order to support our growth and innovation. Our three geographic theaters had similar year-over-year revenue growth rates for fiscal 2023, with the Americas contributing the highest increase in revenue due to its larger scale.
+
+COST OF REVENUE
+Our cost of revenue consists of cost of product revenue and cost of subscription and support revenue.
+COST OF PRODUCT REVENUE
+Cost of product revenue primarily includes costs paid to our manufacturing partners for procuring components and manufacturing our products. Our cost of product revenue also includes personnel costs, which consist of salaries, benefits, bonuses, share-based compensation, and travel associated with our operations organization, amortization of intellectual property licenses, product testing costs, shipping and tariff costs, and shared costs. Shared costs consist of certain facilities, depreciation, benefits, recruiting, and information technology costs that we allocate based on headcount. We expect our cost of product revenue to fluctuate with our revenue from hardware products.
+
+----------------------- --------------------- ----- ------ ------------------- ----- ---- ------ ------ ------ ------ - - - ----- - ----- - ----- ---- -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+Cost of product revenue $ 418.3 $ 455.5 $ (37.2) (8.2) % $ 455.5 $ 308.5 $ 147.0 47.6 %
+
+Cost of product revenue decreased for fiscal 2023 compared to fiscal 2022 due to a favorable hardware product mix.
+COST OF SUBSCRIPTION AND SUPPORT REVENUE
+Cost of subscription and support revenue includes personnel costs for our global customer support and technical operations organizations, customer support and repair costs, third-party professional services costs, data center and cloud hosting service costs, amortization of acquired intangible assets and capitalized software development costs, and shared costs. We expect our cost of subscription and support revenue to increase as our installed end-customer base grows and adoption of our cloud-based subscription offerings increases.
+
+---------------------------------------- --------------------- ------- ------ ------------------- ------- ---- ------ ----- ------ ------ - - - ------- - ----- - ----- ---- -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+Cost of subscription and support revenue $ 1,491.4 $ 1,263.2 $ 228.2 18.1 % $ 1,263.2 $ 966.4 $ 296.8 30.7 %
+
+Cost of subscription and support revenue increased for fiscal 2023 compared to fiscal 2022 primarily due to increased costs to support the growth of our subscription and support offerings. Cloud hosting service costs, which support our cloud-based subscription offerings, increased $101.0 million for fiscal 2023 compared to fiscal 2022. Personnel costs grew $97.0 million for fiscal 2023 compared to fiscal 2022 primarily due to headcount growth.
+
+- 44 -
+
+Table of Contents
+GROSS MARGIN
+Gross margin has been and will continue to be affected by a variety of factors, including the introduction of new products, manufacturing costs, the average sales price of our products, cloud hosting service costs, personnel costs, the mix of products sold, and the mix of revenue between product and subscription and support offerings. Our virtual and higher-end firewall products generally have higher gross margins than our lower-end firewall products within each product series. We expect our gross margins to vary over time depending on the factors described above.
+
+------------------------ --------------------- ------- ----------- ---- ------ - ----------- - ------- ---- ----------- ---- ------- - ------- - ---- -
+ Year Ended July 31,
+ 2023 2022 2021
+ Amount GrossMargin Amount GrossMargin Amount GrossMargin
+
+ (dollars in millions)
+Product $ 1,160.1 73.5 % $ 907.6 66.6 % $ 811.8 72.5 %
+Subscription and support 3,822.9 71.9 % 2,875.2 69.5 % 2,169.4 69.2 %
+Total gross profit $ 4,983.0 72.3 % $ 3,782.8 68.8 % $ 2,981.2 70.0 %
+
+Product gross margin increased for fiscal 2023 compared to fiscal 2022 primarily due to increased software revenue and a favorable hardware product mix.
+Subscription and support gross margin increased for fiscal 2023 compared to fiscal 2022, primarily due to our growth in subscription and support revenue, which outpaced the subscription and support costs.
+
+OPERATING EXPENSES
+Our operating expenses consist of research and development, sales and marketing, and general and administrative expenses. Personnel costs are the most significant component of operating expenses and consist of salaries, benefits, bonuses, share-based compensation, travel and entertainment, and with regard to sales and marketing expense, sales commissions. Our operating expenses also include shared costs, which consist of certain facilities, depreciation, benefits, recruiting, and information technology costs that we allocate based on headcount to each department. We expect operating expenses generally to increase in absolute dollars and decrease over the long term as a percentage of revenue as we continue to scale our business. As of July 31, 2023, we expect to recognize approximately $2.0 billion of share-based compensation expense over a weighted-average period of approximately 2.6 years, excluding additional share-based compensation expense related to any future grants of share-based awards. Share-based compensation expense is generally recognized on a straight-line basis over the requisite service periods of the awards.
+
+RESEARCH AND DEVELOPMENT
+Research and development expense consists primarily of personnel costs. Research and development expense also includes prototype-related expenses and shared costs. We expect research and development expense to increase in absolute dollars as we continue to invest in our future products and services, although our research and development expense may fluctuate as a percentage of total revenue.
+
+------------------------ --------------------- ------- ------ ------------------- ------- ---- ------ ----- ------ ------ - - - ------- - ------- - ----- ---- -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+Research and development $ 1,604.0 $ 1,417.7 $ 186.3 13.1 % $ 1,417.7 $ 1,140.4 $ 277.3 24.3 %
+
+Research and development expense increased for fiscal 2023 compared to fiscal 2022 primarily due to increased personnel costs, which grew $154.2 million, largely due to headcount growth.
+
+- 45 -
+
+Table of Contents
+SALES AND MARKETING
+Sales and marketing expense consists primarily of personnel costs, including commission expense. Sales and marketing expense also includes costs for market development programs, promotional and other marketing costs, professional services, and shared costs. We continue to strategically invest in headcount and have grown our sales presence. We expect sales and marketing expense to continue to increase in absolute dollars as we increase the size of our sales and marketing organizations to grow our customer base, increase touch points with end-customers, and expand our global presence, although our sales and marketing expense may fluctuate as a percentage of total revenue.
+
+------------------- --------------------- ------- ------ ------------------- ------- ---- ------ ----- ------ ------ - - - ------- - ------- - ----- ---- -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+Sales and marketing $ 2,544.0 $ 2,148.9 $ 395.1 18.4 % $ 2,148.9 $ 1,753.8 $ 395.1 22.5 %
+
+Sales and marketing expense increased for fiscal 2023 compared to fiscal 2022 primarily due to increased personnel costs, which grew $290.7 million, largely due to headcount growth and increased travel and entertainment expenses. The increase in sales and marketing expense was further driven by increased costs associated with sales and marketing events and go-to-market initiatives.
+
+GENERAL AND ADMINISTRATIVE
+General and administrative expense consists primarily of personnel costs and shared costs for our executive, finance, human resources, information technology, and legal organizations, and professional services costs, which consist primarily of legal, auditing, accounting, and other consulting costs. We expect general and administrative expense to increase in absolute dollars over time as we increase the size of our general and administrative organizations and incur additional costs to support our business growth, although our general and administrative expense may fluctuate as a percentage of total revenue.
+
+-------------------------- --------------------- ----- ------ ------------------- ----- ---- ------ ---- ------ ------ - - - ----- - ----- - ---- --- -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+General and administrative $ 447.7 $ 405.0 $ 42.7 10.5 % $ 405.0 $ 391.1 $ 13.9 3.6 %
+
+General and administrative expenses increased for fiscal 2023 compared to fiscal 2022 primarily due to increased personnel costs, which grew $23.2 million, largely due to share-based compensation related to our recent acquisitions and headcount growth. The increase in general and administrative expense was further driven by slightly higher reserves due to increased receivables as a result of our business growth.
+
+INTEREST EXPENSE
+Interest expense primarily consists of interest expense related to our 0.75% Convertible Senior Notes due 2023 (the “2023 Notes”) and the 0.375% Convertible Senior Notes due 2025 (the “2025 Notes,” and together with “2023 Notes,” the “Notes”).
+
+---------------- --------------------- ---- ------ ------------------- ---- ---- ------ ----- ------ ------ - - - ---- - ----- - ------- ------ -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+Interest expense $ 27.2 $ 27.4 $ (0.2) (0.7) % $ 27.4 $ 163.3 $ (135.9) (83.2) %
+
+Interest expense remained relatively flat for fiscal 2023 compared to fiscal 2022.
+
+- 46 -
+
+Table of Contents
+OTHER INCOME, NET
+Other income, net includes interest income earned on our cash, cash equivalents, and investments, and gains and losses from foreign currency remeasurement and foreign currency transactions.
+
+----------------- --------------------- ----- ------ ------------------- --- ---- ------ ----- ------ ------- - - - --- - --- - --- ----- -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+Other income, net $ 206.2 $ 9.0 $ 197.2 2,191.1 % $ 9.0 $ 2.4 $ 6.6 275.0 %
+
+Other income, net increased for fiscal 2023 compared to fiscal 2022 primarily due to higher interest income as a result of higher interest rates and higher average cash, cash equivalent, and investments balances for fiscal 2023 compared to fiscal 2022.
+
+PROVISION FOR INCOME TAXES
+Provision for income taxes consists primarily of U.S. taxes driven by capitalization of research and development expenditures, foreign income taxes, and withholding taxes. We maintain a full valuation allowance for domestic and certain foreign deferred tax assets, including net operating loss carryforwards and certain domestic tax credits. Our valuation allowance has caused, and may continue to cause, disproportionate relationships between our overall effective tax rate and other jurisdictional measures. We regularly evaluate the need for a valuation allowance. Due to recent profitability, a reversal of our valuation allowance in certain jurisdictions in the foreseeable future is reasonably possible.
+
+-------------------------- --------------------- ----- ------ ------ ------ ---- ------------------- ------ ---- ------ - ------ ----- - - ---- - ---- - ---- ---- -
+ Year Ended July 31, Year Ended July 31,
+ 2023 2022 Change 2022 2021 Change
+ Amount Amount Amount % Amount Amount Amount %
+
+ (dollars in millions)
+Provision for income taxes $ 126.6 $ 59.8 $ 66.8 111.7 % $ 59.8 $ 33.9 $ 25.9 76.4 %
+Effective tax rate 22.4 % (28.9) % (28.9) % (7.3) %
+
+Our provision for income taxes for fiscal 2023 was primarily due to U.S. federal and state income taxes, withholding taxes, and foreign income taxes. Our effective tax rate varied for fiscal 2023 compared to fiscal 2022, primarily due to our profitability in fiscal 2023 and an increase in U.S. taxes driven by capitalization of research and development expenditures with no offsetting deferred benefit due to our valuation allowance. This increase was offset by releases of uncertain tax positions during fiscal 2023 resulting from tax settlements. Refer to Note 15. Income Taxes in Part II, Item 8 of this Annual Report on Form 10-K for more information.
+
+Liquidity and Capital Resources
+
+--------------------------------------------- ------------- --------- ---- ------- - ---------
+ July 31,
+ 2023 2022
+
+ (in millions)
+Working capital(1) $ (1,689.5) $ (1,891.4)
+Cash, cash equivalents, and investments:
+Cash and cash equivalents $ 1,135.3 $ 2,118.5
+Investments 4,302.6 2,567.9
+Total cash, cash equivalents, and investments $ 5,437.9 $ 4,686.4
+
+(1)Current liabilities included net carrying amounts of convertible senior notes of $2.0 billion and $3.7 billion as of July 31, 2023 and 2022, respectively. Refer to Note 10. Debt in Part II, Item 8 of this Annual Report on Form 10-K for information on the Notes.
+As of July 31, 2023, our total cash, cash equivalents, and investments of $5.4 billion were held for general corporate purposes. As of July 31, 2023, we had no unremitted earnings when evaluating our outside basis difference relating to our U.S. investment in foreign subsidiaries. However, there could be local withholding taxes due to various foreign countries if certain lower tier earnings are distributed. Withholding taxes that would be payable upon remittance of these lower tier earnings are not expected to be material.
+
+- 47 -
+
+Table of Contents
+DEBT
+In July 2018, we issued the 2023 Notes with an aggregate principal amount of $1.7 billion. The 2023 Notes were converted prior to or settled on the maturity date of July 1, 2023. During fiscal 2023, we repaid in cash $1.7 billion in aggregate principal amount of the 2023 Notes and issued 11.4 million shares of common stock to the holders for the conversion value in excess of the principal amount of the 2023 Notes converted, which were fully offset by shares we received from our exercise of the associated note hedges. In June 2020, we issued the 2025 Notes with an aggregate principal amount of $2.0 billion. The 2025 Notes mature on June 1, 2025; however, under certain circumstances, holders may surrender their 2025 Notes for conversion prior to the applicable maturity date. Upon conversion of the 2025 Notes, we will pay cash equal to the aggregate principal amount of the 2025 Notes to be converted, and, at our election, will pay or deliver cash and/or shares of our common stock for the amount of our conversion obligation in excess of the aggregate principal amount of the 2025 Notes being converted. The sale price condition for the 2025 Notes was met during the fiscal quarter ended July 31, 2023, and as a result, holders may convert their 2025 Notes during the fiscal quarter ending October 31, 2023. If all of the holders convert their 2025 Notes during this period, we would be obligated to settle the $2.0 billion principal amount of the 2025 Notes in cash. We believe that our cash provided by operating activities, our existing cash, cash equivalents and investments, and existing sources of and access to financing will be sufficient to meet our anticipated cash needs should the holders choose to convert their 2025 Notes during the fiscal quarter ending October 31, 2023 or hold the 2025 Notes until maturity on June 1, 2025. As of July 31, 2023, substantially all of our 2025 Notes remained outstanding. Refer to Note 10. Debt in Part II, Item 8 of this Annual Report on Form 10-K for more information on the Notes.
+In April 2023, we entered into a new credit agreement (the “2023 Credit Agreement”) that provides for a $400.0 million unsecured revolving credit facility (the “2023 Credit Facility”), with an option to increase the amount of the 2023 Credit Facility by up to an additional $350.0 million, subject to certain conditions. The interest rates and commitment fees are also subject to upward and downward adjustments based on our progress towards the achievement of certain sustainability goals related to greenhouse gas emissions. As of July 31, 2023, there were no amounts outstanding, and we were in compliance with all covenants under the 2023 Credit Agreement. Refer to Note 10. Debt in Part II, Item 8 of this Annual Report on Form 10-K for more information on the Credit Agreement.
+CAPITAL RETURN
+In February 2019, our board of directors authorized a $1.0 billion share repurchase program. In December 2020, August 2021, and August 2022, our board of directors authorized additional $700.0 million, $676.1 million, and $915.0 million increases to this share repurchase program, respectively, bringing the total authorization under this share repurchase program to $3.3 billion. Repurchases will be funded from available working capital and may be made at management’s discretion from time to time. The expiration date of this repurchase authorization was extended to December 31, 2023, and our repurchase program may be suspended or discontinued at any time. As of July 31, 2023, $750.0 million remained available for future share repurchases under this repurchase program. Refer to Note 13. Stockholders’ Equity in Part II, Item 8 of this Annual Report on Form 10-K for information on these repurchase programs.
+LEASES AND OTHER MATERIAL CASH REQUIREMENTS
+We have entered into various non-cancelable operating leases primarily for our facilities with original lease periods expiring through the year ending July 31, 2033, with the most significant leases relating to our corporate headquarters in Santa Clara, California. As of July 31, 2023, we have total operating lease obligations of $339.4 million recorded on our consolidated balance sheet.
+As of July 31, 2023, our commitments to purchase products, components, cloud and other services totaled $1.8 billion. Refer to Note 12. Commitments and Contingencies in Part II, Item 8 of this Annual Report on Form 10-K for more information on these commitments.
+
+CASH FLOWS
+The following table summarizes our cash flows for the years ended July 31, 2023, 2022, and 2021:
+
+---------------------------------------------------------------------- ------------------- ------- ------- - ------- --------- - ---------
+ Year Ended July 31,
+ 2023 2022 2021
+
+ (in millions)
+Net cash provided by operating activities $ 2,777.5 $ 1,984.7 $ 1,503.0
+Net cash used in investing activities (2,033.8) (933.4) (1,480.6)
+Net cash used in financing activities (1,726.3) (806.6) (1,104.0)
+Net increase (decrease) in cash, cash equivalents, and restricted cash $ (982.6) $ 244.7 $ (1,081.6)
+
+- 48 -
+
+Table of Contents
+Cash from operations could be affected by various risks and uncertainties detailed in Part I, Item 1A “Risk Factors” in this Form 10-K. We believe that our cash flow from operations with existing cash and cash equivalents will be sufficient to meet our anticipated cash needs for at least the next 12 months and thereafter for the foreseeable future. Our future capital requirements will depend on many factors including our growth rate, the timing and extent of spending to support development efforts, the expansion of sales and marketing activities, the introduction of new and enhanced products and subscription and support offerings, the costs to acquire or invest in complementary businesses and technologies, the costs to ensure access to adequate manufacturing capacity, the investments in our infrastructure to support the adoption of our cloud-based subscription offerings, the repayment obligations associated with our Notes, the continuing market acceptance of our products and subscription and support offerings and macroeconomic events. In addition, from time to time, we may incur additional tax liability in connection with certain corporate structuring decisions.
+We may also choose to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, operating results, and financial condition may be adversely affected.
+OPERATING ACTIVITIES
+Our operating activities have consisted of net income (losses) adjusted for certain non-cash items and changes in assets and liabilities. Our largest source of cash provided by our operations is receipts from our billings.
+Cash provided by operating activities during fiscal 2023 was $2.8 billion, an increase of $792.8 million compared to fiscal 2022. The increase was primarily due to growth of our business as reflected by increases in collections during fiscal 2023, partially offset by higher cash expenditure to support our business growth.
+INVESTING ACTIVITIES
+Our investing activities have consisted of capital expenditures, net investment purchases, sales, and maturities, and business acquisitions. We expect to continue such activities as our business grows.
+Cash used in investing activities during fiscal 2023 was $2.0 billion, an increase of $1.1 billion compared to fiscal 2022. The increase was primarily due to an increase in purchases of investments and an increase in net cash payments for business acquisitions, partially offset by an increase in proceeds from sales and maturities of investments during fiscal 2023.
+FINANCING ACTIVITIES
+Our financing activities have consisted of cash used to repurchase shares of our common stock, proceeds from sales of shares through employee equity incentive plans, and payments for tax withholding obligations of certain employees related to the net share settlement of equity awards.
+Cash used in financing activities during fiscal 2023 was $1.7 billion, an increase of $919.7 million compared to fiscal 2022. The increase was primarily due to repayments of our 2023 Notes upon maturity, partially offset by a decrease in repurchases of our common stock during fiscal 2023.
+
+Critical Accounting Estimates
+Our consolidated financial statements have been prepared in accordance with U.S. GAAP. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses, and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances. We evaluate our estimates and assumptions on an ongoing basis. Actual results could differ materially from those estimates due to risks and uncertainties, including uncertainty in the current economic environment. To the extent that there are material differences between these estimates and our actual results, our future consolidated financial statements will be affected.
+We believe that of our significant accounting policies described in Note 1. Description of Business and Summary of Significant Accounting Policies in Part II, Item 8 of this Annual Report on Form 10-K, the critical accounting estimates, assumptions, and judgments that have the most significant impact on our consolidated financial statements are described below.
+
+- 49 -
+
+Table of Contents
+REVENUE RECOGNITION
+The majority of our contracts with our customers include various combinations of our products and subscriptions and support. Our appliances and software licenses have significant standalone functionalities and capabilities. Accordingly, these appliances and software licenses are distinct from our subscriptions and support services as the customer can benefit from the product without these services and such services are separately identifiable within the contract. We account for multiple agreements with a single customer as a single contract if the contractual terms and/or substance of those agreements indicate that they may be so closely related that they are, in effect, parts of a single contract. The amount of consideration we expect to receive in exchange for delivering on the contract is allocated to each performance obligation based on its relative standalone selling price.
+We establish standalone selling price using the prices charged for a deliverable when sold separately. If the standalone selling price is not observable through past transactions, we estimate the standalone selling price based on our pricing model and our go-to-market strategy, which include factors such as type of sales channel (channel partner or end-customer), the geographies in which our offerings were sold (domestic or international), and offering type (products, subscriptions, or support). As our business offerings evolve over time, we may be required to modify our estimated standalone selling prices, and as a result the timing and classification of our revenue could be affected.
+
+INCOME TAXES
+We account for income taxes using the asset and liability method, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been recognized in our consolidated financial statements or tax returns. In addition, deferred tax assets are recorded for all future benefits including, but not limited to, net operating losses, research and development credit carryforwards, and basis differences relating to our global intangible low-taxed income. Valuation allowances are provided when necessary to reduce deferred tax assets to the amount more likely than not to be realized.
+Significant judgment is required in determining any valuation allowance recorded against deferred tax assets. In assessing the need for a valuation allowance, we consider all available evidence, including past operating results, estimates of future taxable income, and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.
+We recognize liabilities for uncertain tax positions based on a two-step process. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step requires us to estimate and measure the tax benefit as the largest amount that is more likely than not to be realized upon ultimate settlement.
+Significant judgment is required in evaluating our uncertain tax positions and determining our provision for income taxes. Although we believe our reserves are reasonable, no assurance can be given that the final tax outcome of these matters will not be different from that which is reflected in our historical income tax provisions and accruals. We adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit or the refinement of an estimate. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences may impact the provision for income taxes in the period in which such determination is made.
+
+MANUFACTURING PARTNER AND SUPPLIER LIABILITIES
+We outsource most of our manufacturing, repair, and supply chain management operations to our EMS provider, which procures components and assembles our products based on our demand forecasts. These forecasts of future demand are based upon historical trends and analysis from our sales and product management functions as adjusted for overall market conditions. We accrue costs for manufacturing purchase commitments in excess of our forecasted demand, including costs for excess components or for carrying costs incurred by our manufacturing partners and component suppliers. Actual component usage and product demand may be materially different from our forecast and could be caused by factors outside of our control, which could have an adverse impact on our results of operations. Through July 31, 2023, we have not accrued significant costs associated with this exposure.
+
+LOSS CONTINGENCIES
+We are subject to the possibility of various loss contingencies arising in the ordinary course of business. We accrue for loss contingencies when it is probable that an asset has been impaired or a liability has been incurred and the amount of loss can be reasonably estimated. If we determine that a loss is reasonably possible, then we disclose the possible loss or range of the possible loss or state that such an estimate cannot be made. We regularly evaluate current information available to us to determine whether an accrual is required, an accrual should be adjusted, or a range of possible loss should be disclosed.
+
+- 50 -
+
+Table of Contents
+From time to time, we are involved in disputes, litigation, and other legal actions. However, there are many uncertainties associated with any litigation, and these actions or other third-party claims against us may cause us to incur substantial settlement charges, which are inherently difficult to estimate and could adversely affect our results of operations. The actual liability in any such matters may be materially different from our estimates, which could result in the need to adjust our liability and record additional expenses. Refer to the “Litigation” subheading in Note 12. Commitments and Contingencies in Part II, Item 8 of this Annual Report on Form 10-K for more information regarding our litigation.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[Refer to Note 15]:
+Note 15 - Commitments and Contingencies Operating Lease Arrangement in Buffalo, New York We have an operating lease through the Research Foundation for the SUNY Foundation with respect to Gigafactory New York. Under the lease and a related research and development agreement, we are continuing to further develop the facility. Under this agreement, we are obligated to, among other things, meet employment targets as well as specified minimum numbers of personnel in the State of New York and in Buffalo, New York and spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York during the 10-year period beginning April 30, 2018. On an annual basis during the initial lease term, as measured on each anniversary of such date, if we fail to meet these specified investment and job creation requirements, then we would be obligated to pay a $41 million "program payment" to the SUNY Foundation for each year that we fail to meet these requirements. Furthermore, if the arrangement is terminated due to a material breach by us, then additional amounts may become payable by us. In 2021, an amendment was executed to extend our overall agreement to spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York through December 31, 2029. On February 1, 2022, we reported to the State of New York that we had met and exceeded our annual requirements for jobs and investment in Buffalo and New York State. As of December 31, 2022, we are currently in excess of such targets relating to investments and personnel in the State of New York and Buffalo and do not currently expect any issues meeting our applicable obligations in the years beyond. However, if our expectations as to the costs and timelines of our investment and operations at Buffalo or our production ramp of the Solar Roof prove incorrect, we may incur additional expenses or be required to make s...
+
+[Refer to Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2022, 2021 and 2020 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2022 2021 2020 Domestic $ 1,958 $ 1,736 $ 1,090 Foreign 4,050 3,969 3,086 Income before income taxes $ 6,008 $ 5,705 $ 4,176 The provision for (benefit from) income taxes for fiscal 2022, 2021 and 2020 consisted of the following: ----------------------------------------- ---- ----- ---- ----- ---- --- ------- - ------- (in millions) 2022 2021 2020 Current: United States federal $ 465 $ 391 $ 119 Foreign 329 197 222 State and local 132 103 79 Total current 926 691 420 Deferred: United States federal (45) (148) (123) Foreign 360 359 (1,313) State and local 11 (19) (68) Total deferred 326 192 (1,504) Provision for (benefit from) income taxes $ 1,252 $ 883 $ (1,084) Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the income tax expense computed at the U.S. federal statutory rate of 21% as a result of the following: ---------------------------------------...
+
+[Refer to Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2022, 2021 and 2020 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2022 2021 2020 Domestic $ 1,958 $ 1,736 $ 1,090 Foreign 4,050 3,969 3,086 Income before income taxes $ 6,008 $ 5,705 $ 4,176 The provision for (benefit from) income taxes for fiscal 2022, 2021 and 2020 consisted of the following: ----------------------------------------- ---- ----- ---- ----- ---- --- ------- of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over 21% as a result of the following: ---------------------------------------...
+
+[Refer to Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2022, 2021 and 2020 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2022 2021 2020 Domestic $ 1,958 $ 1,736 $ 1,090 Foreign 4,050 3,969 3,086 Income before income taxes $ 6,008 $ 5,705 $ 4,176 The provision for (benefit from) income taxes for fiscal 2022, 2021 and 2020 consisted of the following: ----------------------------------------- ---- ----- ---- ----- ---- --- ------- of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over 21% as a result of the following: ---------------------------------------...
+
+[Refer to Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 83
+
+[Refer to Note 12]:
+Note 12 - Leases 81
+
+[refer to Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 20
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 20
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 20
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29

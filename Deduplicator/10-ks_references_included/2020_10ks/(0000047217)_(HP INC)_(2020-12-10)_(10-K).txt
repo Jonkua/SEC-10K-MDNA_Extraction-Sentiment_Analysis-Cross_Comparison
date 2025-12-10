@@ -1,0 +1,529 @@
+================================================================================
+CIK: 0000047217
+Company Name: HP INC
+Filing Date: 2020-12-10
+Form Type: 10-K
+Extraction Date: 2025-08-31 16:08:17
+================================================================================
+
+ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is organized as follows:
+•Overview. A discussion of our business and other highlights affecting the company to provide context for the remainder of this MD&A.
+•Critical Accounting Policies and Estimates. A discussion of accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results.
+•Results of Operations. An analysis of our financial results comparing fiscal year 2020 to fiscal year 2019 and fiscal year 2019 to fiscal year 2018. A discussion of the results of operations is followed by a more detailed discussion of the results of operations by segment.
+•Liquidity and Capital Resources. An analysis of changes in our cash flows and a discussion of our liquidity and financial condition.
+•Contractual and Other Obligations. An overview of contractual obligations, retirement and post-retirement benefit plan contributions, cost-saving plans, uncertain tax positions and off-balance sheet arrangements.
+
+The discussion of financial condition and results of our operations that follows provides information that will assist the reader in understanding our Consolidated Financial Statements, the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles, policies and estimates affect our Consolidated Financial Statements. This discussion should be read in conjunction with our Consolidated Financial Statements and the related notes that appear elsewhere in this document.
+
+33
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+OVERVIEW
+We are a leading global provider of personal computing and other access devices, imaging and printing products, and related technologies, solutions, and services. We sell to individual consumers, SMBs and large enterprises, including customers in the government, health, and education sectors. We have three reportable segments: Personal Systems, Printing and Corporate Investments. The Personal Systems segment offers commercial and consumer desktop and notebook PCs, workstations, thin clients, commercial mobility devices, retail POS systems, displays and other related accessories, software, support, and services. The Printing segment provides consumer and commercial printer hardware, supplies, solutions and services, as well as scanning devices. Corporate Investments include HP Labs and certain business incubation and investment projects.
+•In Personal Systems, our strategic focus is on profitable growth through innovation and market segmentation. This focus is with respect to enhanced innovation in multi-operating systems, multi-architecture, geography, customer segments and other key attributes. Additionally, we are investing in endpoint services and solutions. We are focused on services, including Device as a Service, as the market begins to shift to contractual solutions. We are driving innovation to enable productivity and collaboration as near-term demand continues for work from home and distance learning as the PC has become an essential tool to create, consume and collaborate. We believe that we are well positioned due to our competitive product lineup.
+•In Printing, our strategic focus is on contractual solutions to serve consumers, SMBs and large enterprises through our Instant Ink Services and Managed Print Services (“MPS”) offerings, providing digital printing solutions for graphics segments and applications including commercial publishing, labels, packaging and textiles; as well as expanding our footprint in the 3D printing across digital manufacturing and strategic applications.
+We continue to experience challenges that are representative of trends and uncertainties that may affect our business and results of operations. One set of challenges relates to dynamic market trends, such as forecasted declining home printing markets. A second set of challenges relates to changes in the competitive landscape. Our primary competitors are exerting competitive pressure in targeted areas and are entering new markets, our emerging competitors are introducing new technologies and business models, and our alliance partners in some businesses are increasingly becoming our competitors in others. A third set of challenges relates to business model changes and our go-to-market execution in an evolving distribution and reseller landscape, with increasing online and omnichannel presence. Additional challenges we face at the segment level are set forth below.
+•In Personal Systems, we face challenges with industry component availability and a competitive pricing environment.
+•In Printing, a competitive pricing environment, including from non-original supplies (which includes imitation, refill or remanufactured alternatives), and a weakened market in certain geographies with associated pricing sensitivity of our customers present challenges. We also obtain many Printing components from single sources due to technology, availability, price, quality or other considerations. For instance, we source the majority of our A4 and a portion of our A3 portfolio of laser printer engines and laser toner cartridges from Canon. Any decision by either party to not renew our agreement with Canon or to limit or reduce the scope of the agreement could adversely affect our net revenue from LaserJet products; however, we have a long-standing business relationship with Canon and anticipate renewal of this agreement.
+Our business and financial performance also depend significantly on worldwide economic conditions. Accordingly, we face global macroeconomic challenges, particularly in light of the effects of the COVID-19 pandemic as discussed below, tariff-driven headwinds, uncertainty in the markets, volatility in exchange rates and evolving dynamics in the global trade environment. The full impact of these and other global macroeconomic challenges on our business cannot be known at this time.
+To address these challenges, we continue to pursue innovation with a view towards developing new products and services aligned with generating market demand and meeting the needs of our customers and partners. In addition, we continue to work on improving our operations and adapting our business models, with a particular focus on enhancing our end-to-end processes, analytics and efficiencies. We also continue to work on optimizing our sales coverage models, aligning our sales incentives with our strategic goals, improving channel execution and inventory management, strengthening our capabilities in our areas of strategic focus, strengthening our pricing discipline, and developing and capitalizing on market opportunities.
+Specifically, in October 2019, we announced cost-reduction and operational efficiency initiatives intended to simplify the way we work, move closer to our customers and facilitate specific investment in our business. These were further updated in February 2020. These efforts included transforming our operating model to integrate our sales force into a single commercial organization and reducing structural costs across the Company through our restructuring plan approved in September 2019 (the “Fiscal 2020 Plan”). We expect to invest some of the savings from these efforts across our businesses, including investing to
+
+34
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+build our digital capabilities. Over time, we expect these investments will make us more efficient and allow us to advance our positions in Personal Systems and Printing, while also disrupting new industries where we see attractive medium to long-term growth opportunities. However, the rate at which we are able to invest in our business and the returns that we are able to achieve from these investments will be affected by many factors, including the efforts to address the execution, industry and macroeconomic challenges facing our business as discussed above. As a result, we may experience delays in the anticipated timing of activities related to these efforts, and the anticipated benefits of these efforts may not materialize.
+We typically experience higher net revenues in our fourth quarter compared to other quarters in our fiscal year due in part to seasonal holiday demand. Historical seasonal patterns should not be considered reliable indicators of our future net revenues or financial performance.
+
+Our COVID-19 Response
+In late 2019, COVID-19 was first identified, and in March 2020, the World Health Organization declared the outbreak of COVID-19 to be a pandemic. The rapid spread of COVID-19 prompted governments and businesses to take unprecedented measures in response, including restrictions on travel and business operations, temporary closures of businesses, and quarantines and shelter-in-place orders.
+As reflected in the discussions that follow, the COVID-19 pandemic and the actions taken by governments, businesses and individuals in response to the pandemic have had a variety of impacts on our results of operations and cash flows for the fiscal year ended October 31, 2020, some of which have been significant. This section summarizes our response to the significant impacts that we have experienced to date, and we have also included additional details as applicable throughout other sections of this report. We continue to actively monitor the situation and review our plans based on the requirements and recommendations of federal, state, and local authorities.
+•Our employees. We have been focused on protecting the health and safety of our employees during the COVID-19 pandemic, and we quickly pivoted the vast majority of our employees to work from home as a safety measure in the second quarter of fiscal year 2020. These arrangements have been designed to allow for continued operation of non-production business-critical functions, including financial reporting systems and internal controls. In the third quarter of fiscal year 2020, we implemented a one-time work-from-home reimbursement program for employees to improve their workspaces. For those in manufacturing and other critical functions that could not transition to a remote model, we quickly implemented safety and hygiene training and protocols, such as physical distancing, safety gear mandates, site visitor restrictions, alternate staffing shifts, and enhanced cleaning and sanitization practices, to protect the employees in our labs or manufacturing and production facilities. We have also implemented contact tracing initiatives.
+•Our community. We are committed to taking actions to protect the communities we serve. We are also putting our resources behind efforts to support local communities and to assist in the public health response. We have donated millions of dollars in technology and support across Personal Systems and Printing to help students, families, and communities, including hospitals in affected areas.
+◦The HP 3D Printing team and Digital Manufacturing team is working with its global digital manufacturing community to mobilize 3D printing teams, technology, experience and production capacity to help deliver critical parts in the effort to battle the COVID-19 pandemic. Along with our partners and customers, we have produced more than 4 million 3D printed parts for face shields, respirators, nasal swabs, and other items for distribution to hospitals.
+◦We have donated HP BioPrinters and associated supply cassettes, free of charge, to research laboratories in the US and Europe to help accelerate drug and vaccine research to combat COVID-19.
+◦In April 2020, HP Puerto Rico kicked off large-scale manufacturing of much-needed hand sanitizer and has since delivered about 55,000 liters to local hospitals, police stations, nursing homes, fire stations, medical and wellness service providers and HP’s Customer Service facilities, as well as to select sites in the US.
+◦We made HP Sure Click Pro security software freely available through September 2020 to help protect against cyber threats for both HP and non-HP Windows 10 PCs as a large portion of the population is currently working from home.
+◦We have committed to donating millions of dollars in products and grants to support blended learning in local communities impacted by COVID-19 around the globe as a large portion of the world’s students are currently learning from home.
+•Our customers and partners. We are committed to our customers and partners and to meeting their needs. We have taken meaningful actions to remain close to our customers and partners, including implementing a variety
+
+35
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+of relief initiatives to help them navigate their operational and financial challenges. We had provided a variety of financing and leasing options for end customers. We had provided short-term market and country-specific incentives for partners. HP has implemented a more predictable, flat-rate incentive program and relaxed compensation models, and has also expanded its virtual engagement options, including free access to cybersecurity support and on-demand training. Partners can opt in for customized online digital learning paths designed to meet their specific priorities. We are also introducing programs, designed to enable our customers and partners to adapt to the current work environment, such as the HP Managed Print Cloud Services and the HP Flexworker Solutions program.
+
+•Supply chain. For the fiscal year ended October 31, 2020, we experienced disruptions in our manufacturing and supply chain. This included temporary factory closures in China and Southeast Asia that impacted our own factories as well as those of our suppliers and outsourcing partners, resulting in higher costs and temporary supply shortages. Manufacturing capacity returned largely to normalized levels by the end of fiscal year 2020. During the fourth quarter of fiscal year 2020, we managed through ongoing logistics and industrywide component availability challenges due to strong demand.
+
+•Demand. COVID-19 has created new and different demand dynamics in the market. This is creating both challenges and opportunities across our businesses and geographies. In Personal Systems, we saw increased demand globally as the focus moved to keeping people connected, productive and secure and it reemphasized the essential role that the PC plays in everyday life. We also saw a mix shift in demand from Commercial to Consumer, Desktops to Notebooks driven by strength in Chromebooks and Education. In Printing, we saw a slowdown in Office and Graphics as offices remain closed and large events continue to be canceled. In the fourth quarter of fiscal 2020, we saw some progress in Commercial print driven by improved performance in the SMBs sector. We expect a gradual recovery in the overall Commercial print market although that recovery may be uneven given the varying pace of economic recovery and the resurgence of COVID-19 cases in some countries. We also continue to see increased demand for hardware and ink supplies on the Consumer Printing side as customers set up home office for remote working and school environment for remote learning. We expect that the strength in Consumer Printing will gradually subside when more offices and schools reopen.
+
+•Liquidity. The extent and duration of the disruption from the COVID-19 pandemic remain uncertain. As a result, our liquidity and working capital needs may be impacted in future periods. We believe that our businesses are strong cash flow generators and we maintain a strong balance sheet to meet our liquidity needs. We believe our current cash and cash equivalents, cash flow from operating activities, available commercial paper authorization, new borrowings, and our credit facilities will be sufficient to meet our operating cash requirements, planned capital expenditures, interest and principal payments on all borrowings, pension and post-retirement funding requirements, authorized share repurchases and annual dividend payments for the foreseeable future.
+
+The full extent of the impact of the COVID-19 pandemic on our business, results of operations, cash flows and financial position is currently uncertain and will depend on many factors that are not within our control, including, but not limited to: the duration and scope of the pandemic; the effectiveness of actions taken to contain or mitigate the pandemic and prevent or limit any reoccurrence; governmental, business and individuals’ actions that have been and continue to be taken in response to the pandemic; general economic uncertainty in key global markets and financial market volatility; global economic conditions and levels of economic growth; and the pace of recovery when the COVID-19 pandemic subsides. See the section entitled “Risk Factors” in Item 1A in this Annual Report on Form 10-K for further information about related risks and uncertainties.
+
+Unsolicited Exchange Offer
+On March 2, 2020, Xerox Holdings Corporation (“Xerox”) commenced an unsolicited exchange offer for all outstanding shares of HP’s common stock (the “Offer”). Xerox had also previously nominated candidates for election to HP’s Board of Directors at HP’s 2020 annual meeting of stockholders. On March 31, 2020, Xerox announced that the Offer had been terminated and subsequently withdrew its slate of director nominees. In order to respond to Xerox’s actions, HP incurred certain costs during the year ended October 31, 2020.
+
+For a further discussion of trends, uncertainties and other factors that could impact our operating results, see the section entitled “Risk Factors” in Item 1A in this Annual Report on Form 10-K.
+
+36
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+General
+The Consolidated Financial Statements of HP are prepared in accordance with United States (“U.S.”) generally accepted accounting principles (“GAAP”), which require management to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, net revenue and expenses, and the disclosure of contingent liabilities. As of October 31, 2020, the impact of COVID-19 on our business continued to unfold. As a result, many of our estimates and assumptions required increased judgment and may carry a higher degree of variability and volatility. As events continue to evolve and additional information becomes available, our estimates may change in future periods. Management bases its estimates on historical experience and on various other assumptions that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying amount of assets and liabilities that are not readily apparent from other sources. Management has discussed the development, selection and disclosure of these estimates with the Audit Committee of HP’s Board of Directors. Management believes that the accounting estimates employed and the resulting amounts are reasonable; however, actual results may differ from these estimates. Making estimates and judgments about future events is inherently unpredictable and is subject to significant uncertainties, some of which are beyond our control. Should any of these estimates and assumptions change or prove to have been incorrect, it could have a material impact on our results of operations, financial position and cash flows.
+A summary of significant accounting policies is included in Note 1, “Overview and Summary of Significant Accounting Policies” to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, if different estimates reasonably could have been used, or if changes in the estimate that are reasonably possible could materially impact the financial statements. Management believes the following critical accounting policies reflect the significant estimates and assumptions used in the preparation of the Consolidated Financial Statements.
+Revenue Recognition
+We recognize revenue depicting the transfer of promised goods or services to customers in an amount that reflects the consideration to which we are expected to be entitled in exchange for those goods or services. We evaluate customers’ ability to pay based on various factors like historical payment experience, financial metrics and customer credit scores.
+We enter into contracts to sell our products and services, and while many of our sales contracts contain standard terms and conditions, there are contracts which contain non-standard terms and conditions. Further, many of our arrangements include multiple performance obligations. As a result, significant contract interpretation may be required to determine the appropriate accounting, including the identification of performance obligations that are distinct, the allocation of the transaction price among performance obligations in the arrangement and the timing of transfer of control of promised goods or services for each of those performance obligations.
+We evaluate each performance obligation in an arrangement to determine whether it represents a distinct good or services. A performance obligation constitutes distinct goods or services when the customer can benefit from the goods or services either on its own or together with other resources that are readily available to the customer and the performance obligation is distinct within the context of the contract.
+Transaction price is the amount of consideration to which we expect to be entitled in exchange for transferring goods or services to the customer. If the transaction price includes a variable amount, we estimate the amount using either the expected value or most likely amount method. We reduce the transaction price at the time of revenue recognition for customer and distributor programs and incentive offerings, rebates, promotions, other volume-based incentives and expected returns. We use estimates to determine the expected variable consideration for such programs based on historical experience, expected consumer behavior and market conditions.
+When a sales arrangement contains multiple performance obligations, such as hardware and/or services, we allocate revenue to each performance obligation in proportion to their selling price. The selling price for each performance obligation is based on its Standalone Selling Price (“SSP”). We establish SSP using the price charged for a performance obligation when sold separately (“observable price”) and, in some instances, using the price established by management having the relevant authority. When observable price is not available, we establish SSP based on management’s judgment considering internal factors such as margin objectives, pricing practices and controls, customer segment pricing strategies and the product life-cycle. Consideration is also given to market conditions such as competitor pricing strategies and technology industry life cycles. We may modify or develop new go-to-market practices in the future, which may result in changes in selling prices, impacting standalone selling price determination applying the aforementioned management judgments and estimates. This may change the pattern and timing of revenue recognition for identical arrangements executed in future periods but will not change the total
+
+37
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+revenue recognized for any given arrangement. In most arrangements with multiple performance obligations, the transaction price is allocated to each performance obligation at the inception of the arrangement based on their relative selling price.
+Revenue is recognized when, or as, a performance obligation is satisfied by transferring control of a promised good or service to a customer. We generally invoice the customer upon delivery of the goods or services and the payments are due as per contract terms. For fixed-price support or maintenance and other service contracts that are in the nature of stand-ready obligations, payments are generally received in advance from customers and revenue is recognized on a straight-line basis over the duration of the contract. In instances when revenue is derived from sales of third-party vendor products or services, we record revenue on a gross basis when we are a principal in the transaction and on a net basis when we are acting as an agent between the customer and the vendor. We consider several factors to determine whether we are acting as a principal or an agent, most notably whether we are the primary obligor to the customer, have established our own pricing and have inventory and credit risks.
+Warranty
+We accrue the estimated cost of product warranties at the time we recognize revenue. We evaluate our warranty obligations on a product group basis. Our standard product warranty terms generally include post-sales support and repairs or replacement of a product at no additional charge for a specified period. While we engage in extensive product quality programs and processes, including actively monitoring and evaluating the quality of our component suppliers, we base our estimated warranty obligation on contractual warranty terms, repair costs, product call rates, average cost per call, current period product shipments and ongoing product failure rates, as well as specific product class failure outside of our baseline experience. Warranty terms generally range from 90 days to three years for parts, labor and onsite services, depending upon the product. If actual product failure rates or repair costs differ from estimates, revisions to the estimated warranty obligation may be required.
+Retirement and Post-Retirement Benefits
+Our pension and other post-retirement benefit costs and obligations depend on various assumptions. Our major assumptions relate primarily to discount rates, mortality rates, expected increases in compensation levels and the expected long-term return on plan assets. The discount rate assumption is based on current investment yields of high-quality fixed-income securities with maturities similar to the expected benefits payment period. Mortality rates help predict the expected life of plan participants and are based on a historical demographic study of the plan. The expected increase in the compensation levels assumption reflects our long-term actual experience and future expectations. The expected long-term return on plan assets is determined based on asset allocations, historical portfolio results, historical asset correlations and management’s expected returns for each asset class. We evaluate our expected return assumptions annually including reviewing current capital market assumptions to assess the reasonableness of the expected long-term return on plan assets. In any fiscal year, significant differences may arise between the actual return and the expected long-term return on plan assets. Historically, differences between the actual return and expected long-term return on plan assets have resulted from changes in target or actual asset allocation, short-term performance relative to expected long-term performance, and to a lesser extent, differences between target and actual investment allocations, the timing of benefit payments compared to expectations, and the use of derivatives intended to effect asset allocation changes or hedge certain investment or liability exposures. For the recognition of net periodic benefit cost, the calculation of the expected long-term return on plan assets uses the fair value of plan assets as of the beginning of the fiscal year unless updated as a result of interim re-measurement.
+Our major assumptions vary by plan, and the weighted-average rates used are set forth in Note 4, “Retirement and Post-Retirement Benefit Plans” to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference. The following table provides the impact a change of 25 basis points in each of the weighted-average assumptions of the discount rate, expected increase in compensation levels and expected long-term return on plan assets would have had on our net periodic benefit cost for fiscal year 2020:
+
+---------------------------------------- ---------------------------------------------- --
+ Change in Net PeriodicBenefit Cost in millions
+Assumptions:
+Discount rate $ 6
+Expected increase in compensation levels $ 2
+Expected long-term return on plan assets $ 33
+
+38
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+Taxes on Earnings
+As a result of certain employment actions and capital investments we have undertaken, income from manufacturing activities in certain jurisdictions is subject to reduced tax rates and, in some cases, is wholly exempt from taxes for fiscal years through 2029.
+Material changes in our estimates of cash, working capital and long-term investment requirements in the various jurisdictions in which we do business could impact how future earnings are repatriated to the United States, and our related future effective tax rate.
+We calculate our current and deferred tax provisions based on estimates and assumptions that could differ from the final positions reflected in our income tax returns. We adjust our current and deferred tax provisions based on income tax returns which are generally filed in the third or fourth quarters of the subsequent fiscal year.
+We recognize deferred tax assets and liabilities for the expected tax consequences of temporary differences between the tax bases of assets and liabilities and their reported amounts using enacted tax rates in effect for the year in which we expect the differences to reverse.
+We record a valuation allowance to reduce deferred tax assets to the amount that we are more likely than not to realize. In determining the need for a valuation allowance, we consider future market growth, forecasted earnings, future taxable income, the mix of earnings in the jurisdictions in which we operate and prudent and feasible tax planning strategies. In the event we were to determine that it is more likely than not that we will be unable to realize all or part of our deferred tax assets in the future, we would increase the valuation allowance and recognize a corresponding charge to earnings or other comprehensive income in the period in which we make such a determination. Likewise, if we later determine that we are more likely than not to realize the deferred tax assets, we would reverse the applicable portion of the previously recognized valuation allowance. In order for us to realize our deferred tax assets, we must be able to generate sufficient taxable income in the jurisdictions in which the deferred tax assets are located.
+We are subject to income taxes in the United States and approximately 60 other countries, and we are subject to routine corporate income tax audits in many of these jurisdictions. We believe that positions taken on our tax returns are fully supported, but tax authorities may challenge these positions, which may not be fully sustained on examination by the relevant tax authorities. Accordingly, our income tax provision includes amounts intended to satisfy assessments that may result from these challenges. Determining the income tax provision for these potential assessments and recording the related effects requires management judgments and estimates. The amounts ultimately paid on resolution of an audit could be materially different from the amounts previously included in our income tax provision and, therefore, could have a material impact on our income tax provision, net income and cash flows. Our accrual for uncertain tax positions is attributable primarily to uncertainties concerning the tax treatment of our domestic operations, including the allocation of income among different jurisdictions, intercompany transactions, pension and related interest. For a further discussion on taxes on earnings, refer to Note 6, “Taxes on Earnings” to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+Inventory
+We state our inventory at the lower of cost or market on a first-in, first-out basis. We make adjustments to reduce the cost of inventory to its net realizable value at the product group level for estimated excess or obsolescence. Factors influencing these adjustments include changes in demand, technological changes, product life cycle and development plans, component cost trends, product pricing, physical deterioration and quality issues.
+Business Combinations
+We allocate the fair value of purchase consideration to the assets acquired, liabilities assumed, and non-controlling interests in the acquiree generally based on their fair values at the acquisition date. The excess of the fair value of purchase consideration over the fair value of these assets acquired, liabilities assumed and non-controlling interests in the acquiree is recorded as goodwill and may involve engaging independent third parties to perform an appraisal. When determining the fair values of assets acquired, liabilities assumed, and non-controlling interests in the acquiree, management makes significant estimates and assumptions, especially with respect to intangible assets.
+Critical estimates in valuing intangible assets include, but are not limited to, expected future cash flows, which includes consideration of future growth rates and margins, attrition rates, future changes in technology and brand awareness, loyalty and position, and discount rates. Fair value estimates are based on the assumptions management believes a market participant would use in pricing the asset or liability. Amounts recorded in a business combination may change during the measurement period, which is a period not to exceed one year from the date of acquisition, as additional information about conditions existing at the acquisition date becomes available.
+
+39
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+Goodwill
+We review goodwill for impairment annually during our fourth quarter and whenever events or changes in circumstances indicate the carrying amount of goodwill may not be recoverable. A qualitative assessment is first performed to determine if the fair value of a reporting unit is more likely than not to be less than its carrying amount. Judgment in the assessment of qualitative factors of impairment may include changes in business climate, market conditions, or other events impacting the reporting unit. If we determine an impairment is more likely than not based on our qualitative assessment, a quantitative assessment of impairment is performed.
+Performing a quantitative goodwill impairment test includes the determination of the fair value of a reporting unit and involves significant estimates and assumptions. These estimates and assumptions include, among others, revenue growth rates and operating margins used to calculate projected future cash flows, risk-adjusted discount rates, future economic and market conditions, and the determination of appropriate market comparables. If we determine the carrying amount exceeds fair value, goodwill is impaired and the excess is recognized as an impairment loss.
+Loss Contingencies
+We are involved in various lawsuits, claims, investigations and proceedings including those consisting of intellectual property (“IP”), commercial, securities, employment, employee benefits and environmental matters that arise in the ordinary course of business. We record a liability when we believe that it is both probable that a liability has been incurred and the amount of loss can be reasonably estimated. Significant judgment is required to determine both the probability of having incurred a liability and the estimated amount of the liability. We review these matters at least quarterly and adjust these liabilities to reflect the impact of negotiations, settlements, rulings, advice of legal counsel and other updated information and events, pertaining to a particular case. Pursuant to the separation and distribution agreement, we share responsibility with Hewlett Packard Enterprise for certain matters, as discussed in Note 14, “Litigation and Contingencies” to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference, and Hewlett Packard Enterprise has agreed to indemnify us in whole or in part with respect to certain matters. Based on our experience, we believe that any damage amounts claimed in the specific litigation and contingencies matters further discussed in Note 14, “Litigation and Contingencies”, are not a meaningful indicator of HP’s potential liability. Litigation is inherently unpredictable. However, we believe we have valid defenses with respect to legal matters pending against us. Nevertheless, cash flows or results of operations could be materially affected in any particular period by the resolution of one or more of these contingencies. We believe we have recorded adequate provisions for any such matters and, as of October 31, 2020, it was not reasonably possible that a material loss had been incurred in excess of the amounts recognized in our financial statements.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+For a summary of recent accounting pronouncements applicable to our consolidated financial statements see Note 1, “Overview and Summary of Significant Accounting Policies” to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+RESULTS OF OPERATIONS
+Revenue from our international operations has historically represented, and we expect will continue to represent, a majority of our overall net revenue. As a result, our net revenue growth has been impacted, and we expect it will continue to be impacted, by fluctuations in foreign currency exchange rates. In order to provide a framework for assessing performance excluding the impact of foreign currency fluctuations, we supplement the year-over-year percentage change in net revenue with the year-over-year percentage change in net revenue on a constant currency basis, which excludes the effect of foreign currency exchange fluctuations calculated by translating current period revenues using monthly average exchange rates from the comparative period and hedging activities from the prior-year period and does not adjust for any repricing or demand impacts from changes in foreign currency exchange rates. This information is provided so that net revenue can be viewed with and without the effect of fluctuations in foreign currency exchange rates, which is consistent with how management evaluates our net revenue results and trends, as management does not believe that the excluded items are reflective of ongoing operating results. The constant currency measures are provided in addition to, and not as a substitute for, the year-over-year percentage change in net revenue on a GAAP basis. Other companies may calculate and define similarly labeled items differently, which may limit the usefulness of this measure for comparative purposes.
+
+40
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+Results of operations in dollars and as a percentage of net revenue were as follows:
+
+----------------------------------- ------------------------------------- ------ ---------------- ----- ------- - ---------------- - ------- ----- ---------------- ----- ------ - ------ - ----- -
+ For the fiscal years ended October 31
+ 2020 2019 2018
+ Dollars % of Net Revenue Dollars % of Net Revenue Dollars % of Net Revenue
+ Dollars in millions
+Net revenue $ 56,639 100.0 % $ 58,756 100.0 % $ 58,472 100.0 %
+Cost of revenue 46,202 81.6 % 47,586 81.0 % 47,803 81.8 %
+Gross profit 10,437 18.4 % 11,170 19.0 % 10,669 18.2 %
+Research and development 1,478 2.6 % 1,499 2.6 % 1,404 2.4 %
+Selling, general and administrative 4,906 8.6 % 5,368 9.1 % 5,099 8.7 %
+Restructuring and other charges 462 0.9 % 275 0.4 % 132 0.2 %
+Acquisition-related charges 16 — % 35 0.1 % 123 0.2 %
+Amortization of intangible assets 113 0.2 % 116 0.2 % 80 0.1 %
+Earnings from operations 3,462 6.1 % 3,877 6.6 % 3,831 6.6 %
+Interest and other, net (231) (0.4) % (1,354) (2.3) % (818) (1.4) %
+Earnings before taxes 3,231 5.7 % 2,523 4.3 % 3,013 5.2 %
+(Provision for) benefit from taxes (387) (0.7) % 629 1.1 % 2,314 3.9 %
+Net earnings $ 2,844 5.0 % $ 3,152 5.4 % $ 5,327 9.1 %
+
+Net Revenue
+In fiscal year 2020, total net revenue decreased 3.6% (decreased 2.3% on a constant currency basis) as compared to the prior-year period. Net revenue from the United States decreased 1.8% to $20.2 billion and net revenue from outside of the United States decreased 4.6% to $36.4 billion. The decrease in net revenue was primarily driven by decline in Desktops, Supplies, Commercial Printing Hardware and unfavorable foreign currency impacts, partially offset by growth in Notebooks. The decline is driven by demand weakness as businesses remained closed and office workers continued to work from home, partially offset by strong demand in Notebooks.
+In fiscal year 2019, total net revenue increased 0.5% (increased 2.0% on a constant currency basis) as compared to the prior-year period. Net revenue from the United States remained flat at $20.6 billion and net revenue from outside of the United States increased 0.7% to $38.2 billion. The increase in net revenue was primarily driven by growth in Notebooks, Desktops and Workstations in Personal Systems, partially offset by unfavorable foreign currency impacts and a decline in Printing Supplies.
+A detailed discussion of the factors contributing to the changes in segment net revenue is included under “Segment Information” below.
+Gross Margin
+Our gross margin was 18.4% for fiscal year 2020 compared with 19.0% for fiscal year 2019. The decrease was primarily due to unfavorable segment mix and lower rate in Printing hardware partially offset by higher rate in Personal Systems driven by favorable commodity costs.
+Our gross margin was 19.0% for fiscal year 2019 compared with 18.2% for fiscal year 2018. The increase was primarily due to higher rate in Personal Systems driven by lower supply chain costs.
+A detailed discussion of the factors contributing to the changes in segment gross margins is included under “Segment Information” below.
+Operating Expenses
+Research and Development (“R&D”)
+R&D expense decreased 1.4% in fiscal year 2020 compared to the prior-year period, primarily due to expense management partially offset by continuing investments in innovation and key growth initiatives.
+R&D expense increased 6.7% in fiscal year 2019 compared to the prior-year period, primarily due to continuing investments in innovation and key growth initiatives.
+
+41
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+Selling, General and Administrative (“SG&A”)
+SG&A expense decreased 8.6% in fiscal year 2020 as compared to the prior-year period, driven by structural cost savings from the transformation program and the benefits of temporary discretionary cost actions.
+SG&A expense increased 5.3% in fiscal year 2019 as compared to the prior-year period, primarily driven by increased investments in key growth initiatives and go-to-market in Personal Systems and investment in digital infrastructure.
+Restructuring and other Charges
+Restructuring and other charges increased by $187 million in fiscal year 2020 compared to the prior-year period, primarily due to charges from the Fiscal 2020 Plan.
+Restructuring and other charges increased by $143 million in fiscal year 2019 compared to the prior-year period, primarily due to charges from the Fiscal 2020 Plan and the restructuring plan approved in October 2016 (the “Fiscal 2017 Plan”), which was later amended in May 2018.
+Acquisition-related Charges
+Acquisition-related charges for the fiscal years 2020, 2019 and 2018 relate primarily to third-party professional and legal fees, and integration-related costs, as well as fair value adjustments of certain acquired assets such as inventory.
+Amortization of Intangible Assets
+Amortization of intangible assets for the fiscal year ended 2020 relates primarily to intangible assets resulting from prior acquisitions.
+Amortization expense increased by $36 million in fiscal year 2019 compared to the prior-year period, due to intangible assets resulting primarily from the acquisition of the Apogee group.
+Interest and Other, Net
+Interest and other, net expense decreased by $1.1 billion in fiscal year 2020 compared to the prior-year period, primarily due to reversal of indemnification receivables from Hewlett Packard Enterprise pertaining to various audit settlements in the prior- year period.
+Interest and other, net expense increased by $0.5 billion in fiscal year 2019 compared to the prior-year period, primarily due to tax indemnifications related to the termination of the tax matters agreement (“TMA”) with Hewlett Packard Enterprise during the fourth quarter of fiscal year 2019.
+ (Provision for) Benefit from Taxes
+Our effective tax rates were 12.0%, (24.9%) and (76.8%) in fiscal years 2020, 2019 and 2018, respectively. In fiscal year 2020, our effective tax rate generally differs from the U.S. federal statutory rate of 21% primarily due to the resolution of various audits and favorable tax rates associated with certain earnings in lower-tax jurisdictions throughout the world. In fiscal year 2019, our effective tax rate generally differs from the U.S. federal statutory rate of 21% primarily due to the resolution of various audits, changes in valuation allowances, and impacts of U.S. tax reform. In fiscal year 2018, our effective tax rate generally differs from the U.S. federal statutory rate of 23.3% primarily due to transitional impacts of U.S. tax reform and resolution of various audits and tax litigation. The jurisdictions with favorable tax rates that had the most significant impact on our effective tax rate in the periods presented were Puerto Rico, Singapore, China and Malaysia.
+For a reconciliation of our effective tax rate to the U.S. federal statutory rate of 21% in fiscal years 2020 and 2019 and 23.3% in fiscal year 2018, and further explanation of our provision for income taxes, see Note 6, “Taxes on Earnings” to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+In fiscal year 2020, we recorded $244 million of net income tax benefit related to discrete items in the provision for taxes. This amount includes tax benefits related to audit settlements of $124 million in various jurisdictions and $82 million related to restructuring benefits. Additionally, we recorded benefits of $20 million related to proxy contest costs and $17 million of other net tax benefits. In fiscal year 2020, excess tax benefits associated with stock options, restricted stock units and performance-adjusted restricted stock units were immaterial.
+In fiscal year 2019, we recorded $1.3 billion of net income tax benefit related to discrete items in the provision for taxes. This amount includes tax benefits related to audit settlements of $1.0 billion, $75 million due to ability to utilize tax attributes, $57 million of restructuring benefits and net valuation allowance releases of $94 million. We also recorded benefits of $78 million related to U.S. tax reform as a result of new guidance issued by the U.S. Internal Revenue Service (“IRS”). These benefits were partially offset by uncertain tax position charges of $51 million. In fiscal year 2019, in addition to the discrete items mentioned above, we recorded excess tax benefits of $20 million associated with stock options, restricted stock units and performance-adjusted restricted stock units.
+
+42
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+In fiscal year 2018, we recorded $2.8 billion of net income tax benefit related to discrete items in the provision for taxes which include impacts of the Tax Cuts and Jobs Act (“TCJA”). As discussed in the Note 6 “Taxes on Earnings” to the Consolidated Financial Statements in Item 8 of this report, we had not yet completed our analysis of the full impact of the TCJA. However, as of October 31, 2018, we recorded a provisional tax benefit of $760 million related to $5.6 billion net benefit for the decrease in our deferred tax liability on unremitted foreign earnings, partially offset by $3.3 billion net expense for the deemed repatriation tax payable in installments over eight years, a $1.2 billion net expense for the remeasurement of our deferred assets and liabilities to the new U.S. statutory tax rate and a $317 million net expense related to realization on U.S. deferred taxes that are expected to be realized at a lower rate. Fiscal year 2018 also included tax benefits related to audit settlements of $1.5 billion and valuation allowance releases of $601 million pertaining to a change in our ability to utilize certain foreign and U.S. deferred tax assets due to a change in our geographic earnings mix. These benefits were partially offset by other net tax charges of $34 million. In fiscal year 2018, in addition to the discrete items mentioned above, we recorded excess tax benefits of $42 million associated with stock options, restricted stock units and performance-adjusted restricted stock units.
+
+Segment Information
+A description of the products and services for each segment can be found in Note 2, “Segment Information,” to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference. Future changes to this organizational structure may result in changes to the segments disclosed.
+
+Personal Systems
+
+---------------------------------------------- ------------------------------------- ------ ---- - ----- ------ - ----- ------
+ For the fiscal years ended October 31
+ 2020 2019 2018
+ Dollars in millions
+Net revenue $ 38,997 $ 38,694 $ 37,661
+Earnings from operations $ 2,312 $ 1,898 $ 1,402
+Earnings from operations as a % of net revenue 5.9% 4.9 % 3.7%
+
+ The components of net revenue and the weighted net revenue change by business unit were as follows:
+
+---------------------- ------------------------------------- ------ ------------------------------------------------ ------ ---- ------ ------ ---- ------ --- ---
+ For the fiscal years ended October 31
+ Net Revenue Weighted Net Revenue Change Percentage Points(1)
+ 2020 2019 2018 2020 2019
+ In millions
+Notebooks $ 25,766 $ 22,928 $ 22,547 7.3 1.0
+Desktops 9,806 12,046 11,567 (5.8) 1.3
+Workstations 1,816 2,389 2,246 (1.5) 0.4
+Other 1,609 1,331 1,301 0.8 —
+Total Personal Systems $ 38,997 $ 38,694 $ 37,661 0.8 2.7
+
+(1) Weighted Net Revenue Change Percentage Points measures contribution of each business unit towards overall segment revenue growth. It is calculated by dividing the change in revenue of each business unit from the prior-year period by total segment revenue for the prior-year period.
+Fiscal Year 2020 compared with Fiscal Year 2019
+Personal Systems net revenue increased 0.8% (increased 2.3% on a constant currency basis) in fiscal year 2020 as compared to the prior-year period. The net revenue increase was primarily due to growth in Notebooks, partially offset by Desktops and Workstations, and unfavorable foreign currency impacts. The net revenue increase was driven by a 4.8% increase in unit volume partially offset by 3.8% decrease in average selling prices (“ASPs”) as compared to the prior-year period. The increase in unit volume was primarily due to growth in Notebooks resulting from strong demand driven by work from home, distance learning and gaming, partially offset by Desktops and Workstations. The decrease in ASPs was primarily due to mix shifts to consumer and education, and unfavorable foreign currency impacts. Consumer revenue increased 12.8% as compared to prior-year period, driven by unit growth in Notebooks, and higher ASPs. Commercial revenue decreased 4.8% as compared to the prior-year period, primarily driven by lower ASPs and unit declines in Desktops and Workstations, partially offset by unit growth in Notebooks.
+
+43
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+Net revenue increased 12.4% in Notebooks and decreased 18.6% in Desktops and 24.0% in Workstations in fiscal year 2020 as compared to the prior-year period.
+Personal Systems earnings from operations as a percentage of net revenue increased by 1.0 percentage points in fiscal year 2020 as compared to the prior-year period, primarily due to in an increase in gross margin, and decrease in operating expenses as a percentage of revenue. The increase in gross margin was primarily due to favorable commodity costs partially offset by mix shifts. The decrease in operating expenses as a percentage of revenue was primarily due to reduction in marketing spend and our ongoing structural cost savings plan.
+Fiscal Year 2019 compared with Fiscal Year 2018
+Personal Systems net revenue increased 2.7% (increased 4.9% on a constant currency basis) in fiscal year 2019 as compared to the prior-year period. The net revenue increase was primarily due to growth in Notebooks, Desktops and Workstations, partially offset by unfavorable foreign currency impacts. The net revenue increase was driven by a 2.2% increase in unit volume and 0.5% increase in average selling prices (“ASPs”) as compared to the prior-year period. The increase in unit volume was primarily due to growth in Notebooks and Desktops. The increase in ASPs was primarily due to positive mix shifts and higher pricing, partially offset by unfavorable foreign currency impacts. Commercial revenue increased 7.0% primarily driven by higher unit volume partially offset by unfavorable foreign currency impacts, and consumer revenue decreased by 5.5% primarily driven by lower unit volume, respectively, in fiscal year 2019 as compared to the prior-year period.
+Net revenue increased 1.7% in Notebooks, 4.1% in Desktops and 6.4% in Workstations in fiscal year 2019 as compared to the prior-year period.
+Personal Systems earnings from operations as a percentage of net revenue increased by 1.2 percentage points in fiscal year 2019 as compared to the prior-year period, primarily due to in an increase in gross margin, partially offset by an increase in operating expenses. The increase in gross margin was primarily due to lower supply chain costs and higher ASPs. The increase in operating expenses was primarily due to increased investments in key growth initiatives and go-to-market.
+
+Printing
+
+---------------------------------------------- ------------------------------------- ------ ----- - ------ - ------
+ For the fiscal years ended October 31
+ 2020 2019 2018
+ Dollars in millions
+Net revenue $ 17,641 $ 20,066 $ 20,805
+Earnings from operations $ 2,495 $ 3,202 $ 3,314
+Earnings from operations as a % of net revenue 14.1% 16.0% 15.9%
+
+The components of the net revenue and weighted net revenue change by business unit were as follows:
+
+------------------- ------------------------------------- ------ ------------------------------------------------ ----- ---- ------ ----- ---- ------ ------ -----
+ For the fiscal years ended October 31
+ Net Revenue Weighted Net Revenue Change Percentage Points(1)
+ 2020 2019 2018 2020 2019
+ In millions
+Supplies $ 11,586 $ 12,921 $ 13,575 (6.7) (3.2)
+Commercial Hardware 3,539 4,612 4,514 (5.3) 0.5
+Consumer Hardware 2,516 2,533 2,716 (0.1) (0.9)
+Total Printing $ 17,641 $ 20,066 $ 20,805 (12.1) (3.6)
+
+(1) Weighted Net Revenue Change Percentage Points measures the contribution of each business unit towards overall segment revenue growth. It is calculated by dividing the change in revenue of each business unit from the prior period by total segment revenue for the prior-year period.
+
+Fiscal Year 2020 compared with Fiscal Year 2019
+Printing net revenue decreased 12.1% (decreased 11.2% on a constant currency basis) for fiscal year 2020 as compared to the prior-year period. The decline in net revenue was primarily driven by a decline in Supplies, Commercial Hardware and unfavorable foreign currency impacts. Net revenue for Supplies decreased 10.3% as compared to the prior-year period, primarily driven by demand weakness as businesses operated with reduced onsite capacity and a majority of office workers continue to work from home. ASPs decreased 15.9% and printer unit volume decreased 5.1% as compared to the prior-year
+
+44
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+period. Printer ASPs decreased primarily due to mix shifts and unfavorable foreign currency impact. The decrease in printer unit volume was driven by unit decreases in both Commercial and Consumer Hardware.
+Net revenue for Commercial Hardware decreased 23.3% as compared to the prior-year period, due to a 19.4% decrease in printer volume and a 19.6% decrease in ASPs. The printer unit volume decline was due to lower demand as businesses operated with reduced onsite capacity due to COVID-19. The decrease in ASPs was driven by mix shifts, competitive pricing and unfavorable foreign currency impacts.
+Net revenue for Consumer Hardware decreased 0.7% as compared to the prior-year period, due to a decrease in printer unit volume by 2.7% partially offset by 2.0% increase in ASPs. The printer unit volume decrease was driven by supply chain disruptions due to COVID-19. The increase in ASPs was primarily due to disciplined pricing, partially offset by mix shifts and unfavorable foreign currency impacts.
+Printing earnings from operations as a percentage of net revenue decreased by 1.9 percentage points for the fiscal year 2020 as compared to the prior-year period, primarily due to lower net revenue in Commercial Hardware, higher Consumer mix, supply chain disruptions partially offset by disciplined pricing and improved Supplies mix.
+Fiscal Year 2019 compared with Fiscal Year 2018
+Printing net revenue decreased 3.6% (decreased 3.0% on a constant currency basis) for fiscal year 2019 as compared to prior-year period. The decline in net revenue was primarily driven by a decline in Supplies, Consumer Hardware revenue and unfavorable foreign currency impacts, partially offset by an increase in Commercial Hardware revenue. Net revenue for Supplies decreased 4.8% as compared to the prior-year period, primarily due to demand weakness. Printer unit volume decreased 4.8% compared to the prior-year period. The decrease in printer unit volume was driven by unit decrease in Consumer Hardware.
+Net revenue for Commercial Hardware increased 2.2% as compared to the prior-year period, primarily due to the acquisition of the Apogee group.
+Net revenue for Consumer Hardware decreased 6.7% as compared to the prior-year period due to a 5.4% decrease in printer unit volume and 1.7% decrease in ASPs. The unit volume decrease was driven by InkJet Home Consumer business and LaserJet Home business. The decrease in ASPs was primarily due to unfavorable foreign currency impacts.
+Printing earnings from operations as a percentage of net revenue increased by 0.1 percentage points for the fiscal year 2019 as compared to the prior-year period, primarily due to higher gross margin. The gross margin increased primarily due to rate improvement in Commercial Hardware partially offset by lower Supplies revenue.
+
+Corporate Investments
+The loss from operations in Corporate Investments for the fiscal years 2020, 2019 and 2018 was primarily due to expenses associated with HP Labs and our incubation and investment projects.
+
+LIQUIDITY AND CAPITAL RESOURCES
+We use cash generated by operations as our primary source of liquidity. While the impacts from the COVID-19 pandemic are currently expected to be temporary, there is uncertainty around its extent and duration and our liquidity and working capital needs may be impacted in the future periods. We believe that current cash, cash flow from operating activities, new borrowings, available commercial paper authorization and the credit facilities will be sufficient to meet HP’s operating cash requirements, planned capital expenditures, interest and principal payments on all borrowings, pension and post-retirement funding requirements, authorized share repurchases and annual dividend payments for the foreseeable future. Additionally, in the event that suitable businesses are available for acquisition that offer good return opportunities, the Company may obtain all or a portion of the financing for these acquisitions through additional borrowings. While our access to capital markets may be constrained and our cost of borrowing may increase under certain business, market and economic conditions, our access to a variety of funding sources to meet our liquidity needs is designed to facilitate continued access to capital resources under all such conditions. Our liquidity is subject to various risks including the risks identified in the section entitled “Risk Factors” in Item 1A and market risks identified in the section entitled “Quantitative and Qualitative Disclosures about Market Risk” in Item 7A, which are incorporated herein by reference.
+On February 22, 2020, HP’s Board of Directors increased HP’s share repurchase authorization to $15.0 billion.
+
+45
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+Our cash and cash equivalents balances are held in numerous locations throughout the world. We utilize a variety of planning and financing strategies in an effort to ensure that our worldwide cash is available when and where it is needed. Amounts held outside of the United States are generally utilized to support non-U.S. liquidity needs and may from time to time be distributed to the United States. The TCJA made significant changes to the U.S. tax law, including a one-time transition tax on accumulated foreign earnings. The payments associated with this one-time transition tax will be paid over eight years and began in fiscal year 2019. We expect a significant portion of the cash and cash equivalents held by our foreign subsidiaries will no longer be subject to U.S. income tax upon a subsequent repatriation to the United States as a result of the transition tax on accumulated foreign earnings. However, a portion of this cash may still be subject to foreign income tax or withholding tax upon repatriation. As we evaluate the future cash needs of our operations, we may revise the amount of foreign earnings considered to be permanently reinvested in our foreign subsidiaries and how to utilize such funds, including reducing our gross debt level, or other uses.
+Liquidity
+ Our cash and cash equivalents, marketable debt securities and total debt were as follows:
+
+----------------------------- ---------------- --- ---- ---- --- - ---
+ As of October 31
+ 2020 2019 2018
+ In billions
+Cash and cash equivalents $ 4.9 $ 4.5 $ 5.2
+Marketable debt securities(1) $ 0.3 $ — $ 0.7
+Total debt $ 6.2 $ 5.1 $ 6.0
+
+(1)Includes highly liquid U.S. treasury notes, U.S. agency securities, non-U.S. government bonds, corporate debt securities, money market and other funds. We classify these investments within Other current assets in Consolidated Balance Sheets, including those with maturity dates beyond one year, based on their highly liquid nature and availability for use in current operations.
+Our key cash flow metrics were as follows:
+
+---------------------------------------------------- ------------------------------------- ----- ---- ------- ---- ----- ------- - -------
+ For the fiscal years ended October 31
+ 2020 2019 2018
+ In millions
+Net cash provided by operating activities $ 4,316 $ 4,654 $ 4,528
+Net cash used in investing activities (1,016) (438) (716)
+Net cash used in financing activities (2,973) (4,845) (5,643)
+Net increase (decrease) in cash and cash equivalents $ 327 $ (629) $ (1,831)
+
+Operating Activities
+Net cash provided by operating activities decreased by $0.3 billion for fiscal year 2020 as compared to fiscal year 2019, primarily due to lower cash generated from working capital activities as a result of changes in demand dynamics due to COVID-19 and lower earnings from operation.
+Net cash provided by operating activities increased marginally by $0.1 billion for fiscal year 2019 as compared to fiscal year 2018.
+Working Capital Metrics
+Management utilizes current cash conversion cycle information to manage our working capital level. The table below presents the cash conversion cycle:
+
+--------------------------------------------------------- ---------------- ---- ----- ---- -----
+ As of October 31
+ 2020 2019 2018
+Days of sales outstanding in accounts receivable (“DSO”) 32 35 30
+Days of supply in inventory (“DOS”) 43 41 43
+Days of purchases outstanding in accounts payable (“DPO”) (105) (107) (105)
+Cash conversion cycle (30) (31) (32)
+
+46
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+The cash conversion cycle is the sum of days of DSO and DOS less DPO. Items which may cause the cash conversion cycle in a particular period to differ from a long-term sustainable rate include, but are not limited to, changes in business mix, changes in payment terms, extent of receivables factoring, seasonal trends and the timing of revenue recognition and inventory purchases within the period.
+DSO measures the average number of days our receivables are outstanding. DSO is calculated by dividing ending accounts receivable, net of allowance for doubtful accounts, by a 90-day average of net revenue. For fiscal year 2020, the decrease in DSO as compared to fiscal year 2019, was due to favorable revenue linearity and strong collections. For fiscal year 2019, the increase in DSO as compared to fiscal year 2018, was primarily due to unfavorable revenue linearity.
+DOS measures the average number of days from procurement to sale of our product. DOS is calculated by dividing ending inventory by a 90-day average of cost of goods sold. For fiscal year 2020, the increase in DOS as compared to fiscal year 2019 was primarily due to leveraging our balance sheet, particularly through higher strategic buys. For fiscal year 2019, the decrease in DOS compared to fiscal year 2018 was primarily due to reduction in inventory driven by reclassification of certain balances to other current assets pursuant to adoption of the new revenue standard in the first quarter of fiscal 2019.
+DPO measures the average number of days our accounts payable balances are outstanding. DPO is calculated by dividing ending accounts payable by a 90-day average of cost of goods sold. For fiscal year 2020, the decrease in DPO compared to fiscal year 2019 was primarily due to decrease in accounts payables driven by lower operating expenses. For fiscal year 2019, the increase in DPO compared to fiscal year 2018 was higher primarily due to working capital management activities, partially offset by lower inventory purchasing volume.
+Investing Activities
+Net cash used in investing activities increased by $0.6 billion for fiscal year 2020 as compared to fiscal year 2019, primarily due to increase in investment classified as available-for-sale within Other current assets of $1.0 billion partially offset by lower net payments for acquisitions of $0.5 billion.
+Net cash used in investing activities decreased by $0.3 billion for fiscal year 2019 as compared to fiscal year 2018, primarily due to lower net payments for acquisitions.
+Financing Activities
+Net cash used in financing activities decreased by $1.9 billion in fiscal year 2020 compared to fiscal year 2019, primarily due to issuance of senior notes of $3.0 billion partially offset by higher share repurchase of $0.7 billion and higher debt payment of $0.3 billion.
+Net cash used in financing activities decreased by $0.8 billion in fiscal year 2019 compared to fiscal year 2018, primarily due to lower payment of debt of $1.5 billion, partially offset by a decrease in outstanding commercial paper amounts of $0.7 billion.
+Capital Resources
+Debt Levels
+
+------------------------------ ------------------- ----- ------ --- ------ --- -----
+ As of October 31
+ 2020 2019 2018
+ Dollars in millions
+Short-term debt $ 674 $ 357 $ 1,463
+Long-term debt $ 5,543 $ 4,780 $ 4,524
+Debt-to-equity ratio (2.8)x (4.3)x (9.4)x
+Weighted-average interest rate 3.9 % 4.6 % 4.3 %
+
+We maintain debt levels that we establish through consideration of a number of factors, including cash flow expectations, cash requirements for operations, investment plans (including acquisitions), share repurchase activities, our cost of capital and targeted leverage ratio.
+Short-term debt increased by $0.3 billion and long-term debt increased by $0.8 billion for fiscal year 2020 as compared to fiscal year 2019. The net increase in total debt was primarily due to issuance of unsecured senior debt in June 2020 in principal amount of $3.0 billion, partially offset by the payment of $1.6 billion for the cash tender offer (“Tender Offer”) and the redemption of existing notes maturing in 2020 and 2021.
+Short-term debt decreased by $1.1 billion for fiscal year 2019 as compared to fiscal year 2018 primarily due to a decrease in outstanding commercial paper amounts of $0.9 billion.
+
+47
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+Our debt-to-equity ratio is calculated as the carrying amount of debt divided by total stockholders’ deficit. Our debt-to-equity ratio changed by 1.5x in fiscal year 2020 compared to fiscal year 2019, primarily due to an increase in stockholders’ deficit balance of $1.0 billion.
+Our debt-to-equity ratio changed by 5.1x in fiscal year 2019 compared to fiscal year 2018, primarily due to an increase in stockholders’ deficit balance of $0.6 billion.
+Our weighted-average interest rate reflects the effective interest rate on our borrowings prevailing during the period and reflects the effect of interest rate swaps. For more information on our interest rate swaps, see Note 10, “Financial Instruments” in the Consolidated Financial Statements and notes thereto in Item 8, “Financial Statements and Supplementary Data”.
+As of October 31, 2020, we maintain a senior unsecured committed revolving credit facility with aggregate lending commitments of $4.0 billion, which will be available until March 30, 2023 and is primarily to support the issuance of commercial paper. On May 29, 2020, we entered into a 364-day revolving credit facility providing for a senior unsecured revolving credit facility with aggregate lending commitments of $1.0 billion, which will be available until May 28, 2021. Funds borrowed under these revolving credit facilities may be used for general corporate purposes.
+On June 17, 2020, we issued $3.0 billion aggregate principal amount of senior notes across various maturities. We used approximately $0.7 billion and $0.9 billion of the proceeds from such issuance to fund the Tender Offer and the redemption, respectively, of existing notes maturing in 2020 and 2021. For more information on the new notes and the repurchase and redemption of existing notes, see Note 11, “Borrowings”, to the Consolidated Financial Statements in Item 8 of Part II of this report, which is incorporated herein by reference.
+Available Borrowing Resources
+As of October 31, 2020, we had available borrowing resources of $725 million from uncommitted lines of credit in addition to the senior unsecured committed revolving credit facilities.
+In December 2020, we filed a post-effective amendment to the 2019 Shelf Registration Statement to include certain information that is required to be included by registrants who are not well-known seasoned issuers (as such term is defined in Rule 405 of the Securities Act of 1933, as amended) because we will no longer be a well-known seasoned issuer upon the filing of this Annual Report on Form 10-K. Following the filing of this Annual Report on Form 10-K, we intend to file another post-effective amendment to convert the registration statement to the proper submission type for a non-automatic shelf registration statement. Pending effectiveness of the second post-effective amendment, we can continue to use the 2019 Shelf Registration Statement. Once it is declared effective, the further amended registration statement will enable us to offer for sale, from time to time, in one or more offerings, $5.0 billion, in the aggregate, of debt securities, common stock, preferred stock, depository shares and warrants.
+For more information on our borrowings, see Note 11, “Borrowings”, to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+Credit Ratings
+Our credit risk is evaluated by major independent rating agencies based upon publicly available information as well as information obtained in our ongoing discussions with them. While we do not have any rating downgrade triggers that would accelerate the maturity of a material amount of our debt, previous downgrades have increased the cost of borrowing under our credit facility, have reduced market capacity for our commercial paper and have required the posting of additional collateral under some of our derivative contracts. In addition, any further downgrade to our credit ratings by any rating agencies may further impact us in a similar manner, and, depending on the extent of any such downgrade, could have a negative impact on our liquidity and capital position. We can access alternative sources of funding, including drawdowns under our credit facility, if necessary, to offset potential reductions in the market capacity for our commercial paper.
+
+48
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+CONTRACTUAL AND OTHER OBLIGATIONS
+Our contractual and other obligations as of October 31, 2020, were as follows:
+
+----------------------------- ----------- ------ ---------------------- --- --------- ----- --------- ----------------- ----- ----- ----- - -----
+ Payments Due by Period
+ Total 1 Year orLess 1-3 Years 3-5 Years More than 5 Years
+ In millions
+Principal payments on debt(1) $ 6,225 $ 659 $ 1,313 $ 1,202 $ 3,051
+Interest payments on debt(2) 2,240 244 360 309 1,327
+Purchase obligations(3) 499 290 163 40 6
+Operating lease obligations 1,279 303 438 241 297
+Finance lease obligations 40 22 14 4 —
+Total(4)(5)(6) $ 10,283 $ 1,518 $ 2,288 $ 1,796 $ 4,681
+
+(1)Amounts represent the principal cash payments relating to our short-term and long-term debt and do not include any fair value adjustments, discounts or premiums.
+(2)Amounts represent the expected interest payments relating to our short-term and long-term debt. We have outstanding interest rate swap agreements accounted for as fair value hedges that have the economic effect of changing fixed interest rates associated with some of our U.S. Dollar Global Notes to variable interest rates. The impact of our outstanding interest rate swaps at October 31, 2020 was factored into the calculation of the future interest payments on debt.
+(3)Purchase obligations include agreements to purchase goods or services that are enforceable and legally binding on us and that specify all significant terms, including fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. These purchase obligations are related principally to inventory and other items. Purchase obligations exclude agreements that are cancelable without penalty. Purchase obligations also exclude open purchase orders that are routine arrangements entered into in the ordinary course of business as they are difficult to quantify in a meaningful way. Even though open purchase orders are considered enforceable and legally binding, the terms generally allow us the option to cancel, reschedule, and adjust terms based on our business needs prior to the delivery of goods or performance of services.
+(4)Retirement and Post-Retirement Benefit Plan Contributions. In fiscal year 2021, we expect to contribute approximately $77 million to non-U.S. pension plans, $34 million to cover benefit payments to U.S. non-qualified plan participants and $5 million to cover benefit claims for our post-retirement benefit plans. Our policy is to fund our pension plans so that we meet at least the minimum contribution required by local government, funding and taxing authorities. Expected contributions and payments to our pension and post-retirement benefit plans are excluded from the contractual obligations table because they do not represent contractual cash outflows as they are dependent on numerous factors which may result in a wide range of outcomes. For more information on our retirement and post-retirement benefit plans, see Note 4, “Retirement and Post-Retirement Benefit Plans”, to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(5)Cost Savings Plans. As a result of our approved restructuring plans, we expect to make future cash payments of approximately $0.5 billion. We expect to make future cash payments of $0.2 billion in fiscal year 2021 with remaining cash payments through fiscal year 2023. These payments have been excluded from the contractual obligations table because they do not represent contractual cash outflows and there is uncertainty as to the timing of these payments. For more information on our restructuring activities that are part of our cost improvements, see Note 3, “Restructuring and Other Charges”, to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(6)Uncertain Tax Positions. As of October 31, 2020, we had approximately $475 million of recorded liabilities and related interest and penalties pertaining to uncertain tax positions. We are unable to make a reasonable estimate as to when or if cash settlement with the tax authorities might occur due to the uncertainties related to these tax matters. Payments of these obligations would result from settlements with taxing authorities. For more information on our uncertain tax positions, see Note 6, “Taxes on Earnings”, to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference. These potential payments have been excluded from the contractual obligations table because they do not represent contractual cash outflows and there is uncertainty as to the timing of these potential payments.
+
+49
+
+Table of Contents
+HP INC. AND SUBSIDIARIES
+
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+
+OFF-BALANCE SHEET ARRANGEMENTS
+As part of our ongoing business, we have not participated in transactions that generate material relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+We have third-party short-term financing arrangements intended to facilitate the working capital requirements of certain customers. For more information on our third-party short-term financing arrangements, see Note 7 “Supplementary Financial Information” to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+50
+
+Table of Contents
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[refer to Note 6]:
+NOTE 6. DERIVATIVE FINANCIAL INSTRUMENTS We may use derivatives to partially offset our business exposure to foreign currency and interest rate risk on expected future cash flows, and certain existing assets and liabilities. We do not use any of our derivative instruments for trading purposes. We enter into master netting arrangements to mitigate credit risk in derivative transactions by permitting net settlement of transactions with the same counterparty. We do not offset fair value amounts recognized for derivative instruments under master netting arrangements. We also enter into collateral security agreements with certain of our counterparties to exchange cash collateral when the net fair value of certain derivative instruments fluctuates from contractually established thresholds. Collateral posted is included in prepaid expenses and other current assets and collateral received is included in accrued expenses on our Consolidated Balance Sheets. Cash Flow Hedges In countries outside the United States, we transact business in U.S. Dollars and in various other currencies. We may use foreign exchange option contracts or forward contracts to hedge a portion of our forecasted foreign currency denominated revenue. These foreign exchange contracts, carried at fair value, have maturities of up to twelve months. As of November 29, 2019, total notional amounts of outstanding cash flow hedges were $1.20 billion, hedging exposures denominated in Euros, British Pounds and Japanese Yen. In June 2019, in anticipation of refinancing our $2.25 billion Term Loan due April 30, 2020 and $900 million notes payable due February 1, 2020, we entered into Treasury lock agreements with large financial institutions which fixed benchmark U.S. Treasury rates for an aggregate notional amount of $1 billion of our future debt issuance. These derivative instruments hedge the impact of changes in the benchmark interest rate to future interest payments and will be terminated upon closing of our ant...
+
+[as discussed in Note 14]:
+Note 14 - Liabilities, Commitments and Contingencies 84
+
+[see Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Inc. is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, devices and media. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas, Europe, Middle East and Africa ("EMEA"), and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and...
+
+[see Note 6]:
+NOTE 6. DERIVATIVE FINANCIAL INSTRUMENTS We may use derivatives to partially offset our business exposure to foreign currency and interest rate risk on expected future cash flows, and certain existing assets and liabilities. We do not use any of our derivative instruments for trading purposes. We enter into master netting arrangements to mitigate credit risk in derivative transactions by permitting net settlement of transactions with the same counterparty. We do not offset fair value amounts recognized for derivative instruments under master netting arrangements. We also enter into collateral security agreements with certain of our counterparties to exchange cash collateral when the net fair value of certain derivative instruments fluctuates from contractually established thresholds. Collateral posted is included in prepaid expenses and other current assets and collateral received is included in accrued expenses on our Consolidated Balance Sheets. Cash Flow Hedges In countries outside the United States, we transact business in U.S. Dollars and in various other currencies. We may use foreign exchange option contracts or forward contracts to hedge a portion of our forecasted foreign currency denominated revenue. These foreign exchange contracts, carried at fair value, have maturities of up to twelve months. As of November 29, 2019, total notional amounts of outstanding cash flow hedges were $1.20 billion, hedging exposures denominated in Euros, British Pounds and Japanese Yen. In June 2019, in anticipation of refinancing our $2.25 billion Term Loan due April 30, 2020 and $900 million notes payable due February 1, 2020, we entered into Treasury lock agreements with large financial institutions which fixed benchmark U.S. Treasury rates for an aggregate notional amount of $1 billion of our future debt issuance. These derivative instruments hedge the impact of changes in the benchmark interest rate to future interest payments and will be terminated upon closing of our ant...
+
+[see Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- --------- --------- ---- --------- ---- --------- --------- - --------- (in thousands) 2019 2018 2017 Domestic $ 437,603 $ 542,948 $ 1,056,156 Foreign 2,767,138 2,250,928 1,081,485 Income before income taxes $ 3,204,741 $ 2,793,876 $ 2,137,641 The provision for income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- ------- ------- ---- -------- ---- ------- ------- - - ------- (in thousands) 2019 2018 2017 Current: United States federal $ 6,563 $ 501,272 $ 298,802 Foreign 211,174 140,308 60,962 State and local 30,893 28,612 33,578 Total current 248,630 670,192 393,342 Deferred: United States federal 22,528 (466,113 ) 48,905 Foreign (11,675 ) (9,734 ) (4,242 ) State and local (6,200 ) 8,757 5,682 Total deferred 4,653 (467,090 ) 50,345 Provision for income taxes $ 253,283 $ 203,102 $ 443,687 88  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) U.S. Tax Reform On December 22, 2017, the Tax Cuts and Jobs Act (the "Tax Act") was enacted into law, which significantly changed existing U.S. tax law and includes many provisions applicable to us, such as reducing the U.S. federal statutory tax rate, imposing a one-time transition tax on deemed repatriation of deferred foreign income and adopting a territorial tax system. The Tax Act reduced the U.S. federal statutory tax rate from 35% to 21% effective January 1, 2018. For fiscal 2018, our blended U.S. federal statutory tax rate was 22.2%. This was the result of using the tax rate of 35% for the first month of fiscal 2018 and the reduced tax rate of 21% for the remaining eleven months of fiscal 2018. The Tax Act also required us to incur a one-time transition tax on deferred foreign income not previously subject to U.S. income tax at a rate of 15.5% for foreign cash and certain other net current assets, and 8% on the remaining income,...
+
+[see Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $4.54 billion of non-cancelable contractual commitments as of December 31, 2019, which is primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Legal Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking 94  unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class a...
+
+[see Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $4.54 billion of non-cancelable contractual commitments as of December 31, 2019, which is primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Legal Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking 94  unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class a...
+
+[see Note 4]:
+(4) Adjusted income tax rate is calculated as adjusted income tax expense as a percentage of income from consolidated operations before income taxes, excluding transaction and integration expenses and special charges, or $840.0 million, $780.1 million, and $694.1 million for the years ended November 30, 2019, 2018, and 2017, respectively. 32 ------------------------------------- -------------- ---------------------------------------------- Estimate for the year ending November 30, 2020 Earnings per share - diluted $5.15 to $5.25 Impact of special charges 0.05 Adjusted earnings per share - diluted $5.20 to $5.30 Because we are a multi-national company, we are subject to variability of our reported U.S. dollar results due to changes in foreign currency exchange rates. Those changes have been volatile over the past several years. The exclusion of the effects of foreign currency exchange, or what we refer to as amounts expressed "on a constant currency basis," is a non-GAAP measure. We believe that this non-GAAP measure provides additional information that enables enhanced comparison to prior periods excluding the translation effects of changes in rates of foreign currency exchange and provides additional insight into the underlying performance of our operations located outside of the U.S. It should be noted that our presentation herein of amounts and percentage changes on a constant currency basis does not exclude the impact of foreign currency transaction gains and losses (that is, the impact of transactions denominated in other than the local currency of any of our subsidiaries in their local currency reported results). Percentage changes in sales and adjusted operating income expressed on a constant currency basis are presented excluding the impact of foreign currency exchange. To present this information for historical periods, current year results for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at the average exchan...
+
+[see Note 3]:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, a privately held 3D editing and authoring software company for gaming and entertainment, and integrated it into our Digital Media reportable segment. Prior to the acquisition, we held an equity interest that was accounted for as an equity-method investment. We acquired the remaining equity interest for approximately $106.2 million in cash consideration. The total purchase price, inclusive of the acquisition-date fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 million, which represents the difference between the $54.8 million acquisition-date fair value of our pre-existing equity interest and our previous carrying amount. Under the acquisition method of accounting, the total final purchase price was allocated to Allegorithmic's net tangible and intangible assets based upon their estimated fair values as of the acquisition date. The excess purchase price over the value of the net tangible and identifiable intangible assets was recorded as goodwill. Of the total purchase price, $125.9 million was allocated to goodwill that was non-deductible for tax purposes, $44.8 million to identifiable intangible assets and the remainder to net liabilities assumed. Pro forma financial information has not been presented for the Allegorithmic acquisition as the impact to our Consolidated Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash consideration. Adding Marketo's engagement platform to Adobe Experience Cloud furthers our long-term plan for strategic growth in the Digital Experience segment and enables us to offer a comprehensive set of solutions to enable customers across industries...
+
+[see Note 6]:
+NOTE 6. DERIVATIVE FINANCIAL INSTRUMENTS We may use derivatives to partially offset our business exposure to foreign currency and interest rate risk on expected future cash flows, and certain existing assets and liabilities. We do not use any of our derivative instruments for trading purposes. We enter into master netting arrangements to mitigate credit risk in derivative transactions by permitting net settlement of transactions with the same counterparty. We do not offset fair value amounts recognized for derivative instruments under master netting arrangements. We also enter into collateral security agreements with certain of our counterparties to exchange cash collateral when the net fair value of certain derivative instruments fluctuates from contractually established thresholds. Collateral posted is included in prepaid expenses and other current assets and collateral received is included in accrued expenses on our Consolidated Balance Sheets. Cash Flow Hedges In countries outside the United States, we transact business in U.S. Dollars and in various other currencies. We may use foreign exchange option contracts or forward contracts to hedge a portion of our forecasted foreign currency denominated revenue. These foreign exchange contracts, carried at fair value, have maturities of up to twelve months. As of November 29, 2019, total notional amounts of outstanding cash flow hedges were $1.20 billion, hedging exposures denominated in Euros, British Pounds and Japanese Yen. In June 2019, in anticipation of refinancing our $2.25 billion Term Loan due April 30, 2020 and $900 million notes payable due February 1, 2020, we entered into Treasury lock agreements with large financial institutions which fixed benchmark U.S. Treasury rates for an aggregate notional amount of $1 billion of our future debt issuance. These derivative instruments hedge the impact of changes in the benchmark interest rate to future interest payments and will be terminated upon closing of our ant...
+
+[see Note 7]:
+(7) Lennar Other Evaluation of segment performance is based primarily on operating earnings (loss) before income taxes. Operations of the Company's homebuilding segments primarily include the construction and sale of single-family attached and detached homes, as well as the purchase, development and sale of residential land directly and through the Company's unconsolidated entities. Operating earnings (loss) for the homebuilding segments consist of revenues generated from the sales of homes and land, equity in earnings (loss) from unconsolidated entities and other income (expense), net, less the cost of homes sold and land sold, selling, general and administrative expenses incurred by the segment and loss due to litigation. The Company's reportable homebuilding segments and all other homebuilding operations not required to be reported separately, have homebuilding divisions located in: East: Florida, New Jersey, North Carolina, Pennsylvania and South Carolina Central: Georgia, Illinois, Indiana, Maryland, Minnesota, Tennessee and Virginia Texas: Texas West: Arizona, California, Colorado, Nevada, Oregon, Utah and Washington Other: Urban divisions and other homebuilding related investments primarily in California, including Five Point Holdings, LLC ("FivePoint") Operations of the Financial Services segment include primarily mortgage financing, title and closing services primarily for buyers of the Company's homes. It also includes originating and selling into securitizations commercial mortgage loans through its RMF business. The Financial Services segment sells substantially all of the loans it originates within a short period of time in the secondary mortgage market, the majority of which are sold on a servicing released, non-recourse basis. After the loans are sold, the Company retains potential liability for possible claims by purchasers that it breached certain limited industry standard representations and warranties in the loan sale agreements. Financial Service...
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31

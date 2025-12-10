@@ -1,0 +1,794 @@
+================================================================================
+CIK: 0000833444
+Company Name: Johnson Controls International plc
+Filing Date: 2023-12-14
+Form Type: 10-K
+Extraction Date: 2025-09-03 15:36:00
+================================================================================
+
+ITEM 7    MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+General
+
+Johnson Controls International plc, headquartered in Cork, Ireland, is a global leader in smart, healthy and sustainable buildings, serving a wide range of customers in more than 150 countries. The Company’s products, services, systems and solutions advance the safety, comfort and intelligence of spaces to serve people, places and the planet. The Company is committed to helping its customers win and creating greater value for all of its stakeholders through its strategic focus on buildings.
+
+The Company is a global leader in engineering, manufacturing, commissioning and retrofitting building products and systems, including residential and commercial HVAC equipment, industrial refrigeration systems, controls, security systems, fire-detection systems and fire-suppression solutions. The Company further serves customers by providing technical services, including maintenance, management, repair, retrofit and replacement of equipment (in the HVAC, industrial refrigeration, controls, security and fire-protection space), energy-management consulting and data-driven “smart building” services and solutions powered by its OpenBlue software platform and capabilities. The Company partners with customers by leveraging its broad product portfolio and digital capabilities, powered by OpenBlue, together with its direct channel service and solutions capabilities, to deliver outcome-based solutions across the lifecycle of a building that address customers’ needs to improve energy efficiency, enhance security, create healthy environments and reduce greenhouse gas emissions.
+
+The Company's fiscal year ends on September 30. Unless otherwise stated, references to years in this report relate to fiscal years rather than calendar years. This discussion summarizes the significant factors affecting the consolidated operating results, financial condition and liquidity of the Company for the year ended September 30, 2023. This discussion should be read in conjunction with Item 8, the consolidated financial statements and the notes to consolidated financial statements. A detailed discussion of the 2022 to 2021 year-over-year changes are not included herein and can be found in the Management's Discussion and Analysis of Financial Condition and Results of Operations in the Company's 2022 Annual Report on Form 10-K filed November 15, 2022 under the heading "Fiscal year 2022 compared to fiscal year 2021" which is incorporated herein by reference.
+
+Macroeconomic Trends
+
+Much of the demand for the Company’s products and solutions is driven by construction, facility expansion, retrofit and maintenance projects within the commercial, institutional, industrial, data center, governmental and residential sectors. Construction projects are heavily dependent on general economic conditions, localized demand for real estate and the availability of credit, public funding or other financing sources. Positive or negative fluctuations in construction, industrial facility expansion, retrofit activity, maintenance projects and other capital investments in buildings within the sectors that the Company serves, as well as availability of credit, financing or funding for such projects, could have a corresponding impact on the Company’s financial condition, results of operations and cash flows. The economic conditions in China, specifically challenges in real estate, began negatively impacting the Building Solutions Asia Pacific segment in the fourth quarter of fiscal 2023. The Company expects continued softening in China in fiscal 2024.
+
+As a result of the Company’s global presence, a significant portion of its revenues and expenses is denominated in currencies other than the U.S. dollar. The Company is therefore subject to non-U.S. currency risks and non-U.S. exchange exposure. While the Company employs financial instruments to hedge some of its transactional foreign exchange exposure, these activities do not insulate it completely from those exposures. In addition, the currency exposure from the translation of non-U.S. dollar functional currency subsidiaries are not able to be hedged. Exchange rates can be volatile and a substantial weakening or strengthening of foreign currencies against the U.S. dollar could increase or reduce the Company’s profit margin, respectively, and impact the comparability of results from period to period. During fiscal 2023, revenue and profits were adversely impacted due to the strengthening of the U.S. dollar against foreign currencies.
+
+The Company continues to observe trends demonstrating increased interest and demand for its products and services that enable smart, safe, efficient and sustainable buildings. This demand is driven in part by government tax incentives, building performance standards and other regulations designed to limit emissions and combat climate change. In particular, legislative and regulatory initiatives such as the U.S. Climate Smart Buildings Initiative, U.S. Inflation Reduction Act and EU Energy Performance of Buildings Directive include provisions designed to fund and encourage investment in decarbonization and digital technologies for buildings. This demand is supplemented by an increase in commitments in both the public and private sectors to reduce emissions and/or achieve net zero emissions. The Company seeks to capitalize on these trends to drive growth by developing and delivering technologies and solutions to create smart, sustainable and healthy buildings. The Company is
+
+30
+
+investing in new digital and product capabilities, including its OpenBlue platform, to enable it to deliver sustainable, high-efficiency products and tailored services to enable customers to achieve their sustainability goals. The Company is leveraging its install base, together with data-driven products and services to offer outcome-based solutions to customers with a focus on generating accelerated growth in services and recurring revenue.
+
+The Company has experienced, and could continue to experience, increased material cost inflation and component shortages, as well as disruptions and delays in its supply chain, as a result of global macroeconomic trends, including increased global demand, geopolitical and economic tensions, including the conflicts between Russia and Ukraine and Israel and Hamas, and labor shortages. Actions taken by the Company to mitigate supply chain disruptions and inflation, including expanding and redistributing its supplier network, supplier financing, price increases and productivity improvements, have generally been successful in offsetting some, but not all, of the impact of these trends. The collective impact of these trends has been favorable to revenue due to increased demand and price increases to offset inflation, while negatively impacting margins due to supply chain disruptions and cost pressures. However, during fiscal 2023, the Company observed improved margins as supply chain disruptions eased and higher priced backlog was converted to sales. Although the Company has experienced recent improvement in its supply chain, it could experience further disruptions, shortages and cost increases in the future, the effect of which will depend on the Company’s ability to successfully mitigate and offset the impact of these events.
+
+The extent to which the Company’s results of operations and financial condition are impacted by these and other factors in the future will depend on developments that are highly uncertain and cannot be predicted. See Part I, Item 1A, of this Annual Report on Form 10-K for an additional discussion of risks.
+
+Cybersecurity Incident
+
+During the weekend of September 23, 2023, the Company experienced a cybersecurity incident impacting its internal information technology ("IT") infrastructure and applications. The incident was detected shortly after receiving reports of outages to certain of the Company’s systems. Promptly after detecting the issue, the Company implemented its incident management and response plan and business continuity plans, including implementing remediation measures to mitigate the impact of the incident and restore affected systems and functions. The Company also engaged leading cybersecurity experts and other specialized consultants to assist in its investigation and remediation of the incident, as well as the restoration of impacted applications and systems. The Company’s investigation and remediation efforts remain ongoing, including the analysis of data accessed, exfiltrated or otherwise impacted during the cybersecurity incident. Based on the information reviewed to date, the Company believes the unauthorized activity has been contained and has not observed evidence of any impact to its digital products, services and solutions, including OpenBlue and Metasys.
+
+The cybersecurity incident consisted of unauthorized access, data exfiltration and deployment of ransomware by a third party to a portion of the Company’s internal IT infrastructure. The incident caused disruptions and limitation of access to portions of the Company’s business applications supporting aspects of the Company’s operations and corporate functions, which disruptions and limitations continued into the early portion of the first quarter of fiscal 2024. To date, the Company has largely restored the impacted applications and systems.
+
+Lost and deferred revenues and expenses related to the cybersecurity incident adversely impacted fiscal 2023 net income by approximately $30 million, or approximately $0.04 per diluted share. This was primarily attributable to order processing and logistics disruptions and delays, and expenses associated with the response to, and remediation of, the incident.
+
+The Company has incurred and expects to incur additional expenses associated with the response to, and remediation of, the incident in fiscal 2024, most of which the Company expects to incur in the first half of the year. These expenses include third-party expenditures, including IT recovery and forensic experts and others performing professional services to investigate and remediate the incident, as well as incremental operating expenses incurred from the resulting disruption to the Company’s business operations. Further, the cybersecurity incident caused disruptions to certain of the Company’s billing systems, which is expected to negatively impact cash provided from continuing operations during the first quarter of fiscal 2024. The overall impact of the cybersecurity incident in fiscal 2024 is not expected to be material to net income, net of insurance recoveries, or cash flows from continuing operations; however, the timing of recognizing the insurance recoveries may differ from the timing of recognizing the associated expenses.
+
+The Company maintains insurance covering certain losses associated with cybersecurity incidents. The Company did not recognize any insurance recoveries related to the cybersecurity incident in the three months ended September 30, 2023. The Company currently expects that a substantial portion of its direct costs incurred related to containing, investigating and remediating the incident, as well as business interruption losses, will be reimbursed through insurance recoveries.
+
+31
+
+Restructuring and Cost Optimization Initiatives
+
+To better align its resources with its growth strategies and reduce the cost structure of its global operations in certain underlying markets, the Company commits to restructuring plans as necessary. In the third quarter of fiscal 2023, the Company began developing a restructuring plan with certain actions focused on continued scaling of Selling, general and administrative expenses ("SG&A") to its planned growth. The scope of the plan was substantially finalized in the fourth quarter of fiscal 2023 and certain actions related to this plan were committed and executed during the fourth quarter, primarily related to workforce reductions, and were recorded to restructuring and impairment costs in the consolidated statements of income. Additional restructuring charges are expected in subsequent quarters. The Company expects savings from the restructuring initiatives to be substantially offset by incremental ongoing operating costs and investments to grow the business. Restructuring charges incurred during the first and second quarters of fiscal 2023 were the result of other segment and Corporate-level restructuring plans.
+
+FISCAL YEAR 2023 COMPARED TO FISCAL YEAR 2022
+
+Net Sales
+
+------------- ------------------------ ------ ---- ------ ------ - -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Net sales $ 26,793 $ 25,299 6 %
+
+The increase in net sales was due to higher organic sales ($1,997 million) and the favorable net impact of acquisitions and divestitures ($113 million), partially offset by the unfavorable impact of foreign currency translation ($616 million). Excluding the impact of foreign currency translation and business acquisitions and divestitures, consolidated net sales increased 8% over the prior year, attributable to increased pricing in response to inflation pressures. Refer to the "Segment Analysis" below within Item 7 for a discussion of net sales by segment.
+
+Cost of Sales / Gross Profit
+
+------------- ------------------------ ------ ---- ----- ------ ------ - - - -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Cost of sales $ 17,822 $ 16,956 5 %
+Gross profit 8,971 8,343 8 %
+% of sales 33.5 % 33.0 %
+
+Cost of sales and gross profit both increased and gross profit as a percentage of sales increased by 50 basis points. Gross profit increased due to organic sales growth and favorable price/cost, partially offset by the unfavorable impact of foreign currency translation ($192 million) and the unfavorable year-over-year impact of net pension mark-to-market adjustments ($42 million). Gross profit as a percentage of sales increased primarily due to favorable price/cost. Refer to the "Segment Analysis" below within Item 7 for a discussion of segment earnings before interest, taxes and amortization ("EBITA").
+
+Selling, General and Administrative Expenses
+
+-------------------------------------------- ------------------------ ----- ---- ---- ------ ----- - -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Selling, general and administrative expenses $ 6,181 $ 5,945 4 %
+% of sales 23.1 % 23.5 %
+
+Selling, general and administrative expenses ("SG&A") increased by $236 million, and SG&A as a percentage of sales improved by 40 basis points. The increase in SG&A was primarily due to certain investments to support growth, one-time transaction and separation costs, the unfavorable year-over-year impact of net mark-to-market adjustments ($84 million) and a loss associated with a fire at a leased warehouse facility ($40 million), partially offset by non-recurring environmental remediation charges in the prior year ($255 million) and favorable foreign currency translation ($118 million). Refer to the "Segment Analysis" below within Item 7 for a discussion of segment EBITA.
+
+32
+
+Restructuring and Impairment Costs
+
+---------------------------------- ------------------------ ----- ---- ------ --- -- -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Restructuring and impairment costs $ 1,064 $ 721 48 %
+
+Restructuring and impairment costs in fiscal 2023 includes $498 million of impairment charges related to businesses classified or previously classified as held for sale, $276 million in severance and other charges resulting from restructuring initiatives, $184 million of goodwill impairment charges related to the Silent-Aire reporting unit, and $106 million of impairment charges for various long-lived assets.
+
+Restructuring and impairment costs in fiscal 2022 includes $359 million of impairment charges related to the North America and Global Retail business which was previously held for sale, $182 million in severance and other charges resulting from restructure initiatives, $105 million of impairments for a business and assets previously held for sale, and $75 million of goodwill impairment charges related to the Silent-Aire reporting unit.
+
+Refer to "Note 3, "Assets and Liabilities Held for Sale & Discontinued Operations," Note 7, "Property, Plant and Equipment," Note 8, "Goodwill and Other Intangible Assets," and Note 17, "Restructuring and Related Costs," of the notes to consolidated financial statements for further disclosure related to the Company's restructuring plans and impairment costs.
+
+Net Financing Charges
+
+----------------------------------------------------- ------------------------ --- ---- ---- ------ --- -- - -- -
+ Year Ended September 30,
+ 2023 2022 Change
+
+Interest expense, net of capitalized interest costs $ 307 $ 225 36 %
+Other financing charges 52 27 93 %
+Gain on debt extinguishment (25) — *
+Interest income (18) (6) *
+Net foreign exchange results for financing activities (35) (33) 6 %
+Net financing charges $ 281 $ 213 32 %
+
+* Measure not meaningful
+
+Refer to Note 10, "Debt and Financing Arrangements," of the notes to consolidated financial statements for further disclosure related to the Company's debt.
+
+Equity Income
+
+------------- ------------------------ --- ---- ------ --- - -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Equity income $ 265 $ 246 8 %
+
+The increase in equity income was primarily due to higher income at certain partially-owned affiliates of the Johnson Controls - Hitachi joint venture. Refer to the "Segment Analysis" below within Item 7 for a discussion of segment EBITA.
+
+Income Tax Provision
+
+-------------------- ------------------------ ----- ---- --- ------ ---- -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Income tax (benefit) $ (323) $ (13) *
+Effective tax rate (19) % (1) %
+
+* Measure not meaningful
+
+33
+
+The statutory tax rate in Ireland of 12.5% is being used as a comparison since the Company is domiciled in Ireland.
+
+For fiscal 2023, the effective tax rate for continuing operations was (19)% and was lower than the statutory tax rate primarily due to the favorable tax impacts of intellectual property tax adjustments, tax reserve adjustments as the result of tax audit resolutions and remeasurements, valuation allowance adjustments and the benefits of continuing global tax planning initiatives, partially offset by the unfavorable impact of impairment and restructuring charges.
+
+For fiscal 2022, the effective tax rate for continuing operations was (1)% and was lower than the statutory tax rate primarily due to favorable impact of tax reserve adjustments as the result of expired statute of limitations for certain tax years and the benefits of continuing global tax planning initiatives, partially offset by the unfavorable impact of impairment and restructuring charges, valuation allowance adjustments, and the establishment of a deferred tax liability on the outside basis difference of the Company's investment in certain subsidiaries as a result of the planned divestitures and tax rate differentials.
+
+The fiscal 2023 effective tax rate was lower than fiscal 2022 primarily due to tax reserve adjustments as the result of tax audit resolutions, valuation allowance adjustments and the benefits of continuing global tax planning initiatives, partially offset by the impact of impairment and restructuring charges. Refer to Note 18, "Income Taxes," of the notes to consolidated financial statements for further details.
+
+The U.S. enacted the Inflation Reduction Act of 2022 (“IRA”) in August 2022, which, among other sections, creates a new book minimum tax of at least 15% of consolidated GAAP pre-tax income for corporations with average book income in excess of $1 billion. The book minimum tax will first apply to the Company in fiscal 2024. The Company does not expect the IRA to have a material impact on its effective tax rate, however, it is possible that the U.S. Congress could advance other tax legislation proposals in the future that could have a material impact on the Company's tax rate. In addition, in October 2021, the Organization for Economic Co-operation and Development ("OECD")/G20 inclusive framework on Base Erosion and Profit Shifting (the Inclusive Framework) published a statement updating and finalizing the key components of a two-pillar plan on global tax reform which has now been agreed upon by the majority of OECD members. Pillar One allows countries to reallocate a portion of residual profits earned by multinational enterprises ("MNE"), with an annual global revenue exceeding €20 billion and a profit margin over 10%, to other market jurisdictions. The adoption of Pillar One and its potential effective date remain uncertain. Pillar Two requires MNEs with an annual global revenue exceeding €750 million to pay a global minimum tax of 15%. On December 15, 2022, the Council of the EU formally adopted Directive (EU) 2022/2523 (the “Pillar Two Directive”) to achieve a coordinated implementation of Pillar Two in EU Member States consistent with EU law. On October 19, 2023, the Irish Minster of Finance published Irish Finance (No.2) Bill 2023, which includes implementation of the 15% Pillar Two global minimum tax. The bill, subject to amendment during the legislative process, is expected to be signed into law by late December. The Pillar Two legislation is anticipated to be effective for the Company with the fiscal year beginning October 1, 2024. The Company is continuing to evaluate the potential impact on future periods of the Pillar Two Framework, pending legislative adoption by individual countries, as such changes could result in an increase in its effective tax rate.
+
+Income Attributable to Noncontrolling Interests
+
+----------------------------------------------- ------------------------ --- ---- ------ --- -- -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Income attributable to noncontrolling interests $ 184 $ 191 -4 %
+
+The decrease in income attributable to noncontrolling interests was primarily due to lower net income at certain partially-owned affiliates within the Global Products segment.
+
+Net Income Attributable to Johnson Controls
+
+------------------------------------------- ------------------------ ----- ---- ------ ----- -- -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Net income attributable to Johnson Controls $ 1,849 $ 1,532 21 %
+
+The increase in net income attributable to Johnson Controls was primarily due to higher gross profit and higher income tax benefits, partially offset by higher restructuring and impairment costs and higher SG&A. Diluted earnings per share attributable to Johnson Controls was $2.69 for the year ended September 30, 2023 compared to $2.19 for the year ended September 30, 2022.
+
+34
+
+Comprehensive Income Attributable to Johnson Controls
+
+----------------------------------------------------- ------------------------ ----- ---- ------ ----- -- -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Comprehensive income attributable to Johnson Controls $ 1,805 $ 1,055 71 %
+
+The increase in comprehensive income attributable to Johnson Controls was due to an increase in other comprehensive income attributable to Johnson Controls ($433 million) resulting primarily from reductions in foreign currency translation expense and an increase in net income attributable to Johnson Controls ($317 million).
+
+SEGMENT ANALYSIS
+
+Management evaluates the performance of its business units based primarily on segment EBITA, which represents income from continuing operations before income taxes and noncontrolling interests, excluding general corporate expenses, intangible asset amortization, net financing charges, restructuring and impairment costs, and net mark-to-market adjustments related to pension and postretirement plans and restricted asbestos investments.
+
+-------------------------------- ---------------------------------------- ------ ---- ----- -------------------------------------------- ------ ---- - ---- ----- ------ - ----- --- ----- -- -
+ Net Salesfor the Year EndedSeptember 30, Segment EBITAfor the Year EndedSeptember 30,
+(in millions) 2023 2022 Change 2023 2022 Change
+Building Solutions North America $ 10,330 $ 9,367 10 % $ 1,394 $ 1,122 24 %
+Building Solutions EMEA/LA 4,096 3,845 7 % 316 358 -12 %
+Building Solutions Asia Pacific 2,746 2,714 1 % 343 332 3 %
+Global Products 9,621 9,373 3 % 1,965 1,594 23 %
+ $ 26,793 $ 25,299 6 % $ 4,018 $ 3,406 18 %
+
+Net Sales
+
+•The increase in Building Solutions North America was due to organic growth, including higher prices ($979 million) and incremental sales related to business acquisitions ($29 million), partially offset by the unfavorable impact of foreign currency translation ($45 million). Excluding the impacts of business acquisitions and foreign currency translation, sales growth was led by growth in HVAC & Controls and Fire & Security.
+
+•The increase in Building Solutions EMEA/LA was due to organic growth, including higher prices ($324 million) and the net impact of business acquisitions and divestitures ($29 million), partially offset by the unfavorable impact of foreign currency translation ($102 million). Excluding the impacts of foreign currency translation and business acquisitions and divestitures, sales growth was led by growth in Fire & Security and HVAC & Controls.
+
+•The increase in Building Solutions Asia Pacific was due to organic growth, including higher prices ($182 million) and the net impact of business acquisitions and divestitures ($19 million), partially offset by the unfavorable impact of foreign currency translation ($169 million). The economic conditions in China, specifically challenges in real estate, began negatively impacting the Building Solutions Asia Pacific segment in the fourth quarter of fiscal 2023, but had an insignificant impact on results for the full year. Excluding the impacts of foreign currency translation and business acquisitions and divestitures, sales growth was led by continued demand for HVAC & Controls.
+
+•The increase in Global Products was due to the net impact of higher prices and lower volumes ($512 million) and incremental sales related to business acquisitions ($36 million), partially offset by the unfavorable impact of foreign currency translation ($300 million). Excluding the impacts of foreign currency translation and business acquisitions, sales growth was driven by strong price realization and growth in Commercial HVAC and Industrial Refrigeration products.
+
+35
+
+Segment EBITA
+
+•The increase in Building Solutions North America was primarily due to favorable price/cost, volume leverage and productivity savings, partially offset by unfavorable project mix.
+
+•The decrease in Building Solutions EMEA/LA reflects the unfavorable impact of foreign currency translation ($13 million) and higher expenses, partially offset by favorable price/cost.
+
+•The increase in Building Solutions Asia Pacific was primarily due to favorable price/cost and productivity savings, partially offset by the unfavorable impact of foreign currency translation ($25 million).
+
+•The increase in Global Products was primarily due to favorable price/cost and productivity savings, partially offset by unfavorable mix, lower gross margin due to lower manufacturing absorption, an uninsured loss associated with a fire at a leased warehouse facility and the unfavorable impact of foreign currency translation ($42 million).
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Working Capital
+
+-------------------------------------- ------------- ------ ---- -------- ------ ------ -- - - -
+ September 30,
+(in millions) 2023 2022 Change
+Current assets $ 10,737 $ 11,685
+Current liabilities (11,084) (11,239)
+ (347) 446 *
+
+Less: Cash and cash equivalents (835) (2,031)
+Add: Short-term debt 385 669
+Add: Current portion of long-term debt 645 865
+
+Working capital (as defined) $ (152) $ (51) *
+
+Accounts receivable - net $ 6,006 $ 5,727 5 %
+Inventories 2,776 2,665 4 %
+Accounts payable 4,268 4,368 -2 %
+
+* Measure not meaningful
+
+•The Company defines working capital as current assets less current liabilities, excluding cash and cash equivalents, short-term debt, the current portion of long-term debt, and current assets and liabilities held for sale (when applicable). Management believes that this measure of working capital, which excludes financing-related items and businesses to be divested, provides a more useful measurement of the Company’s operating performance.
+
+•The decrease in working capital at September 30, 2023 as compared to September 30, 2022, was primarily due to an increase in deferred revenue and lower income tax assets, partially offset by an increase in accounts receivable due to increased sales and timing of collections.
+
+•Days sales in accounts receivable were 50 at September 30, 2023, comparable to 51 at September 30, 2022. There has been no significant adverse change in the level of overdue receivables or significant changes in revenue recognition methods.
+
+•The Company’s inventory turns for the year ended September 30, 2023 were slightly lower than the comparable period ended September 30, 2022.
+
+•Days in accounts payable were 84 days at September 30, 2023, down slightly from 88 days at September 30, 2022. The decrease was primarily due to timing of payments.
+
+36
+
+Cash Flows From Continuing Operations
+
+------------------------------------- ------------------------ ----- ---- ----- - -----
+ Year Ended September 30,
+(in millions) 2023 2022
+Cash provided by operating activities $ 2,221 $ 1,990
+Cash used by investing activities (1,184) (693)
+Cash used by financing activities (2,174) (516)
+
+•The increase in cash provided by operating activities reflects higher net income and the favorable impact of inventory, income tax and accounts receivable activity, which was partially offset by the timing of accounts payable and accrued liabilities payments.
+
+•The increase in cash used by investing activities was primarily due to the FM:Systems acquisition. Refer to Note 2, "Acquisitions and Divestitures," of the notes to the consolidated financial statements for further disclosure related to the FM:Systems and other acquisitions.
+
+•The decrease in cash provided by financing activities was primarily due to changes in short- and long-term borrowing activity. The net impact of debt proceeds and repayments used cash of $433 million in fiscal 2023 and generated cash of $2.0 billion in fiscal 2022. This increase in cash used was partially offset by lower stock repurchases.
+
+Capitalization
+
+----------------------------------------------------- ------------- ------ ---- ------ ------ ------ -- - - -
+ September 30,
+(in millions) 2023 2022 Change
+Short-term debt $ 385 $ 669
+Current portion of long-term debt 645 865
+Long-term debt 7,818 7,426
+Total debt 8,848 8,960 -1 %
+Less: Cash and cash equivalents 835 2,031
+Total net debt 8,013 6,929 16 %
+
+Shareholders’ equity attributable to Johnson Controls 16,545 16,268 2 %
+Total capitalization $ 24,558 $ 23,197 6 %
+
+Total net debt as a % of total capitalization 32.6 % 29.9 %
+
+•Net debt and net debt as a percentage of total capitalization are non-GAAP financial measures. The Company believes the percentage of total net debt to total capitalization is useful to understanding the Company’s financial condition as it provides a view of the extent to which the Company relies on external debt financing for its funding and is a measure of risk to its shareholders.
+
+•The Company's material cash requirements primarily consist of working capital requirements, repayments of long-term debt and related interest, operating leases, dividends, capital expenditures, potential acquisitions and share repurchases.
+
+•Refer to Note 10, "Debt and Financing Arrangements," of the notes to consolidated financial statements for additional information on debt obligations and maturities. Interest payable on long-term debt is $283 million in the twelve months following September 30, 2023 and $3.6 billion thereafter.
+
+•Refer to Note 9, "Leases," of the notes to consolidated financial statements for additional information on lease obligations and maturities.
+
+•As of September 30, 2023, purchase obligations are $1.8 billion payable in the next twelve months and $240 million payable thereafter. These purchase obligations represent commitments under enforceable and legally binding agreements, and do not represent all future expected purchases.
+
+•As of September 30, 2023, the Company expects to contribute $26 million and $203 million to the global pension and postretirement plans in the next twelve months and thereafter, respectively.
+
+37
+
+•As of September 30, 2023, approximately $3.0 billion remains available under the Company's share repurchase authorization, which does not have an expiration date and may be amended or terminated by the Board of Directors at any time without prior notice. The Company expects to repurchase outstanding shares from time to time depending on market conditions, alternate uses of capital, liquidity and economic environment.
+
+•The Company declared dividends of $1.45 per share in fiscal 2023 and intends to continue paying quarterly dividends in fiscal 2024.
+
+•The Company believes its capital resources and liquidity position, including cash and cash equivalents of $835 million at September 30, 2023, are adequate to fund operations and meet its obligations for the foreseeable future. The Company expects requirements for working capital, capital expenditures, dividends, minimum pension contributions, debt maturities and any potential acquisitions or stock repurchases in fiscal 2024 will be funded from operations, supplemented by short- and long-term borrowings, if required.
+
+–The Company manages its short-term debt position in the U.S. and euro commercial paper markets and bank loan markets. Commercial paper outstanding was $200 million as of September 30, 2023 and $172 million as of September 30, 2022.
+
+–The Company maintains a shelf registration statement with the SEC under which it may issue additional debt securities, ordinary shares, preferred shares, depository shares, warrants purchase contracts and units that may be offered in one or more offerings on terms to be determined at the time of the offering. The Company anticipates that the proceeds of any offering would be used for general corporate purposes, including repayment of indebtedness, acquisitions, additions to working capital, repurchases of ordinary shares, dividends, capital expenditures and investments in the Company's subsidiaries.
+
+–The Company has the ability to draw on its syndicated $2.5 billion committed revolving credit facility, which was scheduled to expire in December 2024, and a syndicated $500 million committed revolving credit facility, which expired in November 2023. Both credit facilities were renewed on December 11, 2023. The $2.5 billion facility is now scheduled to expire in December 2028 and the $500 million facility is now scheduled to expire in December 2024. There were no draws on the facilities as of September 30, 2023.
+
+•The Company's ability to access the global capital markets and the related cost of financing is dependent upon, among other factors, the Company's credit ratings. As of September 30, 2023, the Company's credit ratings and outlook were as follows:
+
+------------- ----------------- ---------------- --------
+Rating Agency Short-Term Rating Long-Term Rating Outlook
+S&P A-2 BBB+ Stable
+Moody's P-2 Baa2 Positive
+
+The security ratings set forth above are issued by unaffiliated third party rating agencies and are not a recommendation to buy, sell or hold securities. The ratings may be subject to revision or withdrawal by the assigning rating organization at any time.
+
+•The Company entered into the following debt transactions in fiscal 2023:
+
+–Repaid $1.6 billion of debt including the following:
+▪€200 million term loan with an interest rate of EURIBOR plus 0.5%
+▪$32 million Senior Notes due 2023 with an interest rate of 4.625%
+▪€150 million term loan with an interest rate of 0.0%
+▪€135 million term loan with an interest rate of EURIBOR plus 0.5%
+▪€846 million Senior Notes due 2023 with an interest rate of 1.0%
+▪Tendered $105 million of its Notes due 2045 with an interest rate of 5.125%
+
+–Issued $1.2 billion of debt including the following:
+▪€150 million term loan with an interest rate of EURIBOR plus 0.7% which is due in April 2024
+▪€150 million term loan with an interest rate of EURIBOR plus 0.4% which is due March 2024
+▪Together with its wholly owned subsidiary, Tyco Fire & Security Finance S.C.A., co-issued €800 million in 4.25% Senior Notes due May 2035
+
+38
+
+•Financial covenants in the Company's revolving credit facilities require a minimum consolidated shareholders’ equity attributable to Johnson Controls of at least $3.5 billion at all times. The revolving credit facility also limits the amount of debt secured by liens that may be incurred to a maximum aggregated amount of 10% of consolidated shareholders’ equity attributable to Johnson Controls for liens and pledges. For purposes of calculating these covenants, consolidated shareholders’ equity attributable to Johnson Controls is calculated without giving effect to (i) the application of ASC 715-60, "Defined Benefit Plans - Other Postretirement," or (ii) the cumulative foreign currency translation adjustment. As of September 30, 2023, the Company was in compliance with all financial covenants set forth in its credit agreements and the indentures governing its outstanding notes, and expects to remain in compliance for the foreseeable future. None of the Company’s debt agreements limit access to stated borrowing levels or require accelerated repayment in the event of a decrease in the Company's credit rating.
+
+•The Company earns a significant amount of its income outside of the parent company. Outside basis differences in these subsidiaries are deemed to be permanently reinvested except in limited circumstances. The Company currently does not intend nor foresee a need to repatriate undistributed earnings included in the outside basis differences other than in tax efficient manners. The Company's intent is to reduce basis differences only when it would be tax efficient. The Company expects existing U.S. cash and liquidity to continue to be sufficient to fund the Company’s U.S. operating activities and cash commitments for investing and financing activities for at least the next twelve months and thereafter for the foreseeable future. In the U.S., should the Company require more capital than is generated by its operations, the Company could elect to raise capital in the U.S. through debt or equity issuances. The Company has borrowed funds in the U.S. and continues to have the ability to borrow funds in the U.S. at reasonable interest rates. In addition, the Company expects existing non-U.S. cash, cash equivalents, short-term investments and cash flows from operations to continue to be sufficient to fund the Company’s non-U.S. operating activities and cash commitments for investing activities, such as material capital expenditures, for at least the next twelve months and thereafter for the foreseeable future. Should the Company require more capital at the Luxembourg and Ireland holding and financing entities, other than amounts that can be provided in tax efficient methods, the Company could also elect to raise capital through debt or equity issuances. These alternatives could result in increased interest expense or other dilution of the Company’s earnings.
+
+•The Company may from time to time purchase its outstanding debt through open market purchases, privately negotiated transactions or otherwise. Purchases or retirement of debt, if any, will depend on prevailing market conditions, liquidity requirements, contractual restrictions and other factors. The amounts involved may be material.
+
+Co-Issued Securities: Summarized Financial Information
+
+The following information is provided in compliance with Rule 13-01 of Regulation S-X under the Securities Exchange Act of 1934 with respect to the following unsecured, unsubordinated senior notes (collectively, ("the Notes) which were issued by Johnson Controls International plc ("Parent Company") and Tyco Fire & Security Finance S.C.A. (“TFSCA”):
+
+•€500 million aggregate principal amount of 0.375% Senior Notes due 2027
+•€600 million aggregate principal amount of 3.000% Senior Notes due 2028
+•$625 million aggregate principal amount of 1.750% Senior Notes due 2030
+•$500 million aggregate principal amount of 2.000% Sustainability-Linked Senior Notes due 2031
+•€500 million aggregate principal amount of 1.000% Senior Notes due 2032
+•$400 million aggregate principal amount of 4.900% Senior Notes due 2032
+•€800 million aggregate principal amount of 4.25% Senior Notes due 2035
+
+TFSCA is a corporate partnership limited by shares (société en commandite par actions) incorporated and organized under the laws of the Grand Duchy of Luxembourg (“Luxembourg”) and is a wholly-owned consolidated subsidiary of the Company that is 99.924% owned directly by the Parent Company and 0.076% owned by TFSCA’s sole general partner and manager, Tyco Fire & Security S.à r.l., which is itself wholly-owned by the Company. The Parent Company is incorporated and organized under the laws of Ireland. TFSCA is incorporated and organized under the laws of Luxembourg. The bankruptcy, insolvency, administrative, debtor relief and other laws of Luxembourg or Ireland, as applicable, may be materially different from, or in conflict with, those of the United States, including in the areas of rights of creditors, priority of governmental and other creditors, ability to obtain post-petition interest and duration of the proceeding. The application of these laws, or any conflict among them, could adversely affect noteholders’ ability to enforce their rights under the Notes in those jurisdictions or limit any amounts that they may receive.
+
+39
+
+The tables below set forth summarized financial information of the Parent Company and TFSCA (collectively, the “Obligor Group”) on a combined basis after intercompany transactions have been eliminated, including adjustments to remove the receivable and payable balances, investment in, and equity in earnings from, those subsidiaries of the Parent Company other than TFSCA (collectively, the "Non-Obligor Subsidiaries").
+
+The following table presents summarized income statement information for the year ended September 30, 2023 (in millions):
+
+----------------------------------------------- ------------ - ------------------------ ----- - -
+
+ ObligorGroup Non-Obligor Subsidiaries
+Net sales $ — $ —
+Gross profit — —
+Loss from continuing operations (458) (139)
+Net loss (458) (139)
+Income attributable to noncontrolling interests — —
+Net loss attributable to the entity (458) (139)
+
+The following table presents summarized balance sheet information as of September 30, 2023 (in millions):
+
+------------------------ ------------ -- ------------------------ ----- - -----
+ ObligorGroup Non-Obligor Subsidiaries
+Current assets $ 26 $ 5,608
+Noncurrent assets 270 1,882
+Current liabilities 3,652 9,289
+Noncurrent liabilities 7,585 3,462
+Noncontrolling interests — —
+
+The same accounting policies as described in Note 1, "Summary of Significant Accounting Policies," of the notes to consolidated financial statements are used by the Parent Company and each of its subsidiaries in connection with the summarized financial information presented above.
+
+CRITICAL ACCOUNTING ESTIMATES
+
+The Company prepares its consolidated financial statements in conformity with accounting principles generally accepted in the United States of America ("U.S. GAAP"). This requires management to make estimates and assumptions that affect reported amounts and related disclosures. Actual results could differ from those estimates. The following estimates are considered by management to be the most critical to the understanding of the Company's consolidated financial statements as they require significant judgments that could materially impact the Company’s results of operations, financial position and cash flows.
+
+Revenue Recognition
+
+The Company recognizes revenue from certain long-term contracts on an over time basis, with progress towards completion measured using a cost-to-cost input method based on the relationship between actual costs incurred and total estimated costs at completion. Total estimated costs at completion are based primarily on estimated purchase contract terms, historical performance trends and other economic projections. Factors that may result in a change to these estimates include unforeseen engineering problems, construction delays, cost inflation, the performance of subcontractors and major material suppliers, and weather conditions. As a result, changes to the original estimates may be required during the life of the contract. Such estimates are reviewed monthly and any adjustments to the measure of completion are recognized as adjustments to sales and gross profit using the cumulative catch-up method. Estimated losses are recorded when identified.
+
+For agreements with multiple performance obligations, the Company allocates the transaction price of the contract to each performance obligation using the best estimate of the relative standalone selling price of each distinct good or service in the contract. In order to estimate relative standalone selling price, market data and transfer price studies are utilized. If the standalone selling price is not directly observable, the Company estimates the standalone selling price using an adjusted market assessment approach or expected cost plus margin approach.
+
+40
+
+The Company assesses variable consideration that may affect the total transaction price, including discounts, rebates, refunds, credits or other similar sources of variable consideration, when determining the transaction price of each contract. The Company includes variable consideration in the estimated transaction price when it is probable that significant reversal of revenue recognized would not occur when the uncertainty associated with variable consideration is subsequently resolved. These estimates are based on the amount of consideration that the Company expects to be entitled to.
+
+Goodwill and Indefinite-Lived Intangible Assets
+
+The Company performs impairment reviews for its reporting units, which have been determined to be the Company’s reportable segments or one level below the reportable segments in certain instances, using a fair value method based on management’s judgments and assumptions or third party valuations. The fair value of a reporting unit refers to the price that would be received to sell the unit as a whole in an orderly transaction between market participants at the measurement date. In estimating the fair value, the Company uses the multiples of earnings approach based on the average of published multiples of earnings of comparable entities with similar operations and economic characteristics and applies the multiples to the Company's average of historical and future financial results for each reporting unit. In certain instances, the Company uses discounted cash flow analyses or estimated sales price to further support the fair value estimates. The assumptions included in the impairment tests require judgment, and changes to these inputs could impact the results of the calculations. The key assumptions used in the impairment tests were management's projections of future cash flows, weighted-average cost of capital and long-term growth rates. Although the Company's cash flow forecasts are based on assumptions that are considered reasonable by management and consistent with the plans and estimates management is using to operate the underlying businesses, there are significant judgments in determining the expected future cash flows attributable to a reporting unit.
+
+Management completed its fiscal 2023 annual impairment test as of July 31. The fair value of all reporting units substantially exceeded their carrying values, with the exception of one reporting unit with $455 million of goodwill whose fair value in excess of its carrying value was approximately 10%. For this reporting unit, a 1% increase in the discount rate, or a 1.5% decrease in the revenue growth rates, would cause the fair value to be less than the carrying value. While no impairment was recorded, it is possible that future changes in circumstances could result in a non-cash impairment charge.
+
+Indefinite-lived intangible assets are also subject to at least annual impairment testing in the fourth fiscal quarter or as events occur or circumstances change that indicate the assets may be impaired. Indefinite-lived intangible assets primarily consist of trademarks and trade names and are tested for impairment using a relief-from-royalty method. A considerable amount of management judgment and assumptions are required in performing the impairment tests. The key assumptions used in the impairment tests were long-term revenue growth projections, weighted-average cost of capital, the royalty rate and general industry, market and macro-economic conditions. The assumptions included in the impairment tests require judgment, and changes to these inputs could impact the results of the calculations. The key assumptions used in the impairment tests were management's projections of future cash flows, weighted-average cost of capital and long-term growth rates. Although the Company's cash flow forecasts are based on assumptions that are considered reasonable by management and consistent with the plans and estimates management is using to operate the underlying businesses, there are significant judgments in determining the expected future cash flows attributable to a reporting unit.
+
+During fiscal 2023, the Company impaired $184 million of goodwill in its Silent-Aire reporting unit.
+
+The Company continuously monitors for events and circumstances that could negatively impact the key assumptions in determining fair value. While the Company believes the judgments and assumptions used in the goodwill and indefinite-lived intangible impairment tests are reasonable, different assumptions or changes in general industry, market and macro-economic conditions could change the estimated fair values and, therefore, future impairment charges could be required, which could be material to the consolidated financial statements.
+
+Refer to Note 8, "Goodwill and Other Intangible Assets," of the notes to consolidated financial statements for information regarding the results of goodwill and indefinite-lived intangible assets impairment testing performed in fiscal 2023 and 2022.
+
+Pension Plans
+
+The Company provides a range of benefits to its employees and retired employees, including pensions. Plan assets and obligations are measured annually, or more frequently if there is a significant remeasurement event, based on the Company’s measurement date utilizing various actuarial assumptions such as discount rates, assumed rates of return and compensation increases as of that date. The Company reviews its actuarial assumptions on an annual basis and makes modifications to the assumptions based on current rates and trends when appropriate.
+
+41
+
+The Company utilizes a mark-to-market approach for recognizing pension expenses, including measuring the market related value of plan assets at fair value and recognizing actuarial gains and losses in the fourth quarter of each fiscal year or at the date of a remeasurement event. Refer to Note 16, "Retirement Plans," of the notes to consolidated financial statements for disclosure of the Company's pension plans.
+
+U.S. GAAP requires that companies recognize in the statement of financial position a liability for plans that are underfunded or unfunded, or an asset for plans that are over funded. U.S. GAAP also requires that companies measure the benefit obligations and fair value of plan assets that determine a benefit plan’s funded status as of the date of the employer’s fiscal year end.
+
+The Company considers the expected benefit payments on a plan-by-plan basis when setting assumed discount rates. As a result, the Company uses different discount rates for each plan depending on the plan jurisdiction, the demographics of participants and the expected timing of benefit payments. For the U.S. pension plans, the Company uses a discount rate provided by an independent third party calculated based on an appropriate mix of high quality bonds. For the non-U.S. pension plans, the Company consistently uses the relevant country specific benchmark indices for determining the various discount rates. The Company’s weighted average discount rate on U.S. pension plans was 5.48% and 5.08% at September 30, 2023 and 2022, respectively. The Company’s weighted average discount rate on non-U.S. pension plans was 4.72% and 4.36% at September 30, 2023 and 2022, respectively.
+
+In estimating the expected return on plan assets, the Company considers the historical returns on plan assets, adjusted for forward-looking considerations, inflation assumptions and the impact of the active management of the plans’ invested assets. Reflecting the relatively long-term nature of the plans’ obligations, approximately 14% of the plans’ assets are invested in equity securities and 63% in fixed income securities, with the remainder primarily invested in alternative investments. The expected long-term return on U.S. pension plan assets used to determine net periodic benefit cost was 8.25% and 7.00% for the years ended September 30, 2023 and 2022, respectively. The weighted average expected long-term return on non-U.S. pension plan assets was 5.02% and 3.70% for the years ended September 30, 2023 and 2022, respectively. The actual rate of return on both U.S and non-U.S pension plans was below expected rates in both fiscal 2023 and fiscal 2022.
+
+For fiscal 2024, the Company believes the long-term rate of return will approximate 8.50% for U.S. pension plans and 5.26% for non-U.S. pension plans. Any differences between actual investment results and the expected long-term asset returns will be reflected in net periodic benefit costs in the fourth quarter of each fiscal year or at the date of a significant remeasurement event. If actual returns on plan assets are less than the Company’s expectations, additional contributions may be required.
+
+In fiscal 2023, total employer contributions to the defined benefit pension plans were $55 million, none of which were voluntary contributions made by the Company. The Company expects to contribute approximately $24 million in cash to its defined benefit pension plans in fiscal 2024.
+
+Based on information provided by its independent actuaries and other relevant sources, the Company believes that the assumptions used are reasonable, however, changes in these assumptions could impact the Company’s financial position, results of operations or cash flows.
+
+Mark-to-market adjustments represent actuarial gains (losses) arising from changes in actuarial assumptions and actuarial experiences different from those assumed that are used to value the plan assets and the benefit obligations. The primary factors contributing to actuarial gains (losses) are changes in the discount rate used to value benefit obligations and the difference between expected and actual returns on plan assets. Mark-to-market adjustments are highly volatile and are difficult to forecast. Refer to Note 16, "Retirement Plans," of the notes to consolidated financial statements for further details.
+
+The following chart illustrates the estimated increases (decreases) in projected benefit obligation and future ongoing pension expense, which excludes any potential mark-to-market adjustments, assuming an increase of 25 basis points in the key assumptions for the Company's pension plans (in millions):
+
+------------------------------ -------------------------------------- ---- --------------------------------- --- -------------------------------------- - --------------------------------- - ---- - -
+ Pension Benefits
+ U.S. Plans Non-U.S. Plans
+ Change in Projected Benefit Obligation Change in Ongoing Pension Expense Change in Projected Benefit Obligation Change in Ongoing Pension Expense
+Discount rate $ (26) $ 2 $ (33) $ 1
+Expected return on plan assets — (4) — (3)
+
+42
+
+Loss Contingencies
+
+Accruals are recorded for various contingencies including legal proceedings, environmental matters, self-insurance and other claims that arise in the normal course of business. The accruals are based on judgment, the probability of losses and, where applicable, the consideration of opinions of internal and/or external legal counsel and actuarial determined estimates. Additionally, the Company records receivables from third party insurers when recovery has been determined to be probable.
+
+The Company is subject to laws and regulations relating to protecting the environment. It is difficult to estimate the Company’s ultimate level of liability at many remediation sites due to the large number of other parties that may be involved, the complexity of determining the relative liability among those parties, the uncertainty as to the nature and scope of the investigations and remediation to be conducted, the uncertainty in the application of law and risk assessment, the various choices and costs associated with diverse technologies that may be used in corrective actions at the sites, and the often quite lengthy periods over which eventual remediation may occur. It is possible that technological, regulatory or enforcement developments, the results of additional environmental studies or other factors could change the Company's expectations with respect to future charges and cash outlays, and such changes could be material to the Company's future results of operations, financial condition or cash flows. Nevertheless, the Company does not currently believe that any claims, penalties or costs in addition to the amounts accrued will have a material adverse effect on the Company’s financial position, results of operations or cash flows. The Company provides for expenses associated with environmental remediation obligations when such amounts are probable and can be reasonably estimated. Refer to Note 21, "Commitments and Contingencies," of the notes to consolidated financial statements.
+
+The Company records liabilities for its workers' compensation, product, general and auto liabilities. The determination of these liabilities and related expenses is dependent on claims experience. For most of these liabilities, claims incurred but not yet reported are estimated by utilizing actuarial valuations based upon historical claims experience. The Company records receivables from third party insurers when recovery has been determined to be probable. The Company maintains captive insurance companies to manage its insurable liabilities.
+
+Asbestos-Related Contingencies and Insurance Receivables
+
+The Company and certain of its subsidiaries along with numerous other companies are named as defendants in personal injury lawsuits based on alleged exposure to asbestos-containing materials. The Company's estimate of the liability and corresponding insurance recovery for pending and future claims and defense costs is based on the Company's historical claim experience, and estimates of the number and resolution cost of potential future claims that may be filed and is discounted to present value from 2068 (which is the Company's reasonable best estimate of the actuarial determined time period through which asbestos-related claims will be filed against Company affiliates). Estimated asbestos-related defense costs are included in the asbestos liability. The Company's legal strategy for resolving claims also impacts these estimates. The Company considers various trends and developments in evaluating the period of time (the look-back period) over which historical claim and settlement experience is used to estimate and value claims reasonably projected to be made through 2068. At least annually, the Company assesses the sufficiency of its estimated liability for pending and future claims and defense costs by evaluating actual experience regarding claims filed, settled and dismissed, and amounts paid in settlements. In addition to claims and settlement experience, the Company considers additional quantitative and qualitative factors such as changes in legislation, the legal environment, and the Company's defense strategy. The Company also evaluates the recoverability of its insurance receivable on an annual basis. The Company evaluates all of these factors and determines whether a change in the estimate of its liability for pending and future claims and defense costs or insurance receivable is warranted.
+
+In connection with the recognition of liabilities for asbestos-related matters, the Company records asbestos-related insurance recoveries that are probable. The Company's estimate of asbestos-related insurance recoveries represents estimated amounts due to the Company for previously paid and settled claims and the probable reimbursements relating to its estimated liability for pending and future claims discounted to present value. In determining the amount of insurance recoverable, the Company considers available insurance, allocation methodologies, solvency and creditworthiness of the insurers. Refer to Note 21, "Commitments and Contingencies," of the notes to consolidated financial statements for a discussion on management's judgments applied in the recognition and measurement of asbestos-related assets and liabilities.
+
+Income Taxes
+
+Deferred tax assets and liabilities are recognized for the expected future tax consequences attributable to differences between financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and other loss carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The Company records a valuation
+
+43
+
+allowance that primarily represents non-U.S. operating and other loss carryforwards for which realization is uncertain. Management judgment is required in determining the Company’s provision for income taxes, deferred tax assets and liabilities, and the valuation allowance recorded against the Company’s net deferred tax assets.
+
+The Company reviews the realizability of its deferred tax assets and related valuation allowances on a quarterly basis, or whenever events or changes in circumstances indicate that a review is required. In determining the requirement for a valuation allowance, the historical and projected financial results of the legal entity or consolidated group recording the net deferred tax asset are considered, along with any other positive or negative evidence. Since future financial results may differ from previous estimates, periodic adjustments to the Company’s valuation allowances may be necessary. At September 30, 2023, the Company had a valuation allowance of $6.4 billion for continuing operations, of which $5.6 billion relates to net operating loss carryforwards primarily in Brazil, France, Germany, Ireland, Luxembourg, Mexico, the United Kingdom, and the U.S. for which sustainable taxable income has not been demonstrated; and $0.8 billion for other deferred tax assets.
+
+The Company’s federal income tax returns and certain non-U.S. income tax returns for various fiscal years remain under various stages of audit by the IRS and respective non-U.S. tax authorities. Although the outcome of tax audits is always uncertain, management believes that it has appropriate support for the positions taken on its tax returns and that its annual tax provisions included amounts sufficient to pay assessments, if any, which may be proposed by the taxing authorities. At September 30, 2023, the Company had recorded a liability of $2.2 billion for its best estimate of the probable loss on certain of its tax positions, the majority of which is included in other noncurrent liabilities in the consolidated statements of financial position. Nonetheless, the amounts ultimately paid, if any, upon resolution of the issues raised by the taxing authorities may differ materially from the amounts accrued for each year.
+
+The Company does not generally provide additional U.S. or non-U.S. income taxes on outside basis differences of consolidated subsidiaries included in shareholders’ equity attributable to Johnson Controls International plc, except in limited circumstances including anticipated taxation on planned divestitures. The reduction of the outside basis differences via the sale or liquidation of these subsidiaries and/or distributions could create taxable income. The Company’s intent is to reduce the outside basis differences only when it would be tax efficient. Refer to "Capitalization" within the "Liquidity and Capital Resources" section for discussion of U.S. and non-U.S. cash projections.
+
+Refer to Note 18, "Income Taxes," of the notes to consolidated financial statements for the Company's income tax disclosures.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+Refer to the "New Accounting Pronouncements" section within Note 1, "Summary of Significant Accounting Policies," of the notes to consolidated financial statements.
+
+RISK MANAGEMENT
+
+The Company selectively uses derivative instruments to reduce market risk associated with changes in foreign currency, commodities, and interest rates. All hedging transactions are authorized and executed pursuant to clearly defined policies and procedures, which strictly prohibit the use of financial instruments for speculative purposes. At the inception of the hedge, the Company assesses the effectiveness of the hedge instrument and designates the hedge instrument as a hedge of one of the following:
+
+•Forecasted transaction or of the variability of cash flows to be received or paid related to an unrecognized asset or liability (a cash flow hedge)
+•Net investment in a non-U.S. operation (a net investment hedge)
+
+The Company performs hedge effectiveness testing on an ongoing basis depending on the type of hedging instrument used. All derivatives not designated as hedging instruments under ASC 815, "Derivatives and Hedging," are revalued in the consolidated statements of income.
+
+For all foreign currency derivative instruments designated as cash flow hedges, retrospective effectiveness is tested on a monthly basis using a cumulative dollar offset test. The fair value of the hedged exposures and the fair value of the hedge instruments are revalued, and the ratio of the cumulative sum of the periodic changes in the value of the hedge instruments to the cumulative sum of the periodic changes in the value of the hedge is calculated. The hedge is deemed as highly effective if the ratio is between 80% and 125%. For commodity derivative contracts designated as cash flow hedges, effectiveness is tested using a regression calculation. Ineffectiveness is minimal as the Company aligns most of the critical terms of its derivatives with the supply contracts.
+
+44
+
+For net investment hedges, the Company assesses its net investment positions in the non-U.S. operations and compares it with the outstanding net investment hedges on a quarterly basis. The hedge is deemed effective if the aggregate outstanding principal of the hedge instruments designated as the net investment hedge in a non-U.S. operation does not exceed the Company’s net investment positions in the respective non-U.S. operation.
+
+Derivative instruments not designated as hedging instruments under ASC 815 require no assessment of effectiveness.
+
+A discussion of the Company’s accounting policies for derivative financial instruments is included in Note 1, "Summary of Significant Accounting Policies," of the notes to consolidated financial statements, and further disclosure relating to derivatives and hedging activities is included in Note 11, "Derivative Instruments and Hedging Activities," and Note 12, "Fair Value Measurements," of the notes to consolidated financial statements.
+
+Foreign Exchange
+
+The Company has manufacturing, sales and distribution facilities around the world and thus makes investments and enters into transactions denominated in various foreign currencies. In order to maintain strict control and achieve the benefits of the Company’s global diversification, foreign exchange exposures for each currency are netted internally so that only its net foreign exchange exposures are, as appropriate, hedged with financial instruments.
+
+The Company hedges 70% to 90% of the nominal amount of each of its known foreign exchange transactional exposures. The Company primarily enters into foreign currency exchange contracts to reduce the earnings and cash flow impact of the variation of non-functional currency denominated receivables and payables. Gains and losses resulting from hedging instruments offset the foreign exchange gains or losses on the underlying assets and liabilities being hedged. The maturities of the forward exchange contracts generally coincide with the settlement dates of the related transactions. Realized and unrealized gains and losses on these contracts are recognized in the same period as gains and losses on the hedged items. The Company also selectively hedges anticipated transactions that are subject to foreign exchange exposure, primarily with foreign currency exchange contracts, which are designated as cash flow hedges in accordance with ASC 815.
+
+The Company has entered into foreign currency denominated debt obligations to selectively hedge portions of its net investment in non-U.S. subsidiaries. The currency effects of debt obligations are reflected in the accumulated other comprehensive income ("AOCI") account within shareholders’ equity attributable to Johnson Controls ordinary shareholders where they offset gains and losses recorded on the Company’s net investments globally.
+
+At September 30, 2023 and 2022, the Company estimates that an unfavorable 10% change in the exchange rates would have decreased net unrealized gains by approximately $63 million and $133 million, respectively.
+
+Interest Rates
+
+Substantially all of the Company's outstanding debt has fixed interest rates, and, therefore, any fluctuation in market interest rates is not expected to have a material effect on the Company's results of operations. A 100 basis point increase/decrease in the average interest rate on the Company's variable rate debt would have an immaterial impact on interest expense.
+
+Commodities
+
+The Company uses commodity hedge contracts in the financial derivatives market in cases where commodity price risk cannot be naturally offset or hedged through supply base fixed price contracts. Commodity risks are systematically managed pursuant to policy guidelines. As a cash flow hedge, gains and losses resulting from the hedging instruments offset the gains or losses on purchases of the underlying commodities that will be used in the business. The maturities of the commodity hedge contracts coincide with the expected purchase of the commodities.
+
+ENVIRONMENTAL, HEALTH AND SAFETY AND OTHER MATTERS
+
+The Company’s global operations are governed by environmental laws and worker safety laws. Under various circumstances, these laws impose civil and criminal penalties and fines, as well as injunctive and remedial relief, for noncompliance and require remediation at sites where Company-related substances have been released into the environment.
+
+The Company has expended substantial resources globally, both financial and managerial, to comply with applicable environmental laws and worker safety laws and to protect the environment and workers. The Company believes it is in substantial compliance with such laws and maintains procedures designed to foster and ensure compliance. However, the
+
+45
+
+Company has been, and in the future may become, the subject of formal or informal enforcement actions or proceedings regarding noncompliance with such laws or the remediation of Company-related substances released into the environment. Such matters typically are resolved with regulatory authorities through commitments to compliance, abatement or remediation programs and in some cases payment of penalties. Historically, neither such commitments nor penalties imposed on the Company have been material.
+
+Refer to Note 21, "Commitments and Contingencies," of the notes to consolidated financial statements for additional information.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[Refer to Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2022, 2021 and 2020 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2022 2021 2020 Domestic $ 1,958 $ 1,736 $ 1,090 Foreign 4,050 3,969 3,086 Income before income taxes $ 6,008 $ 5,705 $ 4,176 The provision for (benefit from) income taxes for fiscal 2022, 2021 and 2020 consisted of the following: ----------------------------------------- ---- ----- ---- ----- ---- --- ------- - ------- (in millions) 2022 2021 2020 Current: United States federal $ 465 $ 391 $ 119 Foreign 329 197 222 State and local 132 103 79 Total current 926 691 420 Deferred: United States federal (45) (148) (123) Foreign 360 359 (1,313) State and local 11 (19) (68) Total deferred 326 192 (1,504) Provision for (benefit from) income taxes $ 1,252 $ 883 $ (1,084) Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the income tax expense computed at the U.S. federal statutory rate of 21% as a result of the following: ---------------------------------------...
+
+[Refer to Note 18]:
+NOTE 18. LEASES We lease certain facilities and data centers under non-cancellable operating lease arrangements that expire at various dates through 2032. We also have one land lease that expires in 2091. Our lease agreements do not contain any material residual value guarantees, material variable payment provisions or material restrictive covenants. Operating lease expense was $121 million for fiscal 2022 and $119 million for both fiscal 2021 and 2020. We recognized operating lease expense in cost of revenue and operating expenses in our Consolidated Statements of Income. Our operating lease expense includes variable lease costs and is net of sublease income, both of which are not material. Supplemental cash flow information for fiscal 2022, 2021 and 2020 related to operating leases was as follows: -------------------------------------------------------------------------------- - ---- ---- - ---- - -- (in millions) 2022 2021 2020 Cash paid for amounts included in the measurement of operating lease liabilities $ 107 $ 116 $ 99 Right-of-use assets obtained in exchange for operating lease liabilities $ 59 $ 60 $ 52 The weighted-average remaining lease term and weighted-average discount rate for our operating lease liabilities as of December 2, 2022 were 7 years and 2.37%, respectively. As of December 2, 2022, the maturities of lease liabilities under operating leases were as follows: ---------------------------------- -------------------- --- (in millions) Fiscal Year Operating Leases (1) 2023 $ 95 2024 78 2025 74 2026 67 2027 67 Thereafter 167 Total lease liabilities $ 548 Less: Imputed interest 44 Present value of lease liabilities $ 504 _________________________________________ (1) Legally binding minimum lease payments for leases signed but not yet commenced as of December 2, 2022 were not material. 88  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+[Refer to Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web application development, high-end printing and our Adobe Advertising Cl...
+
+[Refer to Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2022, 2021 and 2020 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2022 2021 2020 Domestic $ 1,958 $ 1,736 $ 1,090 Foreign 4,050 3,969 3,086 Income before income taxes $ 6,008 $ 5,705 $ 4,176 The provision for (benefit from) income taxes for fiscal 2022, 2021 and 2020 consisted of the following: ----------------------------------------- ---- ----- ---- ----- ---- --- ------- - ------- (in millions) 2022 2021 2020 Current: United States federal $ 465 $ 391 $ 119 Foreign 329 197 222 State and local 132 103 79 Total current 926 691 420 Deferred: United States federal (45) (148) (123) Foreign 360 359 (1,313) State and local 11 (19) (68) Total deferred 326 192 (1,504) Provision for (benefit from) income taxes $ 1,252 $ 883 $ (1,084) Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the income tax expense computed at the U.S. federal statutory rate of 21% as a result of the following: ---------------------------------------...
+
+[Refer to Note 9]:
+Note 9. Leases We have entered into various non-cancelable operating lease agreements mostly for certain of our offices, data centers, colocations, and land. We have also entered into various non-cancelable finance lease agreements mostly for certain network infrastructure. Our leases have original lease periods expiring between 2023 and 2093. Many leases include one or more options to renew. We do not assume renewals in our determination of the lease term unless the renewals are deemed to be reasonably assured. Our lease agreements generally do not contain any material residual value guarantees or material restrictive covenants. The components of lease costs are as follows (in millions): ----------------------------------- ----------------------- ----- ---- ----- ---- ----- ----- - ----- Year Ended December 31, 2022 2021 2020 Finance lease cost: Amortization of right-of-use assets $ 380 $ 344 $ 259 Interest 16 15 14 Operating lease cost 1,857 1,540 1,391 Variable lease cost and other, net 363 272 269 Total lease cost $ 2,616 $ 2,171 $ 1,933 During the year ended December 31, 2022, we also recorded $1.71 billion impairment loss for operating lease ROU assets as a part of our facilities consolidation restructuring efforts. For additional information, see Note 3 -- Restructuring. Supplemental balance sheet information related to leases is as follows: -------------------------------------- ------------ - ---------- --- - December 31, 2022 2021 Weighted-average remaining lease term: Finance leases 14.4 years 13.9 years Operating leases 12.5 years 13.0 years Weighted-average discount rate: Finance leases 3.1 % 2.7 % Operating leases 3.2 % 2.8 % 106  The following is a schedule, by years, of maturities of lease liabilities as of December 31, 2022 (in millions): -------------------------------------- ---------------- ------ -------------- ----- - --- Operating Leases Finance Leases 2023 $ 1,739 $ 146 2024 2,034 57 2025 1,771 57 2026 1,723 53 2027 1,699 52 Thereafter 11,801 ...
+
+[Refer to Note 8]:
+Note 8. Property and Equipment Property and equipment, net consists of the following (in millions): --------------------------------- ------------ ------ ---- -------- - ------ December 31, 2022 2021 Land $ 1,874 $ 1,688 Servers and network assets 34,330 25,584 Buildings 27,720 22,531 Leasehold improvements 6,522 5,795 Equipment and other 5,642 4,764 Finance lease right-of-use assets 3,353 2,840 Construction in progress 25,052 14,687 Property and equipment, gross 104,493 77,889 Less: Accumulated depreciation (24,975) (20,080) Property and equipment, net $ 79,518 $ 57,809 105  Construction in progress includes costs mostly related to construction of data centers, network infrastructure, servers, and office facilities. As of December 31, 2022, construction in progress also includes $2.18 billion of servers and network assets components stored by our suppliers until required by our design manufacturers to fulfill certain purchase orders. Depreciation expense on property and equipment was $8.50 billion, $7.56 billion, and $6.39 billion for the years ended December 31, 2022, 2021, and 2020, respectively. The majority of the property and equipment depreciation expense was from servers and network assets depreciation of $5.29 billion, $4.94 billion, and $4.38 billion for the years ended December 31, 2022, 2021, and 2020, respectively. For additional information regarding changes in the estimated useful life of our servers and network assets, see Note 1 -- Summary of Significant Accounting Policies. During the year ended December 31, 2022, we recorded $1.34 billion abandonment charge and $508 million impairment loss for data center assets and leasehold improvements assets, respectively, as a result of our restructuring efforts. For additional information, see Note 3 -- Restructuring.
+
+[Refer to Note 16]:
+NOTE 16. COMMITMENTS AND CONTINGENCIES Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. The following table summarizes our non-cancellable unconditional purchase obligations for each of the next five years and thereafter as of December 2, 2022, primarily relating to contracts with vendors for third-party hosting and data center services: ------------- -------------------- ----- (in millions) Fiscal Year Purchase Obligations 2023 $ 1,632 2024 921 2025 775 2026 753 2027 783 Thereafter 1,226 Total $ 6,090 Royalties We have royalty commitments associated with the licensing of certain offerings and products. Royalty expense is generally based on a dollar amount per unit or a percentage of the underlying revenue. Royalty expense, which was recorded in our cost of revenue on our Consolidated Statements of Income, was approximately $228 million, $202 million and $176 million in fiscal 2022, 2021 and 2020, respectively. Indemnifications In the ordinary course of business, we provide indemnifications of varying scope to customers and channel partners against claims of intellectual property infringement made by third parties arising from the use of our products and from time to time, we are subject to claims by our customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations. To the extent permitted under Delaware law, we have agreements whereby we indemnify our officers and directors for certain events or occurrences while the officer or director is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the officer's or director's lifetime. The maximum potential amount of future payments w...
+
+[Refer to Note 16]:
+NOTE 16. COMMITMENTS AND CONTINGENCIES Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. The following table summarizes our non-cancellable unconditional purchase obligations for each of the next five years and thereafter as of December 2, 2022, primarily relating to contracts with vendors for third-party hosting and data center services: ------------- -------------------- ----- (in millions) Fiscal Year Purchase Obligations 2023 $ 1,632 2024 921 2025 775 2026 753 2027 783 Thereafter 1,226 Total $ 6,090 Royalties We have royalty commitments associated with the licensing of certain offerings and products. Royalty expense is generally based on a dollar amount per unit or a percentage of the underlying revenue. Royalty expense, which was recorded in our cost of revenue on our Consolidated Statements of Income, was approximately $228 million, $202 million and $176 million in fiscal 2022, 2021 and 2020, respectively. Indemnifications In the ordinary course of business, we provide indemnifications of varying scope to customers and channel partners against claims of intellectual property infringement made by third parties arising from the use of our products and from time to time, we are subject to claims by our customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations. To the extent permitted under Delaware law, we have agreements whereby we indemnify our officers and directors for certain events or occurrences while the officer or director is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the officer's or director's lifetime. The maximum potential amount of future payments w...
+
+[Refer to Note 21]:
+NOTE 21: SEGMENT FINANCIAL DATA The Company conducts its operations through three reportable operating segments: HVAC, Refrigeration and Fire & Security. In accordance with ASC 280 - Segment Reporting, the Company's segments maintain separate financial information for which results of operations are evaluated on a regular basis by the Company's Chief Operating Decision Maker in deciding how to allocate resources and in assessing performance. Inter-company sales between segments are immaterial. *The HVAC segment provides products, controls, services and solutions to meet the heating, cooling and ventilation needs of residential and commercial customers while enhancing building performance, health, energy efficiency and sustainability. *The Refrigeration segment includes transport refrigeration and monitoring products, services and digital solutions for trucks, trailers, shipping containers, intermodal and rail, as well as commercial refrigeration products. *The Fire & Security segment provides a wide range of residential, commercial and industrial technologies designed to help protect people and property. 82 Table of Content The Company's customers are in both the public and private sectors and its businesses reflect extensive geographic diversification. Inter-company sales between segments are immaterial. Net sales and Operating profit by segment are as follows: -------------------------- --------- ------ ---------------- ------ ---- ------ ------ ---- ------ ---- ----- ----- ----- - ----- - ----- Net Sales Operating Profit (In millions) 2022 2021 2020 2022 2021 2020 HVAC $ 13,408 $ 11,390 $ 9,478 $ 2,610 $ 1,738 $ 2,462 Refrigeration 3,883 4,127 3,333 483 476 357 Fire & Security 3,570 5,515 4,985 1,630 662 584 Total segment 20,861 21,032 17,796 4,723 2,876 3,403 Eliminations and other (440) (419) (340) (80) (96) (184) General corporate expenses -- -- -- (128) (135) (136) Consolidated $ 20,421 $ 20,613 $ 17,456 $ 4,515 $ 2,645 $ 3,083 Total assets are not presented for...
+
+[Refer to Note 21]:
+NOTE 21: SEGMENT FINANCIAL DATA The Company conducts its operations through three reportable operating segments: HVAC, Refrigeration and Fire & Security. In accordance with ASC 280 - Segment Reporting, the Company's segments maintain separate financial information for which results of operations are evaluated on a regular basis by the Company's Chief Operating Decision Maker in deciding how to allocate resources and in assessing performance. Inter-company sales between segments are immaterial. *The HVAC segment provides products, controls, services and solutions to meet the heating, cooling and ventilation needs of residential and commercial customers while enhancing building performance, health, energy efficiency and sustainability. *The Refrigeration segment includes transport refrigeration and monitoring products, services and digital solutions for trucks, trailers, shipping containers, intermodal and rail, as well as commercial refrigeration products. *The Fire & Security segment provides a wide range of residential, commercial and industrial technologies designed to help protect people and property. 82 Table of Content The Company's customers are in both the public and private sectors and its businesses reflect extensive geographic diversification. Inter-company sales between segments are immaterial. Net sales and Operating profit by segment are as follows: -------------------------- --------- ------ ---------------- ------ ---- ------ ------ ---- ------ ---- ----- ----- ----- - ----- - ----- Net Sales Operating Profit (In millions) 2022 2021 2020 2022 2021 2020 HVAC $ 13,408 $ 11,390 $ 9,478 $ 2,610 $ 1,738 $ 2,462 Refrigeration 3,883 4,127 3,333 483 476 357 Fire & Security 3,570 5,515 4,985 1,630 662 584 Total segment 20,861 21,032 17,796 4,723 2,876 3,403 Eliminations and other (440) (419) (340) (80) (96) (184) General corporate expenses -- -- -- (128) (135) (136) Consolidated $ 20,421 $ 20,613 $ 17,456 $ 4,515 $ 2,645 $ 3,083 Total assets are not presented for...
+
+[Refer to Note 18]:
+NOTE 18. LEASES We lease certain facilities and data centers under non-cancellable operating lease arrangements that expire at various dates through 2032. We also have one land lease that expires in 2091. Our lease agreements do not contain any material residual value guarantees, material variable payment provisions or material restrictive covenants. Operating lease expense was $121 million for fiscal 2022 and $119 million for both fiscal 2021 and 2020. We recognized operating lease expense in cost of revenue and operating expenses in our Consolidated Statements of Income. Our operating lease expense includes variable lease costs and is net of sublease income, both of which are not material. Supplemental cash flow information for fiscal 2022, 2021 and 2020 related to operating leases was as follows: -------------------------------------------------------------------------------- - ---- ---- - ---- - -- (in millions) 2022 2021 2020 Cash paid for amounts included in the measurement of operating lease liabilities $ 107 $ 116 $ 99 Right-of-use assets obtained in exchange for operating lease liabilities $ 59 $ 60 $ 52 The weighted-average remaining lease term and weighted-average discount rate for our operating lease liabilities as of December 2, 2022 were 7 years and 2.37%, respectively. As of December 2, 2022, the maturities of lease liabilities under operating leases were as follows: ---------------------------------- -------------------- --- (in millions) Fiscal Year Operating Leases (1) 2023 $ 95 2024 78 2025 74 2026 67 2027 67 Thereafter 167 Total lease liabilities $ 548 Less: Imputed interest 44 Present value of lease liabilities $ 504 _________________________________________ (1) Legally binding minimum lease payments for leases signed but not yet commenced as of December 2, 2022 were not material. 88  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+[Refer to Note 21]:
+NOTE 21: SEGMENT FINANCIAL DATA The Company conducts its operations through three reportable operating segments: HVAC, Refrigeration and Fire & Security. In accordance with ASC 280 - Segment Reporting, the Company's segments maintain separate financial information for which results of operations are evaluated on a regular basis by the Company's Chief Operating Decision Maker in deciding how to allocate resources and in assessing performance. Inter-company sales between segments are immaterial. *The HVAC segment provides products, controls, services and solutions to meet the heating, cooling and ventilation needs of residential and commercial customers while enhancing building performance, health, energy efficiency and sustainability. *The Refrigeration segment includes transport refrigeration and monitoring products, services and digital solutions for trucks, trailers, shipping containers, intermodal and rail, as well as commercial refrigeration products. *The Fire & Security segment provides a wide range of residential, commercial and industrial technologies designed to help protect people and property. 82 Table of Content The Company's customers are in both the public and private sectors and its businesses reflect extensive geographic diversification. Inter-company sales between segments are immaterial. Net sales and Operating profit by segment are as follows: -------------------------- --------- ------ ---------------- ------ ---- ------ ------ ---- ------ ---- ----- ----- ----- - ----- - ----- Net Sales Operating Profit (In millions) 2022 2021 2020 2022 2021 2020 HVAC $ 13,408 $ 11,390 $ 9,478 $ 2,610 $ 1,738 $ 2,462 Refrigeration 3,883 4,127 3,333 483 476 357 Fire & Security 3,570 5,515 4,985 1,630 662 584 Total segment 20,861 21,032 17,796 4,723 2,876 3,403 Eliminations and other (440) (419) (340) (80) (96) (184) General corporate expenses -- -- -- (128) (135) (136) Consolidated $ 20,421 $ 20,613 $ 17,456 $ 4,515 $ 2,645 $ 3,083 Total assets are not presented for...
+
+[See Part I, Item 1A]:
+Item 1A. Risk Factors 20
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 20
+
+[" which is incorporated herein by reference.
+
+Macroeconomic Trends
+
+Much of the demand for the Company’s products and solutions is driven by construction, facility expansion, retrofit and maintenance projects within the commercial, institutional, industrial, data center, governmental and residential sectors. Construction projects are heavily dependent on general economic conditions, localized demand for real estate and the availability of credit, public funding or other financing sources. Positive or negative fluctuations in construction, industrial facility expansion, retrofit activity, maintenance projects and other capital investments in buildings within the sectors that the Company serves, as well as availability of credit, financing or funding for such projects, could have a corresponding impact on the Company’s financial condition, results of operations and cash flows. The economic conditions in China, specifically challenges in real estate, began negatively impacting the Building Solutions Asia Pacific segment in the fourth quarter of fiscal 2023. The Company expects continued softening in China in fiscal 2024.
+
+As a result of the Company’s global presence, a significant portion of its revenues and expenses is denominated in currencies other than the U.S. dollar. The Company is therefore subject to non-U.S. currency risks and non-U.S. exchange exposure. While the Company employs financial instruments to hedge some of its transactional foreign exchange exposure, these activities do not insulate it completely from those exposures. In addition, the currency exposure from the translation of non-U.S. dollar functional currency subsidiaries are not able to be hedged. Exchange rates can be volatile and a substantial weakening or strengthening of foreign currencies against the U.S. dollar could increase or reduce the Company’s profit margin, respectively, and impact the comparability of results from period to period. During fiscal 2023, revenue and profits were adversely impacted due to the strengthening of the U.S. dollar against foreign currencies.
+
+The Company continues to observe trends demonstrating increased interest and demand for its products and services that enable smart, safe, efficient and sustainable buildings. This demand is driven in part by government tax incentives, building performance standards and other regulations designed to limit emissions and combat climate change. In particular, legislative and regulatory initiatives such as the U.S. Climate Smart Buildings Initiative, U.S. Inflation Reduction Act and EU Energy Performance of Buildings Directive include provisions designed to fund and encourage investment in decarbonization and digital technologies for buildings. This demand is supplemented by an increase in commitments in both the public and private sectors to reduce emissions and/or achieve net zero emissions. The Company seeks to capitalize on these trends to drive growth by developing and delivering technologies and solutions to create smart, sustainable and healthy buildings. The Company is
+
+30
+
+investing in new digital and product capabilities, including its OpenBlue platform, to enable it to deliver sustainable, high-efficiency products and tailored services to enable customers to achieve their sustainability goals. The Company is leveraging its install base, together with data-driven products and services to offer outcome-based solutions to customers with a focus on generating accelerated growth in services and recurring revenue.
+
+The Company has experienced, and could continue to experience, increased material cost inflation and component shortages, as well as disruptions and delays in its supply chain, as a result of global macroeconomic trends, including increased global demand, geopolitical and economic tensions, including the conflicts between Russia and Ukraine and Israel and Hamas, and labor shortages. Actions taken by the Company to mitigate supply chain disruptions and inflation, including expanding and redistributing its supplier network, supplier financing, price increases and productivity improvements, have generally been successful in offsetting some, but not all, of the impact of these trends. The collective impact of these trends has been favorable to revenue due to increased demand and price increases to offset inflation, while negatively impacting margins due to supply chain disruptions and cost pressures. However, during fiscal 2023, the Company observed improved margins as supply chain disruptions eased and higher priced backlog was converted to sales. Although the Company has experienced recent improvement in its supply chain, it could experience further disruptions, shortages and cost increases in the future, the effect of which will depend on the Company’s ability to successfully mitigate and offset the impact of these events.
+
+The extent to which the Company’s results of operations and financial condition are impacted by these and other factors in the future will depend on developments that are highly uncertain and cannot be predicted. See Part I, Item 1A, of this Annual Report on Form 10-K for an additional discussion of risks.
+
+Cybersecurity Incident
+
+During the weekend of September 23, 2023, the Company experienced a cybersecurity incident impacting its internal information technology ("]:
+Item 1A. Risk Factors 20
+
+[" below within Item 7 for a discussion of net sales by segment.
+
+Cost of Sales / Gross Profit
+
+------------- ------------------------ ------ ---- ----- ------ ------ - - - -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Cost of sales $ 17,822 $ 16,956 5 %
+Gross profit 8,971 8,343 8 %
+% of sales 33.5 % 33.0 %
+
+Cost of sales and gross profit both increased and gross profit as a percentage of sales increased by 50 basis points. Gross profit increased due to organic sales growth and favorable price/cost, partially offset by the unfavorable impact of foreign currency translation ($192 million) and the unfavorable year-over-year impact of net pension mark-to-market adjustments ($42 million). Gross profit as a percentage of sales increased primarily due to favorable price/cost. Refer to the "]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[" below within Item 7 for a discussion of segment earnings before interest, taxes and amortization ("]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[" below within Item 7 for a discussion of segment EBITA.
+
+32
+
+Restructuring and Impairment Costs
+
+---------------------------------- ------------------------ ----- ---- ------ --- -- -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Restructuring and impairment costs $ 1,064 $ 721 48 %
+
+Restructuring and impairment costs in fiscal 2023 includes $498 million of impairment charges related to businesses classified or previously classified as held for sale, $276 million in severance and other charges resulting from restructuring initiatives, $184 million of goodwill impairment charges related to the Silent-Aire reporting unit, and $106 million of impairment charges for various long-lived assets.
+
+Restructuring and impairment costs in fiscal 2022 includes $359 million of impairment charges related to the North America and Global Retail business which was previously held for sale, $182 million in severance and other charges resulting from restructure initiatives, $105 million of impairments for a business and assets previously held for sale, and $75 million of goodwill impairment charges related to the Silent-Aire reporting unit.
+
+Refer to "]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+['s material cash requirements primarily consist of working capital requirements, repayments of long-term debt and related interest, operating leases, dividends, capital expenditures, potential acquisitions and share repurchases.
+
+•Refer to Note 10, "]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2022, 2021 and 2020 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2022 2021 2020 Domestic $ 1,958 $ 1,736 $ 1,090 Foreign 4,050 3,969 3,086 Income before income taxes $ 6,008 $ 5,705 $ 4,176 The provision for (benefit from) income taxes for fiscal 2022, 2021 and 2020 consisted of the following: ----------------------------------------- ---- ----- ---- ----- ---- --- ------- - ------- (in millions) 2022 2021 2020 Current: United States federal $ 465 $ 391 $ 119 Foreign 329 197 222 State and local 132 103 79 Total current 926 691 420 Deferred: United States federal (45) (148) (123) Foreign 360 359 (1,313) State and local 11 (19) (68) Total deferred 326 192 (1,504) Provision for (benefit from) income taxes $ 1,252 $ 883 $ (1,084) Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the income tax expense computed at the U.S. federal statutory rate of 21% as a result of the following: ---------------------------------------...
+
+['s P-2 Baa2 Positive
+
+The security ratings set forth above are issued by unaffiliated third party rating agencies and are not a recommendation to buy, sell or hold securities. The ratings may be subject to revision or withdrawal by the assigning rating organization at any time.
+
+•The Company entered into the following debt transactions in fiscal 2023:
+
+–Repaid $1.6 billion of debt including the following:
+▪€200 million term loan with an interest rate of EURIBOR plus 0.5%
+▪$32 million Senior Notes due 2023 with an interest rate of 4.625%
+▪€150 million term loan with an interest rate of 0.0%
+▪€135 million term loan with an interest rate of EURIBOR plus 0.5%
+▪€846 million Senior Notes due 2023 with an interest rate of 1.0%
+▪Tendered $105 million of its Notes due 2045 with an interest rate of 5.125%
+
+–Issued $1.2 billion of debt including the following:
+▪€150 million term loan with an interest rate of EURIBOR plus 0.7% which is due in April 2024
+▪€150 million term loan with an interest rate of EURIBOR plus 0.4% which is due March 2024
+▪Together with its wholly owned subsidiary, Tyco Fire & Security Finance S.C.A., co-issued €800 million in 4.25% Senior Notes due May 2035
+
+38
+
+•Financial covenants in the Company']:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web application development, high-end printing and our Adobe Advertising Cl...
+
+['s future results of operations, financial condition or cash flows. Nevertheless, the Company does not currently believe that any claims, penalties or costs in addition to the amounts accrued will have a material adverse effect on the Company’s financial position, results of operations or cash flows. The Company provides for expenses associated with environmental remediation obligations when such amounts are probable and can be reasonably estimated. Refer to Note 21, "]:
+NOTE 21: SEGMENT FINANCIAL DATA The Company conducts its operations through three reportable operating segments: HVAC, Refrigeration and Fire & Security. In accordance with ASC 280 - Segment Reporting, the Company's segments maintain separate financial information for which results of operations are evaluated on a regular basis by the Company's Chief Operating Decision Maker in deciding how to allocate resources and in assessing performance. Inter-company sales between segments are immaterial. *The HVAC segment provides products, controls, services and solutions to meet the heating, cooling and ventilation needs of residential and commercial customers while enhancing building performance, health, energy efficiency and sustainability. *The Refrigeration segment includes transport refrigeration and monitoring products, services and digital solutions for trucks, trailers, shipping containers, intermodal and rail, as well as commercial refrigeration products. *The Fire & Security segment provides a wide range of residential, commercial and industrial technologies designed to help protect people and property. 82 Table of Content The Company's customers are in both the public and private sectors and its businesses reflect extensive geographic diversification. Inter-company sales between segments are immaterial. Net sales and Operating profit by segment are as follows: -------------------------- --------- ------ ---------------- ------ ---- ------ ------ ---- ------ ---- ----- ----- ----- - ----- - ----- Net Sales Operating Profit (In millions) 2022 2021 2020 2022 2021 2020 HVAC $ 13,408 $ 11,390 $ 9,478 $ 2,610 $ 1,738 $ 2,462 Refrigeration 3,883 4,127 3,333 483 476 357 Fire & Security 3,570 5,515 4,985 1,630 662 584 Total segment 20,861 21,032 17,796 4,723 2,876 3,403 Eliminations and other (440) (419) (340) (80) (96) (184) General corporate expenses -- -- -- (128) (135) (136) Consolidated $ 20,421 $ 20,613 $ 17,456 $ 4,515 $ 2,645 $ 3,083 Total assets are not presented for...
+
+[" section for discussion of U.S. and non-U.S. cash projections.
+
+Refer to Note 18, "]:
+NOTE 18. LEASES We lease certain facilities and data centers under non-cancellable operating lease arrangements that expire at various dates through 2032. We also have one land lease that expires in 2091. Our lease agreements do not contain any material residual value guarantees, material variable payment provisions or material restrictive covenants. Operating lease expense was $121 million for fiscal 2022 and $119 million for both fiscal 2021 and 2020. We recognized operating lease expense in cost of revenue and operating expenses in our Consolidated Statements of Income. Our operating lease expense includes variable lease costs and is net of sublease income, both of which are not material. Supplemental cash flow information for fiscal 2022, 2021 and 2020 related to operating leases was as follows: -------------------------------------------------------------------------------- - ---- ---- - ---- - -- (in millions) 2022 2021 2020 Cash paid for amounts included in the measurement of operating lease liabilities $ 107 $ 116 $ 99 Right-of-use assets obtained in exchange for operating lease liabilities $ 59 $ 60 $ 52 The weighted-average remaining lease term and weighted-average discount rate for our operating lease liabilities as of December 2, 2022 were 7 years and 2.37%, respectively. As of December 2, 2022, the maturities of lease liabilities under operating leases were as follows: ---------------------------------- -------------------- --- (in millions) Fiscal Year Operating Leases (1) 2023 $ 95 2024 78 2025 74 2026 67 2027 67 Thereafter 167 Total lease liabilities $ 548 Less: Imputed interest 44 Present value of lease liabilities $ 504 _________________________________________ (1) Legally binding minimum lease payments for leases signed but not yet commenced as of December 2, 2022 were not material. 88  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+["), with an annual global revenue exceeding €20 billion and a profit margin over 10%, to other market jurisdictions. The adoption of Pillar One and its potential effective date remain uncertain. Pillar Two requires MNEs with an annual global revenue exceeding €750 million to pay a global minimum tax of 15%. On December 15, 2022, the Council of the EU formally adopted Directive (EU) 2022/2523 (the “Pillar Two Directive”) to achieve a coordinated implementation of Pillar Two in EU Member States consistent with EU law. On October 19, 2023, the Irish Minster of Finance published Irish Finance (No.2) Bill 2023, which includes implementation of the 15% Pillar Two global minimum tax. The bill, subject to amendment during the legislative process, is expected to be signed into law by late December. The Pillar Two legislation is anticipated to be effective for the Company with the fiscal year beginning October 1, 2024. The Company is continuing to evaluate the potential impact on future periods of the Pillar Two Framework, pending legislative adoption by individual countries, as such changes could result in an increase in its effective tax rate.
+
+Income Attributable to Noncontrolling Interests
+
+----------------------------------------------- ------------------------ --- ---- ------ --- -- -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Income attributable to noncontrolling interests $ 184 $ 191 -4 %
+
+The decrease in income attributable to noncontrolling interests was primarily due to lower net income at certain partially-owned affiliates within the Global Products segment.
+
+Net Income Attributable to Johnson Controls
+
+------------------------------------------- ------------------------ ----- ---- ------ ----- -- -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Net income attributable to Johnson Controls $ 1,849 $ 1,532 21 %
+
+The increase in net income attributable to Johnson Controls was primarily due to higher gross profit and higher income tax benefits, partially offset by higher restructuring and impairment costs and higher SG&A. Diluted earnings per share attributable to Johnson Controls was $2.69 for the year ended September 30, 2023 compared to $2.19 for the year ended September 30, 2022.
+
+34
+
+Comprehensive Income Attributable to Johnson Controls
+
+----------------------------------------------------- ------------------------ ----- ---- ------ ----- -- -
+ Year Ended September 30,
+(in millions) 2023 2022 Change
+Comprehensive income attributable to Johnson Controls $ 1,805 $ 1,055 71 %
+
+The increase in comprehensive income attributable to Johnson Controls was due to an increase in other comprehensive income attributable to Johnson Controls ($433 million) resulting primarily from reductions in foreign currency translation expense and an increase in net income attributable to Johnson Controls ($317 million).
+
+SEGMENT ANALYSIS
+
+Management evaluates the performance of its business units based primarily on segment EBITA, which represents income from continuing operations before income taxes and noncontrolling interests, excluding general corporate expenses, intangible asset amortization, net financing charges, restructuring and impairment costs, and net mark-to-market adjustments related to pension and postretirement plans and restricted asbestos investments.
+
+-------------------------------- ---------------------------------------- ------ ---- ----- -------------------------------------------- ------ ---- - ---- ----- ------ - ----- --- ----- -- -
+ Net Salesfor the Year EndedSeptember 30, Segment EBITAfor the Year EndedSeptember 30,
+(in millions) 2023 2022 Change 2023 2022 Change
+Building Solutions North America $ 10,330 $ 9,367 10 % $ 1,394 $ 1,122 24 %
+Building Solutions EMEA/LA 4,096 3,845 7 % 316 358 -12 %
+Building Solutions Asia Pacific 2,746 2,714 1 % 343 332 3 %
+Global Products 9,621 9,373 3 % 1,965 1,594 23 %
+ $ 26,793 $ 25,299 6 % $ 4,018 $ 3,406 18 %
+
+Net Sales
+
+•The increase in Building Solutions North America was due to organic growth, including higher prices ($979 million) and incremental sales related to business acquisitions ($29 million), partially offset by the unfavorable impact of foreign currency translation ($45 million). Excluding the impacts of business acquisitions and foreign currency translation, sales growth was led by growth in HVAC & Controls and Fire & Security.
+
+•The increase in Building Solutions EMEA/LA was due to organic growth, including higher prices ($324 million) and the net impact of business acquisitions and divestitures ($29 million), partially offset by the unfavorable impact of foreign currency translation ($102 million). Excluding the impacts of foreign currency translation and business acquisitions and divestitures, sales growth was led by growth in Fire & Security and HVAC & Controls.
+
+•The increase in Building Solutions Asia Pacific was due to organic growth, including higher prices ($182 million) and the net impact of business acquisitions and divestitures ($19 million), partially offset by the unfavorable impact of foreign currency translation ($169 million). The economic conditions in China, specifically challenges in real estate, began negatively impacting the Building Solutions Asia Pacific segment in the fourth quarter of fiscal 2023, but had an insignificant impact on results for the full year. Excluding the impacts of foreign currency translation and business acquisitions and divestitures, sales growth was led by continued demand for HVAC & Controls.
+
+•The increase in Global Products was due to the net impact of higher prices and lower volumes ($512 million) and incremental sales related to business acquisitions ($36 million), partially offset by the unfavorable impact of foreign currency translation ($300 million). Excluding the impacts of foreign currency translation and business acquisitions, sales growth was driven by strong price realization and growth in Commercial HVAC and Industrial Refrigeration products.
+
+35
+
+Segment EBITA
+
+•The increase in Building Solutions North America was primarily due to favorable price/cost, volume leverage and productivity savings, partially offset by unfavorable project mix.
+
+•The decrease in Building Solutions EMEA/LA reflects the unfavorable impact of foreign currency translation ($13 million) and higher expenses, partially offset by favorable price/cost.
+
+•The increase in Building Solutions Asia Pacific was primarily due to favorable price/cost and productivity savings, partially offset by the unfavorable impact of foreign currency translation ($25 million).
+
+•The increase in Global Products was primarily due to favorable price/cost and productivity savings, partially offset by unfavorable mix, lower gross margin due to lower manufacturing absorption, an uninsured loss associated with a fire at a leased warehouse facility and the unfavorable impact of foreign currency translation ($42 million).
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Working Capital
+
+-------------------------------------- ------------- ------ ---- -------- ------ ------ -- - - -
+ September 30,
+(in millions) 2023 2022 Change
+Current assets $ 10,737 $ 11,685
+Current liabilities (11,084) (11,239)
+ (347) 446 *
+
+Less: Cash and cash equivalents (835) (2,031)
+Add: Short-term debt 385 669
+Add: Current portion of long-term debt 645 865
+
+Working capital (as defined) $ (152) $ (51) *
+
+Accounts receivable - net $ 6,006 $ 5,727 5 %
+Inventories 2,776 2,665 4 %
+Accounts payable 4,268 4,368 -2 %
+
+* Measure not meaningful
+
+•The Company defines working capital as current assets less current liabilities, excluding cash and cash equivalents, short-term debt, the current portion of long-term debt, and current assets and liabilities held for sale (when applicable). Management believes that this measure of working capital, which excludes financing-related items and businesses to be divested, provides a more useful measurement of the Company’s operating performance.
+
+•The decrease in working capital at September 30, 2023 as compared to September 30, 2022, was primarily due to an increase in deferred revenue and lower income tax assets, partially offset by an increase in accounts receivable due to increased sales and timing of collections.
+
+•Days sales in accounts receivable were 50 at September 30, 2023, comparable to 51 at September 30, 2022. There has been no significant adverse change in the level of overdue receivables or significant changes in revenue recognition methods.
+
+•The Company’s inventory turns for the year ended September 30, 2023 were slightly lower than the comparable period ended September 30, 2022.
+
+•Days in accounts payable were 84 days at September 30, 2023, down slightly from 88 days at September 30, 2022. The decrease was primarily due to timing of payments.
+
+36
+
+Cash Flows From Continuing Operations
+
+------------------------------------- ------------------------ ----- ---- ----- - -----
+ Year Ended September 30,
+(in millions) 2023 2022
+Cash provided by operating activities $ 2,221 $ 1,990
+Cash used by investing activities (1,184) (693)
+Cash used by financing activities (2,174) (516)
+
+•The increase in cash provided by operating activities reflects higher net income and the favorable impact of inventory, income tax and accounts receivable activity, which was partially offset by the timing of accounts payable and accrued liabilities payments.
+
+•The increase in cash used by investing activities was primarily due to the FM:Systems acquisition. Refer to Note 2, "]:
+NOTE 20. COMMITMENTS AND CONTINGENCIES The Company is involved in various litigation, claims and administrative proceedings, including those related to the bankruptcy proceedings for Aldrich and Murray and environmental and product liability matters. The Company records accruals for loss contingencies when it is both probable that a liability will be incurred and the amount of the loss can be reasonably estimated. Amounts recorded for identified contingent liabilities are estimates, which are reviewed periodically and adjusted to reflect additional information when it becomes available. Subject to the uncertainties inherent in estimating future costs for contingent liabilities, except as expressly set forth in this note, management believes that any liability which may result from these legal matters would not have a material adverse effect on the financial condition, results of operations, liquidity or cash flows of the Company. Asbestos-Related Matters Certain wholly-owned subsidiaries and former companies of the Company have been named as defendants in asbestos-related lawsuits in state and federal courts. In virtually all of the suits, a large number of other companies have also been named as defendants. The vast majority of those claims were filed against predecessors of Aldrich and Murray and generally allege injury caused by exposure to asbestos contained in certain historical products sold by predecessors of Aldrich or Murray, primarily pumps, boilers and railroad brake shoes. None of the Company's existing or previously-owned businesses were a producer or manufacturer of asbestos. On June 18, 2020, Aldrich and Murray filed voluntary petitions for relief under Chapter 11 of the Bankruptcy Code to resolve equitably and permanently all current and future asbestos related claims in a manner beneficial to claimants and to Aldrich and Murray. As a result of the Chapter 11 filings, all asbestos-related lawsuits against Aldrich and Murray have been stayed due to th...
+
+['s pension plans.
+
+U.S. GAAP requires that companies recognize in the statement of financial position a liability for plans that are underfunded or unfunded, or an asset for plans that are over funded. U.S. GAAP also requires that companies measure the benefit obligations and fair value of plan assets that determine a benefit plan’s funded status as of the date of the employer’s fiscal year end.
+
+The Company considers the expected benefit payments on a plan-by-plan basis when setting assumed discount rates. As a result, the Company uses different discount rates for each plan depending on the plan jurisdiction, the demographics of participants and the expected timing of benefit payments. For the U.S. pension plans, the Company uses a discount rate provided by an independent third party calculated based on an appropriate mix of high quality bonds. For the non-U.S. pension plans, the Company consistently uses the relevant country specific benchmark indices for determining the various discount rates. The Company’s weighted average discount rate on U.S. pension plans was 5.48% and 5.08% at September 30, 2023 and 2022, respectively. The Company’s weighted average discount rate on non-U.S. pension plans was 4.72% and 4.36% at September 30, 2023 and 2022, respectively.
+
+In estimating the expected return on plan assets, the Company considers the historical returns on plan assets, adjusted for forward-looking considerations, inflation assumptions and the impact of the active management of the plans’ invested assets. Reflecting the relatively long-term nature of the plans’ obligations, approximately 14% of the plans’ assets are invested in equity securities and 63% in fixed income securities, with the remainder primarily invested in alternative investments. The expected long-term return on U.S. pension plan assets used to determine net periodic benefit cost was 8.25% and 7.00% for the years ended September 30, 2023 and 2022, respectively. The weighted average expected long-term return on non-U.S. pension plan assets was 5.02% and 3.70% for the years ended September 30, 2023 and 2022, respectively. The actual rate of return on both U.S and non-U.S pension plans was below expected rates in both fiscal 2023 and fiscal 2022.
+
+For fiscal 2024, the Company believes the long-term rate of return will approximate 8.50% for U.S. pension plans and 5.26% for non-U.S. pension plans. Any differences between actual investment results and the expected long-term asset returns will be reflected in net periodic benefit costs in the fourth quarter of each fiscal year or at the date of a significant remeasurement event. If actual returns on plan assets are less than the Company’s expectations, additional contributions may be required.
+
+In fiscal 2023, total employer contributions to the defined benefit pension plans were $55 million, none of which were voluntary contributions made by the Company. The Company expects to contribute approximately $24 million in cash to its defined benefit pension plans in fiscal 2024.
+
+Based on information provided by its independent actuaries and other relevant sources, the Company believes that the assumptions used are reasonable, however, changes in these assumptions could impact the Company’s financial position, results of operations or cash flows.
+
+Mark-to-market adjustments represent actuarial gains (losses) arising from changes in actuarial assumptions and actuarial experiences different from those assumed that are used to value the plan assets and the benefit obligations. The primary factors contributing to actuarial gains (losses) are changes in the discount rate used to value benefit obligations and the difference between expected and actual returns on plan assets. Mark-to-market adjustments are highly volatile and are difficult to forecast. Refer to Note 16, "]:
+(5)As discussed below (see "Industry Overview and Economic Outlook"), North American equipment rental industry revenue is based on industry estimates from the American Rental Association ("ARA"). As discussed above, we completed the acquisition of Ahern Rentals in December 2022. Estimated North American market share as of December 31, 2022 includes the standalone, pre-acquisition revenue of Ahern Rentals. Estimated North American market share as of December 31, 2021 does not include the pre-acquisition revenue of Ahern Rental because the acquisition was completed in 2022. If the pre-acquisition revenue of Ahern Rental was included for 2021, estimated North American market share as of December 31, 2021 would have been approximately 16 percent. Global Economic Conditions and COVID-19 Our operations are impacted by global economic conditions, including inflation, increased interest rates and supply chain constraints, and we take actions to modify our plans to address such economic conditions. In 2022, for example, we intentionally held back on sales of rental equipment to ensure we had sufficient capacity for our customers. In 2022, revenue from sales of rental equipment was largely flat year-over-year, however the number of units sold decreased approximately 17 percent year-over-year, as we held on to fleet to serve strong customer demand and to ensure greater fleet availability in the event industry supply chain challenges persist or worsen. While the volume of sales of rental equipment decreased year-over-year, gross margin from sales of rental equipment increased 14.2 percentage points, which primarily reflected strong pricing and improved channel mix. To date, our supply chain disruptions have been limited, but we may experience more severe supply chain disruptions in the future. Interest rates on our debt instruments have increased recently. For example, in November 2022, URNA issued $1.5 billion aggregate principal amount of senior secured notes at a 6 percent i...

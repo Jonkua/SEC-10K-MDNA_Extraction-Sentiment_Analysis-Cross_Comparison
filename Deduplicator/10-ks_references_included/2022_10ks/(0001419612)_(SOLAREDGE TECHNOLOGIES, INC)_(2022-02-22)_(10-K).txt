@@ -1,0 +1,929 @@
+================================================================================
+CIK: 0001419612
+Company Name: SOLAREDGE TECHNOLOGIES, INC
+Filing Date: 2022-02-22
+Form Type: 10-K
+Extraction Date: 2025-09-02 03:59:57
+================================================================================
+
+ITEM 7.  MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the sections of this Annual Report on Form 10-K captioned “Selected Financial Data” and “Business” and our consolidated financial statements and the related notes to those statements included elsewhere in this Form 10-K. In addition to historical financial information, the following discussion and analysis contains forward looking statements that involve risks, uncertainties, and assumptions. Our actual results and timing of selected events may differ materially from those anticipated in these forward looking statements as a result of many factors, including those discussed under the sections of this Annual Report captioned “Special Note Regarding Forward Looking Statements” and “Risk Factors”. For discussion related to changes in financial condition and the results of operations for the year ended December 31, 2020, refer to Item 7- Management's Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K/A, filed with the Securities and Exchange Commission on February 19, 2021.
+
+Overview
+
+We develop, manufacture and sell products that address a broad range of energy market segments through our diversified product offering, including residential, commercial and large scale photovoltaic or PV, energy storage and backup solutions, electric vehicle or EV charging, home energy management, grid services and virtual power plants, as well as products in our non-solar businesses which address e-Mobility, automation machines, lithium-ion cells and battery packs and UPS solutions.
+
+Further information regarding our business is provided in “Part I, Item 1. Business” of this Annual Report.
+
+In the year ended December 31, 2021, two customers accounted for 30.9% of our revenues and our top three customers (all distributors) together represented 37.8% of our revenues.
+
+Our revenues were $1,459.3 million, and $1,963.9 million for fiscal 2020, and fiscal 2021 respectively. Gross margins were 31.6% and 32.0% for fiscal 2020, and fiscal 2021, respectively. Net profits were $140.3 million and $169.2 million for fiscal 2020 and fiscal 2021, respectively.
+
+Performance Measures
+
+In managing our business and assessing financial performance, we supplement the information provided by the financial statements with other operating metrics. These operating metrics are utilized by our management to evaluate our business, measure our performance, identify trends affecting our business, and formulate projections. We use metrics relating to yearly shipments (inverters shipped, power optimizers shipped, and megawatts shipped) to evaluate our sales performance and to track market acceptance of our products from year to year. We use metrics relating to monitoring (systems monitored and megawatts monitored) to evaluate market acceptance of our products and usage of our solution.
+
+We provide the “megawatts shipped” metric, which is calculated based on nameplate capacity shipped, to show adoption of our system on a nameplate capacity basis. Nameplate capacity shipped is the maximum rated power output capacity of an inverter and corresponds to our financial results in that higher total capacities shipped are generally associated with higher total revenues. However, revenues increase with each additional unit sold, not necessarily each additional MW of capacity sold. Accordingly, we also provide the “inverters shipped” and “power optimizers shipped” operating metrics.
+
+40
+
+Covid-19 Impact & Response
+
+ Covid-19 continued to present challenges on our operations and business in 2021, primarily, operational challenges which we reported on continuously in our quarterly reports throughout the year. Although the global distribution of vaccines continues to progress and many government-imposed restrictions have been lifted or removed, the future impact of the Covid-19 pandemic remains highly uncertain. Resurgences of Covid-19 cases and the emergence of new variants may adversely impact our results of operations.Our first priority continues to be to protect and support our employees while maintaining company operations and support of our customers with as few disruptions as possible. We follow the guidance issued by applicable local authorities and health officials in each region in which we do business, including in our headquarters located in Israel.
+
+In the third quarter of 2021, our contract manufacturer in Vietnam was forced to temporarily close its facilities due to government mandated lockdowns. The mandatory shut downs lasted 12 weeks and the Vietnam factory returned to full capacity in November of 2021. While we increased manufacturing capacity in China, Israel and Hungary in order to compensate for the Vietnam factory Covid-19 related lockdown, our aggregate overall manufacturing capacity was negatively impacted and together with shipping constraints caused by port congestions, caused a reduction in our finished goods inventory and availability to supply in the third and fourth quarter of 2021. Our manufacturing facilities in Korea (for our energy storage business), Italy (for our e-Mobility components) and Israel and our contract manufacturers’ facilities in Vietnam, China, and Hungary were operational at almost full capacity in the fourth quarter of 2021 as we continued to ramp our new manufacturing site in Mexico. To the extent that there are no further lockdowns, manufacturing capacity will revert to levels that accommodate the growing demand for our products within the first half of 2022. Our customer support centers are working at full capacity, partially from home. Continued travel restrictions, however, continue to have an impact on our operations.
+
+In 2021, we experienced and continue to experience an increase in the cost of goods sold due to an increase in shipping rates that resulted from a reduction in ocean freight capacity, the accumulation of containers in the ports in U.S and Europe that were not returned to Asia and the reduction in the availability of air freight that increased the demand for ocean freight. In the fourth quarter of 2021, we experienced and expect to continue to experience in 2022, disruptions to our logistics supply chain caused by constraints in the global transportation system including limited availability of local ground transportation coupled with congestion in shipping ports and industry-wide component shortages. These factors have impacted our ability to accurately plan and forecast the delivery of our products to customers and have also increased the total shipping time and cost of ocean freight for components and finished goods. Moreover, industry-wide component shortages require our R&D teams to focus their attention on manufacturing and production design workarounds solutions which can impact our ability to meet our plans to roll out new innovative products and services. Additionally, a customer of SolarEdge e-Mobility that has experienced disruptions in its own manufacturing process due to global component shortages has delayed the delivery date of powertrain units that were expected to be supplied by SolarEdge e-Mobility in the third quarter of 2021. We expect that the aforementioned e-Mobility project to return to normal operations during 2022.
+
+Despite the operational hurdles detailed above, our fourth quarter 2021 revenues of $551.9 million, reflect an increase from revenues of $526.4 million in the third quarter of 2021.
+
+41
+
+Key Components of Our Results of Operations
+
+The following discussion describes certain line items in our Consolidated Statements of Operations.
+
+Revenues
+
+We generate revenues from the sale of DC optimized inverter systems for solar PV installations which include power optimizers, inverters, storage and backup solutions, EV chargers, smart energy devices, our cloud-based monitoring platform as well as grid services. Our customer base mainly includes distributors, large solar installers, wholesalers, EPCs, and PV module manufacturers. In addition, we also generate revenues from the sale of lithium-ion cells, batteries and energy storage solutions, UPS systems, automation machines and EV powertrain solutions for electric vehicles.
+
+Our revenues from the sale of solar-related products are affected by changes in the volume and average selling prices of our DC optimized inverter systems. The volume and average selling price of our systems is driven by the supply and demand for our products, changes in the product mix between our residential and commercial products, the customer mix between large and small customers, the geographical mix of our sales, sales incentives, end user government incentives, seasonality, and competitive product offerings. Revenues from the sale of energy storage system or ESS products are affected by the type of product sold (cell, battery or system) and the type of the battery that is sold. Revenues from the sale of UPS products, SolarEdge Automation Machines and SolarEdge e-Mobility products are affected by the changes in the volumes, customers’ size and average selling prices of the products we sell.
+
+Our revenue growth is dependent on our ability to expand our market share in each of the geographies in which we compete, expand our global footprint to new evolving markets, grow our production capabilities to meet demand, continue to develop and introduce new and innovative products that address the changing technology and performance requirements of our customers and expansion of the new businesses we acquired.
+
+In the year ended December 31, 2021, 45.4% of our revenues were generated from Europe, 40.0% of our revenues were generated from the United States and 14.6% of our revenues were generated from ROW. In the year ended December 31, 2020, 42.9% of our revenues were generated from Europe, 42.0% of our revenues were from the United States and 15.1% of our revenues were generated from ROW.
+
+Cost of Revenues and Gross Profit
+
+Cost of revenues consists primarily of product costs, including purchases from our contract manufacturers and other suppliers, as well as costs related to shipping, customer support, product warranty, personnel, depreciation of testing and manufacturing equipment, hosting services for our cloud based monitoring platform, and other logistics services. Our product costs are affected by technological innovations, such as advances in semiconductor integration and new product introductions, economies of scale resulting in lower component costs, and improvements in production processes and automation. Some of these costs, primarily personnel and depreciation of testing and manufacturing equipment, are not directly affected by sales volume.
+
+With respect to ESS, Automation Machines and e-Mobility products cost of revenues consists primarily of materials costs, labor costs associated with the manufacturing, variable utility, and operational costs related to the manufacturing factories, depreciation of testing and manufacturing equipment and other fixed costs.
+
+Except for the manufacturing and assembly activities related to our acquired businesses and the manufacturing of solar products at Sella 1, we outsource our manufacturing to third-party manufacturers and negotiate product pricing on a quarterly basis.
+
+42
+
+During 2021, supply chain and operational challenges coupled with an increase in demand for our products, resulted in increased use of expedited ocean freight as well as air freight to deliver our products to our customers in a timely manner. At the beginning of 2021, a high portion of our products manufactured in non-tariff countries imported into the U.S. resulted in lower custom tariff charges; however, disruptions to our Vietnam manufacturing facilities due to Covid-19 restrictions, required us to increase manufacturing from our other manufacturing facilities that are subject to custom tariffs in the later part of the year, which consequentially caused us to temporarily incur an increase in our tariff charges. As a result of the operational challenges we faced during 2021, the levels of our finished goods inventories required to support our growth were reduced. Therefore, we expect to continue to deliver our products through expedited ocean freight and air freight. In absence of additional Covid-19 related shutdowns we expect inventory levels to return to those required to support our growing business and the reduction in expedited shipments and air freight usage during the third quarter of 2022.
+
+We continue to develop our own manufacturing capabilities. For example, we have developed our own proprietary automated assembly lines for our power optimizers, manufacture sub-assemblies such as cables and magnetic, and own large amounts of equipment in connection with such manufacturing activities. We expect to continue to invest in additional automated assembly lines in the future. We have designed and are responsible for funding all of the capital expenses associated with existing and planned automated assembly lines. The current and expected capital expenses associated with these automated assembly lines will be funded out of our cash flows generation.
+
+Key components of our logistics supply channel consist of third party distribution centers in the U.S., Europe, Australia, and Japan. Finished goods are either shipped to our customers directly from our contract manufacturers or shipped to third-party distribution centers and then, finally, shipped to our customers.
+
+In the third quarter of 2020 we began commercial shipments to the United States of optimizers and inverters from Sella 1, which reached full manufacturing capacity in the second quarter of 2021.
+
+Cost of revenues also includes our operations, production and support departments’ costs. The operations and production departments are responsible for production management such as planning, procurement, supply chain, production methodologies and machinery planning, logistics management and manufacturing support to our contract manufacturers, as well as the quality assurance of our products. Our support department provides customer and technical support at various levels through our call centers around the world as well as second and third-level support services which are provided by support personnel located in our headquarters. Our employees headcount in our operations, production and support departments has grown from 1,549 as of December 31, 2020 to 2,052 as of December 31, 2021.
+
+Gross profit may vary from quarter to quarter and is primarily affected by our average selling prices, product costs, product mix, customer mix, geographical mix, shipping method, warranty costs, and seasonality.
+
+Operating Expenses
+
+Operating expenses consist of research and development, sales and marketing, general and administrative and other expenses. Personnel related costs are the most significant component of each of these expense categories and include salaries, benefits, payroll taxes, commissions and stock-based compensation. Our employees headcount in our research and development, sales and marketing, and general and administrative departments has grown from 1,625 as of December 31, 2020 to 1,912 as of December 31, 2021. We expect to continue to hire significant numbers of new employees to support our growth. The timing of these additional hires could materially affect our operating expenses in any particular period, both in absolute dollars and as a percentage of revenue. We expect to continue to invest substantial resources to support our growth and anticipate that each of the following categories of operating expenses will increase in absolute dollar amounts for the foreseeable future.
+
+43
+
+Research and development expenses
+
+Research and development expenses include personnel-related expenses such as salaries, benefits, stock-based compensation, and payroll taxes. Our research and development employees are engaged in the design and development of power electronics, semiconductors, software, power line communications, networking and chemistry. Our research and development expenses also include third-party design and consulting costs, materials for testing and evaluation, ASIC development and licensing costs, depreciation expense, and other indirect costs. We devote substantial resources to ongoing research and development programs that focus on enhancements to, and cost efficiencies in, our existing products and timely development of new products that utilize technological innovation, thereby maintaining our competitive position.
+
+Sales and marketing expenses
+
+Sales and marketing expenses consist primarily of personnel-related expenses such as salaries, sales commissions, benefits, payroll taxes, and stock-based compensation. These expenses also include travel, fees of independent consultants, trade shows, marketing, costs associated with the operation of our sales offices, and other indirect costs. The expected increase in sales and marketing expenses is due to an expected increase in the number of sales and marketing personnel and the expansion of our global sales and marketing footprint, enabling us to increase our penetration into new markets. These expenses will be determined to the extent that marketing activities resume, contingent upon the recovery of certain activities which have been halted due to Covid-19 such as travel, trade shows and in person customer trainings. We currently have a sales presence in many countries worldwide and intend to continue to expand our sales presence to additional regions.
+
+General and administrative expenses
+
+General and administrative expenses consist primarily of salaries, employee benefits, and stock-based compensation related to our executives, finance, human resources, information technology, and legal organizations, travel expenses, facilities costs, fees for professional services, and registration fees related to being a publicly-traded company. Professional services consist of audit and legal costs, remuneration to board members, insurance, information technology, and other costs. General and administrative expenses also include expenses related to legal claims and allowance for doubtful accounts in the event of uncollectible account receivables balances.
+
+Other operating expenses (income), net
+
+Other operating expenses (income), net, consist primarily of losses related to write-offs of tangible and intangible assets and income related to payments made to us from the Kokam acquisition escrow account with regards to a working capital adjustment and a legal claim acquired as part of the Kokam acquisition which was settled in arbitration in 2019.
+
+Non Operating Expenses
+
+Financial income (expense), net
+
+Financial income (expense), net, consists primarily of interest income, interest expense, gains or losses from foreign  currency fluctuations and hedging transactions.
+
+Interest income consists of interest from our investment in available for sale marketable securities, deposits and accretion of discounts related to our investment in available for sale marketable securities.
+
+Interest expense consists of interest related to bank loans, advance payments received for performance obligations that extend for a period greater than one year, related to Accounting Standard Codification 606, “Revenue from Contracts with Customers” (ASC 606), interest related to Accounting Standard Codification 842, “Leases” (ASC 842), amortization of premium related to our investment in available for sale marketable securities and the accretion of the debt discount and amortization of debt issuance cost associated with our Notes due 2025.
+
+44
+
+Our functional currency is the U.S. dollar. With respect to certain of our subsidiaries, the functional currency is the applicable local currency. Financial (expenses) income, net, also consists of gains or losses from foreign currency fluctuations primarily of the effect of foreign exchange differences between the U.S. dollar and the New Israeli Shekel, the Euro, the South Korean Won and other currencies related to our monetary assets and liabilities, the fair value remeasurement of hedging contracts not designated as cash flow hedge and bank charges.
+
+Income taxes
+
+We are subject to income taxes in the countries where we operate.
+
+In the year ended December 31, 2020, we recorded a net income tax expense of $23.3 million, which consists of a $26.8 million current income tax expense and a $3.5 million deferred tax income. In the year ended December 31, 2021, we recorded a net income tax expense of $18.1 million, which consists of a $29.7 million current income tax expense and $11.6 million of deferred tax income. The decrease in net income tax expense was mainly attributed to a tax benefit related to the laps of a statute of limitation of uncertain tax positions and an increase in deferred tax income related to unrealized losses of foreign currency transactions. This decrease was partially offset by an increase in tax expense related to operations of our foreign subsidiaries.
+
+On December 22, 2017, the Tax Cuts and Jobs Act (the "Tax Act") was signed into law making significant changes to U.S. income tax law. These changes include, but are not limited to, a corporate tax rate decrease from 35% to 21% effective for tax years 2018 onwards and created new taxes on certain foreign-sourced earnings and certain related-party payments.
+
+The Tax Act required the Company to pay U.S. income taxes on accumulated foreign subsidiaries earnings not previously subject to U.S. income tax at a rate of 15.5% to the extent of foreign cash and certain other net current assets, and 8% on the remaining earnings. The total tax liability will be paid over the eight-year period provided in the Tax Act (ending 2024).
+
+SolarEdge Technologies Ltd., our Israeli subsidiary, is taxed under Israeli law. Income not eligible for benefits under the Investments Law is taxed at the corporate tax rate. The Israeli corporate tax rate is 23%.
+
+Our Israeli subsidiary elected tax year 2012 as a “Year of Election” for “Benefited Enterprise” under the Israeli Investments Law, which provides certain benefits, including tax exemptions and reduced tax rates. Upon meeting the requirements under the Israeli Investments Law, the two-year tax exemption has ended on December 31, 2018.
+
+The Investment Law was amended in 2005 and was further amended as of January 1, 2011 and in August 2013 (the “2011 Amendment”). The 2011 Amendment canceled the availability of the benefits granted in accordance with the provisions of the Investments Law prior to 2011 and, instead, introduced new benefits for income generated by a “Preferred Company” through its “Preferred Enterprise” (both as defined in the 2011 Amendment). Under the 2011 Amendment, income derived by Preferred Companies from Preferred Enterprise would be subject to a uniform rate of corporate tax. The tax rate applicable to such income, referred to as “Preferred Income”, would be 7.5% in areas in Israel that are designated as Development Zone A and 16% elsewhere in Israel starting in the year 2017 and thereafter.
+
+In December 2016, Amendment 73 to the Investments Law (the “2017 Amendment”) was published. According to the 2017 Amendment, special tax tracks for technological enterprises have been introduced, which are subject to rules that were issued by the Israeli Ministry of Finance. A Technological Preferred Enterprise (PTE), as defined in the 2017 Amendment, that is located in the central region of Israel, will be subject to tax at a rate of 12% on profits deriving from intellectual property (in Development Zone A - a tax rate of 7.5%). Our Israeli subsidiary has established its own manufacturing facilities in Israel, located in a Development Zone A.
+
+45
+
+On June 14, 2017, the Encouragement of Capital Investments Regulations (Preferred Technological Income and Capital Gain for Technological Enterprise), 2017 (the “Regulations”) were published. The Regulations describe, inter alia, the mechanism used to determine the calculation of the benefits under the PTE regime. A company that complies with the terms under the PTE regime may be entitled to certain tax benefits with respect to certain income generated during the company’s regular course of business and derived from the preferred intangible asset.
+
+As of January 2019, our Israeli subsidiary elected to implement the 2011 and 2017 Amendments starting as of tax year 2019 and as a result, under the PTE regime with respect to our business activities in Israel, we expect that it will be entitled to an effective tax at a rate of approximately 12% in 2020.
+
+The Law for the Encouragement of Industry (Taxes), 1969, (the “Industry Encouragement Law”), provides certain tax benefits for an ‘Industrial Company’ as such term is defined in the Industry Encouragement Law. An Industrial Company is entitled to certain tax benefits including, inter alia amortization over an eight-year period of the cost of purchased know-how and patents and accelerated depreciation rates on equipment and buildings.
+
+Results of Operations
+
+          The following tables set forth our consolidated statements of income for the years ended December 31, 2021 and 2020. We have derived this data from our consolidated financial statements included elsewhere in this Annual Report. This information should be read in conjunction with our consolidated financial statements and related notes included elsewhere in this Annual Report. The results of historical periods are not necessarily indicative of the results of operations for any future period.
+
+Comparison of year ended December 31, 2021 and year ended December 31, 2020
+
+ Year ended December 31, 2020 to 2021
+-------------------------------------- ----------------------- --------- - ------------ --------- ------ ------- - ------ --
+ 2021 2020 Change
+ (In thousands)
+Revenues 1,963,865 1,459,271 504,594 34.6 %
+Cost of revenues 1,334,547 997,912 336,635 33.7 %
+Gross profit 629,318 461,359 167,959 36.4 %
+Operating expenses:
+Research and development 219,633 163,123 56,510 34.6 %
+Sales and marketing 119,000 95,985 23,015 24.0 %
+General and administrative 82,196 63,119 19,077 30.2 %
+Other operating expenses (income), net 1,350 (3,429 ) 4,779 (139.4 )%
+Total operating expenses 422,179 318,798 103,381 32.4 %
+Operating income 207,139 142,561 64,578 45.3 %
+Financial income (expense), net (19,915 ) 21,105 (41,020 ) (194.4 )%
+Income before income taxes 187,224 163,666 23,558 14.4 %
+Income taxes 18,054 23,344 (5,290 ) (22.7 )%
+Net income 169,170 140,322 28,848 20.6 %
+
+46
+
+Revenues
+
+ Year ended December 31, 2020 to 2021
+-------- ----------------------- --------- ------------ --------- ------ ------- ---- -
+ 2021 2020 Change
+ (In thousands)
+Revenues 1,963,865 1,459,271 504,594 34.6 %
+
+Revenues increased by $504.6 million, or 34.6%, in the year ended December 31, 2021 as compared to the year ended December 31, 2020, primarily due to (i) an increase in the number of inverters and power optimizers sold, with significant growth in revenues in all geographies ; and (ii) an increase in the numbers of powertrain kits supplied by SolarEdge e-Mobility, in an aggregate amount of $55.5 million. Revenues from outside of the U.S. comprised 60.0% of our revenues in the year ended December 31, 2021 as compared to 58.0% in the year ended December 31, 2020.
+
+The number of power optimizers recognized as revenues increased by approximately 3.1 million units, or 20.3%, from approximately 15.5 million units in 2020 to approximately 18.6 million units in 2021. The number of inverters recognized as revenues increased by approximately 125.1 thousand units, or 18.9%, from approximately 663.3 thousand units in 2020 to approximately 788.4 thousand units in 2021. Our blended ASP per watt for solar products shipped increased by 0.024, or 10.8%, in 2021 as compared to 2020. The increase in blended ASP per watt is mainly attributed to an increase in the sale of residential products out of our total solar product mix in the U.S, that are characterized with higher ASP per watt, an increase in the sale of products with enhanced capabilities such as the SolarEdge energy hub inverter that are characterized with higher ASP per watt as well as the appreciation of the Euro and other currencies against the U.S. dollar.
+
+This increase in blended ASP per watt was partially offset by a change in our customer mix in the U.S. toward larger customers that enjoy preferential pricing due to volume commitments.
+
+Cost of Revenues and Gross Profit
+
+ Year ended December 31, 2020 to 2021
+---------------- ----------------------- --------- ------------ ------- ------ ------- ---- -
+ 2021 2020 Change
+ (In thousands)
+Cost of revenues 1,334,547 997,912 336,635 33.7 %
+Gross profit 629,318 461,359 167,959 36.4 %
+
+Cost of revenues increased by $336.6 million, or 33.7%, in 2021 as compared to 2020, primarily due to:
+
+ • an increase in the volume of products sold and the increase in the cost of components used in the manufacturing of our products.
+
+ • an increase in warranty expenses and warranty accruals of $48.4 million associated primarily with an increased number of products in our install base. This increase was partially offset by various cost reductions on the different elements of our warranty expenses which include the cost of the products, shipment and other related expenses;
+
+47
+
+ • a significant increase in shipment and logistic costs in an aggregate amount of $40.1 million due to (i) an increase in shipment rates; and (ii) an increase in volume shipped;
+
+ • an increase in personnel-related costs of $16.4 million related to the expansion of our production, operations, and support headcount which grew in parallel to our growing install base worldwide, the construction of our lithium-ion cell and battery factory in Korea, known as "Sella 2" and the increase in costs associated with the production of powertrain units manufactured by our SolarEdge e-Mobility division; and
+
+ • an increase in other production costs of $9.9 million, which is mainly attributed to charges from our contract manufacturers due to manufacturing disruptions related to Covid-19 lockdowns, increased logistics costs resulting from transportation disruptions and the mobilization of components among our different manufacturing sites.
+
+These increases were partially offset by:
+
+ • a decrease in custom duties of $25.5 million attributed to lower tariff charges due to the manufacture of a higher portion of our products for the U.S. outside of China;
+
+Gross profit as a percentage of revenue increased from 31.6% in 2020 to 32.0% in 2021 as a result of the above detailed analysis.
+
+Operating Expenses:
+
+Research and Development
+
+ Year ended December 31, 2020 to 2021
+------------------------ ----------------------- ------- ------------ ------- ------ ------ ---- -
+ 2021 2020 Change
+ (In thousands)
+Research and development 219,633 163,123 56,510 34.6 %
+
+Research and development costs increased by $56.5 million or 34.6%, in 2021 compared to 2020, primarily due to:
+
+ • an increase in personnel-related costs of $48.5 million resulting from an increase in our research and development headcount as well as salary expenses associated with employee equity-based compensation. The increase in headcount reflects our continuing investment in enhancements of existing products as well as research and development expenses associated with bringing new products to the market;
+
+ • an increase in expenses related to overhead costs in an amount of $3.1 million;
+
+ • an increase in depreciation expenses of property and equipment in an amount of $3.0 million; and
+
+ • an increase in expenses related to material consumption in the manufacturing of prototypes during our development process in an amount of $2.9 million.
+
+48
+
+These increases were partially offset by:
+
+ • an increase in reimbursement of costs, in an amount of $1.7 million, related to the research and development activities performed by SolarEdge e-Mobility; and
+
+ • a decrease in expenses related to consultants and sub-contractors in an amount of $1.0 million.
+
+Sales and Marketing
+
+ Year ended December 31, 2020 to 2021
+------------------- ----------------------- ------- ------------ ------ ------ ------ ---- -
+ 2021 2020 Change
+ (In thousands)
+Sales and marketing 119,000 95,985 23,015 24.0 %
+
+  Sales and marketing expenses increased by $23.0 million, or 24.0%, in 2021 compared to 2020, primarily due to:
+
+ • an increase in personnel-related costs of $18.4 million as a result of an increase in headcount supporting our growth in all geographies, as well as salary expenses associated with employee equity-based compensation;
+
+ • an increase in expenses related to marketing activities by $2.1 million due to the renewal of marketing activities, exhibitions and shows, which were cancelled or postponed in 2020 due to Covid-19 restrictions; and
+
+ • an increase in expenses related to consultants and sub-contractors in an amount of $1.1 million.
+
+General and Administrative
+
+ Year ended December 31, 2020 to 2021
+-------------------------- ----------------------- ------ ------------ ------ ------ ------ ---- -
+ 2021 2020 Change
+ (In thousands)
+General and administrative 82,196 63,119 19,077 30.2 %
+
+General and administrative expenses increased by $19.1 million, or 30.2%, in 2021 compared to 2020, primarily due to:
+
+ • an increase in personnel-related costs of $16.6 million resulting from an increase in our general and administrative headcount, the reinstatement of executive management salaries that management voluntarily reduced in early 2020 to mitigate the potential effects of Covid-19, as well as salary expenses associated with employee equity-based compensation; and
+
+ • an increase of $2.6 million related to insurance and legal expenses.
+
+Other operating expenses (income), net
+
+ Year ended December 31, 2020 to 2021
+-------------------------------------- ----------------------- ----- ------------ ------ ------ ----- ------ --
+ 2021 2020 Change
+ (In thousands)
+Other operating expenses (income), net 1,350 (3,429 ) 4,779 (139.4 )%
+
+49
+
+Other operating expenses were $1.4 million in 2021, compared to other operating income of $3.4 million in 2020, primarily due to:
+
+ • a decrease in income in the amount of $4.9 million related to an acquired legal claim as part of the Kokam acquisition which was settled in arbitration in 2019 and subsequently repaid to the Company in 2020; and
+
+ • an increase of $2.1 million in expenses related to write-offs of tangible assets in our solar business, which we ceased using during the second quarter of 2021.
+
+These were partially offset by:
+
+ • an increase of $0.8 million in income related to a payment made to us from an escrow account with regards to a working capital adjustment in connection with the Kokam acquisition; and
+
+ • a decrease of $1.5 million in expenses related to write-offs of intangible assets of SolarEdge e-Mobility, which we ceased to use during 2020.
+
+Financial income (expenses), net
+
+ Year ended December 31, 2020 to 2021
+------------------------------- ----------------------- ------- - ------------ ------ ------ ------- - ------ --
+ 2021 2020 Change
+ (In thousands)
+Financial income (expense), net (19,915 ) 21,105 (41,020 ) (194.4 )%
+
+Financial expenses were $19.9 million in 2021 compared to financial income of $21.1 million in 2020, primarily due to an increase of $55.6 million in financial expenses resulted from foreign exchange fluctuations, mainly between each of Euro, the New Israeli Shekel and the South Korean Won against the U.S. dollar.
+
+These expenses were partially offset by an increase of $13.4 million in financial income related to hedging transactions.
+
+Income taxes
+
+ Year ended December 31, 2020 to 2021
+------------ ----------------------- ------ ------------ ------ ------ ------ - ----- --
+ 2021 2020 Change
+ (In thousands)
+Income taxes 18,054 23,344 (5,290 ) (22.7 )%
+
+Income taxes decreased by $5.3 million, or 22.7%, in 2021 as compared to 2020, primarily due to:
+
+ • an increase of $8.2 million in deferred tax income; and
+
+ • an increase of $6.1 million in prior years taxes income.
+
+This was partially offset by an increase of $9.0 million of current tax expenses mainly attributed to an increase in taxable income in foreign subsidiaries.
+
+50
+
+Net Income
+
+ Year ended December 31, 2020 to 2021
+---------- ----------------------- ------- ------------ ------- ------ ------ ---- -
+ 2021 2020 Change
+ (In thousands)
+Net income 169,170 140,322 28,848 20.6 %
+
+As a result of the factors discussed above, net income increased by $28.8 million, or 20.6% in 2021 as compared to 2020.
+
+Liquidity and Capital Resources
+
+The following table shows our cash flows from operating activities, investing activities, and financing activities for the stated periods:
+
+ Year ended December 31,
+----------------------------------------------------------------- ----------------------- -------- - ---- -------- -
+ 2021 2020
+ (In thousands)
+Net cash provided by operating activities 214,129 222,655
+Net cash used in investing activities (484,211 ) (236,637 )
+Net cash provided by (used in) financing activities (15,178 ) 640,484
+Increase (decrease) in cash, cash equivalents and restricted cash (285,260 ) 626,502
+
+As of December 31, 2021, our cash and cash equivalents were $530.1 million. This amount does not include $650.0 million invested in available for sale marketable securities, $0.3 million invested in short-term restricted bank deposits and  $1.5 million invested in long-term restricted bank deposits. Our principal uses of cash are for funding our operations, capital expenditures, other working capital requirements and other investments. As of December 31, 2021, we have open commitments for capital expenditures in an amount of approximately $168.5 million. These commitments reflect purchases of automated assembly lines and other machinery related to our manufacturing operations. We also have purchase obligations in the amount of $1,428.8 million related to raw materials and commitments for the future manufacturing of our products.
+
+We believe that cash provided by operating activities as well as our cash and cash equivalents, and available for sale marketable securities will be sufficient to meet our anticipated cash needs for at least the next 12 months as well as in the longer term, including the self-funding of our capital expenditure and operational commitments.
+
+51
+
+Operating Activities
+
+Cash provided by operating activities consists of net income adjusted for certain non-cash items and changes in assets and liabilities. Cash provided by operating activities decreased by $8.5 million in 2021 as compared to 2020, mainly due to unfavorable changes in working capital in 2021 compared to the prior year, partially offset by higher net income.
+
+Investing Activities
+
+Investing cash flows consist primarily of capital expenditures, investment in, sales and maturities of available for sale marketable securities, investment and withdrawal of bank deposits and restricted bank deposits, and cash used for acquisitions. Cash used for investing activities increased by $247.6 million in 2021 as compared to 2020, primarily driven by a $355.7 million increase in purchases of available-for-sale debt investments, net, an increase of $22.5 million in capital expenditures and an increase of $19.6 million cash used for asset acquisitions and investments in a privately held company. This increase was partially offset by a $90.4 million decrease in cash used for investment in bank deposits and restricted bank deposits, net.
+
+Financing Activities
+
+Financing cash flows consist primarily of, issuance and repayment of short-term and long-term debt and proceeds from the sale of shares of common stock through employee equity incentive plans. Cash used for financing activities in 2021 was $15.2 million compared to $640.5 million cash provided by financing activities in 2020, primarily due to a $617.9 million decrease in cash provided by issuance of the Notes, net, a decrease of $19.3 million in cash received from the exercise of stock-based awards net of withholding taxes remitted to the tax authorities and an increase of $17.4 million in bank loans repayments, net.
+
+Convertible Senior Note
+
+On September 25, 2020, we issued $632.5 million aggregate principal amount of our Convertible Senior Notes or Notes in a transaction exempt from registration pursuant to Rule 144A and Regulation S under the Securities Act. Net proceeds from the offering, after underwriters’ discount and commissions and offering expenses, was $617.9 million. We intend to use the proceeds of the Notes for general corporate purposes. See Note 15 to our annual financial statements for more information.
+
+Critical Accounting Policies and Significant Management Estimates
+
+We prepare our consolidated financial statements in accordance with generally accepted accounting principles in the U.S. (“GAAP”). The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses, and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from the estimates made by our management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows will be affected. We believe that the accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates. Critical accounting policies and estimates are those that we consider the most important to the portrayal of our financial condition and results of operations because they require our most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effects of matters that are inherently uncertain. See Note 2 to our annual financial statements for more information.
+
+52
+
+Revenue Recognition
+
+We generate revenues from the sale of DC optimized inverter systems for solar PV installations which include our power optimizers, inverters, and cloud-based monitoring platform as well as other solar related products, UPS systems, Lithium-ion cells, batteries, energy storage solutions, EV powertrain solutions and machinery. Our worldwide customer base includes large solar installers, distributors, EPCs, PV module manufacturers, utility companies and other customers. Our products are fully functional at the time of shipment to the customer and do not require production, modification, or customization with the exception of some UPS and ESS systems that require installation and commissioning. We recognize revenue under the core principle that transfer of control to the customers should be depicted in an amount reflecting the consideration we expect to receive in revenue. In order to achieve that core principle, we apply the following five-step approach: (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price to the performance obligations in the contract, and (5) recognize revenue when a performance obligation is satisfied. Provisions for rebates, sales incentives, and discounts to customers are accounted for as reductions in revenue in the same period that the related sales are recorded.
+
+We generally sell our products to our customers pursuant to a customer’s standard purchase order and our customary terms and conditions. We do not offer rights to return our products other than for normal warranty conditions, and as such, revenue is recorded upon shipment of products to customers and transfer of title and risk of loss under standard commercial terms. We evaluate the creditworthiness of our customers to determine that appropriate credit limits are established prior to the acceptance and shipment of an order.
+
+ We provide our full web-based monitoring platform for our solar products free of charge and revenues associated with the service since that date are being recognized ratably over 25 years. In the absence of third party comparable pricing for such service, management determines the revenue levels of this service based on the costs associated with providing the service plus appropriate margins that reflect management’s best estimate of the selling price. These revenues are minimal and we do not expect this to become a significant source of revenue in the near future.
+
+The most significant impact of the standard on our financial statements relates to advance payments received for performance obligations that extend for a period greater than one year. Applying the standard, such performance obligations are those that include a financing component, specifically: (i) warranty extension services, (ii) cloud-based monitoring, and (iii) communication services.
+
+We recognize financing component expenses in our consolidated statement of income in relation to advance payments for performance obligations that extend for a period greater than one year. These financing component expenses are reflected in our deferred revenues balance.
+
+See Note 2s "revenue recognition" and Note 13 "Deferred revenues" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to revenue recognition.
+
+Product Warranty
+
+We provide a standard limited product warranty for our solar products against defects in materials and workmanship under normal use and service conditions. Our standard warranty period is 25 years for our power optimizers, 12 years for our inverters, 10 years for our storage interface and a 10-year limited warranty for our residential energy hub battery. Other products are sold with standard limited warranties that typically range in duration from one to ten years, and in some cases for a longer period. In certain cases, customers can purchase an extended warranty for Critical Power products and our battery storage products that exceed the standard warranty period. In addition, customers can purchase extended warranties for inverters that increase the warranty period to up to 25 years.
+
+53
+
+Our products are designed to meet the warranty periods and our reliability procedures cover component selection, design, accelerated life cycle tests, and end-of-manufacturing line testing. However, since our history in selling power optimizers and inverters is substantially shorter than the warranty period, the calculation of warranty provisions is inherently uncertain.
+
+We accrue for estimated warranty costs at the time of sale based on anticipated warranty claims and actual historical warranty claims experience. Warranty provisions, computed on a per-unit sold basis, are based on our best estimate of such costs and are included in our cost of revenues. The warranty obligation is determined based on actual and predicted failure rates of the products, cost of replacement and service and delivery costs incurred to correct a product failure. Our warranty obligation requires management to make assumptions regarding estimated failure rates and replacement costs.
+
+In order to predict the failure rate of each of our products, we have established a reliability model based on the estimated mean time between failures (“MTBF”). The MTBF represents the average elapsed time predicted for each product unit between failures during operation. Applying the MTBF failure rate over our install base for each product type and generation allows us to predict the number of failed units over the warranty period and estimates the costs associated with the product warranty. Predicted failure rates are updated periodically based on data returned from the field and new product versions, as are replacement costs which are updated to reflect changes in our actual production costs for our products, subcontractors’ labor costs, and actual logistics costs.
+
+Since the MTBF model does not take into account additional non-systematic failures such as failures caused by workmanship or manufacturing or design-related issues, and since warranty claims are at times opened for cases in which the error has been triggered by an improper installation, we have developed a supplemental model to predict such cases and recognize the associated expenses ratably over the expected claim period. This model, which is based on actual root cause analysis of returned products, identification of the causes of claims and time until each identified problem is revealed, allows us to better predict actual warranty expenses and is updated periodically based on our experience, taking into account the installed base of approximately $83.8 million power optimizers and approximately $3.5 million inverters as of December 31, 2021.
+
+If actual warranty costs differ significantly from these estimates, adjustments may be required in the future, which could adversely affect our gross profit and results of operations. Warranty obligations are classified as short-term and long-term warranty obligations based on the period in which the warranty is expected to be claimed. The warranty provision (short and long-term) was $205.0 million and $265.2 million, in the year ended December 31, 2020 and 2021, respectively.
+
+See Note 2u "warranty obligations" and Note 12 "Warranty obligations" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to product warranty.
+
+Inventory Valuation
+
+Our inventories comprise sellable finished goods, raw materials bought for own manufacturing or on behalf of our contract manufacturers, and faulty units returned under our warranty policy.
+
+Sellable finished goods and raw material inventories are valued at the lower of cost or market, based on the moving average cost method. Certain factors could affect the realizable value of our inventories, including market and economic conditions, technological changes, existing product changes (mainly due to cost reduction activities), and new product introductions. We consider historic usage, expected demand, anticipated sales price, the effect of new product introductions, product obsolescence, product merchantability, and other factors when evaluating the value of inventories. Inventory write-downs are equal to the difference between the cost of inventories and their estimated fair market value. Inventory write-downs are recorded as cost of revenues in the accompanying statements of income and were $8.9 million and $7.1 million, in the year ended December 31, 2020 and 2021, respectively.
+
+54
+
+Faulty products returned under our warranty policy are often refurbished and used as replacement units. Such products are written off upon receipt.
+
+We do not believe that there is a reasonable likelihood that there will be a material change in future estimates or assumptions that we use to record inventory at the lower of cost or market. However, if estimates regarding customer demand are inaccurate or changes in technology affect demand for certain products in an unforeseen manner, we may be exposed to losses that could be material.
+
+See Note 2j "Inventories" and Note 4 "Inventories, net" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to inventory valuation.
+
+Business Combination
+
+We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed and intangible assets acquired based on their estimated fair value. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill. Such valuations require our management to make significant estimates and assumptions, especially with respect to intangible assets. Significant estimates in valuing certain intangible assets include, but are not limited to, future expected cash flows from acquired technology and other intangible assets, their useful lives and discount rates. Our management’s estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. During the measurement period, which is not to exceed one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings.
+
+See Note 2m "Business Combination" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to business combination.
+
+Intangible and other long-lived assets
+
+We evaluate the recoverability of finite-lived intangible assets for possible impairment whenever events or circumstances indicate that the carrying amount of such assets may not be recoverable. The evaluation is performed at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities. Recoverability of these assets is measured by a comparison of the carrying amounts to the future undiscounted cash flows the assets are expected to generate. If such review indicates that the carrying amount of intangible assets is not recoverable, the carrying amount of such assets is reduced to fair value. We have not recorded any impairment charges during the year ended December 31, 2021.
+
+Acquired identifiable finite-lived intangible assets are amortized on a straight-line basis or accelerated method over the estimated useful lives of the assets. We believe the basis of amortization approximates the pattern in which the assets are utilized, over their estimated useful lives. We routinely review the remaining estimated useful lives of finite-lived intangible assets. In case we reduce the estimated useful life assumption for any asset, the remaining unamortized balance is amortized or depreciated over the revised estimated useful life.
+
+See Note 2n "Intangible Assets" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to intangible assets.
+
+55
+
+Goodwill
+
+Goodwill reflects the excess of the consideration transferred, including the fair value of any contingent consideration and any non-controlling interest in the acquiree, over the assigned fair values of the identifiable net assets acquired. Goodwill is not amortized, and is assigned to reporting units and tested for impairment at least on an annual basis.
+
+The goodwill impairment test is performed according to the following principles:
+
+ (1) An initial qualitative assessment may be performed to determine whether it is more likely than not that the fair value of the reporting unit is less than its carrying amount.
+
+ (2) If the Company concludes it is more likely than not that the fair value of the reporting unit is less than its carrying mount, a quantitative fair value test is performed. An impairment charge for the amount by which the carrying amount exceeds the reporting unit’s fair value is recognized.
+
+We complete the required annual testing of goodwill for impairment for the reporting unit on October 1 of each year and accordingly, determines whether goodwill should be impaired. During the year ended December 31, 2021, no impairment of goodwill has been identified.
+
+See Note 2o "Goodwill" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to goodwill.
+
+Income taxes
+
+We account for income taxes in accordance with ASC 740, “Income Taxes.” ASC 740, which prescribes the use of the liability method, whereby deferred tax asset and liability account balances are determined based on differences between financial reporting and tax basis of assets and liabilities, and are measured using the enacted tax rates that will be in effect when the differences are expected to reverse.
+
+We account for uncertain tax positions in accordance with ASC 740-10 two-step approach to recognizing and measuring uncertain tax positions. The first step is to evaluate the tax position taken or expected to be taken in a tax return by determining if the weight of available evidence indicates that it is more likely than not that, on an evaluation of the technical merits, the tax position will be sustained on audit, including resolution of any related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount that is more than 50% (cumulative probability) likely to be realized upon ultimate settlement.
+
+See Note 2ac "Income taxes" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to income taxes.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 15]:
+Note 15. Financial Instruments and Risk Management 63
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part I, Item 1]:
+Item 1 Business 1
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+['s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K/A, filed with the Securities and Exchange Commission on February 19, 2021.
+
+Overview
+
+We develop, manufacture and sell products that address a broad range of energy market segments through our diversified product offering, including residential, commercial and large scale photovoltaic or PV, energy storage and backup solutions, electric vehicle or EV charging, home energy management, grid services and virtual power plants, as well as products in our non-solar businesses which address e-Mobility, automation machines, lithium-ion cells and battery packs and UPS solutions.
+
+Further information regarding our business is provided in “Part I, Item 1. Business” of this Annual Report.
+
+In the year ended December 31, 2021, two customers accounted for 30.9% of our revenues and our top three customers (all distributors) together represented 37.8% of our revenues.
+
+Our revenues were $1,459.3 million, and $1,963.9 million for fiscal 2020, and fiscal 2021 respectively. Gross margins were 31.6% and 32.0% for fiscal 2020, and fiscal 2021, respectively. Net profits were $140.3 million and $169.2 million for fiscal 2020 and fiscal 2021, respectively.
+
+Performance Measures
+
+In managing our business and assessing financial performance, we supplement the information provided by the financial statements with other operating metrics. These operating metrics are utilized by our management to evaluate our business, measure our performance, identify trends affecting our business, and formulate projections. We use metrics relating to yearly shipments (inverters shipped, power optimizers shipped, and megawatts shipped) to evaluate our sales performance and to track market acceptance of our products from year to year. We use metrics relating to monitoring (systems monitored and megawatts monitored) to evaluate market acceptance of our products and usage of our solution.
+
+We provide the “megawatts shipped” metric, which is calculated based on nameplate capacity shipped, to show adoption of our system on a nameplate capacity basis. Nameplate capacity shipped is the maximum rated power output capacity of an inverter and corresponds to our financial results in that higher total capacities shipped are generally associated with higher total revenues. However, revenues increase with each additional unit sold, not necessarily each additional MW of capacity sold. Accordingly, we also provide the “inverters shipped” and “power optimizers shipped” operating metrics.
+
+40
+
+Covid-19 Impact & Response
+
+ Covid-19 continued to present challenges on our operations and business in 2021, primarily, operational challenges which we reported on continuously in our quarterly reports throughout the year. Although the global distribution of vaccines continues to progress and many government-imposed restrictions have been lifted or removed, the future impact of the Covid-19 pandemic remains highly uncertain. Resurgences of Covid-19 cases and the emergence of new variants may adversely impact our results of operations.Our first priority continues to be to protect and support our employees while maintaining company operations and support of our customers with as few disruptions as possible. We follow the guidance issued by applicable local authorities and health officials in each region in which we do business, including in our headquarters located in Israel.
+
+In the third quarter of 2021, our contract manufacturer in Vietnam was forced to temporarily close its facilities due to government mandated lockdowns. The mandatory shut downs lasted 12 weeks and the Vietnam factory returned to full capacity in November of 2021. While we increased manufacturing capacity in China, Israel and Hungary in order to compensate for the Vietnam factory Covid-19 related lockdown, our aggregate overall manufacturing capacity was negatively impacted and together with shipping constraints caused by port congestions, caused a reduction in our finished goods inventory and availability to supply in the third and fourth quarter of 2021. Our manufacturing facilities in Korea (for our energy storage business), Italy (for our e-Mobility components) and Israel and our contract manufacturers’ facilities in Vietnam, China, and Hungary were operational at almost full capacity in the fourth quarter of 2021 as we continued to ramp our new manufacturing site in Mexico. To the extent that there are no further lockdowns, manufacturing capacity will revert to levels that accommodate the growing demand for our products within the first half of 2022. Our customer support centers are working at full capacity, partially from home. Continued travel restrictions, however, continue to have an impact on our operations.
+
+In 2021, we experienced and continue to experience an increase in the cost of goods sold due to an increase in shipping rates that resulted from a reduction in ocean freight capacity, the accumulation of containers in the ports in U.S and Europe that were not returned to Asia and the reduction in the availability of air freight that increased the demand for ocean freight. In the fourth quarter of 2021, we experienced and expect to continue to experience in 2022, disruptions to our logistics supply chain caused by constraints in the global transportation system including limited availability of local ground transportation coupled with congestion in shipping ports and industry-wide component shortages. These factors have impacted our ability to accurately plan and forecast the delivery of our products to customers and have also increased the total shipping time and cost of ocean freight for components and finished goods. Moreover, industry-wide component shortages require our R&D teams to focus their attention on manufacturing and production design workarounds solutions which can impact our ability to meet our plans to roll out new innovative products and services. Additionally, a customer of SolarEdge e-Mobility that has experienced disruptions in its own manufacturing process due to global component shortages has delayed the delivery date of powertrain units that were expected to be supplied by SolarEdge e-Mobility in the third quarter of 2021. We expect that the aforementioned e-Mobility project to return to normal operations during 2022.
+
+Despite the operational hurdles detailed above, our fourth quarter 2021 revenues of $551.9 million, reflect an increase from revenues of $526.4 million in the third quarter of 2021.
+
+41
+
+Key Components of Our Results of Operations
+
+The following discussion describes certain line items in our Consolidated Statements of Operations.
+
+Revenues
+
+We generate revenues from the sale of DC optimized inverter systems for solar PV installations which include power optimizers, inverters, storage and backup solutions, EV chargers, smart energy devices, our cloud-based monitoring platform as well as grid services. Our customer base mainly includes distributors, large solar installers, wholesalers, EPCs, and PV module manufacturers. In addition, we also generate revenues from the sale of lithium-ion cells, batteries and energy storage solutions, UPS systems, automation machines and EV powertrain solutions for electric vehicles.
+
+Our revenues from the sale of solar-related products are affected by changes in the volume and average selling prices of our DC optimized inverter systems. The volume and average selling price of our systems is driven by the supply and demand for our products, changes in the product mix between our residential and commercial products, the customer mix between large and small customers, the geographical mix of our sales, sales incentives, end user government incentives, seasonality, and competitive product offerings. Revenues from the sale of energy storage system or ESS products are affected by the type of product sold (cell, battery or system) and the type of the battery that is sold. Revenues from the sale of UPS products, SolarEdge Automation Machines and SolarEdge e-Mobility products are affected by the changes in the volumes, customers’ size and average selling prices of the products we sell.
+
+Our revenue growth is dependent on our ability to expand our market share in each of the geographies in which we compete, expand our global footprint to new evolving markets, grow our production capabilities to meet demand, continue to develop and introduce new and innovative products that address the changing technology and performance requirements of our customers and expansion of the new businesses we acquired.
+
+In the year ended December 31, 2021, 45.4% of our revenues were generated from Europe, 40.0% of our revenues were generated from the United States and 14.6% of our revenues were generated from ROW. In the year ended December 31, 2020, 42.9% of our revenues were generated from Europe, 42.0% of our revenues were from the United States and 15.1% of our revenues were generated from ROW.
+
+Cost of Revenues and Gross Profit
+
+Cost of revenues consists primarily of product costs, including purchases from our contract manufacturers and other suppliers, as well as costs related to shipping, customer support, product warranty, personnel, depreciation of testing and manufacturing equipment, hosting services for our cloud based monitoring platform, and other logistics services. Our product costs are affected by technological innovations, such as advances in semiconductor integration and new product introductions, economies of scale resulting in lower component costs, and improvements in production processes and automation. Some of these costs, primarily personnel and depreciation of testing and manufacturing equipment, are not directly affected by sales volume.
+
+With respect to ESS, Automation Machines and e-Mobility products cost of revenues consists primarily of materials costs, labor costs associated with the manufacturing, variable utility, and operational costs related to the manufacturing factories, depreciation of testing and manufacturing equipment and other fixed costs.
+
+Except for the manufacturing and assembly activities related to our acquired businesses and the manufacturing of solar products at Sella 1, we outsource our manufacturing to third-party manufacturers and negotiate product pricing on a quarterly basis.
+
+42
+
+During 2021, supply chain and operational challenges coupled with an increase in demand for our products, resulted in increased use of expedited ocean freight as well as air freight to deliver our products to our customers in a timely manner. At the beginning of 2021, a high portion of our products manufactured in non-tariff countries imported into the U.S. resulted in lower custom tariff charges; however, disruptions to our Vietnam manufacturing facilities due to Covid-19 restrictions, required us to increase manufacturing from our other manufacturing facilities that are subject to custom tariffs in the later part of the year, which consequentially caused us to temporarily incur an increase in our tariff charges. As a result of the operational challenges we faced during 2021, the levels of our finished goods inventories required to support our growth were reduced. Therefore, we expect to continue to deliver our products through expedited ocean freight and air freight. In absence of additional Covid-19 related shutdowns we expect inventory levels to return to those required to support our growing business and the reduction in expedited shipments and air freight usage during the third quarter of 2022.
+
+We continue to develop our own manufacturing capabilities. For example, we have developed our own proprietary automated assembly lines for our power optimizers, manufacture sub-assemblies such as cables and magnetic, and own large amounts of equipment in connection with such manufacturing activities. We expect to continue to invest in additional automated assembly lines in the future. We have designed and are responsible for funding all of the capital expenses associated with existing and planned automated assembly lines. The current and expected capital expenses associated with these automated assembly lines will be funded out of our cash flows generation.
+
+Key components of our logistics supply channel consist of third party distribution centers in the U.S., Europe, Australia, and Japan. Finished goods are either shipped to our customers directly from our contract manufacturers or shipped to third-party distribution centers and then, finally, shipped to our customers.
+
+In the third quarter of 2020 we began commercial shipments to the United States of optimizers and inverters from Sella 1, which reached full manufacturing capacity in the second quarter of 2021.
+
+Cost of revenues also includes our operations, production and support departments’ costs. The operations and production departments are responsible for production management such as planning, procurement, supply chain, production methodologies and machinery planning, logistics management and manufacturing support to our contract manufacturers, as well as the quality assurance of our products. Our support department provides customer and technical support at various levels through our call centers around the world as well as second and third-level support services which are provided by support personnel located in our headquarters. Our employees headcount in our operations, production and support departments has grown from 1,549 as of December 31, 2020 to 2,052 as of December 31, 2021.
+
+Gross profit may vary from quarter to quarter and is primarily affected by our average selling prices, product costs, product mix, customer mix, geographical mix, shipping method, warranty costs, and seasonality.
+
+Operating Expenses
+
+Operating expenses consist of research and development, sales and marketing, general and administrative and other expenses. Personnel related costs are the most significant component of each of these expense categories and include salaries, benefits, payroll taxes, commissions and stock-based compensation. Our employees headcount in our research and development, sales and marketing, and general and administrative departments has grown from 1,625 as of December 31, 2020 to 1,912 as of December 31, 2021. We expect to continue to hire significant numbers of new employees to support our growth. The timing of these additional hires could materially affect our operating expenses in any particular period, both in absolute dollars and as a percentage of revenue. We expect to continue to invest substantial resources to support our growth and anticipate that each of the following categories of operating expenses will increase in absolute dollar amounts for the foreseeable future.
+
+43
+
+Research and development expenses
+
+Research and development expenses include personnel-related expenses such as salaries, benefits, stock-based compensation, and payroll taxes. Our research and development employees are engaged in the design and development of power electronics, semiconductors, software, power line communications, networking and chemistry. Our research and development expenses also include third-party design and consulting costs, materials for testing and evaluation, ASIC development and licensing costs, depreciation expense, and other indirect costs. We devote substantial resources to ongoing research and development programs that focus on enhancements to, and cost efficiencies in, our existing products and timely development of new products that utilize technological innovation, thereby maintaining our competitive position.
+
+Sales and marketing expenses
+
+Sales and marketing expenses consist primarily of personnel-related expenses such as salaries, sales commissions, benefits, payroll taxes, and stock-based compensation. These expenses also include travel, fees of independent consultants, trade shows, marketing, costs associated with the operation of our sales offices, and other indirect costs. The expected increase in sales and marketing expenses is due to an expected increase in the number of sales and marketing personnel and the expansion of our global sales and marketing footprint, enabling us to increase our penetration into new markets. These expenses will be determined to the extent that marketing activities resume, contingent upon the recovery of certain activities which have been halted due to Covid-19 such as travel, trade shows and in person customer trainings. We currently have a sales presence in many countries worldwide and intend to continue to expand our sales presence to additional regions.
+
+General and administrative expenses
+
+General and administrative expenses consist primarily of salaries, employee benefits, and stock-based compensation related to our executives, finance, human resources, information technology, and legal organizations, travel expenses, facilities costs, fees for professional services, and registration fees related to being a publicly-traded company. Professional services consist of audit and legal costs, remuneration to board members, insurance, information technology, and other costs. General and administrative expenses also include expenses related to legal claims and allowance for doubtful accounts in the event of uncollectible account receivables balances.
+
+Other operating expenses (income), net
+
+Other operating expenses (income), net, consist primarily of losses related to write-offs of tangible and intangible assets and income related to payments made to us from the Kokam acquisition escrow account with regards to a working capital adjustment and a legal claim acquired as part of the Kokam acquisition which was settled in arbitration in 2019.
+
+Non Operating Expenses
+
+Financial income (expense), net
+
+Financial income (expense), net, consists primarily of interest income, interest expense, gains or losses from foreign  currency fluctuations and hedging transactions.
+
+Interest income consists of interest from our investment in available for sale marketable securities, deposits and accretion of discounts related to our investment in available for sale marketable securities.
+
+Interest expense consists of interest related to bank loans, advance payments received for performance obligations that extend for a period greater than one year, related to Accounting Standard Codification 606, “Revenue from Contracts with Customers” (ASC 606), interest related to Accounting Standard Codification 842, “Leases” (ASC 842), amortization of premium related to our investment in available for sale marketable securities and the accretion of the debt discount and amortization of debt issuance cost associated with our Notes due 2025.
+
+44
+
+Our functional currency is the U.S. dollar. With respect to certain of our subsidiaries, the functional currency is the applicable local currency. Financial (expenses) income, net, also consists of gains or losses from foreign currency fluctuations primarily of the effect of foreign exchange differences between the U.S. dollar and the New Israeli Shekel, the Euro, the South Korean Won and other currencies related to our monetary assets and liabilities, the fair value remeasurement of hedging contracts not designated as cash flow hedge and bank charges.
+
+Income taxes
+
+We are subject to income taxes in the countries where we operate.
+
+In the year ended December 31, 2020, we recorded a net income tax expense of $23.3 million, which consists of a $26.8 million current income tax expense and a $3.5 million deferred tax income. In the year ended December 31, 2021, we recorded a net income tax expense of $18.1 million, which consists of a $29.7 million current income tax expense and $11.6 million of deferred tax income. The decrease in net income tax expense was mainly attributed to a tax benefit related to the laps of a statute of limitation of uncertain tax positions and an increase in deferred tax income related to unrealized losses of foreign currency transactions. This decrease was partially offset by an increase in tax expense related to operations of our foreign subsidiaries.
+
+On December 22, 2017, the Tax Cuts and Jobs Act (the "]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2021, 2020 and 2019 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2021 2020 2019 Domestic $ 1,736 $ 1,090 $ 438 Foreign 3,969 3,086 2,767 Income before income taxes $ 5,705 $ 4,176 $ 3,205 The provision for (benefit from) income taxes for fiscal 2021, 2020 and 2019 consisted of the following: ----------------------------------------- ----- --- ---- ------- ---- ------- ---- - --- (in millions) 2021 2020 2019 Current: United States federal $ 391 $ 119 $ 7 Foreign 197 222 211 State and local 103 79 31 Total current 691 420 249 Deferred: United States federal (148) (123) 23 Foreign 359 (1,313) (12) State and local (19) (68) (6) Total deferred 192 (1,504) 5 Provision for (benefit from) income taxes $ 883 $ (1,084) $ 254 Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. 80  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the expected tax expense, computed by multiplying the U.S. federal statutory rate of...
+
+[" and the increase in costs associated with the production of powertrain units manufactured by our SolarEdge e-Mobility division; and
+
+ • an increase in other production costs of $9.9 million, which is mainly attributed to charges from our contract manufacturers due to manufacturing disruptions related to Covid-19 lockdowns, increased logistics costs resulting from transportation disruptions and the mobilization of components among our different manufacturing sites.
+
+These increases were partially offset by:
+
+ • a decrease in custom duties of $25.5 million attributed to lower tariff charges due to the manufacture of a higher portion of our products for the U.S. outside of China;
+
+Gross profit as a percentage of revenue increased from 31.6% in 2020 to 32.0% in 2021 as a result of the above detailed analysis.
+
+Operating Expenses:
+
+Research and Development
+
+ Year ended December 31, 2020 to 2021
+------------------------ ----------------------- ------- ------------ ------- ------ ------ ---- -
+ 2021 2020 Change
+ (In thousands)
+Research and development 219,633 163,123 56,510 34.6 %
+
+Research and development costs increased by $56.5 million or 34.6%, in 2021 compared to 2020, primarily due to:
+
+ • an increase in personnel-related costs of $48.5 million resulting from an increase in our research and development headcount as well as salary expenses associated with employee equity-based compensation. The increase in headcount reflects our continuing investment in enhancements of existing products as well as research and development expenses associated with bringing new products to the market;
+
+ • an increase in expenses related to overhead costs in an amount of $3.1 million;
+
+ • an increase in depreciation expenses of property and equipment in an amount of $3.0 million; and
+
+ • an increase in expenses related to material consumption in the manufacturing of prototypes during our development process in an amount of $2.9 million.
+
+48
+
+These increases were partially offset by:
+
+ • an increase in reimbursement of costs, in an amount of $1.7 million, related to the research and development activities performed by SolarEdge e-Mobility; and
+
+ • a decrease in expenses related to consultants and sub-contractors in an amount of $1.0 million.
+
+Sales and Marketing
+
+ Year ended December 31, 2020 to 2021
+------------------- ----------------------- ------- ------------ ------ ------ ------ ---- -
+ 2021 2020 Change
+ (In thousands)
+Sales and marketing 119,000 95,985 23,015 24.0 %
+
+  Sales and marketing expenses increased by $23.0 million, or 24.0%, in 2021 compared to 2020, primarily due to:
+
+ • an increase in personnel-related costs of $18.4 million as a result of an increase in headcount supporting our growth in all geographies, as well as salary expenses associated with employee equity-based compensation;
+
+ • an increase in expenses related to marketing activities by $2.1 million due to the renewal of marketing activities, exhibitions and shows, which were cancelled or postponed in 2020 due to Covid-19 restrictions; and
+
+ • an increase in expenses related to consultants and sub-contractors in an amount of $1.1 million.
+
+General and Administrative
+
+ Year ended December 31, 2020 to 2021
+-------------------------- ----------------------- ------ ------------ ------ ------ ------ ---- -
+ 2021 2020 Change
+ (In thousands)
+General and administrative 82,196 63,119 19,077 30.2 %
+
+General and administrative expenses increased by $19.1 million, or 30.2%, in 2021 compared to 2020, primarily due to:
+
+ • an increase in personnel-related costs of $16.6 million resulting from an increase in our general and administrative headcount, the reinstatement of executive management salaries that management voluntarily reduced in early 2020 to mitigate the potential effects of Covid-19, as well as salary expenses associated with employee equity-based compensation; and
+
+ • an increase of $2.6 million related to insurance and legal expenses.
+
+Other operating expenses (income), net
+
+ Year ended December 31, 2020 to 2021
+-------------------------------------- ----------------------- ----- ------------ ------ ------ ----- ------ --
+ 2021 2020 Change
+ (In thousands)
+Other operating expenses (income), net 1,350 (3,429 ) 4,779 (139.4 )%
+
+49
+
+Other operating expenses were $1.4 million in 2021, compared to other operating income of $3.4 million in 2020, primarily due to:
+
+ • a decrease in income in the amount of $4.9 million related to an acquired legal claim as part of the Kokam acquisition which was settled in arbitration in 2019 and subsequently repaid to the Company in 2020; and
+
+ • an increase of $2.1 million in expenses related to write-offs of tangible assets in our solar business, which we ceased using during the second quarter of 2021.
+
+These were partially offset by:
+
+ • an increase of $0.8 million in income related to a payment made to us from an escrow account with regards to a working capital adjustment in connection with the Kokam acquisition; and
+
+ • a decrease of $1.5 million in expenses related to write-offs of intangible assets of SolarEdge e-Mobility, which we ceased to use during 2020.
+
+Financial income (expenses), net
+
+ Year ended December 31, 2020 to 2021
+------------------------------- ----------------------- ------- - ------------ ------ ------ ------- - ------ --
+ 2021 2020 Change
+ (In thousands)
+Financial income (expense), net (19,915 ) 21,105 (41,020 ) (194.4 )%
+
+Financial expenses were $19.9 million in 2021 compared to financial income of $21.1 million in 2020, primarily due to an increase of $55.6 million in financial expenses resulted from foreign exchange fluctuations, mainly between each of Euro, the New Israeli Shekel and the South Korean Won against the U.S. dollar.
+
+These expenses were partially offset by an increase of $13.4 million in financial income related to hedging transactions.
+
+Income taxes
+
+ Year ended December 31, 2020 to 2021
+------------ ----------------------- ------ ------------ ------ ------ ------ - ----- --
+ 2021 2020 Change
+ (In thousands)
+Income taxes 18,054 23,344 (5,290 ) (22.7 )%
+
+Income taxes decreased by $5.3 million, or 22.7%, in 2021 as compared to 2020, primarily due to:
+
+ • an increase of $8.2 million in deferred tax income; and
+
+ • an increase of $6.1 million in prior years taxes income.
+
+This was partially offset by an increase of $9.0 million of current tax expenses mainly attributed to an increase in taxable income in foreign subsidiaries.
+
+50
+
+Net Income
+
+ Year ended December 31, 2020 to 2021
+---------- ----------------------- ------- ------------ ------- ------ ------ ---- -
+ 2021 2020 Change
+ (In thousands)
+Net income 169,170 140,322 28,848 20.6 %
+
+As a result of the factors discussed above, net income increased by $28.8 million, or 20.6% in 2021 as compared to 2020.
+
+Liquidity and Capital Resources
+
+The following table shows our cash flows from operating activities, investing activities, and financing activities for the stated periods:
+
+ Year ended December 31,
+----------------------------------------------------------------- ----------------------- -------- - ---- -------- -
+ 2021 2020
+ (In thousands)
+Net cash provided by operating activities 214,129 222,655
+Net cash used in investing activities (484,211 ) (236,637 )
+Net cash provided by (used in) financing activities (15,178 ) 640,484
+Increase (decrease) in cash, cash equivalents and restricted cash (285,260 ) 626,502
+
+As of December 31, 2021, our cash and cash equivalents were $530.1 million. This amount does not include $650.0 million invested in available for sale marketable securities, $0.3 million invested in short-term restricted bank deposits and  $1.5 million invested in long-term restricted bank deposits. Our principal uses of cash are for funding our operations, capital expenditures, other working capital requirements and other investments. As of December 31, 2021, we have open commitments for capital expenditures in an amount of approximately $168.5 million. These commitments reflect purchases of automated assembly lines and other machinery related to our manufacturing operations. We also have purchase obligations in the amount of $1,428.8 million related to raw materials and commitments for the future manufacturing of our products.
+
+We believe that cash provided by operating activities as well as our cash and cash equivalents, and available for sale marketable securities will be sufficient to meet our anticipated cash needs for at least the next 12 months as well as in the longer term, including the self-funding of our capital expenditure and operational commitments.
+
+51
+
+Operating Activities
+
+Cash provided by operating activities consists of net income adjusted for certain non-cash items and changes in assets and liabilities. Cash provided by operating activities decreased by $8.5 million in 2021 as compared to 2020, mainly due to unfavorable changes in working capital in 2021 compared to the prior year, partially offset by higher net income.
+
+Investing Activities
+
+Investing cash flows consist primarily of capital expenditures, investment in, sales and maturities of available for sale marketable securities, investment and withdrawal of bank deposits and restricted bank deposits, and cash used for acquisitions. Cash used for investing activities increased by $247.6 million in 2021 as compared to 2020, primarily driven by a $355.7 million increase in purchases of available-for-sale debt investments, net, an increase of $22.5 million in capital expenditures and an increase of $19.6 million cash used for asset acquisitions and investments in a privately held company. This increase was partially offset by a $90.4 million decrease in cash used for investment in bank deposits and restricted bank deposits, net.
+
+Financing Activities
+
+Financing cash flows consist primarily of, issuance and repayment of short-term and long-term debt and proceeds from the sale of shares of common stock through employee equity incentive plans. Cash used for financing activities in 2021 was $15.2 million compared to $640.5 million cash provided by financing activities in 2020, primarily due to a $617.9 million decrease in cash provided by issuance of the Notes, net, a decrease of $19.3 million in cash received from the exercise of stock-based awards net of withholding taxes remitted to the tax authorities and an increase of $17.4 million in bank loans repayments, net.
+
+Convertible Senior Note
+
+On September 25, 2020, we issued $632.5 million aggregate principal amount of our Convertible Senior Notes or Notes in a transaction exempt from registration pursuant to Rule 144A and Regulation S under the Securities Act. Net proceeds from the offering, after underwriters’ discount and commissions and offering expenses, was $617.9 million. We intend to use the proceeds of the Notes for general corporate purposes. See Note 15 to our annual financial statements for more information.
+
+Critical Accounting Policies and Significant Management Estimates
+
+We prepare our consolidated financial statements in accordance with generally accepted accounting principles in the U.S. (“GAAP”). The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses, and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from the estimates made by our management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows will be affected. We believe that the accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates. Critical accounting policies and estimates are those that we consider the most important to the portrayal of our financial condition and results of operations because they require our most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effects of matters that are inherently uncertain. See Note 2 to our annual financial statements for more information.
+
+52
+
+Revenue Recognition
+
+We generate revenues from the sale of DC optimized inverter systems for solar PV installations which include our power optimizers, inverters, and cloud-based monitoring platform as well as other solar related products, UPS systems, Lithium-ion cells, batteries, energy storage solutions, EV powertrain solutions and machinery. Our worldwide customer base includes large solar installers, distributors, EPCs, PV module manufacturers, utility companies and other customers. Our products are fully functional at the time of shipment to the customer and do not require production, modification, or customization with the exception of some UPS and ESS systems that require installation and commissioning. We recognize revenue under the core principle that transfer of control to the customers should be depicted in an amount reflecting the consideration we expect to receive in revenue. In order to achieve that core principle, we apply the following five-step approach: (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price to the performance obligations in the contract, and (5) recognize revenue when a performance obligation is satisfied. Provisions for rebates, sales incentives, and discounts to customers are accounted for as reductions in revenue in the same period that the related sales are recorded.
+
+We generally sell our products to our customers pursuant to a customer’s standard purchase order and our customary terms and conditions. We do not offer rights to return our products other than for normal warranty conditions, and as such, revenue is recorded upon shipment of products to customers and transfer of title and risk of loss under standard commercial terms. We evaluate the creditworthiness of our customers to determine that appropriate credit limits are established prior to the acceptance and shipment of an order.
+
+ We provide our full web-based monitoring platform for our solar products free of charge and revenues associated with the service since that date are being recognized ratably over 25 years. In the absence of third party comparable pricing for such service, management determines the revenue levels of this service based on the costs associated with providing the service plus appropriate margins that reflect management’s best estimate of the selling price. These revenues are minimal and we do not expect this to become a significant source of revenue in the near future.
+
+The most significant impact of the standard on our financial statements relates to advance payments received for performance obligations that extend for a period greater than one year. Applying the standard, such performance obligations are those that include a financing component, specifically: (i) warranty extension services, (ii) cloud-based monitoring, and (iii) communication services.
+
+We recognize financing component expenses in our consolidated statement of income in relation to advance payments for performance obligations that extend for a period greater than one year. These financing component expenses are reflected in our deferred revenues balance.
+
+See Note 2s "]:
+Note 9 -- Derivative Instruments During the year ended December 31, 2021, the Company entered into two foreign currency swap agreements. The objective of both agreements is to manage the risk of changes in cash flows resulting from foreign currency gains/losses realized upon remeasurement of U.S. dollar denominated SCL senior notes by swapping a specified amount of Hong Kong dollars for U.S. dollars at the contractual spot rate. The terms in one of the contracts did not effectively match the terms of the related SCL senior notes; thus, it was not designated as hedging (the "Non-Hedging Swap"). The remaining contract was designated as a hedge of the cash flows related to a portion of the SCL senior notes (the "Hedging Swap," and together with the Non-Hedging Swap, the "FX Swaps"). The Non-Hedging Swap and the Hedging Swap have a total notional value of $500 million and $1.0 billion, respectively, and expire in August 2023 and August 2025, respectively. The total fair value of the FX Swaps is recorded as an asset in other assets, net. The fair value of the FX Swaps was estimated using Level 2 inputs from recently reported market transactions of foreign currency exchange rates. For the Hedging Swap, the changes in fair value of the derivative were recognized as other comprehensive income in the accompanying consolidated balance sheets. Additionally, the foreign currency gains/losses incurred from the remeasurement of the portion of the SCL senior notes being hedged were also recognized in other comprehensive income. For the Non-Hedging Swap the changes in fair value of the derivative were recorded in other income in the accompanying consolidated statements of operations. In August 2018, the Company entered into interest rate swap agreements (the "IR Swaps"), which qualified and were designated as fair value hedges, swapping fixed-rate for variable-rate interest to hedge changes in the fair value of the 2023, 2025 and 2028 SCL Senior Notes. These IR Swaps had a total not...
+
+[" and Note 13 "]:
+Note 13 - Liabilities, Commitments and Contingencies 92
+
+[" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to revenue recognition.
+
+Product Warranty
+
+We provide a standard limited product warranty for our solar products against defects in materials and workmanship under normal use and service conditions. Our standard warranty period is 25 years for our power optimizers, 12 years for our inverters, 10 years for our storage interface and a 10-year limited warranty for our residential energy hub battery. Other products are sold with standard limited warranties that typically range in duration from one to ten years, and in some cases for a longer period. In certain cases, customers can purchase an extended warranty for Critical Power products and our battery storage products that exceed the standard warranty period. In addition, customers can purchase extended warranties for inverters that increase the warranty period to up to 25 years.
+
+53
+
+Our products are designed to meet the warranty periods and our reliability procedures cover component selection, design, accelerated life cycle tests, and end-of-manufacturing line testing. However, since our history in selling power optimizers and inverters is substantially shorter than the warranty period, the calculation of warranty provisions is inherently uncertain.
+
+We accrue for estimated warranty costs at the time of sale based on anticipated warranty claims and actual historical warranty claims experience. Warranty provisions, computed on a per-unit sold basis, are based on our best estimate of such costs and are included in our cost of revenues. The warranty obligation is determined based on actual and predicted failure rates of the products, cost of replacement and service and delivery costs incurred to correct a product failure. Our warranty obligation requires management to make assumptions regarding estimated failure rates and replacement costs.
+
+In order to predict the failure rate of each of our products, we have established a reliability model based on the estimated mean time between failures (“MTBF”). The MTBF represents the average elapsed time predicted for each product unit between failures during operation. Applying the MTBF failure rate over our install base for each product type and generation allows us to predict the number of failed units over the warranty period and estimates the costs associated with the product warranty. Predicted failure rates are updated periodically based on data returned from the field and new product versions, as are replacement costs which are updated to reflect changes in our actual production costs for our products, subcontractors’ labor costs, and actual logistics costs.
+
+Since the MTBF model does not take into account additional non-systematic failures such as failures caused by workmanship or manufacturing or design-related issues, and since warranty claims are at times opened for cases in which the error has been triggered by an improper installation, we have developed a supplemental model to predict such cases and recognize the associated expenses ratably over the expected claim period. This model, which is based on actual root cause analysis of returned products, identification of the causes of claims and time until each identified problem is revealed, allows us to better predict actual warranty expenses and is updated periodically based on our experience, taking into account the installed base of approximately $83.8 million power optimizers and approximately $3.5 million inverters as of December 31, 2021.
+
+If actual warranty costs differ significantly from these estimates, adjustments may be required in the future, which could adversely affect our gross profit and results of operations. Warranty obligations are classified as short-term and long-term warranty obligations based on the period in which the warranty is expected to be claimed. The warranty provision (short and long-term) was $205.0 million and $265.2 million, in the year ended December 31, 2020 and 2021, respectively.
+
+See Note 2u "]:
+Note 8. Acquisitions Fitbit In January 2021, we closed the acquisition of Fitbit, a leading wearables brand for $2.1 billion. The addition of Fitbit to Google Services is expected to help spur innovation in wearable devices. The assets acquired and liabilities assumed were recorded at fair value. The purchase price excludes post acquisition compensation arrangements. The purchase price was attributed to $440 million cash acquired, $590 million of intangible assets, $1.2 billion of goodwill and $92 million of net liabilities assumed. Goodwill was recorded in the Google Services segment and primarily attributable to synergies expected to arise after the acquisition. Goodwill is not expected to be deductible for tax purposes. Other Acquisitions During the year ended December 31, 2021, we completed other acquisitions and purchases of intangible assets for total consideration of approximately $885 million, net of cash acquired, of which the total amount of goodwill expected to be deductible for tax purposes is approximately $118 million. Pro forma results of operations for these acquisitions have not been presented because they are not material to our consolidated results of operations, either individually or in the aggregate. 74 ----------------- -------------  Alphabet Inc.
+
+[" and Note 12 "]:
+Note 12 - Leases 90
+
+[" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to product warranty.
+
+Inventory Valuation
+
+Our inventories comprise sellable finished goods, raw materials bought for own manufacturing or on behalf of our contract manufacturers, and faulty units returned under our warranty policy.
+
+Sellable finished goods and raw material inventories are valued at the lower of cost or market, based on the moving average cost method. Certain factors could affect the realizable value of our inventories, including market and economic conditions, technological changes, existing product changes (mainly due to cost reduction activities), and new product introductions. We consider historic usage, expected demand, anticipated sales price, the effect of new product introductions, product obsolescence, product merchantability, and other factors when evaluating the value of inventories. Inventory write-downs are equal to the difference between the cost of inventories and their estimated fair market value. Inventory write-downs are recorded as cost of revenues in the accompanying statements of income and were $8.9 million and $7.1 million, in the year ended December 31, 2020 and 2021, respectively.
+
+54
+
+Faulty products returned under our warranty policy are often refurbished and used as replacement units. Such products are written off upon receipt.
+
+We do not believe that there is a reasonable likelihood that there will be a material change in future estimates or assumptions that we use to record inventory at the lower of cost or market. However, if estimates regarding customer demand are inaccurate or changes in technology affect demand for certain products in an unforeseen manner, we may be exposed to losses that could be material.
+
+See Note 2j "]:
+Note 8. Acquisitions Fitbit In January 2021, we closed the acquisition of Fitbit, a leading wearables brand for $2.1 billion. The addition of Fitbit to Google Services is expected to help spur innovation in wearable devices. The assets acquired and liabilities assumed were recorded at fair value. The purchase price excludes post acquisition compensation arrangements. The purchase price was attributed to $440 million cash acquired, $590 million of intangible assets, $1.2 billion of goodwill and $92 million of net liabilities assumed. Goodwill was recorded in the Google Services segment and primarily attributable to synergies expected to arise after the acquisition. Goodwill is not expected to be deductible for tax purposes. Other Acquisitions During the year ended December 31, 2021, we completed other acquisitions and purchases of intangible assets for total consideration of approximately $885 million, net of cash acquired, of which the total amount of goodwill expected to be deductible for tax purposes is approximately $118 million. Pro forma results of operations for these acquisitions have not been presented because they are not material to our consolidated results of operations, either individually or in the aggregate. 74 ----------------- -------------  Alphabet Inc.
+
+[" and Note 4 "]:
+(4)As discussed in note 4 to the consolidated financial statements, in May 2021, we completed the acquisition of General Finance Corporation ("General Finance"), which was a leading provider of mobile storage equipment and modular office space. Prior to the General Finance acquisition, we did not rent material amounts of such equipment. (5)As discussed below (see "Industry Overview and Economic Outlook"), North American equipment rental industry revenue is based on industry estimates from the American Rental Association ("ARA"). Subsequent to our prior disclosure of 2020 industry information, the ARA decreased its estimate of the size of the North American equipment rental industry. As a result of this change, relative to our prior disclosures, our market share for 2020 increased and the size of the 2020 decline in North American equipment rental industry revenue decreased. COVID-19 COVID-19 was first identified in people in late 2019. COVID-19 spread rapidly throughout the world and, in March 2020, the World Health Organization characterized COVID-19 as a pandemic. The COVID-19 pandemic has significantly disrupted supply chains and businesses around the world. Uncertainty remains regarding the ongoing impact of existing and emerging variant strains of COVID-19 on the operations and financial position of United Rentals, and on the global economy. Uncertainty also remains regarding the length of time it will take for the COVID-19 pandemic to ultimately subside, which will be impacted by the effectiveness of vaccines against COVID-19 (including against emerging variant strains), and by measures that may in the future be implemented to protect public health. See "Industry Overview and Economic Outlook" below for a discussion of market performance in 2021 and 2020. The health and safety of our employees and customers remains our top priority, and we also implemented a detailed COVID-19 response plan, which is explained in more detail in "Management's Discussion and Anal...
+
+[" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to inventory valuation.
+
+Business Combination
+
+We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed and intangible assets acquired based on their estimated fair value. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill. Such valuations require our management to make significant estimates and assumptions, especially with respect to intangible assets. Significant estimates in valuing certain intangible assets include, but are not limited to, future expected cash flows from acquired technology and other intangible assets, their useful lives and discount rates. Our management’s estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. During the measurement period, which is not to exceed one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings.
+
+See Note 2m "]:
+Note 8. Acquisitions Fitbit In January 2021, we closed the acquisition of Fitbit, a leading wearables brand for $2.1 billion. The addition of Fitbit to Google Services is expected to help spur innovation in wearable devices. The assets acquired and liabilities assumed were recorded at fair value. The purchase price excludes post acquisition compensation arrangements. The purchase price was attributed to $440 million cash acquired, $590 million of intangible assets, $1.2 billion of goodwill and $92 million of net liabilities assumed. Goodwill was recorded in the Google Services segment and primarily attributable to synergies expected to arise after the acquisition. Goodwill is not expected to be deductible for tax purposes. Other Acquisitions During the year ended December 31, 2021, we completed other acquisitions and purchases of intangible assets for total consideration of approximately $885 million, net of cash acquired, of which the total amount of goodwill expected to be deductible for tax purposes is approximately $118 million. Pro forma results of operations for these acquisitions have not been presented because they are not material to our consolidated results of operations, either individually or in the aggregate. 74 ----------------- -------------  Alphabet Inc.
+
+[" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to business combination.
+
+Intangible and other long-lived assets
+
+We evaluate the recoverability of finite-lived intangible assets for possible impairment whenever events or circumstances indicate that the carrying amount of such assets may not be recoverable. The evaluation is performed at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities. Recoverability of these assets is measured by a comparison of the carrying amounts to the future undiscounted cash flows the assets are expected to generate. If such review indicates that the carrying amount of intangible assets is not recoverable, the carrying amount of such assets is reduced to fair value. We have not recorded any impairment charges during the year ended December 31, 2021.
+
+Acquired identifiable finite-lived intangible assets are amortized on a straight-line basis or accelerated method over the estimated useful lives of the assets. We believe the basis of amortization approximates the pattern in which the assets are utilized, over their estimated useful lives. We routinely review the remaining estimated useful lives of finite-lived intangible assets. In case we reduce the estimated useful life assumption for any asset, the remaining unamortized balance is amortized or depreciated over the revised estimated useful life.
+
+See Note 2n "]:
+Note 8. Acquisitions Fitbit In January 2021, we closed the acquisition of Fitbit, a leading wearables brand for $2.1 billion. The addition of Fitbit to Google Services is expected to help spur innovation in wearable devices. The assets acquired and liabilities assumed were recorded at fair value. The purchase price excludes post acquisition compensation arrangements. The purchase price was attributed to $440 million cash acquired, $590 million of intangible assets, $1.2 billion of goodwill and $92 million of net liabilities assumed. Goodwill was recorded in the Google Services segment and primarily attributable to synergies expected to arise after the acquisition. Goodwill is not expected to be deductible for tax purposes. Other Acquisitions During the year ended December 31, 2021, we completed other acquisitions and purchases of intangible assets for total consideration of approximately $885 million, net of cash acquired, of which the total amount of goodwill expected to be deductible for tax purposes is approximately $118 million. Pro forma results of operations for these acquisitions have not been presented because they are not material to our consolidated results of operations, either individually or in the aggregate. 74 ----------------- -------------  Alphabet Inc.
+
+[" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to intangible assets.
+
+55
+
+Goodwill
+
+Goodwill reflects the excess of the consideration transferred, including the fair value of any contingent consideration and any non-controlling interest in the acquiree, over the assigned fair values of the identifiable net assets acquired. Goodwill is not amortized, and is assigned to reporting units and tested for impairment at least on an annual basis.
+
+The goodwill impairment test is performed according to the following principles:
+
+ (1) An initial qualitative assessment may be performed to determine whether it is more likely than not that the fair value of the reporting unit is less than its carrying amount.
+
+ (2) If the Company concludes it is more likely than not that the fair value of the reporting unit is less than its carrying mount, a quantitative fair value test is performed. An impairment charge for the amount by which the carrying amount exceeds the reporting unit’s fair value is recognized.
+
+We complete the required annual testing of goodwill for impairment for the reporting unit on October 1 of each year and accordingly, determines whether goodwill should be impaired. During the year ended December 31, 2021, no impairment of goodwill has been identified.
+
+See Note 2o "]:
+Note 8. Acquisitions Fitbit In January 2021, we closed the acquisition of Fitbit, a leading wearables brand for $2.1 billion. The addition of Fitbit to Google Services is expected to help spur innovation in wearable devices. The assets acquired and liabilities assumed were recorded at fair value. The purchase price excludes post acquisition compensation arrangements. The purchase price was attributed to $440 million cash acquired, $590 million of intangible assets, $1.2 billion of goodwill and $92 million of net liabilities assumed. Goodwill was recorded in the Google Services segment and primarily attributable to synergies expected to arise after the acquisition. Goodwill is not expected to be deductible for tax purposes. Other Acquisitions During the year ended December 31, 2021, we completed other acquisitions and purchases of intangible assets for total consideration of approximately $885 million, net of cash acquired, of which the total amount of goodwill expected to be deductible for tax purposes is approximately $118 million. Pro forma results of operations for these acquisitions have not been presented because they are not material to our consolidated results of operations, either individually or in the aggregate. 74 ----------------- -------------  Alphabet Inc.
+
+[" of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information related to goodwill.
+
+Income taxes
+
+We account for income taxes in accordance with ASC 740, “Income Taxes.” ASC 740, which prescribes the use of the liability method, whereby deferred tax asset and liability account balances are determined based on differences between financial reporting and tax basis of assets and liabilities, and are measured using the enacted tax rates that will be in effect when the differences are expected to reverse.
+
+We account for uncertain tax positions in accordance with ASC 740-10 two-step approach to recognizing and measuring uncertain tax positions. The first step is to evaluate the tax position taken or expected to be taken in a tax return by determining if the weight of available evidence indicates that it is more likely than not that, on an evaluation of the technical merits, the tax position will be sustained on audit, including resolution of any related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount that is more than 50% (cumulative probability) likely to be realized upon ultimate settlement.
+
+See Note 2ac "]:
+Note 8. Acquisitions Fitbit In January 2021, we closed the acquisition of Fitbit, a leading wearables brand for $2.1 billion. The addition of Fitbit to Google Services is expected to help spur innovation in wearable devices. The assets acquired and liabilities assumed were recorded at fair value. The purchase price excludes post acquisition compensation arrangements. The purchase price was attributed to $440 million cash acquired, $590 million of intangible assets, $1.2 billion of goodwill and $92 million of net liabilities assumed. Goodwill was recorded in the Google Services segment and primarily attributable to synergies expected to arise after the acquisition. Goodwill is not expected to be deductible for tax purposes. Other Acquisitions During the year ended December 31, 2021, we completed other acquisitions and purchases of intangible assets for total consideration of approximately $885 million, net of cash acquired, of which the total amount of goodwill expected to be deductible for tax purposes is approximately $118 million. Pro forma results of operations for these acquisitions have not been presented because they are not material to our consolidated results of operations, either individually or in the aggregate. 74 ----------------- -------------  Alphabet Inc.
+
+[refer to Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17

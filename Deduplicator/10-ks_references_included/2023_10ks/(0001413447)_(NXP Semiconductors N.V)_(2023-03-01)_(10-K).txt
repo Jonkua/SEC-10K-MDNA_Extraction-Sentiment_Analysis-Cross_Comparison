@@ -1,0 +1,648 @@
+================================================================================
+CIK: 0001413447
+Company Name: NXP Semiconductors N.V
+Filing Date: 2023-03-01
+Form Type: 10-K
+Extraction Date: 2025-09-03 13:57:43
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Management’s discussion and analysis of financial condition and results of operations (MD&A) should be read in conjunction with the financial statements and the related notes that appear elsewhere in this document. This section of this Form 10-K generally discusses 2022 and 2021 items and year-to-year comparisons between 2022 and 2021. Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 that are not included in this Form 10-K can be found in "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2021 as filed with the SEC on February 24, 2022.
+
+Our MD&A is provided in addition to the accompanying consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition and cash flows. MD&A is organized as follows:
+•Overview - Overall analysis of financial and other highlights to provide context for the MD&A
+•Results of Operations - An analysis of our financial results
+•Financial Condition, Liquidity and Capital Resources - An analysis of changes in our balance sheets and cash flows and a discussion of our financial condition and potential sources of liquidity
+•Critical Accounting Estimates - Accounting estimates that management believes are the most important to understanding the assumptions and judgments incorporated in our financial results and forecasts
+•Use of Certain Non-GAAP Financial Measures - A discussion of the non-GAAP measures used
+
+32
+
+NXP has one reportable segment representing the entity as a whole. Our segment represents groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. See Note 1 to the consolidated financial statements for more information regarding our segment.
+
+Overview
+
+----------------------------------------------------- ------------------ ----------------- ------- ------------------- ----------------- ----------------- ------- ------------------- ------- --------
+($ in millions, unless otherwise stated) Three Months Ended Years Ended
+ December 31, 2022 December 31, 2021 Increase/(decrease) December 31, 2022 December 31, 2021 Increase/(decrease)
+Revenue 3,312 3,039 273 13,205 11,063 2,142
+Gross profit 1,891 1,707 184 7,517 6,067 1,450
+Operating income (loss) 980 807 173 3,797 2,583 1,214
+Cash flow from operating activities 1,076 785 291 3,895 3,077 818
+Total debt 11,165 10,572 593 11,165 10,572 593
+Net debt 7,320 7,742 (422) 7,320 7,742 (422)
+Diluted weighted average number of shares outstanding 261,448 268,545 (7,097) 264,053 275,646 (11,593)
+Diluted net income per share 2.76 2.24 0.52 10.55 6.79 3.76
+Dividends per common share 0.8450 0.5625 0.283 3.38 2.25 1.13
+
+Revenue for 2022 was $13,205 million as compared to the $11,063 million reported in 2021, an increase of $2,142 million or an increase of 19.4% year-on-year. The increase is attributed to inflationary effects of increased input costs from suppliers which were passed along to end customers in the form of higher average selling prices and strong customer demand.
+Our gross profit percentage for 2022 increased to 56.9% from 54.8%, primarily due to the significant higher revenue during 2022, which led to improved utilization and efficiencies, partly offset by higher personnel-related costs and higher supplier costs.
+Revenue for the fourth quarter, which ended December 31, 2022, was $3,312 million as compared to $3,039 million for the fourth quarter ended December 31, 2021, an increase of $273 million or an increase of 9.0%. The growth compared with the previous year period results from higher average selling prices across all of our end markets and strong demand within NXP’s Automotive end market, while the Industrial IoT, Communication Infrastructure & Other and the Mobile end markets experienced slower demand signals versus the year ago period. When aggregating all end markets together, and reviewing sales channel performance, business transacted through direct OEM and EMS customers was $1,397 million, an increase of 8.1% versus the year ago period. NXP's third party distribution partners was $1,876 million, an increase of 9.8%. From a geographic perspective, revenue increased across all regions.
+The gross profit percentage for the fourth quarter of 2022 increased to 57.1% from 56.2%, primarily due to the higher revenue in the fourth quarter of 2022 which led to improved utilization and efficiencies, partly offset by higher personnel-related costs and higher supplier costs.
+We continue to generate strong operating cash flows, with $3,895 million in cash flows from operations for 2022. We returned $2,244 million to our shareholders during the year in dividends and repurchases of common stock. Our cash position at the end of 2022 was $3,845 million.
+
+Results of Operations
+The following table presents the composition of operating income for the years ended December 31, 2022 and December 31, 2021.
+
+33
+
+----------------------------------------------------- ------- ---- -------
+($ in millions, unless otherwise stated) 2022 2021
+Revenue 13,205 11,063
+% nominal growth 19.4 28.5
+Gross profit 7,517 6,067
+Research and development (2,148) (1,936)
+Selling, general and administrative (SG&A) (1,066) (956)
+Amortization of acquisition-related intangible assets (509) (592)
+Other income 3 0
+Operating income 3,797 2,583
+
+Revenue
+Revenue for the year-ended December 31, 2022 was $13,205 million compared to $11,063 million for the year-ended December 31, 2021, an increase of $2,142 million or 19.4% year-on-year, with growth in all of the Company’s end markets.
+
+Revenue by end market was as follows:
+
+---------------------------------------- ------ ---- ------ ------------------- ----- ---- -
+($ in millions, unless otherwise stated) 2022 2021 Increase/(decrease) %
+Automotive 6,879 5,493 1,386 25.2 %
+Industrial & IoT 2,713 2,410 303 12.6 %
+Mobile 1,607 1,412 195 13.8 %
+Communication Infrastructure & Other 2,006 1,748 258 14.8 %
+Revenue 13,205 11,063 2,142 19.4 %
+
+Revenue by sales channel was as follows:
+
+---------------------------------------- ------ ---- ------ ------------------- ----- ---- -
+($ in millions, unless otherwise stated) 2022 2021 Increase/(decrease) %
+Distributors 7,261 6,325 936 14.8 %
+OEM/EMS 5,775 4,587 1,188 25.9 %
+Other 169 151 18 11.9 %
+Revenue 13,205 11,063 2,142 19.4 %
+
+34
+
+Revenue by geographic region, which is based on the customer’s shipped-to location, was as follows:
+
+---------------------------------------------- ------ ---- ------ ------------------- ----- ---- -
+($ in millions, unless otherwise stated) 2022 2021 Increase/(decrease) %
+China 1) 4,700 4,180 520 12.4 %
+APAC, excluding China 4,165 3,471 694 20.0 %
+EMEA (Europe, the Middle East and Africa) 2,582 2,036 546 26.8 %
+Americas 1,758 1,376 382 27.8 %
+Revenue 13,205 11,063 2,142 19.4 %
+
+1) China includes Mainland China and Hong Kong
+
+- ---------------- - ------------------ - ------------ - -----
+n Automotive n Mobile n Distributors n Other
+n Industrial & IoT n Comm Infra & Other n OEM/EMS
+
+The year-on-year increase in revenue is driven by a combination of higher average selling prices across all of our end markets and ongoing customer demand. Of the 19.4% year-on-year revenue increase, approximately 14% is attributable to higher average selling prices and 5% is attributable to product mix and increased sales volume.
+From an end market perspective, within the automotive end market the year-on-year growth was attributable to advanced analog, automotive processing and radar in support of the secular shift of electrification, advanced driver safety and assistance, and driver connectivity systems. The growth within the Industrial & IoT market reflects the increase in revenue in the company’s ARM-based processing solutions, industrial analog products, and IoT connectivity solutions. Growth within the Mobile end market was due to ongoing adoption of our secure embedded transaction solutions along with the company’s growth in our advanced analog high-speed interfaces. The growth within the Communication Infrastructure & Other end market was attributable to the network edge equipment, RFID tagging solutions, the transit and access solutions, and cellular base stations. Offsetting these positive growth trends were declines in demand for company’s smart antennae products used in the Android mobile handset market, as well as declines in demand for the company’s embedded power products, and wireless access point solutions.
+When aggregating all end markets together, and reviewing sales channel performance, business transacted through direct OEM and EMS customers was $5,775 million, an increase of 25.9% versus the year ago period. NXP's third party distribution partners was $7,261 million, an increase of 14.8%.
+From a geographic perspective, revenue increased across all regions.
+Revenue in the Automotive end market was $6,879 million, an increase of $1,386 million or 25.2% versus the year ago period. Within Automotive, customers are focused on the key functional pillars of safety, electrification and improved driver comfort to accelerate competitive differentiation. These broad functional areas are fundamentally enabled by the secular adoption of new and increased levels of semiconductor content, which is layered on top of a strong base of existing electronic content in modern automobiles. The increase in Automotive revenue can be attributed to growth in advanced analog, automotive processing and radar in support
+
+35
+
+of the secular shift of electrification, advanced driver safety and assistance, and driver connectivity systems. From a channel perspective, the Company experienced growth from direct OEM and EMS customers and NXP's distribution partners across all geographic regions.
+Revenue in the Industrial & IoT end market was $2,713 million, an increase of $303 million or 12.6% versus the year ago period. The Industrial & IoT market is driven by the secular trend of multi-market OEMs seeking to enable secure, connected, high performance processing solutions at the edge of the network, whether it is in factory automation, smart building/smart home or the exploding plethora of connected IoT devices. The innovation in this market is being driven by thousands of relatively smaller customers, which NXP effectively services through its extended global distribution channel. The increase in revenue was due to growth in the company’s ARM-based processing solutions, industrial analog products, and IoT connectivity solutions. The Industrial IoT end market experienced slower demand since second half of 2022 versus the year ago period as a result of lower demand for consumer centric IoT products. From a channel perspective, the Company experienced growth from its distribution channel partners in the Asia Pacific, Europe, Americas and China regions.
+ Revenue in the Mobile end market was $1,607 million, an increase of $195 million or 13.8% versus the year ago period. The increase in revenue was due to strong adoption of secure mobile wallet solutions, and demand for our advanced analog high-speed interfaces, partly offset by declines in embedded power solutions. Within the Mobile end market, we experienced softening demand from Android-based mobile customers, offset by strength experienced from other premium mobile customers. Our mobile customers are primarily serviced through our global distribution channels. From a channel perspective, NXP’s distribution partners in China and Asia Pacific facilitated the year-on-year growth, servicing the concentrated mobile manufacturing centers in Asia.
+Revenue in the Communication Infrastructure & Other end market was $2,006 million, an increase of $258 million or 14.8% versus the year ago period. The Communication Infrastructure & Other end market is an amalgamation of three separate product portfolios, which service multiple end markets, including cellular base stations, the network edge equipment, and the secure access, transit and government sponsored identification market. The increase in revenue was due to a combination of strength from network edge equipment, RF Power products levered to the secular build-out of 5G base stations, and the ongoing demand for RFID tagging solutions and transit and access solutions. Offsetting these positive growth trends were declines in demand for the company’s smart antennae products used in the Android mobile handset market, as well as declines in demand for wireless access point solutions. From a channel perspective, NXP’s distribution partners in China, Asia Pacific, the Americas, and Europe regions were responsible for the year-on-year growth. Additionally, OEM and EMS revenues increased in the China and Europe geographic regions.
+
+Gross Profit
+Gross profit for the year-ended December 31, 2022 was $7,517 million, or 56.9% of revenue, compared to $6,067 million, or 54.8% of revenue, for the year-ended December 31, 2021. The increase of $1,450 million was primarily driven by higher selling prices as well as improved factory loading as a result of increased manufacturing volumes to meet increased demand, which were mostly offset by higher input costs and a less favorable product mix. As a result, the gross margin percentage increased to 56.9% from 54.8%.
+
+36
+
+Operating Expenses
+Operating expenses for the year-ended December 31, 2022 totaled $3,723 million, or 28.2% of revenue, compared to $3,484 million, or 31.5% of revenue, for the year-ended December 31, 2021.
+
+The following table below presents the composition of operating expenses by line item in the statement of operations.
+
+----------------------------------------------------- ----- ----------- ---- ---- ----------- -------- ---- - ------ -
+($ in millions, unless otherwise stated) 2022 % ofrevenue 2021 % ofrevenue % change
+Research and development 2,148 16.3 % 1,936 17.5 % 11.0 %
+Selling, general and administrative 1,066 8.1 % 956 8.6 % 11.5 %
+Amortization of acquisition-related intangible assets 509 3.9 % 592 5.4 % (14.0) %
+Operating expenses 3,723 28.2 % 3,484 31.5 % 6.9 %
+
+- --- - ---- - --------------------------------
+n R&D n SG&A n Amortization acquisition-related
+
+The increase in operating expenses was a result of the following items:
+
+Research and development (R&D) costs primarily consist of engineer salaries and wages (including share based compensation and other variable compensation), engineering related costs (including outside services, fixed-asset, IP and other licenses related costs), shared service center costs and other pre-production related expenses.
+
+37
+
+•R&D costs for the year-ended December 31, 2022 increased by $212 million, or 11.0%, when compared to last year driven by:
++ higher personnel-related costs;
++ higher professional services;
++ higher share-based compensation expenses; and
+- lower variable compensation costs.
+
+Selling, general and administrative (SG&A) costs primarily consist of personnel salaries and wages (including share based compensation and other variable compensation), communication and IT related costs, fixed-asset related costs and sales and marketing costs (including travel expenses).
+
+•SG&A costs for the year-ended December 31, 2022 increased by $110 million, or 11.5%, when compared to last year mainly due to:
++ higher professional services;
++ higher legal expense;
++ higher travel expenses; and
+- lower variable compensation costs.
+
+•Amortization of acquisition-related intangible assets decreased by $83 million, or 14.0%, when compared to last year driven by:
+- certain intangibles became fully amortized during 2021; and
+- an impairment charge in 2021 as a result of the discontinuation of an IPR&D project.
+
+Other Income (Expense)
+Other income (expense) includes results from manufacturing service arrangements (“MSA”) and transitional service arrangements (“TSA”) that are put into place when we divest a business or activity, as well as other activity. These arrangements are expected to decrease as the divested business or activity becomes more established. Other income (expense) reflects an income of $3 million for 2022, compared to nil in 2021.
+
+Financial Income (Expense)
+
+------------------------------------------------------- -------------------------------- ---- -----
+($ in millions) For the years ended December 31,
+ 2022 2021
+Interest income 61 4
+Interest expense (427) (369)
+Total interest expense, net (366) (365)
+Foreign exchange rate results (17) 5
+Extinguishment of debt (18) (22)
+Miscellaneous financing income (expense) and other, net (33) (21)
+Total other financial income (expense) (68) (38)
+Total (434) (403)
+
+Financial income (expense) was an expense of $434 million in 2022, compared to an expense of $403 million in 2021. The change in financial income (expense) is primarily attributable to an increase in interest expense of $58 million as a result of (re-)financing activities, foreign exchange results, which resulted in a loss of $17 million in 2022 versus a profit of $5 million in 2021 and a change in miscellaneous financial income/expense of $12 million, mainly driven by $5 million interest expense on corporate income tax in 2022, vs. nil in 2021. This was partially offset by higher interest income of $57 million as a result of higher interest rates, and lower debt extinguishment costs in 2022 versus 2021 of $4 million.
+
+38
+
+Benefit (Provision) for Income Taxes
+We recorded an income tax expense of $529 million for the year-ended December 31, 2022, which reflects an effective tax rate of 15.7% compared to a expense of $272 million (12.5%) for the year-ended December 31, 2021.
+
+-------------------------------------------------------------------------------- ----- ---- ----- - ----- -----
+ 2022 2021
+ $ % $ %
+Statutory income tax in the Netherlands 868 25.8 545 25.0
+
+Rate differential local statutory rates versus statutory rate of the Netherlands (80) (2.4) (42) (1.9)
+Net change in valuation allowance — — (20) (0.9)
+Non-deductible expenses/losses 56 1.7 53 2.5
+Netherlands tax incentives (113) (3.4) (69) (3.2)
+Foreign tax incentives (266) (7.9) (163) (7.5)
+Changes in estimates of prior years’ income taxes (2) (0.1) (21) (1.0)
+Sale of non-deductible goodwill — — — —
+Withholding taxes 8 0.3 (8) (0.4)
+Other differences 58 1.7 (3) (0.1)
+Effective tax rate 529 15.7 272 12.5
+
+The effective tax rate reflects the impact of tax incentives, a portion of our earnings being taxed in foreign jurisdictions at rates different than the Netherlands statutory tax rate, changes in estimates of prior years' income taxes, change in valuation allowance and non-deductible expenses, sale of non-deductible goodwill and withholding taxes. The impact of these items results in offsetting factors that attribute to the change in the effective tax rate between the two periods, with the significant drivers outlined below:
+
+•The Company benefits from certain tax incentives, which reduce the effective tax rate. The dollar amount of the incentive in any given year is commensurate with the taxable income in that same period. For 2022, the foreign tax and Netherlands tax incentives were higher than 2021 by $147 million, mainly due to the fact that NXP benefited from higher qualifying income and also taking into account the effect of specific U.S. tax law that became effective as from 2022.
+•The movement in the valuation allowance was mostly due to new Dutch corporate income tax law applicable as from 2019. A portion of the interest expenses is non-deductible in the year it is recorded but can be carried forward without expiration. The release of the valuation allowance in 2021 is due to higher qualifying income compared to 2020 and 2019.
+•The movement in the withholding taxes in 2022 as compared to 2021 is mainly due to considering more undistributed earnings as indefinitely reinvested in 2021, resulting in a 2021 tax benefit of $17 million.
+•The other differences tax expense in 2022 is mainly relating to lower excess tax benefits, unfavorable FX-effects and higher taxes due on Global Intangible Low-Taxed Income (GILTI) inclusions in U.S. compared to the same period in 2021. GILTI is recognized as a current period expense when incurred.
+
+Results Relating to Equity-accounted Investees
+Results relating to equity-accounted investees amounted to a loss of $1 million in 2022, whereas in 2021, results relating to equity-accounted investees amounted to a loss of $2 million.
+
+Non-controlling Interests
+Non-controlling interests are related to the third-party share in the results of consolidated companies, predominantly SSMC. Their share of non-controlling interests amounted to a profit of $46 million for the year-ended December 31, 2022, compared to a profit of $35 million for the year-ended December 31, 2021.
+
+39
+
+Financial Condition, Liquidity and Capital Resources
+We derive our liquidity and capital resources primarily from our cash flows from operations. We continue to generate strong positive operating cash flows, and we currently use cash to fund operations, meet working capital requirements, for capital expenditures and for potential common stock repurchases, dividends and strategic investments. Based on past performance and current expectations, we believe that our current available sources of funds (including cash and cash equivalents, RCF Agreement, plus anticipated cash generated from operations) will be adequate to finance our operations, working capital requirements, capital expenditures and potential dividends for at least the next year.
+
+Cash
+As of December 31, 2022, our cash balance was $3,845 million, an increase of $1,015 million compared to December 31, 2021 ($2,830 million), of which $227 million (2021, $208 million) was held by SSMC, our consolidated joint venture company with TSMC. Under the terms of our joint venture agreement with TSMC, a portion of this cash can be distributed by way of a dividend to us, but 38.8% of the dividend will be paid to our joint venture partner. During 2022 and 2021, no dividend was declared. Taking into account the available undrawn amount of the RCF Agreement of $2,500 million, we had access to $6,345 million of liquidity as of December 31, 2022.
+
+Capital return
+The common stock repurchase activity was as follows:
+
+---------------------------------------- --------- ------- ----------
+($ in millions, unless otherwise stated) 2022 2021
+Shares repurchased 8,330,021 20,628,901
+Cost of shares repurchased 1,429 4,015
+Average price per share $171.59 $194.63
+
+Under Dutch corporate law and our articles of association, NXP may acquire its own shares if the general meeting of shareholders has granted the board of directors the authority to effect such acquisitions. It is our standard practice to request our annual general meeting of shareholders (the “AGM”) every year to renew this authorization for a period of 18 months from the AGM. For repurchases of shares in 2021 and 2022, the board of directors made use of the authorizations renewed by the AGM on June 17, 2019, May 27, 2020, May 26, 2021 and June 1, 2022, respectively. Our board of directors has approved the purchase of shares from participants in NXP's equity programs to satisfy participants' tax withholding obligations ("trade for tax") and this authorization will remain in effect until terminated by the board of directors. In November 2019, the board of directors approved the repurchase of shares up to a maximum of $2 billion (the "2019 Share Repurchase Program"). In March 2021, the board of directors approved the additional repurchase of shares up to a maximum of $2 billion (the "2021 Share Repurchase Program"), and in August 2021, the board of directors increased the 2021 Share Repurchase Program authorization by $2 billion, for a total of $4 billion approved for the repurchase of shares under the 2021 Share Repurchase Program. In January 2022, the board of directors approved the additional repurchase of shares up to a maximum of $2 billion (the "2022 Share Repurchase Program"). During the fiscal year-ended December 31, 2021, NXP repurchased 20.6 million shares for a total of approximately $4 billion under the trade for tax and 2019 and 2021 Share Repurchase Programs, and during the fiscal year-ended December 31, 2022, NXP repurchased 8.3 million shares, for a total of approximately $1.4 billion under the trade for tax and 2021 Share Repurchase Program. Under Dutch tax law, the repurchase of a company’s shares by an entity domiciled in the Netherlands results in a taxable event (unless exemptions apply). The tax on the repurchased shares is attributed to the shareholders, with NXP making the payment on the shareholders’ behalf. As such, the tax on the repurchased shares is accounted for within stockholders’ equity.
+
+Subject to Dutch corporate law and our articles of association, the board of directors of NXP may cancel shares acquired if authorized by the general meeting of shareholders. As with repurchases of our shares, it is our standard practice to request our annual general meeting of shareholders (the “AGM”) every year to renew this authorization for a period of 18 months from the AGM. For cancellations of shares in 2020 and 2021, the board of directors made use of the authorizations renewed on May 27, 2020 and May 26, 2021, respectively.
+
+40
+
+As approved by the board of directors, on December 15, 2020, NXP cancelled 26 million shares and on November 30, 2021, NXP cancelled 15 million shares. As a result, the number of issued NXP shares as per November 30, 2021 is 274,519,638.
+
+Under our Quarterly Dividend Program, interim dividends of $0.5625 per ordinary share were paid on April 5, July 6, October 6, 2021; and January 6, 2022, and dividends of $0.845 per ordinary share were paid on April 6, July 6, October 6, 2022; and January 6, 2023.
+
+-------------------------------- ---- ---- ----
+ 2022 2021
+Dividends declared (per share) 3.38 2.25
+Dividends declared (in millions) 885 606
+
+Debt
+Our total debt, inclusive of aggregate principal, unamortized discounts, premiums, debt issuance costs and fair value adjustments, amounted to $11,165 million as of December 31, 2022, an increase of $593 million compared to December 31, 2021 ($10,572 million). On May 16, 2022, NXP issued $500 million of 4.4% Senior Unsecured Notes due 2027 and $1 billion of 5% Senior Unsecured Notes due 2033. On May 27, 2022, $900 million of 4.625% Senior Notes due 2023 were redeemed in full.
+As of December 31, 2022, the Company had outstanding fixed-rate notes with varying maturities for an aggregate principal amount of $11,250 million (collectively the “Notes”), with $0 payable within 12 months. Future interest payments associated with the Notes total $3,585 million, with $435 million payable within 12 months.
+
+41
+
+Additional capital requirements
+We believe our current cash and cash equivalents position, our expected cash flow generated from operations and our expected financing activities will satisfy our working and other capital requirements for at least the next 12 months based on our current business plans. Recent and expected working and other capital requirements, in addition to the above matters, also include the items described below:
+
+•The Company maintains purchase commitments with certain suppliers, primarily for raw materials, semi-finished goods and manufacturing services and for some non-production items. Purchase commitments for inventory materials are generally restricted to a forecasted time-horizon as mutually agreed upon between the parties. This forecasted time-horizon can vary for different suppliers. As of December 31, 2022, the Company had purchase commitments of $3,672 million, of which $1,187 million is expected to be paid in the next 12 months. We expect operating cash outflows to remain elevated as we make payments under these purchase agreements.
+•Amounts related to future lease payments for operating lease obligations at December 31, 2022 totaled $295 million, with $63 million expected to be paid within the next 12 months.
+•The Company enters into certain technology license arrangements which are used in conjunction with research and development activities for product development. Payments for these technology licenses are made over varying time periods. Outstanding unpaid balances for technology licenses total $260 million as of December 31, 2022, of which $121 million is expected to be paid in the next 12 months.
+•Cash outflows for capital expenditures were $1,063 million in 2022, compared to $767 million in 2021. We expect to maintain similar levels of capital expenditures as a percentage of revenue in 2023, to support current and future manufacturing and production capacity needs.
+•Our research and development expenditures were $2,148 million in 2022 and $1,936 million in 2021, and we expect to maintain similar levels of investment in research and development as a percentage of revenue in 2023.
+
+From time to time, we engage in discussions with third parties regarding potential acquisitions of, or investments in, businesses, technologies and product lines. Any such transaction could require significant use of our cash and cash equivalents, or require us to arrange for new debt and equity financing to fund the transaction. Our ability to make scheduled payments or to refinance our debt obligations depends on our financial and operating performance, which is subject to prevailing economic and competitive conditions. In the future, we may not be able to maintain a level of cash flows from operating activities sufficient to permit us to pay principal, premium, if any, and interest on our indebtedness. Our business may not generate sufficient cash flow from operations, or we may not have enough capacity under the RCF Agreement, or from other sources in an amount sufficient to enable us to repay our indebtedness, including the RCF Agreement, the unsecured notes or to fund our other liquidity needs, including working capital and capital expenditure requirements. In any such case, we may be forced to reduce or delay capital expenditures, sell assets or operations, seek additional capital or restructure or refinance our indebtedness. See Part I, Item 1A. Risk Factors.
+
+2022 Financing Activities
+
+Revolving Credit Facility
+On August 26, 2022, NXP B.V., together with NXP Funding LLC, amended and restated its revolving credit agreement entered into on June 11, 2019. The amended and restated revolving credit agreement provides for $2.5 billion of senior unsecured revolving credit commitments and is scheduled to mature on August 26, 2027.
+
+Exchange Offers
+On April 14, 2022, we initiated a registered exchange offering of our outstanding Senior Unsecured Notes for new issues of substantially identical registered debt securities (the “Exchange Offers”). The Exchange Offers
+
+42
+
+expired on May 16, 2022, at which time substantially all of the Notes were exchanged for registered senior unsecured notes.
+
+Debt Issuance and redemption
+On May 16, 2022, NXP B.V., together with NXP Funding LLC and NXP USA, Inc., issued $500 million of 4.4% senior unsecured notes due June 1, 2027 and $1 billion of 5.0% senior unsecured notes due January 15, 2033. On May 27, 2022 we redeemed the $900 million aggregate principal amount of outstanding dollar-denominated 4.625% Senior Unsecured Notes due 2023 in accordance with the terms of the indenture.
+
+2021 Financing Activities
+
+2032, 2042 and 2051 Senior Unsecured Notes
+On November 30, 2021, NXP B.V., together with NXP USA Inc. and NXP Funding LLC, issued $1 billion of 2.65% Senior Unsecured Notes due 2032, $500 million of 3.125% Senior Unsecured Notes due 2042 and $500 million of 3.25% Senior Unsecured Notes due 2051. The Company used a portion of the net proceeds of the offering of these notes to redeem the $1 billion aggregate principal amount of outstanding 3.875% Senior Notes due 2022. The remaining net proceeds will be used for general corporate purposes, which may include capital expenditures or equity buyback transactions.
+
+2031 and 2041 Senior Unsecured Notes
+On May 11, 2021, NXP B.V., together with NXP USA Inc. and NXP Funding LLC, issued $1 billion of 2.5% Senior Unsecured Notes due 2031 and $1 billion of 3.25% Senior Unsecured Notes due 2041. The net proceeds of the 2.5% Senior Notes due 2031 ("2031 Notes") are being used to finance certain eligible green projects. Pending the allocation of an amount equal to the net proceeds of the 2031 Notes to finance these eligible green projects, the remaining net proceeds of the 2031 Notes, together with the net proceeds of the 3.25% Senior Notes due 2041, are temporarily being held as cash and other short-term securities or are being used for general corporate purposes, including capital expenditures, short-term debt repayment or equity buyback transactions.
+
+Debt Position
+
+Short-term Debt
+As of December 31, 2022 and 2021, we had no short-term debt outstanding.
+
+Long-term Debt
+As of December 31, 2022 and 2021, we had outstanding debt of:
+
+43
+
+-------------------------------------------------------------------------- ----------------- ----------------------------------------------------------------- - -------------------------------------- ----------------- ------
+($ in millions) December 31, 2021 Accrual/releaseOriginalIssuance/DebtDiscount andDebtIssuance Cost DebtExchanges/Repurchase/NewBorrowings December 31, 2022
+U.S. dollar-denominated 4.625% senior unsecured notes due June 2023 (1) 898 2 (900) —
+U.S. dollar-denominated 4.875% senior unsecured notes due March 2024 (2) 997 1 — 998
+U.S. dollar-denominated 2.7% senior unsecured notes due May 2025 (3) 498 — — 498
+U.S. dollar-denominated 5.35% senior unsecured notes due March 2026 (2) 498 — — 498
+U.S. dollar-denominated 3.875% senior unsecured notes due June 2026 (4) 747 1 — 748
+U.S. dollar-denominated 3.15% senior unsecured notes due May 2027 (3) 497 1 — 498
+U.S. dollar-denominated 4.4% senior unsecured notes due June 2027 (7) — — 496 496
+U.S. dollar-denominated 5.55% senior unsecured notes due December 2028 (2) 497 — — 497
+U.S. dollar-denominated 4.3% senior unsecured notes due June 2029 (4) 993 — — 993
+U.S. dollar-denominated 3.4% senior unsecured notes due May 2030 (3) 993 1 — 994
+U.S. dollar-denominated 2.5% senior unsecured notes due May 2031 (5) 992 1 — 993
+U.S. dollar-denominated 2.65% senior unsecured notes due Feb 2032 (6) 992 — — 992
+U.S. dollar-denominated 5% senior unsecured notes due Jan 2033 (7) — 1 988 989
+U.S. dollar-denominated 3.25% senior unsecured notes due May 2041 (5) 987 1 — 988
+U.S. dollar-denominated 3.125% senior unsecured notes due Feb 2042 (6) 492 — — 492
+U.S. dollar-denominated 3.25% senior unsecured notes due Nov 2051 (6) 491 — — 491
+ 10,572 9 584 11,165
+RCF Agreement (8) — — — —
+Total long-term debt 10,572 9 584 11,165
+
+(1)    On May 23, 2016, we issued $900 million aggregate principal amount of 4.625% Senior Unsecured Notes due 2023. On May 27, 2022, the Notes were redeemed in full.
+(2)    On December 6, 2018, we issued $1,000 million aggregate principal amount of 4.875% Senior Unsecured Notes due 2024, $500 million aggregate principal amount of 5.35% Senior Unsecured Notes due 2026 and $500 million aggregate principal amount of 5.55% Senior Unsecured Notes due 2028.
+(3)    On May 1, 2020, we issued $500 million aggregate principal amount of 2.7% Senior Unsecured Notes due 2025, $500 million aggregate principal amount of 3.15% Senior Unsecured Notes due 2027 and $1 billion aggregate principal amount of 3.4% Senior Unsecured Notes due 2030.
+(4)    On June 18, 2019, we issued $750 million of 3.875% Senior Unsecured Notes due 2026 and $1 billion of 4.3% Senior Unsecured Notes due 2029.
+(5) On May 11, 2021, we issued $1,000 million aggregate principal amount of 2.5% Senior Unsecured Notes due 2031 and $1,000 million aggregated principal amount of 3.25% Senior Unsecured Notes due 2041.
+
+44
+
+(6) On November 30, 2021, we issued $1,000 million aggregate principal amount of 2.65% Senior Unsecured Notes due 2032, $500 million aggregate principal amount of 3.125% Senior Unsecured Notes due 2042 and $500 million aggregated principal amount of 3.25% Senior Unsecured Notes due 2051.
+(7)    On May 16, 2022, we issued $500 million aggregate principal amount of 4.4% Senior Unsecured Notes due 2027 and $1,000 million aggregate principal amount of 5% Senior Unsecured Notes due 2033.
+(8)    On August 26, 2022, we entered into a $2.5 billion unsecured revolving credit facility agreement.
+
+We may from time to time continue to seek to retire or purchase our outstanding debt through cash purchases and/or exchanges, in open market purchases, privately negotiated transactions or otherwise. See the discussion in Part II, Item 7. Financial Condition, Liquidity and Capital Resources above.
+
+Cash flows
+
+Our cash and cash equivalents in 2022 increased by $1,027 million (excluding the effect of changes in exchange rates on our cash position of $(12) million) as follows:
+
+---------------------------------------------------- ----------------------- ---- -------
+($ in millions) Year ended December 31,
+ 2022 2021
+Net cash provided by (used for) operating activities 3,895 3,077
+Net cash (used for) provided by investing activities (1,249) (934)
+Net cash provided by (used for) financing activities (1,619) (1,585)
+Increase (decrease) in cash and cash equivalents 1,027 558
+
+•Cash Flow from Operating Activities
+For the year-ended December 31, 2022 our operating activities provided $3,895 million in cash. This was primarily the result of net income of $2,833 million, adjustments to reconcile the net income of $1,410 million and changes in operating assets and liabilities of $(372) million. Adjustments to net income include offsetting non-cash items, such as depreciation and amortization of $1,250 million, share-based compensation of $364 million, amortization of the discount on debt and debt issuance costs of $9 million, a loss on extinguishment of debt of $18 million, a loss on equity securities of $4 million, results relating to equity-accounted investees of $1 million and changes in deferred taxes of $(236) million.
+
+The change in operating assets and liabilities was attributable to the following:
+
+The $106 million increase in receivables and other current assets was driven by the accumulation of insignificant increases in numerous asset accounts within the "other" classification, with the most significant increase relating to $30 million in other receivables. In addition there was an increase of $37 million in trade accounts receivable, net, which was driven by higher average selling prices and timing of cash collections at the end of the year.
+
+The $593 million increase in inventories was primarily related to increased production levels in order to align inventory on hand with expected demand.
+
+The $633 million increase in accounts payable and other liabilities was primarily related to the following increases: $365 million in trade accounts payable as a result of purchases to meet the increase in growth in our business and timing related to payments; $211 million in income tax payables primarily driven by tax law changes in the U.S. that went into effect at the beginning of 2022; $47 million in interest payable due to new bond issuances; $48 million of other net movements including the non-cash adjustment for capital expenditures and licensing intangibles. Partially offsetting these cash flow increases was $38 million related to employee bonus accruals.
+
+45
+
+The $306 million increase in other non-current assets was primarily related to prepayments to secure long-term production supply with multiple vendors.
+
+For the year-ended December 31, 2021 our operating activities provided $3,077 million in cash. This was primarily the result of net income of $1,906 million, adjustments to reconcile the net income of $1,628 million and changes in operating assets and liabilities of $(437) million. Adjustments to net income include offsetting non-cash items, such as depreciation and amortization of $1,262 million, share-based compensation of $353 million, amortization of the discount on debt and debt issuance costs of $8 million, a gain on sale of assets of $1 million, a loss on extinguishment of debt of $22 million, a loss on equity securities of $2 million, results relating to equity-accounted investees of $2 million and changes in deferred taxes of $(20) million.
+
+•Cash Flow from Investing Activities
+Net cash used for investing activities amounted to $1,249 million for the year-ended December 31, 2022 and principally consisted of the cash outflows for capital expenditures of $1,063 million, $159 million for the purchase of identified intangible assets, $5 million for the purchase of equipment leased to others, $27 million for purchases of interests in businesses (net of cash acquired) and $20 million for the purchase of investments, partly offset by $10 million from proceeds from return of equity investments and $13 million from proceeds from sale of investments.
+
+Net cash used for investing activities amounted to $934 million for the year-ended December 31, 2021 and principally consisted of the cash outflows for capital expenditures of $767 million, $132 million for the purchase of identified intangible assets, $33 million for the purchase of equipment leased to others, $23 million purchases of interests in businesses (net of cash acquired), and $8 million purchase of investments, partly offset by proceeds of $10 million from insurance recoveries received for equipment damage, $10 million from proceeds from return of equity investments and $8 million from proceeds from sale of investments.
+
+•Cash Flow from Financing Activities
+Net cash used for financing activities was $1,619 million for the year-ended December 31, 2022 compared to $1,585 million for the year-ended December 31, 2021. The cash flows related to financing transactions in 2022 and 2021 are primarily related to the financing activities described above under the captions 2022 Financing Activities and 2021 Financing Activities.
+
+In addition to the financing activities described above, net cash used for financing activities by year included:
+
+-------------------------------------------- ----------------------- ---- -------
+($ in millions) Year ended December 31,
+ 2022 2021
+
+Dividends paid to common stockholders (815) (562)
+Cash proceeds from exercise of stock options 59 62
+Purchase of treasury shares (1,426) (4,015)
+
+Other, net (2) (2)
+
+Information Regarding Guarantors of NXP (unaudited)
+
+Summarized Combined Financial Information for Guarantee of Securities of Subsidiaries
+The following debt instruments are guaranteed, fully and unconditionally, jointly and severally, by NXP Semiconductors N.V. and issued or guaranteed by NXP USA, Inc., NXP B.V. and NXP LLC, (together, the “Subsidiary Obligors” and together with NXP Semiconductors N.V., the “Obligor Group”): 4.875% Senior Notes due 2024, 2.700% Senior Notes due 2025, 5.350% Senior Notes due 2026, 3.875% Senior Notes due 2026, 3.150% Senior Notes due 2027, 4.400% Senior Notes due 2027, 5.550% Senior Notes due 2028, 4.300% Senior Notes due 2029, 3.400% Senior Notes due 2030, 2.500% Senior Notes due 2031, 2.650% Senior Notes due 2032, 5.000% Senior Notes due 2033, 3.250% Senior Notes due 2041, 3.125% Senior Notes due 2042 and the 3.250% Senior Notes due 2051 (together the “ Notes”). Other than the Subsidiary Obligors, none of the
+
+46
+
+Company’s subsidiaries (together the “Non-Guarantor Subsidiaries”) guarantee the Notes. The Company consolidates the Subsidiary Obligors in its consolidated financial statements and each of the Subsidiary Obligors are wholly owned subsidiaries of the Company.
+
+All of the existing guarantees by the Company rank equally in right of payment with all of the existing and future senior indebtedness of the Obligor Group. There are no significant restrictions on the ability of the Obligor Group to obtain funds from respective subsidiaries by dividend or loan.
+
+The following tables present summarized financial information of the Obligor Group on a combined basis, with intercompany balances and transactions between entities of the Obligor Group eliminated and investments and equity in the earnings of the Non-Guarantor Subsidiaries excluded. The Obligor Group’s amounts due from, amounts due to, and intercompany transactions with Non-Guarantor Subsidiaries have been disclosed below the table, when material.
+
+Summarized Statements of Income
+
+---------------- -----------------
+($ in millions) December 31, 2022
+
+Revenue 7,674
+Gross Profit 3,883
+Operating income 1,406
+Net income 542
+
+Summarized Balance Sheets
+
+-------------------------------------------- -----------------
+ As of
+($ in millions) December 31, 2022
+
+Current assets 3,740
+Non-current assets 11,572
+Total assets 15,312
+
+Current liabilities 1,067
+Non-current liabilities 11,528
+Total liabilities 12,595
+
+Obligor's Group equity 2,717
+Total liabilities and Obligor's Group equity 15,312
+
+NXP Semiconductors N.V. is the head of a fiscal unity for the corporate income tax and VAT that contains the most significant Dutch wholly-owned group companies. The Company is therefore jointly and severally liable for the tax liabilities of the tax entity as a whole, and as such the income tax expense of the Dutch fiscal unity has been included in the Net income of the Obligor Group.
+
+The financial information of the Obligor Group includes sales executed through a Non-Guarantor Subsidiary single-billing entity as a sales agent on behalf of an entity in the Obligor Group. The Obligor Group has sales to non-guarantors (2022: $813 million). The Obligor Group has amounts due from equity financing (2022: $5,210) and due to debt financing (2022: $2,629) with non-guarantor subsidiaries.
+
+Recent Legislation
+
+47
+
+US CHIPS Act
+On August 9, 2022, the CHIPS and Science Act of 2022, H.R. 4346 (the “CHIPS Act”) was signed into law. The CHIPS Act provides for a 25% refundable tax credit on certain investments in domestic semiconductor manufacturing. The credit is provided for qualifying property, which is placed in service after December 31, 2022. The CHIPS Act also provides for certain other financial incentives to further investments in domestic semiconductor manufacturing. The Company is evaluating the provisions of the new law and its potential impact to the Company.
+
+Inflation Reduction Act
+On August 16, 2022, the Inflation Reduction Act of 2022, H.R. 5376 (the “IRA”), was signed into law. The IRA introduces a 15% Corporate Alternative Minimum Tax (“CAMT”) for corporations whose average annual adjusted financial statement income for any consecutive three-tax-year period preceding the applicable tax year exceeds $1 billion and a 1% excise tax on certain stock repurchases The CAMT and the excise tax are effective in taxable years beginning after December 31, 2022. The Company is evaluating the provisions of the new law and its potential impact to the Company.
+
+EU Chips Act
+The EU Commission proposed its “EU Chips Act” in February 2022. The announced budget is €43 billion, with approximately €30 billion for potential manufacturing projects coming from EU member states national funds. The remaining €13 billion are foreseen for RD&I programs and initiatives like the new “Chips Joint Undertaking”. The EU Chips Act is still in the legislative process and is expected to become effective in late 2023. As a reaction to the U.S. Inflation Reduction Act, the EU Commission has stated that it would come up with a legislative package itself by the summer of 2023. The Company continues to monitor the progress of this potential legislation and will evaluate the provisions and its potential impact to the Company at such a time when enacted.
+
+EU IPCEI on Microelectronics and Communication Technologies (“IPCEI”) program
+During 2021 several European member states formally pre-notified the European Commission of the new Important Project of Common European Interest on Microelectronics and Communication Technologies (“IPCEI”) to support transnational cooperation projects on microelectronics. By joining forces, member states and industry intend to enhance the resilience of Europe’s supply chain in semiconductors. The IPCEI program requires the approval of the European Commission under state aid law: companies and EU member states must prove in a dedicated notification process that the IPCEI follows an overriding European interest and that projects would not be realized under market forces alone. The Company is currently involved in different notification processes in multiple member states, and expects to receive allocation of the related funding budgets that typically run over five years during 2023.
+
+Critical Accounting Estimates
+The preparation of financial statements and related disclosures in accordance with U.S. GAAP requires our management to make judgments, assumptions and estimates that affect the amounts reported in our Consolidated Financial Statements and the accompanying notes. Our management bases its estimates and judgments on historical experience, current economic and industry conditions and on various other factors that are believed to be reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions.
+
+The methods, estimates, and judgments that we use in applying our accounting policies have a significant impact on the results that we report in our Consolidated Financial Statements. Some of our accounting policies require us to make difficult and subjective judgments, often as a result of the need to make estimates regarding matters that are inherently uncertain. Our most critical accounting estimates include:
+•the valuation of inventory, which impacts gross margin;
+•the assessment of recoverability of goodwill, identified intangible assets and tangible fixed assets, which impacts gross margin or operating expenses when we record asset impairments or accelerate their depreciation or amortization;
+
+48
+
+•revenue recognition, which impacts our results of operations;
+•the recognition of current and deferred income taxes (including the measurement of uncertain tax positions), which impacts our provision for income taxes;
+•the assumptions used in the determination of postretirement benefit obligations, which impacts operating expenses;
+•the assumptions used in the determination of share based compensation, which impacts gross margin and operating expenses; and
+•the recognition and measurement of loss contingencies, which impacts gross margin or operating expenses when we recognize a loss contingency or revise the estimates for a loss contingency.
+
+In the following section, we discuss these policies further, as well as the estimates and judgments involved.
+
+Inventories
+Inventories are valued at the lower of cost or net realizable value. We regularly review our inventories and write down our inventories for estimated losses due to obsolescence. This allowance is determined for groups of products based on sales of our products in the recent past and/or expected future demand. Future demand is affected by market conditions, technological obsolescence, new products and strategic plans, each of which is subject to change with little or no forewarning. In estimating obsolescence, we utilize information that includes projecting future demand.
+
+The need for strategic inventory levels to ensure competitive delivery performance to our customers are balanced against the risk of inventory obsolescence due to rapidly changing technology and customer requirements.
+
+The change in our reserves for inventories was primarily due to the normal review and accrual of obsolete or excess inventory. If actual future demand or market conditions are less favorable than those projected by our management, additional inventory write-downs may be required.
+
+Goodwill
+Goodwill is required to be assessed for impairment at least once annually, or more frequently if indicators of potential impairment exist, which includes evaluating qualitative and quantitative factors to assess the likelihood of an impairment of a reporting unit’s goodwill. Such events or changes in circumstances can be significant changes in business climate, operating performance or competition, or upon the disposition of a significant portion of a reporting unit. A significant amount of judgment is involved in determining if an indicator of impairment has occurred between annual test dates. We perform impairment tests using a fair value approach when necessary. Determining the fair value of a reporting unit involves the use of significant estimates and assumptions, including projected future cash flows, discount rates based on weighted average cost of capital and future economic and market conditions. We base our fair-value estimates on assumptions we believe to be reasonable. Actual cash flow amounts for future periods may differ from estimates used in impairment testing.
+
+We perform our annual impairment test for goodwill in the fourth quarter of each fiscal year. We did not recognize any impairment charges for goodwill in the years presented, as our annual impairment testing indicated that the fair value exceeded the recorded value for the respective reporting unit.
+
+Impairment or disposal of identified long-lived assets
+We perform reviews of long-lived assets including property, plant and equipment, and intangible assets subject to amortization, whenever facts and circumstances indicate that the useful life is shorter than what we had originally estimated or that the carrying amount of assets may not be recoverable. If such facts and circumstances exist, we assess the recoverability of the long-lived assets by comparing the projected undiscounted net cash flows associated with the related asset or group of assets over their remaining lives against their respective carrying amounts. In the event such cash flows are not expected to be sufficient to recover the recorded value of the assets, the assets are written down to their estimated fair values based on the expected discounted future cash flows attributable to the assets or based on appraisals. Impairment losses, if any, are based
+
+49
+
+on the excess of the carrying amount over the fair value of those assets. Long-lived assets to be disposed of by sale are reported at the lower of their carrying amounts or their estimated fair values less costs to sell and are not depreciated.
+
+The assumptions and estimates used to determine future values and remaining useful lives of our intangible and other long-lived assets are complex and subjective. They can be affected by various factors, including external factors such as industry and economic trends, and internal factors such as changes in our business strategy and our forecasts for specific product lines. In 2021, we recognized impairment charges of $36 million as a result of the discontinuation of an IPR&D project. In 2020, we recognized impairment charges of $36 million, relative to IPR&D that was acquired from Freescale.
+
+Revenue recognition
+The Company recognizes revenue under the core principle to depict the transfer of control to customers in an amount reflecting the consideration the Company expects to be entitled. In order to achieve that core principle, the Company applies the following five step approach: (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price to the performance obligations in the contract, and (5) recognize revenue when a performance obligation is satisfied.
+
+The vast majority of the Company’s revenue is derived from the sale of semiconductor products to distributors, Original Equipment Manufacturers (“OEMs”) and similar customers. In determining the transaction price, the Company evaluates whether the price is subject to refund or adjustment to determine the consideration to which the Company expects to be entitled. Variable consideration is estimated and includes the impact of discounts, price protection, product returns and distributor incentive programs. The estimate of variable consideration is dependent on a variety of factors, including contractual terms, analysis of historical data, current economic conditions, industry demand and both the current and forecasted pricing environments. The estimate of variable consideration is not constrained because the Company has extensive experience with these contracts.
+
+Revenue is recognized when control of the product is transferred to the customer (i.e., when the Company’s performance obligation is satisfied), which typically occurs at shipment. In determining whether control has transferred, the Company considers if there is a present right to payment and legal title, and whether risks and rewards of ownership having transferred to the customer.
+
+For sales to distributors, revenue is recognized upon transfer of control to the distributor. For some distributors, contractual arrangements are in place which allow these distributors to return products if certain conditions are met. These conditions generally relate to the time period during which a return is allowed and reflect customary conditions in the particular geographic market. Other return conditions relate to circumstances arising at the end of a product life cycle, when certain distributors are permitted to return products purchased during a pre-defined period after the Company has announced a product’s pending discontinuance. These return rights are a form of variable consideration and are estimated using the most likely method based on historical return rates in order to reduce revenues recognized. However, long notice periods associated with these announcements prevent significant amounts of product from being returned. For sales where return rights exist, the Company has determined, based on historical data, that only a very small percentage of the sales of this type to distributors is actually returned. Repurchase agreements with OEMs or distributors are not entered into by the Company.
+
+Sales to most distributors are made under programs common in the semiconductor industry whereby distributors receive certain price adjustments to meet individual competitive opportunities. These programs may include credits granted to distributors, or allow distributors to return or scrap a limited amount of product in accordance with contractual terms agreed upon with the distributor, or receive price protection credits when our standard published prices are lowered from the price the distributor paid for product still in its inventory. In determining the transaction price, the Company considers the price adjustments from these programs to be variable consideration that reduce the amount of revenue recognized. The Company’s policy is to estimate such price adjustments using the most likely method based on rolling historical experience rates, as well as a prospective view of products and pricing in the distribution channel for distributors who participate in our
+
+50
+
+volume rebate incentive program. We continually monitor the actual claimed allowances against our estimates, and we adjust our estimates as appropriate to reflect trends in pricing environments and inventory levels. The estimates are also adjusted when recent historical data does not represent anticipated future activity. Historically, actual price adjustments for these programs relative to those estimated have not materially differed.
+
+Income taxes
+Income taxes are accounted for under the asset and liability method. Deferred tax assets and liabilities are recognized for the expected tax consequences of temporary differences between the tax basis of assets and liabilities and their reported amounts. Measurement of deferred tax assets and liabilities is based upon the enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. Deferred tax liabilities for withholding taxes on dividends from subsidiaries are recognized in situations where the Company does not consider the earnings indefinitely reinvested and to the extent that these withholding taxes are not expected to be refundable.
+
+Deferred tax assets, including assets arising from loss carryforwards, are recognized, net of a valuation allowance, if based upon the available evidence it is more likely than not that the asset will be realized.
+
+The income tax benefit from an uncertain tax position is recognized only if it is more likely than not that the tax position will be sustained upon examination by the relevant taxing authorities. The income tax benefit recognized is measured based on the largest benefit that is greater than 50% likely to be realized upon resolution of the uncertainty. Unrecognized tax benefits are presented as a reduction to the deferred tax asset for related temporary differences, tax credits or net operating loss carryforwards, unless these would not be available, in which case the uncertain tax benefits are presented together with the related interest and penalties as a liability, under accrued liabilities and other non-current liabilities based on the timing of the expected payment. Related penalties are recorded as income tax expense, whereas related interest is reported as financial expense in the statement of operations.
+
+Postretirement benefits
+The Company’s employees participate in pension and other postretirement benefit plans in many countries. The costs of pension and other postretirement benefits and related assets and liabilities with respect to the Company’s employees participating in defined-benefit plans are based upon actuarial valuations.
+
+The projected defined-benefit obligation is calculated annually by qualified actuaries using the projected unit credit method. For the Company’s major plans, the discount rate is derived from market yields on high quality corporate bonds. Plans in countries without a deep corporate bond market use a discount rate based on the local government bond rates.
+
+In calculating obligation and expense, the Company is required to select actuarial assumptions. These assumptions include discount rate, expected long-term rate of return on plan assets and rates of increase in compensation costs determined based on current market conditions, historical information and consultation with and input from our actuaries. Changes in the key assumptions can have a significant impact to the projected benefit obligations, funding requirements and periodic pension cost incurred.
+
+The Company determines the fair value of plan assets based on quoted prices or comparable prices for non-quoted assets. For a defined-benefit pension plan, the benefit obligation is the projected benefit obligation; for any other postretirement defined benefit plan it is the accumulated postretirement benefit obligation.
+
+Share-based compensation
+We recognize compensation expense for all share-based awards based on the grant-date estimated fair values, net of an estimated forfeiture rate. We use the Black-Scholes option pricing model to determine the estimated fair value for certain awards. Share-based compensation cost for restricted share units (“RSUs”) with time-based vesting is measured based on the closing fair market value of our common stock on the date of the grant, reduced by the present value of the estimated expected future dividends, and then multiplied by the
+
+51
+
+number of RSUs granted. Share-based compensation cost for performance-based share units (“PSUs”) granted with performance or market conditions is measured using a Monte Carlo simulation model on the date of grant.
+
+Our valuation models and generally accepted valuation techniques require us to make assumptions and to apply judgment to determine the fair value of our awards. These assumptions and judgments include estimating the volatility of our stock price, expected dividend yield, employee turnover rates and employee stock option exercise behaviors. When establishing the expected life assumption, we used the ‘simplified’ method prescribed in ASC Topic 718 for companies that do not have adequate historical data. The risk-free interest rate is measured as the prevailing yield for a U.S. Treasury security with a maturity similar to the expected life assumption. We also estimate a forfeiture rate at the time of grant and revise this rate in subsequent periods if actual forfeitures or vesting differ from the original estimates.
+
+We evaluate the assumptions used to value our awards on a quarterly basis. If factors change and we employ different assumptions, share-based compensation expense may differ significantly from what we have recorded in the past. If there are any modifications or cancellation of the underlying unvested securities, we may be required to accelerate, increase or cancel any remaining unearned share-based compensation expense.
+
+Litigation and claims
+We are regularly involved as plaintiffs or defendants in claims and litigation related to our past and current business operations. The claims can cover a broad range of topics, including intellectual property, reflecting the Company’s identity as a global manufacturing and technology business. The Company vigorously defends itself against improper claims, including those asserted in litigation. Due to the unpredictable nature of litigation, there can be no assurance that the Company’s accruals will be sufficient to cover the extent of its potential exposure to losses but, historically, legal actions have not had a material adverse effect on the Company’s business, results of operations or financial condition.
+
+The estimated aggregate range of reasonably possible losses is based on currently available information in relation to the claims that have arisen and on the Company’s best estimate of such losses for those cases for which such estimate can be made. For certain claims, the Company believes that an estimate cannot currently be made. The estimated aggregate range requires significant judgment, given the varying stages of the proceedings (including the fact that many of them are currently in preliminary stages), the existence of multiple defendants (including the Company) in such claims whose share of liability has yet to be determined, the numerous yet-unresolved issues in many of the claims, and the attendant uncertainty of the various potential outcomes of such claims. Accordingly, the Company’s estimate will change from time to time, and actual losses may be more than the current estimate.
+
+Use of Certain Non-GAAP Financial Measures
+In addition to disclosing financial results in accordance with U.S. GAAP, this document contains references to net debt. Net debt is a non-GAAP financial measure and represents total debt (short-term and long-term) after deduction of cash and cash equivalents. We believe this measure provides investors with useful supplemental information about the financial performance of our business, enables comparison of financial results between periods where certain items may vary independent of business performance, and allows for greater transparency with respect to calculating our net leverage.
+
+The following is a reconciliation of net debt to the most directly comparable GAAP measure, total debt, as adjusted for our cash and cash equivalents our net debt was calculated as follows:
+
+------------------------------- ------- ---- -------
+($ in millions) 2022 2021
+Long-term debt 11,165 10,572
+Short-term debt — —
+Total debt 11,165 10,572
+Less: cash and cash equivalents (3,845) (2,830)
+Net debt 7,320 7,742
+
+52
+
+We understand that, although net debt is used by investors and securities analysts in their evaluation of companies, this concept has limitations as an analytical tool and it should not be used as an alternative to any other measure in accordance with U.S. GAAP.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+[Note 1 to the consolidated financial statements]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+[See Part I, Item 1A]:
+Item 1A. Risk Factors 20
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 20
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[" in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2021 as filed with the SEC on February 24, 2022.
+
+Our MD&A is provided in addition to the accompanying consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition and cash flows. MD&A is organized as follows:
+•Overview - Overall analysis of financial and other highlights to provide context for the MD&A
+•Results of Operations - An analysis of our financial results
+•Financial Condition, Liquidity and Capital Resources - An analysis of changes in our balance sheets and cash flows and a discussion of our financial condition and potential sources of liquidity
+•Critical Accounting Estimates - Accounting estimates that management believes are the most important to understanding the assumptions and judgments incorporated in our financial results and forecasts
+•Use of Certain Non-GAAP Financial Measures - A discussion of the non-GAAP measures used
+
+32
+
+NXP has one reportable segment representing the entity as a whole. Our segment represents groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. See Note 1 to the consolidated financial statements for more information regarding our segment.
+
+Overview
+
+----------------------------------------------------- ------------------ ----------------- ------- ------------------- ----------------- ----------------- ------- ------------------- ------- --------
+($ in millions, unless otherwise stated) Three Months Ended Years Ended
+ December 31, 2022 December 31, 2021 Increase/(decrease) December 31, 2022 December 31, 2021 Increase/(decrease)
+Revenue 3,312 3,039 273 13,205 11,063 2,142
+Gross profit 1,891 1,707 184 7,517 6,067 1,450
+Operating income (loss) 980 807 173 3,797 2,583 1,214
+Cash flow from operating activities 1,076 785 291 3,895 3,077 818
+Total debt 11,165 10,572 593 11,165 10,572 593
+Net debt 7,320 7,742 (422) 7,320 7,742 (422)
+Diluted weighted average number of shares outstanding 261,448 268,545 (7,097) 264,053 275,646 (11,593)
+Diluted net income per share 2.76 2.24 0.52 10.55 6.79 3.76
+Dividends per common share 0.8450 0.5625 0.283 3.38 2.25 1.13
+
+Revenue for 2022 was $13,205 million as compared to the $11,063 million reported in 2021, an increase of $2,142 million or an increase of 19.4% year-on-year. The increase is attributed to inflationary effects of increased input costs from suppliers which were passed along to end customers in the form of higher average selling prices and strong customer demand.
+Our gross profit percentage for 2022 increased to 56.9% from 54.8%, primarily due to the significant higher revenue during 2022, which led to improved utilization and efficiencies, partly offset by higher personnel-related costs and higher supplier costs.
+Revenue for the fourth quarter, which ended December 31, 2022, was $3,312 million as compared to $3,039 million for the fourth quarter ended December 31, 2021, an increase of $273 million or an increase of 9.0%. The growth compared with the previous year period results from higher average selling prices across all of our end markets and strong demand within NXP’s Automotive end market, while the Industrial IoT, Communication Infrastructure & Other and the Mobile end markets experienced slower demand signals versus the year ago period. When aggregating all end markets together, and reviewing sales channel performance, business transacted through direct OEM and EMS customers was $1,397 million, an increase of 8.1% versus the year ago period. NXP']:
+(7)Includes 9605, 9645, 9675, 9685, 9725, 9735, 9808, 9855, and 9868 Scranton Road and 10055, 10065, and 10075 Barnes Canyon Road. (8)Includes 9965, 9975, 9985, and 9995 Summers Ridge Road. (9)In addition to the unconsolidated real estate joint ventures listed, we hold an interest in one other insignificant unconsolidated real estate joint venture in North America. (10)Represents our ownership interest; our voting interest is limited to 50%. (11)Represents a joint venture with a distinguished retail real estate developer for a retail shopping center aggregating 84,837 RSF. (12)Represents a joint venture with a local real estate operator in which our partner manages the day-to-day activities that significantly affect the economic performance of the joint venture. 127 The following table presents key terms related to our unconsolidated real estate joint ventures' secured loans as of December 31, 2022 (dollars in thousands): ---------------------------- ------------- -------- ----------- -------------------- ---------------- --------------- ------- - --------- ------- ------ ------- ------- ------ ----- ----- Maturity Date Stated Rate Interest Rate(1) At 100% Our Share Unconsolidated Joint Venture Aggregate Commitment Debt Balance(2) 1401/1413 Research Boulevard 12/23/24 2.70% 3.33 % $ 28,500 $ 28,146 65.0% 1655 and 1725 Third Street 3/10/25 4.50% 4.57 % 600,000 599,081 10.0% 101 West Dickman Street 11/10/26 SOFR+1.95% (3) 6.38 % 26,750 11,575 57.9% 1450 Research Boulevard 12/10/26 SOFR+1.95% (3) 6.44 % 13,000 3,802 73.2% $ 668,250 $ 642,604 (1)Includes interest expense and amortization of loan fees. (2)Represents outstanding principal, net of unamortized deferred financing costs, as of December 31, 2022. (3)This loan is subject to a fixed SOFR floor rate of 0.75%. The following tables present information related to the operating results and financial positions of our consolidated and unconsolidated real estate joint ventures (in thousands): ---------------------------...
+
+["). During the fiscal year-ended December 31, 2021, NXP repurchased 20.6 million shares for a total of approximately $4 billion under the trade for tax and 2019 and 2021 Share Repurchase Programs, and during the fiscal year-ended December 31, 2022, NXP repurchased 8.3 million shares, for a total of approximately $1.4 billion under the trade for tax and 2021 Share Repurchase Program. Under Dutch tax law, the repurchase of a company’s shares by an entity domiciled in the Netherlands results in a taxable event (unless exemptions apply). The tax on the repurchased shares is attributed to the shareholders, with NXP making the payment on the shareholders’ behalf. As such, the tax on the repurchased shares is accounted for within stockholders’ equity.
+
+Subject to Dutch corporate law and our articles of association, the board of directors of NXP may cancel shares acquired if authorized by the general meeting of shareholders. As with repurchases of our shares, it is our standard practice to request our annual general meeting of shareholders (the “AGM”) every year to renew this authorization for a period of 18 months from the AGM. For cancellations of shares in 2020 and 2021, the board of directors made use of the authorizations renewed on May 27, 2020 and May 26, 2021, respectively.
+
+40
+
+As approved by the board of directors, on December 15, 2020, NXP cancelled 26 million shares and on November 30, 2021, NXP cancelled 15 million shares. As a result, the number of issued NXP shares as per November 30, 2021 is 274,519,638.
+
+Under our Quarterly Dividend Program, interim dividends of $0.5625 per ordinary share were paid on April 5, July 6, October 6, 2021; and January 6, 2022, and dividends of $0.845 per ordinary share were paid on April 6, July 6, October 6, 2022; and January 6, 2023.
+
+-------------------------------- ---- ---- ----
+ 2022 2021
+Dividends declared (per share) 3.38 2.25
+Dividends declared (in millions) 885 606
+
+Debt
+Our total debt, inclusive of aggregate principal, unamortized discounts, premiums, debt issuance costs and fair value adjustments, amounted to $11,165 million as of December 31, 2022, an increase of $593 million compared to December 31, 2021 ($10,572 million). On May 16, 2022, NXP issued $500 million of 4.4% Senior Unsecured Notes due 2027 and $1 billion of 5% Senior Unsecured Notes due 2033. On May 27, 2022, $900 million of 4.625% Senior Notes due 2023 were redeemed in full.
+As of December 31, 2022, the Company had outstanding fixed-rate notes with varying maturities for an aggregate principal amount of $11,250 million (collectively the “Notes”), with $0 payable within 12 months. Future interest payments associated with the Notes total $3,585 million, with $435 million payable within 12 months.
+
+41
+
+Additional capital requirements
+We believe our current cash and cash equivalents position, our expected cash flow generated from operations and our expected financing activities will satisfy our working and other capital requirements for at least the next 12 months based on our current business plans. Recent and expected working and other capital requirements, in addition to the above matters, also include the items described below:
+
+•The Company maintains purchase commitments with certain suppliers, primarily for raw materials, semi-finished goods and manufacturing services and for some non-production items. Purchase commitments for inventory materials are generally restricted to a forecasted time-horizon as mutually agreed upon between the parties. This forecasted time-horizon can vary for different suppliers. As of December 31, 2022, the Company had purchase commitments of $3,672 million, of which $1,187 million is expected to be paid in the next 12 months. We expect operating cash outflows to remain elevated as we make payments under these purchase agreements.
+•Amounts related to future lease payments for operating lease obligations at December 31, 2022 totaled $295 million, with $63 million expected to be paid within the next 12 months.
+•The Company enters into certain technology license arrangements which are used in conjunction with research and development activities for product development. Payments for these technology licenses are made over varying time periods. Outstanding unpaid balances for technology licenses total $260 million as of December 31, 2022, of which $121 million is expected to be paid in the next 12 months.
+•Cash outflows for capital expenditures were $1,063 million in 2022, compared to $767 million in 2021. We expect to maintain similar levels of capital expenditures as a percentage of revenue in 2023, to support current and future manufacturing and production capacity needs.
+•Our research and development expenditures were $2,148 million in 2022 and $1,936 million in 2021, and we expect to maintain similar levels of investment in research and development as a percentage of revenue in 2023.
+
+From time to time, we engage in discussions with third parties regarding potential acquisitions of, or investments in, businesses, technologies and product lines. Any such transaction could require significant use of our cash and cash equivalents, or require us to arrange for new debt and equity financing to fund the transaction. Our ability to make scheduled payments or to refinance our debt obligations depends on our financial and operating performance, which is subject to prevailing economic and competitive conditions. In the future, we may not be able to maintain a level of cash flows from operating activities sufficient to permit us to pay principal, premium, if any, and interest on our indebtedness. Our business may not generate sufficient cash flow from operations, or we may not have enough capacity under the RCF Agreement, or from other sources in an amount sufficient to enable us to repay our indebtedness, including the RCF Agreement, the unsecured notes or to fund our other liquidity needs, including working capital and capital expenditure requirements. In any such case, we may be forced to reduce or delay capital expenditures, sell assets or operations, seek additional capital or restructure or refinance our indebtedness. See Part I, Item 1A. Risk Factors.
+
+2022 Financing Activities
+
+Revolving Credit Facility
+On August 26, 2022, NXP B.V., together with NXP Funding LLC, amended and restated its revolving credit agreement entered into on June 11, 2019. The amended and restated revolving credit agreement provides for $2.5 billion of senior unsecured revolving credit commitments and is scheduled to mature on August 26, 2027.
+
+Exchange Offers
+On April 14, 2022, we initiated a registered exchange offering of our outstanding Senior Unsecured Notes for new issues of substantially identical registered debt securities (the “Exchange Offers”). The Exchange Offers
+
+42
+
+expired on May 16, 2022, at which time substantially all of the Notes were exchanged for registered senior unsecured notes.
+
+Debt Issuance and redemption
+On May 16, 2022, NXP B.V., together with NXP Funding LLC and NXP USA, Inc., issued $500 million of 4.4% senior unsecured notes due June 1, 2027 and $1 billion of 5.0% senior unsecured notes due January 15, 2033. On May 27, 2022 we redeemed the $900 million aggregate principal amount of outstanding dollar-denominated 4.625% Senior Unsecured Notes due 2023 in accordance with the terms of the indenture.
+
+2021 Financing Activities
+
+2032, 2042 and 2051 Senior Unsecured Notes
+On November 30, 2021, NXP B.V., together with NXP USA Inc. and NXP Funding LLC, issued $1 billion of 2.65% Senior Unsecured Notes due 2032, $500 million of 3.125% Senior Unsecured Notes due 2042 and $500 million of 3.25% Senior Unsecured Notes due 2051. The Company used a portion of the net proceeds of the offering of these notes to redeem the $1 billion aggregate principal amount of outstanding 3.875% Senior Notes due 2022. The remaining net proceeds will be used for general corporate purposes, which may include capital expenditures or equity buyback transactions.
+
+2031 and 2041 Senior Unsecured Notes
+On May 11, 2021, NXP B.V., together with NXP USA Inc. and NXP Funding LLC, issued $1 billion of 2.5% Senior Unsecured Notes due 2031 and $1 billion of 3.25% Senior Unsecured Notes due 2041. The net proceeds of the 2.5% Senior Notes due 2031 ("]:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement

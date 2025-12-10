@@ -1,0 +1,648 @@
+================================================================================
+CIK: 0001403161
+Company Name: VISA INC
+Filing Date: 2019-11-14
+Form Type: 10-K
+Extraction Date: 2025-08-31 09:04:03
+================================================================================
+
+ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+This management’s discussion and analysis provides a review of the results of operations, financial condition and liquidity and capital resources of Visa Inc. and its subsidiaries (“Visa,” “we,” “us,” “our” and the “Company”) on a historical basis and outlines the factors that have affected recent earnings, as well as those factors that may affect future earnings. The following discussion and analysis should be read in conjunction with the consolidated financial statements and related notes included in Item 8—Financial Statements and Supplementary Data of this report.
+
+Overview
+Visa is a global payments technology company that enables fast, secure and reliable electronic payments across more than 200 countries and territories. We facilitate global commerce through the transfer of value and information among a global network of consumers, merchants, financial institutions, businesses, strategic partners and government entities. Our advanced transaction processing network, VisaNet, enables authorization, clearing and settlement of payment transactions and allows us to provide our financial institution and merchant clients a wide range of products, platforms and value-added services.
+Financial overview. Our as-reported U.S. GAAP and non-GAAP net income and diluted earnings per share are as follows:
+
+--------------------------------------- ---------------------------------------------------- ------ ----------- ---- ------ ----------- ----------- ----- -- - -- -
+
+ For the Years EndedSeptember 30, % Change(1)
+ 2019 2018 2017 2019vs.2018 2018vs.2017
+ (in millions, except percentages and per share data)
+Net income, as reported $ 12,080 $ 10,301 $ 6,699 17 % 54 %
+Diluted earnings per share, as reported $ 5.32 $ 4.42 $ 2.80 20 % 58 %
+
+Non-GAAP net income(2) $ 12,367 $ 10,729 $ 8,335 15 % 29 %
+Non-GAAP diluted earnings per share(2) $ 5.44 $ 4.61 $ 3.48 18 % 32 %
+
+--- -------------------------------------------------------------------------------------------------------------------------------
+(1) Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Non-GAAP net income and non-GAAP diluted earnings per share in fiscal 2019, 2018 and 2017 exclude the impact of certain significant items that we believe are not indicative of our operating performance in these or future periods, as they are either non-recurring or have no cash impact. For a full reconciliation of our non-GAAP financial results, see tables in Non-GAAP financial results below.
+
+Highlights for fiscal 2019. Our business is affected by overall economic conditions and consumer spending. Our business performance during fiscal 2019 reflects continued global consumer spending growth amidst uneven global economic conditions. We recorded net revenues of $23.0 billion for fiscal 2019, an increase of 11% over the prior year, primarily reflecting continued growth in nominal payments volume, nominal cross-border volume and processed transactions. Exchange rate movements in fiscal 2019, partially mitigated by our hedging program, negatively impacted our net revenues growth by approximately one-and-a-half percentage points.
+Total operating expenses for fiscal 2019 were $8.0 billion, compared to $7.7 billion in fiscal 2018. The increase over the prior year was primarily driven by higher personnel and marketing as we continue to invest in growing our business, offset by a lower litigation provision.
+Non-GAAP financial results. Our financial results for fiscal 2019, 2018 and 2017 reflect the impact of certain significant items that we do not believe are indicative of our ongoing operating performance in these or future periods, as they are either non-recurring or have no cash impact. As such, we believe the presentation of our non-GAAP financial results excluding the following items provides a clearer understanding of our operating performance for the periods presented.
+
+ 34
+
+Table of Contents
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Litigation provision. During fiscal 2019 and 2018, we recorded a litigation provision of $370 million and $600 million, respectively, and related tax benefits of $83 million and $137 million, respectively, associated with the interchange multidistrict litigation. The tax impact is determined by applying applicable federal and state tax rates to the litigation provision. Under the U.S. retrospective responsibility plan, we recover the monetary liabilities related to the U.S. covered litigation through a reduction to the conversion rate of our class B common stock to shares of class A common stock. See Note 5—U.S. and Europe Retrospective Responsibility Plans and Note 20—Legal Matters to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data.
+
+- ------------------------
+• Charitable contributions
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+▪ During fiscal 2018, we donated investment securities to the Visa Foundation and recognized a non-cash general and administrative expense of $195 million, before tax, and recorded $193 million of realized gain on the donation of these investments as non-operating income. Net of the related cash tax benefit of $51 million, determined by applying applicable tax rates, adjusted net income decreased by $49 million.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+▪ During fiscal 2017, associated with our legal entity reorganization, we recognized a non-cash general and administrative expense of $192 million, before tax, related to the charitable donation of Visa Inc. shares that were acquired as part of the Visa Europe acquisition and held as treasury stock. Net of the related cash tax benefit of $71 million, determined by applying applicable tax rates, adjusted net income increased by $121 million.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Remeasurement of deferred tax balances. During fiscal 2018, in connection with the Tax Cuts and Jobs Act (the “Tax Act”) reduction of the corporate income tax rate, we remeasured our net deferred tax liabilities as of the enactment date, resulting in the recognition of a non-recurring, non-cash income tax benefit of $1.1 billion. See Note 19—Income Taxes to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Transition tax on foreign earnings. During fiscal 2018, in connection with the Tax Act requirement that we include certain untaxed foreign earnings of non-U.S. subsidiaries in our fiscal 2018 taxable income, we recorded a one-time transition tax estimate of approximately $1.1 billion. See Note 19—Income Taxes to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Elimination of deferred tax balances. During fiscal 2017, in connection with our legal entity reorganization, we eliminated deferred tax balances originally recognized upon the acquisition of Visa Europe, resulting in the recognition of a non-recurring, non-cash income tax provision of $1.5 billion. See Note 19—Income Taxes to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data.
+
+ 35
+
+Table of Contents
+
+Non-GAAP operating expenses, operating margin, non-operating income (expense), income before income taxes, income tax provision, effective income tax rate, net income and diluted earnings per share should not be relied upon as substitutes for measures calculated in accordance with U.S. GAAP. The following tables reconcile our as-reported financial measures calculated in accordance with U.S. GAAP to the respective non-GAAP financial measures for fiscal 2019, 2018 and 2017:
+
+-------------------- ---------------------------------------------------- ----- ----------------------- - ------------------------------ - -------------------------- - -------------------- --- ---------------------------- - ---------- ----------------------------- - ----- --- ---- ---- - ------ - ----
+
+ Year ended September 30, 2019
+ Operating Expenses Operating Margin(1),(2) Non-operating Income (Expense) Income Before Income Taxes Income Tax Provision Effective Income Tax Rate(2) Net Income Diluted Earnings Per Share(2)
+ (in millions, except percentages and per share data)
+As reported $ 7,976 65 % $ (117 ) $ 14,884 $ 2,804 18.8 % $ 12,080 $ 5.32
+Litigation provision (370 ) 2 % — 370 83 287 0.13
+Non-GAAP $ 7,606 67 % $ (117 ) $ 15,254 $ 2,887 18.9 % $ 12,367 $ 5.44
+
+-------------------------------------- ---------------------------------------------------- ----- ----------------------- - ------------------------------ - -------------------------- - -------------------- --- ---------------------------- - ---------- - ----------------------------- - ----- ------ - ---- ----- - - ------ - ----
+
+ Year ended September 30, 2018
+ Operating Expenses Operating Margin(1),(2) Non-operating Income (Expense) Income Before Income Taxes Income Tax Provision Effective Income Tax Rate(2) Net Income Diluted Earnings Per Share(2)
+ (in millions, except percentages and per share data)
+As reported $ 7,655 63 % $ (148 ) $ 12,806 $ 2,505 19.6 % $ 10,301 $ 4.42
+Charitable contribution (195 ) 1 % (193 ) 2 51 (49 ) (0.02 )
+Litigation provision (600 ) 3 % — 600 137 463 0.20
+Remeasurement of deferred tax balances — — % — — 1,133 (1,133 ) (0.49 )
+Transition tax on foreign earnings — — % — — (1,147 ) 1,147 0.49
+Non-GAAP $ 6,860 67 % $ (341 ) $ 13,408 $ 2,679 20.0 % $ 10,729 $ 4.61
+
+------------------------------------ ---------------------------------------------------- ----- ----------------------- - ------------------------------ - -------------------------- - -------------------- --- ---------------------------- - ---------- - ----------------------------- - ----- ----- ---- ---- - ----- - ----
+
+ Year ended September 30, 2017
+ Operating Expenses Operating Margin(1),(2) Non-operating Income (Expense) Income Before Income Taxes Income Tax Provision Effective Income Tax Rate(2) Net Income Diluted Earnings Per Share(2)
+ (in millions, except percentages and per share data)
+As reported $ 6,214 66 % $ (450 ) $ 11,694 $ 4,995 42.7 % $ 6,699 $ 2.80
+Charitable contribution (192 ) 1 % — 192 71 121 0.05
+Elimination of deferred tax balances — — % — — (1,515 ) 1,515 0.63
+Non-GAAP $ 6,022 67 % $ (450 ) $ 11,886 $ 3,551 29.9 % $ 8,335 $ 3.48
+
+--- ---------------------------------------------------------------------------
+(1) Operating margin is calculated as operating income divided by net revenues.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Figures in the table may not recalculate exactly due to rounding. Operating margin, effective income tax rate, diluted earnings per share and their respective totals are calculated based on unrounded numbers.
+
+Interchange multidistrict litigation. During fiscal 2019, we recorded an additional accrual of $370 million to address claims associated with the interchange multidistrict litigation, resulting in an accrued litigation balance related to U.S. covered litigation of $1.2 billion at September 30, 2019. We also deposited $300 million of operating cash into the U.S. litigation escrow account. See Note 5—U.S. and Europe Retrospective Responsibility Plans and Note 20—Legal Matters to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data.
+
+ 36
+
+Table of Contents
+
+Reduction in as-converted shares. During fiscal 2019, total as-converted class A common stock was reduced by 58 million shares at an average price of $154.62 per share. Of the 58 million shares, 56 million were repurchased in the open market using $8.6 billion of operating cash on hand. Additionally, in September 2019, we deposited $300 million of operating cash into the litigation escrow account previously established under the U.S. retrospective responsibility plan. Also, we recovered $8 million of VE territory covered losses in accordance with the Europe retrospective responsibility plan during fiscal 2019. The deposit and recovery have the same economic effect on earnings per share as repurchasing our class A common stock because they reduce the class B common stock conversion rate and the UK&I and Europe preferred stock conversion rates and consequently, reduce the as-converted class A common stock share count. See Note 5—U.S. and Europe Retrospective Responsibility Plans and Note 14—Stockholders’ Equity to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data.
+Common stock repurchases. In January 2019, our board of directors authorized an additional $8.5 billion share repurchase program. As of September 30, 2019, the program had remaining authorized funds of $4.1 billion for share repurchase. All share repurchase programs authorized prior to January 2019 have been completed. See Note 14—Stockholders’ Equity to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data.
+
+Payments volume and processed transactions. Payments volume is the primary driver for our service revenues, and the number of processed transactions is the primary driver for our data processing revenues. During the three months ended December 31, 2018, we updated our definition of payments volume to now include all disbursement volume related to Visa Direct, in addition to the funding volume previously included. All prior periods presented have been adjusted accordingly. Please refer to the Operational Performance Data section of Exhibit 99.1 on Form 8-K filed on January 30, 2019 for more details on the impact from this update in payments volume definition.
+
+Nominal payments volume over the prior year posted low double-digit growth in the U.S. and in line with 2018 growth. Nominal international payments volume growth of 3% for the 12 months ended June 30, 2019(1) was negatively impacted by the overall strengthening of the U.S. dollar. On a constant-dollar basis, which excludes the impact of exchange rate movements, our international payments volume growth rate for the 12 months ended June 30, 2019 and 2018 was 10% and 11%, respectively. Growth in processed transactions reflects the ongoing worldwide shift to electronic payments.
+The following tables(2) present nominal payments and cash volume:
+
+----------------------------- --------------------------------- ----- -------------------------- ----- -------------------------- ----- ---- - ---- ----- ------- - ----- ---- -- ------- ----- -- -- ----- - ------ -- -- - ------ - -
+
+ U.S. International Visa Inc.
+ 12 months ended June 30,(1) 12 monthsended June 30,(1) 12 monthsended June 30,(1)
+ 2019 2018 %Change 2019 2018 %Change 2019 2018 %Change
+ (in billions, except percentages)
+Nominal payments volume
+Consumer credit $ 1,540 $ 1,441 7 % $ 2,487 $ 2,457 1 % $ 4,027 $ 3,898 3 %
+Consumer debit(3) 1,702 1,521 12 % 1,876 1,792 5 % 3,577 3,313 8 %
+Commercial(4) 633 564 12 % 381 364 5 % 1,015 927 9 %
+Total nominal payments volume $ 3,875 $ 3,527 10 % $ 4,744 $ 4,612 3 % $ 8,619 $ 8,139 6 %
+Cash volume 573 563 2 % 2,260 2,437 (7 )% 2,833 3,000 (6 )%
+Total nominal volume(5) $ 4,448 $ 4,089 9 % $ 7,004 $ 7,049 (1 )% $ 11,452 $ 11,139 3 %
+
+ 37
+
+Table of Contents
+
+----------------------------- --------------------------------- ----- -------------------------- ----- --------------------------- ----- ---- - ---- ----- ------- - ----- ---- -- ------- ----- -- - ----- - ------ -- - - ------ -- -
+
+ U.S. International Visa Inc.
+ 12 monthsended June 30,(1) 12 monthsended June 30,(1) 12 months ended June 30,(1)
+ 2018 2017 %Change 2018 2017 %Change 2018 2017 %Change
+ (in billions, except percentages)
+Nominal payments volume
+Consumer credit $ 1,441 $ 1,309 10 % $ 2,457 $ 2,186 12 % $ 3,898 $ 3,495 12 %
+Consumer debit(3) 1,521 1,379 10 % 1,792 1,510 19 % 3,313 2,888 15 %
+Commercial(4) 564 507 11 % 364 306 19 % 927 812 14 %
+Total nominal payments volume $ 3,527 $ 3,194 10 % $ 4,612 $ 4,002 15 % $ 8,139 $ 7,196 13 %
+Cash volume 563 544 3 % 2,437 2,348 4 % 3,000 2,892 4 %
+Total nominal volume(5) $ 4,089 $ 3,738 9 % $ 7,049 $ 6,350 11 % $ 11,139 $ 10,088 10 %
+
+The following table(2) presents nominal and constant payments and cash volume growth:
+
+---------------------------- -------------------------------------- -- -------------------------------------- -- -------------------------------------- -------------------------------------- - ------- -- ----------- ------- -- ----------- -- - -- - -- -
+
+ International Visa Inc.
+ 12 months endedJune 30,2019 vs 2018(1) 12 months endedJune 30,2018 vs 2017(1) 12 months endedJune 30,2019 vs 2018(1) 12 months endedJune 30,2018 vs 2017(1)
+ Nominal Constant(6) Nominal Constant(6) Nominal Constant(6) Nominal Constant(6)
+Payments volume growth
+Consumer credit 1 % 8 % 12 % 9 % 3 % 7 % 12 % 10 %
+Consumer debit(3) 5 % 11 % 19 % 13 % 8 % 12 % 15 % 12 %
+Commercial(4) 5 % 13 % 19 % 14 % 9 % 13 % 14 % 13 %
+Total payments volume growth 3 % 10 % 15 % 11 % 6 % 10 % 13 % 11 %
+Cash volume growth (7 )% — % 4 % 2 % (6 )% — % 4 % 2 %
+Total volume growth (1 )% 6 % 11 % 8 % 3 % 7 % 10 % 8 %
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Service revenues in a given quarter are assessed based on nominal payments volume in the prior quarter. Therefore, service revenues reported for the 12 months ended September 30, 2019, 2018 and 2017, were based on nominal payments volume reported by our financial institution clients for the 12 months ended June 30, 2019, 2018 and 2017, respectively.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------
+(2) Figures in the tables may not recalculate exactly due to rounding. Percentage changes and totals are calculated based on unrounded numbers.
+
+--- ------------------------------------------------------
+(3) Includes consumer prepaid volume and interlink volume.
+
+--- -------------------------------------------------------------------------------------------------
+(4) Includes large, middle and small business credit and debit, as well as commercial prepaid volume.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(5) Total nominal volume is the sum of total nominal payments volume and cash volume. Total nominal payments volume is the total monetary value of transactions for goods and services that are purchased on cards carrying the Visa, Visa Electron, Interlink and V PAY brands. Cash volume generally consists of cash access transactions, balance access transactions, balance transfers and convenience checks. Total nominal volume is provided by our financial institution clients, subject to review by Visa. On occasion, previously presented volume information may be updated. Prior period updates are not material.
+
+--- ---------------------------------------------------------------------------------------------------------------
+(6) Growth on a constant-dollar basis excludes the impact of foreign currency fluctuations against the U.S. dollar.
+
+The following table(1) provides the number of transactions involving cards and other form factors carrying the Visa, Visa Electron, Interlink, VPAY and PLUS cards processed on Visa’s networks during the fiscal periods presented:
+
+--------------------------- --------------------------------- ---- ------- ---- --------------------- --------------------- -- - -- -
+
+ 2019 2018 2017 2019 vs. 2018% Change 2018 vs. 2017% Change
+ (in millions, except percentages)
+Visa processed transactions 138,329 124,320 111,215 11 % 12 %
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers. On occasion, previously presented information may be updated. Prior period updates are not material.
+
+ 38
+
+Table of Contents
+
+Financial Information Presentation
+Net Revenues
+Our net revenues are primarily generated from payments volume on Visa products for purchased goods and services, as well as the number of transactions processed on our network. We do not earn revenues from, or bear credit risk with respect to, interest or fees paid by account holders on Visa products. Our issuing clients have the responsibility for issuing cards and other payment products and determining the interest rates and fees paid by account holders. We generally do not earn revenues from the fees that merchants are charged for acceptance by acquirers, including the merchant discount rate. Our acquiring clients are generally responsible for soliciting merchants as well as establishing and earning these fees.
+The following sets forth the components of our net revenues:
+Service revenues consist mainly of revenues earned for services provided in support of client usage of Visa payment services. Current quarter service revenues are primarily assessed using a calculation of current quarter’s pricing applied to the prior quarter’s payments volume. Service revenues also include assessments designed to support ongoing acceptance and volume growth initiatives, which are recognized in the same period the related volumes are transacted.
+Data processing revenues are earned for authorization, clearing, settlement, value-added services, network access and other maintenance and support services that facilitate transaction and information processing among our clients globally. Data processing revenues are recognized in the same period the related transactions occur or services are performed.
+International transaction revenues are earned for cross-border transaction processing and currency conversion activities. Cross-border transactions arise when the country of origin of the issuer, or financial institution originating the transaction, is different from that of the beneficiary. International transaction revenues are recognized in the same period the cross-border transactions occur or services are performed.
+Other revenues consist mainly of value-added services, license fees for use of the Visa brand or technology, account holder services, certification, licensing and product enhancements, such as extended account holder protection and concierge services. Other revenues are recognized in the same period the related transactions occur or services are performed.
+Client incentives consist of incentives provided in contracts with financial institution clients, merchants and strategic partners for various programs designed to grow payments volume, increase Visa product acceptance, win merchant routing transactions over our network and drive innovation. These incentives are primarily accounted for as reductions to revenues.
+Operating Expenses
+Personnel expenses include salaries, employee benefits, incentive compensation, share-based compensation, severance charges and contractor expense.
+Marketing expenses include expenses associated with advertising and marketing campaigns, sponsorships and other related promotions of the Visa brand.
+Network and processing expenses mainly represent expenses for the operation of our processing network, including maintenance, equipment rental and fees for other data processing services.
+Professional fees mainly consist of fees for consulting, legal and other professional services.
+Depreciation and amortization expenses include depreciation expense for property and equipment, as well as amortization of purchased and internally developed software. Also included in this amount is amortization of finite-lived intangible assets primarily obtained through acquisitions.
+General and administrative expenses consist mainly of product enhancements, facilities costs, travel activities, indirect taxes, foreign exchange gains and losses and other corporate expenses incurred in support of our business.
+Litigation provision represents litigation expenses and is based on management’s understanding of our litigation profile, the specifics of the cases, advice of counsel to the extent appropriate and management’s best estimate of incurred loss.
+
+ 39
+
+Table of Contents
+
+Non-operating Income (Expense)
+Non-operating income (expense) primarily includes interest expense, gains and losses earned on investments, income from derivative instruments not associated with our core business, as well as the non-service components of net periodic pension income and expenses.
+
+For discussion related to the results of operations and liquidity and capital resources for fiscal 2018 compared to fiscal 2017 refer to Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in our fiscal 2018 Form 10-K, filed with the United States Securities and Exchange Commission on November 16, 2018.
+Results of Operations
+Net Revenues
+The following table sets forth our net revenues earned in the U.S. and internationally:
+
+------------- --------------------------------- ------ -------- ------ ----------- ------ ----------- ----------- ------ ----------- ----------- ----- -- - ----- -- - -- - -- -
+
+ For the Years EndedSeptember 30, $ Change % Change(1)
+ 2019 2018 2017 2019vs.2018 2018vs.2017 2019vs.2018 2018vs.2017
+ (in millions, except percentages)
+U.S. $ 10,279 $ 9,332 $ 8,704 $ 947 $ 628 10 % 7 %
+International 12,698 11,277 9,654 1,421 1,623 13 % 17 %
+Net revenues $ 22,977 $ 20,609 $ 18,358 $ 2,368 $ 2,251 11 % 12 %
+
+--- -------------------------------------------------------------------------------------------------------------------------------
+(1) Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+The increase in net revenues in fiscal 2019 reflects the continued growth in nominal payments volume, nominal cross-border volume, and processed transactions. The increase in revenues were partially offset by increases in client incentives in fiscal 2019.
+Our net revenues are impacted by the overall strengthening or weakening of the U.S. dollar as payments volume and related revenues denominated in local currencies are converted to U.S. dollars. Exchange rate movements in fiscal 2019, as partially mitigated by our hedging program, negatively impacted our net revenues growth by approximately one-and-a-half percentage points.
+The following table sets forth the components of our net revenues:
+
+---------------------------------- --------------------------------- ------ -------- ------ ----------- ------ ----------- - ----------- ------ ----------- ----------- ----- -- - ----- -- - -- - -- -
+
+ For the Years EndedSeptember 30, $ Change % Change(1)
+ 2019 2018 2017 2019vs.2018 2018vs.2017 2019vs.2018 2018vs.2017
+ (in millions, except percentages)
+Service revenues $ 9,700 $ 8,918 $ 7,975 $ 782 $ 943 9 % 12 %
+Data processing revenues 10,333 9,027 7,786 1,306 1,241 14 % 16 %
+International transaction revenues 7,804 7,211 6,321 593 890 8 % 14 %
+Other revenues 1,313 944 841 369 103 39 % 12 %
+Client incentives (6,173 ) (5,491 ) (4,565 ) (682 ) (926 ) 12 % 20 %
+Net revenues $ 22,977 $ 20,609 $ 18,358 $ 2,368 $ 2,251 11 % 12 %
+
+--- -------------------------------------------------------------------------------------------------------------------------------
+(1) Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+- ------------------------------------------------------------------------------------------------------------------
+• Service revenues increased primarily due to 6% growth in nominal payments volume and select pricing modifications.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------
+• Data processing revenues increased mainly due to overall growth in processed transactions of 11% as well as select pricing modifications.
+
+ 40
+
+Table of Contents
+
+- ----------------------------------------------------------------------------------------------------------------------------------------
+• International transaction revenues increased primarily due to nominal cross-border volume growth of 2% and select pricing modifications.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Other revenues increased primarily due to changes in the classification and timing of recognition of revenue as a result of the adoption of the new revenue standard and an increase in revenues from value-added services.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Client incentives increased mainly due to incentives recognized on long-term client contracts that were initiated or renewed during fiscal 2019 and overall growth in global payments volume. As a result of the adoption of the new revenue standard, client incentives were also impacted by changes in classification and timing of recognition. The amount of client incentives we record in future periods will vary based on changes in performance expectations, actual client performance, amendments to existing contracts or the execution of new contracts.
+
+Operating Expenses
+The following table sets forth the components of our total operating expenses:
+
+----------------------------- --------------------------------- ----- -------- ----- ----------- ----- ----------- ----------- ----- ----------- ----------- --- --- -- ----- -- - - - -- -
+
+ For the Years EndedSeptember 30, $ Change % Change(1)
+ 2019 2018 2017 2019vs.2018 2018vs.2017 2019vs.2018 2018vs.2017
+ (in millions, except percentages)
+Personnel $ 3,444 $ 3,170 $ 2,628 $ 274 $ 542 9 % 21 %
+Marketing 1,105 988 922 117 66 12 % 7 %
+Network and processing 721 686 620 35 66 5 % 11 %
+Professional fees 454 446 409 8 37 2 % 9 %
+Depreciation and amortization 656 613 556 43 57 7 % 10 %
+General and administrative 1,196 1,145 1,060 51 85 4 % 8 %
+Litigation provision 400 607 19 (207 ) 588 (34 )% NM
+Total operating expenses(2) $ 7,976 $ 7,655 $ 6,214 $ 321 $ 1,441 4 % 23 %
+
+--- -------------------------------------------------------------------------------------------------------------------------------
+(1) Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Operating expenses for fiscal 2019, 2018 and 2017 include significant items that we do not believe are indicative of our operating performance as they are related to the interchange multidistrict litigation provision or charitable donations. See Overview within this Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+- -----------------------------------------------------------------------------------------------------------------------
+• Personnel expenses increased due to continued headcount growth in support of our investment strategy for future growth.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Marketing expenses increased mainly due to changes in the classification and timing of recognition of certain marketing expenses as a result of the adoption of the new revenue standard. The increase was partially offset by spend for the 2018 Winter Olympics in PyeongChang and 2018 FIFA World CupTM in fiscal 2018, which did not recur in fiscal 2019.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• General and administrative expenses increased primarily as a result of unfavorable foreign currency fluctuations, changes in the classification and timing of recognition of certain general and administrative expenses as a result of the adoption of the new revenue standard, higher indirect taxes, higher product enhancement costs and global facilities expansion in support of our business growth.The increase was partially offset by a $195 million charitable contribution to the Visa Foundation in fiscal 2018, which did not recur in fiscal 2019.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Litigation provision decreased primarily due to a $370 million accrual in fiscal 2019 compared to a $600 million accrual in fiscal 2018 related to the interchange multidistrict litigation. See Note 5—U.S. and Europe Retrospective Responsibility Plans and Note 20—Legal Matters to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+ 41
+
+Table of Contents
+
+Non-operating Income (Expense)
+The following table sets forth the components of our non-operating income (expense):
+
+------------------------------------ --------------------------------- ---- -------- --- ----------- ---- ----------- ----------- ---- ----------- ----------- -- --- -- --- --- - --- -- --- --
+
+ For the Years EndedSeptember 30, $ Change % Change(1)
+ 2019 2018 2017 2019vs.2018 2018vs.2017 2019vs.2018 2018vs.2017
+ (in millions, except percentages)
+Interest expense, net $ (533 ) $ (612 ) $ (563 ) $ 79 $ (49 ) (13 )% 9 %
+Investment income and other 416 464 113 (48 ) 351 (10 )% 311 %
+Total non-operating income (expense) $ (117 ) $ (148 ) $ (450 ) $ 31 $ 302 (20 )% (67 )%
+
+--- -------------------------------------------------------------------------------------------------------------------------------
+(1) Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Interest expense decreased primarily as a result of entering into derivative instruments in fiscal 2019 that lowered the average cost of borrowing on a portion of our outstanding debt. See Note 9—Debt and Note 12—Derivative and Non-derivative Financial Instruments to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Investment income and other decreased primarily due to gains of $193 million from the donation of investment securities to the Visa Foundation in fiscal 2018 which did not recur fiscal 2019, offset by higher gains on our equity investments and interest income on our cash and investments. See Note 6—Fair Value Measurements and Investments to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+Effective Income Tax Rate
+
+------------------------- -------------------------------- - ------ -- ---- ----------- - ----------- -- -- --- --
+
+ For the Years EndedSeptember 30, Change
+ 2019 2018 2017 2019vs.2018 2018vs.2017
+Effective income tax rate 19 % 20 % 43 % (1 )% (23 )%
+
+The effective tax rate in fiscal 2019 differs from the effective tax rate in fiscal 2018 primarily due to:
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• a decrease in federal statutory tax rate as a result of the Tax Act, from a blended rate of 24.5% in fiscal 2018 to a rate of 21% in fiscal 2019, as discussed below;
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• new provisions enacted as part of the Tax Act, including the deduction for foreign-derived intangible income (“FDII”) and tax on global intangible low-tax income (“GILTI”); and
+
+- -----------------------------------------------------------
+• the absence of the following items recorded in fiscal 2018:
+
+- ------------------------------------------------------------------------------------------------------------------
+▪ a $1.1 billion one-time transition tax expense on certain untaxed foreign earnings in accordance with the Tax Act;
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+▪ a $1.1 billion non-recurring, non-cash benefit from the remeasurement of deferred tax balances due to the reduction in U.S. federal tax rate enacted by the Tax Act; and
+
+- ----------------------------------------------------------------------------
+▪ $161 million of tax benefits due to various non-recurring audit settlements.
+
+The Tax Act, enacted on December 22, 2017, transitioned the U.S. tax system to a territorial system and lowered the statutory federal corporate income tax rate from 35% to 21%. The reduction of the statutory federal corporate tax rate to 21% became effective on January 1, 2018. In fiscal 2018, our statutory federal corporate tax rate was a blended rate of 24.5%, which was reduced to 21% in fiscal 2019. The Tax Act enacted several new tax provisions effective for us on October 1, 2018, most notably FDII and GILTI.
+
+ 42
+
+Table of Contents
+
+Liquidity and Capital Resources
+Management of Our Liquidity
+We regularly evaluate cash requirements for current operations, commitments, development activities and capital expenditures, and we may elect to raise additional funds for these purposes in the future through the issuance of either debt or equity. Our treasury policies provide management with the guidelines and authority to manage liquidity risk in a manner consistent with our corporate objectives.
+The objectives of our treasury policies are to:
+
+- -----------------------------------------------------------------------------------------------
+• provide adequate liquidity to cover operating expenditures and liquidity contingency scenarios;
+
+- -----------------------------------------------------------
+• ensure timely completion of payments settlement activities;
+
+- ---------------------------------------------------
+• ensure payments on required litigation settlements;
+
+- -------------------------------------------------
+• make planned capital investments in our business;
+
+- ----------------------------------------------------------------------------------------
+• pay dividends and repurchase our shares at the discretion of our board of directors; and
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+• invest excess cash in securities that enable us to first meet our working capital and liquidity needs, and earn additional income.
+
+Based on our current cash flow budgets and forecasts of our short-term and long-term liquidity needs, we believe that our projected sources of liquidity will be sufficient to meet our projected liquidity needs for more than the next 12 months. We will continue to assess our liquidity position and potential sources of supplemental liquidity in view of our operating performance, current economic and capital market conditions and other relevant circumstances.
+Cash Flow Data
+The following table summarizes our cash flow activity for the fiscal years presented:
+
+---------------------------------------------------------------------------------------------- -------------------------------- ------ ---- ------- ---- ------ ------ - - -----
+
+ For the Years EndedSeptember 30,
+ 2019 2018 2017
+ (in millions)
+Total cash provided by (used in):
+Operating activities $ 12,784 $ 12,941 $ 9,317
+Investing activities (591 ) (3,084 ) 735
+Financing activities (12,061 ) (10,790 ) (5,924 )
+Effect of exchange rate changes on cash and cash equivalents (277 ) (101 ) 236
+Increase (decrease) in cash, cash equivalents, restricted cash and restricted cash equivalents $ (145 ) $ (1,034 ) $ 4,364
+
+Operating activities. Cash provided by operating activities in fiscal 2019 was positively impacted by continued growth in our underlying business. Fiscal 2019 was lower than the prior fiscal year primarily due to higher payments in the current year from the litigation escrow account and the first installment payment of the transition tax in connection with the Tax Act, partially offset by continued growth in our underlying business.
+Investing activities. Cash used in investing activities in fiscal 2019 was lower than the prior year due to higher proceeds from sales and maturities of investment securities, combined with fewer purchases, partially offset by $0.7 billion of purchase consideration paid for acquisitions, net of cash and restricted cash acquired, and $0.5 billion of purchases of other investments.
+Financing activities. Cash used in financing activities in fiscal 2019 increased primarily due to higher class A common stock repurchases, higher dividends paid and a $1.2 billion payment of the deferred purchase consideration related to the Visa Europe acquisition. See Note 14—Stockholders’ Equity, to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+ 43
+
+Table of Contents
+
+Sources of Liquidity
+Our primary sources of liquidity are cash on hand, cash flow from our operations, our investment portfolio and access to various equity and borrowing arrangements. Funds from operations are maintained in cash and cash equivalents and short-term or long-term available-for-sale investment securities based upon our funding requirements, access to liquidity from these holdings and the return that these holdings provide. We believe that cash flow generated from operations, in conjunction with access to our other sources of liquidity, will be more than sufficient to meet our ongoing operational needs.
+Foreign Earnings. Pursuant to the Tax Act, we are required to pay U.S. tax on most of the undistributed and untaxed foreign earnings of non-U.S. subsidiaries accumulated as of December 31, 2017. The transition tax will be paid over a period of eight years as permitted by the Tax Act. As a result of the Tax Act, we are no longer subject to incremental U.S. federal tax on foreign earnings of non-U.S. subsidiaries in the event that we repatriate these earnings back to the U.S.
+Available-for-sale debt securities. Our investment portfolio is designed to invest cash in securities which enables us to meet our working capital and liquidity needs. Our investment portfolio consists of debt securities issued by the U.S. Treasury or U.S. government-sponsored agencies. The majority of these investments, $4.1 billion, are classified as current and are available to meet short-term liquidity needs. The remaining non-current investments have stated maturities of more than one year from the balance sheet date; however, they are also generally available to meet short-term liquidity needs.
+Factors that may impact the liquidity of our investment portfolio include, but are not limited to, changes to credit ratings of the securities, uncertainty related to regulatory developments, actions by central banks and other monetary authorities and the ongoing strength and quality of credit markets. We will continue to review our portfolio in light of evolving market and economic conditions. However, if current market conditions deteriorate, the liquidity of our investment portfolio may be impacted and we could determine that some of our investments are impaired, which could adversely impact our financial results. We have policies that limit the amount of credit exposure to any one financial institution or type of investment.
+Commercial paper program. We maintain a commercial paper program to support our working capital requirements and for other general corporate purposes. Under the program, we are authorized to issue up to $3.0 billion in outstanding notes, with maturities up to 397 days from the date of issuance. We had no outstanding obligations under the program at September 30, 2019. See Note 9—Debt to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+Credit facility. We have an unsecured $5.0 billion revolving credit facility (the “Credit Facility”) which expires on July 25, 2024. There were no borrowings under the Credit Facility as of September 30, 2019. See Note 9—Debt to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+Universal shelf registration statement. In July 2018, we filed a registration statement with the SEC using a shelf registration process. As permitted by the registration statement, we may, from time to time, sell shares of debt or equity securities in one or more transactions. This registration statement expires in July 2021.
+U.S. Litigation escrow account. Pursuant to the terms of the U.S. retrospective responsibility plan, we maintain a U.S. litigation escrow account from which monetary liabilities from settlements of, or judgments in, the U.S. covered litigation will be payable. When we fund the U.S. litigation escrow account, the shares of class B common stock held by our stockholders are subject to dilution through an adjustment to the conversion rate of the shares of class B common stock to shares of class A common stock. In September 2019, we deposited $300 million into the U.S. litigation escrow account to address claims associated with the interchange multidistrict litigation. See Note 5—U.S. and Europe Retrospective Responsibility Plans and Note 20—Legal Matters to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report. The balance in this account at September 30, 2019, was $1.2 billion and is reflected as restricted cash equivalents in our consolidated balance sheets. As these funds are restricted for the sole purpose of making payments related to the U.S. covered litigation matters, as described below under Uses of Liquidity, we do not rely on them for other operational needs.
+
+ 44
+
+Table of Contents
+
+Credit Ratings
+At September 30, 2019, our credit ratings by Standard and Poor’s and Moody’s were as follows:
+
+------------------------- ------------------- ------- ------ -------
+
+ Standard and Poor’s Moody’s
+Debt type Rating Outlook Rating Outlook
+Short-term unsecured debt A-1+ Stable P-1 Stable
+Long-term unsecured debt AA- Stable Aa3 Stable
+
+Various factors affect our credit ratings, including changes in our operating performance, the economic environment, conditions in the electronic payment industry, our financial position and changes in our business strategy. We do not currently foresee any reasonable circumstances under which our credit ratings would be significantly downgraded. If a downgrade were to occur, it could adversely impact, among other things, our future borrowing costs and access to capital markets.
+Uses of Liquidity
+Payments settlement. Payments settlement due to and from our financial institution clients can represent a substantial daily liquidity requirement. Most U.S. dollar settlements are settled within the same day and do not result in a net receivable or payable balance, while settlements in currencies other than the U.S. dollar generally remain outstanding for one to two business days, which is consistent with industry practice for such transactions. In general, during fiscal 2019, we were not required to fund settlement-related working capital. Our average daily net settlement position was a net payable of $574 million. We hold approximately $7.5 billion of available liquidity globally as of September 30, 2019, in the form of cash, cash equivalents and available-for-sale investment securities, to fund daily settlement in the event one or more of our financial institution clients are unable to settle.
+U.S. covered litigation. We are parties to legal and regulatory proceedings with respect to a variety of matters, including certain litigation that we refer to as the U.S. covered litigation. As noted above, monetary liabilities from settlements of, or judgments in, the U.S. covered litigation are payable from the U.S. litigation escrow account. In September 2018, Visa and other defendants entered into an Amended Settlement Agreement with plaintiffs in the interchange multidistrict litigation purporting to represent a class of plaintiffs seeking monetary damages, which superseded and amended the 2012 Settlement Agreement. On November 7, 2019, the district court held a hearing on whether to approve the Amended Settlement Agreement. We expect a decision by the district court in the first half of calendar year 2020. If approved, the final settlement amount would be approximately $5.5 billion. Our share represents approximately $3.6 billion, which would be satisfied through funds previously deposited with the court. No additional funds are required for this class settlement. Under the Amended Settlement Agreement, defendants are entitled to receive takedown payments of up to 25% of the original cash payments made into the settlement fund, based on the percentage of payment card sales volume attributable to merchants who have chosen to opt out of the settlement class. Visa’s portion of the maximum takedown payments, which we expect to receive and is calculated to be $467 million, would be returned to our U.S. litigation escrow account. This will increase our taxable income, thereby increasing our taxes paid.
+During September 2019, we deposited $300 million into the U.S. litigation escrow account to address individual claims for members who have chosen to opt out of the Amended Settlement Agreement. At September 30, 2019, the U.S. litigation escrow account had an available balance of $1.2 billion. The funds in the U.S. litigation escrow account as well as the $467 million takedown payments that we expect to be returned will be available for settlement with these opt-out merchants. Under the terms of the U.S. retrospective responsibility plan, when we make a deposit into the litigation escrow account, the shares of class B common stock are subject to dilution through a reduction to the conversion rate of the shares of class B common stock to shares of class A common stock. The U.S. retrospective responsibility plan was created to insulate Visa and our class A common shareholders from financial liability for certain litigation cases. See Note 5—U.S. and Europe Retrospective Responsibility Plans and Note 20—Legal Matters to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+Other litigation. Judgments in and settlements of litigation, other than the U.S. covered litigation, including VE territory covered litigation or other fines imposed in investigations and proceeding, could give rise to future liquidity needs.
+
+ 45
+
+Table of Contents
+
+Reduction in as-converted shares. During fiscal 2019, share repurchases and escrow deposits reduced as-converted class A common stock by 58 million at an average price of $154.62 per share. Of the 58 million shares, 56 million were repurchased in the open market using $8.6 billion of cash on hand. Additionally, we deposited $300 million of operating cash into the U.S. litigation escrow account previously established under the U.S. retrospective responsibility plan. The deposit has the same economic effect on earnings per share as repurchasing our class A common stock because it reduces the class B conversion rate and consequently the as-converted class A common stock share count. See Note 5—U.S. and Europe Retrospective Responsibility Plans and Note 14—Stockholders’ Equity to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+In January 2019, our board of directors authorized a share repurchase program for $8.5 billion. This authorization has no expiration date. As of September 30, 2019, we had remaining authorized funds of $4.1 billion. All share repurchase programs authorized prior to January 2019 have been completed. See Note 14—Stockholders’ Equity to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+Dividends. During fiscal 2019, we declared and paid $2.3 billion in dividends. On October 22, 2019, our board of directors declared a quarterly cash dividend of $0.30 per share of class A common stock (determined in the case of class B and C common stock and series B and C preferred stock on an as-converted basis). We expect to pay approximately $673 million in connection with this dividend on December 3, 2019. See Note 14—Stockholders’ Equity to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report. We expect to continue paying quarterly dividends in cash, subject to approval by the board of directors. All preferred and class B and C common stock will share ratably on an as-converted basis in such future dividends.
+Pension and other postretirement benefits. We sponsor various qualified and non-qualified defined benefit pension and other postretirement benefit plans that provide for retirement and medical benefits for substantially all employees residing in the U.S. As a result of the acquisition of Visa Europe, we assumed the obligations related to Visa Europe’s defined benefit plan, primarily consisting of the UK pension plans. Our policy with respect to our U.S. qualified pension plan is to contribute annually in September of each year, an amount not less than the minimum required under the Employee Retirement Income Security Act. Our U.S. non-qualified pension and other postretirement benefit plans are funded on a current basis. In relation to the Visa Europe UK pension plans, our funding policy is to contribute in accordance with the appropriate funding requirements agreed with the trustees of our UK pension plans. Additional amounts may be agreed with the UK pension plan trustees. In fiscal 2019, we made contributions to our U.S. pension and other postretirement benefit plans of $3 million. For Visa Europe’s UK pension plans, we made contributions of $10 million in fiscal 2019, subsequent to the acquisition date as agreed upon with the trustees to improve the funding level of the plans. In fiscal 2020, given current projections and assumptions, we anticipate funding our U.S. pension and other postretirement benefit plans and Visa Europe’s UK defined benefit pension plans by approximately $3 million and $10 million, respectively. The actual contribution amount will vary depending upon the funded status of the pension plan, movements in the discount rate, performance of the plan assets and related tax consequences. See Note 10—Pension and Other Postretirement Benefits to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+Capital expenditures. Our capital expenditures increased during fiscal 2019, due to investments in technology, infrastructure and growth initiatives. We expect to continue investing in technology assets and payments system infrastructure to support our digital solutions and core business initiatives.
+Acquisitions. In fiscal 2019, we acquired businesses using $0.7 billion of cash on hand, primarily reflecting total purchase price less cash and restricted cash received. These acquisitions will help Visa’s clients and merchant partners accelerate digital commerce. In connection with our purchase of Visa Europe in June 2016, we were required to pay an additional €1.0 billion, plus 4% compound annual interest, on the third anniversary of the closing of the Visa Europe acquisition. In June 2019, we paid €1.1 billion in fulfillment of this obligation. See Note 2—Acquisitions and Note 8—Intangible Assets and Goodwill to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+ 46
+
+Table of Contents
+
+Derivative Financial Instruments
+In fiscal 2019, we entered into interest rate and cross-currency swap agreements on a portion of our outstanding 3.15% Senior Notes due December 2025 that allow us to manage our interest rate exposure through a combination of fixed and floating rates and reduce our overall cost of borrowing. Together these swap agreements effectively convert a portion of our U.S. dollar denominated fixed-rate payments into euro denominated floating-rate payments. See Note 6—Fair Value Measurements and Investments and Note 12—Derivative and Non-derivative Financial Instruments to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+Fair Value Measurements—Financial Instruments
+The assessment of fair value of our financial instruments is based on a fair value hierarchy that requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. Observable inputs are obtained from independent sources and can be validated by a third party, whereas unobservable inputs reflect assumptions regarding what a third party would use in pricing an asset or liability. As of September 30, 2019, our financial instruments measured at fair value on a recurring basis included approximately $13.5 billion of assets and $0.2 billion of liabilities. None of these instruments were valued using significant unobservable inputs. See Note 6—Fair Value Measurements and Investments to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+Off-Balance Sheet Arrangements
+Our off-balance sheet arrangements are primarily comprised of guarantees and indemnifications. Visa has no off-balance sheet arrangements, other than lease and purchase order commitments, as discussed and reflected in our contractual obligations table below.
+Indemnifications
+We indemnify our financial institution clients for settlement losses suffered due to the failure of any other client to fund its settlement obligations in accordance with our rules. The amount of the indemnification is limited to the amount of unsettled Visa payment transactions at any point in time. We maintain global credit settlement risk policies and procedures to manage settlement risk, which may require clients to post collateral if certain credit standards are not met. See Note 1—Summary of Significant Accounting Policies and Note 11—Settlement Guarantee Management to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+In the ordinary course of business, we enter into contractual arrangements with financial institutions and other clients and partners under which we may agree to indemnify the client for certain types of losses incurred relating to the services we provide or otherwise relating to our performance under the applicable agreement.
+
+ 47
+
+Table of Contents
+
+Contractual Obligations
+Our contractual commitments will have an impact on our future liquidity. The contractual obligations identified in the table below include both on- and off-balance sheet transactions that represent a material, expected or contractually committed future obligation as of September 30, 2019. We believe that we will be able to fund these obligations through cash generated from our operations and available credit facilities.
+
+----------------------- ---------------------- ----- -------- --- -------- ----- ---------------- ----- ----- ----- ------ - ------
+
+ Payments Due by Period
+ Less than1 Year 1-3Years 3-5Years More than5 Years Total
+ (in millions)
+Long-term debt(1) $ 537 $ 4,975 $ 3,056 $ 15,332 $ 23,900
+Purchase obligations(2) 1,598 782 406 857 3,643
+Leases(3) 143 227 178 250 798
+Transition tax(4) — 164 243 474 881
+Dividends(5) 673 — — — 673
+Total(6),(7),(8) $ 2,951 $ 6,148 $ 3,883 $ 16,913 $ 29,895
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Amounts presented include payments for both interest and principal. Also see Note 9—Debt to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Represents agreements to purchase goods and services that specify significant terms, including: fixed or minimum quantities to be purchased, minimum or variable price provisions, and the approximate timing of the transaction. For obligations where the individual years of spend are not specified in the contract, we have estimated the timing of when these amounts will be spent.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------
+(3) Includes operating leases for premises, equipment and software licenses, which range in terms from less than one year to twenty-six years.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Amounts presented relate to the estimated transition tax, net of foreign tax credit carryovers, on certain foreign earnings of non-U.S. subsidiaries. See Note 19—Income Taxes to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(5) Includes expected dividend amount of $673 million as dividends were declared on October 22, 2019 and will be paid on December 3, 2019 to all holders of record of Visa’s common stock as of November 15, 2019.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(6) We have liabilities for uncertain tax positions of $1.7 billion as of September 30, 2019. At September 30, 2019, we had also accrued $165 million of interest and $26 million of penalties associated with our uncertain tax positions. We cannot determine the range of cash payments that will be made and the timing of the cash settlements, if any, associated with our uncertain tax positions. Therefore, no amounts related to these obligations have been included in the table.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(7) We evaluate the need to make contributions to our pension plan after considering the funded status of the pension plan, movements in the discount rate, performance of the plan assets and related tax consequences. Expected contributions to our pension plan have not been included in the table as such amounts are dependent upon the considerations discussed above, and may result in a wide range of amounts. See Note 10—Pension and Other Postretirement Benefits to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report and the Liquidity and Capital Resources section of this Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(8) Future cash payments for long-term contracts with financial institution clients and other business partners are not included in the table as the amounts are unknowable due to the inherent unpredictability of payment and transaction volume. These agreements, which range in terms from one to fifteen years, can provide card issuance and/or conversion support, volume/growth targets or marketing and program support based on specific performance requirements. As of September 30, 2019, we have $4.1 billion of client incentives liability recorded on the consolidated balance sheet related to these arrangements.
+
+Critical Accounting Estimates
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States of America which require us to make judgments, assumptions and estimates that affect the amounts reported. See Note 1—Summary of Significant Accounting Policies to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report. We have established policies and control procedures which seek to ensure that estimates and assumptions are appropriately governed and applied consistently from period to period. However, actual results could differ from our assumptions and estimates, and such differences could be material.
+We believe that the following accounting estimates are the most critical to fully understand and evaluate our reported financial results, as they require our most subjective or complex management judgments, resulting from the need to make estimates about the effect of matters that are inherently uncertain and unpredictable.
+
+ 48
+
+Table of Contents
+
+Revenue Recognition—Client Incentives
+Critical estimates. We enter into long-term incentive agreements with financial institution clients, merchants and other business partners for various programs designed to increase revenue by growing payments volume, increasing Visa product acceptance, winning merchant routing transactions over to our network and driving innovation. These incentives are primarily accounted for as reductions to net revenues; however, if a separate identifiable benefit at fair value can be established, they are accounted for as operating expenses. Incentives are recognized systematically and rationally based on management’s estimate of each client’s performance. These estimates are regularly reviewed and adjusted as appropriate based on changes in performance expectations, actual client performance, amendments to existing contracts or the execution of new contracts.
+Assumptions and judgment. Estimation of client incentives relies on forecasts of payments and transaction volume, card issuance and card conversion. Performance is estimated using client-reported information, transactional information accumulated from our systems, historical information, market and economic conditions and discussions with our clients, merchants and business partners.
+Impact if actual results differ from assumptions. If actual performance is not consistent with our estimates, client incentives may be materially different than initially recorded. Increases in incentive payments are generally driven by increased payments and transaction volume, which drive our net revenues. As a result, in the event incentive payments exceed estimates, such payments are not expected to have a material effect on our financial condition, results of operations or cash flows. The cumulative impact of a revision in estimates is recorded in the period such revisions become probable and estimable. For the year ended September 30, 2019, client incentives represented 21% of gross revenues.
+Legal and Regulatory Matters
+Critical estimates. We are currently involved in various legal proceedings, the outcomes of which are not within our complete control or may not be known for prolonged periods of time. Management is required to assess the probability of loss and estimate the amount of such loss, if any, in preparing our financial statements.
+Assumptions and judgment. We evaluate the likelihood of a potential loss from legal or regulatory proceedings to which we are a party. We record a liability for such claims when a loss is deemed probable and the amount can be reasonably estimated. Significant judgment may be required in the determination of both probability and whether a potential loss is reasonably estimable. Our judgments are subjective based on management’s understanding of the litigation profile, the specifics of each case, our history with similar proceedings, advice of in-house and outside legal counsel to the extent appropriate and management’s best estimate of incurred loss. As additional information becomes available, we reassess the potential loss related to pending claims and may revise our estimates.
+We have entered into loss sharing agreements that reduce our potential liability under certain litigation. However, our U.S. retrospective responsibility plan only addresses monetary liabilities from settlements of, or final judgments in, the U.S. covered litigation. The plan’s mechanisms include the use of the U.S. litigation escrow account. The accrual related to the U.S. covered litigation could be either higher or lower than the U.S. litigation escrow account balance. Our Europe retrospective responsibility plan only covers Visa Europe territory covered litigation (and resultant liabilities and losses) relating to the covered period, subject to certain limitations, and does not cover any fines or penalties incurred in the European Commission proceedings or any other matter. See Note 5—U.S. and Europe Retrospective Responsibility Plans and Note 20—Legal Matters to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data.
+Impact if actual results differ from assumptions. Due to the inherent uncertainties of the legal and regulatory processes in the multiple jurisdictions in which we operate, our judgments may be materially different than the actual outcomes, which could have material adverse effects on our business, financial conditions and results of operations. See Note 20—Legal Matters to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data.
+Income Taxes
+Critical estimates. In calculating our effective income tax rate, we make judgments regarding certain tax positions, including the timing and amount of deductions and allocations of income among various tax jurisdictions.
+
+ 49
+
+Table of Contents
+
+Assumptions and judgment. We have various tax filing positions with regard to the timing and amount of deductions and credits, the establishment of liabilities for uncertain tax positions and the allocation of income among various tax jurisdictions. We are also required to inventory, evaluate and measure all uncertain tax positions taken or to be taken on tax returns and to record liabilities for the amount of such positions that may not be sustained, or may only be partially sustained, upon examination by the relevant taxing authorities.
+Impact if actual results differ from assumptions. Although we believe that our estimates and judgments are reasonable, actual results may differ from these estimates. Some or all of these judgments are subject to review by the taxing authorities. If one or more of the taxing authorities were to successfully challenge our right to realize some or all of the tax benefit we have recorded, and we were unable to realize this benefit, it could have a material adverse effect on our financial results and cash flows.
+
+-------- ----------------------------------------------------------
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 5]:
+(5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision (benefit) for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distor...
+
+[See Note 19]:
+Note 19. Pension Plans and Postretirement Benefits U.S. Pension Plans Pursuant to the agreement to sell one of our former subsidiaries, WilTel Communications Group, LLC, ("WilTel") the responsibility for WilTel's defined benefit pension plan was retained by us. All benefits under this plan were frozen as of October 30, 2005. Prior to the acquisition of Jefferies Group, Jefferies Group sponsored a defined benefit pension plan covering certain employees; benefits under that plan were frozen as of December 31, 2005. A summary of activity with respect to both plans is as follows (in thousands): ----------------------------------------------- ------------------------------------- ------- ------------------------------------- ------ - ------- - Eleven Months Ended November 30, 2018 Twelve Months Ended December 31, 2017 Change in projected benefit obligation: Projected benefit obligation, beginning of year $ 211,257 $ 205,405 Interest cost 6,783 8,119 Actuarial (gains) losses (16,646 ) 6,644 Settlement payments (3,133 ) -- Benefits paid (7,000 ) (8,911 ) Projected benefit obligation, end of year $ 191,261 $ 211,257 Change in plan assets: Fair value of plan assets, beginning of year $ 150,806 $ 127,514 Actual return on plan assets (7,676 ) 22,192 Employer contributions 8,890 12,417 Benefits paid (7,000 ) (8,911 ) Settlement payments (3,133 ) -- Administrative expenses (2,895 ) (2,406 ) Fair value of plan assets, end of year $ 138,992 $ 150,806 Funded status at end of year $ (52,269 ) $ (60,451 ) As of November 30, 2018 and December 31, 2017, $49.7 million and $51.3 million, respectively, of the net amount recognized in the Consolidated Statements of Financial Condition was reflected as a charge to Accumulated other comprehensive income (substantially all of which were cumulative losses) and $52.3 million and $60.5 million, respectively, was reflected as accrued pension cost. F-71 The following table summarizes the components of net periodic pension cost and other amounts reco...
+
+[See Note 19]:
+Note 19. Pension benefit pension plan was retained by us. All benefits under this plan were frozen as of October 30, 2005. Prior to the acquisition of Jefferies Group, Jefferies Group sponsored a defined benefit pension obligation: Projected benefit obligation, beginning of year $ 211,257 $ 205,405 Interest cost 6,783 8,119 Actuarial (gains) losses (16,646 ) 6,644 Settlement payments (3,133 ) -- Benefits paid (7,000 as accrued pension cost. F-71 The following table summarizes the components of net periodic pension cost and other amounts reco...
+
+[See Note 19]:
+Note 19. Pension Plans and Postretirement Benefits U.S. Pension Plans Pursuant to the agreement to sell one of our former subsidiaries, WilTel Communications Group, LLC, ("WilTel") the responsibility for WilTel's defined benefit pension plan was retained by us. All benefits under this plan were frozen as of October 30, 2005. Prior to the acquisition of Jefferies Group, Jefferies Group sponsored a defined benefit pension plan covering certain employees; benefits under that plan were frozen as of December 31, 2005. A summary of activity with respect to both plans is as follows (in thousands): ----------------------------------------------- ------------------------------------- beginning of year $ 211,257 $ 205,405 Interest cost 6,783 8,119 Actuarial (gains) losses (16,646 ) 6,644 Settlement payments (3,133 ) -- Benefits paid (7,000 ) (8,911 ) Projected benefit obligation, end of year $ 191,261 $ 211,257 Change in plan assets: Fair value of plan assets, beginning of year $ 150,806 $ 127,514 Actual return on plan assets (7,676 ) 22,192 Employer contributions 8,890 12,417 Benefits paid (7,000 ) (8,911 ) Settlement payments (3,133 ) -- Administrative expenses (2,895 ) (2,406 ) Fair value of plan assets, end of year $ 138,992 $ 150,806 Funded status at end of year $ (52,269 ) $ (60,451 ) As of November 30, 2018 and December 31, 2017, $49.7 million and $51.3 million, respectively, of the net amount recognized in the Consolidated Statements of Financial Condition was reflected as a charge to Accumulated other comprehensive income (substantially all of which were cumulative losses) and $52.3 million and $60.5 million, respectively, was reflected as accrued pension cost. F-71 The following table summarizes the components of net periodic pension cost and other amounts reco...
+
+[See Note 5]:
+(5) This reflects a reduction growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distor...
+
+[See Note 5]:
+(5) This reflects a reduction (6) As discussed in note 6 to our consolidated financial statements, this primarily growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distor...
+
+[See Note 14]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud offerings. - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Other Bets - Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes businesses such as Access, Calico, CapitalG, GV, Verily, Waymo, and X. Revenues from the Other Bets are derived primarily through the sales of internet and TV services through Access as well as licensing and R&D services through Verily. 80 ----------------- ------------- Alphabet Inc...
+
+[See Note 5]:
+(5) This reflects growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distor...
+
+[See Note 9]:
+Note 9. Commitments and Contingencies Commitments Leases We have entered into various non-cancelable operating lease agreements for certain of our offices, data centers, land, and colocations with original lease periods expiring between 2019 and 2093. We are committed to pay a portion of the related actual operating expenses under certain of these lease agreements. Certain of these arrangements have free rent periods or escalating rent payment provisions, and we recognize rent expense under such arrangements on a straight-line basis. The following is a schedule, by years, of the future minimum lease payments required under non-cancelable operating leases as of December 31, 2018 (in millions): ---------------------------- ---------------- ------ Operating Leases 2019 $ 698 2020 946 2021 1,055 2022 1,048 2023 1,054 Thereafter 9,850 Total minimum lease payments $ 14,651 Operating lease expense was $629 million, $363 million, and $269 million for the years ended December 31, 2018, 2017 and 2016, respectively. We fully repaid all our capital lease obligations during 2016. Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $6.17 billion of non-cancelable contractual commitments as of December 31, 2018, primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Contingencies Lega...
+
+[See Note 6]:
+ growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and adjusted EBITDA help investors gain an understanding of the factors and trends affecting our ongoing cash earnings, from which capital investments are made and debt is serviced. However, EBITDA and adjusted EBITDA are not measures of financial performan...
+
+[See Note 14]:
+Note 14. Information about * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also Alphabet Inc...
+
+[See Note 9]:
+Note 9. Commitments and Contingencies Commitments Leases We have entered into various non-cancelable operating lease agreements for certain of our offices, data centers, land, and colocations December 31, 2018, primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Contingencies Lega...
+
+[See Note 9]:
+Note 9. Commitments and Contingencies Commitments Leases We have entered into various non-cancelable operating lease agreements for certain of our offices, data centers, land, and colocations lease payments required under non-cancelable operating leases as of December 31, 2018 (in millions): ---------------------------- ---------------- ------ Operating Leases 2019 $ 698 2020 946 2021 1,055 2022 1,048 2023 1,054 Thereafter 9,850 Total minimum lease payments $ 14,651 Operating lease expense was $629 million, $363 million, and $269 million for the years ended December 31, 2018, 2017 and 2016, respectively. We fully repaid all our capital lease obligations during 2016. Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $6.17 billion of non-cancelable contractual commitments as of December 31, 2018, primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Contingencies Lega...
+
+[See Note 5]:
+(5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distor...
+
+[See Note 5]:
+(5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distor...
+
+[See Note 5]:
+(5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distor...
+
+[See Note 14]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also Alphabet Inc...
+
+[See Note 14]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also Alphabet Inc...
+
+[See Note 10]:
+Note 10. Stockholders' Equity Common Stock Our certificate of incorporation authorizes the issuance of Class A common stock and Class B common stock. As of December 31, 2018, we are authorized to issue 5,000 million shares of Class A common stock and 4,141 million shares of Class B common stock, each with a par value of $0.000006 per share. Holders of our Class A common stock and Class B common stock are entitled to dividends when, as and if, declared by our board of directors, subject to the rights of the holders of all classes of stock outstanding having priority rights to dividends. As of December 31, 2018, we have not declared any dividends and our credit facility contains restrictions on our ability to pay dividends. The holder of each share of Class A common stock is entitled to one vote, while the holder of each share of Class B common stock is entitled to ten votes. Shares of our Class B common stock are convertible into an equivalent number of shares of our Class A common stock and generally convert into shares of our Class A common stock upon 78 transfer. Class A common stock and Class B common stock are referred to as common stock throughout the notes to these financial statements, unless otherwise noted. As of December 31, 2018, there were 2,385 million shares and 469 million shares of Class A common stock and Class B common stock, respectively, issued and outstanding. Share Repurchase Program Our board of directors has authorized a share repurchase program that commenced in 2017 and does not have an expiration date. During the second quarter of 2018, we completed repurchases under the original authorization to purchase up to $6.0 billion of our Class A common stock. In April 2018, the authorization for the repurchase of our Class A common stock was increased by an additional $9.0 billion, and we completed repurchases under this authorization during the fourth quarter of 2018. During the year ended December 31, 2018, we repurchased and subsequently retir...
+
+[See Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20 ------- -----------------------
+
+[See Note 6]:
+(6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and EBITDA are not measures of financial performan...
+
+[See Note 6]:
+(6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that and adjusted EBITDA are not measures of financial performan...
+
+[See Note 1]:
+(1) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. As discussed above, we completed the acquisitions of NES and Neff in April 2017 and October 2017, respectively. Estimated market share as of December 31, 2017 includes the standalone, pre-acquisition revenues of NES and Neff. Estimated market share as of December 31, 2017 does not include BakerCorp and BlueLine because we had not acquired them as of December 31, 2017. If the standalone, pre-acquisition revenues of BakerCorp and BlueLine were included for the year ended December 31, 2017, estimated market share as of December 31, 2017 would have been 12.9 percent. Strategy 2 For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2019, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------...
+
+[see Note 9]:
+Note 9. Commitments and Contingencies Commitments Leases We have entered into various non-cancelable operating lease agreements for certain of our offices, data centers, land, and colocations with original lease periods expiring between 2019 and 2093. We are committed to pay a portion of the related actual operating expenses under certain of these lease agreements. Certain of these arrangements have free rent periods or escalating rent payment provisions, and we recognize rent expense under such arrangements on a straight-line basis. The following is a schedule, by years, of the future minimum lease payments required under non-cancelable operating leases as of December 31, 2018 (in millions): ---------------------------- ---------------- ------ Operating Leases 2019 $ 698 2020 946 2021 1,055 2022 1,048 2023 1,054 Thereafter 9,850 Total minimum lease payments $ 14,651 Operating lease expense was $629 million, $363 million, and $269 million for the years ended December 31, 2018, 2017 and 2016, respectively. We fully repaid all our capital lease obligations during 2016. Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $6.17 billion of non-cancelable contractual commitments as of December 31, 2018, primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Contingencies Lega...
+
+[See Note 19]:
+Note 19. Pension Plans and Postretirement Benefits U.S. Pension Plans Pursuant to the agreement to sell one of our former subsidiaries, WilTel Communications Group, LLC, ("WilTel") the responsibility for WilTel's defined benefit pension plan was retained by us. All benefits under this plan were frozen as of October 30, 2005. Prior to the acquisition of Jefferies Group, Jefferies Group sponsored a defined benefit pension plan covering certain employees; benefits under that plan were frozen as of December 31, 2005. A summary of activity with respect to both plans is as follows (in thousands): ----------------------------------------------- ------------------------------------- ------- ------------------------------------- ------ - ------- - Eleven Months Ended November 30, 2018 Twelve Months Ended December 31, 2017 Change in projected benefit obligation: Projected benefit obligation, beginning of year $ 211,257 $ 205,405 Interest cost 6,783 8,119 Actuarial (gains) losses (16,646 ) 6,644 Settlement payments (3,133 ) -- Benefits paid (7,000 ) (8,911 ) Projected benefit obligation, end of year $ 191,261 $ 211,257 Change in plan assets: Fair value of plan assets, beginning of year $ 150,806 $ 127,514 Actual return on plan assets (7,676 ) 22,192 Employer contributions 8,890 12,417 Benefits paid (7,000 ) (8,911 ) Settlement payments (3,133 ) -- Administrative expenses (2,895 ) (2,406 ) Fair value of plan assets, end of year $ 138,992 $ 150,806 Funded status at end of year $ (52,269 ) $ (60,451 ) As of November 30, 2018 and December 31, 2017, $49.7 million and $51.3 million, respectively, of the net amount recognized in the Consolidated Statements of Financial Condition was reflected as a charge to Accumulated other comprehensive income (substantially all of which were cumulative losses) and $52.3 million and $60.5 million, respectively, was reflected as accrued pension cost. F-71 The following table summarizes the components of net periodic pension cost and other amounts reco...
+
+[See Note 10]:
+Note 10. Stockholders' Equity Common Stock Our certificate of incorporation authorizes the issuance of Class A common stock and Class B common stock. As of December 31, 2018, we are authorized to issue 5,000 million shares of Class A common stock and 4,141 million shares of Class B common stock, each with a par value of $0.000006 per share. Holders of our Class A common stock and Class B common stock are entitled to dividends when, as and if, declared by our board of directors, subject to the rights of the holders of all classes of stock outstanding having priority rights to dividends. As of December 31, 2018, we have not declared any dividends and our credit facility contains restrictions on our ability to pay dividends. The holder of each share of Class A common stock is entitled to one vote, while the holder of each share of Class B common stock is entitled to ten votes. Shares of our Class B common stock are convertible into an equivalent number of shares of our Class A common stock and generally convert into shares of our Class A common stock upon 78 transfer. Class A common stock and Class B common stock are referred to as common stock throughout the notes to these financial statements, unless otherwise noted. As of December 31, 2018, there were 2,385 million shares and 469 million shares of Class A common stock and Class B common stock, respectively, issued and outstanding. Share Repurchase Program Our board of directors has authorized a share repurchase program that commenced in 2017 and does not have an expiration date. During the second quarter of 2018, we completed repurchases under the original authorization to purchase up to $6.0 billion of our Class A common stock. In April 2018, the authorization for the repurchase of our Class A common stock was increased by an additional $9.0 billion, and we completed repurchases under this authorization during the fourth quarter of 2018. During the year ended December 31, 2018, we repurchased and subsequently retir...
+
+[See Note 1]:
+(1) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. As discussed above, we completed the acquisitions of NES and Neff in April 2017 and October 2017, respectively. Estimated market share as of December 31, 2017 includes the standalone, pre-acquisition revenues of NES and Neff. Estimated market share as of December 31, 2017 does not include BakerCorp and BlueLine because we had not acquired them as of December 31, 2017. If the standalone, pre-acquisition revenues of BakerCorp and BlueLine were included for the year ended December 31, 2017, estimated market share as of December 31, 2017 would have been 12.9 percent. Strategy 2 For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2019, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------...
+
+[See Note 5]:
+(5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision (benefit) for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distor...
+
+[See Note 20]:
+Note 20. Stockholders' Equity and Noncontrolling Interests 87
+
+[refer to Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 19
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 19
+
+[Exhibit 99.1 ]:
+[Reference to Exhibit 99.1]

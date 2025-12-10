@@ -1,0 +1,1829 @@
+================================================================================
+CIK: 0000315293
+Company Name: Aon plc
+Filing Date: 2023-02-17
+Form Type: 10-K
+Extraction Date: 2025-09-03 10:43:01
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.In November 2022, Aon incurred a non-cash pension settlement charge of $170 million in connection with the purchase of an annuity for portions of its U.S. pension plans. Aon has separately classified the non-cash pension settlement charge within Other, net on the Consolidated Statement of Cash Flows as an adjustment to reconcile Net income to Cash provided by operating activities for the period ended December 31, 2022. Prior year comparable balances have been reclassified to conform with current year presentation. For the years ended December 31, 2021 and 2020, Aon incurred insignificant non-cash pension settlement charges of $5 million and $2 million, respectively, which were presented as changes in assets and liabilities held within Pension, other postretirement and other postemployment liabilities in the Consolidated Statements of Cash Flows. See Note 11 “Employee Benefits” for further information regarding the non-cash settlement charges incurred.In prior periods, Cash paid for employee taxes on withholding shares were included with Proceeds from issuance of shares, and presented as Issuance of shares for employee benefit plans in the Consolidated Statements of Cash Flows. These items are now presented separately and prior year balances have been reclassified to conform to current year presentation. For the year ended December 31, 2021 and December 31, 2020, Proceeds from issuance of shares was $55 million and $44 million, respectively, and Cash paid for employee taxes on withholding shares was $185 million and $193 million, respectively.
+
+X
+---------------------------------------------------- -----------------------------------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_OrganizationConsolidationAndPresentationOfFinancialStatementsAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------
+- DefinitionThe entire disclosure for organization, consolidation and basis of presentation of financial statements disclosure. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 205 -URI https://asc.fasb.org/topic&trid=2122149Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 810 -URI https://asc.fasb.org/topic&trid=2197479 + Details Name: us-gaap_OrganizationConsolidationAndPresentationOfFinancialStatementsDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+28
+R11.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Summary of Significant Accounting Principles and Practices 12 Months Ended
+---------------------------------------------------------- ---------------------------------------------------------------------
+Dec. 31, 2022
+Accounting Policies [Abstract]
+Summary of Significant Accounting Principles and Practices
+Asset Description Estimated Useful Life
+Software Lesser of the life of an associated license, or 4 to 7 years
+Leasehold improvements Lesser of estimated useful life or lease term, not to exceed 10 years
+Furniture, fixtures and equipment 4 to 10 years
+Computer equipment 4 to 6 years
+Buildings 35 years
+Automobiles 6 years
+
+Goodwill and Intangible Assets
+Goodwill represents the excess of purchase price over the fair value of the net assets acquired in the acquisition of a business. Goodwill is allocated to applicable reporting units. Upon disposition of a business entity, goodwill is allocated to the disposed entity based on the relative fair value of that entity compared to the fair value of the reporting unit in which it was included. Goodwill is not amortized, but instead is tested for impairment at least annually. The goodwill impairment test is performed at the reporting unit level. The Company may initially perform a qualitative analysis to determine if it is more likely than not that the goodwill balance is impaired. If a qualitative assessment is not performed or if a determination is made that it is not more likely than not that the value of the reporting unit exceeds its carrying amount, then the Company will perform a quantitative analysis. If the fair value of a reporting unit is determined to be greater than the carrying value of the reporting unit, goodwill is deemed not to be impaired and no further testing is necessary. If the fair value of a reporting unit is less than the carrying value, a goodwill impairment loss is recognized for the amount that the carrying amount of a reporting unit, including goodwill, exceeds its fair value limited to the total amount of the goodwill allocated to the reporting unit. Any resulting difference will be a charge to Amortization and impairment of intangible assets in the Consolidated Statements of Income in the period in which the determination is made. Fair value is determined using a combination of present value techniques and market prices of comparable businesses.
+We classify our intangible assets acquired as either customer-related and contract based, technology, tradenames, or other intangibles. Amortization basis and estimated useful lives by intangible asset type are generally as follows:
+
+Intangible Asset Description Amortization Basis Estimated Useful Life
+----------------------------------- ---------------------------------- ---------------------
+Customer-related and contract-based In line with underlying cash flows 7 to 20 years
+Technology and other Straight-line 5 to 7 years
+Tradenames Straight-line 1 to 3 years
+
+Derivatives
+Derivative instruments are recognized in the Consolidated Statements of Financial Position at fair value. Where the Company has entered into master netting agreements with counterparties, the derivative positions are netted by counterparties and are reported accordingly in other assets or other liabilities. Changes in the fair value of derivative instruments are recognized in earnings each period, unless the derivative is designated and qualifies as a cash flow or net investment hedge.
+The Company has historically designated the following hedging relationships for certain transactions: (1) a hedge of the change in fair value of a recognized asset or liability or firm commitment (“fair value hedge”), (2) a hedge of the variability in cash flows from a recognized variable-rate asset or liability or forecasted transaction (“cash flow hedge”), and (3) a hedge of the net investment in a foreign operation (“net investment hedge”).
+In order for a derivative to qualify for hedge accounting, the derivative must be formally designated as a fair value, cash flow, or a net investment hedge by documenting the relationship between the derivative and the hedged item. The documentation must include a description of the hedging instrument, the hedged item, the risk being hedged, Aon’s risk management objective and strategy for undertaking the hedge, and the method for assessing the effectiveness of the hedge. Additionally, the hedge relationship must be expected to be highly effective at offsetting changes in either the fair value or cash flows of the hedged item at both the inception of the hedge and on an ongoing basis. Aon assesses the ongoing effectiveness of its hedges quarterly or more frequently if facts and circumstances require.
+For a derivative designated as a fair value hedging instrument, the gain or loss is recognized in earnings in the period of change together with the offsetting loss or gain on the hedged item attributable to the risk being hedged. The effect is to reflect in earnings the extent to which the hedge is not effective in achieving offsetting changes in fair value. For a cash flow hedge that qualifies for hedge accounting, the change in fair value of a hedging instrument is recognized in Accumulated Other Comprehensive Income and subsequently reclassified to earnings in the same period the hedged item impacts earnings. For a net investment hedge, the change in fair value of the hedging instrument is recognized in Accumulate Other Comprehensive Income as part of the cumulative translation adjustment.
+Changes in the fair value of a derivative that is not designated as part of a hedging relationship (commonly referred to as an “economic hedge”) are recorded in Other income in the Consolidated Statements of Income in the period of change.
+The Company discontinues hedge accounting prospectively when (1) the derivative expires or is sold, terminated, or exercised, (2) the qualifying criteria are no longer met, or (3) management removes the designation of the hedging relationship.
+Foreign Currency
+Certain of the Company’s non-U.S. operations use their respective local currency as their functional currency. These operations that do not have the U.S. dollar as their functional currency translate their financial statements at the current rates of exchange in effect at the balance sheet date and revenues and expenses using rates that approximate those in effect during the period. The resulting translation adjustments are included in Net foreign currency translation adjustments within the Consolidated Statements of Shareholders’ Equity. Further, gains and losses from the remeasurement of monetary assets and liabilities that are denominated in a non-functional currency of that entity are included in Other income (expense) within the Consolidated Statements of Income.
+Income Taxes
+Deferred income taxes are recognized for the effect of temporary differences between financial reporting and tax basis of assets and liabilities and are measured using the enacted marginal tax rates and laws that are currently in effect. The effect on deferred tax assets and liabilities from a change in tax rates is recognized in the period when the rate change is enacted.
+Deferred tax assets are reduced by valuation allowances if, based on the consideration of all available evidence, it is more likely than not that some portion of the deferred tax asset will not be realized. Deferred tax assets are realized by having sufficient future taxable income to allow the related tax benefits to reduce taxes otherwise payable. The sources of taxable income that may be available to realize the benefit of deferred tax assets are future reversals of existing taxable temporary differences,
+future taxable income exclusive of reversing temporary differences and carry-forwards, taxable income in carry-back years, and tax planning strategies that are both prudent and feasible.
+The Company recognizes the effect of income tax positions only if sustaining those positions is more likely than not. Tax positions that meet the more likely than not recognition threshold but are not highly certain are initially and subsequently measured based on the largest amount of benefit that is greater than 50% likely of being realized upon settlement with the taxing authority. Only information that is available at the reporting date is considered in the Company’s recognition and measurement analysis, and events or changes in facts and circumstances are accounted for in the period in which the event or change in circumstance occurs.
+The Company records penalties and interest related to unrecognized tax benefits in Income taxes in the Company’s Consolidated Statements of Income.
+The Company releases income tax effects from Accumulated other comprehensive loss using the portfolio approach.
+Leases
+The Company leases office facilities, equipment, and automobiles under operating and finance leases. The Company’s lease obligations are primarily for the use of office facilities. The Company evaluates if a leasing arrangement exists upon inception of a contract. A contract contains a lease if the contract conveys the right to control the use of identified tangible assets for a period of time in exchange for consideration. Identified property, plant, or equipment may include a physically distinct portion of a larger asset, or a portion of an asset that represents substantially all of the capacity of the asset but is not physically distinct. The Company assesses whether a contract implicitly contains the right to control the use of a tangible asset that is not already owned. In addition, the Company subleases certain real estate properties to third parties, which are classified as operating leases.
+The Company’s leases expire at various dates and may contain renewal, expansion or termination options. The exercise of lease renewal and expansion options are typically at the Company’s sole discretion and are only included in the determination of the lease term if the Company is reasonably certain to exercise the option. In addition, the Company’s lease agreements typically do not contain any material residual value guarantees or restrictive covenants.
+ROU assets and lease liabilities are based on the present value of the minimum lease payments over the lease term. The Company has elected the practical expedient related to lease and non-lease components, as an accounting policy election for all asset classes, which allows a lessee to not separate non-lease components from lease components and instead account for consideration received in a contract as a single lease component. The Company’s lease agreements may include initial direct costs and lease incentives. Initial direct costs are incremental costs of a lease that would not have been incurred if the lease had not been obtained and are included in the measurement of the ROU asset. Payments made to or on behalf of the Company, such as tenant improvement allowances, represent incentives that are considered reductions to the ROU asset and lease expense over the lease term.
+The Company made a policy election to not recognize ROU assets and lease liabilities that arise from leases with an initial term of twelve months or less in the Consolidated Statements of Financial Position. However, the Company recognized these lease payments in the Consolidated Statements of Income on a straight-line basis over the lease term and variable lease payments in the period in which the expense was incurred. The Company applies this accounting policy across all classes of underlying assets.
+A portion of the Company’s lease agreements include variable lease payments that are not recorded in the initial measurement of the lease liability and ROU asset balances. For real estate arrangements, base rental payments may be escalated according to annual changes in the CPI or other indices. The escalated rental payments based on the estimated CPI at the lease commencement date are included within minimum rental payments; however, changes in CPI are considered variable in nature and are recognized as variable lease costs in the period in which the obligation is incurred. Additionally, real estate lease agreements may include other variable payments related to operating expenses charged by the landlord based on actual expenditures. Information technology equipment agreements may include variable payments based on usage of the equipment. These expenses are also recognized as variable lease costs in the period in which the expense is incurred.
+The Company utilizes discount rates to determine the present value of the lease payments based on information available at the commencement date of the lease. As the rate implicit in each lease is not typically readily available, the Company uses an incremental borrowing rate based on factors such as the lease term and the economic environment where the lease exists to determine the appropriate present value of future lease payments. When determining the incremental borrowing rate, the Company considers the rate of interest it would pay on a secured borrowing in an amount equal to the lease payments for the underlying asset under similar terms.
+Operating leases are included in Operating lease ROU assets, Other current liabilities, and Non-current operating lease liabilities in the Consolidated Statements of Financial Position. Finance leases are included in Other non-current assets, Other current liabilities, and Other non-current liabilities in the Consolidated Statements of Financial Position.
+Principles of Consolidation
+The accompanying Consolidated Financial Statements include the accounts of Aon plc and those entities in which the Company has a controlling financial interest. To determine if Aon holds a controlling financial interest in an entity, the Company first evaluates if it is required to apply the variable interest model to the entity, otherwise, the entity is evaluated under the voting interest model. When Aon holds rights that give it the power to direct the activities of a VIE that most significantly impact the VIE’s economic performance, combined with a variable interest that gives the right to receive potentially significant benefits or the obligation to absorb potentially significant losses, the Company has a controlling financial interest in that VIE. The Company does not hold a controlling financial interest over any VIEs that significantly impacts the VIE’s economic performance and the Company does not have rights to any significant benefits or obligations to absorb potentially significant losses. Thus, the Company does not consolidate any VIEs and Aon’s interest in VIEs as of December 31, 2022 was insignificant.
+Aon holds a controlling financial interest in entities that are not VIEs when it, directly or indirectly holds more than 50% of the voting rights and the noncontrolling interest holders do not hold substantive participating rights.
+New Accounting Pronouncements
+All issued, but not yet effective, guidance has been deemed not applicable or not significant to the Consolidated Financial Statements.
+
+X
+---------------------------------------------------- ----------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_AccountingPoliciesAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------
+- DefinitionThe entire disclosure for all significant accounting policies of the reporting entity. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 1 -URI https://asc.fasb.org/extlink&oid=126899994&loc=d3e18726-107790Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -URI https://asc.fasb.org/topic&trid=2122369 + Details Name: us-gaap_SignificantAccountingPoliciesTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+29
+R12.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Revenue from Contracts with Customers 12 Months Ended
+---------------------------------------------- --------------- ------ ----- ------ - ------
+Dec. 31, 2022
+Revenue from Contract with Customer [Abstract]
+Revenue from Contracts with Customers
+Years Ended December 31
+ 2022 2021 2020
+Commercial Risk Solutions $ 6,715 $ 6,635 $ 5,861
+Reinsurance Solutions 2,190 1,997 1,814
+Health Solutions 2,224 2,154 2,067
+Wealth Solutions 1,367 1,426 1,341
+Elimination (17) (19) (17)
+Total revenue $ 12,479 $ 12,193 $ 11,066
+
+Consolidated revenue from contracts with customers by geographic area, which is attributed on the basis of where the services are performed, is as follows (in millions):
+
+Years Ended December 31
+--------------------------------------------------------- ----- ------ ----- ------ - ------
+ 2022 2021 2020
+U.S. $ 5,666 $ 5,459 $ 5,032
+Americas other than U.S. 1,137 1,027 911
+U.K. 1,660 1,681 1,579
+Ireland 99 127 84
+Europe, Middle East, & Africa other than U.K. and Ireland 2,443 2,565 2,236
+Asia Pacific 1,474 1,334 1,224
+Total revenue $ 12,479 $ 12,193 $ 11,066
+
+Contract Costs
+Changes in the net carrying amount of costs to fulfill contracts with customers are as follows (in millions):
+
+ 2022 2021
+-------------------------------------- ------- ------- - ---
+Balance at beginning of period $ 361 $ 339
+Additions 1,479 1,504
+Amortization (1,480) (1,478)
+Impairment — —
+Foreign currency translation and other (5) (4)
+Balance at end of period $ 355 $ 361
+
+Changes in the net carrying amount of costs to obtain contracts with customers are as follows (in millions):
+
+ 2022 2021
+-------------------------------------- ---- ---- - ---
+Balance at beginning of period $ 179 $ 184
+Additions 56 59
+Amortization (49) (48)
+Impairment — —
+Foreign currency translation and other (1) (16)
+Balance at end of period $ 185 $ 179
+
+X
+---------------------------------------------------- -----------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_RevenueFromContractWithCustomerAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
+- DefinitionThe entire disclosure of revenue from contract with customer to transfer good or service and to transfer nonfinancial asset. Includes, but is not limited to, disaggregation of revenue, credit loss recognized from contract with customer, judgment and change in judgment related to contract with customer, and asset recognized from cost incurred to obtain or fulfill contract with customer. Excludes insurance and lease contracts. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -URI https://asc.fasb.org/topic&trid=49130388Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 10 -URI https://asc.fasb.org/extlink&oid=126920106&loc=SL49130551-203045Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 13 -Subparagraph (b)(2) -URI https://asc.fasb.org/extlink&oid=126920106&loc=SL49130556-203045Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 12 -Subparagraph (b) -URI https://asc.fasb.org/extlink&oid=126920106&loc=SL49130554-203045Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 9 -URI https://asc.fasb.org/extlink&oid=126920106&loc=SL49130550-203045Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 12 -Subparagraph (e) -URI https://asc.fasb.org/extlink&oid=126920106&loc=SL49130554-203045Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 12 -Subparagraph (a) -URI https://asc.fasb.org/extlink&oid=126920106&loc=SL49130554-203045Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 12 -Subparagraph (d) -URI https://asc.fasb.org/extlink&oid=126920106&loc=SL49130554-203045Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 15 -URI https://asc.fasb.org/extlink&oid=126920106&loc=SL49130558-203045Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 12 -Subparagraph (c) -URI https://asc.fasb.org/extlink&oid=126920106&loc=SL49130554-203045 + Details Name: us-gaap_RevenueFromContractWithCustomerTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+30
+R13.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Other Financial Data 12 Months Ended
+------------------------------------ --------------- ----- ---- --- - --
+Dec. 31, 2022
+Other Financial Data [Abstract]
+Other Financial Data
+Years Ended December 31
+ 2022 2021 2020
+Pension and other postretirement (1) $ (179) $ 21 $ 13
+Foreign currency remeasurement (14) 26 (12)
+Extinguishment of debt — — (7)
+Financial instruments and other 4 (45) (10)
+Equity earnings 10 8 4
+Gain from disposals of business 54 142 25
+Total $ (125) $ 152 $ 13
+
+(1) Refer to Note 11 “Employee Benefits” for further information.
+Consolidated Statements of Financial Position Information
+Allowance for Doubtful Accounts
+Changes in the net carrying amount of allowance for doubtful accounts are as follows (in millions):
+
+ 2022 2021 2020
+--------------------------------------- ---- ---- --- -- - --
+Balance at beginning of period $ 90 $ 98 $ 77
+Provision 8 26 29
+Accounts written off, net of recoveries (18) (37) (6)
+Foreign currency translation and other (4) 3 (2)
+Balance at end of period $ 76 $ 90 $ 98
+
+Other Current Assets
+The components of Other current assets are as follows (in millions):
+
+As of December 31 2022 2021
+--------------------------------------------- ---- ---- - ---
+Costs to fulfill contracts with customers (1) $ 355 $ 361
+Prepaid expenses 109 137
+Taxes receivable 74 53
+Other 108 165
+Total $ 646 $ 716
+
+(1)Refer to Note 3 “Revenue from Contracts with Customers” for further information.
+Fixed Assets, net
+The components of Fixed assets, net are as follows (in millions):
+
+As of December 31 2022 2021
+---------------------------------- ----- ----- - ---
+Software $ 861 $ 797
+Leasehold improvements 409 425
+Computer equipment 269 268
+Furniture, fixtures, and equipment 267 279
+Construction in progress 109 45
+Other 34 33
+Fixed assets, gross 1,949 1,847
+Less: Accumulated depreciation 1,391 1,318
+Fixed assets, net $ 558 $ 529
+
+Depreciation expense, which includes software amortization, was $151 million, $179 million, and $167 million for the years ended December 31, 2022, 2021, and 2020, respectively.
+Other Non-current Assets
+The components of Other non-current assets are as follows (in millions):
+
+As of December 31 2022 2021
+-------------------------------------------- ---- ---- - ---
+Costs to obtain contracts with customers (1) $ 185 $ 179
+Taxes receivable 109 95
+Investments 60 64
+Leases (2) 43 63
+Other 112 111
+Total $ 509 $ 512
+
+(1)    Refer to Note 3 “Revenue from Contracts with Customers” for further information.
+(2) Refer to Note 8 “Lease Commitments” for further information.
+Other Current Liabilities
+The components of Other current liabilities are as follows (in millions):
+
+As of December 31 2022 2021
+-------------------- ---- ----- - -----
+Deferred revenue (1) $ 250 $ 321
+Taxes payable 193 149
+Leases (2) 186 213
+Other 718 648
+Total $ 1,347 $ 1,331
+
+(1)$653 million and $553 million was recognized in the Consolidated Statements of Income during the years ended December 31, 2022 and December 31, 2021, respectively.
+(2)Refer to Note 8 “Lease Commitments” for further information.
+Other Non-current Liabilities
+The components of Other non-current liabilities are as follows (in millions):
+
+As of December 31 2022 2021
+------------------------- ---- ----- - ---
+Taxes payable (1) $ 795 $ 609
+Compensation and benefits 69 58
+Deferred revenue 37 70
+Leases (2) 28 46
+Other 95 127
+Total $ 1,024 $ 910
+
+(1)Includes $129 million and $145 million for the non-current portion of the transition tax as of December 31, 2022 and December 31, 2021, respectively. Refer to Note 9 “Income Taxes” for further information on the transition tax.
+(2)Refer to Note 8 “Lease Commitments” for further information.
+
+X
+------------------------------------------------------------------------------------------------ ------------------------------
+- DefinitionOther Financial Data [Abstract] + ReferencesNo definition available. + Details Name: aon_OtherFinancialDataAbstract
+Namespace Prefix: aon_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ---------------------------------------------------------
+- DefinitionThe entire disclosures of supplemental information, including descriptions and amounts, related to the balance sheet, income statement, and/or cash flow statement. + ReferencesNo definition available. + Details Name: us-gaap_AdditionalFinancialInformationDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+31
+R14.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Acquisitions and Dispositions of Businesses 12 Months Ended
+----------------------------------------------------- --------------- ---
+Dec. 31, 2022
+Business Combination and Asset Acquisition [Abstract]
+Acquisitions and Dispositions of Businesses
+Year EndedDecember 31, 2022
+Consideration transferred
+Cash $ 161
+Deferred and contingent consideration 9
+Aggregate consideration transferred $ 170
+Assets acquired
+Goodwill $ 87
+Intangible assets 78
+Other assets (1) 25
+Total assets acquired 190
+Liabilities assumed
+Total liabilities assumed 20
+Net assets acquired $ 170
+
+(1)     Includes Cash and cash equivalents of $2 million and funds held on behalf of clients of an insignificant amount.
+Intangible assets acquired include technology as well as customer-related and contract-based assets. The intangible assets acquired as part of business acquisitions in 2022 had a weighted average useful economic life of 9 years. Acquisition related costs for completed acquisitions incurred and recognized within Other general expense for the year ended December 31, 2022 were insignificant. Total revenue for these acquisitions included in the Company’s Consolidated Statement of Income for the year ended December 31, 2022 was approximately $25 million.
+The results of operations of these acquisitions are included in the Consolidated Financial Statements as of the respective acquisition dates. The Company’s results of operations would not have been materially different if these acquisitions had been reported from the beginning of the period in which they were acquired.
+2022 Acquisitions
+On November 1, 2022, the Company completed the acquisition of 100% of the share capital of E.R.N. Evaluacion de Riesgos Naturales y Antropogenicos, S.A. de C.V., a Mexico-based firm in risk assessment modeling.
+On September 12, 2022, the Company completed the purchase of certain assets of Praxiom Risk Management, a provider of professional risk management in the U.S.
+On August 1, 2022, the Company completed the purchase of certain assets of U.S. Advisors, Inc., a broker based in the U.S.
+On May 3, 2022, the Company completed the acquisition of 100% of the share capital of Karl Köllner group companies, a marine hull broker based in Germany.
+On March 1, 2022, the Company completed the acquisition of Tyche, an actuarial software platform based in the U.K.
+2021 Acquisitions
+On December 22, 2021, the Company completed the transaction to acquire 100% share capital of For Welfare S.r.l, a company focused on bancassurance programs in Italy.
+On September 1, 2021, the Company completed the transaction to acquire 51% of Aon India Insurance Brokers Limited (formerly known as Anviti Insurance Brokers Private Limited). Prior to the acquisition date, the Company accounted for its 49% interest in Anviti as an equity-method investment. The acquisition-date fair value of the previous equity interest was $15 million and is included in the measurement of consideration transferred. There was no significant impact as a result of remeasuring the carrying value of the Company’s prior equity interest in Anviti held before the business combination.
+Completed Dispositions
+The Company completed three dispositions during the year ended December 31, 2022. The Company completed six dispositions during the year ended December 31, 2021 and one disposition during the year ended December 31, 2020.
+The pretax gains recognized related to dispositions were $54 million, $142 million, and $25 million for the years ended December 31, 2022, December 31, 2021 and December 31, 2020, respectively. Gains recognized as a result of a disposition are included in Other income in the Consolidated Statements of Income. The pretax losses recognized in the Consolidated Statements of Income related to dispositions were insignificant for the years ended December 31, 2022, December 31, 2021, and December 31, 2020, respectively.
+
+X
+---------------------------------------------------- ------------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_BusinessCombinationAndAssetAcquisitionAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------
+- DefinitionThe entire disclosure for business combinations, including leverage buyout transactions (as applicable), and divestitures. This may include a description of a business combination or divestiture (or series of individually immaterial business combinations or divestitures) completed during the period, including background, timing, and assets and liabilities recognized and reclassified or sold. This element does not include fixed asset sales and plant closings. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 205 -SubTopic 20 -URI https://asc.fasb.org/subtopic&trid=2122178Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 805 -URI https://asc.fasb.org/topic&trid=2303972 + Details Name: us-gaap_MergersAcquisitionsAndDispositionsDisclosuresTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+32
+R15.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Goodwill and Other Intangible Assets 12 Months Ended
+---------------------------------------------------- --------------- -----
+Dec. 31, 2022
+Goodwill and Intangible Assets Disclosure [Abstract]
+Goodwill and Other Intangible Assets
+Balance as of January 1, 2021 $ 8,666
+Goodwill related to current year acquisitions 17
+Goodwill related to current year disposals (37)
+Foreign currency translation and other (212)
+Balance as of December 31, 2021 $ 8,434
+Goodwill related to current year acquisitions 87
+Goodwill related to current year disposals (11)
+Foreign currency translation and other (218)
+Balance as of December 31, 2022 $ 8,292
+
+Other intangible assets by asset class are as follows (in millions):
+
+As of December 31 2022 2021
+----------------------------------- ------------------- --------------------------------------- ----------------- ------------------- --------------------------------------- ----------------- - ----- - ----- - ---
+ GrossCarryingAmount Accumulated Amortization and Impairment NetCarryingAmount GrossCarryingAmount Accumulated Amortization and Impairment NetCarryingAmount
+Customer-related and contract-based $ 2,207 $ 1,833 $ 374 $ 2,289 $ 1,848 $ 441
+Technology and other 436 363 73 407 357 50
+Tradenames 14 14 — 14 13 1
+Total $ 2,657 $ 2,210 $ 447 $ 2,710 $ 2,218 $ 492
+
+Amortization expense and impairment charges from finite lived intangible assets were $113 million, $147 million, and $246 million for the years ended December 31, 2022, 2021, and 2020, respectively.
+The estimated future amortization for finite-lived intangible assets as of December 31, 2022 is as follows (in millions):
+
+Estimated Future Amortization
+----------------------------- --- ---
+For the years ended
+ 2023 $ 99
+ 2024 82
+ 2025 68
+ 2026 47
+ 2027 34
+Thereafter 117
+Total $ 447
+
+X
+---------------------------------------------------- -----------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------
+- DefinitionThe entire disclosure for goodwill and intangible assets. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -URI https://asc.fasb.org/topic&trid=2144416 + Details Name: us-gaap_GoodwillAndIntangibleAssetsDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+33
+R16.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Debt 12 Months Ended
+----------------------------------------------------------- --------------- ----- - -----
+Dec. 31, 2022
+Debt Disclosure [Abstract]
+Debt
+As of December 31 2022 2021
+Commercial paper $ 592 $ 665
+2.20% Senior Notes due November 2022 (1) — 499
+4.00% Senior Notes due November 2023 (2) 350 349
+3.50% Senior Notes due June 2024 599 598
+3.875% Senior Notes due December 2025 748 748
+2.875% Senior Notes due May 2026 (EUR 500M) 530 563
+8.205% Junior Subordinated Notes due January 2027 521 521
+2.85% Senior Notes due May 2027 596 —
+4.50% Senior Notes due December 2028 348 347
+3.75% Senior Notes due May 2029 746 745
+2.80% Senior Notes due May 2030 994 993
+2.05% Senior Notes due August 2031 396 396
+2.60% Senior Notes due December 2031 496 496
+5.00% Senior Notes due September 2032 495 —
+6.25% Senior Notes due September 2040 297 296
+4.25% Senior Notes due December 2042 203 201
+4.45% Senior Notes due May 2043 247 247
+4.60% Senior Notes due June 2044 545 544
+4.75% Senior Notes due May 2045 594 593
+2.90% Senior Notes due August 2051 591 591
+3.90% Senior Notes due February 2052 877 —
+Other 5 —
+Total debt 10,770 9,392
+Less: Short-term debt and current portion of long-term debt 945 1,164
+Total long-term debt $ 9,825 $ 8,228
+
+(1)The 2.20% Senior Notes due November 2022 were repaid in full on November 1, 2022.
+(2)The 4.00% Senior Notes due November 2023 were reclassified as Short-term debt and current portion of long-term debt in the Consolidated Statement of Financial Position as of December 31, 2022.
+Notes
+In November 2022, Aon Global Limited’s $350 million 4.00% Senior Notes due November 2023 were classified as Short-term debt and current portion of long-term debt in the Consolidated Statement of Financial Position as the date of maturity is in less than one year as of December 31, 2022.
+In November 2022, Aon Corporation’s $500 million 2.20% Senior Notes matured and were repaid in full. In November 2021, the Company’s $500 million 2.20% Senior Notes due November 2022 were classified as Short-term debt and current portion of long-term debt in the Consolidated Statement of Financial Position as the date of maturity is in less than one year as of December 31, 2021.
+On September 12, 2022, Aon Corporation, a Delaware corporation, and Aon Global Holdings plc, a public limited company formed under the laws of England and Wales, both wholly owned subsidiaries of the Company, co-issued $500 million of 5.00% Senior Notes due September 2032. The Company intends to use the net proceeds from the offering for general corporate purposes.
+On February 28, 2022, Aon Corporation and Aon Global Holdings plc co-issued $600 million of 2.85% Senior Notes due May 2027 and $900 million of 3.90% Senior Notes due February 2052. The Company intends to use the net proceeds from the offering for general corporate purposes.
+On December 2, 2021, Aon Corporation and Aon Global Holdings plc co-issued $500 million aggregate principal amount of 2.60% Senior Notes set to mature on December 2, 2031. The Company intends to use the net proceeds of the offering for general corporate purposes.
+On August 23, 2021, Aon Corporation and Aon Global Holdings plc co-issued $400 million 2.05% Senior Notes due August 2031 and $600 million of 2.90% Senior Notes due August 2051. The Company intends to use the net proceeds of the offering for general corporate purposes.
+On January 13, 2021, Aon Global Limited issued an irrevocable notice of redemption to holders of its 2.80% Senior Notes for the redemption of all $400 million outstanding aggregate principal amount of the notes, which were set to mature in March 2021. The redemption date was on February 16, 2021 and resulted in an insignificant loss due to extinguishment.
+Each of the notes issued by Aon Corporation is fully and unconditionally guaranteed by Aon Global Limited, Aon plc, and Aon Global Holding plc. Each of the notes issued by Aon Global Limited is fully and unconditionally guaranteed by Aon plc, Aon Global Holdings plc, and Aon Corporation. Each of the notes co-issued by Aon Corporation and Aon Global Holdings plc is fully and unconditionally guaranteed by Aon plc and Aon Global Limited. All guarantees of Aon plc and Aon Global Limited of the Co-Issued Notes are joint and several as well as full and unconditional. Senior Notes rank pari passu in right of payment with all other present and future unsecured debt which is not expressed to be subordinate or junior in rank to any other unsecured debt of the Co-Issuers. Refer to “Guarantee of Registered Securities” within Part II Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations for further information regarding guarantees of outstanding debt securities. Each of the notes described and identified in the table above contains customary representations, warranties, and covenants, and the Company was in compliance with all such covenants as of December 31, 2022.
+Repayments of total debt as of December 31, 2022 are as follows (in millions):
+
+ 2023 $ 946
+-------------------------------------------------------- ------ ------
+ 2024 604
+ 2025 750
+ 2026 532
+ 2027 1,121
+Thereafter 6,956
+Total Repayments 10,909
+Unamortized discounts, premiums, and debt issuance costs (139)
+Total Debt $ 10,770
+
+Revolving Credit Facilities
+As of December 31, 2022, Aon plc had two primary committed credit facilities outstanding: its $1.0 billion multi-currency U.S. credit facility expiring in September 2026 and its $750 million multi-currency U.S. credit facility expiring in October 2024. In aggregate, these two facilities provide approximately $1.8 billion in available credit.
+Each of these primary committed credit facilities includes customary representations, warranties, and covenants, including financial covenants that require Aon to maintain specified ratios of adjusted consolidated EBITDA to consolidated interest expense and consolidated debt to adjusted consolidated EBITDA, in each case, tested quarterly. At December 31, 2022, Aon did not have borrowings under either of these primary committed credit facilities, and was in compliance with the financial covenants and all other covenants contained therein during the rolling year ended December 31, 2022.
+Commercial Paper
+Commercial paper may be issued in aggregate principal amounts of up to $1 billion under the U.S. Program and €625 million ($665 million at December 31, 2022 exchange rates) under the European Program, not to exceed the amount of the Company’s committed credit facilities, which was approximately $1.8 billion at December 31, 2022. The aggregate capacity of the Commercial Paper Program remains fully backed by the Company’s committed credit facilities. The U.S. Program was fully and unconditionally guaranteed by Aon plc, Aon Global Limited, and Aon Global Holdings plc and the European Program was fully and unconditionally guaranteed by Aon plc, Aon Global Limited, and Aon Corporation.
+Commercial paper outstanding, which is included in Short-term debt and current portion of long-term debt in the Company’s Consolidated Statements of Financial Position, is as follows (in millions):
+
+As of December 31 2022 2021
+---------------------------- ---- ---- - ---
+Commercial paper outstanding $ 592 $ 665
+
+The weighted average commercial paper outstanding and its related interest rates are as follows (in millions, except percentages):
+
+Years Ended December 31
+-------------------------------------------------------------- ---- --- ---- ---
+ 2022 2021
+Weighted average commercial paper outstanding $ 499 $ 273
+Weighted average interest rate of commercial paper outstanding 1.42 % 0.01 %
+
+X
+---------------------------------------------------- ------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_DebtDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------
+- DefinitionThe entire disclosure for information about short-term and long-term debt arrangements, which includes amounts of borrowings under each line of credit, note payable, commercial paper issue, bonds indenture, debenture issue, own-share lending arrangements and any other contractual agreement to repay funds, and about the underlying arrangements, rationale for a classification as long-term, including repayment terms, interest rates, collateral provided, restrictions on use of assets and activities, whether or not in compliance with debt covenants, and other matters important to users of the financial statements, such as the effects of refinancing and noncompliance with debt covenants. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -URI https://asc.fasb.org/topic&trid=2208564Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1B -Subparagraph (h) -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495323-112611Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1C -Subparagraph (c) -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495334-112611Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1I -Subparagraph (a) -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495371-112611Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1I -Subparagraph (d) -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495371-112611Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.4-08(c)) -URI https://asc.fasb.org/extlink&oid=120395691&loc=d3e23780-122690Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1B -Subparagraph (g) -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495323-112611Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1C -Subparagraph (b) -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495334-112611Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1C -Subparagraph (a) -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495334-112611Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1E -Subparagraph (b) -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495348-112611Reference 11: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1B -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495323-112611Reference 12: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1I -Subparagraph (b) -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495371-112611Reference 13: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1B -Subparagraph (i) -URI https://asc.fasb.org/extlink&oid=123466505&loc=SL123495323-112611 + Details Name: us-gaap_DebtDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+34
+R17.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Lease Commitments 12 Months Ended
+----------------------------- --------------------------------------- ---- --- ----- ---
+Dec. 31, 2022
+Leases [Abstract]
+Lease Commitments
+As of December 31 2022 2021
+Assets
+Operating lease assets Operating lease right-of-use assets $ 699 $ 786
+Finance lease assets Other non-current assets 43 63
+Total lease assets $ 742 $ 849
+Liabilities
+Current lease liabilities
+Operating Other current liabilities $ 163 $ 194
+Finance Other current liabilities 23 19
+Non-current lease liabilities
+Operating Non-current operating lease liabilities 693 772
+Finance Other non-current liabilities 28 46
+Total lease liabilities $ 907 $ 1,031
+
+The components of lease costs are as follows (in millions):
+
+Years Ended December 31
+----------------------------- ---- ---- - ---
+ 2022 2021
+Operating lease cost $ 204 $ 217
+Finance lease costs
+Amortization of leased assets 28 26
+Interest on lease liabilities 1 1
+Variable lease cost 38 49
+Short-term lease cost (1) 11 11
+Sublease income (29) (31)
+Net lease cost $ 253 $ 273
+
+(1) Short-term lease cost does not include expenses related to leases with a lease term of one month or less.
+Weighted average remaining lease term and discount rate related to operating and finance leases are as follows:
+
+As of December 31 2022 2021
+--------------------------------------------- ---- ---- --- -
+Weighted average remaining lease term (years)
+Operating leases 6.7 6.9
+Finance leases 2.5 3.6
+Weighted average discount rate
+Operating leases 3.1 % 2.8 %
+Finance leases 1.0 % 1.0 %
+
+Other cash and non-cash related activities are as follows (in millions):
+
+Years Ended December 31
+---------------------------------------------------------------------- ---- ---- - -----
+ 2022 2021
+Cash paid for amounts included in the measurement of lease liabilities
+Operating cash flows for operating leases $ 231 $ 244
+Financing cash flows for finance leases $ 14 $ 23
+Non-cash related activities
+ROU assets obtained in exchange for new operating lease liabilities $ 110 $ 44
+ROU assets obtained in exchange for new finance lease liabilities $ — $ —
+Operating lease ROU asset expense (1) $ 162 $ 142
+Changes in Non-current operating lease liabilities (1) $ (79) $ (125)
+
+(1)The Company has recorded non-cash changes in Operating lease ROU assets and Non-current operating lease liabilities through Other assets and liabilities in Cash flows from operations within the Consolidated Statements of Cash Flows.
+Maturity analysis of operating and finance leases as of December 31, 2022 are as follows (in millions):
+
+Operating Leases Finance Leases Total
+------------------------------------------------ -------------- ----- ---- -- - ---
+ 2023 $ 175 $ 23 $ 198
+ 2024 164 18 182
+ 2025 135 10 145
+ 2026 123 — 123
+ 2027 108 — 108
+Thereafter 235 — 235
+Total undiscounted future minimum lease payments 940 51 991
+Less: Imputed interest (84) — (84)
+Present value of lease liabilities $ 856 $ 51 $ 907
+
+Lease Commitments
+Lease Commitments
+The classification of operating and finance lease asset and liability balances within the Consolidated Statements of Financial Position are as follows (in millions):
+
+As of December 31 2022 2021
+----------------------------- --------------------------------------- ---- --- ----- ---
+Assets
+Operating lease assets Operating lease right-of-use assets $ 699 $ 786
+Finance lease assets Other non-current assets 43 63
+Total lease assets $ 742 $ 849
+Liabilities
+Current lease liabilities
+Operating Other current liabilities $ 163 $ 194
+Finance Other current liabilities 23 19
+Non-current lease liabilities
+Operating Non-current operating lease liabilities 693 772
+Finance Other non-current liabilities 28 46
+Total lease liabilities $ 907 $ 1,031
+
+The components of lease costs are as follows (in millions):
+
+Years Ended December 31
+----------------------------- ---- ---- - ---
+ 2022 2021
+Operating lease cost $ 204 $ 217
+Finance lease costs
+Amortization of leased assets 28 26
+Interest on lease liabilities 1 1
+Variable lease cost 38 49
+Short-term lease cost (1) 11 11
+Sublease income (29) (31)
+Net lease cost $ 253 $ 273
+
+(1) Short-term lease cost does not include expenses related to leases with a lease term of one month or less.
+Weighted average remaining lease term and discount rate related to operating and finance leases are as follows:
+
+As of December 31 2022 2021
+--------------------------------------------- ---- ---- --- -
+Weighted average remaining lease term (years)
+Operating leases 6.7 6.9
+Finance leases 2.5 3.6
+Weighted average discount rate
+Operating leases 3.1 % 2.8 %
+Finance leases 1.0 % 1.0 %
+
+Other cash and non-cash related activities are as follows (in millions):
+
+Years Ended December 31
+---------------------------------------------------------------------- ---- ---- - -----
+ 2022 2021
+Cash paid for amounts included in the measurement of lease liabilities
+Operating cash flows for operating leases $ 231 $ 244
+Financing cash flows for finance leases $ 14 $ 23
+Non-cash related activities
+ROU assets obtained in exchange for new operating lease liabilities $ 110 $ 44
+ROU assets obtained in exchange for new finance lease liabilities $ — $ —
+Operating lease ROU asset expense (1) $ 162 $ 142
+Changes in Non-current operating lease liabilities (1) $ (79) $ (125)
+
+(1)The Company has recorded non-cash changes in Operating lease ROU assets and Non-current operating lease liabilities through Other assets and liabilities in Cash flows from operations within the Consolidated Statements of Cash Flows.
+Maturity analysis of operating and finance leases as of December 31, 2022 are as follows (in millions):
+
+Operating Leases Finance Leases Total
+------------------------------------------------ -------------- ----- ---- -- - ---
+ 2023 $ 175 $ 23 $ 198
+ 2024 164 18 182
+ 2025 135 10 145
+ 2026 123 — 123
+ 2027 108 — 108
+Thereafter 235 — 235
+Total undiscounted future minimum lease payments 940 51 991
+Less: Imputed interest (84) — (84)
+Present value of lease liabilities $ 856 $ 51 $ 907
+
+X
+---------------------------------------------------- ----------------------
+- ReferencesNo definition available. + Details Name: us-gaap_LeasesAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
+- DefinitionThe entire disclosure for finance leases of lessee. Includes, but is not limited to, description of lessee's finance lease and maturity analysis of finance lease liability. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 842 -SubTopic 20 -URI https://asc.fasb.org/subtopic&trid=77888251 + Details Name: us-gaap_LesseeFinanceLeasesTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------
+- DefinitionThe entire disclosure for operating leases of lessee. Includes, but is not limited to, description of operating lease and maturity analysis of operating + Details Name: us-gaap_LesseeOperatingLeasesTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+35
+R18.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Income Taxes 12 Months Ended
+------------------------------------ --------------- ----- ----- ----- - -----
+Dec. 31, 2022
+Income Tax Disclosure [Abstract]
+Income Taxes
+Years Ended December 31
+ 2022 2021 2020
+Income (loss) before income taxes:
+Ireland $ 85 $ 15 $ (86)
+U.K. 502 549 634
+U.S. 161 (818) (28)
+Other 2,408 2,185 1,946
+Total $ 3,156 $ 1,931 $ 2,466
+Income tax expense:
+Current:
+Ireland $ 2 $ 2 $ 2
+U.K. 206 50 30
+U.S. federal 195 197 126
+U.S. state and local 43 72 22
+Other 316 291 259
+Total current tax expense $ 762 $ 612 $ 439
+Deferred tax expense (benefit):
+Ireland $ — $ (1) $ (1)
+U.K. (152) 131 39
+U.S. federal (69) (83) (72)
+U.S. state and local (21) (30) (4)
+Other (10) (6) 47
+Total deferred tax expense (benefit) $ (252) $ 11 $ 9
+Total income tax expense $ 510 $ 623 $ 448
+
+Income before income taxes shown above is based on the location of the business unit to which such earnings are attributable for tax purposes. In addition, because the earnings shown above may, in some cases, be subject to taxation in more than one country, the income tax provision shown above as Ireland, U.K., U.S. or Other may not correspond to the geographic attribution of the earnings.
+The Company performs a reconciliation of the income tax provisions based on its domicile and statutory rate at each reporting period. The reconciliation of the income tax provisions based on the Irish statutory corporate tax rate of 25% to the provisions reflected in the Consolidated Financial Statements is as follows:
+
+Years Ended December 31
+------------------------------------------------------------ ------ ------ -----
+ 2022 2021 2020
+Statutory tax rate 25.0% 25.0% 25.0%
+U.S. state income taxes, net of U.S. federal benefit 0.4 1.5 1.0
+Taxes on international operations (1) (2) (11.6) (15.4) (9.8)
+Nondeductible expenses 2.4 3.3 2.1
+Adjustments to prior year tax requirements (7.0) (0.2) —
+Deferred tax adjustments, including statutory rate changes (0.5) 3.2 0.7
+Deferred tax adjustments, international earnings 0.2 1.8 0.7
+Adjustments to valuation allowances 1.9 (0.2) —
+Change in uncertain tax positions 8.6 2.1 1.5
+Excess tax benefits related to shared based compensation (3) (1.5) (2.4) (2.2)
+Capital and other losses (1.4) — (1.8)
+Non-deductible transaction costs — 1.1 1.3
+Non-deductible termination fee — 12.9 —
+Other — net (0.3) (0.4) (0.3)
+Effective tax rate 16.2% 32.3% 18.2%
+
+(1)The Company determines the adjustment for taxes on international operations based on the difference between the statutory tax rate applicable to earnings in each foreign jurisdiction and the enacted rate of 25.0%, 25.0% and 25.0% at December 31, 2022, 2021, and 2020, respectively. The benefit to the Company’s effective income tax rate from taxes on international operations relates to benefits from lower-taxed global operations, primarily due to the use of global funding structures and the tax holiday in Singapore.
+(2)In July 2020, final U.S. tax regulations were issued regarding the GILTI high tax election, allowing taxpayers to exclude from GILTI the income of a Controlled Foreign Corporation that incurs a foreign tax rate more than 90% of the top U.S. corporate tax rate. A GILTI high tax election may be made on an annual basis, and taxpayers may choose to apply the election to taxable years beginning after December 31, 2017. The Company expects to make the GILTI high-tax election for 2022 and therefore recorded the impact of making the election.
+(3)Excess tax benefits and deficiencies from share-based payment transactions are recognized as income tax expense or benefit in the Company’s Consolidated Statements of Income.
+The Company has elected to account for GILTI in the period in which it is incurred, and therefore has not provided deferred tax impacts of GILTI in its Consolidated Financial Statements.
+The components of the Company’s deferred tax assets and liabilities are as follows (in millions):
+
+As of December 31 2022 2021
+------------------------------------------------------------------------ ----- ----- - -----
+Deferred tax assets:
+Net operating loss, capital loss, interest, and tax credit carryforwards $ 952 $ 581
+Lease liabilities 178 207
+Employee benefit plans 297 160
+Other accrued expenses 100 132
+Accrued interest — 97
+Federal and state benefit of interest from uncertain tax positions 57 45
+Deferred revenue 26 36
+Investment basis differences 30 25
+Lease and service guarantees 1 1
+Other 38 25
+Total 1,679 1,309
+Valuation allowance on deferred tax assets (275) (230)
+Total $ 1,404 $ 1,079
+Deferred tax liabilities:
+Intangibles and property, plant and equipment $ (258) $ (243)
+Lease right-of-use asset (151) (173)
+Deferred costs (147) (159)
+Unremitted earnings (38) (58)
+Other accrued expenses (20) (27)
+Unrealized foreign exchange gains (23) (22)
+Other (42) (32)
+Total $ (679) $ (714)
+Net deferred tax asset $ 725 $ 365
+
+Deferred income taxes (assets and liabilities have been netted by jurisdiction) have been classified in the Consolidated Statements of Financial Position as follows (in millions):
+
+As of December 31 2022 2021
+-------------------------------------- ---- ----- - ---
+Deferred tax assets — non-current $ 824 $ 766
+Deferred tax liabilities — non-current (99) (401)
+Net deferred tax asset $ 725 $ 365
+
+In assessing the realizability of deferred tax assets, the Company considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized and adjusts the valuation allowance accordingly. Considerations with respect to the realizability of deferred tax assets include the period of expiration of the deferred tax asset, historical earnings and projected future taxable income by jurisdiction as well as tax liabilities for the tax jurisdiction to which the tax asset relates. Significant management judgment is required in determining the assumptions and estimates related to the amount and timing of future taxable income. Valuation allowances have been established primarily with regard to the tax benefits of certain tax credits and net operating losses, capital losses, and interest carryforwards. Valuation allowances increased by $45 million as of December 31, 2022, when compared to December 31, 2021. The change is primarily attributable to an increase in valuation allowances related to net operating losses and foreign tax credits.
+The Company generally intends to limit distributions from foreign subsidiaries in excess of U.S. tax earnings and profits (except where distributions would be limited by available cash) and to limit repatriations from certain other jurisdictions that would otherwise generate a U.S. tax liability. As of December 31, 2022, the Company has accrued $38 million for local country income taxes, withholding taxes and state income taxes on those undistributed earnings that are not indefinitely reinvested. The Company has not provided for deferred taxes on outside basis differences in our investments in our foreign subsidiaries that are unrelated to these accumulated undistributed earnings, as these outside basis differences are indefinitely reinvested. A determination of the unrecognized deferred taxes related to these other components of our outside basis differences is not practicable.
+The Company had the following carryforwards (in millions):
+
+As of December 31 2022 2021
+---------------------------------------- ---- ----- - -----
+U.K.
+Operating loss carryforwards $ 608 $ 41
+Capital loss carryforwards $ 533 $ 573
+U.S.
+Federal operating loss carryforwards $ 1 $ 25
+Federal capital loss carryforwards $ 112 $ 112
+Federal interest carryforwards $ 2,269 $ 1,140
+Federal foreign tax credit carryforwards $ 20 $ 18
+State operating loss carryforwards $ 473 $ 398
+State capital loss carryforwards $ 123 $ 123
+State interest carryforwards $ 1,187 $ 551
+Other Non-U.S.
+Operating loss carryforwards $ 490 $ 301
+Capital loss carryforwards $ 8 $ 35
+Interest carryforwards $ 26 $ 26
+Other carryforwards $ 5 $ 5
+
+The U.K. operating losses and capital losses have an indefinite carryforward period. The federal operating loss carryforwards generated through December 31, 2017 expire at various dates between 2034 and 2036 while federal operating loss carryforwards generated after this date have indefinite carryforward periods. State net operating losses as of December 31, 2022 have various carryforward periods and will begin to expire in 2023. Federal and state capital losses can be carried forward until 2023. Federal and state interest carryforwards have indefinite carryforward periods. Foreign tax credits can be carried forward for ten years and will begin to expire in 2028. Operating, capital losses, and other carryforwards in other non-U.S. jurisdictions have various carryforward periods and will begin to expire in 2023. The interest carryforwards in other non-U.S. jurisdictions have an indefinite carryforward period.
+During 2012, the Company was granted a tax holiday for the period from October 1, 2012 through September 30, 2022, with respect to withholding taxes and certain income derived from services in Singapore. The Company has been granted a new incentive for the period October 1, 2022 to September 30, 2032. The new incentive provides for a reduced withholding tax rate and a reduced tax rate on certain income derived from services in Singapore, as long as certain conditions are met.
+The benefit realized was approximately $115 million, $104 million, and $97 million during the years ended December 31, 2022, 2021, and 2020, respectively. The impact of this tax holiday on diluted earnings per share was $0.54, $0.46, and $0.42 during the years ended December 31, 2022, 2021, and 2020, respectively.
+Uncertain Tax Positions
+The following is a reconciliation of the Company’s beginning and ending amount of uncertain tax positions (in millions):
+
+ 2022 2021
+------------------------------------------------------------ ---- ---- - ---
+Balance at January 1 $ 347 $ 321
+Additions based on tax positions related to the current year 35 33
+Additions for tax positions of prior years 226 7
+Reductions for tax positions of prior years (1) (4)
+Settlements (1) —
+Business combinations — —
+Lapse of statute of limitations (5) (10)
+Foreign currency translation — —
+Balance at December 31 $ 601 $ 347
+
+The Company’s liability for uncertain tax positions as of December 31, 2022, 2021, and 2020, includes $535 million, $295 million, and $270 million, respectively, related to amounts that would impact the effective tax rate if recognized. It is possible that the amount of unrecognized tax benefits may change in the next twelve months; however, the Company does not expect the change to have a significant impact on its consolidated statements of income or consolidated balance sheets. These changes may be the result of settlements of ongoing audits. At this time, an estimate of the range of the reasonably possible outcomes within the next twelve months cannot be made.
+The Company recognizes interest and penalties related to uncertain tax positions in its provision for income taxes. The Company accrued potential interest and penalties of $40 million, $22 million, and $21 million in 2022, 2021, and 2020, respectively. The Company recorded a liability for interest and penalties of $181 million, $142 million, and $120 million as of December 31, 2022, 2021, and 2020, respectively.
+The Company and its subsidiaries file income tax returns in their respective jurisdictions. The Company has substantially concluded all U.S. federal income tax matters for years through 2007. Material U.S. state and local income tax jurisdiction examinations have been concluded for years through 2014. The Company has concluded income tax examinations in its primary non-U.S. jurisdictions through 2008.
+
+X
+---------------------------------------------------- -----------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_IncomeTaxDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
+- DefinitionThe entire disclosure for income taxes. Disclosures may include net deferred tax liability or asset recognized in an enterprise's statement of financial position, net change during the year in the total valuation allowance, approximate tax effect of each type of temporary difference and carryforward that gives rise to a significant portion of deferred tax liabilities and deferred tax assets, utilization of a tax carryback, and tax uncertainties information. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 21 -URI https://asc.fasb.org/extlink&oid=121826272&loc=d3e32857-109319Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section S99 -Paragraph 2 -Subparagraph (SAB Topic 11.C) -URI https://asc.fasb.org/extlink&oid=122134291&loc=d3e330215-122817Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 17 -Subparagraph (b) -URI https://asc.fasb.org/extlink&oid=121826272&loc=d3e32809-109319Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SAB TOPIC 6.I.5.Q1) -URI https://asc.fasb.org/extlink&oid=122134291&loc=d3e330036-122817Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 14 -URI https://asc.fasb.org/extlink&oid=121826272&loc=d3e32705-109319Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 270 -Section 50 -Paragraph 1 -URI https://asc.fasb.org/extlink&oid=6424409&loc=d3e44925-109338Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -URI https://asc.fasb.org/topic&trid=2144680Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 30 -Section 50 -Paragraph 2 -Subparagraph (a) -URI https://asc.fasb.org/extlink&oid=6424122&loc=d3e41874-109331Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.4-08(h)(2)) -URI https://asc.fasb.org/extlink&oid=120395691&loc=d3e23780-122690 + Details Name: us-gaap_IncomeTaxDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+36
+R19.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Shareholders' Equity (Deficit) 12 Months Ended
+------------------------------------------------ --------------- ------ - ------
+Dec. 31, 2022
+Equity [Abstract]
+Shareholders' Equity (Deficit)
+Years Ended December 31
+ 2022 2021
+Shares repurchased 11.1 12.4
+Average price per share $ 289.76 $ 286.82
+Repurchase costs recorded to accumulated deficit $ 3,203 $ 3,543
+
+At December 31, 2022, the remaining authorized amount for share repurchases under the Repurchase Program was approximately $6.0 billion. Under the Repurchase Program, the Company has repurchased a total of 160.7 million shares for an aggregate cost of approximately $21.5 billion.
+Weighted Average Ordinary Shares
+Weighted average ordinary shares outstanding are as follows (in millions):
+
+Years Ended December 31
+---------------------------------------------------- ----- ----- -----
+ 2022 2021 2020
+Basic weighted average ordinary shares outstanding 211.7 224.7 231.9
+Dilutive effect of potentially issuable shares 1.5 1.4 1.2
+Diluted weighted average ordinary shares outstanding 213.2 226.1 233.1
+
+Potentially issuable shares are not included in the computation of Diluted net income per share attributable to Aon shareholders if their inclusion would be antidilutive. There were 0.8 million and 0.3 million shares excluded from the calculation in 2022 and 2021, respectively, and no shares excluded from the calculation in 2020.
+Accumulated Other Comprehensive Loss
+Changes in Accumulated other comprehensive loss by component, net of related tax, are as follows (in millions):
+
+ Change in Fair Value of Financial Instruments (1) Foreign Currency Translation Adjustments Postretirement Benefit Obligation (2) Total
+---------------------------------------------------------------------------- ------------------------------------------------- ---------------------------------------- ------------------------------------- ------- - ------- - -------
+Balance at December 31, 2019 $ (12) $ (1,305) $ (2,716) $ (4,033)
+Other comprehensive income (loss) before reclassifications:
+Other comprehensive income (loss) before reclassifications 1 258 (255) 4
+Tax benefit — 2 60 62
+Other comprehensive income (loss) before reclassifications, net 1 260 (195) 66
+Amounts reclassified from accumulated other comprehensive income (loss):
+Amounts reclassified from accumulated other comprehensive income 15 — 125 140
+Tax expense (3) — (31) (34)
+Amounts reclassified from accumulated other comprehensive income, net 12 — 94 106
+Net current period other comprehensive income (loss) 13 260 (101) 172
+Balance at December 31, 2020 $ 1 $ (1,045) $ (2,817) $ (3,861)
+Other comprehensive income (loss) before reclassifications:
+Other comprehensive income (loss) before reclassifications — (290) 227 (63)
+Tax benefit (expense) — 2 (58) (56)
+Other comprehensive income (loss) before reclassifications, net — (288) 169 (119)
+Amounts reclassified from accumulated other comprehensive income (loss):
+Amounts reclassified from accumulated other comprehensive income 2 — 142 144
+Tax expense (1) — (34) (35)
+Amounts reclassified from accumulated other comprehensive income, net 1 — 108 109
+Net current period other comprehensive income (loss) 1 (288) 277 (10)
+Balance at December 31, 2021 $ 2 $ (1,333) $ (2,540) $ (3,871)
+Other comprehensive income (loss) before reclassifications:
+Other comprehensive loss before reclassifications (15) (528) (569) (1,112)
+Tax benefit (expense) 4 — 149 153
+Other comprehensive loss before reclassifications, net (11) (528) (420) (959)
+Amounts reclassified from accumulated other comprehensive income (loss):
+Amounts reclassified from accumulated other comprehensive income (loss) (2) — 282 280
+Tax expense — — (73) (73)
+Amounts reclassified from accumulated other comprehensive income (loss), net (2) — 209 207
+Net current period other comprehensive loss (13) (528) (211) (752)
+Balance at December 31, 2022 $ (11) $ (1,861) $ (2,751) $ (4,623)
+
+(1)Reclassifications from this category included in Accumulated other comprehensive loss are recorded in Total revenue, Interest expense, and Compensation and benefits in the Consolidated Statements of Income. Refer to Note 13 “Derivatives and Hedging” for further information regarding the Company’s derivative and hedging activity.
+(2)Reclassifications from this category included in Accumulated other comprehensive loss are recorded in Other income (expense) in the Consolidated Statements of Income.
+
+X
+---------------------------------------------------- ----------------------
+- ReferencesNo definition available. + Details Name: us-gaap_EquityAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------
+- DefinitionThe entire disclosure for shareholders' equity and share-based payment arrangement. Includes, but is not limited to, disclosure of policy and terms of share-based payment arrangement, deferred compensation arrangement, and employee stock purchase plan (ESPP). + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -URI https://asc.fasb.org/topic&trid=2208762Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 718 -URI https://asc.fasb.org/topic&trid=2228938 + Details Name: us-gaap_ShareholdersEquityAndShareBasedPaymentsTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+37
+R20.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Employee Benefits 12 Months Ended
+------------------------------ --------------- ---- -- --- - ---
+Dec. 31, 2022
+Retirement Benefits [Abstract]
+Employee Benefits
+Years Ended December 31
+ 2022 2021 2020
+U.S. $ 108 $ 103 $ 87
+U.K. 47 46 42
+Netherlands and Canada 33 35 26
+Total $ 188 $ 184 $ 155
+
+Pension and Other Postretirement Benefits
+The Company sponsors defined benefit pension and postretirement health and welfare plans that provide retirement, medical, and life insurance benefits. The postretirement health care plans are contributory, with retiree contributions adjusted annually, and the life insurance and pension plans are generally noncontributory. The significant U.S., U.K., Netherlands, and Canada pension plans are closed to new entrants.
+Pension Plans
+The following tables provide a reconciliation of the changes in the projected benefit obligations and fair value of assets for the years ended December 31, 2022 and 2021, and a statement of the funded status as of December 31, 2022 and 2021, for Aon’s significant U.K., U.S., and other major pension plans, which are located in the Netherlands and Canada. These plans represent approximately 88% of the Company’s projected benefit obligations.
+
+ U.K. U.S. Other
+---------------------------------------------------------------------- ------- ----- ----- ----- ----- ----- - ----- - ----- - -----
+(millions) 2022 2021 2022 2021 2022 2021
+Change in projected benefit obligation
+At January 1 $ 4,919 $ 5,406 $ 3,164 $ 3,380 $ 1,531 $ 1,625
+Service cost 1 1 — — — —
+Interest cost 83 65 73 57 19 12
+Settlements — (14) (283) — — —
+Actuarial (gain) loss (1,418) (292) (607) (103) (322) 24
+Benefit payments (195) (189) (167) (170) (45) (47)
+Foreign currency impact (444) (58) — — (89) (83)
+As of December 31 $ 2,946 $ 4,919 $ 2,180 $ 3,164 $ 1,094 $ 1,531
+Accumulated benefit obligation at end of year $ 2,946 $ 4,919 $ 2,180 $ 3,164 $ 1,079 $ 1,504
+Change in fair value of plan assets
+At January 1 $ 6,246 $ 6,652 $ 2,378 $ 2,276 $ 1,430 $ 1,497
+Actual return on plan assets (1,961) (136) (484) 211 (284) 46
+Employer contributions 7 9 37 61 15 17
+Settlements — (14) (283) — — —
+Benefit payments (195) (189) (167) (170) (45) (47)
+Foreign currency impact (559) (76) — — (83) (83)
+As of December 31 $ 3,537 $ 6,246 $ 1,481 $ 2,378 $ 1,032 $ 1,430
+Market related value at end of year $ 3,537 $ 6,246 $ 1,794 $ 2,174 $ 1,032 $ 1,430
+Amount recognized in Statement of Financial Position as of December 31
+Funded status $ 591 $ 1,327 $ (699) $ (786) $ (62) $ (101)
+Unrecognized prior-service cost 35 40 — — (6) (6)
+Unrecognized loss 1,726 1,215 1,305 1,551 443 489
+Net amount recognized $ 2,352 $ 2,582 $ 606 $ 765 $ 375 $ 382
+
+The benefit obligation decreased primarily as a result of increases in the discount rates in 2022 as compared to 2021. The value of plan assets decreased as a result of negative asset returns, predominately in the U.K, and overall weaker exchange rates versus the U.S. Dollar. The U.K. pension assets are concentrated in fixed income and annuities which were disproportionately negatively impacted by the rising interest rate environment. The U.K. hedging strategy continues to perform as expected and the related pension plans remain over-funded. Net actuarial gains decreased the benefit obligation in 2021 primarily due to the increase in the discount rates.
+In November 2022, to further its pension de-risking strategy the Company purchased an annuity for portions of its U.S. pension plans that will settle certain obligations. The transaction settled $280 million of benefit obligations using $280 million of assets.
+In November 2020, the Company entered into an insurance contract that covers a portion of the assets within a select U.K. pension scheme. The transaction resulted in a decrease in Prepaid pension assets and Accumulated other comprehensive income of $94 million.
+Amounts recognized in the Consolidated Statements of Financial Position consist of (in millions):
+
+ U.K. U.S. Other
+------------------------------------------- ----- ----- ----- ----- ---- ---- - --- - --- - ---
+ 2022 2021 2022 2021 2022 2021
+Prepaid benefit cost (1) $ 612 $ 1,344 $ — $ — $ — $ —
+Accrued benefit liability - current (2) (1) (1) (42) (52) (5) (5)
+Accrued benefit liability - non-current (3) (20) (16) (657) (734) (57) (96)
+Accumulated other comprehensive loss 1,761 1,255 1,305 1,551 437 483
+Net amount recognized $ 2,352 $ 2,582 $ 606 $ 765 $ 375 $ 382
+
+(1)Included in Prepaid pension.
+(2)Included in Other current liabilities.
+(3)Included in Pension, other postretirement, and postemployment liabilities.
+Amounts recognized in Accumulated other comprehensive loss (income) that have not yet been recognized as components of net periodic benefit cost at December 31, 2022 and 2021 consist of (in millions):
+
+ U.K. U.S. Other
+--------------------------- ---- ----- ----- ----- ---- ----- - ----- - --- - ---
+ 2022 2021 2022 2021 2022 2021
+Net loss $ 1,726 $ 1,215 $ 1,305 $ 1,551 $ 443 $ 489
+Prior service cost (income) 35 40 — — (6) (6)
+Total $ 1,761 $ 1,255 $ 1,305 $ 1,551 $ 437 $ 483
+
+In 2022, U.S. plans with a PBO and an ABO in excess of the fair value of plan assets had a PBO of $2.2 billion, an ABO of $2.2 billion, and plan assets with a fair value of $1.5 billion. U.K. plans with a PBO and an ABO in excess of the fair value of plan assets had a PBO of $114 million, an ABO of $114 million and, plan assets with a fair value of $93 million. Other plans with a PBO in excess of the fair value of plan assets had a PBO of $1.1 billion and plan assets with a fair value of $1.0 billion, and other plans with an ABO in excess of the fair value of plan assets had an ABO of $220 million and plan assets with a fair value of $166 million.
+In 2021, U.S. plans with a PBO and an ABO in excess of the fair value of plan assets had a PBO of $3.2 billion, an ABO of $3.2 billion, and plan assets with a fair value of $2.4 billion. U.K. plans with a PBO and an ABO in excess of the fair value of plan assets had a PBO of $17 million, an ABO of $17 million and no plan assets. Other plans with a PBO in excess of the fair value of plan assets had a PBO of $1.5 billion and plan assets with a fair value of $1.4 billion, and other plans with an ABO in excess of the fair value of plan assets had an ABO of $409 million and plan assets with a fair value of $326 million.
+Service cost is reported in Compensation and benefits and all other components are reported in Other income (expense) as follows (in millions):
+
+ U.K. U.S. Other
+-------------------------------------------------------------- ----- ----- ----- ----- ----- ----- ---- ---- ---- - - -- - --- - --- - ---
+ 2022 2021 2020 2022 2021 2020 2022 2021 2020
+Service cost $ 1 $ 1 $ — $ — $ — $ — $ — $ — $ —
+Interest cost 83 65 88 73 57 85 19 12 19
+Expected return on plan assets, net of administration expenses (134) (137) (159) (108) (130) (134) (33) (32) (34)
+Amortization of prior-service cost 2 2 2 — — 1 — — —
+Amortization of net actuarial loss 29 32 30 61 78 68 13 15 12
+Net periodic benefit (income) cost (19) (37) (39) 26 5 20 (1) (5) (3)
+Settlement expense — 5 2 170 — — — — —
+Total net periodic benefit cost (income) $ (19) $ (32) $ (37) $ 196 $ 5 $ 20 $ (1) $ (5) $ (3)
+
+The Company uses a full-yield curve approach in the estimation of the service and interest cost components of net periodic pension and postretirement benefit cost for its major pension and other postretirement benefit plans. This estimation was obtained by applying the specific spot rates along the yield curve used in the determination of the benefit obligation to the relevant projected cash flows.
+In November 2022, to further its pension de-risking strategy the Company purchased an annuity for portions of its U.S. pension plans that will settle certain obligations. This triggered settlement accounting which required immediate recognition of a portion of the accumulated losses associated with the plan. Consequently, the Company recognized a non-cash settlement charge of approximately $170 million in 2022.
+Transfer payments from certain U.K. pension plans exceeded the plan’s service and interest cost in 2021 and 2020. This triggered settlement accounting which required immediate recognition of a portion of the accumulated losses associated with the plan. Consequently, the Company recognized a non-cash settlement charge for approximately £3 million in 2021 ($5 million using December 31, 2021 exchange rates), and approximately £2 million in 2020 ($2 million using December 31, 2020 exchange rates).
+The weighted-average assumptions used to determine benefit obligations are as follows:
+
+ U.K. U.S. (1) Other
+----------------------------- ------------ ------------ ------------ ----------- ------------ ------------
+ 2022 2021 2022 2021 2022 2021
+Discount rate 4.89% 1.96% 4.82 - 5.03% 2.23 - 2.8% 3.23 - 5.19% 1.00 - 2.97%
+Rate of compensation increase 3.59 - 4.09% 3.62 - 4.12% N/A N/A 1.00 - 3.00% 1.00 - 3.00%
+Underlying price inflation 2.44% 2.52% N/A N/A 2.00% 2.00%
+
+(1)U.S. pension plans are frozen and therefore not impacted by compensation increases or price inflation.
+The weighted-average assumptions used to determine the net periodic benefit cost are as follows:
+
+ U.K. U.S. Other
+-------------------------------------------------------------- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------
+ 2022 2021 2020 2022 2021 2020 2022 2021 2020
+Discount rate 1.85% 1.20% 1.89% 1.67 - 2.25% 1.12 - 1.79% 2.36 - 2.76% 0.84 - 2.58% 0.28 - 2.00% 0.74 - 2.90%
+Expected return on plan assets, net of administration expenses 2.34% 2.04% 2.74% 2.03 - 5.28% 2.65- 6.56% 3.30%-7.04% 1.80 - 3.15% 1.70 - 2.65% 2.10 - 3.10%
+Rate of compensation increase 3.62 - 4.12% 3.22 - 3.72% 3.24 - 3.74% N/A N/A N/A 1.00 - 3.00% 1.00 - 3.00% 1.00 - 3.00%
+
+Expected Return on Plan Assets
+To determine the expected long-term rate of return on plan assets, the historical performance, investment community forecasts, and current market conditions are analyzed to develop expected returns for each asset class used by the plans. The expected returns for each asset class are weighted by the target allocations of the plans. The expected return of 5.28% on U.S. plan assets reflects a portfolio that is seeking asset growth through a higher equity allocation while maintaining prudent risk levels. The portfolio contains certain assets that have historically resulted in higher returns, as well as other financial instruments to minimize downside risk.
+No plan assets are expected to be returned to the Company during 2023.
+Fair value of plan assets
+The Company determined the fair value of plan assets through numerous procedures based on the asset class and available information. Refer to Note 14 “Fair Value Measurements and Financial Instruments” for a description of the procedures performed to determine the fair value of the plan assets.
+The fair values of the Company’s U.S. pension plan assets at December 31, 2022 and December 31, 2021, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - --- - -
+Asset Category Balance at December 31, 2022 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 42 $ 42 $ — $ —
+Equity investments:
+Equity securities 64 64 — —
+Equity derivatives (6) — (6) —
+Pooled funds (2) 293 — — —
+Fixed income investments:
+Corporate bonds 192 — 192 —
+Government and agency bonds 149 124 25 —
+Pooled funds (2) 507 — — —
+Other investments:
+Real estate (2) (3) 113 — — —
+Alternative investments (2) (4) 127 — — —
+Total $ 1,481 $ 230 $ 211 $ —
+
+ Fair Value Measurements Using
+ - --- - -
+Asset Category Balance at December 31, 2021 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 93 $ 93 $ — $ —
+Equity investments:
+Equity securities 86 86 — —
+Equity derivatives 19 — 19 —
+Pooled funds (2) 548 — — —
+Fixed income investments:
+Corporate bonds 249 — 249 —
+Government and agency bonds 230 192 38 —
+Pooled funds (2) 838 — — —
+Other investments:
+Real estate (2)(3) 156 — — —
+Alternative investments (2) (4) 159 — — —
+Total $ 2,378 $ 371 $ 306 $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of property funds and trusts holding direct real estate investments.
+(4)Consists of limited partnerships, private equity, and hedge funds.
+The fair values of the Company’s major U.K. pension plan assets at December 31, 2022 and December 31, 2021, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+----------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - ----- - -----
+ Balance at December 31, 2022 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 336 $ 336 $ — $ —
+Equity investments:
+Pooled funds (2) — — — —
+Fixed income investments:
+Derivatives (3) (548) — (548) —
+Government and agency bonds 1,593 1,593 — —
+Annuities 1,403 — — 1,403
+Pooled funds (2) 139 — — —
+Other investments:
+Real estate (2) (4) 97 — — —
+Pooled funds (2) (5) 517 — — —
+Total $ 3,537 $ 1,929 $ (548) $ 1,403
+
+ Fair Value Measurements Using
+----------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - ------- - -----
+ Balance at December 31, 2021 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 872 $ 872 $ — $ —
+Equity investments:
+Pooled funds (2) — — — —
+Fixed income investments:
+Derivatives (3) (1,640) — (1,640) —
+Government and agency bonds 2,969 2,969 — —
+Annuities 2,305 — — 2,305
+Pooled funds (2) 463 — — —
+Other investments:
+Real estate (2) (4) 130 — — —
+Pooled funds (2) (5) 1,147 — — —
+Total $ 6,246 $ 3,841 $ (1,640) $ 2,305
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of equity securities and equity derivatives, including repurchase agreements.
+(4)Consists of property funds and trusts holding direct real estate investments.
+(5)Consists of multi-strategy limited partnerships, private equity, hedge funds, and collective investment schemes with a diversified portfolio of cash, equities, equity related securities, derivatives, and/or fixed income securities.
+The following table presents the changes in the Level 3 fair-value category in the Company’s U.K. pension plans for the years ended December 31, 2022 and December 31, 2021 (in millions):
+
+Fair Value Measurements Using Level 3 Inputs Annuities
+-------------------------------------------------- --------- -----
+Balance at January 1, 2021 $ 2,625
+Actual return on plan assets:
+Relating to assets still held at December 31, 2021 (286)
+Purchase, sales and settlements-net —
+Foreign exchange (34)
+Balance at December 31, 2021 2,305
+Actual return on plan assets:
+Relating to assets still held at December 31, 2022 (674)
+Purchases, sales and settlements-net —
+Foreign exchange (228)
+Balance at December 31, 2022 $ 1,403
+
+The fair values of the Company’s other major pension plan assets at December 31, 2022 and December 31, 2021, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - --- - -
+ Balance at December 31, 2022 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 30 $ 30 $ — $ —
+Equity investments:
+Equity securities 53 53 — —
+Pooled funds (2) 211 — — —
+Fixed income investments:
+Government and agency bonds 225 225 — —
+Derivatives (3) — (3) —
+Pooled funds (2) 462 — — —
+Other investments:
+Alternative investments (2) (3) 42 — — —
+Real estate (2) (4) 12 — — —
+Total $ 1,032 $ 308 $ (3) $ —
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - - - -
+ Balance at December 31, 2021 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 29 $ 29 $ — $ —
+Equity investments:
+Equity securities 72 72 — —
+Pooled funds (2) 316 — — —
+Fixed income investments:
+Government and agency bonds 350 350 — —
+Pooled funds (2) 597 — — —
+Other investments:
+Alternative investments (2) (3) 55 — — —
+Real estate (2) (4) 11 — — —
+Total $ 1,430 $ 451 $ — $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of limited partnerships, private equity, and hedge funds.
+(4)Consists of property funds and trusts holding direct real estate investments.
+Investment Policy and Strategy
+The U.S. investment policy, as established by the RPGIC, seeks reasonable asset growth at prudent risk levels within weighted average target allocations. At December 31, 2022, the weighted average targeted allocation for the U.S. plans was 30% for equity investments, 54% for fixed income investments, and 16% for other investments. Aon believes that plan assets are well-diversified and are of appropriate quality. The investment portfolio asset allocation is reviewed quarterly and re-balanced to be within policy target allocations. The investment policy is reviewed at least annually and revised, as deemed appropriate by the RPGIC. The investment policies for international plans are generally established by the local pension plan trustees and seek to maintain the plans’ ability to meet liabilities and to comply with local minimum funding requirements. Plan assets are invested in diversified portfolios that provide adequate levels of return at an acceptable level of risk. The investment policies are reviewed at least annually and revised, as deemed appropriate to ensure that the objectives are being met. At December 31, 2022, the weighted average targeted allocation for the U.K. and non-U.S. plans was 6% for equity investments, 86% for fixed income investments, and 8% for other investments.
+Cash Flows
+Contributions
+Based on current assumptions, in 2023, the Company expects to contribute approximately $4 million, $43 million, and $14 million to its significant U.K., U.S., and other major pension plans, respectively.
+Estimated Future Benefit Payments
+Estimated future benefit payments for plans, not including voluntary one-time lump sum payments, are as follows at December 31, 2022 (in millions):
+
+U.K. U.S. Other
+----------- ---- ----- - --- - ---
+ 2023 $ 153 $ 157 $ 46
+ 2024 $ 157 $ 158 $ 47
+ 2025 $ 161 $ 158 $ 49
+ 2026 $ 166 $ 162 $ 50
+ 2027 $ 170 $ 155 $ 51
+2028 - 2032 $ 905 $ 754 $ 274
+
+U.S. and Canadian Other Postretirement Benefits
+The following table provides an overview of the accumulated PBO, fair value of plan assets, funded status and net amount recognized as of December 31, 2022 and 2021 for the Company’s other significant postretirement benefit plans located in the U.S. and Canada (in millions):
+
+ 2022 2021
+---------------------------------------- ---- ---- - ----
+Accumulated projected benefit obligation $ 83 $ 109
+Fair value of plan assets 14 17
+Funded status (69) (92)
+Unrecognized prior-service credit (1) (1)
+Unrecognized (gain) loss (19) 2
+Net amount recognized $ (89) $ (91)
+
+Other information related to the Company’s other postretirement benefit plans are as follows:
+
+ 2022 2021 2020
+--------------------------------------------------------------------------- ------------ ------------ ------------
+Net periodic benefit cost recognized (millions) $3 $5 $4
+Weighted-average discount rate used to determine future benefit obligations 4.94 - 5.19% 2.52 - 3.06% 2.10 - 2.58%
+Weighted-average discount rate used to determine net periodic benefit costs 1.97 - 2.69% 1.45 - 2.68% 2.93 - 3.25%
+
+Based on current assumptions, the Company expects:
+•The amount in Accumulated other comprehensive income expected to be recognized as a component of net periodic benefit cost during 2023 is $0.8 million net gain and $0.2 million of prior-service credit.
+•To contribute $5 million to fund significant other postretirement benefit plans during 2023.
+•Estimated future benefit payments will be approximately $5 million each year for 2023 through 2027, and $27 million in aggregate for 2028-2032.
+
+X
+---------------------------------------------------- ---------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_CompensationAndRetirementDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------
+- DefinitionThe entire disclosure for retirement benefits. + ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 55 -Paragraph 17 -URI https://asc.fasb.org/extlink&oid=123450688&loc=d3e4179-114921Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section S99 -Paragraph 2 -URI https://asc.fasb.org/extlink&oid=21916913&loc=d3e273930-122802Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (d)(i) -URI https://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (o) -URI https://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (p) -URI https://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 70 -Section 50 -Paragraph 1 -URI https://asc.fasb.org/extlink&oid=49170846&loc=d3e28014-114942Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -URI https://asc.fasb.org/topic&trid=2235017Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 60 -Section 50 -Paragraph 3 -Subparagraph (c) -URI https://asc.fasb.org/extlink&oid=6414203&loc=d3e39689-114964Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (d)(iv)(03) -URI https://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (q) -URI https://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 11: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (r)(1) -URI https://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 12: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (d)(iii) -URI https://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 13: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (l) -URI https://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 14: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (r)(2) -URI https://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920 + Details Name: us-gaap_PensionAndOtherPostretirementBenefitsDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+38
+R21.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Share-Based Compensation Plans 12 Months Ended
+-------------------------------------------- --------------- ---- --- --- - ---
+Dec. 31, 2022
+Share-Based Payment Arrangement [Abstract]
+Share-Based Compensation Plans
+Years Ended December 31
+ 2022 2021 2020
+Restricted share units $ 251 $ 204 $ 186
+Performance share awards 134 189 116
+Employee share purchase plans and other (1) 12 56 10
+Total share-based compensation expense 397 449 312
+Tax benefit 83 87 61
+Share-based compensation expense, net of tax $ 314 $ 362 $ 251
+(1) 2021 includes expenses related to the Aon United Growth Ownership Plan.
+Restricted Share Units
+RSUs generally vest between three and five years. The fair value of RSUs is based upon the market value of the Company’s class A ordinary shares at the date of grant. With certain limited exceptions, any break in continuous employment will cause the forfeiture of all non-vested awards. Compensation expense associated with RSUs is recognized on a straight-line basis over the requisite service period. Dividend equivalents are paid on certain RSUs, based on the initial grant amount.
+The following table summarizes the status of the Company’s RSUs (shares in thousands, except fair value):
+
+Shares Fair Value (1)
+--------------------------------------- -------------- - ---
+Non-vested balance at December 31, 2021 3,075 $ 203
+Granted 1,117 $ 279
+Vested (1,154) $ 187
+Forfeited (175) $ 219
+Non-vested balance at December 31, 2022 2,863 $ 238
+
+(1)Represents per share weighted average fair value of award at date of grant.
+The weighted-average grant date fair value of the Company's RSU awards granted during the years ended December 31, 2022, December 31, 2021, and December 31, 2020 was $279, $253, and $185, respectively. The fair value of RSUs that vested during 2022, 2021, and 2020 was $216 million, $189 million, and $190 million, respectively.
+Unamortized deferred compensation expense amounted to $466 million as of December 31, 2022, with a remaining weighted average amortization period of approximately 2.0 years.
+Performance Share Awards
+The vesting of PSAs is contingent upon meeting a cumulative level of adjusted diluted earnings per share related performance over a three-year period. The actual issuance of shares may range from 0-200% of the target number of PSAs granted, based on the terms of the plan and level of achievement of the related performance target. The grant date fair value of PSAs is based upon the market price of the Company’s class A ordinary shares at the date of grant, reduced by the present value of estimated dividends foregone during the vesting period. The performance conditions are not considered in the determination of the grant date fair value for these awards. Compensation expense is recognized over the performance period based on management’s estimate of the number of units expected to vest. Management evaluates its estimate of the actual number of shares expected to be issued at the end of the programs on a quarterly basis. The cumulative effect of the change in estimate is recognized in the period of change as an adjustment to Compensation and benefits in the Consolidated Statements of Income, if necessary. Dividend equivalents are not paid on PSAs.
+The following table summarizes the status of the Company's PSAs at 100% of the targeted amount (shares in thousands, except fair value):
+
+Shares Fair Value (1)
+--------------------------------------- -------------- - ---
+Non-vested balance at December 31, 2021 1,298 $ 181
+Granted 300 $ 311
+Vested (444) $ 163
+Forfeited (18) $ 217
+Non-vested balance at December 31, 2022 1,136 $ 222
+
+(1)Represents per share weighted average fair value of award at date of grant.
+
+The per share weighted-average grant date fair value of the Company's PSA awards granted during the years ended December 31, 2022, December 31, 2021, and December 31, 2020 was $311, $225, and $163, respectively. The payout of shares in 2022 with respect to the PSA awards granted in 2019 based on performance for the three-year performance period ended 2021 was, in aggregate, 888 thousand shares. The fair value of PSAs that vested during 2022, 2021, and 2020 was $145 million, $112 million, and $121 million, respectively.
+
+Unamortized compensation expense, based on current performance levels, amounted to $126 million as of December 31, 2022, with a remaining weighted average amortization period of approximately 1.3 years.
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------------------
+- DefinitionThe entire disclosure for share-based payment arrangement. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 718 -SubTopic 10 -Section 50 -Paragraph 2 -Subparagraph (a) -URI https://asc.fasb.org/extlink&oid=128089324&loc=d3e5070-113901Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 718 -URI https://asc.fasb.org/topic&trid=2228938Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 718 -SubTopic 10 -Section 50 -Paragraph 2 -Subparagraph (l) -URI https://asc.fasb.org/extlink&oid=128089324&loc=d3e5070-113901Reference 4: http://www.xbrl.org/2003/role/exampleRef -Publisher FASB -Name Accounting Standards Codification -Topic 718 -SubTopic 10 -Section 50 -Paragraph 2 -Subparagraph (a)(1) -URI https://asc.fasb.org/extlink&oid=128089324&loc=d3e5070-113901Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 718 -SubTopic 10 -Section 50 -Paragraph 2 -Subparagraph (h)(2)(i) -URI https://asc.fasb.org/extlink&oid=128089324&loc=d3e5070-113901Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 718 -SubTopic 10 -Section 50 -Paragraph 2 -Subparagraph (h)(2) -URI https://asc.fasb.org/extlink&oid=128089324&loc=d3e5070-113901 + Details Name: us-gaap_DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- ----------------------------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_DisclosureOfCompensationRelatedCostsSharebasedPaymentsAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+XML
+39
+R22.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Derivatives and Hedging 12 Months Ended
+------------------------------------------------------------------- --------------- ------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------- ----- ---- ---- - -- - - - -
+Dec. 31, 2022
+Derivative Instruments and Hedging Activities Disclosure [Abstract]
+Derivatives and Hedging
+ Notional Amount Net Amount of Derivative Assets Presented in the Statements of Financial Position (1) Net Amount of Derivative Liabilities Presented in the Statements of Financial Position
+As of December 31 2022 2021 2022 2021 2022 2021
+Foreign exchange contracts
+Accounted for as hedges $ 618 $ 629 $ 12 $ 27 $ 2 $ —
+Not accounted for as hedges (3) 312 412 — 2 1 —
+Total $ 930 $ 1,041 $ 12 $ 29 $ 3 $ —
+
+(1)Included within Other current assets ($3 million in 2022 and $21 million in 2021) or Other non-current assets ($9 million in 2022 and $8 million in 2021).
+(2)Included within Other current liabilities ($2 million in 2022) or Other non-current liabilities ($1 million in 2022).
+(3)These contracts typically are for 90-day durations and executed close to the last day of the most recent reporting month, thereby resulting in nominal fair values at the balance sheet date.
+The amounts of derivative gains (losses) recognized in the Consolidated Financial Statements are as follows (in millions):
+
+ 2022 2021 2020
+-------------------------------------------------------------- ---- ---- - - - -
+(Loss) gain recognized in Accumulated other comprehensive loss $ (15) $ — $ 1
+
+The amounts of derivative gains (losses) reclassified from Accumulated other comprehensive loss to the Consolidated Statements of Income are as follows (in millions):
+
+Years Ended December 31
+------------------------- ---- ---- --- --- - ----
+ 2022 2021 2020
+Total revenue $ 2 $ (3) $ (14)
+Compensation and benefits — 1 —
+Interest expense — — (1)
+Total $ 2 $ (2) $ (15)
+
+The Company estimates that approximately $10 million of pretax loss currently included within Accumulated other comprehensive loss will be reclassified into earnings in the next twelve months.
+The Company recorded a gain of $11 million in 2022, a loss of $24 million in 2021, and a gain of $1 million in 2020 in Other income (expense) for foreign exchange derivatives not designated or qualifying as hedges.
+
+X
+---------------------------------------------------- -------------------------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------
+- DefinitionThe entire disclosure for derivative instruments and hedging activities including, but not limited to, risk management strategies, non-hedging derivative instruments, assets, liabilities, revenue and expenses, and methodologies and assumptions used in determining the amounts. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 815 -URI https://asc.fasb.org/topic&trid=2229140Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 815 -SubTopic 40 -Section 50 -Paragraph 5 -Subparagraph (f) -URI https://asc.fasb.org/extlink&oid=126731327&loc=d3e90205-114008 + Details Name: us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+40
+R23.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Fair Value Measurements and Financial Instruments 12 Months Ended
+------------------------------------------------- ---------------------------- ----------------------------------------------------------- ------------------------------------------ -------------------------------------- - -- - -
+Dec. 31, 2022
+Fair Value Disclosures [Abstract]
+Fair Value Measurements and Financial Instruments
+ Fair Value Measurements Using
+ Balance at December 31, 2022 Quoted Prices inActive Marketsfor IdenticalAssets (Level 1) SignificantOtherObservableInputs (Level 2) SignificantUnobservableInputs(Level 3)
+Assets
+Money market funds (1) $ 3,323 $ 3,323 $ — $ —
+Other investments
+Government bonds $ 1 $ — $ 1 $ —
+Derivatives (2)
+Gross foreign exchange contracts $ 19 $ — $ 19 $ —
+Liabilities
+Derivatives (2)
+Gross foreign exchange contracts $ 9 $ — $ 9 $ —
+
+ Fair Value Measurements Using
+-------------------------------- ---------------------------- ----------------------------------------------------------- ------------------------------------------ -------------------------------------- - -- - -
+ Balance at December 31, 2021 Quoted Prices inActive Marketsfor IdenticalAssets (Level 1) SignificantOtherObservableInputs (Level 2) SignificantUnobservableInputs(Level 3)
+Assets
+Money market funds (1) $ 2,918 $ 2,918 $ — $ —
+Other investments
+Government bonds $ 1 $ — $ 1 $ —
+Derivatives (2)
+Gross foreign exchange contracts $ 40 $ — $ 40 $ —
+Liabilities
+Derivatives (2)
+Gross foreign exchange contracts $ 11 $ — $ 11 $ —
+
+(1)Included within Fiduciary assets or Short-term investments in the Consolidated Statements of Financial Position, depending on their nature and initial maturity.
+(2)Refer to Note 13 “Derivatives and Hedging” for additional information regarding the Company’s derivatives and hedging activity.
+There were no transfers of assets or liabilities between fair value hierarchy levels during 2022 or 2021. The Company recognized no realized or unrealized gains or losses in the Consolidated Statements of Income related to assets and liabilities measured at fair value using unobservable inputs in 2022, 2021, or 2020.
+The fair value of debt is classified as Level 2 of the fair value hierarchy. The following table provides the carrying value and fair value for the Company’s term debt (in millions):
+
+ 2022 2021
+--------------------------------- ------------- --------- ------------- --------- - ----- - -----
+As of December 31 CarryingValue FairValue CarryingValue FairValue
+Current portion of long-term debt $ 350 $ 347 $ 499 $ 507
+Long-term debt $ 9,825 $ 8,745 $ 8,228 $ 9,204
+
+X
+---------------------------------------------------- ------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_FairValueDisclosuresAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------
+- DefinitionThe entire disclosure for the fair value of financial instruments (as defined), including financial assets and financial liabilities (collectively, as defined), and the measurements of those instruments as well as disclosures related to the fair value of non-financial assets and liabilities. Such disclosures about the financial instruments, assets, and liabilities would include: (1) the fair value of the required items together with their carrying amounts (as appropriate); (2) for items for which it is not practicable to estimate fair value, disclosure would include: (a) information pertinent to estimating fair value (including, carrying amount, effective interest rate, and maturity, and (b) the reasons why it is not practicable to estimate fair value; (3) significant concentrations of credit risk including: (a) information about the activity, region, or economic characteristics identifying a concentration, (b) the maximum amount of loss the entity is exposed to based on the gross fair value of the related item, (c) policy for requiring collateral or other security and information as to accessing such collateral or security, and (d) the nature and brief description of such collateral or security; (4) quantitative information about market risks and how such risks are managed; (5) for items measured on both a recurring and nonrecurring basis information regarding the inputs used to develop the fair value measurement; and (6) for items presented in the financial statement for which fair value measurement is elected: (a) information necessary to understand the reasons for the election, (b) discussion of the effect of fair value changes on earnings, (c) a description of [similar groups] items for which the election is made and the relation thereof to the balance sheet, the aggregate carrying value of items included in the balance sheet that are not eligible for the election; (7) all other required (as defined) and desired information. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 820 -SubTopic 10 -Section 50 -Paragraph 2 -URI https://asc.fasb.org/extlink&oid=126976982&loc=d3e19207-110258 + Details Name: us-gaap_FairValueDisclosuresTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+41
+R24.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Claims, Lawsuits and Other Contingencies 12 Months Ended
+--------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 11]:
+Note 11 - Debt The following is a summary of our debt and finance leases as of December 31, 2022 (in millions): ----------------------------------------- ------------------ ----- --------- ------ - --------- ------ ----------- ----------- -------------- ------------- ----- -------------- - -------------- ---------------------------- Unpaid Unused Net Carrying Value Principal Committed Contractual Contractual Current Long-Term Balance Amount (1) Interest Rates Maturity Date Recourse debt: 2024 Notes $ -- $ 37 $ 37 $ -- 2.00 % May 2024 Credit Agreement -- -- -- 2,266 Not applicable July 2023 Solar Bonds -- 7 7 -- 4.70-5.75 % March 2025 - January 2031 Total recourse debt -- 44 44 2,266 Non-recourse debt: Automotive Asset-backed Notes 984 613 1,603 -- 0.36-4.64 % December 2023-September 2025 Solar Asset-backed Notes 4 13 17 -- 4.80 % December 2026 Cash Equity Debt 28 359 397 -- 5.25-5.81 % July 2033-January 2035 Automotive Lease-backed Credit Facilities -- -- -- 151 Not applicable September 2024 Total non-recourse debt 1,016 985 2,017 151 Total debt 1,016 1,029 $ 2,061 $ 2,417 Finance leases 486 568 Total debt and finance leases $ 1,502 $ 1,597 The following is a summary of our debt and finance leases as of December 31, 2021 (in millions): ----------------------------------------- ------------------ - ----- --------- ------ - - --------- ------ ----------- - ----------- -------------- ------------- - ----- --------- -------------- - ------------------------- ----------------------------- Unpaid Unused Net Carrying Value Principal Committed Contractual Contractual Current Long-Term Balance Amount (1) Interest Rates Maturity Date Recourse debt: 2022 Notes $ 29 $ -- $ 29 $ -- 2.375 % March 2022 2024 Notes 1 89 91 -- 2.00 % May 2024 Credit Agreement -- 1,250 1,250 920 3.25 % July 2023 Solar Bonds 0 7 7 -- 4.00-5.75 % January 2022-January 2031 Total recourse debt 30 1,346 1,377 920 Non-recourse debt: Automotive Asset-backed Notes 1,007 1,706 2,723 -- 0.12-5.48 % September 2022-September 2025 So...
+
+[Refer to Note 11]:
+Note 11 - Debt The following is a summary of our debt and finance leases as of December 31, 2022 (in millions): ----------------------------------------- ------------------ ----- --------- ------ Contractual Current Long-Term Balance Amount (1) Interest Rates Maturity Date Recourse debt: 2024 Notes $ -- $ 37 $ 37 $ -- 2.00 % May 2024 Credit Agreement -- -- -- 2,266 Not applicable July 2023 Solar leases as of December 31, 2021 (in millions): ----------------------------------------- ------------------ - ----- --------- ------ - - --------- ------ ----------- - ----------- -------------- ------------- - ----- --------- -------------- - ------------------------- ----------------------------- Unpaid Unused Net Carrying Value Principal Committed Contractual Contractual Current Long-Term Balance Amount (1) Interest Rates Maturity Date Recourse debt: 2022 Notes $ 29 $ -- $ 29 $ -- 2.375 % March 2022 2024 Notes 1 89 91 -- 2.00 % May 2024 Credit Agreement -- 1,250 1,250 920 3.25 % July 2023 Solar Bonds 0 7 7 -- 4.00-5.75 % January 2022-January 2031 Total recourse debt 30 1,346 1,377 920 Non-recourse debt: Automotive Asset-backed Notes 1,007 1,706 2,723 -- 0.12-5.48 % September 2022-September 2025 So...
+
+[Refer to Note 3]:
+NOTE 3. ACQUISITIONS Figma On September 15, 2022, we entered into a definitive agreement under which we intend to acquire Figma, Inc. ("Figma") for approximately $20 billion, comprised of approximately half cash and half stock, subject to customary purchase price adjustments. Approximately 6 million additional restricted stock units will be granted to Figma's Chief Executive Officer and employees that will vest over four years subsequent to closing. The transaction is subject to regulatory approvals and customary closing conditions, and is expected to close in 2023. We will be required to pay Figma a reverse termination fee of $1 billion if the transaction fails to receive regulatory clearance, assuming all other closing conditions have been satisfied or waived, or if it fails to close within 18 months from September 15, 2022. Figma is a privately held company that provides a web-first collaborative product design platform. Following the closing, we intend to integrate Figma into our Digital Media reportable segment for financial reporting purposes. Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.24 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. During fiscal 2022, we recorded purchase accounting adjustments that were not material based on changes to management's estimates and assumptions primarily in regards to the total purchase price and its related impact to goodwill. The table below represents the final purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. --------------------------------------- ------ ----- --------------------...
+
+[Refer to Note 3]:
+NOTE 3. ACQUISITIONS Figma On September 15, 2022, we entered into a definitive agreement under which we intend to acquire Figma, Inc. ("Figma") for approximately $20 billion, comprised of approximately months from September 15, 2022. Figma is a privately held company that provides a web-first collaborative product design platform. Following the closing, we intend to integrate Figma into our Digital Frame.io is reported as part of our Digital Media reportable segment. During fiscal 2022, we recorded purchase accounting adjustments that were not material based on changes to management's estimates acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. --------------------------------------- ------ ----- --------------------...
+
+[Refer to Note 8]:
+Note 8. Property and Equipment Property and equipment, net consists of the following (in millions): --------------------------------- ------------ ------ ---- -------- - ------ December 31, 2022 2021 Land $ 1,874 $ 1,688 Servers and network assets 34,330 25,584 Buildings 27,720 22,531 Leasehold improvements 6,522 5,795 Equipment and other 5,642 4,764 Finance lease right-of-use assets 3,353 2,840 Construction in progress 25,052 14,687 Property and equipment, gross 104,493 77,889 Less: Accumulated depreciation (24,975) (20,080) Property and equipment, net $ 79,518 $ 57,809 105 Construction in progress includes costs mostly related to construction of data centers, network infrastructure, servers, and office facilities. As of December 31, 2022, construction in progress also includes $2.18 billion of servers and network assets components stored by our suppliers until required by our design manufacturers to fulfill certain purchase orders. Depreciation expense on property and equipment was $8.50 billion, $7.56 billion, and $6.39 billion for the years ended December 31, 2022, 2021, and 2020, respectively. The majority of the property and equipment depreciation expense was from servers and network assets depreciation of $5.29 billion, $4.94 billion, and $4.38 billion for the years ended December 31, 2022, 2021, and 2020, respectively. For additional information regarding changes in the estimated useful life of our servers and network assets, see Note 1 -- Summary of Significant Accounting Policies. During the year ended December 31, 2022, we recorded $1.34 billion abandonment charge and $508 million impairment loss for data center assets and leasehold improvements assets, respectively, as a result of our restructuring efforts. For additional information, see Note 3 -- Restructuring.
+
+[Refer to Note 8]:
+Note 8. Property and Equipment Property and equipment, net consists of the following (in millions): --------------------------------- ------------ ------ ---- -------- - ------ December 31, 2022 2021 Land in progress assets, see Note 1 -- Summary of Significant Accounting Policies. During the year ended December 31, 2022, we recorded $1.34 billion abandonment charge and $508 million impairment loss for data center assets and leasehold improvements assets, respectively, as a result of our restructuring efforts. For additional information, see Note 3 -- Restructuring.
+
+[Refer to Note 9]:
+Note 9. Leases We have entered into various non-cancelable operating lease agreements mostly for certain of our offices, data centers, colocations, and land. We have also entered into various non-cancelable finance lease agreements mostly for certain network infrastructure. Our leases have original lease periods expiring between 2023 and 2093. Many leases include one or more options to renew. We do not assume renewals in our determination of the lease term unless the renewals are deemed to be reasonably assured. Our lease agreements generally do not contain any material residual value guarantees or material restrictive covenants. The components of lease costs are as follows (in millions): ----------------------------------- ----------------------- ----- ---- ----- ---- ----- ----- - ----- Year Ended December 31, 2022 2021 2020 Finance lease cost: Amortization of right-of-use assets $ 380 $ 344 $ 259 Interest 16 15 14 Operating lease cost 1,857 1,540 1,391 Variable lease cost and other, net 363 272 269 Total lease cost $ 2,616 $ 2,171 $ 1,933 During the year ended December 31, 2022, we also recorded $1.71 billion impairment loss for operating lease ROU assets as a part of our facilities consolidation restructuring efforts. For additional information, see Note 3 -- Restructuring. Supplemental balance sheet information related to leases is as follows: -------------------------------------- ------------ - ---------- --- - December 31, 2022 2021 Weighted-average remaining lease term: Finance leases 14.4 years 13.9 years Operating leases 12.5 years 13.0 years Weighted-average discount rate: Finance leases 3.1 % 2.7 % Operating leases 3.2 % 2.8 % 106 The following is a schedule, by years, of maturities of lease liabilities as of December 31, 2022 (in millions): -------------------------------------- ---------------- ------ -------------- ----- - --- Operating Leases Finance Leases 2023 $ 1,739 $ 146 2024 2,034 57 2025 1,771 57 2026 1,723 53 2027 1,699 52 Thereafter 11,801 ...
+
+[Refer to Note 8]:
+Note 8. Property and Equipment Property and equipment, net consists of the following (in millions): --------------------------------- ------------ ------ ---- -------- - ------ December 31, 2022 2021 Land $ 1,874 $ 1,688 Servers and network assets 34,330 25,584 Buildings 27,720 22,531 Leasehold improvements 6,522 5,795 Equipment and other 5,642 4,764 Finance lease right-of-use assets 3,353 2,840 Construction servers and network assets, see Note 1 -- Summary of Significant Accounting Policies. During the year ended December 31, 2022, we recorded $1.34 billion abandonment charge and $508 million impairment loss for data center assets and leasehold improvements assets, respectively, as a result of our restructuring efforts. For additional information, see Note 3 -- Restructuring.
+
+[Refer to Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 83
+
+[Refer to Note 14]:
+Note 14 - Arrangements with Off-Balance Sheet Risk 88
+
+[Refer to Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 83
+
+[Part II Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[' equity and share-based payment arrangement. Includes, but is not limited to, disclosure of policy and terms of share-based payment arrangement, deferred compensation arrangement, and employee stock purchase plan (ESPP). + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards + Details Name: us-gaap_ShareholdersEquityAndShareBasedPaymentsTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+37
+R20.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Employee Benefits 12 Months Ended
+------------------------------ --------------- ---- -- --- - ---
+Dec. 31, 2022
+Retirement Benefits [Abstract]
+Employee Benefits
+Years Ended December 31
+ 2022 2021 2020
+U.S. $ 108 $ 103 $ 87
+U.K. 47 46 42
+Netherlands and Canada 33 35 26
+Total $ 188 $ 184 $ 155
+
+Pension and Other Postretirement Benefits
+The Company sponsors defined benefit pension and postretirement health and welfare plans that provide retirement, medical, and life insurance benefits. The postretirement health care plans are contributory, with retiree contributions adjusted annually, and the life insurance and pension plans are generally noncontributory. The significant U.S., U.K., Netherlands, and Canada pension plans are closed to new entrants.
+Pension Plans
+The following tables provide a reconciliation of the changes in the projected benefit obligations and fair value of assets for the years ended December 31, 2022 and 2021, and a statement of the funded status as of December 31, 2022 and 2021, for Aon’s significant U.K., U.S., and other major pension plans, which are located in the Netherlands and Canada. These plans represent approximately 88% of the Company’s projected benefit obligations.
+
+ U.K. U.S. Other
+---------------------------------------------------------------------- ------- ----- ----- ----- ----- ----- - ----- - ----- - -----
+(millions) 2022 2021 2022 2021 2022 2021
+Change in projected benefit obligation
+At January 1 $ 4,919 $ 5,406 $ 3,164 $ 3,380 $ 1,531 $ 1,625
+Service cost 1 1 — — — —
+Interest cost 83 65 73 57 19 12
+Settlements — (14) (283) — — —
+Actuarial (gain) loss (1,418) (292) (607) (103) (322) 24
+Benefit payments (195) (189) (167) (170) (45) (47)
+Foreign currency impact (444) (58) — — (89) (83)
+As of December 31 $ 2,946 $ 4,919 $ 2,180 $ 3,164 $ 1,094 $ 1,531
+Accumulated benefit obligation at end of year $ 2,946 $ 4,919 $ 2,180 $ 3,164 $ 1,079 $ 1,504
+Change in fair value of plan assets
+At January 1 $ 6,246 $ 6,652 $ 2,378 $ 2,276 $ 1,430 $ 1,497
+Actual return on plan assets (1,961) (136) (484) 211 (284) 46
+Employer contributions 7 9 37 61 15 17
+Settlements — (14) (283) — — —
+Benefit payments (195) (189) (167) (170) (45) (47)
+Foreign currency impact (559) (76) — — (83) (83)
+As of December 31 $ 3,537 $ 6,246 $ 1,481 $ 2,378 $ 1,032 $ 1,430
+Market related value at end of year $ 3,537 $ 6,246 $ 1,794 $ 2,174 $ 1,032 $ 1,430
+Amount recognized in Statement of Financial Position as of December 31
+Funded status $ 591 $ 1,327 $ (699) $ (786) $ (62) $ (101)
+Unrecognized prior-service cost 35 40 — — (6) (6)
+Unrecognized loss 1,726 1,215 1,305 1,551 443 489
+Net amount recognized $ 2,352 $ 2,582 $ 606 $ 765 $ 375 $ 382
+
+The benefit obligation decreased primarily as a result of increases in the discount rates in 2022 as compared to 2021. The value of plan assets decreased as a result of negative asset returns, predominately in the U.K, and overall weaker exchange rates versus the U.S. Dollar. The U.K. pension assets are concentrated in fixed income and annuities which were disproportionately negatively impacted by the rising interest rate environment. The U.K. hedging strategy continues to perform as expected and the related pension plans remain over-funded. Net actuarial gains decreased the benefit obligation in 2021 primarily due to the increase in the discount rates.
+In November 2022, to further its pension de-risking strategy the Company purchased an annuity for portions of its U.S. pension plans that will settle certain obligations. The transaction settled $280 million of benefit obligations using $280 million of assets.
+In November 2020, the Company entered into an insurance contract that covers a portion of the assets within a select U.K. pension scheme. The transaction resulted in a decrease in Prepaid pension assets and Accumulated other comprehensive income of $94 million.
+Amounts recognized in the Consolidated Statements of Financial Position consist of (in millions):
+
+ U.K. U.S. Other
+------------------------------------------- ----- ----- ----- ----- ---- ---- - --- - --- - ---
+ 2022 2021 2022 2021 2022 2021
+Prepaid benefit cost (1) $ 612 $ 1,344 $ — $ — $ — $ —
+Accrued benefit liability - current (2) (1) (1) (42) (52) (5) (5)
+Accrued benefit liability - non-current (3) (20) (16) (657) (734) (57) (96)
+Accumulated other comprehensive loss 1,761 1,255 1,305 1,551 437 483
+Net amount recognized $ 2,352 $ 2,582 $ 606 $ 765 $ 375 $ 382
+
+(1)Included in Prepaid pension.
+(2)Included in Other current liabilities.
+(3)Included in Pension, other postretirement, and postemployment liabilities.
+Amounts recognized in Accumulated other comprehensive loss (income) that have not yet been recognized as components of net periodic benefit cost at December 31, 2022 and 2021 consist of (in millions):
+
+ U.K. U.S. Other
+--------------------------- ---- ----- ----- ----- ---- ----- - ----- - --- - ---
+ 2022 2021 2022 2021 2022 2021
+Net loss $ 1,726 $ 1,215 $ 1,305 $ 1,551 $ 443 $ 489
+Prior service cost (income) 35 40 — — (6) (6)
+Total $ 1,761 $ 1,255 $ 1,305 $ 1,551 $ 437 $ 483
+
+In 2022, U.S. plans with a PBO and an ABO in excess of the fair value of plan assets had a PBO of $2.2 billion, an ABO of $2.2 billion, and plan assets with a fair value of $1.5 billion. U.K. plans with a PBO and an ABO in excess of the fair value of plan assets had a PBO of $114 million, an ABO of $114 million and, plan assets with a fair value of $93 million. Other plans with a PBO in excess of the fair value of plan assets had a PBO of $1.1 billion and plan assets with a fair value of $1.0 billion, and other plans with an ABO in excess of the fair value of plan assets had an ABO of $220 million and plan assets with a fair value of $166 million.
+In 2021, U.S. plans with a PBO and an ABO in excess of the fair value of plan assets had a PBO of $3.2 billion, an ABO of $3.2 billion, and plan assets of $409 million and plan assets with a fair value of $326 million.
+Service cost is reported in Compensation and benefits and all other components are reported in Other income (expense) as follows (in millions):
+
+ U.K. U.S. Other
+-------------------------------------------------------------- ----- ----- ----- ----- ----- ----- ---- ---- ---- - - -- - --- - --- - ---
+ 2022 2021 2020 2022 2021 2020 2022 2021 2020
+Service cost $ 1 $ 1 $ — $ — $ — $ — $ — $ — $ —
+Interest cost 83 65 88 73 57 85 19 12 19
+Expected return on plan assets, net of administration expenses (134) (137) (159) (108) (130) (134) (33) (32) (34)
+Amortization of prior-service cost 2 2 2 — — 1 — — —
+Amortization of net actuarial loss 29 32 30 61 78 68 13 15 12
+Net periodic benefit (income) cost (19) (37) (39) 26 5 20 (1) (5) (3)
+Settlement expense — 5 2 170 — — — — —
+Total net periodic benefit cost (income) $ (19) $ (32) $ (37) $ 196 $ 5 $ 20 $ (1) $ (5) $ (3)
+
+The Company uses a full-yield curve approach in the estimation of the service spot rates along the yield curve used in the determination of the benefit obligation to the relevant projected cash flows.
+In November 2022, to further its pension de-risking strategy the Company purchased an annuity for portions of its U.S. pension plans that will settle certain obligations. This triggered settlement accounting which required immediate recognition of a portion of the accumulated losses associated with the plan. Consequently, the Company recognized a non-cash settlement charge of approximately $170 million in 2022.
+Transfer payments from certain U.K. pension plans exceeded the plan’s Company recognized a non-cash settlement charge for approximately £3 million in 2021 ($5 million using December 31, 2021 exchange rates), and approximately £2 million in 2020 ($2 million using December 31, 2020 exchange rates).
+The weighted-average assumptions used to determine benefit obligations are as follows:
+
+ U.K. U.S. (1) Other
+----------------------------- ------------ ------------ ------------ ----------- ------------ ------------
+ 2022 2021 2022 2021 2022 2021
+Discount rate 4.89% 1.96% 4.82 - 5.03% 2.23 - 2.8% 3.23 - 5.19% 1.00 - 2.97%
+Rate of compensation increase 3.59 - 4.09% 3.62 - 4.12% N/A N/A 1.00 - 3.00% 1.00 - 3.00%
+Underlying price inflation 2.44% 2.52% N/A N/A 2.00% 2.00%
+
+(1)U.S. pension plans are frozen and therefore not impacted by compensation increases or price inflation.
+The weighted-average assumptions used to determine the net periodic benefit cost are as follows:
+
+ U.K. U.S. Other
+-------------------------------------------------------------- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------
+ 2022 2021 2020 2022 2021 2020 2022 2021 2020
+Discount rate 1.85% 1.20% 1.89% 1.67 - 2.25% 1.12 - 1.79% 2.36 - 2.76% 0.84 - 2.58% 0.28 - 2.00% 0.74 - 2.90%
+Expected return on plan assets, net of administration expenses 2.34% 2.04% 2.74% 2.03 - 5.28% 2.65- 6.56% 3.30%-7.04% 1.80 - 3.15% 1.70 - 2.65% 2.10 - 3.10%
+Rate of compensation increase 3.62 - 4.12% 3.22 - 3.72% 3.24 - 3.74% N/A N/A N/A 1.00 - 3.00% 1.00 - 3.00% 1.00 - 3.00%
+
+Expected Return on Plan Assets
+To determine the expected long-term rate of return on plan assets, the historical performance, investment community forecasts, and current market conditions are analyzed to develop expected returns for each asset class used by the plans. The expected returns for each asset class are weighted by the target allocations of the plans. The expected return of 5.28% on U.S. plan assets reflects a portfolio that is seeking asset growth through a higher equity allocation while maintaining prudent risk levels. The portfolio contains certain assets that have historically resulted in higher returns, as well as other financial instruments to minimize downside risk.
+No plan assets are expected to be returned to the Company during 2023.
+Fair value of plan assets
+The Company determined the fair value of plan assets through numerous procedures based on the asset class and available information. Refer to Note 14 “Fair Value Measurements and Financial Instruments” for a description of the procedures performed to determine the fair value of the plan assets.
+The fair values of the Company’s U.S. pension plan assets at December 31, 2022 and December 31, 2021, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - --- - -
+Asset Category Balance at December 31, 2022 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 42 $ 42 $ — $ —
+Equity investments:
+Equity securities 64 64 — —
+Equity derivatives (6) — (6) —
+Pooled funds (2) 293 — — —
+Fixed income investments:
+Corporate bonds 192 — 192 —
+Government and agency bonds 149 124 25 —
+Pooled funds (2) 507 — — —
+Other investments:
+Real estate (2) (3) 113 — — —
+Alternative investments (2) (4) 127 — — —
+Total $ 1,481 $ 230 $ 211 $ —
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - --- - -
+Asset Category Balance at December 31, 2021 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 93 $ 93 $ — $ —
+Equity investments:
+Equity securities 86 86 — —
+Equity derivatives 19 — 19 —
+Pooled funds (2) 548 — — —
+Fixed income investments:
+Corporate bonds 249 — 249 —
+Government and agency bonds 230 192 38 —
+Pooled funds (2) 838 — — —
+Other investments:
+Real estate (2)(3) 156 — — —
+Alternative investments (2) (4) 159 — — —
+Total $ 2,378 $ 371 $ 306 $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of property funds and trusts holding direct real estate investments.
+(4)Consists of limited partnerships, private equity, and hedge funds.
+The fair values of the Company’s major U.K. pension plan assets at December 31, 2022 and December 31, 2021, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+----------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - ----- - -----
+ Balance at December 31, 2022 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 336 $ 336 $ — $ —
+Equity investments:
+Pooled funds (2) — — — —
+Fixed income investments:
+Derivatives (3) (548) — (548) —
+Government and agency bonds 1,593 1,593 — —
+Annuities 1,403 — — 1,403
+Pooled funds (2) 139 — — —
+Other investments:
+Real estate (2) (4) 97 — — —
+Pooled funds (2) (5) 517 — — —
+Total $ 3,537 $ 1,929 $ (548) $ 1,403
+
+ Fair Value Measurements Using
+----------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - ------- - -----
+ Balance at December 31, 2021 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 872 $ 872 $ — $ —
+Equity investments:
+Pooled funds (2) — — — —
+Fixed income investments:
+Derivatives (3) (1,640) — (1,640) —
+Government and agency bonds 2,969 2,969 — —
+Annuities 2,305 — — 2,305
+Pooled funds (2) 463 — — —
+Other investments:
+Real estate (2) (4) 130 — — —
+Pooled funds (2) (5) 1,147 — — —
+Total $ 6,246 $ 3,841 $ (1,640) $ 2,305
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of equity securities and equity derivatives, including repurchase agreements.
+(4)Consists of property funds and trusts holding direct real estate investments.
+(5)Consists of multi-strategy limited partnerships, private equity, hedge funds, and collective investment schemes with a diversified portfolio of cash, equities, equity related securities, derivatives, and/or fixed income securities.
+The following table presents the changes in the Level 3 fair-value category in the Company’s U.K. pension plans for the years ended December 31, 2022 and December 31, 2021 (in millions):
+
+Fair Value Measurements Using Level 3 Inputs Annuities
+-------------------------------------------------- --------- -----
+Balance at January 1, 2021 $ 2,625
+Actual return on plan assets:
+Relating to assets still held at December 31, 2021 (286)
+Purchase, sales and settlements-net —
+Foreign exchange (34)
+Balance at December 31, 2021 2,305
+Actual return on plan assets:
+Relating to assets still held at December 31, 2022 (674)
+Purchases, sales and settlements-net —
+Foreign exchange (228)
+Balance at December 31, 2022 $ 1,403
+
+The fair values of the Company’s other major pension plan assets at December 31, 2022 and December 31, 2021, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - --- - -
+ Balance at December 31, 2022 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 30 $ 30 $ — $ —
+Equity investments:
+Equity securities 53 53 — —
+Pooled funds (2) 211 — — —
+Fixed income investments:
+Government and agency bonds 225 225 — —
+Derivatives (3) — (3) —
+Pooled funds (2) 462 — — —
+Other investments:
+Alternative investments (2) (3) 42 — — —
+Real estate (2) (4) 12 — — —
+Total $ 1,032 $ 308 $ (3) $ —
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - - - -
+ Balance at December 31, 2021 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 29 $ 29 $ — $ —
+Equity investments:
+Equity securities 72 72 — —
+Pooled funds (2) 316 — — —
+Fixed income investments:
+Government and agency bonds 350 350 — —
+Pooled funds (2) 597 — — —
+Other investments:
+Alternative investments (2) (3) 55 — — —
+Real estate (2) (4) 11 — — —
+Total $ 1,430 $ 451 $ — $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of limited partnerships, private equity, and hedge funds.
+(4)Consists of property funds and trusts holding direct real estate investments.
+Investment Policy and Strategy
+The U.S. investment policy, as established by the RPGIC, seeks reasonable asset growth at prudent risk levels within weighted average target allocations. At December 31, 2022, the weighted average targeted allocation for the U.S. plans was 30% for equity investments, 54% for fixed income investments, and 16% for other investments. Aon believes acceptable level of risk. The investment policies are reviewed at least annually and revised, as deemed appropriate to ensure that the objectives are being met. At December 31, 2022, the weighted average targeted allocation for the U.K. and non-U.S. plans was 6% for equity investments, 86% for fixed income investments, and 8% for other investments.
+Cash Flows
+Contributions
+Based on current assumptions, in 2023, the Company expects to contribute approximately $4 million, $43 million, and $14 million to its significant U.K., U.S., and other major pension plans, respectively.
+Estimated Future Benefit Payments
+Estimated future benefit payments for plans, not including voluntary one-time lump sum payments, are as follows at December 31, 2022 (in millions):
+
+U.K. U.S. Other
+----------- ---- ----- - --- - ---
+ 2023 $ 153 $ 157 $ 46
+ 2024 $ 157 $ 158 $ 47
+ 2025 $ 161 $ 158 $ 49
+ 2026 $ 166 $ 162 $ 50
+ 2027 $ 170 $ 155 $ 51
+2028 - 2032 $ 905 $ 754 $ 274
+
+U.S. and Canadian Other Postretirement Benefits
+The following table provides an overview of the accumulated PBO, fair value of plan assets, funded status and net amount recognized as of December 31, 2022 and 2021 for the Company’s other significant postretirement benefit plans located in the U.S. and Canada (in millions):
+
+ 2022 2021
+---------------------------------------- ---- ---- - ----
+Accumulated projected benefit obligation $ 83 $ 109
+Fair value of plan assets 14 17
+Funded status (69) (92)
+Unrecognized prior-service credit (1) (1)
+Unrecognized (gain) loss (19) 2
+Net amount recognized $ (89) $ (91)
+
+Other information related to the Company’s other postretirement benefit plans are as follows:
+
+ 2022 2021 2020
+--------------------------------------------------------------------------- ------------ ------------ ------------
+Net periodic benefit cost recognized (millions) $3 $5 $4
+Weighted-average discount rate used to determine future benefit obligations 4.94 - 5.19% 2.52 - 3.06% 2.10 - 2.58%
+Weighted-average discount rate used to determine net periodic benefit costs 1.97 - 2.69% 1.45 - 2.68% 2.93 - 3.25%
+
+Based on current assumptions, the Company expects:
+•The amount in Accumulated other comprehensive income expected to be recognized as a component of net periodic benefit cost during 2023 is $0.8 million net gain and $0.2 million of prior-service credit.
+•To contribute $5 million to fund significant other postretirement benefit plans during 2023.
+•Estimated future benefit payments will be approximately $5 million each year for 2023 through 2027, and $27 million in aggregate for 2028-2032.
+
+X
+---------------------------------------------------- ---------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_CompensationAndRetirementDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------
+- DefinitionThe entire disclosure for retirement benefits. + ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Publisher + Details Name: us-gaap_PensionAndOtherPostretirementBenefitsDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+38
+R21.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+Share-Based Compensation Plans 12 Months Ended
+-------------------------------------------- --------------- ---- --- --- - ---
+Dec. 31, 2022
+Share-Based Payment Arrangement [Abstract]
+Share-Based Compensation Plans
+Years Ended December 31
+ 2022 2021 2020
+Restricted share units $ 251 $ 204 $ 186
+Performance share awards 134 189 116
+Employee share purchase plans and other (1) 12 56 10
+Total share-based compensation expense 397 449 312
+Tax benefit 83 87 61
+Share-based compensation expense, net of tax $ 314 $ 362 $ 251
+(1) 2021 includes expenses related to the Aon United Growth Ownership Plan.
+Restricted Share Units
+RSUs generally vest between three and five years. The fair value of RSUs is based upon the market value of the Company’s class A ordinary shares at the date of grant. over the requisite service period. Dividend equivalents are paid on certain RSUs, based on the initial grant amount.
+The following table summarizes the status of the Company’s RSUs (shares in thousands, except fair value):
+
+Shares Fair Value (1)
+--------------------------------------- -------------- - ---
+Non-vested balance at December 31, 2021 3,075 $ 203
+Granted 1,117 $ 279
+Vested (1,154) $ 187
+Forfeited (175) $ 219
+Non-vested balance at December 31, 2022 2,863 $ 238
+
+(1)Represents per share weighted average fair value of award at date of grant.
+The weighted-average grant date fair value of the Company']:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...

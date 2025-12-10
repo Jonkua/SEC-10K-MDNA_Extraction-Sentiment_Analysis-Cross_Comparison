@@ -1,0 +1,949 @@
+================================================================================
+CIK: 0001571949
+Company Name: Intercontinental Exchange, Inc
+Filing Date: 2019-02-07
+Form Type: 10-K
+Extraction Date: 2025-08-31 02:37:56
+================================================================================
+
+ITEM 7.    MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements for many reasons. See the factors set forth under the heading “Forward Looking Statements” at the beginning of Part 1 of this Annual Report and in Item 1(A) under the heading “Risk Factors.” The following discussion is qualified in its entirety by, and should be read in conjunction with, the more detailed information contained in Item 6 “Selected Financial Data” and our consolidated financial statements included in this Annual Report.
+Overview
+We are a leading global operator of regulated exchanges, clearing houses and listings venues, and a provider of data services for commodity, financial, fixed income and equity markets. We operate regulated marketplaces for listing, trading and clearing of a broad array of derivatives contracts and securities across major asset classes, including energy and agricultural commodities, metals, interest rates, equities, ETFs, credit derivatives, bonds and currencies. We also offer comprehensive data services to support the trading, investment, risk management and connectivity needs of customers around the world and across asset classes.
+Our exchanges include derivative exchanges in the U.S., U.K., EU, Canada and Singapore, and cash equities, equity options and bond exchanges in the U.S. We also operate OTC markets for physical energy, fixed income and CDS trade execution. To serve global derivatives markets, we operate central counterparty, or CCP, clearing houses in the U.S., U.K., EU, Canada and Singapore. We offer a range of data services for global financial and commodity markets, including pricing and reference data, exchange data, analytics, feeds, index services, desktops and connectivity solutions. Through our markets, clearing houses, listings and data services, we provide comprehensive solutions for our customers through liquid markets, benchmark products, access to capital markets and related services to support their ability to manage risk and raise capital. Our business is currently conducted as two reportable business segments, our Trading and Clearing segment and our Data and Listings segment, and the majority of our identifiable assets are located in the U.S., U.K. and Canada.
+Recent Developments
+U.S. Tax Cuts and Jobs Act of 2017, or TCJA
+In December 2017, the TCJA was signed into law. It reduced the U.S. federal corporate income tax rate from 35% to 21%. Many of the tax provisions under the TCJA became effective January 1, 2018, including the new rate and complex international tax provisions. Given the complexity of these international provisions and certain potential unintended consequences that are under debate at both the federal and state level, certain federal and state guidance has been issued and further guidance is anticipated, but the likelihood and timing of such guidance remains uncertain. See “- Consolidated Income Tax Provision” below.
+Acquisitions
+On January 2, 2018, we acquired BondPoint from Virtu Financial, Inc. for $400 million in cash. BondPoint is a provider of electronic fixed income trading solutions for the buy-side and sell-side, offering access to centralized liquidity and automated trade execution services through its ATS and provides trading services to more than 500 financial services firms.
+On July 18, 2018, we acquired CHX Holdings, Inc., the parent company of CHX, a full-service stock exchange, including trading, data and corporate listings services. CHX operates as a registered national securities exchange.
+On July 23, 2018, we acquired TMC Bonds for $700 million in cash. The cash consideration is gross of $15 million cash held by TMC Bonds on the date of acquisition. TMC Bonds is an electronic fixed income marketplace, supporting anonymous trading across multiple protocols in various asset classes, including municipals, corporates, treasuries, agencies and certificates of deposit.
+On October 3, 2018, we completed the purchase of the remaining equity interests in MERS and accordingly now have 100% ownership. On that date, we gained control of MERS, now part of ICE Mortgage Services, began to include its results as
+
+41
+
+part of our consolidated operations, and recorded a $110 million gain on our initial investment value as other non-operating income.
+Launch of Bakkt
+On December 19, 2018, we and non-ICE limited partners funded the newly-formed entity, Bakkt, LLC, or Bakkt. Bakkt was formed to create an integrated platform that enables consumers and institutions to transact in digital assets. The Bakkt ecosystem is designed to include regulated trading, clearing and custodial solutions for digital assets, which will be supported by ICE Futures U.S. and ICE Clear U.S. The first traded contract targeted for launch will be a Bakkt Bitcoin physically delivered daily futures contract to provide price discovery. The custodial solution will establish new protocols for managing the specific security and settlement requirements of digital currencies. In addition, there will be a separate guaranty fund. It is also expected that Bakkt will offer additional solutions to expand the range of uses for digital assets.
+Investment in Euroclear
+During 2017, we purchased a 4.7% stake in Euroclear valued at €276 million in cash ($327 million). Upon purchasing this stake, we agreed to participate on the Euroclear Board of Directors. During the same period, we negotiated an additional purchase which closed on February 21, 2018, following regulatory approval. This provided us with an additional 5.1% stake in Euroclear for a purchase price of €246 million in cash ($304 million). As of December 31, 2018, we own a 9.8% stake in Euroclear for a total investment of $631 million. Euroclear is a provider of post-trade services, including settlement, central securities depositories and related services for cross-border transactions across asset classes. Refer to Note 4 to our consolidated financial statements, included elsewhere in this Annual Report, for more information.
+Purchase of Non-Controlling Interests
+For consolidated subsidiaries in which our ownership is less than 100% and for which we have control over the assets, liabilities and management of the entity, the outside stockholders’ interests are shown as non-controlling interest in our consolidated financial statements. As of December 31, 2017, non-controlling interest consisted of the operating results of our CDS clearing subsidiaries in which non-ICE limited partners held a 29.9% ownership interest. During September 2018, we purchased a 3.2% ownership interest from a non-ICE limited partner and the remaining other limited partners hold a 26.7% ownership interest as of December 31, 2018.
+
+42
+
+Consolidated Financial Highlights
+The following summarizes our results and significant changes in our consolidated financial performance for the periods presented (dollars in millions, except per share amounts):
+
+------------------------------------------------------------------------------ ----------------------- ----- ---- -- ----------------------- ----- ------ --- ---- -- ------ - ----- ---- - -------- ----- - --- --
+
+ Year Ended December 31, Year Ended December 31,
+ 2018 2017 Change 2017 2016 Change
+Revenues, less transaction-based expenses $ 4,979 $ 4,638 7 % $ 4,638 $ 4,512 3 %
+Operating expenses $ 2,396 $ 2,259 6 % $ 2,259 $ 2,340 (3 )%
+Adjusted operating expenses(1) $ 2,071 $ 1,947 6 % $ 1,947 $ 1,955 — %
+Operating income $ 2,583 $ 2,379 9 % $ 2,379 $ 2,172 10 %
+Adjusted operating income(1) $ 2,908 $ 2,691 8 % $ 2,691 $ 2,557 5 %
+Operating margin 52 % 51 % 1 pt 51 % 48 % 3 pts
+Adjusted operating margin(1) 58 % 58 % — 58 % 57 % 1 pt
+Other income (expense), net $ (63 ) 147 n/a 147 (129 ) n/a
+Income tax expense (benefit) $ 500 $ (28 ) n/a $ (28 ) $ 586 n/a
+Effective tax rate 20 % (1 )% 21 pts (1 )% 29 % (30 pts)
+Net income attributable to ICE $ 1,988 $ 2,526 (21 )% $ 2,526 $ 1,430 77 %
+Adjusted net income attributable to ICE(1) $ 2,077 $ 1,764 18 % $ 1,764 1,673 5 %
+Diluted earnings per share attributable to ICE common stockholders $ 3.43 $ 4.25 (19 )% $ 4.25 $ 2.39 78 %
+Adjusted diluted earnings per share attributable to ICE common stockholders(1) $ 3.59 $ 2.97 21 % $ 2.97 $ 2.79 6 %
+Cash flows from operating activities $ 2,533 $ 2,085 21 % $ 2,085 $ 2,149 (3 )%
+
+(1) The adjusted figures exclude items that are not reflective of our ongoing core operations and business performance. Adjusted net income attributable to ICE and adjusted diluted earnings per share attributable to ICE common stockholders, are presented net of taxes. These adjusted numbers are not calculated in accordance with GAAP. See “- Non-GAAP Financial Measures” below.
+
+43
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Revenues, less transaction-based expenses, increased $341 million in 2018 from 2017. The increase in revenues includes $26 million in favorable foreign exchange effects arising from the weaker U.S. dollar in 2018 from 2017.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Revenues, less transaction-based expenses, increased $126 million in 2017 from 2016. The increase in revenues includes $22 million in unfavorable foreign exchange effects arising from the strengthening U.S. dollar in 2017 from 2016.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Operating expenses increased $137 million in 2018 from 2017. The increase in operating expenses includes $11 million in unfavorable foreign exchange effects arising from the weaker U.S. dollar in 2018 from 2017.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Operating expenses decreased $81 million in 2017 from 2016. The decrease in operating expenses includes $13 million in favorable foreign exchange effects arising from the strengthening U.S. dollar in 2017 from 2016.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• In connection with our acquisition of MERS, we recorded a $110 million gain in other income during 2018. In connection with Cetip’s merger with BM&FBOVESPA S.A., now B3, we recognized a $167 million net realized investment gain in other income, net in 2017. We also recognized a net gain of $110 million in connection with our divestiture of Trayport in other income (expense), net in 2017.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Excluding the 2017 deferred tax benefit from the U.S. tax law changes, the 2018 effective tax rate is lower than the 2017 effective tax rate due to the TCJA, which reduced the U.S. federal corporate income tax rate from 35% to 21% effective January 1, 2018, tax benefits from our acquisition of MERS, deferred tax benefits from the U.S. tax rate reduction resulting from changes in estimates and additional tax benefits associated with our sale of Trayport.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The 2017 effective tax rate is lower than the 2016 effective tax rate due to a $764 million deferred tax benefit associated with the enactment of the TCJA in 2017.
+
+Business Environment and Market Trends
+Our business environment has been characterized by:
+
+- ------------------------------------------------------
+• globalization of exchanges, customers and competitors;
+
+- -------------------------------------------------------
+• lower interest rates and financial markets uncertainty;
+
+- ---------------------------------------------------------------------------------------------------------------------------------------
+• rising demand for speed, data, data capacity and connectivity by market participants, necessitating increased investment in technology;
+
+- ----------------------------------------------------------------
+• evolving and disparate regulation across multiple jurisdictions;
+
+- ------------------------------------------------------
+• increasing focus on capital and cost efficiencies; and
+
+- -------------------------------------------------------------------------------------------------
+• consolidation and increasing competition among global markets for trading, clearing and listings.
+
+Price volatility increases the need to hedge risk and creates demand among market participants for the exchange of risk through trading and clearing. Market liquidity is one of the primary market attributes for attracting and maintaining customers and is an important indicator of a market’s strength. In addition, the ability to evolve existing products to serve emerging needs, develop new products and respond to competitive dynamics in pricing, exclusivity and consolidation is important to our business.
+Recent changes with regard to global financial reform have emphasized the importance of transparent markets, centralized clearing and access to data, all of which are important aspects of our product offering. However, some of the proposed rules have yet to be implemented and some rules that have already been partially implemented are being reconsidered. In addition, some of the global regulations have not been fully harmonized and several of the MiFID II regulations are inconsistent with U.S. rules. As the evolution continues, legislative and regulatory actions may change the way we conduct our business and may create uncertainty for market participants, which could affect trading volumes or demand for market data. As a result, it is difficult to predict all of the effects that the legislation and its implementing regulations will have on us. As discussed more fully in Item 1 “- Business - Regulation” included in this Annual Report, Brexit, the implementation of MiFID II and other regulations may result in operational, regulatory and/or business risk.
+In recent years, low interest rates and uncertainty in the financial markets continued to reflect the impact of a relatively slow economic recovery. Lower growth in Asia and the EU may also continue to affect global financial markets. In addition, economic and regulatory uncertainty, coupled with periods of high market volatility around geopolitical events, low interest rates and low natural gas prices, has affected our clients’ activities in recent years. The duration of these trends will determine the continued impact on our business.
+
+44
+
+We have diversified our business so that we are not dependent on volatility or trading activity in any one asset class. In addition, we have increased our portion of non-transaction and clearing revenues from 39% in 2014 to 56% in 2018. This non-transaction revenue includes data services and listings.
+Many of the data products we sell and services we provide are required for our clients’ business operations regardless of market volatility or shifts in business profitability levels. We anticipate that there will continue to be growth in the financial information services sector driven by a number of global trends, including the following:
+
+- -------------------------------------
+• increasing global regulatory demands;
+
+- --------------------------------------------------------------------------------------
+• greater use of fair value accounting standards and reliance on independent valuations;
+
+- ------------------------------------
+• greater emphasis on risk management;
+
+- --------------------------------------------------
+• market fragmentation driven by regulatory changes;
+
+- ---------------------------------------------
+• the move to passive investing and indexation;
+
+- --------------------------------------------------------------
+• ongoing growth in the size and diversity of financial markets;
+
+- ----------------------------------------------------------------------
+• increased automation of fixed income and other less automated markets;
+
+- -------------------------------------
+• the development of new data products;
+
+- ------------------------------------------------------
+• the demand for greater data capacity and connectivity;
+
+- -----------------
+• new entrants; and
+
+- --------------------------------------------------------------------
+• increasing demand for outsourced services by financial institutions.
+
+We continue to focus on our strategy to grow each of our revenue streams, as well as on our company-wide expense reduction initiatives and our synergies in connection with our acquisitions in order to mitigate these uncertainties and to build on our growth opportunities by leveraging our proprietary data, clearing and markets.
+
+Segment Results
+Our business is conducted through two reportable business segments:
+
+- --------------------------------------------------------------------------------------------------
+• Trading and Clearing, which comprises our transaction-based execution and clearing businesses; and
+
+- -----------------------------------------------------------------------------------------------------------
+• Data and Listings, which comprises our subscription-based data services and securities listings businesses.
+
+While revenues are recorded specifically in the segment in which they are earned or to which they relate, a significant portion of our operating expenses are not solely related to a specific segment because the expenses serve functions that are necessary for the operation of both segments. We use a pro-rata revenue approach as the allocation method for the expenses that do not relate solely to one segment. Further, we did not allocate expenses to specific revenue streams within these segments since such an allocation is not reasonably possible. Our two segments do not engage in intersegment transactions.
+
+45
+
+Trading and Clearing Segment
+The following presents selected statements of income data for our Trading and Clearing segment (dollars in millions):
+
+46
+
+(1) The adjusted numbers in the charts above are calculated by excluding items that are not reflective of our cash operations and core business performance. As a result, these adjusted numbers are not calculated in accordance with U.S. GAAP. See “- Non-GAAP Financial Measures” below.
+
+----------------------------------------------------- ----------------------- ----- ---- ----- ----------------------- ----- ---- - ---- ----- ------ - ----- --- ----- - -
+
+ Year Ended December 31, Year Ended December 31,
+ 2018 2017 Change 2017 2016 Change
+Revenues:
+Energy futures and options contracts $ 965 $ 909 6 % $ 909 $ 865 5 %
+Agricultural and metals futures and options contracts 251 216 16 216 228 (5 )
+Financial futures and options contracts 354 326 9 326 318 2
+Cash equities and equity options 1,624 1,491 9 1,491 1,780 (16 )
+Fixed income and credit 240 139 72 139 143 (2 )
+OTC and other transactions 49 50 (2 ) 50 50 1
+Transaction and clearing, net 3,483 3,131 11 3,131 3,384 (7 )
+Other revenues 234 202 16 202 177 14
+Revenues 3,717 3,333 12 3,333 3,561 (6 )
+Transaction-based expenses 1,297 1,205 8 1,205 1,459 (17 )
+Revenues, less transaction-based expenses 2,420 2,128 14 2,128 2,102 1
+Other operating expenses 686 592 16 592 573 3
+Depreciation and amortization 215 187 16 187 243 (23 )
+Acquisition-related transaction and integration costs 10 2 n/a 2 10 (83 )
+Operating expenses 911 781 17 781 826 (6 )
+Operating income $ 1,509 $ 1,347 12 % $ 1,347 $ 1,276 6 %
+
+Transaction and Clearing Revenues
+Our transaction and clearing revenues are reported on a net basis, except for the NYSE transaction-based expenses discussed below, and consist of fees collected from our derivatives, fixed income, cash equities and equity options trading and derivatives clearing. In our derivatives markets, we earn transaction and clearing revenues from both counterparties to each contract that is traded and/or cleared, and in our equity and equity options markets, we receive trade execution fees as well as routing fees related to orders in our markets which are routed to other markets for execution.
+Rates per-contract, or RPC, are driven by the number of contracts or securities traded and the fees charged per contract, net of certain rebates. Our per-contract transaction and clearing revenues will depend upon many factors, including, but not limited to, market conditions, transaction and clearing volume, product mix, pricing, applicable revenue sharing and market making agreements, and new product introductions. Because transaction and clearing revenues are generally assessed on a per-contract basis, revenues and profitability fluctuate with changes in contract volume and due to product mix.
+
+47
+
+In 2018, 2017 and 2016, 20%, 20% and 19%, respectively, of our Trading and Clearing segment revenues, less transaction-based expenses, were billed in pounds sterling or euros. Due to the fluctuations of the pound sterling and euro over the last two years compared to the U.S. dollar, our Trading and Clearing segment revenues, less transaction-based expenses, were higher by $18 million in 2018 from 2017, and were lower by $14 million in 2017 from 2016.
+Our transaction and clearing revenues are presented net of rebates. We recorded rebates of $844 million, $749 million and $674 million in 2018, 2017 and 2016, respectively. We offer rebates in certain of our markets primarily to support market liquidity and trading volume by providing qualified participants in those markets a discount to the applicable commission rate. Such rebates are calculated based on volumes traded. The increase in the rebates is due primarily to an increase in the number of participants in the rebate programs offered on various contracts, an increase in our traded volume and an increase in the number of rebate programs.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Energy Futures and Options Contracts: Total energy volume and revenues increased 1% and 6%, respectively, in 2018 from 2017, and increased 8% and 5%, respectively, in 2017 from 2016. Revenues increased in 2018 from 2017 due to a higher mix of gasoil, emissions and TTF gas volumes, which have a higher average RPC than other energy products.
+
+Total oil volume increased 3% in 2018 from 2017, and increased 14% in 2017 from 2016. ICE Brent crude futures and options volume was flat in 2018 from 2017, and increased 15% in 2017 from 2016. ICE WTI crude futures and options volume increased 5% in 2018 from 2017, and increased 14% in 2017 from 2016. The volume increases were primarily due to increased oil price volatility related to shifting supply and demand dynamics globally; broader market volatility in oil products, equities and foreign exchange rates; acts of central governments; outcomes of elections; and uncertainty around the Organization of Petroleum Exporting Countries, or OPEC, policy. Our record gasoil futures and options volume in 2018 increased 11% from 2017, and increased 13% in 2017 from 2016. Gasoil futures and options increased during 2018 and 2017 primarily due to increased demand for distillates, strong economic activity in Europe and Asia and regulatory uncertainty.
+Our global natural gas futures and options volume decreased 4% in 2018 from 2017, and decreased 1% in 2017 from 2016. The volume decrease in 2018 from 2017 was primarily due to lower U.S. price volatility reducing our commercial customers’ need to hedge the Henry Hub contract, and depressed gas prices driven by a continued surplus of natural gas during 2018 as compared to 2017. Our 2018 Henry Hub natural gas volume decrease was partially offset by increased volumes in our North American basis market and TTF gas in Europe. Our record TTF gas volumes in 2018 were driven by changing natural gas dynamics due to the continued globalization of natural gas. Emission futures and options volumes increased 73% in 2018 from 2017, and increased 1% in 2017 from 2016. Our record emissions volumes in 2018 were driven by higher carbon prices and supply-demand dynamics impacted by regulatory uncertainty.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Agricultural and Metals Futures and Options Contracts: Total volume and revenues in our agricultural and metals futures and options markets increased 15% and 16%, respectively, in 2018 from 2017, and decreased 7% and 5%, respectively, in 2017 from 2016. Volume in our largest agricultural contract, sugar futures and options, increased 20% in 2018 from 2017, and decreased 10% in 2017 from 2016. Other agricultural and metal futures and options volume increased 11% in 2018 from 2017, and decreased 4% in 2017 from 2016. The increases in agricultural volumes to record levels in 2018 were primarily driven by price volatility resulting from shifting supply and demand dynamics. The decreases in agricultural volume in 2017 were primarily driven by the reduced price volatility in 2017 compared to the higher price volatility in 2016.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Financial Futures and Options Contracts: Interest rates futures and options volume and revenue increased 14% and 19%, respectively, in 2018 from 2017, and increased 27% and 9%, respectively, in 2017 from 2016. Our record level interest rate futures and options volume in 2018 was driven by expectations for heightened central bank activity during 2018, coupled with geopolitical uncertainty in the U.K. and Europe. Interest rates futures and options revenues were $230 million, $193 million and $177 million in 2018, 2017 and 2016, respectively.
+
+Other financial futures and options volume decreased 9% in 2018 from 2017, and decreased 19% in 2017 from 2016. The decrease was primarily due to the termination of our exclusive license to list futures and options contracts on the Russell® indices. Excluding the futures and options contracts on the Russell® indices, other financial futures and options volume increased 18% in 2018 from 2017. Other financial futures and options revenues were $124 million, $133 million and $141 million in 2018, 2017 and 2016, respectively.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Cash Equities and Equity Options: Cash equities handled volume increased 14% in 2018 from 2017, primarily due to higher total U.S. equity volumes driven by heightened volatility in the U.S. equity markets coupled with the May
+
+48
+
+2018 commencement of trading of NYSE National and the July 2018 acquisition of CHX. Cash equities handled volume decreased 17% in 2017 from 2016, primarily due to reduced U.S. equities market volatility during 2017 as compared to 2016. Cash equities revenues, net of transaction-based expenses, were $220 million, $196 million, and $223 million in 2018, 2017 and 2016, respectively.
+Equity options volume increased 43% in 2018 from 2017 primarily due to heightened volatility in the U.S. equity markets, as well as increased market share in 2018 due to greater volatility. Equity options volume decreased 13% in 2017 from 2016 primarily due to lower U.S. equity market volatility and the restructuring of the NYSE American Options business. Equity options revenues, net of transaction-based expenses, were $107 million, $90 million and $98 million in 2018, 2017 and 2016, respectively.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Fixed Income and Credit: CDS clearing revenues were $139 million, $113 million and $107 million in 2018, 2017 and 2016, respectively. The notional value of CDS cleared was $16.4 trillion, $11.5 trillion and $11.5 trillion, in 2018, 2017 and 2016, respectively. Buy-side participation at our U.S. CDS clearing house, ICE Clear Credit, reached record levels in terms of number of participants and notional cleared due to increased participation from both U.S. and European buy-side customers due to greater regulatory certainty, depth of liquidity, the breadth of products offered, and cost efficient margining in the U.S. relative to Europe. Fixed income and credit also includes revenues from ICE Bonds, which includes ICE BondPoint, TMC Bonds, ICE Credit Trade and ICE Mortgage Services.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------
+• OTC and Other Transactions: OTC and other transactions include revenues from our OTC energy business and other trade confirmation services.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Other Revenues: Other revenues primarily include interest income on certain clearing margin deposits, regulatory penalties and fines, fees for use of our facilities, regulatory fees charged to member organizations of our U.S. securities exchanges, designated market maker service fees, exchange membership fees and agricultural grading and certification fees. The increase in other revenues in 2018 from 2017 is primarily due to increased interest income earned on certain clearing margin deposits, as well as a $5 million settlement received by NYSE Regulation from ING Financial Markets, LLC, or ING, following an investigation into improper conduct by ING's lending desk from 2007 to 2015. The 2018 increase was partially offset by a $6 million breakup fee received in August 2017 related to the termination of the derivatives clearing agreement with Euronext Group N.V.'s, or Euronext, under which ICE Clear Netherlands was to provide clearing of Euronext's financial and commodity derivatives.
+
+Selected Operating Data
+The following charts and table present trading activity in our futures and options markets by commodity type based on the total number of contracts traded, as well as futures and options rate per contract (in millions, except for percentages and rate per contract amounts):
+
+----------------------------
+
+Volume and Rate per Contract
+
+49
+
+------------------------------------------------------- ----------------------- ---- ---- ----- ----------------------- ---- ---- - ---- ----- ------ - ----- -- ---- --- --
+
+ Year Ended December 31, Year Ended December 31,
+ 2018 2017 Change 2017 2016 Change
+Number of contracts traded (in millions):
+Energy futures and options 692 685 1 % 685 635 8 %
+Agricultural and metals futures and options 107 94 15 94 101 (7 )
+Financial futures and options 710 647 10 647 564 15
+Total 1,509 1,426 6 % 1,426 1,300 10 %
+
+ Year Ended December 31, Year Ended December 31,
+ 2018 2017 Change 2017 2016 Change
+Average Daily Volume of contracts traded (in millions):
+Energy futures and options 2,747 2,731 1 % 2,731 2,521 8 %
+Agricultural and metals futures and options 427 374 14 374 399 (6 )
+Financial futures and options 2,770 2,536 9 2,536 2,205 15
+Total 5,944 5,641 5 % 5,641 5,125 10 %
+
+ Year Ended December 31, Year Ended December 31,
+Rate per contract: 2018 2017 Change 2017 2016 Change
+Energy futures and options $ 1.39 $ 1.33 5 % $ 1.33 $ 1.36 (2 )%
+Agricultural and metals futures and options $ 2.34 $ 2.30 2 % $ 2.30 $ 2.27 1 %
+Financial futures and options $ 0.49 $ 0.49 — % $ 0.49 $ 0.54 (10 )%
+
+Open interest is the aggregate number of contracts (long or short) that clearing members hold either for their own account or on behalf of their clients. Open interest refers to the total number of contracts that are currently “open,” – in other words, contracts that have been traded but not yet liquidated by either an offsetting trade, exercise, expiration, or assignment. Open interest is also a measure of the future activity remaining to be closed out in terms of the number of contracts that members and their clients continue to hold in the particular contract and by the number of contracts held for each contract month listed by the exchange. The following charts and table present our year-end open interest for our futures and options contracts (in thousands, except for percentages):
+
+-------------
+
+Open Interest
+
+50
+
+------------------------------------------- ------------------ ---- ------ ------------------ ---- - ---- ------ ------ ------ --- -
+
+ As of December 31, As of December 31,
+ 2018 2017 Change 2017 2016 Change
+Open interest — in thousands of contracts:
+Energy futures and options 35,019 33,906 3 % 33,906 32,096 6 %
+Agricultural and metals futures and options 3,643 3,391 7 % 3,391 3,920 (14 )
+Financial futures and options 29,061 24,025 21 % 24,025 19,413 24
+Total 67,723 61,322 10 % 61,322 55,429 11 %
+
+The following charts and tables present selected cash and equity options trading data. All trading volume below is presented as average net daily trading volume and is single counted:
+
+51
+
+---------------------------------------------------------------------- ----------------------- - ------ ------ ----------------------- -- --------- ------ ---- ------ ------ - ------ - --------- --
+
+ Year Ended December 31, Year Ended December 31,
+ 2018 2017 Change 2017 2016 Change
+NYSE cash equities (shares in millions):
+NYSE listed (Tape A) issues:
+Handled volume 1,150 1,086 6 % 1,086 1,269 (14 )%
+Matched volume 1,140 1,077 6 % 1,077 1,256 (14 )%
+Total NYSE listed consolidated volume 3,647 3,434 6 % 3,434 3,918 (12 )%
+Share of total matched consolidated volume 31.3 % 31.4 % (0.1) pts 31.4 % 32.1 % (0.7) pts
+NYSE Arca, NYSE American and regional listed (Tape B) issues:
+Handled volume 369 289 27 % 289 372 (22 )%
+Matched volume 359 281 28 % 281 360 (22 )%
+Total NYSE Arca, NYSE American and regional listed consolidated volume 1,435 1,188 21 % 1,188 1,536 (23 )%
+Share of total matched consolidated volume 25.0 % 23.7 % 1.3 pts 23.7 % 23.4 % 0.2 pts
+Nasdaq listed (Tape C) issues:
+Handled volume 215 145 48 % 145 186 (22 )%
+Matched volume 203 136 49 % 136 177 (23 )%
+Total Nasdaq listed consolidated volume 2,253 1,921 17 % 1,921 1,907 1 %
+Share of total matched consolidated volume 9.0 % 7.1 % 1.9 pts 7.1 % 9.3 % (2.2) pts
+Total cash handled volume 1,734 1,521 14 % 1,521 1,828 (17 )%
+Total cash market share matched 23.2 % 22.8 % 0.4 pts 22.8 % 24.4 % (1.5) pts
+
+NYSE equity options (contracts in thousands):
+NYSE equity options volume 3,386 2,375 43 % 2,375 2,719 (13 )%
+Total equity options volume 18,217 14,697 24 % 14,697 14,391 2 %
+NYSE share of total equity options 18.6 % 16.2 % 2.4 pts 16.2 % 18.9 % (2.7) pts
+
+Revenue capture or rate per contract:
+Cash equities rate per contract (per 100 shares) $0.050 $0.051 (2 )% $0.051 $0.049 6 %
+Equity options rate per contract $0.12 $0.15 (17 )% $0.15 $0.14 5 %
+
+Handled volume represents the total number of shares of equity securities, ETFs and crossing session activity internally matched on our exchanges or routed to and executed on an external market center. Matched volume represents the total number of shares of equity securities, ETFs and crossing session activity executed on our exchanges.
+For NYSE cash equities, market share increased in 2018 due to increased equity market volatility, the commencement of trading on NYSE National and the acquisition of CHX. NYSE cash equities market share declined during 2017 due to historically low volatility driving more trading to off-exchange trading venues, particularly dark-pools. For NYSE equity options, 2018 market share improved due to greater equity market volatility and decreased in 2017 due to a strategic focus on maximizing revenues in an extremely competitive environment.
+Transaction-Based Expenses
+Our equities and equity options markets pay fees to the SEC pursuant to Section 31 of the Exchange Act. Section 31 fees are recorded on a gross basis as a component of transaction and clearing fee revenue. These Section 31 fees are assessed to recover the government’s costs of supervising and regulating the securities markets and professionals. We, in turn, collect corresponding activity assessment fees from member organizations clearing or settling trades on the equities and options exchanges, and recognize these amounts in our transaction and clearing revenues when invoiced. The activity assessment fees are designed to equal the Section 31 fees. As a result, activity assessment fees and the corresponding Section 31 fees do not have an impact on our net income, although the timing of payment by us may vary from collections. The fees we collect are included in cash at the time of receipt and we remit the amounts to the SEC semi-annually as required. The total amount is included in accrued liabilities and was $105 million as of December 31, 2018.
+
+52
+
+We make liquidity payments to cash and options trading customers, as well as routing charges made to other exchanges included in transaction-based expenses. We incur routing charges when we do not have the best bid or offer in the market for a security that a customer is trying to buy or sell on one of our securities exchanges. In that case, we route the customer’s order to the external market center that displays the best bid or offer. The external market center charges us a fee per share (denominated in tenths of a cent per share) for routing to its system. We record routing charges on a gross basis as a component of transaction and clearing fee revenue.
+Operating Expenses, Operating Income and Operating Margin
+Our Trading and Clearing segment operating expenses increased $130 million in 2018 from 2017, and decreased $45 million in 2017 from 2016, partially related to the $33 million Creditex customer relationship intangible asset impairment expense recorded in 2016. See “- Consolidated Operating Expenses” below for a discussion of the significant changes in our operating expenses. Our Trading and Clearing segment operating income increased $162 million in 2018 from 2017, and increased $71 million in 2017 from 2016. Trading and Clearing segment operating margins were 62%, 63% and 61% in 2018, 2017 and 2016, respectively. The operating income increases in the last two years were driven by the revenue increases discussed above.
+Our Trading and Clearing segment adjusted operating expenses were $824 million, $714 million and $716 million in 2018, 2017 and 2016, respectively. Our Trading and Clearing segment adjusted operating income was $1.6 billion, $1.4 billion and $1.4 billion in 2018, 2017 and 2016, respectively. Our Trading and Clearing segment adjusted operating margins were 66% in 2018, 2017 and 2016. See “- Non-GAAP Financial Measures” below.
+Data and Listings Segment
+The following charts and table present our selected statements of income data for our Data and Listings segment (dollars in millions):
+
+53
+
+(1) The adjusted numbers in the charts above are calculated by excluding items that are not reflective of our cash operations and core business performance. As a result, these adjusted numbers are not calculated in accordance with U.S. GAAP. See “- Non-GAAP Financial Measures” below.
+
+----------------------------------------------------- ----------------------- ----- ---- ----- ----------------------- ----- ---- - ---- ----- ------ - ----- --- --- -- -
+
+ Year Ended December 31, Year Ended December 31,
+ 2018 2017 Change 2017 2016 Change
+Revenues:
+Pricing and analytics $ 1,043 $ 970 7 % $ 970 $ 858 13 %
+Exchange data and feeds 670 632 6 632 602 5
+Desktops and connectivity 402 482 (17 ) 482 518 (7 )
+Data services 2,115 2,084 1 2,084 1,978 5
+Listings 444 426 4 426 432 (1 )
+Revenues 2,559 2,510 2 2,510 2,410 4
+Other operating expenses 1,090 1,096 (1 ) 1,096 1,077 2
+Acquisition-related transaction and integration costs 24 34 (29 ) 34 70 (52 )
+Depreciation and amortization 371 348 6 348 367 (5 )
+Operating expenses 1,485 1,478 — 1,478 1,514 (2 )
+Operating income $ 1,074 $ 1,032 4 % $ 1,032 $ 896 15 %
+
+Data Services Revenues
+Our Data and Listings segment represents subscription-based, or recurring, revenues from data services and listings services offered across our trading and clearing businesses and ICE Data Services. Through ICE Data Services, we generate revenues from a range of global financial and commodity markets, including pricing and reference data, exchange data, analytics, feeds, index services, desktops and connectivity solutions. Through NYSE, NYSE American and NYSE Arca, we generate listings revenue related to the provision of listings services for public companies and ETFs, and related corporate actions for listed companies.
+In 2018, 2017 and 2016, 8%, 10% and 12%, respectively, of our Data and Listings segment revenues were billed in pounds sterling or euros (all relating to our data services revenues). As the pound sterling or euro exchange rate changes, the U.S. equivalent of revenues denominated in foreign currencies changes accordingly. Due to the weakening of the U.S. dollar compared to the pound sterling and euro during 2018, our data services revenues were higher by $7 million in 2018 than in 2017. Due to the weakening of the pound sterling and euro compared to the U.S. dollar during 2017, our data services revenues were lower by $8 million in 2017 than in 2016.
+Our data services revenues are primarily subscription-based and increased 1% in 2018 from 2017, and increased 5% in 2017 from 2016. The increases in revenues in both 2018 and 2017 were primarily due to the strong retention rate of
+
+54
+
+existing customers, the addition of new customers, increased purchases by existing customers and increases in pricing of our products, partially offset by the divestitures of IDMS in March 2017 and Trayport in December 2017 within our desktop and connectivity business. The increase in revenue in 2017 from 2016 was also partially due to our acquisitions of TMX Atrium in May 2017 and BofAML's Global Research division’s index business in October 2017 and the impact of foreign currency translation.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Pricing and Analytics: Our pricing and analytics revenues increased 7% in 2018 from 2017 and increased 13% in 2017 from 2016. The increases in revenue were driven by the strong retention rate of existing customers, the addition of new customers, increased purchases by existing customers, increases in pricing of our products and the acquisition and further distribution of the ICE BofAML Indices.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Exchange Data and Feeds: Our exchange data and feeds revenues increased 6% in 2018 from 2017 and increased 5% in 2017 from 2016. The increases in revenues were driven by the strong retention rate of existing customers, the addition of new customers, increased purchases by existing customers and a larger share of the NMS Plan revenue.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Desktops and Connectivity: Our desktop and connectivity revenues decreased 17% in 2018 from 2017 and decreased 7% in 2017 from 2016 driven primarily by the divestitures of IDMS and Trayport in 2017.
+
+Annual Subscription Value, or ASV, represents, at a point in time, the data services revenues subscribed for the succeeding 12 months. ASV does not include new sales, contract terminations or price changes that may occur during that 12-month period. ASV also does not include certain data services revenue streams that are not subscription-based. Revenue from ASV businesses has historically represented approximately 90% of our data revenues. Thus, while it is an indicative forward-looking metric, it does not provide a growth forecast of the next 12 months of data services revenues.
+As of December 31, 2018, ASV was $1.922 billion, which increased 6.1% compared to the ASV as of December 31, 2017. This does not adjust for year-over-year foreign exchange fluctuations or impacts of acquisitions. Underpinning this growth is strength in our pricing & analytics business.
+Listings Revenues
+Listings revenues in our securities markets arise from fees applicable to companies listed on our cash equities exchanges - original listing fees and annual listing fees. Original listing fees consist of two components: initial listing fees and fees related to corporate actions. Initial listing fees, subject to a minimum and maximum amount, are based on the number of shares that a company initially lists. All listings fees are billed upfront and the identified performance obligations are satisfied over time. Revenue related to the investor relations performance obligation is recognized ratably over a two-year period, with the remaining revenue recognized ratably over time as customers continue to list on our exchanges, which is generally estimated to be over a period of up to nine years for NYSE and up to five years for NYSE Arca and NYSE American.
+In addition, we earn corporate actions-related listing fees in connection with actions involving the issuance of new shares, such as stock splits, rights issues and sales of additional securities, as well as mergers and acquisitions. Listings fees related to other corporate actions are considered contract modifications of our listing contracts and are recognized ratably over time as customers continue to list on our exchanges, which is generally estimated to be a period of six years for NYSE and three years for NYSE Arca and NYSE American.
+Our listings revenues increased 4% in 2018 from 2017 and decreased 1% in 2017 from 2016 due to changes in market conditions for IPOs.
+Operating Expenses, Operating Income and Operating Margin
+Our Data and Listings segment operating expenses increased $7 million in 2018 from 2017, and decreased $36 million in 2017 from 2016. See “- Consolidated Operating Expenses” below for a discussion of the significant changes in our operating expenses. Our Data and Listings segment operating income increased $42 million in 2018 from 2017, and increased $136 million in 2017 from 2016. Our Data and Listings segment operating margins were 42%, 41% and 37% in 2018, 2017 and 2016, respectively. The operating income and operating margin increases during 2018 and 2017 were driven by the revenue increases discussed above.
+Our Data and Listings segment adjusted operating expenses were $1.2 billion in 2018, 2017 and 2016. Our Data and Listings segment adjusted operating income was $1.3 billion, $1.3 billion and $1.2 billion in 2018, 2017 and 2016, respectively. Our Data and Listings segment adjusted operating margins were 51%, 51% and 49% in 2018, 2017 and 2016, respectively. See “- Non-GAAP Financial Measures” below.
+
+55
+
+Consolidated Operating Expenses
+The following presents our consolidated operating expenses (dollars in millions):
+
+----------------------------------------------------- ----------------------- ----- ---- --- ----------------------- ----- ---- ---- - ------ - ----- - - ----- -- --
+
+ Year Ended December 31, Year Ended December 31,
+ 2018 2017 Change 2017 2016 Change
+Compensation and benefits $ 994 $ 946 5 % $ 946 $ 953 (1 )%
+Professional services 131 121 8 121 137 (12 )
+Acquisition-related transaction and integration costs 34 36 (5 ) 36 80 (56 )
+Technology and communication 432 397 9 397 374 6
+Rent and occupancy 68 69 (2 ) 69 70 (1 )
+Selling, general and administrative 151 155 (3 ) 155 116 34
+Depreciation and amortization 586 535 10 535 610 (12 )
+Total operating expenses $ 2,396 $ 2,259 6 % $ 2,259 $ 2,340 (3 )%
+
+56
+
+The majority of our operating expenses do not vary directly with changes in our volume and revenues, except for certain technology and communication expenses and a portion of our compensation expense that is tied directly to our data sales or overall financial performance.
+We expect our operating expenses to increase in absolute terms in future periods in connection with our acquisitions and growth of our business, and to vary from year-to-year based on the type and level of our acquisitions, our integrations and other investments.
+In 2018, 2017 and 2016, 13%, 14% and 18%, respectively, of our operating expenses were incurred in pounds sterling or euros. Due to the weakening of the U.S. dollar compared to the pound sterling and euro in 2018, our consolidated operating expenses were higher by $12 million in 2018 than in 2017. Due to the weakening of the pound sterling and euro as compared to the U.S. dollar in 2017, our consolidated operating expenses were lower by $14 million in 2017 than in 2016. See Item 7(A) “- Quantitative and Qualitative Disclosures About Market Risk - Foreign Currency Exchange Rate Risk” below for additional information.
+Compensation and Benefits Expenses
+Compensation and benefits expense is our most significant operating expense and includes non-capitalized employee wages, bonuses, non-cash or stock compensation, certain severance costs, benefits and employer taxes. The bonus component of our compensation and benefits expense is based on both our financial performance and the individual employee performance. The performance-based restricted stock compensation expense is also based on our financial performance. Therefore, our compensation and benefits expense will vary year-to-year based on our financial performance and fluctuations in the number of employees.
+As of December 31, 2018, we had 5,161 employees, compared to 4,952 and 5,631 as of December 31, 2017 and December 31, 2016, respectively. Our employee headcount increased in 2018 from 2017 primarily due to new employees related to the acquisitions of BondPoint in January 2018, CHX Holdings, Inc. and TMC Bonds in July 2018 and MERS in October 2018, partially offset by continued employee terminations associated with our integration of Interactive Data. Our employee headcount decreased in 2017 from 2016 primarily due to the divestitures in 2017 of IDMS, Trayport and NYSE Governance Services, and employee terminations in connection with our integration of Interactive Data, partially offset by new employees related to the acquisitions of ICE NGX and TMX Atrium in 2017. See “- Recent Developments” above.
+Our compensation and benefits expenses increased in 2018 from 2017 primarily due to employee severance and retention costs and a net increase in our employee headcount, partially offset by a decrease in non-cash compensation expense. We incurred employee severance and retention costs of $41 million, $21 million and $10 million in 2018, 2017 and 2016, respectively. The decrease in compensation and benefits expenses in 2017 from 2016 was minimal.
+Non-cash compensation expenses recognized in our consolidated financial statements for employee stock options and restricted stock were $130 million, $135 million and $123 million in 2018, 2017 and 2016, respectively. The decrease in non-cash compensation expenses in 2018 from 2017 was primarily related to a change in ICE’s non-cash incentive plans that reduced the overall amount of non-cash incentives awarded. The increase in non-cash compensation expenses in 2017 from 2016 primarily relates to the integration of the Interactive Data employees into the ICE non-cash incentive plans.
+Professional Services Expenses
+This expense includes fees for consulting services received on strategic and technology initiatives, temporary labor, as well as regulatory, legal and accounting fees, and may fluctuate as a result of changes in consulting and technology services, temporary labor, and regulatory, accounting and legal proceedings.
+Professional services expenses increased in 2018 from 2017 primarily due to consulting and legal fees related to software development consulting costs. Professional services expenses decreased in 2017 from 2016 primarily due to the continued reduction in professional services and contractors at NYSE. We eliminated or replaced certain contractor positions with full-time employees at NYSE in 2016. In addition, during 2016, we recorded a credit from a third-party service provider related to fees charged in a prior period. Legal fees, which are included in professional services expenses, primarily related to class action lawsuits in which NYSE was a defendant. These decreases were partially offset by professional services expenses incurred by Interactive Data, Trayport, Securities Evaluations and Credit Market Analysis.
+Acquisition-Related Transaction and Integration Costs
+In 2018, we incurred $34 million in acquisition-related transaction and integration costs, primarily relating to employee terminations and lease terminations in connection with our our integrations of Interactive Data, Securities Evaluations and
+
+57
+
+Credit Market Analysis, professional services costs from our 2018 acquisitions, and a $5 million banker success fee in connection with our acquisition of TMC Bonds. The integration of Interactive Data was completed by June 30, 2018.
+In 2017, we incurred $36 million in acquisition-related transaction and integration costs, primarily relating to our integrations of Interactive Data, Securities Evaluations and Credit Market Analysis and our acquisitions of BondPoint, TMX Atrium, the ICE BofAML Indices and NYSE National. Of this amount, $11 million was primarily related to the acquisitions. We incurred $25 million for Interactive Data, Securities Evaluations and Credit Market Analysis integration costs relating to employee and lease termination costs and professional services costs.
+In 2016, we incurred $80 million in acquisition-related transaction and integration costs primarily relating to our integrations of Interactive Data and NYSE, legal and professional fees related to the Trayport CMA review, our investment in MERS, our acquisitions of Securities Evaluations and Credit Market Analysis, and various other potential and discontinued acquisitions. Of this amount, $41 million was primarily related to the acquisitions and other transaction costs. We incurred $39 million for Interactive Data and NYSE integration costs during 2016, primarily relating to employee and lease termination costs and professional services costs. The integration of NYSE was completed in 2016 and no NYSE integration costs were incurred after 2016.
+We expect to continue to explore and pursue various potential acquisitions and other strategic opportunities to strengthen our competitive position and support our growth. As a result, we may incur acquisition-related transaction costs in future periods. See “- Non-GAAP Financial Measures” below.
+Technology and Communication Expenses
+Technology support services consist of costs for running our wholly-owned data centers, hosting costs paid to third-party data centers, and maintenance of our computer hardware and software required to support our technology and cybersecurity. These costs are driven by system capacity, functionality and redundancy requirements. Communication expenses consist of costs for network connection for our electronic platforms, telecommunications costs, and fees paid for access to external market data. This expense also includes licensing and other fee agreement expenses which may be impacted by growth in electronic contract volume, our capacity requirements, changes in the number of telecommunications hubs and connections with customers to access our electronic platforms directly.
+Technology and communications expenses increased in 2018 from 2017, primarily due to $17 million in data center migrations, hardware support upgrades and cybersecurity investments, $11 million in increased costs related to our recent acquisitions, net of divestitures, and $7 million in increased costs for external market data content acquisition and revenue share agreements related to our product offering. Technology and communications expenses increased in 2017 from 2016, primarily due to $14 million in increased hardware support upgrades and cybersecurity investments, and $10 million in costs related to our recent acquisitions, net of divestitures.
+Rent and Occupancy Expenses
+Rent and occupancy expense relates to leased and owned property and includes rent, maintenance, real estate taxes, utilities and other related costs. We have significant operations located in and around Atlanta, New York and London with smaller offices located throughout the world. See Item 2 “- Properties” above for additional information regarding our leased and owned property.
+Excluding the impact of the acquisitions, rent and occupancy expenses decreased the last two years primarily due to reduced rent and occupancy costs realized from the continued consolidation of our Atlanta, New York and London office locations.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses include marketing, advertising, public relations, insurance, bank service charges, dues and subscriptions, travel and entertainment, non-income taxes and other general and administrative costs.
+Selling, general and administrative expenses decreased in 2018 from 2017, primarily due to $14 million in accruals relating to SEC investigations and inquiries made during 2017. Selling, general and administrative expenses increased in 2017 from 2016, primarily due to the acquisitions of Securities Evaluations and Credit Market Analysis and $14 million in accruals relating to SEC investigations and inquiries. Excluding the impact of acquisitions and the SEC investigations and inquiries, selling, general and administrative expenses decreased the last two years primarily due to lower marketing expenses. Refer to Note 15 to our consolidated financial statements, included elsewhere in this Annual Report, for more information on the SEC investigations and inquiries.
+
+58
+
+Depreciation and Amortization Expenses
+Depreciation and amortization expense results from depreciation of long-lived assets such as buildings, leasehold improvements, planes, furniture, fixtures and equipment over their estimated useful lives. This expense includes amortization of intangible assets obtained in our acquisitions of businesses, as well as on various licensing agreements, over their estimated useful lives. Intangible assets subject to amortization consist primarily of customer relationships, trading products with finite lives and technology. This expense also includes amortization of internally-developed and purchased software over its estimated useful life.
+We recorded amortization expenses on intangible assets acquired as part of our acquisitions, as well as on other intangible assets, of $289 million, $272 million and $323 million in 2018, 2017 and 2016, respectively. Amortization expense increased in 2018 from 2017, as a result of ICE NGX, BondPoint, TMC Bonds, the ICE BofAML Indices, MERS and TMX Atrium intangible assets. In addition, in 2018, we recorded a $4 million impairment loss on exchange registration intangible assets related to our closure of ICE Futures Canada and ICE Clear Canada as amortization expense. This increase in amortization expense was partially offset by a decrease in amortization recorded on our Russell license intangible assets in 2018 from 2017 due to these assets becoming fully amortized, and amortization expense recorded in 2017 as a result of the net loss of $6 million on the sale of NYSE Governance Services.
+The decrease in the amortization expenses recorded on the intangible assets in 2017 from 2016 is primarily due to a reduction in amortization expenses recorded on intangible assets which became fully amortized (primarily related to certain of the NYSE intangible assets) and the divestitures of Trayport and NYSE Governance Services, partially offset by amortization expenses recorded on the Securities Evaluations, Credit Market Analysis, ICE NGX and TMX Atrium intangible assets. In 2016, we recorded an impairment of the Creditex customer relationship intangible asset of $33 million, which was recorded in depreciation and amortization expenses. In 2016, we sold certain of Creditex’s U.S. voice brokerage operations to Tullett Prebon and discontinued Creditex’s U.K. voice brokerage operations. We continue to operate Creditex’s electronically traded markets and systems, post-trade connectivity platforms and intellectual property.
+We recorded depreciation expenses on our fixed assets of $293 million, $257 million and $254 million in 2018, 2017 and 2016, respectively, with the increase in 2018 primarily due to depreciation resulting from increased software development.
+
+Consolidated Non-Operating Income (Expense)
+Income and expenses incurred through activities outside of our core operations are considered non-operating. The following tables present our non-operating income (expenses) (dollars in millions):
+
+--------------------------------------------------- ----------------------- ---- ---- --- ----------------------- ---- ---- - ---- --- ------ - ---- - --- ---- - --- -
+
+ Year Ended December 31, Year Ended December 31,
+ 2018 2017 Change 2017 2016 Change
+Other income (expense):
+Interest income $ 22 $ 8 174 % $ 8 $ 3 135 %
+Interest expense $ (244 ) $ (187 ) 31 % $ (187 ) $ (178 ) 5 %
+Other income, net 159 326 (51 ) 326 46 n/a
+Total other income (expense), net $ (63 ) $ 147 n/a $ 147 $ (129 ) n/a
+
+Net income attributable to non-controlling interest $ (32 ) $ (28 ) 12 % $ (28 ) $ (27 ) 5 %
+
+Interest Income
+We recognized interest income on our investments of $22 million, $8 million and $3 million during 2018, 2017 and 2016, respectively. Interest income increased in 2018 from 2017 primarily due to a rise in short-term interest rates on various investments.
+Interest Expense
+Interest expense increased in 2018 from 2017, primarily due to an increase in the principal and coupon of our bond refinancing in August 2018, as well as a rise in short-term interest rates impacting our Commercial Paper Program. Interest expense increased in 2017 from 2016, primarily due to interest expense that we recognized relating to our bond refinancing in August 2017, partially offset by the September 2017 repayment of $850 million of 2.00% senior unsecured fixed rate notes that were due in October 2017. See “- Debt” below.
+
+59
+
+Other income, net
+In December 2017, we sold Trayport to TMX Group for £550 million ($733 million). We recognized a net gain of $110 million on the divestiture of Trayport, which was recorded as other income in 2017.
+In connection with Cetip’s merger with BM&FBOVESPA S.A., now B3, and its subsequent sale, we recognized a $176 million realized investment gain in other income in 2017 and $9 million in foreign exchange losses and transaction expenses in other expense in 2017. We recognized dividend income received relating to our investment in Cetip in other income, which was $5 million and $17 million in 2017 and 2016, respectively. We no longer receive dividends from Cetip subsequent to its sale in the first quarter of 2017.
+We account for our investments in The Options Clearing Corporation, or OCC, and MERS until our October 2018 acquisition of MERS, as equity method investments. We recognized $46 million, $36 million and $25 million in equity income related to these investments during 2018, 2017 and 2016, respectively, as other income. Prior to October 2018, we owned a majority stake in MERS and treated it as an equity method investment because we did not have the ability to control its operations. On October 3, 2018, we completed the purchase of all remaining interests of MERS and subsequently own 100% of MERS. On that date, we gained control of MERS, began to include MERS's results as part of our consolidated operations and recognized a $110 million gain on our initial investment value in MERS as other income. MERS is now part of ICE Mortgage Services.
+In connection with our equity investment in Euroclear, we recognized dividend income of $15 million in 2018, which is included in other income.
+In connection with our adoption of ASU 2017-07, we are recognizing the other components of net benefit cost of our defined
+benefit plans in the income statement as non-operating income on a full retrospective basis. The combined net periodic (expense) benefit of these plans was ($8 million) and $9 million in 2018 and 2017, respectively.
+We incurred foreign currency transaction losses of $2 million, $4 million and $1 million in 2018, 2017 and 2016, respectively. This was primarily attributable to the fluctuations of the pound sterling and euro relative to the U.S. dollar. Foreign currency gains and losses are recorded in other income, net, when the settlement of foreign currency assets, liabilities and payables that occur through our foreign operations that are received in non-functional currencies due to the increase or decrease in the period-end foreign currency exchange rates between periods. See Item 7A “- Quantitative and Qualitative Disclosures About Market Risk - Foreign Currency Exchange Rate Risk” included elsewhere in this Annual Report for more information on these items.
+Non-controlling Interest
+For consolidated subsidiaries in which our ownership is less than 100%, and for which we have control over the assets, liabilities and management of the entity, the outside stockholders’ interests are shown as non-controlling interest in our consolidated financial statements. As of December 31, 2016, non-controlling interests included those related to the operating results of our CDS clearing subsidiaries in which non-ICE limited partners held a 42.5% net profit sharing interest; ICE Endex in which Gasunie held a 21% ownership interest; and ICE Clear Netherlands in which ABN AMRO Clearing held a 25% ownership interest.
+In 2017, we purchased both Gasunie’s 21% interest in ICE Endex and ABN AMRO Clearing’s 25% interest in ICE Clear Netherlands. Subsequent to these acquisitions, we own 100% of ICE Endex and ICE Clear Netherlands and no longer include any non-controlling interest related to either company in our consolidated financial statements. In addition, in 2017, we purchased 12.6% of the net profit sharing interest in our CDS clearing subsidiaries from several non-ICE limited partners and the remaining partners held a 29.9% net profit sharing interest in our CDS clearing subsidiaries as of December 31, 2017.
+During September 2018, we purchased a 3.2% interest in a non-ICE limited partner of our CDS clearing subsidiaries, and the remaining non-ICE limited partners hold a 26.7% ownership interest as of December 31, 2018. As of December 31, 2018, there are no other non-controlling interests included in our consolidated financial statements, other than that related to the non-ICE partners in Bakkt. Refer to Note 3 to our consolidated financial statements contained elsewhere in this Annual Report.
+In December 2018, Bakkt, LLC, or Bakkt, a newly formed entity, was capitalized with $183 million in initial funding by us as majority owner, along with a group of other minority investors. We hold a call option over these interests subject to certain terms, similarly the non-ICE partners in Bakkt hold a put option to require us to repurchase their interests subject to certain
+
+60
+
+terms. These minority interests are reflected as redeemable non-controlling interests in temporary equity within our consolidated balance sheet.
+
+Consolidated Income Tax Provision
+Consolidated income tax expense (benefit) was $500 million, ($28 million) and $586 million in 2018, 2017 and 2016, respectively. The change in consolidated income tax expense (benefit) between years is primarily due to the tax impact of changes in our pre-tax income and the changes in our effective tax rate each year. Our effective tax rate was 20%, (1)% and 29% in 2018, 2017 and 2016, respectively. The effective tax rate in 2018 is lower than the federal statutory rate primarily due to the enactment of the TCJA which reduced the U.S. corporate income tax rate from 35% to 21% effective January 1, 2018. The 2018 effective tax rate was further reduced due to tax benefits from the acquisition of MERS, deferred tax benefits from changes in estimates and additional tax benefits associated with our sale of Trayport in 2017. See “- Recent Developments” above. The effective tax rates in 2017 and 2016 are lower than the federal statutory rate primarily due to favorable U.S. and U.K. tax law changes and favorable foreign income tax rate differentials, partially offset by state income taxes. Favorable foreign income tax rate differentials result primarily from lower income tax rates in the U.K. and various other lower tax jurisdictions as compared to the historical income tax rates in the U.S.
+The reductions in U.S. and U.K. corporate income tax rates resulted in deferred tax benefits in the respective periods of enactment. The impact of the deferred tax benefits for the U.S. and U.K. corporate income tax rate reductions in 2017 and 2016 lowered the effective tax rates by 30% and 2%, respectively, and resulted in deferred tax benefits of $764 million and $34 million, respectively.
+The decrease in the effective tax rate in 2017 from 2016, is primarily due to the deferred tax benefit associated with the future U.S. income tax rate reduction and tax benefits associated with a divestiture in the second quarter of 2017, partially offset by the deferred tax benefit from the U.K. corporate income tax reduction in the third quarter of 2016, additional tax expense from an Illinois corporate income tax rate increase enacted in the third quarter of 2017, and an income tax expense increase due to a relatively higher U.S. mix of income in 2017. See Note 13 to our consolidated financial statements and related notes, which are included in this Annual Report, for additional information on these tax items.
+
+Quarterly Results of Operations
+The following quarterly unaudited consolidated statements of income data have been prepared on substantially the same basis as our audited consolidated financial statements and include all adjustments, consisting only of normal recurring adjustments, necessary for the fair presentation of our consolidated results of operations for the quarters presented. The historical results for any quarter do not necessarily indicate the results expected for any future period. This unaudited condensed consolidated quarterly data should be read together with our consolidated financial statements and related notes included in this Annual Report. The following table sets forth quarterly consolidated statements of income data (in millions):
+
+----------------------------------------------------- ------------------- --- ------------------ ----- ------------- --- -------------- ----------------- ----- ------------------ ------------- --- -------------- ----- - --- ----- - ----- - --- - ---
+
+ Three Months Ended,
+ December 31, 2018 September 30, 2018 June 30, 2018 March 31, 2018 December 31, 2017 September 30, 2017 June 30, 2017 March 31, 2017
+Revenues:
+Energy futures and options contracts $ 257 $ 223 $ 250 $ 235 $ 227 $ 223 $ 231 $ 228
+Agricultural and metals futures and options contracts 54 58 74 65 49 49 62 56
+Financial futures and options contracts 92 77 94 91 72 82 89 83
+Cash equities and equity options 462 335 389 438 365 355 390 381
+Fixed income and credit 83 56 45 56 32 37 33 37
+OTC and other transactions 13 11 12 13 13 12 12 13
+Total transaction and clearing, net 961 760 864 898 758 758 817 798
+Pricing and analytics 264 263 262 254 248 242 242 238
+Exchange data and feeds 174 168 164 164 160 156 161 155
+Desktops and connectivity 101 99 100 102 117 120 118 127
+Total data services 539 530 526 520 525 518 521 520
+Listings 112 112 111 109 104 105 109 108
+Other revenues 65 61 55 53 54 54 49 45
+Total revenues 1,677 1,463 1,556 1,580 1,441 1,435 1,496 1,471
+Transaction-based expenses 369 263 310 355 295 289 316 305
+Total revenues, less transaction-based expenses 1,308 1,200 1,246 1,225 1,146 1,146 1,180 1,166
+
+61
+
+---------------------------------------------------------- ------------------- --- ------------------ --- ------------- --- -------------- - ----------------- --- ------------------ ------------- --- -------------- --- - ----- --- - - --- - - --- - ---
+
+ Three Months Ended,
+ December 31, 2018 September 30, 2018 June 30, 2018 March 31, 2018 December 31, 2017 September 30, 2017 June 30, 2017 March 31, 2017
+Compensation and benefits 262 251 241 240 229 234 236 247
+Professional services 40 32 29 30 27 30 32 32
+Acquisition-related transaction and integration costs 1 6 15 12 9 4 9 14
+Technology and communication 112 107 108 105 103 99 97 98
+Rent and occupancy 18 17 16 17 17 17 17 18
+Selling, general and administrative 42 37 39 33 38 38 38 41
+Depreciation and amortization 157 148 143 138 131 128 142 134
+Total operating expenses 632 598 591 575 554 550 571 584
+Operating income 676 602 655 650 592 596 609 582
+Other income (expense), net (1) 62 (48 ) (44 ) (33 ) 79 (33 ) (42 ) 143
+Income tax expense (benefit) (2) 119 89 149 143 (568 ) 186 140 214
+Net income $ 619 $ 465 $ 462 $ 474 $ 1,239 $ 377 $ 427 $ 511
+Net income attributable to non-controlling interest (8 ) (7 ) (7 ) (10 ) (6 ) (6 ) (8 ) (8 )
+Net income attributable to Intercontinental Exchange, Inc. $ 611 $ 458 $ 455 $ 464 $ 1,233 $ 371 $ 419 $ 503
+
+(1) Other income (expense), net includes the following: a $110 million gain in connection with our acquisition of MERS (see “- Recent Developments” above); a $110 million gain on our sale of Trayport for the three months ended December 31, 2017; and in connection with the Cetip merger and its subsequent sale, $9 million in foreign tax losses and transaction expenses for the three months ended June 30, 2017 and a $176 million realized investment gain for the three months ended March 31, 2017.
+(2) The decrease in the income tax expenses for the three months ended December 31, 2017 is primarily due to a $764 million deferred tax benefit associated with future U.S. income tax reductions, and the decrease for the three months ended June 30, 2017 is primarily due to the tax benefit associated with a divestiture. See “- Consolidated Income Tax Provision” above.
+
+62
+
+Liquidity and Capital Resources
+Below are charts that reflect our capital allocation. The acquisition and integration costs in the chart below includes cash paid for acquisitions, net of cash received for divestitures, cash paid for investments, cash paid for non-controlling interest and redeemable non-controlling interest, and the acquisition-related transaction and integration costs, net of divestitures, in each year.
+
+We have financed our operations, growth and cash needs primarily through income from operations and borrowings under our various debt facilities. Our principal capital requirements have been to fund capital expenditures, working capital, strategic acquisitions and investments, stock repurchases, dividends and the development of our technology platforms. We believe that our cash on hand and cash flows from operations will be sufficient to repay our outstanding debt, but we may also need to incur additional debt or issue additional equity securities in the future. See “- Future Capital Requirements” below.
+See “- Recent Developments” above for a discussion of the acquisitions and investments that we made during 2018. These acquisitions and investments were initially funded from borrowing under our Commercial Paper Program along with cash flows from operations and subsequently refinanced with our 2018 debt issuance.
+Our Commercial Paper Program enables us to borrow efficiently at reasonable short-term interest rates and provides us with the flexibility to de-lever using our strong annual cash flows from operating activities whenever our leverage becomes elevated as a result of investment or acquisition activities. We repaid a net amount of $283 million under our Commercial Paper Program during 2018.
+Upon maturity of our commercial paper and to the extent old issuances are not repaid by cash on hand, we are exposed to the rollover risk of not being able to issue new commercial paper. To mitigate this risk, we maintain an undrawn back-stop bank revolving credit facility for an aggregate amount equaling at any time the amount issued under our Commercial Paper Program. If we were not able to issue new commercial paper, we have the option of drawing on the back-stop revolving
+
+63
+
+facility. However, electing to do so would result in higher interest expense. For a discussion of our Commercial Paper Program and other indebtedness, see “- Debt” below.
+Consolidated cash and cash equivalents were $724 million and $535 million as of December 31, 2018 and 2017, respectively. We had $1.1 billion and $1.0 billion in short-term and long-term restricted cash and cash equivalents as of December 31, 2018 and 2017, respectively. We consider all short-term, highly-liquid investments with original maturity dates of three months or less to be cash equivalents. We classify all investments with original maturity dates in excess of three months but less than one year as short-term investments and all investments that we intend to hold for more than one year as long-term investments. Short-term and long-term investments are included in other current and other non-current assets, respectively. Cash and cash equivalents that are not available for general use, either due to regulatory requirements or through restrictions in specific agreements, are classified as restricted cash and cash equivalents and investments.
+As of December 31, 2018, the amount of unrestricted cash held by our non-U.S. subsidiaries was $253 million. Due to U.S. tax reform, a significant amount of 2018 current-year undistributed earnings within our non-U.S. subsidiaries (in excess of their unrestricted cash balance) have been subject to the Global Intangible Low-Taxed Income provisions under the TCJA. Accordingly, these earnings have been subject to immediate U.S. income taxation and any non-U.S. unrestricted cash balances can be distributed to the U.S. in the future with no material additional income tax consequences.
+Our cash and cash equivalents and financial investments are managed as a global treasury portfolio of non-speculative financial instruments that are readily convertible into cash, such as overnight deposits, term deposits, money market funds, mutual funds for treasury investments, short duration fixed income investments and other money market instruments, thus ensuring high liquidity of financial assets. We may invest a portion of our cash in excess of short-term operating needs in investment-grade marketable debt securities, including government or government-sponsored agencies and corporate debt securities.
+Repurchases of our common stock may be made from time to time on the open market, through established trading plans, in privately-negotiated transactions or otherwise, in accordance with all applicable securities laws, rules and regulations. In 2018, 2017 and 2016, we repurchased 16.3 million shares, 15.0 million shares and 0.9 million shares, respectively, of our outstanding common stock at a cost of $1.2 billion, $949 million and $50 million, respectively. The shares repurchased are held in treasury stock and were completed on the open market and under Rule 10b5-1 trading plans.
+From time to time, we enter into Rule 10b5-1 trading plans, as authorized by our Board of Directors, to govern some or all of the repurchases of our shares of common stock. The timing and extent of future repurchases that are not made pursuant to a Rule 10b5-1 trading plan will be at our discretion and will depend upon many conditions. In making a determination regarding any stock repurchases, management considers multiple factors, including overall stock market conditions, our common stock price movements, the remaining amount authorized for repurchases by our Board of Directors, the potential impact of a stock repurchase program on our corporate debt ratings, our expected free cash flow and working capital needs, our current and future planned strategic growth initiatives, and other potential uses of our cash and capital resources.
+In August 2016, our Board of Directors approved an aggregate of $1.0 billion for future repurchases of our common stock with no fixed expiration date. In September 2017, our Board of Directors approved an aggregate of $1.2 billion for future repurchases of our common stock with no fixed expiration date that became effective on January 1, 2018. In September 2018, our Board of Directors approved an aggregate of $2.0 billion for future repurchases of our common stock with no fixed expiration date that became effective January 1, 2019. We expect this authorization to provide us with capacity for buybacks over six quarters and flexibility to act opportunistically. We expect funding for any share repurchases to come from our operating cash flow or borrowings under our Commercial Paper Program or our debt facilities.
+We may discontinue stock repurchases at any time and may amend or terminate a Rule 10b5-1 trading plan at any time. The approval of our Board of Directors for the share repurchases does not obligate us to acquire any particular amount of our common stock. In addition, our Board of Directors may increase or decrease the amount of capacity we have for repurchases from time to time.
+Cash Flow
+The following table presents the major components of net changes in cash, cash equivalents, and restricted cash and cash equivalents (in millions):
+
+64
+
+------------------------------------------------------------------------------------------- ----------------------- ----- ------ - ----- ------ - - ----- -
+
+ Year Ended December 31,
+ 2018 2017 2016
+Net cash provided by (used in):
+Operating activities $ 2,533 $ 2,085 $ 2,149
+Investing activities (1,755 ) 92 (860 )
+Financing activities (463 ) (1,971 ) (1,462 )
+Effect of exchange rate changes (11 ) 12 (24 )
+Net increase (decrease) in cash, cash equivalents, and restricted cash and cash equivalents $ 304 $ 218 $ (197 )
+
+In the fourth quarter of 2017, we adopted a new accounting standard, FASB ASU 2016-18, which requires that the changes in the total cash, cash equivalents, and restricted cash and cash equivalents be reflected in the statement of cash flows. As a result, we no longer present transfers between cash and cash equivalents and restricted cash and cash equivalents in our statement of cash flows. We have reclassified changes in restricted cash from cash flows provided by (used in) investing activities, to the total change in beginning and end-of-year total changes. Our statements of cash flows for 2018, 2017 and 2016 reflect this change.
+Operating Activities
+Net cash provided by operating activities primarily consists of net income adjusted for certain non-cash items, including depreciation and amortization and the effects of changes in working capital.
+The $448 million increase in net cash provided by operating activities in 2018 from 2017, is primarily a result of the increase in our net income excluding our net non-cash adjustments, fluctuations in our working capital, less cash paid for income taxes in 2018 than in 2017, and a $136 million contribution that was made to our pension plan in 2017. The non-cash adjustments include our MERS investment gain of $110 million during 2018, as well as our deferred tax benefit of $764 million due to tax reform, our gain on the sale of our Cetip investment of $114 million and our Trayport gain of $110 million during 2017. The $136 million contribution to our pension plan in 2017 allowed us to reach 99% funding of our pension obligation and allowed us to immunize the liability against future market fluctuations. For additional information on our pension plan, refer to Note 16 to our consolidated financial statements.
+The $64 million decrease in net cash provided by operating activities in 2017 from 2016 is primarily due to the $136 million pension plan contribution in 2017, compared to a $10 million contribution in 2016.
+Investing Activities
+Consolidated net cash provided by (used in) investing activities in 2018, 2017 and 2016 primarily relates to cash paid for acquisitions, cash received from divestitures, net cash received from the sale of our investment in Cetip, purchases of investments, proceeds from term deposits, and changes in capital expenditures and capitalized software development costs.
+We paid cash for acquisitions, net of the cash of the companies acquired, of $1.2 billion, $423 million and $425 million, in 2018, 2017 and 2016, respectively, primarily relating to the BondPoint, TMC Bonds and MERS acquisitions during 2018, the ICE NGX, Shorcan Energy, now named CalRock Brokers, Inc., or CalRock, the ICE BofAML indices and TMX Atrium acquisitions during 2017, and the Securities Evaluations and Credit Market Analysis acquisitions during 2016. In 2017, we received $761 million relating to the sales of Trayport, IDMS and NYSE Governance Services and we received net cash proceeds from the sale of our investment in Cetip of $438 million. We made cash investments of $306 million, $327 million and $70 million during 2018, 2017 and 2016, respectively, in Euroclear, MERS and OCC. See “- Recent Developments” above for more details on our 2018 acquisitions, divestitures and investments.
+We had capital expenditures of $134 million, $220 million and $250 million in 2018, 2017 and 2016, respectively, and we had capitalized software development expenditures of $146 million, $137 million and $115 million in 2018, 2017 and 2016, respectively. The capital expenditures primarily relate to hardware and software purchases to continue the development and expansion of our electronic platforms, data services and clearing houses and leasehold improvements associated with the new and renovated office spaces in Atlanta, New York and London. The software development expenditures primarily relate to the continued development and expansion of our electronic trading platforms, data services and clearing houses.
+Financing Activities
+Consolidated net cash used in financing activities in 2018 primarily relates to $1.2 billion in repurchases of common stock, $600 million in repayments of our October 2018 Senior Notes, $555 million in dividend payments to our stockholders, $283
+
+65
+
+million in net repayments under our Commercial Paper Program, and $80 million in cash payments related to treasury shares received for restricted stock tax payments and stock options exercises, partially offset by $2.2 billion in net proceeds from our Senior Notes issued in 2018 (the 2023, 2028 and 2048 Senior Notes). See “- Debt” below.
+Consolidated net cash used in financing activities in 2017 primarily relates to $984 million in net proceeds from the 2022 Senior Notes and 2027 Senior Notes offerings, $850 million in repayments of the NYSE Notes, $409 million in net repayments under our Commercial Paper Program, $949 million in repurchases of common stock, $476 million in dividend payments to our stockholders, $174 million in acquisitions of non-controlling interest and redeemable non-controlling interest and $88 million in cash payments related to treasury shares received for restricted stock tax payments and stock options exercises.
+Consolidated net cash used in financing activities in 2016 primarily relates to $949 million in net repayments under our Commercial Paper Program, $409 million in dividend payments to our stockholders, $54 million in cash payments related to treasury shares received for restricted stock tax payments and stock options exercises and $50 million in repurchases of common stock.
+Debt
+
+Our total debt, including short-term and long-term debt, consisted of the following:
+
+----------------------------------------------------------------------- ------------------ ----- ---- ----- - -----
+
+ As of December 31,
+ 2018 2017
+Debt: (in millions)
+Short-term debt:
+Commercial Paper $ 951 $ 1,233
+2018 Senior Notes (2.50% senior unsecured notes due October 15, 2018) — 600
+Total short-term debt 951 1,833
+Long-term debt:
+2020 Senior Notes (2.75% senior unsecured notes due December 1, 2020) 1,246 1,244
+2022 Senior Notes (2.35% senior unsecured notes due September 15, 2022) 496 495
+2023 Senior Notes (3.45% senior unsecured notes due September 21, 2023) 397 —
+2023 Senior Notes (4.00% senior unsecured notes due October 15, 2023) 793 791
+2025 Senior Notes (3.75% senior unsecured notes due December 1, 2025) 1,243 1,242
+2027 Senior Notes (3.10% senior unsecured notes due September 15, 2027) 496 495
+2028 Senior Notes (3.75% senior unsecured notes due September 21, 2028) 591 —
+2048 Senior Notes (4.25% senior unsecured notes due September 21, 2048) 1,228 —
+Total long-term debt 6,490 4,267
+Total debt $ 7,441 $ 6,100
+
+The following summarizes significant developments and changes associated with our debt:
+Amended Credit Facility
+We have a $3.4 billion senior unsecured revolving credit facility, pursuant to a credit agreement with Wells Fargo Bank, N.A., as primary administrative agent, issuing lender and swing-line lender, Bank of America, N.A., as syndication agent, backup administrative agent and swing-line lender, and the lenders party thereto. On August 9, 2018, we extended the final maturity date of the credit facility from August 18, 2022 to August 9, 2023, and made certain other changes, herein referred to as the Amended Credit Facility.
+The Amended Credit Facility includes an option for us to propose an increase in the aggregate amount available for borrowing by up to $975 million, subject to the consent of the lenders funding the increase and certain other conditions. No amounts were outstanding under the Amended Credit Facility as of December 31, 2018. As of December 31, 2018, of the $3.4 billion that is currently available, $951 million is required to back-stop the amount outstanding under our Commercial Paper Program, and $105 million is required to support certain broker-dealer subsidiary commitments. The amount required to backstop the amounts outstanding under the Commercial Paper Program will fluctuate as we increase or decrease our commercial paper borrowings. The remaining $2.3 billion is available for working capital and general corporate purposes including, but not limited to, acting as a back-stop to future increases in the amounts outstanding under the Commercial Paper Program.
+
+66
+
+Commercial Paper Program
+We have a U.S. dollar commercial paper program, or the Commercial Paper Program. It is currently backed by the borrowing capacity available under the Amended Credit Facility, as described above. The effective interest rate of commercial paper issuances does not materially differ from short-term interest rates (such as USD LIBOR), which fluctuate due to market conditions and as a result may impact our interest expense.
+We repaid a net amount of $283 million of outstanding commercial paper during 2018 using cash flows from operations and cash proceeds received from our 2018 bond issuance. We repaid $409 million of net notes outstanding under the program during 2017 primarily using cash proceeds received from the sales of Cetip and Trayport. These reductions were partially offset by notes we issued under the program during 2017, the proceeds of which were used to fund acquisitions and investments and repurchase our common stock. We used net proceeds from notes issued under the program during 2016 for the acquisitions of Securities Evaluations and Credit Market Analysis and for general corporate purposes. We repaid a portion of the amounts outstanding under the program during 2018, 2017 and 2016 with cash flows from operations.
+Commercial paper notes of $951 million with original maturities ranging from two to 77 days were outstanding as of December 31, 2018 with a weighted average interest rate of 2.48% per annum, and a weighted average maturity of 12 days. Commercial paper notes of $1.2 billion with original maturities ranging from two to 64 days were outstanding as of December 31, 2017 with a weighted average interest rate of 1.49% per annum, and a weighted average maturity of 18 days.
+Senior Notes
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Newly-Issued Senior Notes: In August 2018, we issued $2.25 billion in new aggregate unsecured fixed-rate senior notes, including $400 million, 3.45% notes due in 2023, or the 2023 Senior Notes, $600 million, 3.75% notes due in 2028, or the 2028 Senior Notes, and $1.25 billion, 4.25% notes due in 2048, or the 2048 Senior Notes, and together with the 2023 Senior Notes and the 2028 Senior Notes, the Newly-Issued Senior Notes. We used the proceeds from the offering for general corporate purposes, including to fund the redemption of the $600 million, 2.50% Senior Notes due October 2018 and to refinance all of our issuances under our Commercial Paper Program that resulted from acquisitions and investments in the last year. See “- Recent Developments” above.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• 2022 and 2027 Senior Notes: In August 2017, we issued $1.0 billion in aggregate unsecured fixed-rate senior notes, including $500 million, 2.35% notes due September 2022, or the 2022 Senior Notes, and $500 million, 3.10% notes due September 2027, or the 2027 Senior Notes. We used the majority of the proceeds from the offering to fund the redemption in September 2017 of $850 million, 2.00% senior unsecured fixed-rate NYSE Notes prior to the October 2017 maturity date.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• 2020 and 2025 Senior Notes: In November 2015, we issued $2.5 billion in aggregate senior unsecured fixed rate notes, including $1.25 billion, 2.75% notes due November 2020, or the 2020 Senior Notes, and $1.25 billion, 3.75% notes due November 2025, or the 2025 Senior Notes. We used the proceeds from the offering, together with $1.6 billion of borrowings under our Commercial Paper Program, to finance the cash portion of the purchase price of Interactive Data.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• October 2023 Senior Notes: In October 2013, we issued $800 million, 4.00% senior unsecured fixed-rate notes due October 2023, or the October 2023 Senior Notes. We used the net proceeds from the October 2023 Senior Notes to finance a portion of the purchase price of the acquisition of NYSE.
+
+Committed Repo and Committed FX Facilities
+To provide a tool to address the liquidity needs of our clearing houses and manage the liquidation of margin and guaranty fund deposits held in the form of cash and high quality sovereign debt, ICE Clear Europe, ICE Clear Credit and ICE Clear U.S. have entered into Committed Repurchase Agreement Facilities, or Committed Repo. Additionally, ICE Clear Credit has entered into Committed FX Facilities to support these liquidity needs. As of December 31, 2018 the following facilities were in place:
+
+- ----------------------------------------------------------------------------------------------------------
+• ICE Clear Europe: $1.2 billion in Committed Repo to finance U.S. dollar, euro and pound sterling deposits.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• ICE Clear Credit: $300 million in Committed Repo to finance U.S. dollar and euro deposits, €250 million in Committed Repo to finance euro deposits, and €1.9 billion in Committed FX Facilities to finance euro payment obligations.
+
+- -----------------------------------------------------------------------------
+• ICE Clear US: $250 million in Committed Repo to finance U.S. dollar deposits.
+
+67
+
+Future Capital Requirements
+Our future capital requirements will depend on many factors, including the rate of growth across our Trading and Clearing and Data and Listings segments, strategic plans and acquisitions, available sources for financing activities, required and discretionary technology and clearing initiatives, regulatory requirements, the timing and introduction of new products and enhancements to existing products, the geographic mix of our business and potential stock repurchases.
+We currently expect to incur capital expenditures (including operational and real estate capital expenditures) and to incur software development costs that are eligible for capitalization ranging in the aggregate between $290 million and $320 million in 2019, which we believe will support the enhancement of our technology, business integration and the continued growth of our businesses.
+
+In September 2018, our Board of Directors approved an aggregate of $2.0 billion for future repurchases of our common stock with no fixed expiration date that became effective on January 1, 2019. We expect this authorization to provide us with capacity for buybacks over six quarters and flexibility to act opportunistically. Refer to Note 12 to our consolidated financial statements, included in this Annual Report, for additional details on our stock repurchase plans.
+Our Board of Directors has adopted a quarterly dividend policy providing that dividends will be approved quarterly by the board or its Audit Committee taking into account factors such as our evolving business model, prevailing business conditions and our financial results and capital requirements, without a predetermined net income payout ratio. During 2018, we paid cash dividends of $0.96 per share of our common stock in the aggregate, including quarterly dividends of $0.24 per share, for an aggregate payout of $555 million, which includes the payment of dividend equivalents on unvested employee restricted stock units. Refer to Note 12 to our consolidated financial statements included in this Annual Report, for details on the amounts of our quarterly dividend payouts for the last three years. For the first quarter of 2019, we announced a $0.275 per share dividend payable on March 29, 2019 to stockholders of record as of March 15, 2019.
+As of December 31, 2018, we had $7.4 billion in outstanding debt. We currently also have a $3.4 billion Amended Credit Facility, of which $2.3 billion is available for general corporate purposes as previously described. Other than the facilities discussed above for the ICE Clearing Houses, the Amended Credit Facility and our Commercial Paper Program are currently the only significant agreements or arrangements that we have for liquidity and capital resources with third parties. In the event of any strategic acquisitions, mergers or investments, or if we are required to raise capital for any reason or desire to return capital to our stockholders, we may incur additional debt, issue additional equity to raise necessary funds, repurchase additional shares of our common stock or pay a dividend. However, we cannot provide assurance that such financing or transactions will be available or successful, or that the terms of such financing or transactions will be favorable to us. See “-Risk Factors" and "- Debt” above.
+
+Non-GAAP Measures
+We use certain financial measures internally to evaluate our performance and make financial and operational decisions that are presented in a manner that adjusts from their equivalent GAAP measures or that supplement the information provided by our GAAP measures. We use these adjusted results because we believe they more clearly highlight trends in our business that may not otherwise be apparent when relying solely on GAAP financial measures, since these measures eliminate from our results specific financial items that have less bearing on our core operating performance.
+We use these measures in communicating certain aspects of our results and performance, including in this Annual Report, and believe that these measures, when viewed in conjunction with our GAAP results and the accompanying reconciliation, can provide investors with greater transparency and a greater understanding of factors affecting our financial condition and results of operations than GAAP measures alone. In addition, we believe the presentation of these measures is useful to investors for making period-to-period comparisons of results because the adjustments to GAAP are not reflective of our core business performance.
+These financial measures are not presented in accordance with, or as an alternative to, GAAP financial measures and may be different from non-GAAP measures used by other companies. We encourage investors to review the GAAP financial measures included in this Annual Report, including our consolidated financial statements, to aid in their analysis and understanding of our performance and in making comparisons.
+The table below outlines our adjusted operating expenses, adjusted operating income, adjusted operating margin, adjusted net income attributable to ICE common stockholders and adjusted earnings per share, which are non-GAAP measures that are calculated by making adjustments for items we view as not reflective of our cash operations and core business
+
+68
+
+performance. These measures, including the adjustments and their related income tax effect and other tax adjustments (in millions, except for percentages and per share amounts), are as follows:
+
+----------------------------------------------------------------------------------------------------------------- ---------------------------- ----- ------------------------- --- ----------------------- ----- ---- - ---- ----- ---- ----- ----- ---- ----- ---- ----- ----- - - ----- - ----- ----- - ----- - -----
+
+ Trading and Clearing Segment Data and Listings Segment Consolidated
+ Year Ended December 31, Year Ended December 31, Year Ended December 31,
+ 2018 2017 2016 2018 2017 2016 2018 2017 2016
+Total revenues, less transaction-based expenses $ 2,420 $ 2,128 $ 2,102 $ 2,559 $ 2,510 $ 2,410 $ 4,979 $ 4,638 $ 4,512
+Operating expenses 911 781 826 1,485 1,478 1,514 2,396 2,259 2,340
+Less: Interactive Data and NYSE transaction and integration costs and acquisition-related success fees 6 — 1 24 31 45 30 31 46
+Less: Amortization of acquisition-related intangibles 73 53 72 214 208 230 287 261 302
+Less: Accruals relating to investigations and inquiries — 14 — — — — — 14 —
+Less: Employee severance costs related to Creditex U.K. brokerage operations — — 4 — — — — — 4
+Less: Creditex customer relationship intangible asset impairment — — 33 — — — — — 33
+Less: Impairment on divestiture of NYSE Governance Services — — — — 6 — — 6 —
+Less: Impairment of exchange registration intangible assets on closure of ICE Futures Canada and ICE Clear Canada 4 — — — — — 4 — —
+Less: Employee severance costs related to ICE Futures Canada and ICE Clear Canada operations 4 — — — — — 4 — —
+Adjusted operating expenses $ 824 $ 714 $ 716 $ 1,247 $ 1,233 $ 1,239 $ 2,071 $ 1,947 $ 1,955
+Operating income $ 1,509 $ 1,347 $ 1,276 $ 1,074 $ 1,032 $ 896 $ 2,583 $ 2,379 $ 2,172
+Adjusted operating income $ 1,596 $ 1,414 $ 1,386 $ 1,312 $ 1,277 $ 1,171 $ 2,908 $ 2,691 $ 2,557
+Operating margin 62 % 63 % 61 % 42 % 41 % 37 % 52 % 51 % 48 %
+Adjusted operating margin 66 % 66 % 66 % 51 % 51 % 49 % 58 % 58 % 57 %
+
+Net income attributable to ICE common stockholders $ 1,988 $ 2,526 $ 1,430
+Add: Interactive Data and NYSE transaction and integration costs and acquisition-related success fees 30 31 46
+Add: Amortization of acquisition-related intangibles 287 261 302
+Less: Gain on acquisition of MERS (110 ) — —
+Add: Accruals relating to investigations and inquiries — 14 —
+Add: Employee severance costs related to Creditex U.K. brokerage operations — — 4
+Add: Creditex customer relationship intangible asset impairment — — 33
+Add: Impairment on divestiture of NYSE Governance Services — 6 —
+Add: Impairment of exchange registration intangible assets on closure of ICE Futures Canada and ICE Clear Canada 4 — —
+Add: Employee severance costs related to ICE Futures Canada and ICE Clear Canada operations 4 — —
+Less: Gain on divestiture of Trayport, net 1 (110 ) —
+Less: Cetip investment gain, net — (167 ) —
+Less: Income tax effect for the above items (98 ) (43 ) (143 )
+Less: Deferred tax adjustments from U.S. tax rate reduction (11 ) (764 ) —
+Add/(Less): Deferred tax adjustments on acquisition-related intangibles (5 ) 10 (22 )
+Add/(Less): Other tax adjustments (13 ) — 23
+Adjusted net income attributable to ICE common stockholders $ 2,077 $ 1,764 $ 1,673
+
+Basic earnings per share attributable to ICE common stockholders $ 3.46 $ 4.29 $ 2.40
+Diluted earnings per share attributable to ICE common stockholders $ 3.43 $ 4.25 $ 2.39
+
+Adjusted basic earnings per share attributable to ICE common stockholders $ 3.61 $ 2.99 $ 2.81
+Adjusted diluted earnings per share attributable to ICE common stockholders $ 3.59 $ 2.97 $ 2.79
+
+Basic weighted average common shares outstanding 575 589 595
+Diluted weighted average common shares outstanding 579 594 599
+
+69
+
+Acquisition-related transaction costs are included as part of our core business expenses, except for those that are directly related to the announcement, closing, financing or termination of a transaction. However, we adjust for the acquisition-related transaction and integration costs relating to Interactive Data and NYSE given the sizes of these acquisitions. The integration of NYSE was completed by June 2016 and the integration of Interactive Data was completed by June 2018. Amortization of acquisition-related intangibles are included in non-GAAP adjustments as excluding these non-cash expenses provides greater clarity regarding our financial strength and stability of cash operating results.
+In addition, we also include the following items as non-GAAP adjustments, as each of these are not considered a part of our core business operations:
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------
+• 2018: the gain recognized on our initial majority investment in MERS in connection with our acquisition of 100% of the remaining MERS interests;
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• 2018: the impairment loss on exchange registration intangible assets and employee severance costs related to the closure of ICE Futures Canada and ICE Clear Canada;
+
+- ---------------------------------------------------------------------------------------------------------------------------------
+• 2017: the net gain on the divestiture of Trayport, and in 2018, a subsequent adjustment to reduce of the gain on the divestiture;
+
+- ---------------------------------------------------------------------------------------------------------------------------------
+• 2017: the realized investment gain and the foreign exchange loss and transaction expenses on the sale of our investment in Cetip;
+
+- --------------------------------------------------------
+• 2017: accruals relating to investigations and inquiries;
+
+- ------------------------------------------------------------------------------
+• 2017: the NYSE Governance Services net impairment loss on its divestiture; and
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------
+• 2016: the Creditex U.K. voice brokerage severance costs related to its discontinuance and the Creditex customer relationship intangible asset impairment loss.
+
+The tax items in non-GAAP adjustments are either the tax impacts of the pre-tax non-GAAP adjustments or tax items as described below that are not in the normal course of business and are not indicative of our core business performance. The following tax-related items are included as non-GAAP adjustments:
+
+- ------------------------------------------------------------
+• The income tax effects relating to all non-GAAP adjustments;
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Deferred tax adjustments on acquisition-related intangibles; including the impact of U.S. state tax law changes and apportionment updates, as well as foreign tax law changes which resulted in deferred tax (benefit) expense of ($5 million), $10 million and ($22 million) in 2018, 2017 and 2016, respectively. In addition, deferred tax adjustments on acquisition-related intangibles include $34 million of deferred tax benefits due to U.K. corporate income tax rate reductions in 2016;
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Deferred tax benefits of $11 million and $764 million in 2018 and 2017, respectively, resulting from changes in estimates as a result of the enactment of the TCJA which reduced the corporate income tax rate from 35% to 21%;
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• 2018: Other tax adjustments including a $17 million tax benefit on the sale of Trayport offset by an audit settlement for a pre-acquisition period in connection with our acquisition of NYSE in 2013; and
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• 2016: Other tax adjustments including a $15 million valuation allowance on Singapore pre-acquisition net operating losses and other deferred tax assets and an $8 million deferred tax adjustment with respect to our OCC equity method investment.
+
+For additional information on these items, refer to our consolidated financial statements included in this Annual Report and “- Recent Developments,” “- Consolidated Operating Expenses”, “- Consolidated Non-Operating Income (Expenses)” and “-Consolidated Income Tax Provision” above.
+
+Off-Balance Sheet Arrangements
+We do not have any relationships with unconsolidated entities or financial partnerships, often referred to as structured finance or special purpose entities.
+
+70
+
+Contractual Obligations and Commercial Commitments
+The following presents our contractual obligations (which we intend to fund from existing cash as well as cash flow from operations) and commercial commitments as of December 31, 2018 (in millions):
+
+------------------------------------------ ---------------------- ------ ---------------- --- --------- ----- --------- ------------- ----- --- ----- - -----
+
+ Payments Due by Period
+ Total Less Than 1 Year 1-3 Years 4-5 Years After 5 Years
+Contractual Obligations:
+Short-term and long-term debt and interest $ 10,143 $ 1,192 $ 2,371 $ 1,522 $ 5,058
+Operating lease obligations 417 64 121 99 133
+Purchase obligations 298 222 70 6 —
+Total contractual cash obligations $ 10,858 $ 1,478 $ 2,562 $ 1,627 $ 5,191
+
+Purchase obligations include our estimate of the minimum outstanding obligations under agreements to purchase goods or services that we believe are enforceable and legally binding and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. Purchase obligations exclude agreements that are cancellable at any time without penalty.
+We have excluded from the contractual obligations and commercial commitments listed above $64.0 billion in cash margin deposits, guaranty funds and delivery contracts payable. Clearing members of our clearing houses are required to deposit original margin and variation margin and to make deposits to a guaranty fund. The cash deposits made to these margin accounts and to the guaranty fund are recorded in the consolidated balance sheet as current assets with corresponding current liabilities to the clearing members that deposited them. ICE NGX administers the physical delivery of energy trading contracts. It has an equal and offsetting claim to and from its respective participants on opposite sides of the physically-settled contract, each of which is reflected as a delivery contract receivable with an offsetting delivery contract payable. See Note 14 to our consolidated financial statements included in this Annual Report for additional information on our clearing houses and the margin deposits, guaranty funds and delivery contracts payable.
+We have also excluded unrecognized tax benefits, or UTBs. As of December 31, 2018, our cumulative UTBs were $98 million. Interest and penalties related to UTBs were $28 million as of December 31, 2018. We are under examination by various tax authorities. We are unable to make a reasonable estimate of the periods of cash settlement because it is not possible to reasonably predict the amount of tax, interest and penalties, if any, that might be assessed by a tax authority or the timing of an assessment or payment. It is also not possible to reasonably predict whether or not the applicable statutes of limitations might expire without us being examined by any particular tax authority. See note 13 to our consolidated financial statements for additional information on our UTBs.
+As of December 31, 2018, in connection with our acquisition of NYSE, we have obligations related to our pension and other benefit programs. The date of payment under these obligations cannot be determined and have been excluded from the table above. See note 16 to our consolidated financial statements for additional information on our pension and other benefit programs.
+We have a 40% ownership in OCC. Under the OCC’s capital plan, the OCC stockholders have committed to contribute up to $200 million in equity capital if certain capital thresholds are breached, including up to $80 million to be contributed by NYSE, which has also been excluded from the table above.
+In 2016, the SEC approved a plan to establish a market-wide consolidated audit trail, or CAT, to improve regulators’ ability to monitor trading activity. In 2018, the first phase of implementation went live and required participants to begin reporting to the CAT, with a phased implementation of the provisions of the CAT through 2019. Funding of the implementation and operation of the CAT is ultimately expected to be provided by both the execution venues and industry members. To date, however, funding has been provided solely by the execution venues in exchange for promissory notes expected to be repaid if industry member fees are approved by the SEC and are collected to fund the CAT.
+
+New and Recently Adopted Accounting Pronouncements
+Refer to Note 2 to our consolidated financial statements included in this Annual Report for information on the new and recently adopted accounting pronouncements that are applicable to us.
+
+Critical Accounting Policies
+We have identified the policies below as critical to our business operations and the understanding of our results of operations. The impact of, and any associated risks related to, these policies on our business operations is discussed throughout “-
+
+71
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.” For a detailed discussion on the application of these and other accounting policies, see Note 2 to our consolidated financial statements included in this Annual Report.
+Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of financial statements in conformity with these accounting principles requires us to make estimates and assumptions that affect the reported amount of assets and liabilities, and the disclosure of contingent assets and liabilities, at the date of our financial statements and the reported amounts of revenues and expenses during the reporting period.
+We base our estimates and judgments on our historical experience and other factors that we believe to be reasonable under the circumstances when we make these estimates and judgments and re-evaluate them on a periodic basis. Based on these factors, we make estimates and judgments about, among other things, the carrying values of assets and liabilities that are not readily apparent from market prices or other independent sources and about the recognition and characterization of our revenues and expenses. The values and results based on these estimates and judgments could differ significantly under different assumptions or conditions and could change materially in the future.
+We believe that the following critical accounting policies, among others, affect our more significant judgments and estimates used in the preparation of our consolidated financial statements and could materially increase or decrease our reported results, assets and liabilities.
+Goodwill and Other Identifiable Intangible Assets
+Assets acquired and liabilities assumed in connection with our acquisitions are recorded at their estimated fair values. Goodwill represents the excess of the purchase price of an acquired company over the fair value of its identifiable net assets, including identified intangible assets. We recognize specifically identifiable intangibles, such as customer relationships, trademarks, technology, trading products, data, exchange registrations, trade names and licenses when a specific right or contract is acquired. Our determination of the fair value of the intangible assets and whether or not these assets may be impaired following their acquisition requires us to apply significant judgments and make significant estimates and assumptions regarding future cash flows. If we change our strategy or if market conditions shift, our judgments and estimates may change, which may result in adjustments to recorded asset balances. Intangible assets with finite useful lives are amortized over their estimated useful lives whereas goodwill and intangible assets with indefinite useful lives are not.
+In performing the allocation of the acquisitions' purchase price to assets and liabilities, we consider, among other factors, the intended use of the acquired assets, analysis of past financial performance and estimates of future performance of the acquired business. At the acquisition date, a preliminary allocation of the purchase price is recorded based upon a preliminary valuation performed with the assistance of a third-party valuation specialist. We continue to review and assess our estimates, assumptions and valuation methodologies during the measurement period provided by GAAP, which ends as soon as we receive the information about facts and circumstances that existed as of the acquisition date or we learn that more information is not obtainable, which usually does not exceed one year from the date of acquisition. Accordingly, these estimates and assumptions are subject to change, which could have a material impact on our consolidated financial statements.
+We allocate goodwill to reporting units based on the reporting unit expected to benefit from the business combination. We have identified four reporting units: our Futures reporting unit, our Data and Listings reporting unit, our Cash Equities reporting unit, and our Fixed Income and CDS reporting unit.
+Our goodwill and other indefinite-lived intangible assets are evaluated for impairment annually in our fiscal fourth quarter or more frequently if conditions exist that indicate that the value may be impaired. We test our goodwill for impairment at the reporting unit level. These impairment evaluations are performed by comparing the carrying value of the goodwill or other indefinite-lived intangibles to its estimated fair value.
+Goodwill impairment testing consists of a two-step methodology. The initial step requires us to determine the fair value of each reporting unit and compare it to the carrying value, including goodwill and other intangible assets, of such reporting unit. If the fair value exceeds the carrying value, no impairment loss is recognized and the second step, which is a calculation of the impairment, is not performed. However, if the carrying value exceeds its fair value, an impairment charge is recorded equal to the extent that the carrying amount of goodwill exceeds its implied fair value. For annual goodwill impairment testing, we have the option to first perform a qualitative assessment to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount, including goodwill and other intangible assets. If we conclude that this is the case, we must perform the two-step methodology described above. Otherwise, we can skip the two-step methodology and do not need to perform any further testing. For annual indefinite-lived intangible asset impairment testing, we also have
+
+72
+
+the option to first perform a qualitative assessment to determine whether it is more likely than not that the fair value of the indefinite-lived intangible assets is less than its carrying amount.
+Application of the impairment test requires judgment, including the identification of reporting units, assignment of assets and liabilities to reporting units, assignment of goodwill to reporting units, and determination of the fair value of each reporting unit. We have historically determined the fair value of our reporting units based on various valuation techniques, including discounted cash flow analysis and a multiple of earnings approach. In assessing whether goodwill and other intangible assets are impaired, we must make estimates and assumptions regarding future cash flows, long-term growth rates of our business, operating margins, discount rates, weighted average cost of capital and other factors to determine the fair value of our assets. These estimates and assumptions require management’s judgment, and changes to these estimates and assumptions, as a result of changing economic and competitive conditions, could materially affect the determination of fair value and/or impairment.
+The cash flows employed in the discounted cash flow analysis are based on our most recent budgets and business plans and, when applicable, various growth rates have been assumed for years beyond the current business plan period. Future events could cause us to conclude that indicators of impairment exist for goodwill or other intangible assets. Impairment may result from, among other things, deterioration in the performance of our business, adverse market conditions, adverse changes in applicable laws and regulations, competition, or the sale or disposition of a reporting unit. Any resulting impairment loss could have a material adverse impact on our financial condition and results of operations.
+We are also required to evaluate other finite-lived intangible assets and property and equipment for impairment by first determining whether events or changes in circumstances indicate that the carrying value of these assets to be held and used may not be recoverable. If impairment indicators are present, then an estimate of undiscounted future cash flows produced by these long-lived assets is compared to the carrying value of those assets to determine if the asset is recoverable. If an asset is not recoverable, the loss is measured as the difference between fair value and carrying value of the impaired asset. Fair value of these assets is based on various valuation techniques, including discounted cash flow analysis.
+Income Taxes
+We are subject to income taxes in the U.S., U.K. and other foreign jurisdictions where we operate. The determination of our provision for income taxes and related accruals, deferred tax assets and liabilities requires the use of significant judgment, estimates, and the interpretation and application of complex tax laws. We recognize a current tax liability or tax asset for the estimated taxes payable or refundable on tax returns for the current year. We recognize deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the financial statement carrying amounts and the tax bases of our assets and liabilities. We establish valuation allowances if we believe that it is more likely than not that some or all of our deferred tax assets will not be realized. Deferred tax assets and liabilities are measured using current enacted tax rates in effect for the years in which those temporary differences and carryforwards are expected to reverse.
+SEC Staff Accounting Bulletin No. 118, or SAB 118, provided guidance for companies that had not completed their accounting for the income tax effects of the TCJA in the period of enactment, allowing for a measurement period of up to one year after the enactment date to finalize the recording of the related tax impacts. As of December 31, 2018, we have completed our accounting for the tax effects of the enactment of the TCJA. We reaffirmed our position that we were not subject to transition tax under the TCJA as of December 31, 2017. In addition, we concluded that the $764 million of deferred tax benefit recorded in the 2017 financial statements was a reasonable estimate of the TCJA’s impact on our deferred tax and no further adjustments are necessary.
+The FASB Staff also provided additional guidance to address the accounting for the effects of the provisions related to the taxation of Global Intangible Low-Taxed Income noting that companies should make an accounting policy election to recognize deferred taxes for temporary basis differences expected to reverse in future years or to include the tax expense in the year it is incurred. We have completed our analysis of the effects of these provisions and have made a policy election to recognize such taxes as current period expenses when incurred.
+We do not recognize a tax benefit unless we conclude that it is more likely than not that the benefit will be sustained on audit by the taxing authority based solely on the technical merits of the associated tax position. If the recognition threshold is met, we recognize a tax benefit measured at the largest amount of the tax benefit that, in our judgment, is greater than 50 percent likely to be realized. We recognize accrued interest and penalties related to uncertain income tax positions as income tax expense in the consolidated statements of income.
+We operate within multiple domestic and foreign taxing jurisdictions and are subject to audit in these jurisdictions by domestic and foreign tax authorities. These audits include questions regarding our tax filing positions, including the timing and amount of deductions taken and the allocation of income among various tax jurisdictions. We record accruals for the estimated
+
+73
+
+outcomes of these audits, and the accruals may change in the future due to new developments in each matter. At any point in time, many tax years are subject to or in the process of being audited by various taxing authorities. To the extent our estimates of settlements change or the final tax outcome of these matters is different from the amounts recorded, such differences will impact the income tax provision in the period in which such determinations are made. Our income tax expense includes changes in our estimated liability for exposures associated with our various tax filing positions. Determining the income tax expense for these potential assessments requires management to make assumptions that are subject to factors such as proposed assessments by tax authorities, changes in facts and circumstances, issuance of new regulations, and resolution of tax audits.
+We believe the judgments and estimates discussed above are reasonable. However, if actual results are not consistent with our estimates or assumptions, we may be exposed to losses or gains that could be material.
+
+ITEM 7 (A).     QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+As a result of our operating and financing activities, we are exposed to market risks such as interest rate risk, foreign currency exchange rate risk and credit risk. We have implemented policies and procedures designed to measure, manage, monitor and report risk exposures, which are regularly reviewed by the appropriate management and supervisory bodies.
+Interest Rate Risk
+We have exposure to market risk for changes in interest rates relating to our cash and cash equivalents, short-term and long-term restricted cash, short-term and long-term investments and indebtedness. As of December 31, 2018 and 2017, our cash and cash equivalents, short-term and long-term restricted cash and cash equivalents, and short-term and long-term investments were $2.0 billion and $1.6 billion, respectively, of which $275 million and $293 million, respectively, were denominated in pounds sterling, euros or Canadian dollars. The remaining cash and cash equivalents, and short-term and long-term restricted cash and cash equivalents are denominated in U.S. dollars. We do not use our investment portfolio for trading or other speculative purposes. A hypothetical decrease in long-term interest rates to zero basis points would decrease annual pre-tax earnings by $25 million as of December 31, 2018, assuming no change in the amount or composition of our cash and cash equivalents and short-term and long-term restricted cash and cash equivalents.
+As of December 31, 2018, we had $7.4 billion in outstanding debt, of which $6.5 billion relates to our senior notes, which bear interest at fixed interest rates. The remaining amount outstanding of $951 million relates to the Commercial Paper Program, which bears interest at fluctuating rates and, therefore, subjects us to interest rate risk. A hypothetical 100 basis point increase in long-term interest rates relating to the amounts outstanding under the Commercial Paper Program as of December 31, 2018 would decrease annual pre-tax earnings by $10 million, assuming no change in the volume or composition of our outstanding indebtedness and no hedging activity. See Item 7 “- Management’s Discussion and Analysis of Financial Condition and Results of Operations - Debt” included in this Annual Report.
+The interest rates on our Commercial Paper Program are currently evaluated based upon current maturities and market conditions. The weighted average interest rate on our Commercial Paper Program increased from 1.49% as of December 31, 2017 to 2.48% as of December 31, 2018. The increase in the Commercial Paper Program weighted average interest rate was primarily due to the decisions by the U.S. Federal Reserve in March 2018, June 2018, September 2018, and in December 2018 to increase the federal funds short-term interest rate by an aggregate 100 basis points to 2.50%. The effective interest rate of commercial paper issuance will continue to fluctuate based on the movement in short-term interest rates along with shifts in supply and demand within the commercial paper market.
+Foreign Currency Exchange Rate Risk
+As an international business, we are subject to foreign currency exchange rate risk. We may experience gains or losses from foreign currency transactions in the future given that a significant part of our assets and liabilities are recorded in pounds sterling, Canadian dollars or euros, and a significant portion of our revenues and expenses are recorded in pounds sterling or euros. Certain assets, liabilities, revenues and expenses of foreign subsidiaries are denominated in the local functional currency of such subsidiaries. Our exposure to foreign denominated earnings in 2018 and 2017 is presented by primary foreign currency in the following table (dollars in millions, except exchange rates):
+
+74
+
+----------------------------------------------------------------------------- ---------------------------- ------ ---------------------------- - -------------- ------ ---- -- - ------ - - ------
+
+ Year Ended December 31, 2018 Year Ended December 31, 2017
+ Pound Sterling Euro Pound Sterling Euro
+Average exchange rate to the U.S. dollar in the current year period $ 1.3356 $ 1.1813 $ 1.2890 $ 1.1297
+Average exchange rate to the U.S. dollar in the same period in the prior year $ 1.2890 $ 1.1297 $ 1.3603 $ 1.1075
+Average exchange rate increase (decrease) 4 % 5 % (5 )% 2 %
+Foreign denominated percentage of:
+Revenues, less transaction-based expenses 9 % 5 % 10 % 4 %
+Operating expenses 11 % 2 % 12 % 3 %
+Operating income 7 % 7 % 9 % 6 %
+Impact of the currency fluctuations (1) on:
+Revenues, less transaction-based expenses $ 16 $ 10 $ (26 ) $ 4
+Operating expenses $ 9 $ 2 $ (14 ) $ 1
+Operating income $ 7 $ 8 $ (12 ) $ 3
+
+--- ---------------------------------------------------------------------------------------------------------
+(1) Represents the impact of currency fluctuation for the year compared to the same period in the prior year.
+
+We have a significant part of our assets, liabilities, revenues and expenses recorded in pounds sterling or euros. In 2018, 2017 and 2016, 14%, 15% and 15%, respectively, of our consolidated revenues, less transaction-based expenses, were denominated in pounds sterling or euros, and 13%, 14%, and 18%, respectively, of our consolidated operating expenses were denominated in pounds sterling or euros. As the pound sterling or euro exchange rate changes, the U.S. equivalent of revenues and expenses denominated in foreign currencies changes accordingly.
+Foreign currency transaction risk related to the settlement of foreign currency denominated assets, liabilities and payables occur through our operations, which are received in or paid in pounds sterling, Canadian dollars, or euros, due to the increase or decrease in the foreign currency exchange rates between periods. We incurred foreign currency transaction losses of $2 million, $4 million and $1 million in 2018, 2017 and 2016, respectively. The foreign currency transactions losses were primarily attributable to the fluctuations of the pound sterling and euro relative to the U.S. dollar. A 10% adverse change in the underlying foreign currency exchange rates as of December 31, 2018, assuming no change in the composition of the foreign currency denominated assets, liabilities and payables and assuming no hedging activity, would result in no additional foreign currency gain or loss.
+We entered into foreign currency hedging transactions during 2018, 2017 and 2016 as economic hedges to help mitigate a portion of our foreign exchange risk exposure and may enter into additional hedging transactions in the future to help mitigate our foreign exchange risk exposure. Although we may enter into additional hedging transactions in the future to help mitigate our foreign exchange risk exposure, these hedging arrangements may not be effective, particularly in the event of imprecise forecasts of the levels of our non-U.S. denominated assets and liabilities.
+We have foreign currency translation risk equal to our net investment in our foreign subsidiaries. The financial statements of these subsidiaries are translated into U.S. dollars using a current rate of exchange, with gains or losses included in the cumulative translation adjustment account, a component of equity. Our exposure to the net investment in foreign currencies is presented by primary foreign currencies in the table below (in millions):
+
+------------------------------------------------------------------------------------------- --------------------------- --- ---------------------------- ----- ----------------- ----- -- - ---
+
+ As of December 31, 2018
+ Position in pounds sterling Position in Canadian dollars Position in euros
+Assets £ 822 C$ 2,057 € 136
+of which goodwill represents 638 413 92
+Liabilities 78 1,651 40
+Net currency position £ 744 C$ 406 € 96
+Net currency position, in $USD $ 950 $ 298 $ 110
+Negative impact on consolidated equity of a 10% decrease in foreign currency exchange rates $ 95 $ 30 $ 11
+
+As of December 31, 2018 and 2017, the portion of our equity attributable to accumulated other comprehensive loss from foreign currency translation was $227 million and $136 million, respectively. In 2018, 2017 and 2016, currency exchange rate differences had a positive/(negative) impact of ($91 million), $209 million and ($300 million), respectively, on our
+
+75
+
+consolidated equity. The decrease in 2018 is primarily due to the decrease in the pound sterling/U.S. dollar exchange rate to 1.2756 as of December 31, 2018 (from 1.3510 as of December 31, 2017) due to the weakening of the pound sterling as compared to the U.S. dollar. The increase in 2017 is primarily due to the increase in the pound sterling/U.S. dollar exchange rate to 1.3510 as of December 31, 2017 (from 1.2336 as of December 31, 2016) due to the strengthening pound sterling as compared to the U.S. dollar. The future impact on our business relating to the U.K. leaving the EU and the corresponding regulatory changes are uncertain at this time, including future impacts on currency exchange rates.
+Credit Risk
+We are exposed to credit risk in our operations in the event of a counterparty default. We limit our exposure to credit risk by rigorously selecting the counterparties with which we make our investments, monitoring them on an ongoing basis and executing agreements to protect our interests.
+Clearing House Cash Deposit Risks
+The ICE Clearing Houses hold material amounts of clearing member cash and cash equivalent deposits which are held or invested primarily to provide security of capital while minimizing credit, market and liquidity risks. Refer to Note 14 to our consolidated financial statements for more information on the ICE Clearing Houses' cash and cash equivalent deposits, which were $64.0 billion as of December 31, 2018. While we seek to achieve a reasonable rate of return which may generate interest income for our clearing members, we are primarily concerned with preservation of capital and managing the risks associated with these deposits. As the ICE Clearing Houses may pass on interest revenues (minus costs) to the clearing members, this could include negative or reduced yield due to market conditions. The following is a summary of the risks associated with these deposits and how these risks are mitigated.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Credit Risk: When a clearing house has the ability to hold cash collateral at a central bank, the clearing house utilizes its access to the central bank system to minimize credit risk exposures. Credit risk is monitored by using exposure limits depending on ratings assigned by rating agencies as well as the nature and maturity of transactions. Our investment objective is to invest in securities that preserve principal while maximizing yields, without significantly increasing risk. We seek to substantially mitigate credit risk associated with investments by placing them with governments, well-capitalized financial institutions and other creditworthy counterparties.
+
+An ongoing review is performed to evaluate changes in the financial status of counterparties. In addition to the intrinsic creditworthiness of counterparties, our policies require diversification of counterparties (banks, financial institutions, bond issuers and funds) so as to avoid a concentration of risk.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Liquidity Risk: Liquidity risk is the risk a clearing house may not be able to meet its payment obligations in the right currency, in the right place and the right time. To mitigate this risk, the clearing houses monitor liquidity requirements closely and maintain funds and assets in a manner which minimizes the risk of loss or delay in the access by the clearing house to such funds and assets. For example, holding funds with a central bank where possible or making only short term investments such as overnight reverse repurchase agreements serves to reduce liquidity risks.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Interest Rate Risk: Interest rate risk is the risk that interest rates rise and cause the value of securities we hold or invest in to decline. If we were required to sell securities prior to maturity, and interest rates had risen, the sale might be made at a loss relative to the carrying value. Our clearing houses seek to manage this risk by making short term investments. For example, where possible and in accordance with regulatory requirements, the clearing houses invest cash pursuant to overnight reverse repurchase agreements or term reverse repurchase agreements with short dated maturities. In addition, the clearing house investment guidelines allow for direct purchases of high quality sovereign debt (for example, U.S. Treasury securities) and supranational debt instruments (Euro cash deposits only) with short dated maturities.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Security Issuer Risk: Security issuer risk is the risk that an issuer of a security defaults on the payment when the security matures or debt is serviced. This risk is mitigated by limiting allowable investments under the reverse repurchase agreements to high quality sovereign or government agency debt and limiting any direct investments to high quality sovereign debt instruments.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Investment Counterparty Risk: Investment counterparty risk is the risk that a reverse repurchase agreement counterparty might become insolvent and, thus, fail to meet its obligations to our clearing houses. We mitigate this risk by only engaging in transactions with high credit quality counterparties and by limiting the acceptable collateral to securities of high quality issuers. When engaging in reverse repurchase agreements, our clearing houses take delivery of the securities underlying the reverse repurchase arrangement in custody accounts under clearing house
+
+76
+
+control. Additionally, the securities purchased subject to reverse repurchase have a market value greater than the reverse repurchase amount. The typical haircut for high quality sovereign debt is 2% of the reverse repurchase amount which provides additional excess collateral. Thus, in the event that a reverse repurchase counterparty defaults on its obligation to repurchase the underlying reverse repurchase securities, our clearing house will have possession of a security with a value potentially greater than the counterparty’s obligation.
+The ICE Clearing Houses may use third-party investment advisors who make investments subject to the guidelines provided by each clearing house. Such advisors do not hold clearing member cash or cash equivalent deposits or the underlying investments. Clearing house property is held in custody accounts under clearing house control with credit worthy custodians including JPMorgan Chase Bank N.A., Citibank N.A., BNY Mellon, BMO Harris N.A. and Euroclear Bank Brussels (for non-U.S. dollar deposits). The ICE Clearing Houses employ (or may employ) multiple investment advisors and custodians to ensure that in the event a single advisor or custodian is unable to fulfill its role, additional advisors or custodians are available as alternatives.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Cross-Currency Margin Deposit Risk: Each of the ICE Clearing Houses may permit posting of cross-currency collateral to satisfy margin requirements (for example, accepting margin deposits denominated in U.S. dollars to secure a Euro margin obligation). The ICE Clearing Houses mitigate the risk of a currency value exposure by applying a “haircut” to the currency posted as margin at a level viewed as sufficient to provide financial protection during periods of currency volatility. Cross-currency balances are marked-to-market on a daily basis. Should the currency posted to satisfy margin requirements decline in value, the clearing member is required to increase its margin deposit on a same-day basis.
+
+Impact of Inflation
+We have not been adversely affected by inflation as technological advances and competition have generally caused prices for the hardware and software that we use for our electronic platforms to remain constant. In the event of inflation, we believe that we will be able to pass on any price increases to our participants, as the prices that we charge are not governed by long-term contracts.
+
+77
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[Refer to Note 4]:
+(4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES, Neff and BlueLine acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision (benefit) for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with t...
+
+[Refer to Note 15]:
+Note 15. Long-Term Debt The principal amount (net of unamortized discounts, premiums and debt issuance costs), stated interest rate and maturity date of outstanding debt are as follows (dollars in thousands): ------------------------------------------------------------------------------------- ----------------- --------- ----------------- --------- - --------- November 30, 2018 December 31, 2017 Parent Company Debt: Senior Notes: 5.50% Senior Notes due October 18, 2023, $750,000 principal $ 743,397 $ 742,348 6.625% Senior Notes due October 23, 2043, $250,000 principal 246,719 246,673 Total long-term debt - Parent Company 990,116 989,021 Subsidiary Debt (non-recourse to Parent Company): Jefferies Group: 5.125% Senior Notes, due April 13, 2018, $0 and $678,300 principal -- 682,338 8.5% Senior Notes, due July 15, 2019, $680,800 principal 699,659 728,872 2.375% Euro Medium Term Notes, due May 20, 2020, $565,500 and $594,725 principal 564,702 593,334 6.875% Senior Notes, due April 15, 2021, $750,000 principal 791,814 808,157 2.25% Euro Medium Term Notes, due July 13, 2022, $4,524 and $4,758 principal 4,243 4,389 5.125% Senior Notes, due January 20, 2023, $600,000 principal 612,928 615,703 4.85% Senior Notes, due January 15, 2027, $750,000 principal (1) 709,484 736,357 6.45% Senior Debentures, due June 8, 2027, $350,000 principal 373,669 375,794 3.875% Convertible Senior Debentures, due November 1, 2029, $0 and $324,779 principal -- 324,779 4.15% Senior Notes, due January 23, 2030, $1,000,000 and $0 principal 987,788 -- 6.25% Senior Debentures, due January 15, 2036, $500,000 principal 511,662 512,040 6.50% Senior Notes, due January 20, 2043, $400,000 principal 420,625 420,990 Structured Notes (2) (3) 686,170 614,091 Jefferies Group Revolving Credit Facility 183,539 -- National Beef Reducing Revolver Loan -- 120,000 National Beef Revolving Credit Facility -- 76,809 Foursight Capital Credit Facilities -- 170,455 Other 81,164 112,654 Total long-term debt - subsidiaries 6,627,447 6,...
+
+[Refer to Note 3]:
+(3) This reflects the impact of extending the useful lives of equipment acquired in the RSC, NES, Neff, BakerCorp and BlueLine acquisitions, net of the impact of additional depreciation associated with the fair value mark-up of such equipment. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES, Neff and BlueLine acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision (benefit) for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EB...
+
+[See Note 13]:
+Note 13. Income Taxes Income from continuing operations before income taxes included income from domestic operations of $12.0 billion, $10.7 billion, and $15.8 billion for the years ended December 31, 2016, 2017, and 2018, respectively, and income from foreign operations of $12.1 billion, $16.5 billion, and $19.1 billion for the years ended December 31, 2016, 2017, and 2018, respectively. The provision for income taxes consists of the following (in millions): -------------------------- ----------------------- ----- ---- ------ ---- ------ ----- - - ----- Year Ended December 31, 2016 2017 2018 Current: Federal and state $ 3,826 $ 12,608 $ 2,153 Foreign 966 1,746 1,251 Total 4,792 14,354 3,404 Deferred: Federal and state (70 ) 220 907 Foreign (50 ) (43 ) (134 ) Total (120 ) 177 773 Provision for income taxes $ 4,672 $ 14,531 $ 4,177 The Tax Act enacted on December 22, 2017 introduced significant changes to U.S. income tax law. Effective 2018, the Tax Act reduced the U.S. statutory tax rate from 35% to 21% and created new taxes on certain foreign-sourced earnings and certain related-party payments. 77 ----------------- -------------  Alphabet Inc. Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we made reasonable estimates of the effects and recorded provisional amounts in our consolidated financial statements as of December 31, 2017. As we collected and prepared necessary data, and interpreted the additional guidance issued by the U.S. Treasury Department, the IRS, and other standard-setting bodies, we made adjustments, over the course of the year, to the provisional amounts including refinements to deferred taxes. The accounting for the tax effects of the Tax Act has been completed as of December 31, 2018. One-time transition tax The Tax Act required us to pay U.S. income taxes on accumulated foreign subsidiary earnings not previously subject to U.S. income tax at a rate of 15.5% to the extent of foreign cash ...
+
+[refer to Note 16]:
+Note 16. Commitments and Contingencies 78
+
+[Refer to Note 12]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, CSX and Norfolk Southern Corporation ("NS") jointly own Conrail. CSX has a 42% economic interest and 50% voting interest in the jointly-owned entity, and NS has the remainder of the economic and voting interests. CSX's investment of $943 million is included on the consolidated balance sheet as investment in Conrail. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service charges in the shared asset area. These expenses are included in materials, supplies and other on the consolidated income statements. Future payments due to Conrail under the shared asset area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2019 $ 27 2020 27 2021 27 2022 27 2023 27 Thereafter 20 Total $ 155 Also, included in equity earnings of affiliates are CSX's 42 percent share of Conrail's income and its amortization of the fair value write-up arising from the acquisition of Conrail and certain other adjustments. The amortization primarily represents the additional after-tax depreciation expense related to the write-up of Conrail's fixed assets when the original purchase price, from the 1997 acquisition of Conrail, was allocated based on fair value. This write-up of fixed assets resulted in a difference between CSX's investment in Conrail and its share of Conrail's underlying net equity, which is $343 million as of December 2018. The following table discloses amounts related to Conrail. Purchase price amortization and equity earnings are included in equity earnings of affiliates and all other ...
+
+[Refer to Note 12]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, CSX and Norfolk Southern Corporation ("NS") jointly own Conrail. CSX has a 42% economic interest and 50% voting interest in the jointly-owned entity, and NS has the remainder of the economic and voting interests. CSX's investment of $943 million is included on the consolidated balance sheet as investment in Conrail. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service charges in the shared asset area. These expenses are included in materials, supplies and other on the consolidated income statements. Future payments due to Conrail under the shared asset area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2019 $ 27 2020 27 2021 27 2022 27 2023 27 Thereafter 20 Total $ 155 Also, included in equity earnings of affiliates are CSX's 42 percent share of Conrail's income and its amortization of the fair value write-up arising from the acquisition of Conrail and certain other adjustments. The amortization primarily represents the additional after-tax depreciation expense related to the write-up of Conrail's fixed assets when the original purchase price, from the 1997 acquisition of Conrail, was allocated based on fair value. This write-up of fixed assets resulted in a difference between CSX's investment in Conrail and its share of Conrail's underlying net equity, which is $343 million as of December 2018. The following table discloses amounts related to Conrail. Purchase price amortization and equity earnings are included in equity earnings of affiliates and all other ...
+
+[See Note 14]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud offerings. - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Other Bets - Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes businesses such as Access, Calico, CapitalG, GV, Verily, Waymo, and X. Revenues from the Other Bets are derived primarily through the sales of internet and TV services through Access as well as licensing and R&D services through Verily. 80 ----------------- -------------  Alphabet Inc...
+
+[See note 13]:
+Note 13. Income Taxes Income from continuing operations before income taxes included income from domestic operations of $12.0 billion, $10.7 billion, and $15.8 billion for the years ended December 31, 2016, 2017, and 2018, respectively, and income from foreign operations of $12.1 billion, $16.5 billion, and $19.1 billion for the years ended December 31, 2016, 2017, and 2018, respectively. The provision for income taxes consists of the following (in millions): -------------------------- ----------------------- ----- ---- ------ ---- ------ ----- - - ----- Year Ended December 31, 2016 2017 2018 Current: Federal and state $ 3,826 $ 12,608 $ 2,153 Foreign 966 1,746 1,251 Total 4,792 14,354 3,404 Deferred: Federal and state (70 ) 220 907 Foreign (50 ) (43 ) (134 ) Total (120 ) 177 773 Provision for income taxes $ 4,672 $ 14,531 $ 4,177 The Tax Act enacted on December 22, 2017 introduced significant changes to U.S. income tax law. Effective 2018, the Tax Act reduced the U.S. statutory tax rate from 35% to 21% and created new taxes on certain foreign-sourced earnings and certain related-party payments. 77 ----------------- -------------  Alphabet Inc. Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we made reasonable estimates of the effects and recorded provisional amounts in our consolidated financial statements as of December 31, 2017. As we collected and prepared necessary data, and interpreted the additional guidance issued by the U.S. Treasury Department, the IRS, and other standard-setting bodies, we made adjustments, over the course of the year, to the provisional amounts including refinements to deferred taxes. The accounting for the tax effects of the Tax Act has been completed as of December 31, 2018. One-time transition tax The Tax Act required us to pay U.S. income taxes on accumulated foreign subsidiary earnings not previously subject to U.S. income tax at a rate of 15.5% to the extent of foreign cash ...
+
+[See note 16]:
+Note 16. Commitments and Contingencies 78
+
+[Refer to Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[see Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[Refer to Note 14]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud offerings. - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Other Bets - Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes businesses such as Access, Calico, CapitalG, GV, Verily, Waymo, and X. Revenues from the Other Bets are derived primarily through the sales of internet and TV services through Access as well as licensing and R&D services through Verily. 80 ----------------- -------------  Alphabet Inc...

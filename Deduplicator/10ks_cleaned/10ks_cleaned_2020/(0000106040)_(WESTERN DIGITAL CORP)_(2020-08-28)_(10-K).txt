@@ -1,0 +1,466 @@
+================================================================================
+CIK: 0000106040
+Company Name: WESTERN DIGITAL CORP
+Filing Date: 2020-08-28
+Form Type: 10-K
+Extraction Date: 2025-08-31 15:45:36
+================================================================================
+
+Item 7.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis contains forward-looking statements within the meaning of the federal securities laws, and should be read in conjunction with the disclosures we make concerning risks and other factors that may affect our business and operating results. You should read this information in conjunction with the Consolidated Financial Statements and the notes thereto included in Part II, Item 8 of this Annual Report on Form 10-K. See also “Forward-Looking Statements” immediately prior to Part I, Item 1 of this Annual Report on Form 10-K.
+
+Our Company
+
+We are a leading developer, manufacturer and provider of data storage devices and solutions that address the evolving needs of the information technology (“IT”) industry and the infrastructure that enables the proliferation of data in virtually every other industry. We create environments for data to thrive. We drive the innovation needed to help customers capture, preserve, access and transform an ever-increasing diversity of data. Everywhere data lives, from advanced data centers to mobile sensors to personal devices, our industry-leading solutions deliver the possibilities of data.
+
+Our broad portfolio of technology and products address the following key end markets: Client Devices; Data Center Devices and Solutions; and Client Solutions. We also generate license and royalty revenue from our extensive intellectual property (“IP”), which is included in each of these three end market categories.
+
+Our fiscal year ends on the Friday nearest to June 30 and typically consists of 52 weeks. Approximately every five to six years, we report a 53-week fiscal year to align the fiscal year with the foregoing policy. Fiscal year 2020, which ended on July 3, 2020, is comprised of 53 weeks, with the first quarter consisting of 14 weeks and the remaining quarters consisting of 13 weeks each. Fiscal years 2019, which ended on June 28, 2019, and 2018, which ended on June 29, 2018, were each comprised of 52 weeks, with all quarters presented consisting of 13 weeks.
+
+Key Developments
+
+COVID-19 Pandemic
+
+In March 2020, the World Health Organization declared COVID-19 a pandemic, and the United States declared a national emergency. In the intervening months, COVID-19 has spread globally and led governments and other authorities around the world, including federal, state and local authorities in the United States, to impose measures intended to reduce its spread, including restrictions on freedom of movement and business operations such as travel bans, border closings, business limitations and closures (subject to exceptions for essential operations and businesses), quarantines and shelter-in-place orders.
+Although some of these governmental restrictions have since been lifted or scaled back, a recent surge of COVID-19 infections has resulted in the re-imposition of certain restrictions and may lead to other restrictions being re-implemented in response to efforts to reduce the spread of COVID-19. These measures may remain in place for a significant amount of time. In light of these events, we have taken actions to protect the health and safety of our employees while continuing to serve our global customers as an essential business. We have implemented more thorough sanitation practices as outlined by health organizations and instituted social distancing policies at our locations around the world, including working from home, limiting the number of employees attending meetings, reducing the number of people in our sites at any one time, and suspending employee travel. These actions have resulted in some reductions of production levels, particularly impacting our manufacture of hard drives, as we adapt to a more limited number of employees in facilities and, as a result, we have incurred charges of approximately $110 million in costs related to under-absorbed overhead and higher logistics and other costs during the year ended July 3, 2020.
+
+As an essential business, we continue to provide products and solutions that enable the proliferation of data and facilitate the sharing of information remotely, which has become more critical as much of the world is interacting from areas of self-isolation. While we have experienced some reductions of sales in certain areas such as retail in our Client Solutions end market where brick and mortar operations have been impacted, we have seen strong demand for capacity enterprise products in our Data Center Devices and Solutions end market as the current environment has accelerated the movement to the cloud. As such, our net revenue for the year ended July 3, 2020 was not significantly impacted by COVID-19. We currently expect some softening in Cloud demand as these customers absorb recent capacity expansions, but expect some improvement in retail demand as countries begin to ease their lockdown restrictions and as brick and mortar locations shift more of their operations online. However, we cannot predict the duration of this crisis and how demand may change if it becomes more protracted.
+
+35
+
+Table of Contents
+
+We will continue to actively monitor the situation and may take further actions altering our business operations that we determine are in the best interests of our employees, customers, partners, suppliers, and stakeholders, or as required by federal, state, or local authorities. See “The COVID-19 pandemic could adversely affect our business, results of operations and financial condition” in Part I, Item 1A, Risk Factors, of this Annual Report on Form 10-K for more information regarding the risks we face as a result of the COVID-19 pandemic.
+
+Flash Ventures
+
+Through our three business ventures with Kioxia Corporation (“Kioxia”), referred to as “Flash Ventures”, we and Kioxia operate flash-based memory wafer manufacturing facilities in Japan. We are obligated to pay for variable costs incurred in producing our share of Flash Ventures’ flash-based memory wafer supply, based on our three-month forecast, which generally equals 50% of Flash Ventures’ output. In addition, we are obligated to pay for half of Flash Ventures’ fixed costs regardless of the output we choose to purchase. We are also obligated to fund 49.9% to 50% of each Flash Ventures entity’s capital investments to the extent that Flash Ventures entity’s operating cash flow is insufficient to fund these investments.
+
+Since its inception, Flash Ventures’ primary manufacturing site has been located in Yokkaichi, Japan, which currently includes five wafer fabrication facilities. These facilities historically operated near 100% of their manufacturing capacity. As a result of supply/demand imbalance for flash-based products arising in the prior year, we temporarily reduced our utilization of our share of Flash Ventures’ manufacturing capacity to an abnormally low level for several quarters to more closely align our flash-based wafer supply with the projected demand. As a result of this temporary reduction to abnormally low production levels, we incurred $264 million associated with the reduction in utilization, which was recorded as a charge to cost of revenue in the year ended June 28, 2019. In addition, levels at the Yokkaichi site were temporarily reduced as a result of an unexpected power outage incident that occurred in the Yokkaichi region on June 15, 2019. The power outage incident impacted the facilities and process tools and resulted in the damage of flash wafers in production. The incident resulted in a reduction of our flash wafer availability by approximately 4 exabytes, the majority of which was contained in the first quarter of fiscal year 2020. As a result of this power outage incident, we incurred aggregate charges of $68 million and $145 million recorded in Cost of revenue in the years ended July 3, 2020 and June 28, 2019, respectively, which primarily consisted of the write-off of damaged inventory and unabsorbed manufacturing overhead costs. We continue to pursue recovery of our losses associated with this event; however, the total amount of recovery cannot be estimated at this time.
+
+In May 2019, we entered into additional agreements with Kioxia to extend Flash Ventures to a new wafer fabrication facility, known as “K1,” located in Kitakami, Japan. The primary purpose of K1 is to provide clean room space to continue the transition of existing flash-based wafer capacity to newer technology nodes. Output from the initial production line at K1 began in the third quarter of fiscal year 2020, although meaningful output from K1 is not expected to begin until the end of calendar 2020. We have paid for most of our share of initial K1 equipment investments and relocation costs. Other period expenses associated with the initial production ramp at K1 will begin trailing off as output increases toward the end of the calendar year. We also agreed to prepay an aggregate of approximately $360 million over a 3-year period beginning in the first half of fiscal year 2020 toward K1 building depreciation, to be credited against future wafer charges. As of July 3, 2020, remaining committed prepayments totaled $206 million.
+
+Exit of Storage Systems Business
+
+In September 2019, we announced our intention to exit Storage Systems, which consisted of IntelliFlash and ActiveScale. These actions allow us to redirect investments to other higher value priorities. In November 2019, we completed the sale of IntelliFlash for a price of $28 million, to be collected over the next three years. The sale of our IntelliFlash business included an immaterial amount of inventory, other tangible and intangible assets, and goodwill and resulted in a gain of approximately $17 million recorded in Employee termination, asset impairment, and other charges in the Consolidated Statements of Operations for the year ended July 3, 2020. Additionally, in March 2020, we completed the sale of ActiveScale. The net assets sold and the proceeds from the sale of ActiveScale were not material.
+
+36
+
+Table of Contents
+
+Results of Operations
+
+Summary Comparison of 2020, 2019 and 2018
+
+The following table sets forth, for the periods presented, selected summary information from our Consolidated Statements of Operations by dollars and percentage of net revenue(1):
+
+--------------------------------------------------------- --------------------------------- ------ ----- ----- - ------ - ------ ----- ---- ----- - ------- - ------ ----- -
+
+ 2020 2019 2018
+ (in millions, except percentages)
+Revenue, net $ 16,736 100.0 % $ 16,569 100.0 % $ 20,647 100.0 %
+Cost of revenue 12,955 77.4 12,817 77.4 12,942 62.7
+Gross profit 3,781 22.6 3,752 22.6 7,705 37.3
+Operating Expenses:
+Research and development 2,261 13.5 2,182 13.2 2,400 11.6
+Selling, general and administrative 1,153 6.9 1,317 7.9 1,473 7.1
+Employee termination, asset impairment, and other charges 32 0.2 166 1.0 215 1.0
+Total operating expenses 3,446 20.6 3,665 22.1 4,088 19.8
+Operating income 335 2.0 87 0.5 3,617 17.5
+Interest and other income (expense):
+Interest income 28 0.2 57 0.3 60 0.3
+Interest expense (413) (2.5) (469) (2.8) (676) (3.3)
+Other income (expense), net 4 — 38 0.2 (916) (4.4)
+Total interest and other expense, net (381) (2.3) (374) (2.3) (1,532) (7.4)
+Income (loss) before taxes (46) (0.3) (287) (1.7) 2,085 10.1
+Income tax expense 204 1.2 467 2.8 1,410 6.8
+Net income (loss) $ (250) (1.5) % $ (754) (4.6) % $ 675 3.3 %
+
+(1) Percentages may not total due to rounding.
+
+37
+
+Table of Contents
+
+The following table sets forth, for the periods presented, summary information regarding our revenue(1):
+
+------------------------------- ------------- ------ ---- ----- ---- ------ ------ - ------
+
+ Year Ended
+ 2020 2019 2018
+ (in millions)
+Revenue by Product
+Hard disk drives (“HDD”) $ 8,967 $ 8,746 $ 10,698
+Flash-based 7,769 7,823 9,949
+Total Revenue $ 16,736 $ 16,569 $ 20,647
+
+Revenue by End Market
+Client Devices $ 7,160 $ 8,095 $ 10,108
+Data Center Devices & Solutions 6,228 5,038 6,075
+Client Solutions 3,348 3,436 4,464
+Total Revenue $ 16,736 $ 16,569 $ 20,647
+
+Revenue by Geography
+Americas $ 5,444 $ 4,361 $ 5,622
+Europe, Middle East and Africa 2,926 3,109 3,858
+Asia 8,366 9,099 11,167
+Total Revenue $ 16,736 $ 16,569 $ 20,647
+Exabytes Shipped 518 383 389
+
+(1) Revenue for 2020 and 2019 are presented in accordance with Accounting Standards Codification (“ASC”) Topic 606. Revenue for 2018 is presented in accordance with ASC Topic 605. For information related to our transition from Topic 605 to Topic 606, see Part II, Item 8, Note 1, Organization and Basis of Presentation, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+Net Revenue
+
+Net revenue was relatively flat in 2020 compared to 2019. Higher volumes of memory generated approximately 30 percentage points of exabyte growth year over year, split relatively evenly between HDD and Flash products, which was largely offset by lower average selling prices. Our revenue for Data Center Devices and Solutions increased 24% year over year, reflecting approximately 46 percentage points of growth in exabytes of storage, primarily driven by strength in capacity enterprise HDD and Flash, which we believe reflects an acceleration in the movement to cloud driven by remote working conditions as a result of COVID-19. This growth was partially offset by lower average selling prices. Client Devices revenue declined 12% year over year, which primarily reflects lower average selling prices in HDD and mobility products. Client Solutions revenue declined 3% year over year, which reflects a decline of approximately 12 percentage points due to lower average selling prices, primarily on retail products, partially offset by an increase in volume of Flash products.
+
+The changes in net revenue by geography reflect a decrease in Asia in 2020 primarily driven by our decision to limit our participation in the mobile market and our exit from multi-chip package solutions sales, resulting in lower sales to manufacturers in the Asia region, and a slight increase in the Americas driven by increased sales of capacity enterprise HDD.
+
+For 2020, 2019 and 2018, our top 10 customers accounted for 42%, 45% and 42%, respectively, of our net revenue. For each of 2020, 2019 and 2018, no single customer accounted for 10% or more of our net revenue.
+
+38
+
+Table of Contents
+
+Consistent with standard industry practice, we have sales incentive and marketing programs that provide customers with price protection and other incentives or reimbursements that are recorded as a reduction to gross revenue. For 2020, 2019 and 2018, these programs represented 16%, 15% and 12%, respectively, of gross revenues, and adjustments to revenue due to changes in accruals for these programs have generally averaged less than 1% of gross revenue over the last three fiscal years. The amounts attributed to our sales incentive and marketing programs generally vary according to several factors including industry conditions, list pricing strategies, seasonal demand, competitor actions, channel mix and overall availability of products. Changes in future customer demand and market conditions may require us to adjust our incentive programs as a percentage of gross revenue.
+
+Gross Profit and Gross Margin
+
+Gross profit and gross margin for 2020 were relatively flat compared to 2019, which reflected lower aggregate charges for amortization expense on acquired intangible assets, manufacturing underutilization charges, and charges related to the power outage incident, which aggregated $678 million for 2020 compared to $1.2 billion for 2019. These lower costs were offset by the impact of lower average selling prices, as noted above; the impact of COVID-related costs; and higher per-unit overhead costs in HDD as we ramp up production on our new 18-terabyte drives. We expect gross margins to be constrained in the near term as we continue to ramp up production on our new drives and continue to incur COVID-related costs.
+
+Operating Expenses
+
+Research and development (“R&D”) expense increased $79 million in 2020 compared to 2019 primarily due to approximately $30 million of additional expense related to the additional week in the current year and increased variable compensation, partially offset by savings from our exit from the storage systems business and lower outside services and travel and entertainment (“T&E”) spending.
+
+Selling, general and administrative (“SG&A”) expense decreased $164 million in 2020 compared to 2019 primarily due to savings realized from our exit from the storage systems business, lower outside services and T&E spending, partially offset by approximately $10 million of additional expense related to the additional week in the current year and increased variable compensation.
+
+Employee termination, asset impairment and other charges decreased from the prior year as many of the actions initiated in the prior year have been substantially completed. For additional information regarding employee termination, asset impairment and other charges, see Part II, Item 8, Note 15, Employee Termination, Asset Impairment and Other Charges, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+Interest and Other Income (Expense)
+
+The decreases in total interest and other expense, net in 2020 compared to 2019 primarily reflect decreases in interest expense resulting from the pay-down of principal on our debt and lower index rates, partially offset by decreases in Interest income resulting from lower invested cash and lower rates of return, as well as lower gains on foreign currency transactions.
+
+Income Tax Expense
+
+The following table sets forth income tax information from our Consolidated Statements of Operations by dollar and effective tax rate:
+
+-------------------------- --------------------------------- ---- ---- ----- ---- ----- ----- - - -----
+
+ 2020 2019 2018
+ (in millions, except percentages)
+Income (loss) before taxes $ (46) $ (287) $ 2,085
+Income tax expense 204 467 1,410
+Effective tax rate (443) % (163) % 68 %
+
+39
+
+Table of Contents
+
+The Tax Cuts and Jobs Act (the “2017 Act”) includes a broad range of tax reform proposals affecting businesses. We completed our accounting for the tax effects of the enactment of the 2017 Act during the second quarter of fiscal 2019. However, the U.S. Treasury and the Internal Revenue Service (“IRS”) have issued tax guidance on certain provisions of the 2017 Act since the enactment date, and we anticipate the issuance of additional regulatory and interpretive guidance. We applied a reasonable interpretation of the 2017 Act along with the then-available guidance in finalizing our accounting for the tax effects of the 2017 Act. Any additional regulatory or interpretive guidance would constitute new information, which may require further refinements to our estimates in future periods.
+
+The primary drivers of the difference between the effective tax rate for 2020 and the U.S. Federal statutory rate of 21% are the relative mix of earnings and losses by jurisdiction, the deduction for foreign derived intangible income, credits and tax holidays in Malaysia, Philippines and Thailand that will expire at various dates during fiscal years 2021 through 2030. In addition, the effective tax rate for 2020 includes the discrete effect of a de-recognition of $31 million for certain deferred tax assets associated with creditable foreign withholding taxes due to the issuance of final regulatory guidance. The regulatory guidance does not preclude us from potentially claiming these creditable taxes as a period benefit when paid.
+
+The primary driver of the difference between the effective tax rate for the year ended June 28, 2019 and the U.S. Federal statutory rate of 21% is the discrete effect of the finalization of the accounting for the tax effects of the enactment of the 2017 Act. These discrete effects consist of $119 million related to the mandatory deemed repatriation tax and $189 million related to the decision to change our indefinite reinvestment assertion. The remaining difference is attributable primarily to a change in the estimated effective tax rate due to changes in the relative mix of earnings by jurisdiction, partially offset by credits and tax holidays.
+
+Our future effective tax rate is subject to future regulatory developments and changes in the mix of our U.S. earnings compared to foreign earnings. Our total tax expense in future fiscal years may also vary as a result of discrete items such as excess tax benefits or deficiencies.
+
+For additional information regarding Income tax expense (benefit), see Part II, Item 8, Note 13, Income Tax Expense, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+A discussion of our results of operations for 2018, including a comparison of such results of operations to 2019, is included in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, included in our Annual Report on Form 10-K for the year ended June 28, 2019 filed with the Securities and Exchange Commission on August 27, 2019.
+
+40
+
+Table of Contents
+
+Liquidity and Capital Resources
+
+The following table summarizes our statements of cash flows:
+
+----------------------------------------- ------------- ----- ---- ------- ---- ------- ------- - -------
+
+ 2020 2019 2018
+ (in millions)
+Net cash provided by (used in):
+Operating activities $ 824 $ 1,547 $ 4,205
+Investing activities 278 (1,272) (1,655)
+Financing activities (1,508) (1,829) (3,900)
+Effect of exchange rate changes on cash (1) 4 1
+Net decrease in cash and cash equivalents $ (407) $ (1,550) $ (1,349)
+
+We believe our cash, cash equivalents and cash generated from operations as well as our available credit facilities will be sufficient to meet our working capital, debt and capital expenditure needs for at least the next twelve months. Our ability to sustain our working capital position is subject to a number of risks that we discuss in Part I, Item 1A, Risk Factors, in this Annual Report on Form 10-K.
+
+During fiscal 2021, we expect expenditures for property, plant and equipment for our company plus our portion of the capital expenditures by our Flash Ventures joint venture with Kioxia for its operations to aggregate approximately $3.1 billion. After consideration of the Flash Ventures’ lease financing of its capital expenditures and net operating cash flow, we expect net cash used for our purchases of property, plant and equipment and net activity in notes receivable relating to Flash Ventures to be a cash outflow of approximately $1.3 billion during fiscal 2021. The total expected cash to be used could vary depending on the timing and completion of various capital projects and the availability, timing and terms of related financing.
+
+During fiscal 2019, we made the determination that it was our intention to repatriate all of our foreign undistributed earnings as a result of the 2017 Act, except a portion of our foreign undistributed earnings, which could result in additional federal taxes based on interpretive guidance issued by the IRS. After consideration of this interpretative guidance affecting the taxation of a certain portion of our foreign undistributed earnings, we made the determination that we do not intend to repatriate this portion of our foreign undistributed earnings and did not establish an accrual for this liability of $1.25 billion.
+
+A total of $2.12 billion and $2.37 billion of our Cash and cash equivalents was held outside of the U.S. as of July 3, 2020 and June 28, 2019, respectively. As a result of the change in our permanent reinvestment assertion, there are no material tax consequences that were not previously accrued for on the repatriation of this cash.
+
+Operating Activities
+
+Cash flow from operating activities primarily consists of net income, adjusted for non-cash charges, plus or minus changes in operating assets and liabilities. This represents our principal source of cash. Net cash used for changes in operating assets and liabilities was $757 million for 2020, as compared to $260 million net cash used for changes in operating assets and liabilities for 2019. Changes in our operating assets and liabilities are largely affected by our working capital requirements, which are dependent on the effective management of our cash conversion cycle as well as timing of payments for taxes. Our cash conversion cycle measures how quickly we can convert our products into cash through sales. The cash conversion cycles were as follows:
+
+------------------------- --------- ---- ---- ---- ----
+
+ 2020 2019 2018
+ (in days)
+Days sales outstanding 52 26 39
+Days in inventory 85 93 83
+Days payables outstanding (66) (54) (71)
+Cash conversion cycle 71 65 51
+
+41
+
+Table of Contents
+
+Changes in days sales outstanding (“DSO”) are generally due to the linearity of shipments. Changes in days in inventory (“DIO”) are generally related to the timing of inventory builds. Changes in days payables outstanding (“DPO”) are generally related to production volume and the timing of purchases during the period. From time to time, we modify the timing of payments to our vendors. We make modifications primarily to manage our vendor relationships and to manage our cash flows, including our cash balances. Generally, we make the payment term modifications through negotiations with our vendors or by granting to, or receiving from, our vendors’ payment term accommodations.
+
+For 2020, DSO increased by 26 days over the prior year, reflecting 6 days for lower factoring of receivables, and 4 days resulting from balance sheet reclassifications of certain customer incentives in connection with the adoption of ASC Topic 606 related to recognition of agreements with customers. The additional increase primarily reflects the timing of shipments and customer collections. We have seen no significant deterioration in our receivables as a result of COVID-19. DIO decreased by 8 days over the prior year, reflecting higher stocking levels of HDD inventory in the prior year in response to the plant closure in Kuala Lumpur. DPO increased by 12 days over the prior year, primarily reflecting resumptions of flash production volumes as well as routine variations in the timing of purchases and payments during the period.
+
+Investing Activities
+
+Net cash provided by investing activities in 2020 primarily consisted of a $931 million net decrease in notes receivable issuances to Flash Ventures, partially offset by $647 million of capital expenditures and $22 million for acquisitions. Net cash used in investing activities in 2019 primarily consisted of $876 million of capital expenditures and a net $598 million increase in notes receivable issuances to Flash Ventures to fund its capital expansion.
+
+Our cash equivalents are primarily invested in money market funds that invest in U.S. Treasury securities and U.S. Government agency securities. In addition, from time to time, we invest directly in U.S. Treasury securities, U.S. and international government agency securities, certificates of deposit, asset backed securities and corporate and municipal notes and bonds.
+
+Financing Activities
+
+During 2020, net cash used in financing activities primarily consisted of $982 million for repayment of debt (of which $257 million was for scheduled principal payments and $725 million was for voluntary prepayments), $595 million to pay dividends on our common stock and $72 million for taxes paid on vested stock awards under employee stock plans, partially offset by $141 million of cash from the issuance of stock under our employee stock plans. Net cash used in financing activities in 2019 primarily consisted of $681 million for the repayment of our revolving credit facility and other debt, $584 million to pay dividends on our common stock, and $563 million for share repurchases. On July 31, 2020, we made an incremental voluntary prepayment of $150 million on our Term Loan B-4.
+
+In April 2020, we suspended our dividend policy to reinvest in the business and to support our ongoing deleveraging efforts. We will reevaluate our dividend policy as our leverage ratio improves.
+
+A discussion of our cash flows for the year ended June 29, 2018 is included in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources, included in our Annual Report on Form 10-K for the year ended June 28, 2019 filed with the Securities and Exchange Commission on August 27, 2019.
+
+Off-Balance Sheet Arrangements
+
+Other than the commitments related to Flash Ventures incurred in the normal course of business and certain indemnification provisions (see “Short and Long-term Liquidity-Contractual Obligations and Commitments” below), we do not have any other material off-balance sheet financing arrangements or liabilities, guarantee contracts, retained or contingent interests in transferred assets, or any other obligation arising out of a material variable interest in an unconsolidated entity. We do not have any majority-owned subsidiaries that are not included in the Consolidated Financial Statements. Additionally, with the exception of Flash Ventures and our joint venture with Unisplendour Corporation Limited and Unissoft (Wuxi) Group Co. Ltd. (“Unis”), referred to as the “Unis Venture”, we do not have an interest in, or relationships with, any variable interest entities. For additional information regarding our off-balance sheet arrangements, see Part II, Item 8, Note 8, Related Parties and Related Commitments and Contingencies, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+42
+
+Table of Contents
+
+Short and Long-term Liquidity
+
+Contractual Obligations and Commitments
+
+The following is a summary of our known contractual cash obligations and commercial commitments as of July 3, 2020:
+
+-------------------------------------------- ------------- ------ ------------- ----- --------------------- ----- --------------------- ------------------------------- ------ --- ----- - -----
+ Total 1 Year (2021) 2-3 Years (2022-2023) 4-5 Years (2024-2025) More than 5 Years (Beyond 2025)
+ (in millions)
+
+Long-term debt, including current portion(1) $ 9,711 $ 286 $ 6,025 $ 1,100 $ 2,300
+Interest on debt 1,152 289 519 235 109
+Flash Ventures related commitments(2) 5,786 2,793 2,171 688 134
+Operating leases 304 45 60 55 144
+Purchase obligations and other commitments 3,657 1,851 1,146 470 190
+Mandatory Deemed Repatriation Tax 1,029 106 208 417 298
+Total $ 21,639 $ 5,370 $ 10,129 $ 2,965 $ 3,175
+
+(1)Principal portion of debt, excluding discounts and issuance costs.
+(2)Includes reimbursement for depreciation and lease payments on owned and committed equipment, funding commitments for loans and equity investments and payments for other committed expenses, including R&D and building depreciation. Funding commitments assume no additional operating lease guarantees. Additional operating lease guarantees can reduce funding commitments.
+
+Debt
+
+In addition to our existing debt, we have $2.25 billion available under our revolving credit facility, subject to customary conditions under the credit agreement. Additional information regarding our indebtedness, including information about availability under our revolving credit facility and the principal repayment terms, interest rates, covenants and other key terms of our outstanding indebtedness, is included in Part II, Item 8, Note 6, Debt, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K. The credit agreement governing our revolving credit facility and our term loan A-1 due 2023 requires us to comply with certain financial covenants, consisting of a leverage ratio and an interest coverage ratio. As of July 3, 2020, we were in compliance with these financial covenants.
+
+Flash Ventures
+
+Flash Ventures sells to and leases back from a consortium of financial institutions a portion of its tools and has entered into equipment lease agreements of which we guarantee half or all of the outstanding obligations under each lease agreement. The leases are subject to customary covenants and cancellation events that relate to Flash Ventures and each of the guarantors. The occurrence of a cancellation event could result in an acceleration of the lease obligations and a call on our guarantees. As of July 3, 2020, we were in compliance with all covenants under these Japanese lease facilities. See Part II, Item 8, Note 8, Related Parties and Related Commitments and Contingencies, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K for information regarding Flash Ventures.
+
+Purchase Obligations and Other Commitments
+
+In the normal course of business, we enter into purchase orders with suppliers for the purchase of components used to manufacture our products. These purchase orders generally cover forecasted component supplies needed for production during the next quarter, are recorded as a liability upon receipt of the components, and generally may be changed or canceled at any time prior to shipment of the components. We also enter into long-term agreements with suppliers that contain fixed future commitments, which are contingent on certain conditions such as performance, quality and technology of the vendor’s components. These arrangements are included under “Purchase obligations” in the table above.
+
+43
+
+Table of Contents
+
+Mandatory Deemed Repatriation Tax
+
+The following is a summary of our estimated mandatory deemed repatriation tax obligations that are payable in the following fiscal years (in millions):
+
+----- --- -----
+
+ 2021 106
+ 2022 104
+ 2023 104
+ 2024 179
+ 2025 238
+ 2026 298
+
+Total $ 1,029
+
+For additional information regarding our estimate of the total tax liability for the mandatory deemed repatriation tax, see Part II, Item 8, Note 13, Income Tax Expense, of the Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended June 28, 2019.
+
+Unrecognized Tax Benefits
+
+As of July 3, 2020, the liability for unrecognized tax benefits (excluding accrued interest and penalties) was approximately $717 million. Accrued interest and penalties related to unrecognized tax benefits as of July 3, 2020 was approximately $137 million. Of these amounts, approximately $720 million could result in potential cash payments. We are not able to provide a reasonable estimate of the timing of future tax payments related to these obligations.
+
+Interest Rate Swap
+
+We have generally held a balance of fixed and variable rate debt. At July 3, 2020, we had $6.28 billion of variable rate debt, comprising 65% of the par value of our debt. To balance the portfolio and moderate our exposure to fluctuations in interest rates underlying our variable debt, we entered into pay-fixed interest rate swaps on $2.00 billion notional amount, which effectively converts a portion of our term loan to fixed rates through February 2023. After giving effect to the $2.00 billion of interest rate swaps, we effectively had $4.28 billion of Long-term debt subject to variations in interest rates and a one percent increase in the variable rate of interest would increase annual interest expense by $43 million.
+
+Foreign Exchange Contracts
+
+We purchase foreign exchange contracts to hedge the impact of foreign currency fluctuations on certain underlying assets, liabilities and commitments for Operating expenses and product costs denominated in foreign currencies. For a description of our current foreign exchange contract commitments, see Part II, Item 8, Note 5, Derivative Instruments and Hedging Activities, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+Indemnifications
+
+In the ordinary course of business, we may provide indemnifications of varying scope and terms to customers, vendors, lessors, business partners and other parties with respect to certain matters, including, but not limited to, losses arising out of our breach of agreements, products or services to be provided by us, environmental compliance or from IP infringement claims made by third parties. In addition, we have entered into indemnification agreements with our directors and certain of our officers that will require us, among other things, to indemnify them against certain liabilities that may arise by reason of their status or service as directors or officers. We maintain director and officer insurance, which may cover certain liabilities arising from our obligation to indemnify our directors and officers in certain circumstances.
+
+It is not possible to determine the maximum potential amount under these indemnification agreements due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each particular agreement. Such indemnification agreements may not be subject to maximum loss clauses. Historically, we have not incurred material costs as a result of obligations under these agreements.
+
+44
+
+Table of Contents
+
+Stock Repurchase Program
+
+Our Board of Directors has authorized a stock repurchase program for the repurchase of up to $5.00 billion of our common stock, which authorization is effective through July 25, 2023. For the year ended July 3, 2020, we did not make any stock repurchases and have not repurchased any shares of our common stock pursuant to our stock repurchase program since the first quarter of fiscal 2019. Although we will reevaluate the repurchasing of our common stock when appropriate, there can be no assurance if, when or at what level we may resume such activity. The remaining amount available to be repurchased under our current stock repurchase program as of July 3, 2020 was $4.50 billion. Repurchases under the stock repurchase program may be made in the open market or in privately negotiated transactions and may be made under a Rule 10b5-1 plan.
+
+Cash Dividend
+
+We issued a quarterly cash dividend from the first quarter of fiscal 2013 up to the third quarter of fiscal 2020. During the year ended July 3, 2020, we declared aggregate cash dividends of $1.50 per share on our outstanding common stock totaling $449 million. In April 2020, we suspended our dividend to reinvest in the business and to support our ongoing deleveraging efforts. We will reevaluate our dividend policy as our leverage ratio improves.
+
+Recent Accounting Pronouncements
+
+For a description of recently issued and adopted accounting pronouncements, including the respective dates of adoption and expected effects on our results of operations and financial condition, see Part II, Item 8, Note 2, Recent Accounting Pronouncements, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+Critical Accounting Policies and Estimates
+
+We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States (U.S. GAAP). The preparation of the financial statements requires the use of judgments and estimates that affect the reported amounts of revenues, expenses, assets, liabilities and shareholders’ equity. We have adopted accounting policies and practices that are generally accepted in the industry in which we operate. If these estimates differ significantly from actual results, the impact to the Consolidated Financial Statements may be material.
+
+Revenue
+
+We provide distributors and retailers (collectively referred to as “resellers”) with limited price protection for inventories held by resellers at the time of published list price reductions. We also provide resellers and original equipment manufacturers (“OEMs”) with other sales incentive programs. The Company records estimated variable consideration related to these items as a reduction to revenue at the time of revenue recognition. We use judgment in our assessment of variable consideration in contracts to be included in the transaction price. We use the expected value method to arrive at the amount of variable consideration. The Company is constraining variable consideration until the likelihood of a significant revenue reversal is not probable and believes that the expected value method is the appropriate estimate of the amount of variable consideration based on the fact that we have a large number of contracts with similar characteristics.
+
+For sales to OEMs, the Company’s methodology for estimating variable consideration is based on the amount of consideration expected to be earned based on the OEMs’ volume of purchases from the Company or other agreed upon sales incentive programs. For sales to resellers, the methodology for estimating variable consideration is based on several factors including historical pricing information, current pricing trends and channel inventory levels. Differences between the estimated and actual amounts of variable consideration are recognized as adjustments to revenue.
+
+Marketing development program costs are typically recorded as a reduction of the transaction price and, therefore, of revenue. We net sales rebates against open customer receivable balances if the criteria to offset are met, otherwise they are recorded within other accrued liabilities.
+
+Inventories
+
+We value inventories at the lower of cost (first-in, first-out) or net realizable value. We record inventory write-downs for the valuation of inventory at the lower of cost or net realizable value by analyzing market conditions and estimates of future sales prices as compared to inventory costs and inventory balances.
+
+45
+
+Table of Contents
+
+We evaluate inventory balances for excess quantities and obsolescence on a regular basis by analyzing estimated demand, inventory on hand, sales levels and other information and reduce inventory balances to net realizable value for excess and obsolete inventory based on this analysis. Unanticipated changes in technology or customer demand could result in a decrease in demand for one or more of our products, which may require a write down of inventory that could materially affect operating results.
+
+Litigation and Other Contingencies
+
+When we become aware of a claim or potential claim, we assess the likelihood of any loss or exposure. We disclose information regarding each material claim where the likelihood of a loss contingency is probable or reasonably possible. If a loss contingency is probable and the amount of the loss can be reasonably estimated, we record an accrual for the loss. In such cases, there may be an exposure to potential loss in excess of the amount accrued. Where a loss is not probable but is reasonably possible or where a loss in excess of the amount accrued is reasonably possible, we disclose an estimate of the amount of the loss or range of possible losses for the claim if a reasonable estimate can be made, unless the amount of such reasonably possible losses is not material to our financial position, results of operations or cash flows. The ability to predict the ultimate outcome of such matters involves judgments, estimates and inherent uncertainties. The actual outcome of such matters could differ materially from management’s estimates. For additional information, see Part II, Item 8, Note 16, Legal Proceedings, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+Income Taxes
+
+We account for income taxes under the asset and liability method, which provides that deferred tax assets and liabilities be recognized for temporary differences between the financial reporting basis and the tax basis of our assets and liabilities and expected benefits of utilizing net operating loss and tax credit carryforwards. We record a valuation allowance when it is more likely than not that the deferred tax assets will not be realized. Each quarter, we evaluate the need for a valuation allowance for our deferred tax assets and we adjust the valuation allowance so that we record net deferred tax assets only to the extent that we conclude it is more likely than not that these deferred tax assets will be realized. We account for interest and penalties related to income taxes as a component of the provision for income taxes.
+
+We recognize liabilities for uncertain tax positions based on a two-step process. To the extent a tax position does not meet a more-likely-than-not level of certainty, no benefit is recognized in the financial statements. If a position meets the more-likely-than-not level of certainty, it is recognized in the financial statements at the largest amount that has a greater than 50% likelihood of being realized upon ultimate settlement. Interest and penalties related to unrecognized tax benefits are recognized on liabilities recorded for uncertain tax positions and are recorded in our provision for income taxes. The actual liability for unrealized tax benefits in any such contingency may be materially different from our estimates, which could result in the need to record additional liabilities for unrecognized tax benefits or potentially adjust previously-recorded liabilities for unrealized tax benefits and materially affect our operating results.
+
+Goodwill and Other Long-Lived Assets
+
+Goodwill is not amortized. Instead, it is tested for impairment on an annual basis or more frequently whenever events or changes in circumstances indicate that goodwill may be impaired. We perform our annual impairment test as of the first day of our fiscal fourth quarter. We use qualitative factors to determine whether goodwill is more likely than not impaired and whether a quantitative test for impairment is considered necessary. If we conclude from the qualitative assessment that goodwill is more likely than not impaired, we are required to perform a quantitative approach to determine the amount of impairment. We are required to use judgment when applying the goodwill impairment test, including the identification of one or more reporting units. If we had more than one reporting unit, judgment would also be required in the assignment of assets and liabilities to reporting units, assignment of goodwill to reporting units and determination of the fair value of each reporting unit. In addition, the estimates used to determine the fair value of each reporting unit may change based on results of operations, macroeconomic conditions or other factors. Changes in these estimates could materially affect our assessment of the fair value and goodwill impairment for each reporting unit. If our stock price decreases significantly, goodwill could become impaired, which could result in a material charge and adversely affect our results of operations.
+
+Other long-lived intangible assets are amortized over their estimated useful lives based on the pattern in which the economic benefits are expected to be received. Long-lived assets are tested for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. If impairment is indicated, the impairment is measured as the amount by which the carrying amount of the assets exceeds the fair value of the assets. The estimates of fair
+
+46
+
+Table of Contents
+
+value require evaluation of future market conditions and product lifecycles as well as projected revenue, earnings and cash flow.
+
+47
+
+Table of Contents
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[see Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[see Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[see Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 13
+
+[included in Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 13
+
+[see Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[See Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[see Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[see Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[see Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[see Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part I, Item 1]:
+Item 1. Business 3
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 22
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 13
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 22
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 13
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31

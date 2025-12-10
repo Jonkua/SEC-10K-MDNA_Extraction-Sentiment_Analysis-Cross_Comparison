@@ -1,0 +1,749 @@
+================================================================================
+CIK: 0001043604
+Company Name: JUNIPER NETWORKS INC
+Filing Date: 2019-02-22
+Form Type: 10-K
+Extraction Date: 2025-08-31 04:20:32
+================================================================================
+
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion should be read with the Consolidated Financial Statements and the related notes in Item 8 of Part II of this Report.
+
+The following discussion is based upon our Consolidated Financial Statements included elsewhere in this Report, which have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP. In the course of operating our business, we routinely make decisions as to the timing of the payment of invoices, the collection of receivables, the manufacturing and shipment of products, the fulfillment of orders, the purchase of supplies, and the building of inventory and spare parts, among other matters. In making these decisions, we consider various factors including contractual obligations, customer satisfaction, competition, internal and external financial targets and expectations, and financial planning objectives. Each of these decisions has some impact on the financial results for any given period. For further information about our critical accounting policies and estimates, see “Critical Accounting Policies and Estimates” section included in this “Management's Discussion and Analysis of Financial Condition and Results of Operations.”
+
+To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview. These sections should be read in conjunction with the more detailed discussion and analysis of our consolidated financial condition and results of operations in this Item 7, our “Risk Factors” section included in Item 1A of Part I, and our Consolidated Financial Statements and notes thereto included in Item 8 of Part II of this Report.
+
+Executive Overview
+
+Business and Market Environment
+
+Juniper designs, develops, and sells products and services for high-performance networks to enable customers to build scalable, reliable, secure and cost-effective networks for their businesses, while achieving agility and improved operating efficiency through automation.
+
+Our products are sold in three geographic regions: Americas; Europe, Middle East and Africa, or EMEA; and Asia Pacific, or APAC. We sell our high-performance network products and service offerings across routing, switching, and security technologies. In addition to our products, we offer our customers services, including maintenance and support, professional services, and education and training programs. Our products and services address high-performance network requirements for our customers within our verticals: Cloud, Service Provider, and Enterprise who view their network as critical to their success. We believe our silicon, systems, and software represent innovations that transform the economics and experience of networking, helping our customers achieve superior performance, greater choice, and flexibility, while reducing overall total cost of ownership.
+
+Further, our intent is to expand our software business by introducing new software solutions to our product portfolio that simplify the operation of networks, and allow our customers across our key verticals flexibility in consumption and deployment. We believe our software revenues as a percentage of total revenues will increase over time as we introduce new software product offerings and business models designed to better monetize the value of our software offerings.
+
+We believe the network needs for our customers in our Cloud, Service Provider, and Enterprise verticals are converging, as these customers recognize the need for high performance networks and are adopting cloud architectures for their infrastructure and service delivery, such as large public and private data centers and service provider edge data centers, for improved agility and greater levels of operating efficiency.
+
+In 2018, we continued to experience weakness within our Cloud and Service provider verticals. In our Cloud vertical, certain large Cloud customers were transitioning their network architecture as they continued to add capacity. This resulted in these customers transitioning from purchasing our MX product family to our PTX product family which contributed to the decline in our net revenues as the PTX product family has a lower average selling price compared to the MX product family. We believe the MX to PTX transition is largely behind us; however, the pace of deployments in a portion of our Cloud customer’s networks has been slower than expected. Nevertheless, we are focused on the Cloud vertical as well as the transition to 400-gig Ethernet, or 400G, which we believe will present further opportunities for Juniper across our portfolio as our Cloud customers value high-performance, highly compact, power efficient infrastructures, which we support and continue to develop.
+
+ 41
+
+Table of Contents
+
+In our Service Provider vertical, changes in business models and the increase in industry consolidation, such as acquisitions, mergers, and partnerships may continue to impact Service Provider investment and the build-out of their networks in the near-term, however, we believe that our Service Provider customers will need to invest in the build-out of high performance networks and the transformation of existing legacy infrastructure to distributed cloud environments. We are committed to this transformation, which we refer to as the Telco Cloud transformation, as our Service Provider customers rearchitect their infrastructure to enable, among other things, next generation mobile network build-outs, or 5G. We are well positioned to capitalize on 5G carrier deployments with the refresh of our MX 5G product and Contrail solutions as well as our new partnership with Ericsson to accelerate 5G initiatives by leveraging each company’s complementary portfolios to drive our competitive advantage in the marketplace. We believe these products and partnership position Juniper for improved Service Provider spending in late 2019.
+
+We remain confident in our strategy and we are executing against our innovation roadmap, as each of our industry verticals transitions to cloud architectures. We believe our understanding of high-performance networking technology and cloud architecture, and our strategy, position us to capitalize on the industry transition to more automated, cost-efficient, scalable networks.
+
+In 2018, we continued to execute on our product and solutions strategy and announced several new innovations, including a new 400G optimized routing platform; a new high-performance MX Series 5G Universal Routing Platform with new programmable silicon; an upgrade to our high-end SRX firewall offering with our SPC3 Advanced Security Acceleration line card; and our multi-cloud orchestration and telemetry platform including Contrail Edge Cloud and Contrail Enterprise Multicloud, each of which, we believe, will help strengthen our position across our core markets. We also announced new initiatives under an existing partnership with Nutanix, which we expect will help strengthen our ability to capitalize on multicloud with our Contrail Enterprise Multicloud integration with Nutanix’s application programming interface, or APIs to provide enhanced network visibility.
+
+In late 2018, we completed the acquisition of HTBase, a software company that has developed a unique and disruptive platform for software-defined enterprise multicloud, which we expect will accelerate our leadership in multicloud and function with the compute orchestration capabilities of Contrail Enterprise Multicloud. We will continue to look at targeted and strategic acquisitions that we believe can complement our portfolio, operations, R&D strategy, and overall business.
+
+In 2019, we believe we will continue to experience weakness with our Cloud customers in the near-term, as deployment cycles remain difficult to predict; however, we remain confident in our competitive position with our strategic Cloud customers. We are taking a number of actions that we believe will help Juniper achieve year-over-year revenue growth at some point in the second half of 2019 such as: (1) new product offerings which include new MX line cards to capitalize on 5G carrier initiatives; 400G platforms to capture data center footprint; and new enhancements to our Contrail Enterprise Multicloud platform that make it simpler and more cost effective, (2) transitioning our sales organization to better align with our sales strategy, and (3) monetizing our software offerings through subscriptions. Further, we believe the 400G upgrade cycle, 5G deployments, and enterprise multicloud initiatives each represent large opportunities where are well positioned to benefit over the next several years.
+
+ 42
+
+Table of Contents
+
+Financial Results and Key Performance Metrics Overview
+
+On January 1, 2018, we adopted Financial Accounting Standards Board, or FASB, Accounting Standards Update, or ASU, No. 2014-09 (Topic 606) - Revenue from Contracts with Customers, which we refer to as Topic 606. The standard provides guidance for revenue recognition that superseded the revenue recognition requirements in Accounting Standards Codification Topic 605, Revenue Recognition, which we refer to as Topic 605, and most industry specific guidance. See Note 2, Significant Accounting Policies, in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for further discussion on the adoption of Topic 606. Results for reporting periods beginning after January 1, 2018 are presented under Topic 606, while prior period amounts are not adjusted and continue to be reported in accordance with the historic accounting under Topic 605.
+
+The following table provides an overview of our financial results and key financial metrics (in millions, except per share amounts, percentages, and days sales outstanding, or DSO):
+
+---------------------------------------- ------------------------------------------ ------- ---- ---- ---- ------- ------------- - ------------- ------- -------- -------- ------ - -- --- -- -- -- ------ - --- --
+
+ As of and for the Years Ended December 31,
+ 2018 2017 2016 2018 vs. 2017 2017 vs. 2016
+ $ Change % Change $ Change % Change
+Net revenues $ 4,647.5 $ 5,027.2 $ 4,990.1 $ (379.7 ) (8 )% $ 37.1 1 %
+Gross margin $ 2,741.2 $ 3,072.1 $ 3,104.5 $ (330.9 ) (11 )% $ (32.4 ) (1 )%
+Percentage of net revenues 59.0 % 61.1 % 62.2 %
+Operating income $ 572.2 $ 848.1 $ 889.7 $ (275.9 ) (33 )% $ (41.6 ) (5 )%
+Percentage of net revenues 12.3 % 16.9 % 17.8 %
+Net income $ 566.9 $ 306.2 $ 592.7 $ 260.7 85 % $ (286.5 ) (48 )%
+Percentage of net revenues 12.2 % 6.1 % 11.9 %
+Net income per share
+Basic $ 1.62 $ 0.81 $ 1.55 $ 0.81 100 % $ (0.74 ) (48 )%
+Diluted $ 1.60 $ 0.80 $ 1.53 $ 0.80 100 % $ (0.73 ) (48 )%
+
+Operating cash flows $ 861.1 $ 1,259.3 $ 1,126.6 $ (398.2 ) (32 )% $ 132.7 12 %
+Stock repurchase plan activity $ 750.0 $ 719.7 $ 312.9 $ 30.3 4 % $ 406.8 130 %
+Cash dividends declared per common stock $ 0.72 $ 0.40 $ 0.40 $ 0.32 80 % $ — — %
+DSO(*) 58 62 68 (4 ) (6 )% (6 ) (9 )%
+
+Deferred revenue $ 1,213.6 $ 1,539.3 $ 1,481.1 $ (325.7 ) (21 )% $ 58.2 4 %
+Product deferred revenue $ 144.4 $ 334.2 $ 322.9 $ (189.8 ) (57 )% $ 11.3 3 %
+Service deferred revenue $ 1,069.2 $ 1,205.1 $ 1,158.2 $ (135.9 ) (11 )% $ 46.9 4 %
+
+________________________________
+
+--- ---------------------------------------------------------------------
+(*) DSO is for the fourth quarter ended December 31, 2018, 2017 and 2016.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Net Revenues: During 2018, net revenues decreased compared to 2017, primarily due to lower routing product revenues from our Cloud and Service Provider verticals in the Americas. We experienced ongoing networking architectural transitions and a slower than expected pace of deployments for certain large Cloud customers as well as a decline in our Service Provider business due to the timing of deployments. The year-over-year decline in product net revenues was partially offset by broad-based revenue growth in our Enterprise vertical. Excluding the impact of Topic 606, our service net revenues would have increased during the 2018, compared to 2017, primarily due to strong renewal and attach rates of support contracts. Of our top ten customers for 2018, five were Cloud, four were Service Provider, and one was an Enterprise.
+
+ 43
+
+Table of Contents
+
+During 2018, the adoption of Topic 606 resulted in a decrease in revenue recognition of $22.6 million due to lower service revenues, partially offset by higher product revenues. Service revenues during 2018 were lower by $122.9 million under Topic 606, compared to Topic 605, primarily due to the impact of revenue allocation between products and services. Product revenues during 2018 were higher by $100.3 million under Topic 606, compared to Topic 605, primarily due to the impact of revenue allocation between products and services and the timing of revenue recognition of certain contracts that were precluded by Topic 605, partially offset by variable consideration. The product revenues increase from Topic 606 was primarily allocated between routing and switching.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Gross Margin: Our gross margin as a percentage of net revenues decreased during 2018, compared to 2017, primarily due to lower net revenues and product mix, resulting from the year-over-year decline in routing revenues from our Cloud and Service Provider verticals, and to a lesser extent, the impact of Topic 606, partially offset by improvements in our cost structure.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Operating Margin: During 2018, compared to 2017, operating income as a percentage of net revenues decreased primarily due to the drivers described in the gross margin discussion above, partially offset by a net decrease in our operating expenses during 2018, compared to 2017, as a result of lower restructuring charges.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Net Income: During 2018, net income increased compared to 2017, primarily driven by a lower statutory tax rate due to the Tax Act and tax benefits related to items unique to 2018. See Note 14, Income Taxes, in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report, for further discussion.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Operating Cash Flows: Net cash provided by operations decreased in 2018, compared to 2017, primarily due to higher cash collections from customers during 2017 related to service renewals invoiced during the fourth quarter of 2016, partially offset by a decline in cash paid for personnel-related costs, principally as a result of a reduction in headcount and lower incentive compensation, and a decrease in payments to suppliers.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Capital Return: In 2018, we repurchased 29.3 million shares of our common stock for an aggregate amount of $750.0 million through the completion of a $750.0 million accelerated share repurchase program, or ASR. During 2018, we also paid a quarterly cash dividend of $0.18 per share, for an aggregate amount of $249.3 million.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• DSO: DSO is calculated as the ratio of ending accounts receivable, net of allowances, divided by net revenues for the preceding 90 days. DSO for the quarter ended December 31, 2018 decreased, compared to the quarter ended December 31, 2017, primarily due to lower overall invoicing volume, partially offset by lower revenues.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Deferred Revenue: Total deferred revenue decreased as of December 31, 2018, compared to December 31, 2017, due to the impact of adoption of Topic 606. See Note 2, Significant Accounting Policies, in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report, for further discussion.
+
+Critical Accounting Policies and Estimates
+
+The preparation of the financial statements and related disclosures in conformity with U.S. GAAP requires us to make judgments, assumptions, and estimates that affect the amounts reported in the Consolidated Financial Statements and the accompanying notes. On an ongoing basis, we evaluate our estimates, including those related to sales returns, pricing credits, warranty costs, allowance for doubtful accounts, impairment of long-term assets, especially goodwill and intangible assets, contract manufacturer liabilities, assumptions used in the valuation of share-based compensation, and litigation. We base our estimates and assumptions on current facts, historical experience, and various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. For further information about our significant accounting policies, see Note 2, Significant Accounting Policies, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report, which describes the significant accounting policies and methods used in the preparation of the Consolidated Financial Statements. The accounting policies described below are significantly affected by critical accounting estimates. Such accounting policies require significant judgments, assumptions, and estimates used in the preparation of the Consolidated Financial Statements and actual results could differ materially from the amounts reported based on these policies. To the extent there are material differences between our estimates and the actual results, our future consolidated results of operations may be affected.
+
+ 44
+
+Table of Contents
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Goodwill: We make significant estimates, assumptions, and judgments when valuing goodwill and other intangible assets in connection with the initial purchase price allocation of an acquired entity, as well as when evaluating impairment of goodwill and other intangible assets on an ongoing basis. These estimates are based upon a number of factors, including historical experience, market conditions, and information obtained from the management of the acquired company. Critical estimates in valuing certain intangible assets include, but are not limited to, historical and projected customer retention rates, anticipated growth in revenue from the acquired customer and product base, and the expected use of the acquired assets. These factors are also considered in determining the useful life of the acquired intangible assets. The amounts and useful lives assigned to identified intangible assets impacts the amount and timing of future amortization expense.
+
+Goodwill represents the future economic benefits arising from other assets acquired in a business combination that are not individually identified and separately recorded. The excess of the purchase price over the estimated fair value of net assets of businesses acquired in a business combination is recognized as goodwill. We evaluate our goodwill for impairment on an annual basis, as of November 1st, or more frequently if an event occurs or facts and circumstances change that would more likely than not reduce the fair value of our reporting units below their carrying amount.
+
+Goodwill is tested for impairment at the reporting unit level, which is one level below our operating segment level, by comparing the reporting unit's carrying value, including goodwill, to the fair value of the reporting unit. The reporting units are determined based on the components of our operating segment that constitutes a business for which discrete financial information is available, and segment management regularly review the operating results of the component.
+
+The provisions of the accounting standard for goodwill and other intangibles allow us to first assess qualitative factors to determine whether it is necessary to perform the two-step quantitative goodwill impairment test. Various factors are considered in the qualitative assessment, including macroeconomic conditions, financial performance, or a sustained decrease in share price. If as a result of the qualitative assessment, it is deemed more likely than not that the fair value of a reporting unit is less than its carrying amount, management will perform the quantitative test.
+
+The quantitative goodwill impairment test, if necessary, involves a two-step process to identify goodwill impairment and measure the amount of goodwill impairment loss to be recognized, if any. The first step tests for potential impairment by comparing the fair value of the reporting unit with the reporting unit’s carrying value. If the fair value of the reporting unit exceeds the carrying value of the reporting unit’s net assets, goodwill is not impaired and no further testing is required. If the fair value of the reporting unit does not exceed the carrying value of the net assets assigned to the reporting unit, then we perform the second step of the impairment test in order to determine the implied fair value of the reporting unit's goodwill. The second step requires an assignment of the reporting unit’s fair value to the reporting unit’s assets and liabilities, using the relevant acquisition accounting guidance, to determine the implied fair value of the reporting unit’s goodwill. The implied fair value of the reporting unit’s goodwill is then compared with the carrying amount of the reporting unit’s goodwill, and if the carrying value of a reporting unit's goodwill exceeds its implied fair value, we record an impairment loss equal to the difference.
+
+In the first step, the fair value of each of our reporting units is determined using both the income and market valuation approaches. We believe the income approach and the market approach are equally representative of the reporting unit’s fair value. Under the income approach, the fair value of the reporting unit is based on the present value of estimated future cash flows that the reporting unit is expected to generate over its remaining life. Under the market approach, the value of the reporting unit is based on an analysis that compares the value of the reporting unit to values of publicly-traded companies in similar lines of business. In the application of the income and market valuation approaches, we are required to make estimates of future operating trends and judgments on discount rates and other variables. Determining the fair value of a reporting unit is highly judgmental in nature and involves the use of significant estimates and assumptions. We base our fair value estimates on assumptions we believe to be reasonable, but unpredictable and inherently uncertain. Actual future results related to assumed variables could differ from these estimates. In addition, we make certain judgments and assumptions in allocating shared assets and liabilities to determine the carrying values for each of our reporting units.
+
+Under the income approach, we calculate the fair value of a reporting unit based on the present value of estimated future cash flows. Cash flow projections are based on management's estimates of revenue growth rates and operating margins, taking into consideration industry and market conditions. The discount rate used is based on the weighted-average cost of capital, adjusted for the relevant risk associated with business-specific characteristics and the uncertainty related to the business's ability to execute on the projected cash flows. Under the market approach, we estimate the fair value based on market multiples of earnings derived from comparable publicly-traded companies with similar operating and investment characteristics as the reporting units, and then apply a control premium, which is determined by
+
+ 45
+
+Table of Contents
+
+considering control premiums offered as part of the acquisitions that have occurred in market segments that are comparable with our reporting units. The income approach and the market approach are equally weighted to derive the fair value of the reporting unit.
+
+During the fourth quarter of 2018, we performed a quantitative assessment for all of our reporting units: Routing, Switching, and Security. This quantitative assessment was performed by determining the fair value of each reporting unit using a combination of the income approach and the market approach. Based on the results of the quantitative assessments, we determined that the fair value of each reporting unit significantly exceeded its respective carrying value, resulting in no goodwill impairment.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Inventory Valuation and Contract Manufacturer Liabilities: Inventory consists primarily of component parts to be used in the manufacturing process and finished goods in-transit, and is stated at lower of cost or net realizable value. A provision is recorded when inventory is determined to be in excess of anticipated demand or obsolete, to adjust inventory to its estimated realizable value. In determining the provision, we also consider estimated recovery rates based on the nature of the inventory. As of December 31, 2018 and December 31, 2017, our net inventory balances were $82.0 million and $97.8 million, respectively.
+
+We establish a liability for non-cancelable, non-returnable purchase commitments with our contract manufacturers for quantities in excess of our demand forecasts or obsolete materials charges for components purchased by contract manufacturers based on our demand forecasts or customer orders. We also take estimated recoveries of aged inventory into consideration when determining the liability. As of December 31, 2018 and December 31, 2017, our contract manufacturer liabilities were $30.4 million and $22.0 million, respectively.
+
+Significant judgment is used in establishing our forecasts of future demand, recovery rates based on the nature and age of inventory, and obsolete material exposures. We perform a detailed analysis and review of data used in establishing our demand forecasts. If the actual component usage and product demand are significantly lower than forecast, which may be caused by factors within and outside of our control, or if there were a higher incidence of inventory obsolescence because of rapidly changing technology and our customer requirements, we may be required to increase our inventory write-downs and contract manufacturer liabilities, which could have an adverse impact on our gross margins and profitability. We regularly evaluate our exposure for inventory write-downs and adequacy of our contract manufacturer liabilities. Inventory and supply chain management remains an area of focus as we balance the risk of material obsolescence and supply chain flexibility in order to reduce lead times.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Revenue Recognition: We enter into contracts to sell our products and services, and while some of our sales agreements contain standard terms and conditions, there are agreements that contain non-standard terms and conditions and include promises to transfer multiple goods or services. As a result, significant interpretation and judgment are sometimes required to determine the appropriate accounting for these transactions, including: (1) whether performance obligations are considered distinct that should be accounted for separately versus together, how the price should be allocated among the performance obligations, and when to recognize revenue for each performance obligation; (2) developing an estimate of the stand-alone selling price, or SSP, of each distinct performance obligation; (3) combining contracts that may impact the allocation of the transaction price between product and services; and (4) estimating and accounting for variable consideration, including rights of return, rebates, price protection, expected penalties or other price concessions as a reduction of the transaction price.
+
+Our estimates of SSP for each performance obligation require judgment that considers multiple factors, including, but not limited to, historical discounting trends for products and services, pricing practices in different geographies and through different sales channels, gross margin objectives, internal costs, competitor pricing strategies, and industry technology lifecycles. Our estimates for rights of return, rebates, and price protection are based on historical sales returns and price protection credits, specific criteria outlined in customer contracts or rebate agreements, and other factors known at the time. Our estimates for expected penalties and other price concessions are based on historical trends and expectations regarding future incurrence.
+
+Changes in judgments with respect to these assumptions and estimates could impact the timing or amount of revenue recognition.
+
+ 46
+
+Table of Contents
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Income Taxes: We are subject to income taxes in the United States and numerous foreign jurisdictions. Significant judgment is required in evaluating our uncertain tax positions and determining our taxes. Although we believe our reserves are reasonable, no assurance can be given that the final tax outcome of these matters will not be different from that which is reflected in our historical income tax provisions and accruals. We adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit or the refinement of an estimate. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences will affect the provision for income taxes in the period in which such determination is made.
+
+Significant judgment is also required in determining any valuation allowance recorded against deferred tax assets. In assessing the need for a valuation allowance, we consider all available evidence, including past operating results, estimates of future taxable income, and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.
+
+Our provision for income taxes is subject to volatility and could be adversely affected by earnings being lower than anticipated in countries that have lower tax rates and higher than anticipated in countries that have higher tax rates; by changes in the valuation of our deferred tax assets and liabilities; by expiration of, or lapses in the R&D tax credit laws; by transfer pricing adjustments, including the effect of acquisitions on our intercompany R&D cost-sharing arrangement and legal structure; by tax effects of nondeductible compensation; by tax costs related to intercompany realignments; by changes in accounting principles; or by changes in tax laws and regulations, including possible U.S. changes to the taxation of earnings of our foreign subsidiaries, the deductibility of expenses attributable to foreign income, or the foreign tax credit rules. In addition, the OECD’s recommended changes to numerous long-standing tax principles, as adopted by countries, will increase tax uncertainty and may adversely affect our provision for income taxes. Significant judgment is required to determine the recognition and measurement attributes prescribed in the accounting guidance for uncertainty in income taxes. The accounting guidance for uncertainty in income taxes applies to all income tax positions, including the potential recovery of previously paid taxes, which if settled unfavorably could adversely affect our provision for income taxes or additional paid-in capital. In addition, we are subject to the continuous examination of our income tax returns by the IRS and other tax authorities. We regularly assess the likelihood of adverse outcomes resulting from these examinations to determine the adequacy of our provision for income taxes. There can be no assurance that the outcomes from these continuous examinations will not have an adverse effect on our operating results and financial condition.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Loss Contingencies: We are involved in various lawsuits, claims, investigations, and proceedings, including those involving our IP, commercial, securities and employment matters, which arise in the ordinary course of business. We use significant judgment and assumptions to estimate the likelihood of loss or impairment of an asset, or the incurrence of a liability, in determining loss contingencies. An estimated loss contingency is accrued when it is probable that an asset has been impaired or a liability has been incurred and the amount of loss can be reasonably estimated. We record a charge equal to the minimum estimated liability for litigation costs or a loss contingency only when both of the following conditions are met: (i) information available prior to issuance of our consolidated financial statements indicates that it is probable that an asset had been impaired or a liability had been incurred at the date of the financial statements and (ii) the range of loss can be reasonably estimated. We regularly evaluate current information available to us to determine whether such accruals should be adjusted and whether new accruals are required.
+
+Recent Accounting Pronouncements
+
+See Note 2, Significant Accounting Policies, in Notes to the Consolidated Financial Statements in Item 8 of Part II of this Report for a full description of recent accounting pronouncements, including the expected dates of adoption and estimated effects on financial condition and results of operations, which is incorporated herein by reference.
+
+ 47
+
+Table of Contents
+
+Results of Operations
+
+Revenues
+
+The following table presents net revenues by product and service, customer vertical(*), and geographic region (in millions, except percentages):
+
+-------------------------- ------------------------ ------- ---- ------- ---- ------- ------------- - ------------- ------- -------- -------- ------ - ----- --- -- -- -- ------ - -- --
+
+ Years Ended December 31,
+ 2018 2017 2016 2018 vs. 2017 2017 vs. 2016
+ $ Change % Change $ Change % Change
+Routing $ 1,839.7 $ 2,189.5 $ 2,352.9 $ (349.8 ) (16 )% $ (163.4 ) (7 )%
+Switching 934.4 963.4 858.0 (29.0 ) (3 )% 105.4 12 %
+Security 333.0 293.3 318.0 39.7 14 % (24.7 ) (8 )%
+Total Product 3,107.1 3,446.2 3,528.9 (339.1 ) (10 )% (82.7 ) (2 )%
+Percentage of net revenues 66.9 % 68.6 % 70.7 %
+Total Service 1,540.4 1,581.0 1,461.2 (40.6 ) (3 )% 119.8 8 %
+Percentage of net revenues 33.1 % 31.4 % 29.3 %
+Total net revenues $ 4,647.5 $ 5,027.2 $ 4,990.1 $ (379.7 ) (8 )% $ 37.1 1 %
+
+Cloud $ 1,049.9 $ 1,310.7 $ 1,315.9 $ (260.8 ) (20 )% $ (5.2 ) — %
+Percentage of net revenues 22.6 % 26.0 % 26.4 %
+Service Provider 2,066.7 2,319.4 2,316.4 (252.7 ) (11 )% 3.0 — %
+Percentage of net revenues 44.5 % 46.1 % 46.4 %
+Enterprise 1,530.9 1,397.1 1,357.8 133.8 10 % 39.3 3 %
+Percentage of net revenues 32.9 % 27.8 % 27.2 %
+Total net revenues $ 4,647.5 $ 5,027.2 $ 4,990.1 $ (379.7 ) (8 )% $ 37.1 1 %
+
+Americas:
+United States $ 2,339.1 $ 2,712.6 $ 2,737.0 $ (373.5 ) (14 )% $ (24.4 ) (1 )%
+Other 202.1 234.6 231.8 (32.5 ) (14 )% 2.8 1 %
+Total Americas 2,541.2 2,947.2 2,968.8 (406.0 ) (14 )% (21.6 ) (1 )%
+Percentage of net revenues 54.7 % 58.6 % 59.5 %
+EMEA 1,290.8 1,195.8 1,238.1 95.0 8 % (42.3 ) (3 )%
+Percentage of net revenues 27.8 % 23.8 % 24.8 %
+APAC 815.5 884.2 783.2 (68.7 ) (8 )% 101.0 13 %
+Percentage of net revenues 17.5 % 17.6 % 15.7 %
+Total net revenues $ 4,647.5 $ 5,027.2 $ 4,990.1 $ (379.7 ) (8 )% $ 37.1 1 %
+
+________________________________
+
+--- -----------------------------------------------------------------------------------------------------
+(*) Certain prior-period amounts have been reclassified to conform to the current-period classifications.
+
+2018 Compared to 2017
+
+Product net revenues decreased in 2018, compared to 2017, primarily due to Cloud and Service Provider, impacting routing and switching in the Americas. The decrease in product revenues was partially offset by the impact of Topic 606 and growth in Enterprise.
+
+The decrease in routing and switching revenues in the Americas was driven by the networking architectural transitions for certain large Cloud customers due to the timing of deployments and a decline in our Service Provider business, resulting in lower net revenues from our MX, PTX, and QFX product families. For PTX, the decline was primarily due to the pace of deployments for certain large Cloud customers. We believe PTX sales will increase as incremental capacity requirements eventually drive improved demand. The decline was partially offset by broad-based revenue growth in Enterprise across all technologies and geographies. Given the strength in our Enterprise vertical, strong customer interest in our new platforms, such as Contrail Enterprise MultiCloud and MX10003, and the investments we are making in our enterprise sales strategy, we believe our Enterprise vertical will continue to contribute to revenue growth in 2019. We also saw strength in EMEA driven by the aforementioned revenue growth in Enterprise,
+
+ 48
+
+Table of Contents
+
+as well as higher revenues from Service Provider customers, resulting from our solutions based sales strategy to enable the Telco Cloud transformation and enterprise multicloud initiatives.
+
+We experienced growth in revenues from our security business during 2018, compared to 2017, across all verticals as customers transitioned to our newer product offerings. We expect that our security business will see year-over-year growth for the full year 2019.
+
+Service net revenues decreased during 2018, compared to 2017, due to the impact of Topic 606. Excluding the impact of Topic 606, our service net revenues would have increased year-over-year, driven primarily by strong renewal and attach rates of support contracts.
+
+2017 Compared to 2016
+
+Product net revenues decreased in 2017, compared to 2016, primarily due to a decrease in routing and, to a lesser extent, security, partially offset by growth in switching.
+
+Lower routing revenues were driven by Cloud customers in the Americas as a result of the ongoing architectural shifts in the Cloud vertical to more automated, cost efficient, and scalable networks. Routing revenues in EMEA also declined year-over-year due to lower sales from Service Provider customers, partially offset by revenue growth in APAC from our Service Provider vertical. As we continue to expand our footprint with certain strategic APAC Service Provider and Cloud customers, we expect these strategic opportunities will ultimately help to drive revenue growth in APAC, however the timing is difficult to predict. Revenues from our MX and legacy routing products declined year-over-year, which was partially offset by an increase in revenues from our PTX products from the continued adoption of our PTX1000 series of products.
+
+Security net revenues declined in 2017, compared to 2016, primarily driven by a decrease in our high-end SRX series as it had been undergoing a product refresh cycle and the decline in our Other Legacy products.
+
+The decline in product net revenues was partially offset by an increase in switching net revenues due to continued growth from our data center switching portfolio, particularly from our QFX product family, which grew 25% year-over-year. This growth was across public and private clouds, driven in part by 100G adoption. The switching net revenue growth was primarily driven by the Cloud vertical in the Americas and, to a lesser extent, our Enterprise vertical.
+
+Service net revenues increased during in 2017, compared to 2016, primarily due to strong renewal and attach rates of support contracts. Additionally, we saw strong year-over-year services revenue growth in APAC and EMEA.
+
+Customer
+
+No customer accounted for greater than 10% of our net revenues during the years ended December 31, 2018, 2017, and 2016.
+
+Gross Margins
+
+The following table presents gross margins (in millions, except percentages):
+
+------------------------------ ------------------------ ------- ---- ----- ---- ------- ------------- - ------------- ------- -------- -------- ------ - ---- --- -- - - ------ - -- --
+
+ Years Ended December 31,
+ 2018 2017 2016 2018 vs. 2017 2017 vs. 2016
+ $ Change % Change $ Change % Change
+Product gross margin $ 1,829.9 $ 2,085.3 $ 2,202.7 $ (255.4 ) (12 )% $ (117.4 ) (5 )%
+Percentage of product revenues 58.9 % 60.5 % 62.4 %
+Service gross margin 911.3 986.8 901.8 (75.5 ) (8 )% 85.0 9 %
+Percentage of service revenues 59.2 % 62.4 % 61.7 %
+Total gross margin $ 2,741.2 $ 3,072.1 $ 3,104.5 $ (330.9 ) (11 )% $ (32.4 ) (1 )%
+Percentage of net revenues 59.0 % 61.1 % 62.2 %
+
+Our gross margins as a percentage of net revenues have been and will continue to be affected by a variety of factors, including the mix and average selling prices of our products and services, new product introductions and enhancements, manufacturing, component and logistics costs, expenses for inventory obsolescence and warranty obligations, cost of support and service personnel, customer mix as we continue to expand our footprint with certain strategic customers, the mix of distribution channels through
+
+ 49
+
+Table of Contents
+
+which our products and services are sold, and import tariffs. For example, the United States recently imposed a tariff on networking products imported from China, which includes certain products that we import into and sell within the United States. These import tariffs could have a significant impact to our gross margins in the event we are unable to meaningfully mitigate their impact. For more information on the potential impact of tariffs on our business, see the “Risk Factors” section of Item 1A of Part II of this Report.
+
+2018 Compared to 2017
+
+Product gross margin
+
+Product gross margin as a percentage of product revenues decreased in 2018, compared to 2017, primarily due to lower net revenues and product mix, resulting from the year-over-year decline in routing revenues from our Cloud and Service Provider verticals, partially offset by the impact of Topic 606 and improvements in our cost structure. We continue to undertake specific efforts to address certain factors impacting our product gross margin. These efforts include performance and quality improvements through engineering to increase value across our products; optimizing our supply chain and service business; pricing management; and increasing software and solution sales; however, there can be no guarantee that these efforts will be successful or that they will be realized in the time frame we anticipate.
+
+Service gross margin
+
+Service gross margin as a percentage of service net revenues decreased in 2018, compared to 2017, due to lower revenues from the impact of Topic 606, increased professional services costs to support our software deployments, and higher service delivery costs, partially offset by lower personnel-related costs.
+
+2017 Compared to 2016
+
+Product gross margin
+
+Product gross margin as a percentage of product revenues decreased in 2017, compared to 2016, primarily due to lower product net revenues, customer mix, and product mix resulting from the year-over-year decline in routing revenues and our customers' architectural shifts, partially offset by improvements in our cost structure.
+
+Service gross margin
+
+Service gross margin as a percentage of service net revenues increased in 2017, compared to 2016, due to higher service revenues, partially offset by higher material and higher delivery costs.
+
+Operating Expenses
+
+The following table presents operating expenses (in millions, except percentages):
+
+-------------------------- ------------------------ ------- ---- ----- ---- ------- ------------- - ------------- ------- -------- -------- ----- - ----- -- -- --- -- ----- - -- --
+
+ Years Ended December 31,
+ 2018 2017 2016 2018 vs. 2017 2017 vs. 2016
+ $ Change % Change $ Change % Change
+Research and development $ 1,003.2 $ 980.7 $ 1,013.7 $ 22.5 2 % $ (33.0 ) (3 )%
+Percentage of net revenues 21.6 % 19.5 % 20.3 %
+Sales and marketing 927.4 950.2 972.9 (22.8 ) (2 )% (22.7 ) (2 )%
+Percentage of net revenues 19.9 % 18.9 % 19.5 %
+General and administrative 231.1 227.5 224.9 3.6 2 % 2.6 1 %
+Percentage of net revenues 5.0 % 4.5 % 4.5 %
+Restructuring charges 7.3 65.6 3.3 (58.3 ) N/M 62.3 N/M
+Percentage of net revenues 0.2 % 1.3 % 0.1 %
+Total operating expenses $ 2,169.0 $ 2,224.0 $ 2,214.8 $ (55.0 ) (2 )% $ 9.2 — %
+Percentage of net revenues 46.7 % 44.2 % 44.4 %
+_______________________________
+N/M - percentage is not meaningful.
+
+ 50
+
+Table of Contents
+
+Our operating expenses have historically been driven in large part by personnel-related costs, including salaries and wages; commissions and bonuses, which we refer to collectively as variable compensation; benefits; share-based compensation; and travel. Facility and information technology, or IT, departmental costs are allocated to each department based on usage and headcount. We had a total of 9,283, 9,381, and 9,832 employees as of December 31, 2018, 2017, and 2016, respectively. Our headcount decreased by 98 employees, or 1%, in 2018, compared to 2017, primarily due to our restructuring plan initiated in the third quarter of 2018 to realign our workforce as a result of organizational and leadership changes, which we refer to as the 2018 Restructuring Plan. Our headcount decreased by 451 employees, or 5%, in 2017, compared to 2016, primarily due to our restructuring plan initiated in the first quarter of 2017 to realign our workforce and increase operational efficiency, which we refer to as the 2017 Restructuring Plan.
+
+2018 Compared to 2017
+
+Research and development
+
+Research and development expense, or R&D, increased in 2018, compared to 2017, primarily due to higher personnel-related costs, including an increase in share-based compensation expense of $34.4 million driven by higher expense from the modification of certain performance share awards, or PSAs, whose vesting is contingent upon the achievement of certain performance milestones, and higher variable compensation expense of $17.8 million. The increase was partially offset by lower salaries and wages of $26.7 million due to a geographic shift in headcount to lower cost regions, as well as a reduction in headcount from restructuring actions.
+
+Sales and marketing
+
+Sales and marketing expense decreased in 2018, compared to 2017, due to lower personnel-related costs of $10.9 million primarily resulting from a decline in headcount of 49 employees driven by restructuring actions and lower costs of $9.3 million from a decrease in the number of marketing events held in 2018, compared to 2017. The decrease was partially offset by higher outside service costs of $7.1 million related to consulting projects.
+
+General and administrative
+
+General and administrative expense increased in 2018, compared to 2017, primarily due to higher acquisition costs related to our 2018 business acquisition of HTBase, partially offset by a decline in outside service costs resulting from fewer consulting projects and lower legal costs.
+
+Restructuring charges
+
+Restructuring charges decreased in 2018, compared to 2017, primarily due to lower restructuring charges from the 2018 Restructuring Plan, compared to the 2017 Restructuring Plan.
+
+See Note 18, Subsequent Events, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for a discussion of our restructuring plan initiated subsequent to December 31, 2018.
+
+2017 Compared to 2016
+
+Research and development
+
+Research and development expense, decreased in 2017, compared to 2016, primarily due to a decline in personnel-related costs, including lower share-based compensation of $39.8 million primarily driven by lower expense from certain PSAs, whose vesting is contingent upon the achievement of financial performance metrics or certain performance milestones, and lower variable compensation of $13.7 million. The decrease was partially offset by higher costs related to certain R&D project cancellations of $11.4 million and higher prototype costs of $10.4 million.
+
+Sales and marketing
+
+Sales and marketing expense decreased in 2017, compared to 2016, primarily due to a decline in personnel-related costs of $20.5 million, including lower variable compensation of $15.5 million primarily as a result of lower commissions expense and lower salaries and wages driven by a decrease in headcount as a result of the 2017 Restructuring Plan.
+
+ 51
+
+Table of Contents
+
+General and administrative
+
+General and administrative expense increased in 2017, compared to 2016, primarily due to litigation settlement charges pursuant to a litigation settlement reached in November 2017 in connection with a legal proceeding of approximately $13.0 million, partially offset by a decline in other legal costs of $6.4 million.
+
+Restructuring charges
+
+Restructuring charges increased in 2017, compared to 2016, primarily due to severance and contract termination costs recorded under the 2017 Restructuring Plan.
+
+Other Expense, Net
+
+The following table presents other expense, net (in millions, except percentages):
+
+------------------------------- ------------------------ ----- ---- ------ ---- ----- ------------- -- ------------- ----- -------- -------- ---- - ---- -- - ---- -- ---- --- --
+
+ Years Ended December 31,
+ 2018 2017 2016 2018 vs. 2017 2017 vs. 2016
+ $ Change % Change $ Change % Change
+Interest income $ 72.7 $ 53.0 $ 35.4 $ 19.7 37 % $ 17.6 50 %
+Interest expense (103.2 ) (101.2 ) (97.7 ) (2.0 ) 2 % (3.5 ) 4 %
+(Loss) gain on investments, net (7.4 ) 14.6 (1.8 ) (22.0 ) (151 )% 16.4 N/M
+Other (1.6 ) (2.7 ) 1.8 1.1 (41 )% (4.5 ) (250 )%
+Total other expense, net $ (39.5 ) $ (36.3 ) $ (62.3 ) $ (3.2 ) 9 % $ 26.0 (42 )%
+Percentage of net revenues (0.8 )% (0.7 )% (1.2 )%
+_______________________________
+N/M - percentage is not meaningful.
+
+Other Expense, Net
+
+Interest income primarily includes interest earned on our cash, cash equivalents, investments, and promissory note issued to us in connection with the sale of Junos Pulse. Interest expense primarily includes interest, net of capitalized interest expense, from long-term debt and customer financing arrangements. (Loss) gain on investments, net, primarily includes gains from the sale of investments in public and privately-held companies, and any observable changes in fair value and impairment charges recorded on these investments. Other typically consists of foreign exchange gains and losses and other non-operational income and expense items.
+
+2018 Compared to 2017
+
+Interest Income
+
+Interest income increased in 2018, compared to 2017, primarily due to higher interest income related to our fixed income investment portfolio, as a result of higher yields on our investments, partially offset by lower average investment balances.
+
+Interest Expense
+
+Interest expense increased in 2018, compared to 2017, primarily due to distributor financing arrangements from extended payment terms financing.
+
+(Loss) Gain on Investments, Net
+
+During the year ended December 31, 2018, we had losses related to the sale of certain equity investments in privately-held companies, compared to gains on sales during 2017. In addition, we recorded impairment charges on a certain equity investment in a privately-held company in 2018, and there were no such charges recorded in 2017.
+
+ 52
+
+Table of Contents
+
+2017 Compared to 2016
+
+Interest Income
+
+Interest income increased in 2017, compared to 2016, primarily due to an increase in interest income related to our investment portfolio, as a result of higher yields and a larger balance in the portfolio.
+
+Interest Expense
+
+Interest expense increased in 2017, compared to 2016, primarily due to a full-year effect of interest expense from the issuance of our 2019 and 2024 Notes in the first quarter of 2016. See Note 10, Debt and Financing, in Notes to Consolidated Financial Statements in Item 8 in Part II of this Report for additional information regarding our 2019 and 2024 Notes.
+
+Gain (Loss) on Investments, Net
+
+In 2017, gains on equity investments increased, primarily related to the sale of investments in public and privately-held companies, compared to 2016. In addition, we recorded impairment charges on certain investments in privately-held companies in 2016, and there were no such charges recorded in 2017.
+
+Income Tax (Benefit) Provision
+
+The following table presents the income tax (benefit) provision (in millions, except percentages):
+
+------------------------------ ------------------------ ----- ---- ---- ---- ----- ------------- - ------------- ----- -------- -------- ------ - ---- -- - ----- --- -
+
+ Years Ended December 31,
+ 2018 2017 2016 2018 vs. 2017 2017 vs. 2016
+ $ Change % Change $ Change % Change
+Income tax (benefit) provision $ (34.2 ) $ 505.6 $ 234.7 $ (539.8 ) (107 )% $ 270.9 115 %
+Effective tax (benefit) rate (6.4 )% 62.3 % 28.4 %
+
+2018 Compared to 2017
+
+The effective tax rate for fiscal year 2018 is lower than 2017, primarily due to: a lower statutory tax rate as a result of the Tax Act enacted on December 22, 2017; a $67.6 million related to a lapse in the federal statute of limitations relative to tax years 2010 through 2014, including interest; a $33.2 million benefit as a result of filing a change in tax accounting method for the recognition of deferred product revenue in the U.S. to better align with the financial statement recognition of such revenue; a $32.2 million resulting from a tax accounting method change related to foreign deferred service revenue; a favorable change in the geographic mix of earnings; and, discrete taxes of approximately $289.5 million accrued on accumulated foreign earnings under the Tax Act in the fourth quarter ended December 31, 2017.
+
+The Tax Act introduced significant changes to U.S. income tax law. Effective January 1, 2018, the Tax Act reduced the U.S. federal corporate income tax rate from 35% to 21% and created a minimum tax on foreign earnings and imposed a one-time transition tax on accumulated foreign earnings through December 31, 2017. In 2017, we recorded provisional amounts for the effects of the Tax Act of $289.5 million, primarily related to net taxes on accumulated foreign earnings and the re-measurement of our deferred tax assets at the revised U.S. statutory rate. In the fourth quarter of 2018, we completed our analysis to determine the effect of the Tax Act and recorded immaterial adjustments as of December 31, 2018. We have elected to pay our transition tax, net of applicable tax refunds, over the eight-year period provided in the Tax Act.
+
+For a complete reconciliation of our effective tax rate to the U.S. federal statutory rate of 21% and further explanation of our income tax provision, see Note 14, Income Taxes, in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report.
+
+On July 24, 2018, the Ninth Circuit Court of Appeals, or the Court, issued an opinion in Altera Corp. v. Commissioner requiring related parties in an intercompany cost-sharing arrangement to share expenses related to share-based compensation. On August 7, 2018, the Court withdrew its opinion to allow time for a reconstituted panel to confer. We will continue to monitor ongoing developments and potential impacts to its financial statements. Had the Ninth Circuit not withdrawn its opinion, our effective tax rate for 2018 would have been higher.
+
+ 53
+
+Table of Contents
+
+Our effective tax rate may fluctuate significantly on a quarterly basis and may be adversely affected to the extent earnings are lower than anticipated in countries that have lower statutory rates and higher than anticipated in countries that have higher statutory rates. Our effective tax rate may also fluctuate due to changes in the valuation of our deferred tax assets or liabilities, or by changes in tax laws, regulations, or accounting principles, as well as certain discrete items. See Item 1A of Part I, "Risk Factors" of this Report for a description of relevant risks which may adversely affect our results.
+
+2017 Compared to 2016
+
+The effective tax rate for the fiscal year 2017 was higher than 2016, primarily due to an estimated $289.5 million of net income tax expense related to changes imposed by the Tax Act, which was enacted on December 22, 2017. Effective January 1, 2018, the Tax Act provided for significant changes to U.S. income tax law including the reduction of the U.S. federal corporate income tax rate from 35% to 21% and the creation of a minimum tax on foreign earnings. In addition, the Tax Act imposed a one-time transition tax on accumulated foreign earnings through December 31, 2017. The $289.5 million income tax expense included an estimated tax charge of $431.2 million on our accumulated foreign earnings, which we elected to pay over eight years.
+
+As a result of recommendations by the Organisation for Economic Cooperation and Development, or OECD, on Base Erosion and Profit Shifting, certain countries in EMEA and APAC have either enacted new corporate tax legislation or are considering enacting such legislation in the near future. We expect the effect of these reform measures to potentially impact long-standing tax principles, particularly in regards to transfer pricing. Consequently, we expect global tax authorities to increasingly challenge our cost sharing and other intercompany arrangements, and the related sourcing of taxable profits in global jurisdictions.
+
+Liquidity and Capital Resources
+
+The following sections discuss the effects of changes in our balance sheet, our capital return strategy, including our stock repurchase program and dividends, our contractual obligations, and certain other commitments and activities on our liquidity and capital resources.
+
+We have funded our business primarily through our operating activities and the issuance of our long-term debt. The following table presents our capital resources (in millions, except percentages):
+
+---------------------------------------------------- ------------------ ------- ---- ------- -------- ------- -------- - - ------ -- --- --
+
+ As of December 31,
+ 2018 2017 $ Change % Change
+Working capital $ 2,739.3 $ 2,446.3 $ 293.0 12 %
+
+Cash and cash equivalents $ 2,489.0 $ 2,006.5 $ 482.5 24 %
+Short-term investments 1,070.1 1,026.1 44.0 4 %
+Long-term investments 199.0 988.4 (789.4 ) (80 )%
+Total cash, cash equivalents, and investments 3,758.1 4,021.0 (262.9 ) (7 )%
+Short-term portion of long-term debt 349.9 — 349.9 N/M
+Long-term debt 1,789.1 2,136.3 (347.2 ) (16 )%
+Cash, cash equivalents, and investments, net of debt $ 1,619.1 $ 1,884.7 $ (265.6 ) (14 )%
+
+_______________________________
+N/M - percentage is not meaningful.
+
+ 54
+
+Table of Contents
+
+Summary of Cash Flows
+
+The following table summarizes cash flow activity from our Consolidated Statements of Cash Flows (in millions, except percentages):
+
+------------------------------------------------------ ------------------------ ------ ---- ---- ------- ------------- ------------- ------- -------- -------- ------ - ---- -- - ------ - --- --
+
+ Years Ended December 31,
+ 2018 2017 2016 2018 vs. 2017 2017 vs. 2016
+ $ Change % Change $ Change % Change
+Net cash provided by operating activities(*) $ 861.1 $ 1,259.3 $ 1,126.6 $ (398.2 ) (32 )% $ 132.7 12 %
+Net cash provided by (used in) investing activities(*) $ 564.8 $ (303.0 ) $ (417.0 ) $ 867.8 (286 )% $ 114.0 (27 )%
+Net cash used in financing activities $ (968.6 ) $ (794.8 ) $ (236.3 ) $ (173.8 ) 22 % $ (558.5 ) 236 %
+
+________________________________
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(*) On January 1, 2018, we adopted the new accounting pronouncement Statement of Cash Flows: Restricted Cash. We applied this provision on a retrospective basis to conform to the current-period presentation. The adoption did not have a material impact on the cash flow activity presented in our Consolidated Statement of Cash Flows for the fiscal years ended 2017 and 2016.
+
+Operating Activities
+
+Our primary source of operating cash flows is cash collections from our customers. Our primary uses of cash from operating activities are for personnel-related expenditures, and other general operating expenses, as well as payments related to taxes, interest, and facilities.
+
+2018 Compared to 2017
+
+Net cash provided by operations decreased in 2018, compared to 2017, primarily due to higher cash collections from customers during 2017 related to service renewals invoiced during the fourth quarter of 2016, partially offset by a decline in cash paid for personnel-related costs, principally as a result of a reduction in headcount and lower incentive compensation, and a decrease in payments to suppliers.
+
+2017 Compared to 2016
+
+Net cash provided by operating activities increased in 2017, compared to 2016, primarily due to an increase in cash collections from customers in the first half of 2017 due to higher invoicing activity during the fourth quarter of 2016, partially offset by an increase in payments to suppliers, higher payments for restructuring activities, and an increase in cash paid for income taxes.
+
+Investing Activities
+
+Investing cash flows consist primarily of capital expenditures; purchases, sales, maturities, and redemptions of investments; and cash used for business combinations.
+
+2018 Compared to 2017
+
+Net cash provided by investing activities increased in 2018, compared to 2017, primarily due to the liquidation of repatriated offshore investments to fund the accelerated share repurchase program discussed below.
+
+2017 Compared to 2016
+
+Net cash used in investing activities decreased in 2017, compared to 2016, primarily due to lower payments for business combinations and capital expenditures and the receipt of $75.0 million in proceeds from the Pulse Note, partially offset by higher net purchases of available-for-sale debt securities.
+
+ 55
+
+Table of Contents
+
+Financing Activities
+
+Financing cash flows consist primarily of repurchases and retirement of common stock, payment of cash dividends to stockholders, issuance and repayment of long-term debt, and proceeds from the issuance of shares of common stock through employee equity incentive plans.
+
+2018 Compared to 2017
+
+Net cash used in financing activities increased in 2018, compared to 2017, primarily due to an increase in payments of cash dividends and higher repurchases of our common stock, as a result of the accelerated share repurchase program, or ASR, described further below.
+
+2017 Compared to 2016
+
+Net cash used in financing activities increased in 2017, compared to 2016, primarily due to an increase in repurchases and retirement of our common stock in 2017. In 2016, we raised $494.0 million from our 2019 Notes and 2024 Notes and repaid $300.0 million of our 2016 Notes.
+
+Capital Return
+
+The following table summarizes our dividends paid and stock repurchase activities (in millions, except per share amounts):
+
+---- --------- ---- ------------------------ ------ ----- ----------------------- ------ ------ - ----- - ----- - -----
+
+ Dividends Stock Repurchase Program Total
+Year Per Share Amount Shares Average price per share Amount Amount
+2018 $ 0.72 $ 249.3 29.3 $ 25.62 $ 750.0 $ 999.3
+2017 $ 0.40 $ 150.4 26.1 $ 27.61 $ 719.7 $ 870.1
+2016 $ 0.40 $ 152.5 13.5 $ 23.25 $ 312.9 $ 465.4
+
+In January 2018, our Board of Directors, which we refer to as the Board, approved a $2.0 billion share repurchase program, which we refer to as the 2018 Stock Repurchase Program. The 2018 Stock Repurchase Program replaces the previous authorization approved by the Board in 2014.
+
+As part of the 2018 Stock Repurchase Program, we entered into an ASR to repurchase $750.0 million of our common stock. We made an up-front payment of $750.0 million pursuant to the ASR to repurchase our common stock. The aggregate number of shares ultimately repurchased of 29.3 million shares of common stock was determined based on a volume weighted average repurchase price, less an agreed upon discount, of $25.62 per share.
+
+As of December 31, 2018, there was $1.3 billion of authorized funds remaining under the 2018 Stock Repurchase Program, as of the filing date of this Report.
+
+Future share repurchases under the 2018 Stock Repurchase Program will be subject to a review of the circumstances at that time and will be made from time to time in private transactions or open market purchases as permitted by securities laws and other legal requirements. Our 2018 Stock Repurchase Program may be discontinued at any time. See Note 11, Equity, in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for further discussion of our share purchase program.
+
+In addition, any future dividends, and the establishment of record and payment dates, are subject to approval by the Board or an authorized committee thereof. See Note 18, Subsequent Event, in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for discussion of our dividend declaration subsequent to December 31, 2018.
+
+ 56
+
+Table of Contents
+
+Off-Balance Sheet Arrangements
+
+As of December 31, 2018 and 2017, we did not have any off-balance sheet arrangements, as defined in Item 303 (a)(4)(ii) of SEC Regulation S-K. It is not our business practice to enter into off-balance sheet arrangements. However, in the normal course of business, we enter into contracts consisting of guarantees of product and service performance, standby letters of credit for certain lease facilities and insurance programs. See Guarantees below for additional information regarding our guarantees.
+
+Contractual Obligations
+
+Our principal commitments consist of obligations outstanding under operating leases, purchase commitments, debt, and other contractual obligations. The following table summarizes our principal contractual obligations as of December 31, 2018 and the effect such obligations are expected to have on our liquidity and cash flow in future periods (in millions):
+
+----------------------------------------------------------------- ---------------------- ------- ---------------- ----- --------- ------- --------- ----------------- ----- ------- ----- - -------
+
+ Payments Due by Period
+ Total Less than 1 year 1-3 years 3-5 years More than 5 years
+Operating leases(1) $ 146.3 $ 33.7 $ 55.0 $ 31.3 $ 26.3
+Other lease arrangement(2) 101.0 13.1 26.9 28.1 32.9
+Purchase commitments with contract manufacturers and suppliers(1) 663.3 605.9 57.4 — —
+Long-term debt(3) 2,150.0 350.0 600.0 — 1,200.0
+Interest payment on long-term debt(3) 798.9 88.5 144.4 118.7 447.3
+Tax liability related to the Tax Act(4) 245.2 — — 53.8 191.4
+Other contractual obligations(1) 97.8 43.1 37.8 14.0 2.9
+Total $ 4,202.5 $ 1,134.3 $ 921.5 $ 245.9 $ 1,900.8
+
+_______________________________
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) See Note 16, Commitments and Contingencies, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for additional information regarding our contractual commitments.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Lease arrangement is related to a data center lease agreement that we entered in to in July 2015. See Note 16, Commitments and Contingencies, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for further explanation on the lease agreement.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) See Note 10, Debt and Financing, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for additional information regarding our debt.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) See Note 16, Commitments and Contingencies, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for additional information regarding our tax liability related to the Tax Act.
+
+As of December 31, 2018, we had $159.2 million included in long-term income taxes payable in the Consolidated Balance Sheets for unrecognized tax positions. At this time, we are unable to make a reasonably reliable estimate of the timing of payments related to this amount due to uncertainties in the timing of tax audit outcomes. As a result, this amount is not included in the table above.
+
+Revolving Credit Facility
+
+As of December 31, 2018, we have not borrowed any funds and we were in compliance with all covenants under our unsecured revolving credit facility that will expire in 2019, which enables borrowings up to $500.0 million, with the option to increase the amount of the credit facility by up to an additional $200.0 million. See Note 10, Debt and Financing, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for further information on our credit facility.
+
+Guarantees
+
+We have entered into agreements with customers that contain indemnification provisions relating to potential situations where claims could be alleged that our products solely, or in combination with other third party products, infringe the intellectual property rights of a third-party. As of December 31, 2018, we recorded $11.9 million for such indemnification obligations in other accrued liabilities and other long-term liabilities on the Consolidated Balance Sheets. We also have financial guarantees consisting of guarantees of product and service performance and standby letters of credit for certain lease facilities and insurance programs of $23.1 million and $23.0 million, as of December 31, 2018 and December 31, 2017, respectively.
+
+ 57
+
+Table of Contents
+
+Liquidity and Capital Resources
+
+Liquidity and capital resources may be impacted by our operating activities as well as acquisitions, investments in strategic relationships, repurchases of additional shares of our common stock, and payment of cash dividends on our common stock. Following the enactment of the Tax Act, we repatriated approximately $2.8 billion of our cash, cash equivalents, and investments balance from outside of the U.S as of December 31, 2018. We expect the new territorial tax system to provide us lower cost access to nearly all of our global free cash flow on an ongoing basis. Free cash flow is calculated as net cash provided by operating activities less capital expenditures. We intend to use the repatriated cash to invest in the business, support value-enhancing merger and acquisitions, or M&A, and fund our return of capital to stockholders.
+
+In August 2016, we filed an automatic shelf registration statement with the SEC enabling us to offer for sale, from time to time, an unspecified amount of securities in one or more offerings and is intended to give us flexibility to take advantage of financing opportunities as needed or deemed desirable in light of market conditions. Our 2019 Notes and 2024 Notes were issued under an automatic shelf registration statement that we filed in August 2013 pursuant to a prospectus supplement filed with the SEC on February 24, 2016. Our 2020 Notes and 2025 Notes were issued under an automatic shelf registration statement pursuant to a prospectus supplement filed with the SEC on February 26, 2015, and our $350.0 million in principal amount of our 2024 Notes, which form a single series and are fully fungible with our 2024 Notes issued in 2016, were issued under an automatic shelf registration statement pursuant to a prospectus filed with the SEC on February 28, 2014. Any offerings of securities under our automatic shelf registration statement will be made pursuant to a prospectus. In addition, our Revolving Credit Facility will also provide additional flexibility for future liquidity needs.
+
+Based on past performance and current expectations, we believe that our existing cash and cash equivalents, short-term, and long-term investments, together with cash generated from operations and access to capital markets and the revolving credit facility will be sufficient to fund our operations; planned stock repurchases and dividends; capital expenditures; commitments and other liquidity requirements; and anticipated growth for at least the next twelve months. However, our future liquidity and capital requirements may vary materially from those now planned depending on many factors, including, but not limited to, our growth rate; the timing and amount we spend to support development efforts; the expansion of sales and marketing activities; the introduction of new and enhanced products and services; the costs to acquire or invest in businesses and technologies; an increase in manufacturing or component costs; and the risks and uncertainties detailed in the “Risk Factors” section of Item 1A of Part I of this Report.
+
+ 58
+
+Table of Contents
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[See Note 14]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud offerings. - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Other Bets - Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes businesses such as Access, Calico, CapitalG, GV, Verily, Waymo, and X. Revenues from the Other Bets are derived primarily through the sales of internet and TV services through Access as well as licensing and R&D services through Verily. 80 ----------------- -------------  Alphabet Inc...
+
+[See Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[see Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[See Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[See Note 18]:
+Note 18. Restructuring and Other Initiatives 86
+
+[See Note 10]:
+Note 10. Stockholders' Equity Common Stock Our certificate of incorporation authorizes the issuance of Class A common stock and Class B common stock. As of December 31, 2018, we are authorized to issue 5,000 million shares of Class A common stock and 4,141 million shares of Class B common stock, each with a par value of $0.000006 per share. Holders of our Class A common stock and Class B common stock are entitled to dividends when, as and if, declared by our board of directors, subject to the rights of the holders of all classes of stock outstanding having priority rights to dividends. As of December 31, 2018, we have not declared any dividends and our credit facility contains restrictions on our ability to pay dividends. The holder of each share of Class A common stock is entitled to one vote, while the holder of each share of Class B common stock is entitled to ten votes. Shares of our Class B common stock are convertible into an equivalent number of shares of our Class A common stock and generally convert into shares of our Class A common stock upon 78 transfer. Class A common stock and Class B common stock are referred to as common stock throughout the notes to these financial statements, unless otherwise noted. As of December 31, 2018, there were 2,385 million shares and 469 million shares of Class A common stock and Class B common stock, respectively, issued and outstanding. Share Repurchase Program Our board of directors has authorized a share repurchase program that commenced in 2017 and does not have an expiration date. During the second quarter of 2018, we completed repurchases under the original authorization to purchase up to $6.0 billion of our Class A common stock. In April 2018, the authorization for the repurchase of our Class A common stock was increased by an additional $9.0 billion, and we completed repurchases under this authorization during the fourth quarter of 2018. During the year ended December 31, 2018, we repurchased and subsequently retir...
+
+[see Note 14]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud offerings. - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Other Bets - Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes businesses such as Access, Calico, CapitalG, GV, Verily, Waymo, and X. Revenues from the Other Bets are derived primarily through the sales of internet and TV services through Access as well as licensing and R&D services through Verily. 80 ----------------- -------------  Alphabet Inc...
+
+[See Note 11]:
+Note 11. Marketable Securities 87
+
+[See Note 18]:
+Note 18. Restructuring and Other Initiatives 86
+
+[See Note 16]:
+Note 16. Commitments and Contingencies 78
+
+[See Note 16]:
+Note 16. Commitments and Contingencies 78
+
+[See Note 10]:
+Note 10. Stockholders' Equity Common Stock Our certificate of incorporation authorizes the issuance of Class A common stock and Class B common stock. As of December 31, 2018, we are authorized to issue 5,000 million shares of Class A common stock and 4,141 million shares of Class B common stock, each with a par value of $0.000006 per share. Holders of our Class A common stock and Class B common stock are entitled to dividends when, as and if, declared by our board of directors, subject to the rights of the holders of all classes of stock outstanding having priority rights to dividends. As of December 31, 2018, we have not declared any dividends and our credit facility contains restrictions on our ability to pay dividends. The holder of each share of Class A common stock is entitled to one vote, while the holder of each share of Class B common stock is entitled to ten votes. Shares of our Class B common stock are convertible into an equivalent number of shares of our Class A common stock and generally convert into shares of our Class A common stock upon 78 transfer. Class A common stock and Class B common stock are referred to as common stock throughout the notes to these financial statements, unless otherwise noted. As of December 31, 2018, there were 2,385 million shares and 469 million shares of Class A common stock and Class B common stock, respectively, issued and outstanding. Share Repurchase Program Our board of directors has authorized a share repurchase program that commenced in 2017 and does not have an expiration date. During the second quarter of 2018, we completed repurchases under the original authorization to purchase up to $6.0 billion of our Class A common stock. In April 2018, the authorization for the repurchase of our Class A common stock was increased by an additional $9.0 billion, and we completed repurchases under this authorization during the fourth quarter of 2018. During the year ended December 31, 2018, we repurchased and subsequently retir...
+
+[See Note 16]:
+Note 16. Commitments and Contingencies 78
+
+[See Note 10]:
+Note 10. Stockholders' Equity Common Stock Our certificate of incorporation authorizes the issuance of Class A common stock and Class B common stock. As of December 31, 2018, we are authorized to issue 5,000 million shares of Class A common stock and 4,141 million shares of Class B common stock, each with a par value of $0.000006 per share. Holders of our Class A common stock and Class B common stock are entitled to dividends when, as and if, declared by our board of directors, subject to the rights of the holders of all classes of stock outstanding having priority rights to dividends. As of December 31, 2018, we have not declared any dividends and our credit facility contains restrictions on our ability to pay dividends. The holder of each share of Class A common stock is entitled to one vote, while the holder of each share of Class B common stock is entitled to ten votes. Shares of our Class B common stock are convertible into an equivalent number of shares of our Class A common stock and generally convert into shares of our Class A common stock upon 78 transfer. Class A common stock and Class B common stock are referred to as common stock throughout the notes to these financial statements, unless otherwise noted. As of December 31, 2018, there were 2,385 million shares and 469 million shares of Class A common stock and Class B common stock, respectively, issued and outstanding. Share Repurchase Program Our board of directors has authorized a share repurchase program that commenced in 2017 and does not have an expiration date. During the second quarter of 2018, we completed repurchases under the original authorization to purchase up to $6.0 billion of our Class A common stock. In April 2018, the authorization for the repurchase of our Class A common stock was increased by an additional $9.0 billion, and we completed repurchases under this authorization during the fourth quarter of 2018. During the year ended December 31, 2018, we repurchased and subsequently retir...
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 8
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 1A of Part II]:
+Item 1A. Risk Factors 8
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 in Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 8
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 8
+
+['s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion should be read with the Consolidated Financial Statements and the related notes in Item 8 of Part II of this Report.
+
+The following discussion is based upon our Consolidated Financial Statements included elsewhere in this Report, which have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP. In the course of operating our business, we routinely make decisions as to the timing of the payment of invoices, the collection of receivables, the manufacturing and shipment of products, the fulfillment of orders, the purchase of supplies, and the building of inventory and spare parts, among other matters. In making these decisions, we consider various factors including contractual obligations, customer satisfaction, competition, internal and external financial targets and expectations, and financial planning objectives. Each of these decisions has some impact on the financial results for any given period. For further information about our critical accounting policies and estimates, see “Critical Accounting Policies and Estimates” section included in this “Management']:
+Note 8. Securitization Activities Jefferies Group engages in securitization activities related to corporate loans, commercial mortgage loans, consumer loans and mortgage-backed and other asset-backed securities. In securitization transactions, Jefferies Group transfers assets to special purpose entities ("SPEs") and acts as the placement or structuring agent for the beneficial interests sold to investors by the SPE. A significant portion of the securitization transactions are the securitization of assets issued or guaranteed by U.S. government agencies. These SPEs generally meet the criteria of VIEs; however, the SPEs are generally not consolidated as Jefferies Group is not considered the primary beneficiary for these SPEs. F-47 Jefferies Group accounts for securitization transactions as sales, provided it has relinquished control over the transferred assets. Transferred assets are carried at fair value with unrealized gains and losses reflected in Principal transactions revenues in the Consolidated Statements of Operations prior to the identification and isolation for securitization. Subsequently, revenues recognized upon securitization are reflected as net underwriting revenues. Jefferies Group generally receives cash proceeds in connection with the transfer of assets to an SPE. Jefferies Group may, however, have continuing involvement with the transferred assets, which is limited to retaining one or more tranches of the securitization (primarily senior and subordinated debt securities in the form of mortgage- and other asset-backed securities or CLOs), which are included in Trading assets and are generally initially categorized as Level 2 within the fair value hierarchy. Jefferies Group applies fair value accounting to the securities. The following table presents activity related to Jefferies Group's securitizations that were accounted for as sales in which it had continuing involvement (in millions): ----------------------------------------- --------------------...

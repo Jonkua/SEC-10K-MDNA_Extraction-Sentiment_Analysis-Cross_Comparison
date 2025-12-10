@@ -1,0 +1,1912 @@
+================================================================================
+CIK: 0000315293
+Company Name: Aon plc
+Filing Date: 2021-02-19
+Form Type: 10-K
+Extraction Date: 2025-09-01 13:48:46
+================================================================================
+
+Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Simplifying the Accounting for Income Taxes
+In December 2019, the FASB issued new accounting guidance that simplifies the accounting for income taxes by removing certain exceptions to the general principles in the existing guidance. It also clarifies certain aspects of the existing guidance to promote more consistent application. The new guidance is effective for Aon in the first quarter of 2021, with early adoption permitted. Different components of the guidance require retrospective, modified retrospective, or prospective adoption. The Company elected to early adopt this guidance in the fourth quarter of 2020 without an impact on the Financial Statements.Changes to the Disclosure Requirements for Defined Benefit PlansIn August 2018, the FASB issued new accounting guidance related to the disclosure requirements for employers that sponsor defined benefit pension and other postretirement benefit plans. The guidance requires sponsors of these plans to provide additional disclosures, including weighted average interest rates used in the entity’s cash balance pension plans and a narrative description of reasons for any significant gains or losses impacting the benefit obligation for the period, and eliminates certain previous disclosure requirements.
+
+Fair Value Measurements
+
+Accounting standards establish a three tier fair value hierarchy that prioritizes the inputs used in measuring fair values as follows:
+•Level 1 — observable inputs such as quoted prices for identical assets in active markets;
+•Level 2 — inputs other than quoted prices for identical assets in active markets, that are observable either directly or indirectly; and
+•Level 3 — unobservable inputs in which there is little or no market data which requires the use of valuation techniques and the development of assumptions.
+The following methods and assumptions are used to estimate the fair values of the Company’s financial instruments, including pension assets (refer to Note 12 “Employee Benefits”):
+Money market funds consist of institutional prime, treasury, and government money market funds. The Company reviews treasury and government money market funds to obtain reasonable assurance that the fund net asset value is $1 per share, and reviews the floating net asset value of institutional prime money market funds for reasonableness.
+Cash and cash equivalents consist of cash and institutional short-term investment funds. The Company reviews the short-term investment funds to obtain reasonable assurance that the fund net asset value is $1 per share.
+Equity investments consist of equity securities and equity derivatives valued using the closing stock price on a national securities exchange. Over the counter equity derivatives are valued using observable inputs such as underlying prices of the underlying security and volatility. On a sample basis the Company reviews the listing of Level 1 equity securities in the portfolio, agrees the closing stock prices to a national securities exchange, and independently verifies the observable inputs for Level 2 equity derivatives and securities.
+Fixed income investments consist of certain categories of bonds and derivatives. Corporate, government, and agency bonds are valued by pricing vendors who estimate fair value using recently executed transactions and proprietary models based on observable inputs, such as interest rate spreads, yield curves, and credit risk. Asset-backed securities are valued by pricing vendors who estimate fair value using discounted cash flow models utilizing observable inputs based on trade and quote activity of securities with similar features. Fixed income derivatives are valued by pricing vendors using observable inputs such as interest rates and yield curves. The Company obtains an understanding of the models, inputs, and assumptions used in developing prices provided by its vendors through discussions with the fund managers. The Company independently verifies the observable inputs, as well as assesses assumptions used for reasonableness based on relevant market conditions and internal Company guidelines. If an assumption is deemed unreasonable, based on internal Company guidelines, it is then reviewed by management and the fair value estimate provided by the vendor is adjusted, if deemed appropriate. These adjustments do not occur frequently and historically are not material to the fair value estimates used in the Consolidated Financial Statements.
+Pooled funds consist of various equity, fixed income, and real estate mutual fund type investment vehicles. Pooled investment funds fair value is estimated based on the proportionate share ownership in the underlying net assets of the investment, which is based on the fair value of the underlying securities. The underlying securities typically trade on a national securities exchange or may be valued by the fund managers using applicable models, inputs, and assumptions. The Company gains an understanding of the investment guidelines and valuation policies of the fund and discusses fund performance with pooled fund managers. The Company obtains audited fund manager financial statements, when available. If the pooled fund is designed to replicate a publicly traded index, the Company compares the performance of the fund to the index to assess the reasonableness of the fair value measurement.
+Alternative investments consist of limited partnerships, private equity, and hedge funds. Alternative investment fair value is generally estimated based on the proportionate share ownership in the underlying net assets of the investment as determined by the general partner or investment manager. The valuations are based on various factors depending on investment strategy, proprietary models, and specific financial data or projections. The Company obtains audited fund manager financial statements, when available. The Company obtains a detailed understanding of the models, inputs, and assumptions used in developing prices provided by the investment managers, or appropriate party, through regular discussions. The Company also obtains the investment manger’s valuation policies and assesses the assumptions used for reasonableness based on relevant market conditions and internal Company guidelines. If an assumption is deemed unreasonable, based on the Company’s guidelines, it is then reviewed by management and the fair value estimate provided by the vendor is adjusted, if deemed appropriate. These adjustments do not occur frequently and historically are not material to the fair value estimates in the Consolidated Financial Statements.
+Derivatives are carried at fair value, based upon industry standard valuation techniques that use, where possible, current market-based or independently sourced pricing inputs, such as interest rates, currency exchange rates, or implied volatility.
+Annuity contracts consist of insurance group annuity contracts purchased to match the pension benefit payment stream owed to certain selected plan participant demographics within a few major U.K. defined benefit plans. Annuity contracts are valued using a discounted cash flow model utilizing assumptions such as discount rate, mortality, and inflation.
+Real estate and REITs consist of publicly traded REITs and direct real estate investments. Level 1 REITs are valued using the closing stock price on a national securities exchange. Non-Level 1 values are based on the proportionate share of ownership in the underlying net asset value as determined by the investment manager. The Company independently reviews the listing of Level 1 REIT securities in the portfolio and agrees the closing stock prices to a national securities exchange. The Company gains an understanding of the investment guidelines and valuation policies of the non-Level 1 real estate funds and discusses performance with the fund managers. The Company obtains audited fund manager financial statements, when available. See the description of “Alternative investments” for further detail on valuation procedures surrounding non-Level 1 REITs.
+Debt is carried at outstanding principal balance, less any unamortized issuance costs, discount or premium. Fair value is based on quoted market prices or estimates using discounted cash flow analyses based on current borrowing rates for similar types of borrowing arrangements.
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------
+- DefinitionDisclosure of accounting policy for cash and cash equivalents and short-term investments. + ReferencesNo definition available. + Details Name: aon_CashCashEquivalentsAndShortTermInvestmentsPolicyTextBlock
+Namespace Prefix: aon_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- ----------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_AccountingPoliciesAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------
+- DefinitionDisclosure of accounting policy for basis of accounting, or basis of presentation, used to prepare the financial statements (for example, US Generally Accepted Accounting Principles, Other Comprehensive Basis of Accounting, IFRS). + ReferencesNo definition available. + Details Name: us-gaap_BasisOfAccountingPolicyPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------
+- DefinitionDisclosure of accounting policy for salaries, bonuses, incentive awards, postretirement and postemployment benefits granted to employees, including equity-based arrangements; discloses methodologies for measurement, and the bases for recognizing related assets and liabilities and recognizing and reporting compensation expense. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 718 -SubTopic 10 -Section 50 -Paragraph 2 -Subparagraph (b),(f(1)) -URI http://asc.fasb.org/extlink&oid=120381028&loc=d3e5070-113901Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18726-107790 + Details Name: us-gaap_CompensationRelatedCostsPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
+- DefinitionDisclosure of accounting policy regarding (1) the principles it follows in consolidating or combining the separate financial statements, including the principles followed in determining the inclusion or exclusion of subsidiaries or other entities in the consolidated or combined financial statements and (2) its treatment of interests (for example, common stock, a partnership interest or other means of exerting influence) in other entities, for example consolidation or use of the equity or cost methods of accounting. The accounting policy may also address the accounting treatment for intercompany accounts and transactions, noncontrolling interest, and the income statement treatment in consolidation for issuances of stock by a subsidiary. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 810 -SubTopic 10 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=109239629&loc=d3e5614-111684 + Details Name: us-gaap_ConsolidationPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------
+- DefinitionDisclosure of accounting policy for its derivative instruments and hedging activities. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 815 -SubTopic 10 -Section 50 -Paragraph 2 -URI http://asc.fasb.org/extlink&oid=121590274&loc=d3e41620-113959Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 815 -SubTopic 10 -Section 50 -Paragraph 4 -URI http://asc.fasb.org/extlink&oid=121590274&loc=d3e41638-113959Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 815 -SubTopic 10 -Section 50 -Paragraph 1A -URI http://asc.fasb.org/extlink&oid=121590274&loc=SL5579245-113959Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 815 -SubTopic 10 -Section 50 -Paragraph 7 -URI http://asc.fasb.org/extlink&oid=121590274&loc=d3e41675-113959Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.4-08.(n)) -URI http://asc.fasb.org/extlink&oid=120395691&loc=d3e23780-122690Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 815 -SubTopic 10 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=121590274&loc=SL5579240-113959 + Details Name: us-gaap_DerivativesPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------
+- DefinitionDisclosure of accounting policy for computing basic and diluted earnings or loss per share for each class of common stock and participating security. Addresses all significant policy factors, including any antidilutive items that have been excluded from the computation and takes into account stock dividends, splits and reverse splits that occur after the balance sheet date of the latest reporting period but before the issuance of the financial statements. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 260 -SubTopic 10 -Section 50 -Paragraph 1 -Subparagraph (c) -URI http://asc.fasb.org/extlink&oid=6371337&loc=d3e3550-109257Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 260 -SubTopic 10 -Section 50 -Paragraph 2 -URI http://asc.fasb.org/extlink&oid=6371337&loc=d3e3630-109257 + Details Name: us-gaap_EarningsPerSharePolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------
+- DefinitionDisclosure of accounting policy for fair value measurements of financial and non-financial assets, liabilities and instruments classified in shareholders' equity. Disclosures include, but are not limited to, how an entity that manages a group of financial assets and liabilities on the basis of its net exposure measures the fair value of those assets and liabilities. + ReferencesNo definition available. + Details Name: us-gaap_FairValueMeasurementPolicyPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------------
+- DefinitionDisclosure of accounting policy for (1) transactions denominated in a currency other than the reporting enterprise's functional currency, (2) translating foreign currency financial statements that are incorporated into the financial statements of the reporting enterprise by consolidation, combination, or the equity method of accounting, and (3) remeasurement of the financial statements of a foreign reporting enterprise in a hyperinflationary economy. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 830 -URI http://asc.fasb.org/topic&trid=2175825Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790 + Details Name: us-gaap_ForeignCurrencyTransactionsAndTranslationsPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------
+- DefinitionDisclosure of accounting policy for goodwill and intangible assets. This accounting policy also may address how an entity assesses and measures impairment of goodwill and intangible assets. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 20 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=121556970&loc=d3e13816-109267Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 30 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=66006027&loc=d3e16265-109275 + Details Name: us-gaap_GoodwillAndIntangibleAssetsPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------
+- DefinitionDisclosure of accounting policy for income taxes, which may include its accounting policies for recognizing and measuring deferred tax assets and liabilities and related valuation allowances, recognizing investment tax credits, operating loss carryforwards, tax credit carryforwards, and other carryforwards, methodologies for determining its effective income tax rate and the characterization of interest and penalties in the financial statements. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 45 -Paragraph 25 -URI http://asc.fasb.org/extlink&oid=120406818&loc=d3e32247-109318Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 20 -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32847-109319Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 954 -SubTopic 740 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6491622&loc=d3e9504-115650Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 19 -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32840-109319Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 220 -SubTopic 10 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=116657188&loc=SL116659661-227067Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 9 -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32639-109319Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 45 -Paragraph 28 -URI http://asc.fasb.org/extlink&oid=120406818&loc=d3e32280-109318Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 17 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32809-109319 + Details Name: us-gaap_IncomeTaxPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------
+- DefinitionDisclosure of accounting policy for leasing arrangements entered into by lessor. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 842 -SubTopic 30 -Section 50 -Paragraph 3A -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=121576215&loc=SL117410129-209981Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 842 -SubTopic 30 -Section 50 -Subparagraph 14 -URI http://asc.fasb.org/section&trid=77888298Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 842 -SubTopic 30 -Section 50 -Paragraph 1 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=121576215&loc=SL77919352-209981Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 842 -SubTopic 30 -Section 50 -Paragraph 3A -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=121576215&loc=SL117410129-209981 + Details Name: us-gaap_LessorLeasesPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------
+- DefinitionDisclosure of accounting policy pertaining to new accounting pronouncements that may impact the entity's financial reporting. Includes, but is not limited to, quantification of the expected or actual impact. + ReferencesNo definition available. + Details Name: us-gaap_NewAccountingPronouncementsPolicyPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --------------------------------------------------------
+- DefinitionDisclosure of accounting policy for pension plans. This accounting policy may address (1) the types of plans sponsored by the entity (2) groups that participate in (or are covered by) each plan (3) how plan assets, liabilities and expenses are measured, including the use of any actuaries and (4) significant assumptions used by the entity to value plan assets and liabilities and how such assumptions are derived. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 30 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6412939&loc=d3e15145-114933Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=118255775&loc=d3e1928-114920Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 70 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=49170846&loc=d3e28014-114942Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 80 -Section 50 -Paragraph 2 -URI http://asc.fasb.org/extlink&oid=65877416&loc=d3e29149-114947Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790 + Details Name: us-gaap_PensionAndOtherPostretirementPlansPensionsPolicy
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
+- DefinitionDisclosure of accounting policy for long-lived, physical asset used in normal conduct of business and not intended for resale. Includes, but is not limited to, work of art, historical treasure, and similar asset classified as collections. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 958 -SubTopic 360 -Section 50 -Paragraph 1 -Subparagraph (d) -URI http://asc.fasb.org/extlink&oid=120429125&loc=d3e99779-112916Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 210 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.5-02.13(a)) -URI http://asc.fasb.org/extlink&oid=120391452&loc=d3e13212-122682Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 958 -SubTopic 360 -Section 50 -Paragraph 6 -URI http://asc.fasb.org/extlink&oid=120429125&loc=d3e99893-112916Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 360 -SubTopic 10 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6391035&loc=d3e2868-110229Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790 + Details Name: us-gaap_PropertyPlantAndEquipmentPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------
+- DefinitionDisclosure of accounting policy for revenue from contract with customer. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 17 -URI http://asc.fasb.org/extlink&oid=121604090&loc=SL49130561-203045Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 20 -Subparagraph (d) -URI http://asc.fasb.org/extlink&oid=121604090&loc=SL49130566-203045Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 18 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=121604090&loc=SL49130563-203045Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -URI http://asc.fasb.org/topic&trid=49130388Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 20 -Subparagraph (c) -URI http://asc.fasb.org/extlink&oid=121604090&loc=SL49130566-203045Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 18 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=121604090&loc=SL49130563-203045Reference 7: http://www.xbrl.org/2003/role/exampleRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 4 -Subparagraph (e) -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18823-107790Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 20 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=121604090&loc=SL49130566-203045Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 19 -URI http://asc.fasb.org/extlink&oid=121604090&loc=SL49130564-203045Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 20 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=121604090&loc=SL49130566-203045 + Details Name: us-gaap_RevenueFromContractWithCustomerPolicyTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ---------------------------------------------
+- DefinitionDisclosure of accounting policy for accounts receivable. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 310 -SubTopic 10 -Section 50 -Paragraph 1 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=121611835&loc=d3e4975-111524Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef -Publisher FASB -Name Accounting Standards Codification -Topic 310 -SubTopic 10 -Section 50 -Paragraph 15 -Subparagraph (d) -URI http://asc.fasb.org/extlink&oid=121611835&loc=d3e5212-111524Reference 3: http://fasb.org/us-gaap/role/ref/otherTransitionRef -Publisher FASB -Name Accounting Standards Codification -Topic 310 -SubTopic 10 -Section 50 -Paragraph 11B -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=121611835&loc=SL6953423-111524Reference 4: http://fasb.org/us-gaap/role/ref/otherTransitionRef -Publisher FASB -Name Accounting Standards Codification -Topic 310 -SubTopic 10 -Section 50 -Paragraph 6 -URI http://asc.fasb.org/extlink&oid=121611835&loc=d3e5093-111524Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 310 -SubTopic 10 -Section 50 -Paragraph 2 -URI http://asc.fasb.org/extlink&oid=121611835&loc=d3e5033-111524Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 310 -SubTopic 20 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=84159169&loc=d3e10133-111534 + Details Name: us-gaap_TradeAndOtherAccountsReceivablePolicy
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------
+- DefinitionDisclosure of accounting policy for servicing assets and liabilities including, but not necessarily limited to: (a) how a servicing asset or servicing liability is initially recognized and measured, (b) management's basis for determining its classes of servicing assets and servicing liabilities, (c) where contractually specified fees, late fees or ancillary fees are reported in the statement of income, (d) how the entity subsequently measures each class of servicing assets and servicing liabilities (that is, by using the amortization method or fair value method), and the methodology and significant assumptions used to value such servicing, (e) for those classes subsequently measured using the amortization method, where changes in the carrying amount are reported in the statement of income and how such servicing assets and liabilities are evaluated for impairment, and (f) for those classes subsequently measured at fair value, where changes in the fair value are reported in the statement of income. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 860 -SubTopic 50 -Section 50 -Paragraph 4 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=116651436&loc=d3e122739-111746Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 860 -SubTopic 50 -Section 50 -Paragraph 2 -Subparagraph (a),(c) -URI http://asc.fasb.org/extlink&oid=116651436&loc=d3e122596-111746Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 860 -SubTopic 50 -Section 50 -Paragraph 3 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=116651436&loc=d3e122625-111746 + Details Name: us-gaap_TransfersAndServicingOfFinancialAssetsServicingOfFinancialAssetsPolicy
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------
+- DefinitionDisclosure of accounting policy for the use of estimates in the preparation of financial statements in conformity with generally accepted accounting principles. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 275 -SubTopic 10 -Section 50 -Paragraph 12 -URI http://asc.fasb.org/extlink&oid=99393423&loc=d3e6191-108592Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 275 -SubTopic 10 -Section 50 -Paragraph 11 -URI http://asc.fasb.org/extlink&oid=99393423&loc=d3e6161-108592Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 275 -SubTopic 10 -Section 50 -Paragraph 9 -URI http://asc.fasb.org/extlink&oid=99393423&loc=d3e6143-108592Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 275 -SubTopic 10 -Section 50 -Paragraph 1 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=99393423&loc=d3e5967-108592Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 275 -SubTopic 10 -Section 50 -Paragraph 4 -URI http://asc.fasb.org/extlink&oid=99393423&loc=d3e6061-108592Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 275 -SubTopic 10 -Section 50 -Paragraph 8 -URI http://asc.fasb.org/extlink&oid=99393423&loc=d3e6132-108592Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 275 -SubTopic 10 -Section 50 -Paragraph 1 -Subparagraph (c) -URI http://asc.fasb.org/extlink&oid=99393423&loc=d3e5967-108592 + Details Name: us-gaap_UseOfEstimates
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+50
+R27.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Summary of Significant Accounting Principles and Practices (Tables) 12 Months Ended
+------------------------------------------------------------------- --------------- ---------------------------------------------------------------------
+Dec. 31, 2020
+Accounting Policies [Abstract]
+Schedule of Estimated Useful Lives of Assets
+Asset Description Estimated Useful Life
+Software Lesser of the life of an associated license, or 4 to 7 years
+Leasehold improvements Lesser of estimated useful life or lease term, not to exceed 10 years
+Furniture, fixtures and equipment 4 to 10 years
+Computer equipment 4 to 6 years
+Buildings 35 years
+Automobiles 6 years
+
+Schedule of Other Intangible Assets by Asset Class
+Amortization basis and estimated useful lives by intangible asset type are generally as follows:
+Intangible Asset Description Amortization Basis Estimated Useful Life
+----------------------------------- ---------------------------------- ------------------ ---------------------
+Tradenames Straight-line 1 to 3 years
+Customer-related and contract-based In line with underlying cash flows 7 to 20 years
+Technology and other Straight-line 5 to 7 years
+
+Other intangible assets by asset class are as follows (in millions):
+
+ As of December 31
+----------------------------------- ------------------- --------------------------------------- ----------------- ------------------- --------------------------------------- ----------------- - ----- - ----- - ---
+ 2020 2019
+ GrossCarryingAmount Accumulated Amortization and Impairment NetCarryingAmount GrossCarryingAmount Accumulated Amortization and Impairment NetCarryingAmount
+Customer-related and contract-based $ 2,337 $ 1,775 $ 562 $ 2,264 $ 1,600 $ 664
+Tradenames (1) 14 13 1 1,029 956 73
+Technology and other 435 358 77 380 334 46
+Total $ 2,786 $ 2,146 $ 640 $ 3,673 $ 2,890 $ 783
+
+(1)In 2020, Aon wrote off $1.0 billion of fully amortized tradenames, including the Hewitt and Benfield tradenames. The company no longer expects to receive economic benefits from these tradenames.
+
+X
+---------------------------------------------------- ----------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_AccountingPoliciesAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------
+- DefinitionTabular disclosure of physical assets used in the normal conduct of business and not intended for resale. Includes, but is not limited to, balances by class of assets, depreciation and depletion expense and method used, including composite depreciation, and accumulated deprecation. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 210 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.5-02(13)) -URI http://asc.fasb.org/extlink&oid=120391452&loc=d3e13212-122682Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 360 -SubTopic 10 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6391035&loc=d3e2868-110229 + Details Name: us-gaap_PropertyPlantAndEquipmentTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------
+- DefinitionTabular disclosure of assets, excluding financial assets and goodwill, lacking physical substance with a finite life, by either major class or business segment. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 30 -Section 50 -Paragraph 2 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=66006027&loc=d3e16323-109275Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 30 -Section 50 -Paragraph 1 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=66006027&loc=d3e16265-109275 + Details Name: us-gaap_ScheduleOfFiniteLivedIntangibleAssetsTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+51
+R28.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Revenue from Contracts with Customers (Tables) 12 Months Ended
+---------------------------------------------- --------------- ------ ----- ------ - ------
+Dec. 31, 2020
+Revenue from Contract with Customer [Abstract]
+Disaggregation of Revenue
+Years ended December 31
+ 2020 2019 2018
+Commercial Risk Solutions $ 4,690 $ 4,673 $ 4,652
+Reinsurance Solutions 1,814 1,686 1,563
+Retirement Solutions 1,753 1,817 1,865
+Health Solutions 1,655 1,667 1,596
+Data & Analytic Services 1,171 1,184 1,105
+Elimination (17) (14) (11)
+Total revenue $ 11,066 $ 11,013 $ 10,770
+
+Consolidated revenue from contracts with customers by geographic area, which is attributed on the basis of where the services are performed, is as follows (in millions):
+
+Years ended December 31
+--------------------------------------------------------- ----- ------ ----- ------ - ------
+ 2020 2019 2018
+U.S. $ 5,032 $ 5,016 $ 4,677
+Americas other than U.S. 911 919 940
+U.K. 1,579 1,502 1,555
+Ireland 84 75 80
+Europe, Middle East, & Africa other than U.K. and Ireland 2,236 2,263 2,333
+Asia Pacific 1,224 1,238 1,185
+Total revenue $ 11,066 $ 11,013 $ 10,770
+
+Capitalized Contract Cost
+
+Changes in the net carrying amount of costs to fulfill contracts with customers are as follows (in millions):
+
+ 2020 2019
+-------------------------------------- ------- ------- - ---
+Balance at beginning of period $ 335 $ 329
+Additions 1,360 1,453
+Amortization (1,360) (1,447)
+Impairment — —
+Foreign currency translation and other 4 —
+Balance at end of period $ 339 $ 335
+
+Changes in the net carrying amount of costs to obtain contracts with customers are as follows (in millions):
+
+ 2020 2019
+-------------------------------------- ---- ---- - ---
+Balance at beginning of period $ 171 $ 156
+Additions 61 58
+Amortization (47) (44)
+Impairment — —
+Foreign currency translation and other (1) 1
+Balance at end of period $ 184 $ 171
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------
+- DefinitionTabular disclosure of cost capitalized in obtaining or fulfilling contract with customer. + ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 340 -SubTopic 40 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=68051541&loc=SL49131252-203054 + Details Name: us-gaap_CapitalizedContractCostTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------
+- DefinitionTabular disclosure of disaggregation of revenue into categories depicting how nature, amount, timing, and uncertainty of revenue and cash flows are affected by economic factor. + ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 606 -SubTopic 10 -Section 50 -Paragraph 5 -URI http://asc.fasb.org/extlink&oid=121604090&loc=SL49130545-203045 + Details Name: us-gaap_DisaggregationOfRevenueTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- -----------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_RevenueFromContractWithCustomerAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+XML
+52
+R29.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Other Financial Data (Tables) 12 Months Ended
+-------------------------------- --------------- ---- ---- - - ----
+Dec. 31, 2020
+Other Financial Data [Abstract]
+Other Income (Expense)
+Years ended December 31
+ 2020 2019 2018
+Foreign currency remeasurement $ (12) $ 9 $ 25
+Disposal of businesses 25 13 (6)
+Pension and other postretirement 13 9 1
+Equity earnings 4 4 4
+Extinguishment of debt (7) — —
+Financial instruments (11) (34) (49)
+Total $ 12 $ 1 $ (25)
+
+Schedule of Allowance for Doubtful Accounts
+
+Changes in the net carrying amount of allowance for doubtful accounts are as follows (in millions):
+
+ 2020 2019 2018
+--------------------------------------- ---- ---- ---- -- - --
+Balance at beginning of period $ 70 $ 62 $ 59
+Adoption of new accounting guidance (1) 7 — —
+Adjusted balance at beginning of period 77 62 59
+Provision 29 27 24
+Accounts written off, net of recoveries (6) (19) (25)
+Foreign currency translation and other (2) — 4
+Balance at end of period $ 98 $ 70 $ 62
+
+(1) The allowance for doubtful accounts resulted in a $7 million charge from the adoption of the new accounting standard on the measurement of credit losses on January 1, 2020. After tax impacts, this resulted in a $6 million decrease to Retained earnings. Refer to Note 2 “Summary of Significant Accounting Principles and Practices” for further information.
+
+Schedule of Other Current Assets
+
+The components of Other current assets are as follows (in millions):
+
+As of December 31 2020 2019
+----------------------------------------- ---- ---- - ---
+Costs to fulfill contracts with customers $ 339 $ 335
+Taxes receivable 95 88
+Prepaid expenses 111 97
+Other (1) 79 82
+Total $ 624 $ 602
+
+(1)December 31, 2019 includes $4 million previously classified as “Receivables from the Divested Business”.
+
+Components of Fixed Assets, Net
+
+The components of Fixed assets, net are as follows (in millions):
+
+As of December 31 2020 2019
+--------------------------------- ----- ----- - ---
+Software $ 808 $ 727
+Leasehold improvements 375 358
+Computer equipment 249 250
+Furniture, fixtures and equipment 246 225
+Construction in progress 155 183
+Other 34 37
+Fixed assets, gross 1,867 1,780
+Less: Accumulated depreciation 1,268 1,159
+Fixed assets, net $ 599 $ 621
+
+Schedule of Other Non-current Assets
+
+The components of Other non-current assets are as follows (in millions):
+
+As of December 31 2020 2019
+---------------------------------------- ---- ---- - ---
+Costs to obtain contracts with customers $ 184 $ 171
+Investments 74 53
+Leases 89 100
+Taxes receivable 125 102
+Other 138 144
+Total $ 610 $ 570
+
+Schedule of Other Current Liabilities
+
+The components of Other current liabilities are as follows (in millions):
+
+As of December 31 2020 2019
+-------------------- ---- ----- - -----
+Deferred revenue (1) $ 296 $ 270
+Taxes payable 80 93
+Leases 234 210
+Other 561 513
+Total $ 1,171 $ 1,086
+
+(1)$454 million and $532 million was recognized in the Consolidated Statements of Income during the twelve months ended December 31, 2020 and December 31, 2019, respectively.
+
+Schedule of Other Non-current Liabilities
+
+The components of Other non-current liabilities are as follows (in millions):
+
+As of December 31 2020 2019
+------------------------- ---- ---- - ---
+Taxes payable (1) $ 561 $ 525
+Leases 65 76
+Compensation and benefits 53 49
+Deferred revenue 76 62
+Other 140 165
+Total $ 895 $ 877
+
+(1)Includes $145 million for the non-current portion of the Transition Tax, as of December 31, 2020 and December 31, 2019. Refer to Note 11 “Income Taxes” for further information on the Transition Tax.
+
+X
+------------------------------------------------------------------------------------------------ ------------------------------
+- DefinitionOther Financial Data [Abstract] + ReferencesNo definition available. + Details Name: aon_OtherFinancialDataAbstract
+Namespace Prefix: aon_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------
+- DefinitionTabular disclosure of the components of property, plant and equipment. + ReferencesNo definition available. + Details Name: aon_ScheduleOfPropertyPlantAndEquipmentComponentsTableTextBlock
+Namespace Prefix: aon_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------
+- DefinitionSchedule of Accounts, Notes, Loans and Financing Receivable Allowance for Doubtful Accounts [Table Text Block] + ReferencesNo definition available. + Details Name: aon_ScheduleofAccountsNotesLoansandFinancingReceivableAllowanceforDoubtfulAccountsTableTextBlock
+Namespace Prefix: aon_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------- ---------------------------------------------
+- DefinitionTabular disclosure of other current liabilities. + ReferencesNo definition available. + Details Name: us-gaap_OtherCurrentLiabilitiesTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+-------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
+- DefinitionTabular disclosure of other noncurrent liabilities. + ReferencesNo definition available. + Details Name: us-gaap_OtherNoncurrentLiabilitiesTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
+- DefinitionTabular disclosure of noncurrent assets. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 210 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.5-02.17) -URI http://asc.fasb.org/extlink&oid=120391452&loc=d3e13212-122682 + Details Name: us-gaap_ScheduleOfOtherAssetsNoncurrentTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------ --------------------------------------------------
+- DefinitionTabular disclosure of the carrying amounts of other current assets. + ReferencesNo definition available. + Details Name: us-gaap_ScheduleOfOtherCurrentAssetsTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------
+- DefinitionTabular disclosure of the components of non-operating income or non-operating expense that may include amounts earned from dividends, interest on securities, gains (losses) on securities sold, equity earnings of unconsolidated affiliates, net gain (loss) on sales of business, interest expense and other miscellaneous income or expense items. + ReferencesNo definition available. + Details Name: us-gaap_ScheduleOfOtherNonoperatingIncomeExpenseTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+53
+R30.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Acquisitions and Dispositions of Businesses (Tables) 12 Months Ended
+-------------------------------------------------------------------------------- --------------- ---
+Dec. 31, 2020
+Business Combinations and Discontinued Operations and Disposal Groups [Abstract]
+Consideration Transferred and Preliminary Value of Intangible Assets
+For the year ended December 31, 2020
+Consideration transferred
+Cash $ 385
+Deferred, contingent, and other consideration 34
+Aggregate consideration transferred $ 419
+Assets acquired
+Cash and cash equivalents $ 17
+Receivables, net 19
+Goodwill 314
+Intangible assets, net 83
+Current assets 16
+Non-current assets 12
+Total assets acquired 461
+Liabilities assumed
+Current liabilities 27
+Non-current liabilities 15
+Total liabilities assumed 42
+Net assets acquired $ 419
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------
+- DefinitionBusiness Combinations and Discontinued Operations and Disposal Groups [Abstract] + ReferencesNo definition available. + Details Name: aon_BusinessCombinationsandDiscontinuedOperationsandDisposalGroupsAbstract
+Namespace Prefix: aon_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------
+- DefinitionTabular disclosure of the amounts recognized as of the acquisition date for each major class of assets acquired and liabilities assumed. May include but not limited to the following: (a) acquired receivables; (b) contingencies recognized at the acquisition date; and (c) the fair value of noncontrolling interests in the acquiree. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 805 -SubTopic 20 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=121647850&loc=d3e4845-128472 + Details Name: us-gaap_ScheduleOfRecognizedIdentifiedAssetsAcquiredAndLiabilitiesAssumedTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+54
+R31.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Goodwill and Other Intangible Assets (Tables) 12 Months Ended
+------------------------------------------------------------------------------- --------------- -----
+Dec. 31, 2020
+Goodwill and Intangible Assets Disclosure [Abstract]
+Schedule of Changes in the Net Carrying Amount of Goodwill by Operating Segment
+Balance as of January 1, 2019 $ 8,171
+Goodwill related to current year acquisitions 34
+Goodwill related to disposals (11)
+Goodwill related to prior year acquisitions 2
+Foreign currency translation (31)
+Balance as of December 31, 2019 $ 8,165
+Goodwill related to current year acquisitions 314
+Goodwill related to disposals (3)
+Foreign currency translation 190
+Balance as of December 31, 2020 $ 8,666
+
+Schedule of Other Intangible Assets by Asset Class
+Amortization basis and estimated useful lives by intangible asset type are generally as follows:
+Intangible Asset Description Amortization Basis Estimated Useful Life
+----------------------------------- ---------------------------------- ------------------ ---------------------
+Tradenames Straight-line 1 to 3 years
+Customer-related and contract-based In line with underlying cash flows 7 to 20 years
+Technology and other Straight-line 5 to 7 years
+
+Other intangible assets by asset class are as follows (in millions):
+
+ As of December 31
+----------------------------------- ------------------- --------------------------------------- ----------------- ------------------- --------------------------------------- ----------------- - ----- - ----- - ---
+ 2020 2019
+ GrossCarryingAmount Accumulated Amortization and Impairment NetCarryingAmount GrossCarryingAmount Accumulated Amortization and Impairment NetCarryingAmount
+Customer-related and contract-based $ 2,337 $ 1,775 $ 562 $ 2,264 $ 1,600 $ 664
+Tradenames (1) 14 13 1 1,029 956 73
+Technology and other 435 358 77 380 334 46
+Total $ 2,786 $ 2,146 $ 640 $ 3,673 $ 2,890 $ 783
+
+(1)In 2020, Aon wrote off $1.0 billion of fully amortized tradenames, including the Hewitt and Benfield tradenames. The company no longer expects to receive economic benefits from these tradenames.
+
+Schedule of Estimated Future Amortization Expense on Intangible Assets
+
+The estimated future amortization for finite-lived intangible assets as of December 31, 2020 is as follows (in millions):
+
+Estimated Future Amortization
+----------------------------- --- ---
+For the years ended
+ 2021 $ 144
+ 2022 102
+ 2023 91
+ 2024 73
+ 2025 59
+Thereafter 171
+Total $ 640
+
+X
+---------------------------------------------------- -----------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------
+- DefinitionTabular disclosure of assets, excluding financial assets and goodwill, lacking physical substance with a finite life, by either major class or business segment. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 30 -Section 50 -Paragraph 2 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=66006027&loc=d3e16323-109275Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 30 -Section 50 -Paragraph 1 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=66006027&loc=d3e16265-109275 + Details Name: us-gaap_ScheduleOfFiniteLivedIntangibleAssetsTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------
+- DefinitionTabular disclosure of goodwill by reportable segment and in total which includes a rollforward schedule. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 20 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=121556970&loc=d3e13816-109267Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 20 -Section 50 -Paragraph 2 -URI http://asc.fasb.org/extlink&oid=121556970&loc=d3e13854-109267 + Details Name: us-gaap_ScheduleOfGoodwillTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------
+- DefinitionTabular disclosure of the amount of amortization expense expected to be recorded in succeeding fiscal years for finite-lived intangible assets. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 30 -Section 50 -Paragraph 2 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=66006027&loc=d3e16323-109275 + Details Name: us-gaap_ScheduleofFiniteLivedIntangibleAssetsFutureAmortizationExpenseTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+55
+R32.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Debt (Tables) 12 Months Ended
+----------------------------------------------------------- --------------- ----- - -----
+Dec. 31, 2020
+Debt Disclosure [Abstract]
+Summary of Outstanding Debt
+As of December 31 2020 2019
+Commercial paper $ — $ 112
+5.00% Senior Notes due September 2020 — 600
+2.80% Senior Notes due March 2021 (1) 400 399
+2.20% Senior Notes due November 2022 498 497
+4.00% Senior Notes due November 2023 349 348
+3.50% Senior Notes due June 2024 597 597
+3.875% Senior Notes due December 2025 747 746
+2.875% Senior Notes due May 2026 (EUR 500M) 606 550
+8.205% Junior Subordinated Notes due January 2027 521 521
+4.50% Senior Notes due December 2028 347 346
+3.75% Senior Notes due May 2029 744 744
+2.80% Senior Notes due May 2030 992 —
+6.25% Senior Notes due September 2040 296 296
+4.25% Senior Notes due December 2042 200 199
+4.45% Senior Notes due May 2043 247 246
+4.60% Senior Notes due June 2044 544 544
+4.75% Senior Notes due May 2045 593 593
+Other 48 1
+Total debt 7,729 7,339
+Less: Short-term debt and current portion of long-term debt 448 712
+Total long-term debt $ 7,281 $ 6,627
+
+(1) The 2.80% Senior Notes due March 2021 were repaid in full on February 16, 2021.
+
+Repayments of Long-term Debt
+
+Repayments of total debt as of December 31, 2020 are as follows (in millions):
+
+ 2021 $ 448
+-------------------------------------------------------- ----- -----
+ 2022 500
+ 2023 350
+ 2024 600
+ 2025 750
+Thereafter 5,187
+Total Repayments 7,835
+Unamortized discounts, premiums, and debt issuance costs (106)
+Total Debt $ 7,729
+
+Schedule of Commercial Paper
+
+Commercial paper outstanding, which is included in Short-term debt and current portion of long-term debt in the Company’s Consolidated Statements of Financial Position, is as follows (in millions):
+
+As of December 31 2020 2019
+---------------------------- ---- ---- - ---
+Commercial paper outstanding $ — $ 112
+
+The weighted average commercial paper outstanding and its related interest rates are as follows (in millions, except percentages):
+
+Years Ended December 31
+-------------------------------------------------------------- ---- --- ---- ---
+ 2020 2019
+Weighted average commercial paper outstanding $ 343 $ 511
+Weighted average interest rate of commercial paper outstanding 1.47 % 0.27 %
+
+X
+---------------------------------------------------- ------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_DebtDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------
+- DefinitionTabular disclosure of long-debt instruments or arrangements, including identification, terms, features, collateral requirements and other information necessary to a fair presentation. These are debt arrangements that originally required repayment more than twelve months after issuance or greater than the normal operating cycle of the entity, if longer. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 210 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.5-02.22) -URI http://asc.fasb.org/extlink&oid=120391452&loc=d3e13212-122682Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 835 -SubTopic 30 -Section 45 -Paragraph 1A -URI http://asc.fasb.org/extlink&oid=119993939&loc=d3e28541-108399Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 6 -URI http://asc.fasb.org/extlink&oid=109259400&loc=d3e21506-112644Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.4-08.(e),(f)) -URI http://asc.fasb.org/extlink&oid=120395691&loc=d3e23780-122690Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 835 -SubTopic 30 -Section 45 -Paragraph 2 -URI http://asc.fasb.org/extlink&oid=119993939&loc=d3e28551-108399Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 7 -URI http://asc.fasb.org/extlink&oid=109259400&loc=d3e21521-112644Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 8 -URI http://asc.fasb.org/extlink&oid=109259400&loc=d3e21538-112644Reference 8: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 942 -SubTopic 470 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=75038535&loc=d3e64711-112823Reference 9: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 835 -SubTopic 30 -Section 55 -Paragraph 8 -URI http://asc.fasb.org/extlink&oid=114775985&loc=d3e28878-108400Reference 10: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=109259400&loc=d3e21475-112644 + Details Name: us-gaap_ScheduleOfDebtInstrumentsTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
+- DefinitionTabular disclosure of information pertaining to short-term and long-debt instruments or arrangements, including but not limited to identification of terms, features, collateral requirements and other information necessary to a fair presentation. + ReferencesNo definition available. + Details Name: us-gaap_ScheduleOfDebtTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------
+- DefinitionTabular disclosure of maturity and sinking fund requirement for long-term debt. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 10 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6802200&loc=d3e1835-112601 + Details Name: us-gaap_ScheduleOfMaturitiesOfLongTermDebtTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+56
+R33.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Lease Commitments (Tables) 12 Months Ended
+-------------------------------- --------------------------------------- ----- --- ----- ---
+Dec. 31, 2020
+Leases [Abstract]
+Assets And Liabilities Of Lessee
+As of December 31 2020 2019
+Assets
+Operating lease assets Operating lease right-of-use assets $ 911 $ 929
+Finance lease assets Other non-current assets 89 100
+Total lease assets $ 1,000 $ 1,029
+Liabilities
+Current lease liabilities
+Operating Other current liabilities $ 204 $ 186
+Finance Other current liabilities 30 24
+Non-current lease liabilities
+Operating Non-current operating lease liabilities 897 944
+Finance Other non-current liabilities 65 76
+Total lease liabilities $ 1,196 $ 1,230
+
+Lease, Cost
+
+The components of lease costs are as follows (in millions):
+
+Years Ended December 31
+----------------------------- ---- ---- - ---
+ 2020 2019
+Operating lease cost $ 221 $ 234
+Finance lease costs
+Amortization of leased assets 25 26
+Interest on lease liabilities 3 2
+Variable lease cost 48 60
+Short-term lease cost (1) 10 5
+Sublease income (32) (32)
+Net lease cost $ 275 $ 295
+
+(1) Short-term lease cost does not include expenses related to leases with a lease term of one month or less.
+
+Weighted average remaining lease term and discount rate related to operating and finance leases are as follows:
+
+As of December 31 2020 2019
+--------------------------------------------- ---- ---- --- -
+Weighted average remaining lease term (years)
+Operating leases 7.4 7.9
+Finance leases 4.2 4.4
+Weighted average discount rate
+Operating leases 2.9 % 3.2 %
+Finance leases 1.0 % 2.0 %
+
+Other cash and non-cash related activities are as follows (in millions):
+
+Years Ended December 31
+---------------------------------------------------------------------- ---- ---- - ----
+ 2020 2019
+Cash paid for amounts included in the measurement of lease liabilities
+Operating cash flows for operating leases $ 236 $ 264
+Financing cash flows for finance leases $ 12 $ 17
+Non-cash related activities
+ROU assets obtained in exchange for new operating lease liabilities $ 146 $ 155
+ROU assets obtained in exchange for new finance lease liabilities $ 13 $ 48
+Operating lease ROU asset expense (1) $ 178 $ 195
+Changes in Non-current operating lease liabilities (1) $ (47) $ (70)
+(1)The Company has recorded non-cash changes in Operating lease ROU assets and Non-current operating lease liabilities through Other assets and liabilities in Cash flows from operations within the Consolidated Statement of Cash Flows.
+
+Lessee Operating Lease Liability Maturity
+
+Maturity analysis of operating and finance leases as of December 31, 2020 are as follows (in millions):
+
+Operating Leases Finance Leases Total
+------------------------------------------------ -------------- ----- ----- -- - -----
+ 2021 $ 226 $ 31 $ 257
+ 2022 209 20 229
+ 2023 160 18 178
+ 2024 130 18 148
+ 2025 110 10 120
+Thereafter 382 — 382
+Total undiscounted future minimum lease payments 1,217 97 1,314
+Less: Imputed interest (116) (2) (118)
+Present value of lease liabilities $ 1,101 $ 95 $ 1,196
+
+Finance Lease, Liability, Maturity
+
+Maturity analysis of operating and finance leases as of December 31, 2020 are as follows (in millions):
+
+Operating Leases Finance Leases Total
+------------------------------------------------ -------------- ----- ----- -- - -----
+ 2021 $ 226 $ 31 $ 257
+ 2022 209 20 229
+ 2023 160 18 178
+ 2024 130 18 148
+ 2025 110 10 120
+Thereafter 382 — 382
+Total undiscounted future minimum lease payments 1,217 97 1,314
+Less: Imputed interest (116) (2) (118)
+Present value of lease liabilities $ 1,101 $ 95 $ 1,196
+
+X
+-------------------------------------------------------------------------------------------------------------------- ----------------------------------------------
+- DefinitionAssets And Liabilities Of Lessee [Table Text Block] + ReferencesNo definition available. + Details Name: aon_AssetsAndLiabilitiesOfLesseeTableTextBlock
+Namespace Prefix: aon_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------
+- DefinitionTabular disclosure of undiscounted cash flows of finance lease liability. Includes, but is not limited to, reconciliation of undiscounted cash flows to finance lease liability recognized in statement of financial position. + ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 842 -SubTopic 20 -Section 50 -Paragraph 6 -URI http://asc.fasb.org/extlink&oid=121609121&loc=SL77918701-209980 + Details Name: us-gaap_FinanceLeaseLiabilityMaturityTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------
+- DefinitionTabular disclosure of lessee's lease cost. Includes, but is not limited to, interest expense for finance lease, amortization of right-of-use asset for finance lease, operating lease cost, short-term lease cost, variable lease cost and sublease income. + ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 842 -SubTopic 20 -Section 50 -Paragraph 4 -URI http://asc.fasb.org/extlink&oid=121609121&loc=SL77918686-209980 + Details Name: us-gaap_LeaseCostTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- ----------------------
+- ReferencesNo definition available. + Details Name: us-gaap_LeasesAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------
+- DefinitionTabular disclosure of undiscounted cash flows of lessee's operating lease liability. Includes, but is not limited to, reconciliation of undiscounted cash flows to operating lease liability recognized in statement of financial position. + ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 842 -SubTopic 20 -Section 50 -Paragraph 6 -URI http://asc.fasb.org/extlink&oid=121609121&loc=SL77918701-209980 + Details Name: us-gaap_LesseeOperatingLeaseLiabilityMaturityTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+57
+R34.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Income Taxes (Tables) 12 Months Ended
+--------------------------------------------------- --------------- ----- ----- ----- - -----
+Dec. 31, 2020
+Income Tax Disclosure [Abstract]
+Income From Continuing Operations Before Income Tax
+Years ended December 31 2020 2019 2018
+Income (loss) before income taxes:
+Ireland $ (86) $ 200 $ 208
+U.K. 634 228 (240)
+U.S. (29) (219) (601)
+Other 1,946 1,662 1,879
+Total $ 2,465 $ 1,871 $ 1,246
+Income tax expense:
+Current:
+Ireland $ 2 $ 1 $ 2
+U.K. 30 20 21
+U.S. federal 126 22 101
+U.S. state and local 22 41 35
+Other 259 249 212
+Total current tax expense $ 439 $ 333 $ 371
+Deferred tax expense (benefit):
+Ireland $ (1) $ (1) $ (1)
+U.K. 39 35 19
+U.S. federal (72) (20) (165)
+U.S. state and local (4) (27) (56)
+Other 47 (23) (22)
+Total deferred tax expense (benefit) $ 9 $ (36) $ (225)
+Total income tax expense $ 448 $ 297 $ 146
+
+Reconciliation of the Income Tax Provisions based on the U.S. Statutory Corporate Tax Rate to the Provisions Reflected in the Consolidated Financial Statements
+The reconciliation to the provisions from continuing operations reflected in the Consolidated Financial Statements is as follows:
+
+Years ended December 31 2020 2019 2018
+------------------------------------------------------------ ----- ----- ------
+Statutory tax rate 25.0% 19.0% 19.0%
+U.S. state income taxes, net of U.S. federal benefit 1.0 0.5 (0.4)
+Taxes on international operations (1) (4) (9.8) (6.0) (7.3)
+Nondeductible expenses 2.1 1.6 2.7
+Adjustments to prior year tax requirements (4) — 0.1 0.9
+Deferred tax adjustments, including statutory rate changes 0.7 — —
+Deferred tax adjustments, international earnings 0.7 — —
+Adjustments to valuation allowances — 1.8 3.8
+Change in uncertain tax positions 1.5 2.2 0.9
+Excess tax benefits related to shared based compensation (2) (2.2) (2.8) (3.6)
+U.S. Tax Reform impact (3) — (0.3) 7.1
+Loss on disposition — — (10.2)
+Capital Losses (1.8) — —
+Non-deductible transaction costs 1.3 — —
+Other — net (0.3) (0.2) (1.2)
+Effective tax rate 18.2% 15.9% 11.7%
+
+(1)The Company determines the adjustment for taxes on international operations based on the difference between the statutory tax rate applicable to earnings in each foreign jurisdiction and the enacted rate of 25.0%, 19.0% and 19.0% at December 31, 2020, 2019, and 2018, respectively. The benefit to the Company’s effective income tax rate from taxes on international operations relates to benefits from lower-taxed global operations, primarily due to the use of global funding structures and the tax holiday in Singapore.
+(2)Excess tax benefits and deficiencies from share-based payment transactions are recognized as income tax expense or benefit in the Company’s Consolidated Statements of Income.
+(3)The impact of the Tax Reform Act including the Transition Tax, the re-measurement of U.S. deferred tax assets and liabilities from 35% to 21%, withholding tax accruals, and the allocation of tax benefit between continuing operations and discontinued operations related to utilization of foreign tax credits.
+(4)In July 2020, final U.S. tax regulations were issued regarding the global intangible low-tax income (“GILTI”) high tax election, allowing taxpayers to exclude from GILTI the income of a Controlled Foreign Corporation that incurs a foreign tax rate more than 90% of the top U.S. corporate tax rate. A GILTI high tax election may be made on an annual basis, and taxpayers may choose to apply the election to taxable years beginning after December 31, 2017. The Company expects to make the GILTI high-tax election for 2020 and 2019 and therefore recorded the impact of making the election for both years.
+
+Components of Aon's Deferred Tax Assets and Liabilities
+
+The components of the Company’s deferred tax assets and liabilities are as follows (in millions):
+
+As of December 31 2020 2019
+------------------------------------------------------------------------ ----- ----- - -----
+Deferred tax assets:
+Net operating loss, capital loss, interest, and tax credit carryforwards $ 653 $ 440
+Employee benefit plans 312 373
+Lease liabilities 248 247
+Other accrued expenses 103 68
+Deferred revenue 36 24
+Investment basis differences 28 28
+Lease and service guarantees 2 3
+Accrued interest — 116
+Other 54 57
+Total 1,436 1,356
+Valuation allowance on deferred tax assets (205) (200)
+Total $ 1,231 $ 1,156
+Deferred tax liabilities:
+Intangibles and property, plant and equipment $ (291) $ (251)
+Lease right-of-use asset (211) (219)
+Deferred costs (141) (128)
+Unremitted earnings (37) (28)
+Unrealized foreign exchange gains (26) (26)
+Other accrued expenses (22) (25)
+Other (41) (33)
+Total $ (769) $ (710)
+Net deferred tax asset $ 462 $ 446
+
+Deferred Income Taxes (Assets and Liabilities Netted by Jurisdiction) as Classified in the Consolidated Statements of Financial Position
+
+Deferred income taxes (assets and liabilities have been netted by jurisdiction) have been classified in the Consolidated Statements of Financial Position as follows (in millions):
+
+As of December 31 2020 2019
+-------------------------------------- ----- ----- - ---
+Deferred tax assets — non-current $ 724 $ 645
+Deferred tax liabilities — non-current (262) (199)
+Net deferred tax asset $ 462 $ 446
+
+Summary of Operating and Capital Loss Carryforwards
+
+The Company had the following net operating loss, capital loss, and interest carryforwards (in millions):
+
+As of December 31 2020 2019
+------------------------------------ ---- ----- - ---
+U.K.
+Operating loss carryforwards $ 266 $ 438
+Capital loss carryforwards $ 577 $ 411
+Interest carryforwards $ 121 $ 203
+U.S.
+Federal operating loss carryforwards $ 49 $ 1
+Federal capital loss carryforwards $ 112 $ 112
+Federal interest carryforwards $ 1,220 $ 355
+State operating loss carryforwards $ 378 $ 376
+State capital loss carryforwards $ 123 $ 123
+State interest carryforwards $ 573 $ 172
+Other Non-U.S.
+Operating loss carryforwards $ 400 $ 308
+Capital loss carryforwards $ 42 $ 29
+Interest carryforwards $ 34 $ 159
+
+Reconciliation of the Beginning and Ending Amount of Unrecognized Tax Benefits
+
+The following is a reconciliation of the Company’s beginning and ending amount of uncertain tax positions (in millions):
+
+ 2020 2019
+------------------------------------------------------------ ---- --- - ---
+Balance at January 1 $ 299 $ 279
+Additions based on tax positions related to the current year 25 23
+Additions for tax positions of prior years 7 12
+Reductions for tax positions of prior years (3) (5)
+Settlements — (5)
+Business combinations — —
+Lapse of statute of limitations (7) (5)
+Foreign currency translation — —
+Balance at December 31 $ 321 $ 299
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------
+- DefinitionDisclosure of deferred income taxes (assets and liabilities netted by jurisdiction) as classified in the consolidated statements of financial position. + ReferencesNo definition available. + Details Name: aon_ScheduleOfDeferredTaxAssetsAndLiabilitiesNettedByJurisdictionTableTextBlock
+Namespace Prefix: aon_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- -----------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_IncomeTaxDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------
+- DefinitionTabular disclosure of the components of income tax expense attributable to continuing operations for each year presented including, but not limited to: current tax expense (benefit), deferred tax expense (benefit), investment tax credits, government grants, the benefits of operating loss carryforwards, tax expense that results from allocating certain tax benefits either directly to contributed capital or to reduce goodwill or other noncurrent intangible assets of an acquired entity, adjustments of a deferred tax liability or asset for enacted changes in tax laws or rates or a change in the tax status of the entity, and adjustments of the beginning-of-the-year balances of a valuation allowance because of a change in circumstances that causes a change in judgment about the realizability of the related deferred tax asset in future years. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 9 -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32639-109319 + Details Name: us-gaap_ScheduleOfComponentsOfIncomeTaxExpenseBenefitTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------
+- DefinitionTabular disclosure of the components of net deferred tax asset or liability recognized in an entity's statement of financial position, including the following: the total of all deferred tax liabilities, the total of all deferred tax assets, the total valuation allowance recognized for deferred tax assets. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 2 -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32537-109319 + Details Name: us-gaap_ScheduleOfDeferredTaxAssetsAndLiabilitiesTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------
+- DefinitionTabular disclosure of the reconciliation using percentage or dollar amounts of the reported amount of income tax expense attributable to continuing operations for the year to the amount of income tax expense that would result from applying domestic federal statutory tax rates to pretax income from continuing operations. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 12 -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32687-109319 + Details Name: us-gaap_ScheduleOfEffectiveIncomeTaxRateReconciliationTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
+- DefinitionTabular disclosure for tax positions taken in the tax returns filed or to be filed for which it is more likely than not that the tax position will not be sustained upon examination by taxing authorities and other income tax contingencies. Includes, but is not limited to, interest and penalties, reconciliation of unrecognized tax benefits, unrecognized tax benefits that would affect the effective tax rate, tax years that remain subject to examination by tax jurisdictions, and information about positions for which it is reasonably possible that amounts unrecognized will significantly change within 12 months. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 15A -URI http://asc.fasb.org/extlink&oid=84230637&loc=SL6600010-109319Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 15 -Subparagraph (d) -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32718-109319Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 19 -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32840-109319 + Details Name: us-gaap_SummaryOfIncomeTaxContingenciesTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------
+- DefinitionTabular disclosure of pertinent information, such as tax authority, amounts, and expiration dates, of net operating loss carryforwards, including an assessment of the likelihood of utilization. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 3 -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32559-109319 + Details Name: us-gaap_SummaryOfOperatingLossCarryforwardsTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+58
+R35.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Shareholders' Equity (Tables) 12 Months Ended
+----------------------------------------- --------------- ------ - ------
+Dec. 31, 2020
+Equity [Abstract]
+Schedule of Repurchase Agreements
+Twelve months ended December 31
+ 2020 2019
+Shares repurchased 8.5 10.5
+Average price per share $ 206.28 $ 186.33
+Costs recorded to retained earnings
+Total repurchase cost $ 1,761 $ 1,950
+Additional associated costs 2 10
+Total costs recorded to retained earnings $ 1,763 $ 1,960
+
+Schedule of Components of Weighted Average Number of Shares Outstanding
+
+Weighted average ordinary shares outstanding are as follows (in millions):
+
+Years ended December 31 2020 2019 2018
+---------------------------------------------------- ----- ----- -----
+Basic weighted average ordinary shares outstanding 231.9 238.6 245.2
+Dilutive effect of potentially issuable shares 1.2 2.0 1.8
+Diluted weighted average ordinary shares outstanding 233.1 240.6 247.0
+
+Components of Accumulated Other Comprehensive Loss, Net of Related Tax
+
+Changes in Accumulated other comprehensive loss by component, net of related tax, are as follows (in millions):
+
+ Change in Fair Value of Financial Instruments (1) Foreign Currency Translation Adjustments Postretirement Benefit Obligation (2) Total
+-------------------------------------------------------------------------------- ------------------------------------------------- ---------------------------------------- ------------------------------------- ------- - ------- ------- -------
+Balance at December 31, 2017 $ (25) $ (879) $ (2,592) (3,496)
+Adoption of new accounting guidance (1) — — (1)
+Balance at January 1, 2018 (26) (879) (2,592) (3,497)
+Other comprehensive income (loss) before reclassifications
+Other comprehensive income (loss) before reclassifications (15) (437) (124) (576)
+Tax benefit (expense) 18 (3) 28 43
+Other comprehensive income (loss) before reclassifications, net 3 (440) (96) (533)
+Amounts reclassified from accumulated other comprehensive income (loss)
+Amounts reclassified from accumulated other comprehensive income (loss) 11 — 146 157
+Tax benefit (expense) (3) — (33) (36)
+Amounts reclassified from accumulated other comprehensive income (loss), net (3) 8 — 113 121
+Net current period other comprehensive income (loss) 11 (440) 17 (412)
+Balance at December 31, 2018 (15) (1,319) (2,575) (3,909)
+Other comprehensive income (loss) before reclassifications
+Other comprehensive income (loss) before reclassifications (10) 15 (287) (282)
+Tax benefit (expense) 1 (1) 58 58
+Other comprehensive income (loss) before reclassifications, net (9) 14 (229) (224)
+Amounts reclassified from accumulated other comprehensive income (loss)
+Amounts reclassified from accumulated other comprehensive income (loss) 14 — 109 123
+Tax benefit (expense) (2) — (21) (23)
+Amounts reclassified from accumulated other comprehensive income (loss), net (3) 12 — 88 100
+Net current period other comprehensive income (loss) 3 14 (141) (124)
+Balance at December 31, 2019 (12) (1,305) (2,716) (4,033)
+Other comprehensive income (loss) before reclassifications
+Other comprehensive income (loss) before reclassifications 1 258 (255) 4
+Tax benefit (expense) — 2 60 62
+Other comprehensive income (loss) before reclassifications, net 1 260 (195) 66
+Amounts reclassified from accumulated other comprehensive income (loss)
+Amounts reclassified from accumulated other comprehensive income (loss) 15 — 125 140
+Tax benefit (expense) (3) — (31) (34)
+Amounts reclassified from accumulated other comprehensive income (loss), net (3) 12 — 94 106
+Net current period other comprehensive income (loss) 13 260 (101) 172
+Balance at December 31, 2020 $ 1 $ (1,045) $ (2,817) $ (3,861)
+
+(1)Reclassifications from this category included in Accumulated other comprehensive loss are recorded in Total revenue, Interest expense, and Compensation and benefits in the Consolidated Statements of Income. Refer to Note 14 “Derivatives and Hedging” for further information regarding the Company’s derivative and hedging activity.
+(2)Reclassifications from this category included in Accumulated other comprehensive loss are recorded in Other income (expense) in the Consolidated Statements of Income.
+(3)It is the Company’s policy to release income tax effects from Accumulated other comprehensive loss using the portfolio approach.
+
+X
+---------------------------------------------------- ----------------------
+- ReferencesNo definition available. + Details Name: us-gaap_EquityAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------
+- DefinitionTabular disclosure of the components of accumulated other comprehensive income (loss). + ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 830 -SubTopic 30 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6450520&loc=d3e32583-110901Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 220 -SubTopic 10 -Section 45 -Paragraph 14A -URI http://asc.fasb.org/extlink&oid=121641772&loc=SL7669686-108580Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 830 -SubTopic 30 -Section 45 -Paragraph 20 -URI http://asc.fasb.org/extlink&oid=118261656&loc=d3e32211-110900 + Details Name: us-gaap_ScheduleOfAccumulatedOtherComprehensiveIncomeLossTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------
+- DefinitionThe entire disclosure for repurchase agreements. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.4-08.(m)(1)) -URI http://asc.fasb.org/extlink&oid=120395691&loc=d3e23780-122690 + Details Name: us-gaap_ScheduleOfRepurchaseAgreements
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------
+- DefinitionTabular disclosure of the weighted average number of shares used in calculating basic net earnings per share (or unit) and diluted earnings per share (or unit). + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 260 -SubTopic 10 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6371337&loc=d3e3550-109257 + Details Name: us-gaap_ScheduleOfWeightedAverageNumberOfSharesTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+59
+R36.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Employee Benefits (Tables) 12 Months Ended
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------- ---- ---- --- - ---
+Dec. 31, 2020
+Retirement Benefits [Abstract]
+Expense Recognized for Defined Contribution Savings Plans, Included in Compensation and Benefits and Discontinued Operations in the Consolidated Statements of Income
+Years ended December 31 2020 2019 2018
+U.S. $ 87 $ 98 $ 98
+U.K. 42 41 45
+Netherlands and Canada 26 25 25
+Total $ 155 $ 164 $ 168
+
+Changes in Projected Benefit Obligations Fair Value of Plan Assets, Funded Status and Amount Recognized
+
+The following tables provide a reconciliation of the changes in the projected benefit obligations and fair value of assets for the years ended December 31, 2020 and 2019, and a statement of the funded status as of December 31, 2020 and 2019, for Aon’s significant U.K., U.S., and other major pension plans, which are located in the Netherlands and Canada. These plans represent approximately 91% of the Company’s projected benefit obligations.
+
+ U.K. U.S. Other
+---------------------------------------------------------------------- ----- ----- ----- ----- ---- ------- - ------- - ----- - -----
+(millions) 2020 2019 2020 2019 2020 2019
+Change in projected benefit obligation
+At January 1 $ 4,779 $ 4,129 $ 3,192 $ 2,877 $ 1,425 $ 1,271
+Service cost — — — — — —
+Interest cost 88 109 85 108 19 27
+Plan amendment 3 10 — — — —
+Settlements (7) (22) — — — —
+Actuarial loss (gain) 520 594 274 373 112 177
+Benefit payments (209) (168) (171) (166) (44) (42)
+Foreign currency impact 232 127 — — 113 (8)
+As of December 31 $ 5,406 $ 4,779 $ 3,380 $ 3,192 $ 1,625 $ 1,425
+Accumulated benefit obligation at end of year $ 5,406 $ 4,779 $ 3,380 $ 3,192 $ 1,592 $ 1,391
+Change in fair value of plan assets
+At January 1 $ 5,959 $ 5,225 $ 2,066 $ 1,796 $ 1,303 $ 1,155
+Actual return on plan assets 618 687 289 398 109 182
+Employer contributions 8 78 92 38 20 19
+Settlements (7) (22) — — — —
+Benefit payments (209) (168) (171) (166) (44) (42)
+Foreign currency impact 283 159 — — 109 (11)
+As of December 31 $ 6,652 $ 5,959 $ 2,276 $ 2,066 $ 1,497 $ 1,303
+Market related value at end of year $ 6,652 $ 5,959 $ 2,076 $ 1,969 $ 1,497 $ 1,303
+Amount recognized in Statement of Financial Position as of December 31
+Funded status $ 1,246 $ 1,180 $ (1,104) $ (1,126) $ (128) $ (122)
+Unrecognized prior-service cost 43 40 — 1 (7) (6)
+Unrecognized loss 1,286 1,204 1,812 1,762 521 460
+Net amount recognized $ 2,575 $ 2,424 $ 708 $ 637 $ 386 $ 332
+
+The following table provides an overview of the accumulated projected benefit obligation, fair value of plan assets, funded status and net amount recognized as of December 31, 2020 and 2019 for the Company’s other significant postretirement benefit plans located in the U.S. and Canada (in millions):
+
+ 2020 2019
+---------------------------------------- ----- ---- - ----
+Accumulated projected benefit obligation $ 117 $ 103
+Fair value of plan assets 17 16
+Funded status (100) (87)
+Unrecognized prior-service credit (1) (1)
+Unrecognized loss 13 3
+Net amount recognized $ (88) $ (85)
+
+Amounts Recognized in the Consolidated Statements of Financial Position
+
+Amounts recognized in the Consolidated Statements of Financial Position consist of (in millions):
+
+ U.K. U.S. Other
+------------------------------------------- ----- ----- ------- ------- ----- ----- - --- - --- - ---
+ 2020 2019 2020 2019 2020 2019
+Prepaid benefit cost (1) $ 1,268 $ 1,200 $ — $ — $ — $ —
+Accrued benefit liability - current (2) (1) (1) (52) (50) (5) (5)
+Accrued benefit liability - non-current (3) (21) (19) (1,052) (1,076) (123) (117)
+Accumulated other comprehensive loss 1,329 1,244 1,812 1,763 514 454
+Net amount recognized $ 2,575 $ 2,424 $ 708 $ 637 $ 386 $ 332
+
+(1)Included in Prepaid pension
+(2)Included in Other current liabilities (3)Included in Pension, other postretirement, and postemployment liabilities
+
+Amounts Recognized in Accumulated Other Comprehensive Loss that have not yet been Recognized as Components of net Periodic Benefit Cost
+
+Amounts recognized in Accumulated other comprehensive loss (income) that have not yet been recognized as components of net periodic benefit cost at December 31, 2020 and 2019 consist of (in millions):
+
+ U.K. U.S. Other
+--------------------------- ---- ----- ----- ----- ---- ----- - ----- - --- - ---
+ 2020 2019 2020 2019 2020 2019
+Net loss $ 1,286 $ 1,204 $ 1,812 $ 1,762 $ 521 $ 460
+Prior service cost (income) 43 40 — 1 (7) (6)
+Total $ 1,329 $ 1,244 $ 1,812 $ 1,763 $ 514 $ 454
+
+Components of Net Periodic Benefit Cost for the Pension Plans
+
+Service cost is reported in Compensation and benefits and all other components are reported in Other income (expense) as follows (in millions):
+
+ U.K. U.S. Other
+-------------------------------------------------------------- ----- ----- ----- ----- ----- ----- ---- ---- ---- -- - -- - --- - --- - ---
+ 2020 2019 2018 2020 2019 2018 2020 2019 2018
+Service cost $ — $ — $ — $ — $ — $ — $ — $ — $ —
+Interest cost 88 109 109 85 108 99 19 27 27
+Expected return on plan assets, net of administration expenses (159) (191) (192) (134) (136) (144) (34) (40) (45)
+Amortization of prior-service cost 2 1 1 1 2 2 — — —
+Amortization of net actuarial loss 30 29 28 68 53 59 12 12 12
+Net periodic benefit (income) cost (39) (52) (54) 20 27 16 (3) (1) (6)
+Settlement expense 2 5 37 — — — — — —
+Total net periodic benefit cost (income) $ (37) $ (47) $ (17) $ 20 $ 27 $ 16 $ (3) $ (1) $ (6)
+
+Weighted-Average Assumptions Used to Determine Future Benefit Obligations and Net Periodic Benefit Cost
+
+The weighted-average assumptions used to determine benefit obligations are as follows:
+
+ U.K. U.S. (1) Other
+----------------------------- ------------ ------------ ------------ ------------ ------------ ------------
+ 2020 2019 2020 2019 2020 2019
+Discount rate 1.45% 2.09% 1.74 - 2.45% 2.72 - 3.17% 0.38 - 2.47% 0.91 - 3.10%
+Rate of compensation increase 3.22 - 3.72% 3.24 - 3.74% N/A N/A 1.00 - 3.00% 1.00 - 3.00%
+Underlying price inflation 2.12% 1.78% N/A N/A 2.00% 2.00%
+
+(1)U.S. pension plans are frozen and therefore not impacted by compensation increases or price inflation.
+The weighted-average assumptions used to determine the net periodic benefit cost are as follows:
+
+ U.K. U.S. Other
+-------------------------------------------------------------- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------
+ 2020 2019 2018 2020 2019 2018 2020 2019 2018
+Discount rate 1.89% 2.95% 2.63% 2.36 - 2.76% 3.92 - 4.26% 3.27 - 3.61% 0.74 - 2.90% 1.89 - 3.88% 1.78 - 3.39%
+Expected return on plan assets, net of administration expenses 2.74% 3.64% 3.34% 3.30 - 7.04% 7.05% 7.71% 2.10 - 3.10% 2.50 - 4.10% 1.70 - 4.85%
+Rate of compensation increase 3.24 - 3.74% 3.73 - 4.23% 3.70 - 4.20% N/A N/A N/A 1.00 - 3.00% 1.00 - 3.00% 1.00 - 3.00%
+
+Fair Values of Pension Plan Assets
+
+The fair values of the Company’s U.S. pension plan assets at December 31, 2020 and December 31, 2019, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - --- - -
+Asset Category Balance at December 31, 2020 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 79 $ 79 $ — $ —
+Equity investments:
+Equity securities 207 207 — —
+Equity derivatives 62 — 62 —
+Pooled funds (2) 640 90 — —
+Fixed income investments:
+Corporate bonds 167 — 167 —
+Government and agency bonds 233 200 33 —
+Pooled funds (2) 543 212 — —
+Other investments:
+Real estate (2) (3) 163 — — —
+Alternative investments (2) (4) 182 — — —
+Total $ 2,276 $ 788 $ 262 $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of property funds and trusts holding direct real estate investments.
+(4)Consists of limited partnerships, private equity, and hedge funds.
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - --- - -
+Asset Category Balance at December 31, 2019 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 77 $ 77 $ — $ —
+Equity investments:
+Equity securities 195 195 — —
+Equity derivatives 22 — 22 —
+Pooled funds (2) 583 — — —
+Fixed income investments:
+Corporate bonds 128 — 128 —
+Government and agency bonds 199 162 37 —
+Asset-backed securities 3 — 3 —
+Pooled funds (2) 545 — — —
+Other investments:
+Real estate and REITs (3) 133 — — —
+Alternative investments (2) (4) 181 — — —
+Total $ 2,066 $ 434 $ 190 $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of property funds and trusts holding direct real estate investments.
+(4)Consists of limited partnerships, private equity, and hedge funds.
+The fair values of the Company’s major U.K. pension plan assets at December 31, 2020 and December 31, 2019, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+----------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - ------- - -----
+ Balance at December 31, 2020 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 182 $ 182 $ — $ —
+Equity investments:
+Pooled funds (2) 4 — — —
+Fixed income investments:
+Derivatives (3) (1,424) — (1,424) —
+Corporate bonds 4 4
+Government and agency bonds 2,872 2,872 — —
+Annuities 2,625 — — 2,625
+Pooled funds (2) 875 — — —
+Other investments:
+Real estate (2) (4) 117 — — —
+Pooled funds (2) (5) 1,397 4 — —
+Total $ 6,652 $ 3,062 $ (1,424) $ 2,625
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of equity securities and equity derivatives, including repurchase agreements.
+(4)Consists of property funds and trusts holding direct real estate investments.
+(5)Consists of multi-strategy limited partnerships, private equity, hedge funds, and collective investment schemes with a diversified portfolio of cash, equities, equity related securities, derivatives, and/or fixed income securities.
+
+ Fair Value Measurements Using
+----------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - ------- - -----
+ Balance at December 31, 2019 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 81 $ 81 $ — $ —
+Equity investments:
+Pooled funds (2) 119 — — —
+Fixed income investments:
+Derivatives (3) (1,205) — (1,205) —
+Government and agency bonds 2,667 2,667 — —
+Annuities 1,849 — — 1,849
+Pooled funds (2) 1,486 — — —
+Other investments:
+Real estate (2) (4) 180 — — —
+Pooled funds (2) (5) 782 — — —
+Total $ 5,959 $ 2,748 $ (1,205) $ 1,849
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of equity securities and equity derivatives, including repurchase agreements.
+(4)Consists of property funds and trusts holding direct real estate investments.
+(5)Consists of multi-strategy limited partnerships, private equity, hedge funds, and collective investment schemes with a diversified portfolio of cash, equities, equity related securities, derivatives, and/or fixed income securities.
+The fair values of the Company’s other major pension plan assets at December 31, 2020 and December 31, 2019, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - - - -
+ Balance at December 31, 2020 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 37 $ 37 $ — $ —
+Equity investments:
+Equity securities 75 75 — —
+Pooled funds (2) 290 — — —
+Fixed income investments:
+Government and agency bonds 395 395 — —
+Pooled funds (2) 627 — — —
+Other investments:
+Alternative investments (2) (3) 63 — — —
+Real estate (2) (4) 10 — — —
+Total $ 1,497 $ 507 $ — $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of limited partnerships, private equity, and hedge funds.
+(4)Consists of property funds and trusts holding direct real estate investments.
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - - - -
+ Balance at December 31, 2019 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 5 $ 5 $ — $ —
+Equity investments:
+Pooled funds (2) 323 — — —
+Fixed income investments:
+Pooled funds (2) 907 — — —
+Other investments:
+Alternative investments (2) (3) 62 — — —
+Real estate (2) (4) 6 — — —
+Total $ 1,303 $ 5 $ — $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of limited partnerships, private equity, and hedge funds.
+(4)Consists of property funds and trusts holding direct real estate investments.
+
+Changes in the Level 3 Fair-Value Category
+
+The following table presents the changes in the Level 3 fair-value category in the Company’s U.K. pension plans for the years ended December 31, 2020 and December 31, 2019 (in millions):
+
+Fair Value Measurements Using Level 3 Inputs Annuities
+-------------------------------------------------- --------- -----
+Balance at January 1, 2019 $ 1,688
+Actual return on plan assets:
+Relating to assets still held at December 31, 2019 113
+Foreign exchange 48
+Balance at December 31, 2019 1,849
+Actual return on plan assets:
+Relating to assets still held at December 31, 2020 13
+Purchases, sales and settlements-net 682
+Foreign exchange 81
+Balance at December 31, 2020 $ 2,625
+
+Estimated Future Benefit Payments
+
+Estimated future benefit payments for plans, not including voluntary one-time lump sum payments, are as follows at December 31, 2020 (in millions):
+
+U.K. U.S. Other
+----------- ---- ----- - --- - ---
+ 2021 $ 161 $ 192 $ 48
+ 2022 $ 167 $ 193 $ 49
+ 2023 $ 174 $ 190 $ 50
+ 2024 $ 180 $ 192 $ 51
+ 2025 $ 185 $ 183 $ 52
+2026 – 2030 $ 1,007 $ 893 $ 274
+
+Other Information Related to the Company's Other Post-Retirement Benefit Plans
+
+Other information related to the Company’s other postretirement benefit plans are as follows:
+
+ 2020 2019 2018
+--------------------------------------------------------------------------- ------------ ------------ ------------
+Net periodic benefit cost recognized (millions) $4 $3 $3
+Weighted-average discount rate used to determine future benefit obligations 2.10 - 2.58% 2.93 - 3.25% 3.91 - 4.26%
+Weighted-average discount rate used to determine net periodic benefit costs 2.93 - 3.25% 3.91 - 4.26% 3.32 - 3.64%
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------
+- DefinitionDisclosure of the net periodic benefit cost recognized, weighted-average discount rate used to determine future benefit obligations and weighted-average discount rate used to determine net periodic benefit costs for the other post-retirement benefits plan. + ReferencesNo definition available. + Details Name: aon_ScheduleOfOtherPostretirementBenefitsOtherInformationTableTextBlock
+Namespace Prefix: aon_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------
+- DefinitionTabular disclosure of the change in the benefit obligation, fair value of plan assets, and funded status of pension plans or other employee benefit plans. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (a)(b)(c) -URI http://asc.fasb.org/extlink&oid=118255775&loc=d3e1928-114920 + Details Name: us-gaap_ChangesInProjectedBenefitObligationsFairValueOfPlanAssetsAndFundedStatusOfPlanTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- ---------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_CompensationAndRetirementDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+-------------------------------------------------------
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[refer to Note 12]:
+Note 12. Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other Contractual Commitments We also have $7.50 billion of non-cancelable contractual commitments as of December 31, 2020, which are mostly related to our investments in network infrastructure, consumer hardware, content costs and data center operations. The majority of these commitments are due within five years. Legal and Related Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as 103  the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the N...
+
+[Refer to Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Following the move of our Advertising Cloud offerings from our Digital Experience segment into the Publishing segment, our business is organized into three reportable segments: Digital Media, Digital Experience, and Publishing and Advertising. These segments provide our senior management with a comprehensive financial view of our key businesses. Our segments are aligned around our two strategic growth opportunities as described in the "Business Overview" within Part I, Item 1, placing our Publishing and Advertising business in a third segment that contains some of our legacy products and solutions. We categorize our products into the following reportable segments: *Digital Media--Our Digital Media segment provides tools and solutions that enable individuals, teams and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include content creators, experience designers, app developers, enthusiasts, students, social media users and creative professionals, as well as marketing departments and agencies, companies and publishers. Our customers also include knowledge workers who create, collaborate on and distribute documents and creative content. *Digital Experience--Our Digital Experience segment provides products, services and solutions for creating, managing, executing, measuring, monetizing and optimizing customer experiences from analyt...
+
+[Refer to Note 11]:
+Note 11. Stockholders' Equity Convertible Preferred Stock Our Board of Directors has authorized 100 million shares of convertible preferred stock, $0.001 par value, issuable in series. As of December 31, 2019 and 2020, no shares were issued or outstanding. Class A and Class B Common Stock and Class C Capital Stock Our Board of Directors has authorized three classes of stock, Class A and Class B common stock, and Class C capital stock. The rights of the holders of each class of our common and capital stock are identical, except with respect to voting. Each share of Class A common stock is entitled to one vote per share. Each share of Class B common stock is entitled to 10 votes per share. Class C capital stock has no voting rights, except as required by applicable law. Shares of Class B common stock may be converted at any time at the option of the stockholder and automatically convert upon sale or transfer to Class A common stock. Share Repurchases In July 2020, the Board of Directors of Alphabet authorized the company to repurchase up to an additional $28.0 billion of its Class C capital stock. The repurchases are being executed from time to time, subject to general business and market conditions and other investment opportunities, through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase program does not have an expiration date. During the years ended December 31, 2019 and 2020, we repurchased and subsequently retired 15.3 million and 21.5 million shares of Alphabet Class C capital stock for an aggregate amount of $18.4 billion and $31.1 billion, respectively.
+
+[Refer to Note 14]:
+Note 14 - Arrangements with Off-Balance Sheet Risk 103
+
+[' Equity (Tables) 12 Months Ended
+----------------------------------------- --------------- ------ - ------
+Dec. 31, 2020
+Equity [Abstract]
+Schedule of Repurchase Agreements
+Twelve months ended December 31
+ 2020 2019
+Shares repurchased 8.5 10.5
+Average price per share $ 206.28 $ 186.33
+Costs recorded to retained earnings
+Total repurchase cost $ 1,761 $ 1,950
+Additional associated costs 2 10
+Total costs recorded to retained earnings $ 1,763 $ 1,960
+
+Schedule of Components of Weighted Average Number of Shares Outstanding
+
+Weighted average ordinary shares outstanding are as follows (in millions):
+
+Years ended December 31 2020 2019 2018
+---------------------------------------------------- ----- ----- -----
+Basic weighted average ordinary shares outstanding 231.9 238.6 245.2
+Dilutive effect of potentially issuable shares 1.2 2.0 1.8
+Diluted weighted average ordinary shares outstanding 233.1 240.6 247.0
+
+Components of Accumulated Other Comprehensive Loss, Net of Related Tax
+
+Changes in Accumulated other comprehensive loss by component, net of related tax, are as follows (in millions):
+
+ Change in Fair Value of Financial Instruments (1) Foreign Currency Translation Adjustments Postretirement Benefit Obligation (2) Total
+-------------------------------------------------------------------------------- ------------------------------------------------- ---------------------------------------- ------------------------------------- ------- - ------- ------- -------
+Balance at December 31, 2017 $ (25) $ (879) $ (2,592) (3,496)
+Adoption of new accounting guidance (1) — — (1)
+Balance at January 1, 2018 (26) (879) (2,592) (3,497)
+Other comprehensive income (loss) before reclassifications
+Other comprehensive income (loss) before reclassifications (15) (437) (124) (576)
+Tax benefit (expense) 18 (3) 28 43
+Other comprehensive income (loss) before reclassifications, net 3 (440) (96) (533)
+Amounts reclassified from accumulated other comprehensive income (loss)
+Amounts reclassified from accumulated other comprehensive income (loss) 11 — 146 157
+Tax benefit (expense) (3) — (33) (36)
+Amounts reclassified from accumulated other comprehensive income (loss), net (3) 8 — 113 121
+Net current period other comprehensive income (loss) 11 (440) 17 (412)
+Balance at December 31, 2018 (15) (1,319) (2,575) (3,909)
+Other comprehensive income (loss) before reclassifications
+Other comprehensive income (loss) before reclassifications (10) 15 (287) (282)
+Tax benefit (expense) 1 (1) 58 58
+Other comprehensive income (loss) before reclassifications, net (9) 14 (229) (224)
+Amounts reclassified from accumulated other comprehensive income (loss)
+Amounts reclassified from accumulated other comprehensive income (loss) 14 — 109 123
+Tax benefit (expense) (2) — (21) (23)
+Amounts reclassified from accumulated other comprehensive income (loss), net (3) 12 — 88 100
+Net current period other comprehensive income (loss) 3 14 (141) (124)
+Balance at December 31, 2019 (12) (1,305) (2,716) (4,033)
+Other comprehensive income (loss) before reclassifications
+Other comprehensive income (loss) before reclassifications 1 258 (255) 4
+Tax benefit (expense) — 2 60 62
+Other comprehensive income (loss) before reclassifications, net 1 260 (195) 66
+Amounts reclassified from accumulated other comprehensive income (loss)
+Amounts reclassified from accumulated other comprehensive income (loss) 15 — 125 140
+Tax benefit (expense) (3) — (31) (34)
+Amounts reclassified from accumulated other comprehensive income (loss), net (3) 12 — 94 106
+Net current period other comprehensive income (loss) 13 260 (101) 172
+Balance at December 31, 2020 $ 1 $ (1,045) $ (2,817) $ (3,861)
+
+(1)Reclassifications from this category included in Accumulated other comprehensive loss are recorded in Total revenue, Interest expense, and Compensation and benefits in the Consolidated Statements of Income. Refer to Note 14 “Derivatives and Hedging” for further information regarding the Company’s derivative and hedging activity.
+(2)Reclassifications from this category included in Accumulated other comprehensive loss are recorded in Other income (expense) in the Consolidated Statements of Income.
+(3)It is the Company’s policy to release income tax effects from Accumulated other comprehensive loss using the portfolio approach.
+
+X
+---------------------------------------------------- ----------------------
+- ReferencesNo definition available. + Details Name: us-gaap_EquityAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------
+- DefinitionTabular disclosure of the components of accumulated other comprehensive income (loss). + ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 830 -SubTopic 30 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6450520&loc=d3e32583-110901Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 220 -SubTopic 10 -Section 45 -Paragraph 14A -URI http://asc.fasb.org/extlink&oid=121641772&loc=SL7669686-108580Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 830 -SubTopic 30 -Section 45 -Paragraph 20 -URI http://asc.fasb.org/extlink&oid=118261656&loc=d3e32211-110900 + Details Name: us-gaap_ScheduleOfAccumulatedOtherComprehensiveIncomeLossTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------
+- DefinitionThe entire disclosure for repurchase agreements. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.4-08.(m)(1)) -URI http://asc.fasb.org/extlink&oid=120395691&loc=d3e23780-122690 + Details Name: us-gaap_ScheduleOfRepurchaseAgreements
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------
+- DefinitionTabular disclosure of the weighted average number of shares used in calculating basic net earnings per share (or unit) and diluted earnings per share (or unit). + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 260 -SubTopic 10 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6371337&loc=d3e3550-109257 + Details Name: us-gaap_ScheduleOfWeightedAverageNumberOfSharesTableTextBlock
+Namespace Prefix: us-gaap_
+Data Type: nonnum:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+59
+R36.htm
+IDEA: XBRL DOCUMENT
+
+v3.20.4
+Employee Benefits (Tables) 12 Months Ended
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------- ---- ---- --- - ---
+Dec. 31, 2020
+Retirement Benefits [Abstract]
+Expense Recognized for Defined Contribution Savings Plans, Included in Compensation and Benefits and Discontinued Operations in the Consolidated Statements of Income
+Years ended December 31 2020 2019 2018
+U.S. $ 87 $ 98 $ 98
+U.K. 42 41 45
+Netherlands and Canada 26 25 25
+Total $ 155 $ 164 $ 168
+
+Changes in Projected Benefit Obligations Fair Value of Plan Assets, Funded Status and Amount Recognized
+
+The following tables provide a reconciliation of the changes in the projected benefit obligations and fair value of assets for the years ended December 31, 2020 and 2019, and a statement of the funded status as of December 31, 2020 and 2019, for Aon’s significant U.K., U.S., and other major pension plans, which are located in the Netherlands and Canada. These plans represent approximately 91% of the Company’s projected benefit obligations.
+
+ U.K. U.S. Other
+---------------------------------------------------------------------- ----- ----- ----- ----- ---- ------- - ------- - ----- - -----
+(millions) 2020 2019 2020 2019 2020 2019
+Change in projected benefit obligation
+At January 1 $ 4,779 $ 4,129 $ 3,192 $ 2,877 $ 1,425 $ 1,271
+Service cost — — — — — —
+Interest cost 88 109 85 108 19 27
+Plan amendment 3 10 — — — —
+Settlements (7) (22) — — — —
+Actuarial loss (gain) 520 594 274 373 112 177
+Benefit payments (209) (168) (171) (166) (44) (42)
+Foreign currency impact 232 127 — — 113 (8)
+As of December 31 $ 5,406 $ 4,779 $ 3,380 $ 3,192 $ 1,625 $ 1,425
+Accumulated benefit obligation at end of year $ 5,406 $ 4,779 $ 3,380 $ 3,192 $ 1,592 $ 1,391
+Change in fair value of plan assets
+At January 1 $ 5,959 $ 5,225 $ 2,066 $ 1,796 $ 1,303 $ 1,155
+Actual return on plan assets 618 687 289 398 109 182
+Employer contributions 8 78 92 38 20 19
+Settlements (7) (22) — — — —
+Benefit payments (209) (168) (171) (166) (44) (42)
+Foreign currency impact 283 159 — — 109 (11)
+As of December 31 $ 6,652 $ 5,959 $ 2,276 $ 2,066 $ 1,497 $ 1,303
+Market related value at end of year $ 6,652 $ 5,959 $ 2,076 $ 1,969 $ 1,497 $ 1,303
+Amount recognized in Statement of Financial Position as of December 31
+Funded status $ 1,246 $ 1,180 $ (1,104) $ (1,126) $ (128) $ (122)
+Unrecognized prior-service cost 43 40 — 1 (7) (6)
+Unrecognized loss 1,286 1,204 1,812 1,762 521 460
+Net amount recognized $ 2,575 $ 2,424 $ 708 $ 637 $ 386 $ 332
+
+The following table provides an overview of the accumulated projected benefit obligation, fair value of plan assets, funded status and net amount recognized as of December 31, 2020 and 2019 for the Company’s other significant postretirement benefit plans located in the U.S. and Canada (in millions):
+
+ 2020 2019
+---------------------------------------- ----- ---- - ----
+Accumulated projected benefit obligation $ 117 $ 103
+Fair value of plan assets 17 16
+Funded status (100) (87)
+Unrecognized prior-service credit (1) (1)
+Unrecognized loss 13 3
+Net amount recognized $ (88) $ (85)
+
+Amounts Recognized in the Consolidated Statements of Financial Position
+
+Amounts recognized in the Consolidated Statements of Financial Position consist of (in millions):
+
+ U.K. U.S. Other
+------------------------------------------- ----- ----- ------- ------- ----- ----- - --- - --- - ---
+ 2020 2019 2020 2019 2020 2019
+Prepaid benefit cost (1) $ 1,268 $ 1,200 $ — $ — $ — $ —
+Accrued benefit liability - current (2) (1) (1) (52) (50) (5) (5)
+Accrued benefit liability - non-current (3) (21) (19) (1,052) (1,076) (123) (117)
+Accumulated other comprehensive loss 1,329 1,244 1,812 1,763 514 454
+Net amount recognized $ 2,575 $ 2,424 $ 708 $ 637 $ 386 $ 332
+
+(1)Included in Prepaid pension
+(2)Included in Other current liabilities (3)Included in Pension, other postretirement, and postemployment liabilities
+
+Amounts Recognized in Accumulated Other Comprehensive Loss that have not yet been Recognized as Components of net Periodic Benefit Cost
+
+Amounts recognized in Accumulated other comprehensive loss (income) that have not yet been recognized as components of net periodic benefit cost at December 31, 2020 and 2019 consist of (in millions):
+
+ U.K. U.S. Other
+--------------------------- ---- ----- ----- ----- ---- ----- - ----- - --- - ---
+ 2020 2019 2020 2019 2020 2019
+Net loss $ 1,286 $ 1,204 $ 1,812 $ 1,762 $ 521 $ 460
+Prior service cost (income) 43 40 — 1 (7) (6)
+Total $ 1,329 $ 1,244 $ 1,812 $ 1,763 $ 514 $ 454
+
+Components of Net Periodic Benefit Cost for the Pension Plans
+
+Service cost is reported in Compensation and benefits and all other components are reported in Other income (expense) as follows (in millions):
+
+ U.K. U.S. Other
+-------------------------------------------------------------- ----- ----- ----- ----- ----- ----- ---- ---- ---- -- - -- - --- - --- - ---
+ 2020 2019 2018 2020 2019 2018 2020 2019 2018
+Service cost $ — $ — $ — $ — $ — $ — $ — $ — $ —
+Interest cost 88 109 109 85 108 99 19 27 27
+Expected return on plan assets, net of administration expenses (159) (191) (192) (134) (136) (144) (34) (40) (45)
+Amortization of prior-service cost 2 1 1 1 2 2 — — —
+Amortization of net actuarial loss 30 29 28 68 53 59 12 12 12
+Net periodic benefit (income) cost (39) (52) (54) 20 27 16 (3) (1) (6)
+Settlement expense 2 5 37 — — — — — —
+Total net periodic benefit cost (income) $ (37) $ (47) $ (17) $ 20 $ 27 $ 16 $ (3) $ (1) $ (6)
+
+Weighted-Average Assumptions Used to Determine Future Benefit Obligations and Net Periodic Benefit Cost
+
+The weighted-average assumptions used to determine benefit obligations are as follows:
+
+ U.K. U.S. (1) Other
+----------------------------- ------------ ------------ ------------ ------------ ------------ ------------
+ 2020 2019 2020 2019 2020 2019
+Discount rate 1.45% 2.09% 1.74 - 2.45% 2.72 - 3.17% 0.38 - 2.47% 0.91 - 3.10%
+Rate of compensation increase 3.22 - 3.72% 3.24 - 3.74% N/A N/A 1.00 - 3.00% 1.00 - 3.00%
+Underlying price inflation 2.12% 1.78% N/A N/A 2.00% 2.00%
+
+(1)U.S. pension plans are frozen and therefore not impacted by compensation increases or price inflation.
+The weighted-average assumptions used to determine the net periodic benefit cost are as follows:
+
+ U.K. U.S. Other
+-------------------------------------------------------------- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------
+ 2020 2019 2018 2020 2019 2018 2020 2019 2018
+Discount rate 1.89% 2.95% 2.63% 2.36 - 2.76% 3.92 - 4.26% 3.27 - 3.61% 0.74 - 2.90% 1.89 - 3.88% 1.78 - 3.39%
+Expected return on plan assets, net of administration expenses 2.74% 3.64% 3.34% 3.30 - 7.04% 7.05% 7.71% 2.10 - 3.10% 2.50 - 4.10% 1.70 - 4.85%
+Rate of compensation increase 3.24 - 3.74% 3.73 - 4.23% 3.70 - 4.20% N/A N/A N/A 1.00 - 3.00% 1.00 - 3.00% 1.00 - 3.00%
+
+Fair Values of Pension Plan Assets
+
+The fair values of the Company’s U.S. pension plan assets at December 31, 2020 and December 31, 2019, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - --- - -
+Asset Category Balance at December 31, 2020 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 79 $ 79 $ — $ —
+Equity investments:
+Equity securities 207 207 — —
+Equity derivatives 62 — 62 —
+Pooled funds (2) 640 90 — —
+Fixed income investments:
+Corporate bonds 167 — 167 —
+Government and agency bonds 233 200 33 —
+Pooled funds (2) 543 212 — —
+Other investments:
+Real estate (2) (3) 163 — — —
+Alternative investments (2) (4) 182 — — —
+Total $ 2,276 $ 788 $ 262 $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of property funds and trusts holding direct real estate investments.
+(4)Consists of limited partnerships, private equity, and hedge funds.
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - --- - -
+Asset Category Balance at December 31, 2019 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 77 $ 77 $ — $ —
+Equity investments:
+Equity securities 195 195 — —
+Equity derivatives 22 — 22 —
+Pooled funds (2) 583 — — —
+Fixed income investments:
+Corporate bonds 128 — 128 —
+Government and agency bonds 199 162 37 —
+Asset-backed securities 3 — 3 —
+Pooled funds (2) 545 — — —
+Other investments:
+Real estate and REITs (3) 133 — — —
+Alternative investments (2) (4) 181 — — —
+Total $ 2,066 $ 434 $ 190 $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of property funds and trusts holding direct real estate investments.
+(4)Consists of limited partnerships, private equity, and hedge funds.
+The fair values of the Company’s major U.K. pension plan assets at December 31, 2020 and December 31, 2019, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+----------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - ------- - -----
+ Balance at December 31, 2020 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 182 $ 182 $ — $ —
+Equity investments:
+Pooled funds (2) 4 — — —
+Fixed income investments:
+Derivatives (3) (1,424) — (1,424) —
+Corporate bonds 4 4
+Government and agency bonds 2,872 2,872 — —
+Annuities 2,625 — — 2,625
+Pooled funds (2) 875 — — —
+Other investments:
+Real estate (2) (4) 117 — — —
+Pooled funds (2) (5) 1,397 4 — —
+Total $ 6,652 $ 3,062 $ (1,424) $ 2,625
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of equity securities and equity derivatives, including repurchase agreements.
+(4)Consists of property funds and trusts holding direct real estate investments.
+(5)Consists of multi-strategy limited partnerships, private equity, hedge funds, and collective investment schemes with a diversified portfolio of cash, equities, equity related securities, derivatives, and/or fixed income securities.
+
+ Fair Value Measurements Using
+----------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - ------- - -----
+ Balance at December 31, 2019 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 81 $ 81 $ — $ —
+Equity investments:
+Pooled funds (2) 119 — — —
+Fixed income investments:
+Derivatives (3) (1,205) — (1,205) —
+Government and agency bonds 2,667 2,667 — —
+Annuities 1,849 — — 1,849
+Pooled funds (2) 1,486 — — —
+Other investments:
+Real estate (2) (4) 180 — — —
+Pooled funds (2) (5) 782 — — —
+Total $ 5,959 $ 2,748 $ (1,205) $ 1,849
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of equity securities and equity derivatives, including repurchase agreements.
+(4)Consists of property funds and trusts holding direct real estate investments.
+(5)Consists of multi-strategy limited partnerships, private equity, hedge funds, and collective investment schemes with a diversified portfolio of cash, equities, equity related securities, derivatives, and/or fixed income securities.
+The fair values of the Company’s other major pension plan assets at December 31, 2020 and December 31, 2019, by asset category, are as follows (in millions):
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - - - -
+ Balance at December 31, 2020 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 37 $ 37 $ — $ —
+Equity investments:
+Equity securities 75 75 — —
+Pooled funds (2) 290 — — —
+Fixed income investments:
+Government and agency bonds 395 395 — —
+Pooled funds (2) 627 — — —
+Other investments:
+Alternative investments (2) (3) 63 — — —
+Real estate (2) (4) 10 — — —
+Total $ 1,497 $ 507 $ — $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of limited partnerships, private equity, and hedge funds.
+(4)Consists of property funds and trusts holding direct real estate investments.
+
+ Fair Value Measurements Using
+------------------------------- ---------------------------- ------------------------------------------------------------- -------------------------------------------- ---------------------------------------- - - - -
+ Balance at December 31, 2019 Quoted Prices in Active Markets for Identical Assets(Level 1) Significant Other Observable Inputs(Level 2) Significant Unobservable Inputs(Level 3)
+Cash and cash equivalents (1) $ 5 $ 5 $ — $ —
+Equity investments:
+Pooled funds (2) 323 — — —
+Fixed income investments:
+Pooled funds (2) 907 — — —
+Other investments:
+Alternative investments (2) (3) 62 — — —
+Real estate (2) (4) 6 — — —
+Total $ 1,303 $ 5 $ — $ —
+
+(1)Consists of cash and institutional short-term investment funds.
+(2)Certain investments measured at fair value using the net asset value per share practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in the above table are intended to permit reconciliation of the fair values to the amounts presented in the plan assets contained in this Note.
+(3)Consists of limited partnerships, private equity, and hedge funds.
+(4)Consists of property funds and trusts holding direct real estate investments.
+
+Changes in the Level 3 Fair-Value Category
+
+The following table presents the changes in the Level 3 fair-value category in the Company’s U.K. pension plans for the years ended December 31, 2020 and December 31, 2019 (in millions):
+
+Fair Value Measurements Using Level 3 Inputs Annuities
+-------------------------------------------------- --------- -----
+Balance at January 1, 2019 $ 1,688
+Actual return on plan assets:
+Relating to assets still held at December 31, 2019 113
+Foreign exchange 48
+Balance at December 31, 2019 1,849
+Actual return on plan assets:
+Relating to assets still held at December 31, 2020 13
+Purchases, sales and settlements-net 682
+Foreign exchange 81
+Balance at December 31, 2020 $ 2,625
+
+Estimated Future Benefit Payments
+
+Estimated future benefit payments for plans, not including voluntary one-time lump sum payments, are as follows at December 31, 2020 (in millions):
+
+U.K. U.S. Other
+----------- ---- ----- - --- - ---
+ 2021 $ 161 $ 192 $ 48
+ 2022 $ 167 $ 193 $ 49
+ 2023 $ 174 $ 190 $ 50
+ 2024 $ 180 $ 192 $ 51
+ 2025 $ 185 $ 183 $ 52
+2026 – 2030 $ 1,007 $ 893 $ 274
+
+Other Information Related to the Company']:
+Note 12. Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other Contractual Commitments We also have $7.50 billion of non-cancelable contractual commitments as of December 31, 2020, which are mostly related to our investments in network infrastructure, consumer hardware, content costs and data center operations. The majority of these commitments are due within five years. Legal and Related Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as 103  the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the N...

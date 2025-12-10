@@ -1,0 +1,1748 @@
+================================================================================
+CIK: 0001413447
+Company Name: NXP Semiconductors N.V
+Filing Date: 2022-02-24
+Form Type: 10-K
+Extraction Date: 2025-09-02 05:08:26
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations as permitted by the new rules.
+
+In July 2021, the FASB issued ASU 2021-05, Leases (Topic 842) Lessors—Certain Leases with Variable Lease Payments. ASU 2021-05 continues to address any additional issues that may have arisen since the adoption of Topic 842 by public business entities. The amendments in this Update affect lessors with lease contracts that (1) have variable lease payments that do not depend on a reference index or a rate and (2) would have resulted in the recognition of a selling loss at lease commencement if classified as sales-type or direct financing. ASU 2021-05 became effective for us on December 15, 2021. We have assessed our current positions and the interrelation to the amendments and the adoption of this update did not have a material impact on the Company's consolidated financial statements and related disclosures.
+
+No other new accounting pronouncements were issued or became effective in the period that had, or are expected to have, a material impact on our Consolidated Financial Statements.
+
+X
+---------------------------------------------------- ----------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_AccountingPoliciesAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------
+- DefinitionThe entire disclosure for all significant accounting policies of the reporting entity. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=123372394&loc=d3e18726-107790Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -URI http://asc.fasb.org/topic&trid=2122369 + Details Name: us-gaap_SignificantAccountingPoliciesTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+38
+R12.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Acquisitions and Divestments 12 Months Ended
+----------------------------------------------------- ---------------
+Dec. 31, 2021
+Business Combination and Asset Acquisition [Abstract]
+Acquisitions and Divestments
+Tangible fixed assets 2
+Inventory 50
+Identified intangible assets 514
+Goodwill 1,138
+Deferred tax assets 1
+Net assets acquired 1,705
+
+Our valuation procedures related to the acquired assets and assumed liabilities was completed during the second quarter of 2020.
+
+Goodwill arising from the acquisition is attributed to the anticipated growth from new product sales, sales to new customers, the assembled workforce and synergies expected from the combination. Substantially all of the goodwill recognized is expected to be deductible for income tax purposes.
+
+The identified intangible assets assumed were recognized as follows:
+
+Fair Value Weighted Average Estimated Useful Life (in Years)
+----------------------------------------------------- ------------------------------------------------- ---
+Customer relationships (included in customer-related) 20 6
+Developed technology (included in technology-based) 324 4.4
+In-process research and development (1) 170 N/A
+Total identified intangible assets 514
+
+1)Acquired in-process research and development (“IPR&D”) is an intangible asset classified as an indefinite lived asset until the completion or abandonment of the associated research and development effort. IPR&D will be amortized over an estimated useful life to be determined at the date the associated research and development effort is completed, or expensed immediately when, and if, the project is abandoned. Acquired IPR&D is not amortized during the period that it is considered indefinite lived, but rather is subject to annual testing for impairment or when there are indicators for impairment.
+
+Variations of the income approach were applied to estimate the fair values of the intangible assets acquired. Developed technology and IPR&D were valued using the multi-period excess earnings method which reflects the present values of the projected cash flows that are expected to be generated by the existing technology and IPR&D less charges representing the contribution of other assets to those cash flows. Customer relationships were valued using the distributor method which uses market-based data to support the selection of profitability related to the customer relationship function.
+
+Acquisition-related transaction costs ($5 million) such as legal, accounting and other related expenses were recorded as a component of selling, general and administrative expense in our Consolidated Statement of Operations.
+Pro forma financial information (unaudited)
+
+The following unaudited pro forma financial information presents combined consolidated results of operations for each of the fiscal years presented, as if Marvell’s Wireless WiFi Connectivity Business Unit, Bluetooth technology portfolio and related assets had been acquired as of January 1, 2018:
+
+ 2019 2018
+---------------------------------------------------------------- ----- -----
+Revenue 9,169 9,715
+Net income (loss) attributable to stockholders 237 2,154
+Net income (loss) per common share attributable to stockholders:
+–Basic 0.84 6.61
+–Diluted 0.83 6.55
+
+The pro forma information include the effect of certain purchase accounting adjustments such as the estimate changes in amortization and depreciation for identified intangible assets and property, plant and equipment acquired and adjustments to share-based compensation expense. The pro forma results have been prepared for comparative purposes only and do not purport to be indicative of the revenue or operating results that would have been achieved had the acquisition actually taken place as of January 1, 2018 or of the results of future operations of the combined business. In addition, these results are not intended to be a projection of future results and do not reflect synergies that might be achieved from the combined operations. On March 27, 2019, we sold our remaining equity interest in WeEn, receiving net cash proceeds of $37 million.
+
+X
+---------------------------------------------------- ------------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_BusinessCombinationAndAssetAcquisitionAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------
+- DefinitionThe entire disclosure for business combinations, including leverage buyout transactions (as applicable), and divestitures. This may include a description of a business combination or divestiture (or series of individually immaterial business combinations or divestitures) completed during the period, including background, timing, and assets and liabilities recognized and reclassified or sold. This element does not include fixed asset sales and plant closings. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 205 -SubTopic 20 -URI http://asc.fasb.org/subtopic&trid=2122178Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 805 -URI http://asc.fasb.org/topic&trid=2303972 + Details Name: us-gaap_MergersAcquisitionsAndDispositionsDisclosuresTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+39
+R13.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Supplemental Financial Information 12 Months Ended
+------------------------------------------------------------------------------- --------------- ----- -----
+Dec. 31, 2021
+Organization, Consolidation and Presentation of Financial Statements [Abstract]
+Supplemental Financial Information
+ 2021 2020 2019
+Distributors 6,325 4,720 4,409
+Original Equipment Manufacturers and Electronic Manufacturing Services 4,587 3,728 4,352
+Other 151 164 116
+Total 11,063 8,612 8,877
+
+Depreciation, amortization and impairment
+Depreciation and amortization, including impairment charges, are as follows:
+
+ 2021 2020 2019
+------------------------------------------------------ ----- ----- -----
+Depreciation of property, plant and equipment 551 547 518
+Amortization of internal use software 7 6 8
+Amortization of other identified intangible assets (*) 704 1,435 1,521
+ 1,262 1,988 2,047
+
+(*)    For the period ending December 31, 2021, the amount includes an impairment charge as a result of the discontinuation of an IPR&D project for an amount of $36 million. For the period ending December 31, 2020, the amount includes an impairment relative to IPR&D acquired as part of the acquisition of Freescale for an amount of $36 million.
+
+Depreciation of property, plant and equipment is primarily included in cost of revenue.
+Other income (expense)
+Income derived from manufacturing service arrangements (“MSA”) and transitional service arrangements (“TSA”) that are put in place when we divest a business or activity, is included in other income (expense). These arrangements are expected to decrease as the divested business or activity becomes more established.
+
+The following table presents the split of other income (expense):
+
+ 2021 2020 2019
+------------------------------------ ---- ---- --
+Result from MSA and TSA arrangements (2) — —
+Other, net 2 114 25
+Total — 114 25
+
+Financial income (expense)
+
+ 2021 2020 2019
+------------------------------------------------------- ----- ----- -----
+Interest income 4 13 57
+Interest expense (369) (362) (370)
+Total interest expense, net (365) (349) (313)
+Net gain (loss) on extinguishment of debt (22) (60) (11)
+Foreign exchange rate results 5 (16) (15)
+Miscellaneous financing income (expense) and other, net (21) 8 (11)
+Total other financial income (expense) (38) (68) (37)
+Total (403) (417) (350)
+
+Balance Sheet Information
+
+Cash and cash equivalents
+At December 31, 2021 and December 31, 2020, our cash balance was $2,830 million and $2,275 million, respectively, of which $208 million and $185 million was held by SSMC, our consolidated joint venture company with TSMC. Under the terms of our joint venture agreement with TSMC, a portion of this cash can be distributed by way of a dividend to us, but 38.8% of the dividend will be paid to our joint venture partner. During 2021, no dividend (2020: $90 million dividend) was paid by SSMC.
+
+Equity Investments
+At December 31, 2021 and December 31, 2020, the total carrying value of investments in equity securities is summarized as follows:
+
+ 2021 2020
+-------------------------------- ---- --
+Marketable equity securities 18 19
+Non-marketable equity securities 19 40
+Equity-accounted investments 75 61
+ 112 120
+
+The total carrying value of investments in equity-accounted investees is summarized as follows:
+
+ 2021 2020
+------------------------------------------ ------ -------------- ------ ----- - --
+Shareholding % Amount Shareholding % Amount
+Wise Road Industry Investment Fund I, L.P. 8.41 % 31 10.17 % 29
+Others — 44 — 32
+ 75 61
+
+Results related to equity-accounted investees at the end of each period were as follows:
+
+ 2021 2020 2019
+-------------------------------- ---- ---- ---
+Company’s share in income (loss) (1) (4) (2)
+Other results (1) — 3
+ (2) (4) 1
+
+Other current liabilities
+Other current liabilities at December 31, 2021 and December 31, 2020 consisted of the following:
+
+ 2021 2020
+--------------------------------- ---- ---
+Accrued compensation and benefits 476 286
+Income taxes payable 82 140
+Dividend payable 149 105
+Other 468 435
+ 1,175 966
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ---------------------------------------------------------
+- DefinitionThe entire disclosures of supplemental information, including descriptions and amounts, related to the balance sheet, income statement, and/or cash flow statement. + ReferencesNo definition available. + Details Name: us-gaap_AdditionalFinancialInformationDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- -----------------------------------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_OrganizationConsolidationAndPresentationOfFinancialStatementsAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+XML
+40
+R14.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Restructuring Charges 12 Months Ended
+----------------------------------------------- --------------- -------- -------- --------------- ------------------------- --
+Dec. 31, 2020
+Restructuring and Related Activities [Abstract]
+Restructuring Charges
+Balance January 1, 2021 Additions Utilized Released Otherchanges(1) Balance December 31, 2021
+Restructuring liabilities 74 1 (37) — (1) 37
+
+(1)    Other changes primarily related to translation differences.
+
+The total restructuring liability as of December 31, 2021 of $37 million is classified in the Consolidated Balance Sheets under current liabilities ($25 million) and non-current liabilities ($12 million).
+
+The utilization of the restructuring liabilities mainly reflects the execution of ongoing restructuring programs the Company initiated in earlier years.
+
+The following table presents the changes in the position of restructuring liabilities in 2020:
+
+Balance January 1, 2020 Additions Utilized Released Otherchanges(1) Balance December 31, 2020
+------------------------- --------- -------- -------- --------------- ------------------------- --
+Restructuring liabilities 32 77 (36) — 1 74
+
+(1)    Other changes primarily related to translation differences.
+
+The total restructuring liability as of December 31, 2020 of $74 million is classified in the Consolidated Balance Sheets under current liabilities ($60 million) and non-current liabilities ($14 million).
+The utilization of the restructuring liabilities mainly reflects the execution of ongoing restructuring programs the Company initiated in earlier years.
+
+The components of restructuring charges recorded in 2021, 2020 and 2019 are as follows:
+
+ 2021 2020 2019
+------------------------------ ---- ---- ---
+Personnel lay-off costs 1 78 32
+Other exit costs — — —
+Release of provisions/accruals — — (4)
+Net restructuring charges 1 78 28
+
+The restructuring charges recorded in operating income are included in the following line items in the statement of operations:
+
+ 2021 2020 2019
+----------------------------------- ---- ---- --
+Cost of revenue — 15 3
+Research & development 1 39 16
+Selling, general and administrative — 24 9
+Other (income) expense — — —
+Net restructuring charges 1 78 28
+
+X
+---------------------------------------------------- -------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_RestructuringAndRelatedActivitiesAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
+- DefinitionThe entire disclosure for restructuring and related activities. Description of restructuring activities such as exit and disposal activities, include facts and circumstances leading to the plan, the expected plan completion date, the major types of costs associated with the plan activities, total expected costs, the accrual balance at the end of the period, and the periods over which the remaining accrual will be settled. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 420 -SubTopic 10 -Section S99 -Paragraph 2 -Subparagraph (SAB Topic 5.P.4(e)) -URI http://asc.fasb.org/extlink&oid=115931487&loc=d3e140904-122747Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 420 -SubTopic 10 -Section 50 -Paragraph 1 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=6394359&loc=d3e17939-110869Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 420 -URI http://asc.fasb.org/topic&trid=2175745Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 420 -SubTopic 10 -Section 50 -Paragraph 1 -Subparagraph (e) -URI http://asc.fasb.org/extlink&oid=6394359&loc=d3e17939-110869Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 420 -SubTopic 10 -Section 50 -Paragraph 1 -Subparagraph (b)(2) -URI http://asc.fasb.org/extlink&oid=6394359&loc=d3e17939-110869 + Details Name: us-gaap_RestructuringAndRelatedActivitiesDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+41
+R15.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Income Taxes 12 Months Ended
+-------------------------------- --------------- ----- -----
+Dec. 31, 2021
+Income Tax Disclosure [Abstract]
+Income Taxes
+ 2021 2020 2019
+Netherlands 942 447 429
+Foreign 1,238 (446) (138)
+ 2,180 1 291
+
+The components of income tax benefit (expense) are as follows:
+
+ 2021 2020 2019
+---------------------------------- ----- ----- -----
+Current taxes:
+Netherlands (106) (147) (90)
+Foreign (186) (119) (105)
+ (292) (266) (195)
+Deferred taxes:
+Netherlands 10 58 (28)
+Foreign 10 291 203
+ 20 349 175
+Total income tax benefit (expense) (272) 83 (20)
+
+A reconciliation of the statutory income tax rate in the Netherlands as a percentage of income (loss) before income taxes and the effective income tax rate is as follows:
+
+ 2021 2020 2019
+--------------------------------------------------------------------------------------------- ----- ------ ----- ---------- ----- ------
+amount % amount % amount %
+Statutory income tax rate in the Netherlands 545 25.0 — 25.0 73 25.0
+Rate differential between the local statutory rates and the statutory rate of the Netherlands (42) (1.9) 22 2,175.0 16 5.5
+Net change in valuation allowance (20) (0.9) 35 3,500.0 59 20.2
+Non-deductible expenses/losses 53 2.5 61 6,100.0 52 17.8
+Netherlands tax incentives (69) (3.2) (48) (4,800.0) (68) (23.2)
+Foreign tax incentives (163) (7.5) (117) (11,700.0) (118) (40.5)
+Changes in estimates of prior years' income taxes (21) (1.0) (13) (1,300.0) (3) (1.2)
+Sale of non-deductible goodwill — — 10 1,000.0 — —
+Withholding taxes (8) (0.4) (31) (3,100.0) 5 1.8
+Other differences (3) (0.1) (2) (200.0) 4 1.5
+Effective tax rate 272 12.5 (83) (8,300.0) 20 6.9
+
+.
+
+We recorded an income tax expense of $272 million in 2021, which reflects an effective tax rate of 12.5% compared to a benefit of $83 million and an effective rate of (8300.0)% in 2020.The effective tax rate reflects the impact of tax incentives, a portion of our earnings being taxed in foreign jurisdictions at rates different than the Netherlands statutory tax rate, changes in estimates of prior years' income taxes, change in valuation allowance and non-deductible expenses, sale of non-deductible goodwill and withholding taxes. The impact of these items results in offsetting factors that attribute to the change in the effective tax rate between the two periods, with the significant drivers outlined below:
+
+•The Company benefits from certain tax incentives, which reduce the effective tax rate. The dollar amount of the incentive in any given year is commensurate with the taxable income in that same period. For 2021, the foreign tax and Netherlands tax incentives were higher than 2020 by $67 million, mainly due to the fact that NXP increased its investment expenditures and benefited from higher qualifying income.
+•The increase in the valuation allowance is mostly due to new Dutch corporate income tax law applicable as from 2019. A portion of the interest expenses is non-deductible in the year it is recorded but can be carried forward without expiration. The release of the valuation allowance in 2021 is due to higher qualifying income compared to 2020 and 2019.
+•The withholding tax benefit in 2021 is mainly due to changes in considering more undistributed earnings as indefinitely reinvested resulting in a tax benefit of $17 million.The difference of $36 million in the withholding tax benefit in 2020 as compared with the tax expense in 2019 is mainly due to changes in the applicable deferred tax liability rate regarding future remittances of the earnings of foreign subsidiaries and due to changes in considering more undistributed earnings as indefinitely reinvested.
+•The tax effect of the non-deductible goodwill of $10 million is linked to the divestiture of the VAS business in 2020.
+
+The Company benefits from income tax holidays in certain jurisdictions which provide that we pay reduced income taxes in those jurisdictions for a fixed period of time that varies depending on the jurisdiction. The predominant income tax holiday is expected to expire at the end of 2026. The impact of this tax holiday decreased foreign income taxes by $14 million in 2021 (2020: $11 million; 2019: $12 million). The benefit of this tax holiday on net income per share (diluted) was $0.05 in 2021 (2020: $0.04; 2019: $0.04).
+Deferred tax assets and liabilities
+The principal components of deferred tax assets and liabilities are presented below:
+
+ 2021 2020
+----------------------------------------------------- ----- -----
+Operating loss and tax credit carry forwards 317 480
+Disallowed interest and tax incentive carry forwards 19 69
+Other accrued liabilities 147 107
+Pensions 104 121
+Other non-current liabilities 60 58
+Share-based compensation 9 13
+Restructuring liabilities 6 15
+Receivables 89 55
+Inventories 5 8
+Total Deferred Tax Assets 756 926
+Valuation allowance (161) (227)
+Total Deferred Tax Assets, net of valuation allowance 595 699
+Identified intangible assets, net (20) (116)
+Undistributed earnings of foreign subsidiaries (38) (54)
+Property, plant and equipment, net (7) (15)
+Goodwill (83) (66)
+Other current and non-current assets (63) (56)
+Total Deferred Tax Liabilities (211) (307)
+Net Deferred Tax Position 384 392
+
+The classification of the deferred tax assets and liabilities in the Company’s Consolidated Balance Sheets is as follows:
+
+ 2021 2020
+------------------------------------------------------- ---- ----
+Deferred tax assets within other non-current assets 441 477
+Deferred tax liabilities within non-current liabilities (57) (85)
+ 384 392
+
+The Company has significant deferred tax assets resulting from net operating loss carryforwards, tax credit carryforwards and deductible temporary differences that may reduce taxable income or income taxes payable in future periods. Valuation allowances have been established for deferred tax assets based on a “more likely than not” threshold. The realization of our deferred tax assets depends on our ability to generate sufficient taxable income within the carryback or carryforward periods provided for in the tax law for each applicable tax jurisdiction. The valuation allowance decreased by $66 million during 2021 (2020: $37 million increase). Besides the net change in the valuation allowance of $20 million this mainly includes a decrease of the valuation allowance due to liquidating a dormant legal entity for $17 million and for the remainder due to a change in estimates of prior years' income taxes.
+
+We consider all available evidence in forming a judgment regarding the valuation allowance as of December 31, 2021, including events that occur subsequent to year end but prior to the issuance of the financial statements. The deferred tax assets are recognized to the extent that we consider it more likely than not that these assets will be realized. In making such a determination, we consider all available positive and negative evidence, including reversal of existing temporary differences, projected future taxable income and tax planning strategies.
+At December 31, 2021 tax loss carryforwards of $537 million (inclusive of $139 million of U.S. state tax losses) will expire as follows:
+
+Balance Scheduled expiration
+---------------------- -------------------- ---- ---- ---- ---- --------- ----- --------- ---
+December 31,
+ 2021 2022 2023 2024 2025 2026 2027-2031 later unlimited
+Tax loss carryforwards 537 13 2 3 10 13 91 45 360
+
+This overview is excluding carried forward tax incentives of $78 million which have an unlimited expiration date.
+
+The Company also has tax credit carryforwards of $363 million (excluding the effect of unrecognized tax benefits), which are available to offset future tax, if any, and which will expire as follows:
+
+Balance Scheduled expiration
+------------------------ -------------------- ---- ---- ---- ---- --------- ----- --------- --
+December 31,
+ 2021 2022 2023 2024 2025 2026 2027-2031 later unlimited
+Tax credit carryforwards 363 10 11 11 19 22 49 188 53
+
+The net income tax payable (excluding the liability for unrecognized tax benefits) as of December 31, 2021 amounted to $55 million (2020: net income tax payable of $117 million) and includes amounts directly receivable from or payable to tax authorities.
+
+The Company does not indefinitely reinvest the majority of the undistributed earnings of its subsidiaries. Consequently, the Company has recognized a deferred tax liability of $38 million at December 31, 2021 (2020: $54 million) for the additional income taxes and withholding taxes payable upon the future remittances of these earnings of foreign subsidiaries. The Company considers $345 million of the undistributed earnings indefinitely reinvested although the timing of the reversal can be controlled. Upon repatriation of those earnings the Company would be subject to tax of $35 million, which is not recognized as deferred tax liability at December 31, 2021.
+
+A reconciliation of the beginning and ending amount of unrecognized tax benefits excluding interest and penalties is as follows:
+
+ 2021 2020 2019
+---------------------------------------------------------- ---- ---- ---
+Balance as of January 1, 161 159 165
+Translation differences (1) — (1)
+Lapse of statute of limitations (1) (4) (3)
+Increases from tax positions taken during prior periods 7 5 4
+Decreases from tax positions taken during prior periods (1) — (4)
+Increases from tax positions taken during current period 11 7 7
+Decreases relating to settlements with the tax authorities — (6) (9)
+Balance as of December 31, 176 161 159
+
+Of the total unrecognized tax benefits at December 31, 2021, $152 million, if recognized, would impact the effective tax rate. All other unrecognized tax benefits, if recognized, would not affect the effective tax rate as these would be offset by compensating adjustments in the Company’s deferred tax assets that would be subject to valuation allowance based on conditions existing at the reporting date.
+
+The Company classifies interest related to an underpayment of income taxes as financial expense and penalties as income tax expense. The total related interest and penalties recorded during the year 2021 amounted to a $5 million expense (2020: $4 million expense; 2019: $3 million benefit). As of December 31, 2021 the Company has recognized a liability for related interest and penalties of $18 million (2020: $13 million; 2019: $11 million). It is reasonably possible that the total amount of unrecognized tax benefits may significantly increase/decrease within the next 12 months of the reporting date due to, for example, completion of tax examinations. It is estimated that this reasonably possible change will not be significant.The Company files income tax returns in the Netherlands, the U.S.A. and in various other foreign jurisdictions. Tax filings of our subsidiaries are routinely audited in the normal course of business by tax authorities around the world. Tax years that remain subject to examination by major tax jurisdictions: the Netherlands (2018-2020), Germany (2017-2020), USA (2005-2020), China (2011-2020), Taiwan (2016-2020), Thailand (2016-2020), Malaysia (2014-2020) and India (2004, 2005, 2007-2020).
+
+X
+---------------------------------------------------- -----------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_IncomeTaxDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------
+- DefinitionThe entire disclosure for income taxes. Disclosures may include net deferred tax liability or asset recognized in an enterprise's statement of financial position, net change during the year in the total valuation allowance, approximate tax effect of each type of temporary difference and carryforward that gives rise to a significant portion of deferred tax liabilities and deferred tax assets, utilization of a tax carryback, and tax uncertainties information. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 21 -URI http://asc.fasb.org/extlink&oid=121826272&loc=d3e32857-109319Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section S99 -Paragraph 2 -Subparagraph (SAB Topic 11.C) -URI http://asc.fasb.org/extlink&oid=122134291&loc=d3e330215-122817Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 17 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=121826272&loc=d3e32809-109319Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SAB TOPIC 6.I.5.Q1) -URI http://asc.fasb.org/extlink&oid=122134291&loc=d3e330036-122817Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 14 -URI http://asc.fasb.org/extlink&oid=121826272&loc=d3e32705-109319Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 270 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6424409&loc=d3e44925-109338Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -URI http://asc.fasb.org/topic&trid=2144680Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 30 -Section 50 -Paragraph 2 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=6424122&loc=d3e41874-109331Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.4-08(h)(2)) -URI http://asc.fasb.org/extlink&oid=120395691&loc=d3e23780-122690 + Details Name: us-gaap_IncomeTaxDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+42
+R16.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Accounts Receivable, net 12 Months Ended
+-------------------------------------- --------------- ---
+Dec. 31, 2021
+Receivables [Abstract]
+Accounts Receivable, net
+ 2021 2020
+Accounts receivable from third parties 925 767
+Allowance for credit loss (2) (2)
+ 923 765
+
+The following table presents accounts receivable, net disaggregated by sales channel:
+
+ 2021 2020
+---------------------------------------------------------------------- ---- ---
+Distributors 171 186
+Original Equipment Manufacturers and Electronic Manufacturing Services 722 533
+Other 30 46
+ 923 765
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------
+- DefinitionThe entire disclosure for claims held for amounts due a entity, excluding financing receivables. Examples include, but are not limited to, trade accounts receivables, notes receivables, loans receivables. Includes disclosure for allowance for credit losses. + ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 310 -SubTopic 10 -URI http://asc.fasb.org/subtopic&trid=2196772 + Details Name: us-gaap_LoansNotesTradeAndOtherReceivablesDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- ---------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_ReceivablesAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+XML
+43
+R17.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Inventories, net 12 Months Ended
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------- ---
+Dec. 31, 2021
+Inventory Disclosure [Abstract]
+Inventories, net
+ 2021 2020 1)
+Raw materials 107 66
+Work in process 846 738
+Finished goods 236 226
+ 1,189 1,030
+1) Certain prior period amounts have been reclassified, correcting for the current year presentation of the allowance for obsolescence between finished goods and work in process categories, with no impact on total net inventories.
+
+The portion of finished goods stored at customer locations under consignment amounted to $12 million as of December 31, 2021 (2020: $31 million).
+
+The amounts recorded above are net of an allowance for obsolescence of $120 million as of December 31, 2021 (2020: $122 million).
+
+X
+---------------------------------------------------- -----------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_InventoryDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
+- DefinitionThe entire disclosure for inventory. Includes, but is not limited to, the basis of stating inventory, the method of determining inventory cost, the classes of inventory, and the nature of the cost elements included in inventory. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 330 -URI http://asc.fasb.org/topic&trid=2126998 + Details Name: us-gaap_InventoryDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+44
+R18.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Property, Plant and Equipment, net 12 Months Ended
+-------------------------------------------------------------- --------------- ------- -----
+Dec. 31, 2021
+Property, Plant and Equipment [Abstract]
+Property, Plant and Equipment, net
+Useful Life(in years) 2021 2020
+Land 164 165
+Buildings 9 to 50 1,465 1,425
+Machinery and installations 2 to 10 4,457 3,970
+Other Equipment 1 to 5 802 751
+Prepayments and construction in progress 423 210
+ 7,311 6,521
+Less accumulated depreciation (4,676) (4,237)
+Property, plant and equipment, net of accumulated depreciation 2,635 2,284
+
+X
+---------------------------------------------------- -----------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_PropertyPlantAndEquipmentAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------
+- DefinitionThe entire disclosure for long-lived, physical asset used in normal conduct of business and not intended for resale. Includes, but is not limited to, work of art, historical treasure, and similar asset classified as collections. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 958 -SubTopic 360 -Section 50 -Paragraph 6 -URI http://asc.fasb.org/extlink&oid=120429125&loc=d3e99893-112916Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 360 -URI http://asc.fasb.org/topic&trid=2155823Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 958 -SubTopic 360 -Section 50 -Paragraph 7 -URI http://asc.fasb.org/extlink&oid=120429125&loc=SL120174063-112916Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 958 -SubTopic 360 -Section 50 -Paragraph 1 -Subparagraph (d) -URI http://asc.fasb.org/extlink&oid=120429125&loc=d3e99779-112916 + Details Name: us-gaap_PropertyPlantAndEquipmentDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+45
+R19.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Identified Intangible Assets 12 Months Ended
+---------------------------------------------------- ---------------
+Dec. 31, 2021
+Goodwill and Intangible Assets Disclosure [Abstract]
+Identified Intangible Assets
+Total
+Balance as of January 1, 2020
+Cost 9,384
+Accumulated amortization/impairment (5,764)
+Book value 3,620
+Changes in book value:
+Acquisitions/additions 63
+Transfer to assets held for sale —
+Amortization (1,398)
+Impairment (43)
+Total changes (1,378)
+Balance as of December 31, 2020
+Cost 9,249
+Accumulated amortization/impairment (7,007)
+Book value 2,242
+Changes in book value:
+Acquisitions/additions 163
+Transfer to assets held for sale —
+Amortization (674)
+Impairment (37)
+Translation differences —
+Total changes (548)
+Balance as of December 31, 2021
+Cost 4,715
+Accumulated amortization/impairment (3,021)
+Book value 1,694
+
+Identified intangible assets as of December 31, 2021 and 2020 respectively were composed of the following:
+
+December 31, 2021 December 31, 2020
+---------------------------- ----------------------- --------------------- ----------------------- -------
+Gross carrying amount Accumulatedamortization Gross carrying amount Accumulatedamortization
+IPR&D(1) 96 — 147 —
+Marketing-related 81 (81) 81 (81)
+Customer-related 852 (325) 957 (381)
+Technology-based 3,686 (2,615) 8,064 (6,545)
+Identified intangible assets 4,715 (3,021) 9,249 (7,007)
+
+(1)  IPR&D is not subject to amortization until completion or abandonment of the associated research and development effort.
+The estimated amortization expense for these identified intangible assets for each of the five succeeding years is:
+
+ 2022 614
+---------- ---
+ 2023 383
+ 2024 197
+ 2025 101
+ 2026 68
+Thereafter 331
+
+All intangible assets, excluding IPR&D and goodwill, are subject to amortization and have no assumed residual value.
+
+The expected weighted average remaining life of identified intangibles is 4 years as of December 31, 2021.
+
+X
+---------------------------------------------------- -----------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------
+- DefinitionThe entire disclosure for all or part of the information related to intangible assets. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -URI http://asc.fasb.org/topic&trid=2144416 + Details Name: us-gaap_IntangibleAssetsDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+46
+R20.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Goodwill 12 Months Ended
+---------------------------------------------------- --------------- ------
+Dec. 31, 2021
+Goodwill and Intangible Assets Disclosure [Abstract]
+Goodwill
+ 2021 2020
+Balances as of January 1
+Cost 10,098 10,063
+Accumulated impairment (114) (114)
+Book value 9,984 9,949
+Changes in book value:
+Acquisitions 6 3
+Transfer to assets held for sale — —
+Translation differences (29) 32
+Total changes (23) 35
+Balances as of December 31
+Cost - Balance 10,075 10,098
+Accumulated impairment - Balance (114) (114)
+Book value - Balance 9,961 9,984
+
+No goodwill impairment charges were required to be recognized in 2021 or 2020.
+
+The fair value of the reporting unit substantially exceeds the carrying value of the reporting unit.
+See Note 3, “Acquisitions and Divestments”.
+
+X
+---------------------------------------------------- -----------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------
+- DefinitionThe entire disclosure for goodwill. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 20 -URI http://asc.fasb.org/subtopic&trid=2144439 + Details Name: us-gaap_GoodwillDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+47
+R21.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Postretirement Benefit Plans 12 Months Ended
+-------------------------------------------------------------------------------------------------------------------------------- --------------- ----- -----
+Dec. 31, 2021
+Retirement Benefits [Abstract]
+Postretirement Benefit Plans
+PME multi-employer plan 2021 2020 2019
+NXP’s contributions to the plan 37 33 31
+(including employees’ contributions) 5 4 4
+Average number of NXP’s active employees participating in the plan 2,075 2,048 2,129
+NXP’s contribution to the plan exceeded more than 5 percent of the total contribution (as of December 31 of the plan’s year end) No No No
+
+The amount for pension costs included in the statement of operations for the year 2021 was $112 million (2020: $103 million; 2019: $98 million) of which $52 million (2020: $47 million; 2019: $47 million) represents defined-contribution plans and $32 million (2020: $29 million; 2019: $27 million) represents the PME multi-employer plans.
+
+Defined-benefit plans
+The benefits provided by defined-benefit plans are based on employees’ years of service and compensation levels. Contributions are made by the Company, as necessary, to provide assets sufficient to meet the benefits payable to defined-benefit pension plan participants.
+
+These contributions are determined based upon various factors, including funded status, legal and tax considerations as well as local customs. The Company funds certain defined-benefit pension plans as claims are incurred.
+
+The total ongoing cost of defined-benefit plans amounted to $28 million in 2021 (2020: a cost of $27 million; 2019: a cost of $24 million).
+The table below provides a summary of the changes in the pension benefit obligations and defined-benefit pension plan assets for 2021 and 2020, associated with the Company’s dedicated plans, and a reconciliation of the funded status of these plans to the amounts recognized in the Consolidated Balance Sheets.
+
+ 2021 2020
+------------------------------------------------------------------------------------- ----- -----
+Projected benefit obligation
+Projected benefit obligation at beginning of year 790 665
+Service cost 17 17
+Interest cost 6 7
+Actuarial (gains) and losses (3) 65
+Curtailments and settlements — —
+Benefits paid (22) (22)
+Exchange rate differences (58) 58
+Projected benefit obligation at end of year 730 790
+Plan assets
+Fair value of plan assets at beginning of year 224 203
+Actual return on plan assets 19 5
+Employer contributions 18 22
+Curtailments and settlements — —
+Benefits paid (21) (22)
+Exchange rate differences (18) 16
+Fair value of plan assets at end of year 222 224
+Funded status (508) (566)
+Classification of the funded status is as follows
+– Accrued pension cost within other non-current liabilities (497) (554)
+– Accrued pension cost within accrued liabilities (11) (12)
+Total (508) (566)
+Accumulated benefit obligation
+Accumulated benefit obligation for all Company-dedicated benefit pension plans 705 755
+Plans with assets less than accumulated benefit obligation (including unfunded plans)
+– Fair value of plan assets 217 220
+– Accumulated benefit obligations 699 750
+Amounts recognized in accumulated other comprehensive income (before tax)
+Total AOCI at beginning of year 214 140
+– Net actuarial loss (gain) (24) 58
+– Exchange rate differences (15) 16
+Total AOCI at end of year 175 214
+
+The net amount of projected benefit obligation and plan assets for all underfunded (including unfunded) pension plans was $508 million and $566 million at December 31, 2021 and 2020, respectively, and was classified as liabilities in the Consolidated Balance Sheets.
+
+For the year ended December 31, 2021, actuarial losses were primarily related to increases in discount rates of approximately 40 basis points on a weighted basis and updates to mortality table benchmarks in various countries. For the year ended December 31, 2020, actuarial losses were primarily related to decreases in discount rates of approximately 40 basis points on a weighted basis and updates to mortality table benchmarks in various countries.
+The weighted average assumptions used to calculate the projected benefit obligations were as follows:
+
+ 2021 2020
+----------------------------- ---- - --- -
+Discount rate 1.2 % 0.8 %
+Rate of compensation increase 2.2 % 1.6 %
+
+The weighted average assumptions used to calculate the net periodic pension cost were as follows:
+
+ 2021 2020 2019
+------------------------------- ---- ---- --- - --- -
+Discount rate 0.8 % 1.2 % 2.0 %
+Expected returns on plan assets 2.6 % 2.6 % 2.7 %
+Rate of compensation increase 1.6 % 1.5 % 1.8 %
+
+For the Company’s major plans, the discount rate used is based on high quality corporate bonds (iBoxx Corporate Euro AA 10+).
+
+Plans in certain Asian countries without a deep corporate bond market use a discount rate based on the local sovereign rate and the plans' maturities (Bloomberg Government Bond Yields).
+
+Expected returns per asset class are based on the assumption that asset valuations tend to return to their respective long-term equilibria. The Expected Return on Assets for any funded plan equals the average of the expected returns per asset class weighted by their portfolio weights in accordance with the fund’s strategic asset allocation.
+
+The components of net periodic pension costs were as follows:
+
+ 2021 2020 2019
+------------------------------------------------- ---- ---- ---
+Service cost 18 17 14
+Interest cost on the projected benefit obligation 6 7 12
+Expected return on plan assets (6) (5) (6)
+Amortization of net (gain) loss 10 8 4
+Curtailments & settlements — — —
+Net periodic cost 28 27 24
+
+The components of net periodic pension cost other than the service cost component are included in Other financial income (expense) in the Consolidated Statements of Operations.
+
+Plan assets
+The actual pension plan asset allocation at December 31, 2021 and 2020 is as follows:
+
+ 2021 2020
+------------------- ---- --- -- -
+Asset category:
+Equity securities 34 % 34 %
+Debt securities 35 % 39 %
+Insurance contracts 7 % 7 %
+Other 24 % 20 %
+ 100 % 100 %
+
+We met our target plan asset allocation. The investment objectives for the pension plan assets are designed to generate returns that, along with the future contributions, will enable the pension plans to meet their future obligations. The investments in our major defined benefit plans largely consist of government bonds, “Level 2” Corporate Bonds and cash to mitigate the risk of interest fluctuations. The asset mix of equity, bonds, cash and other categories is evaluated by an asset-liability modeling study for our largest plan. The assets of funded plans in other countries mostly have a large proportion of fixed income securities with return characteristics that are
+aligned with changes in the liabilities caused by discount rate volatility. Total pension plan assets of $222 million include $193 million related to the German and Japanese pension funds.
+
+The following table summarizes the classification of these assets.
+
+ 2021 2020
+------------------- -------- --------- ------- -------- --------- --
+Level I Level II Level III Level I Level II Level III
+Equity securities — 71 — — 71 —
+Debt securities 6 53 — 8 62 —
+Insurance contracts — 15 — — 15 —
+Other 1 24 22 — 21 18
+ 7 163 22 8 169 18
+
+The Company currently expects to make $12 million of employer contributions to defined-benefit pension plans and $10 million of expected cash payments in relation to unfunded pension plans in 2022.
+
+Estimated future pension benefit payments
+The following benefit payments are expected to be made (including those for funded plans):
+
+ 2022 22
+--------------- ---
+ 2023 23
+ 2024 25
+ 2025 25
+ 2026 28
+Years 2027-2031 162
+
+Postretirement health care benefits
+In addition to providing pension benefits, NXP provides retiree healthcare benefits in the US which are accounted for as defined-benefit plans.
+
+The accumulated postretirement benefit obligation at the end of 2021 equals $4 million (2020: $6 million).
+
+X
+---------------------------------------------------- ---------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_CompensationAndRetirementDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------
+- DefinitionThe entire disclosure for retirement benefits. + ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 55 -Paragraph 17 -URI http://asc.fasb.org/extlink&oid=123450688&loc=d3e4179-114921Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section S99 -Paragraph 2 -URI http://asc.fasb.org/extlink&oid=21916913&loc=d3e273930-122802Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (d)(i) -URI http://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (o) -URI http://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (p) -URI http://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 70 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=49170846&loc=d3e28014-114942Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -URI http://asc.fasb.org/topic&trid=2235017Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 60 -Section 50 -Paragraph 3 -Subparagraph (c) -URI http://asc.fasb.org/extlink&oid=6414203&loc=d3e39689-114964Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (d)(iv)(03) -URI http://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (q) -URI http://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 11: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (r)(1) -URI http://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 12: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (d)(iii) -URI http://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 13: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (l) -URI http://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920Reference 14: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 715 -SubTopic 20 -Section 50 -Paragraph 1 -Subparagraph (r)(2) -URI http://asc.fasb.org/extlink&oid=123447040&loc=d3e1928-114920 + Details Name: us-gaap_PensionAndOtherPostretirementBenefitsDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+48
+R22.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Debt 12 Months Ended
+----------------------------------------------------------------------------------------------------- --------------- ------------- ------ ------------- -----
+Dec. 31, 2021
+Debt Disclosure [Abstract]
+Debt
+ 2021 2020
+Maturities Amount Interest rate Amount Interest rate
+Fixed-rate 3.875% senior unsecured notes Sep, 2022 — 3.875 1,000 3.875
+Fixed-rate 4.625% senior unsecured notes Jun, 2023 900 4.625 900 4.625
+Fixed-rate 4.875% senior unsecured notes Mar, 2024 1,000 4.875 1,000 4.875
+Fixed-rate 2.7% senior unsecured notes May, 2025 500 2.700 500 2.700
+Fixed-rate 5.35% senior unsecured notes Mar, 2026 500 5.350 500 5.350
+Fixed-rate 3.875% senior unsecured notes Jun, 2026 750 3.875 750 3.875
+Fixed-rate 3.15% senior unsecured notes May, 2027 500 3.150 500 3.150
+Fixed-rate 5.55% senior unsecured notes Dec, 2028 500 5.550 500 5.550
+Fixed-rate 4.3% senior unsecured notes Jun, 2029 1,000 4.300 1,000 4.300
+Fixed-rate 3.4% senior unsecured notes May, 2030 1,000 3.400 1,000 3.400
+Fixed-rate 2.5% senior unsecured notes May, 2031 1,000 2.500 — —
+Fixed-rate 2.65% senior unsecured notes Feb, 2032 1,000 2.650 — —
+Fixed-rate 3.25% senior unsecured notes May, 2041 1,000 3.250 — —
+Fixed-rate 3.125% senior unsecured notes Feb, 2042 500 3.125 — —
+Fixed-rate 3.25% senior unsecured notes Nov, 2051 500 3.250 — —
+Floating-rate revolving credit facility (RCF) Jun, 2024 — — — —
+Total principal 10,650 7,650
+Unamortized discounts, premiums and debt issuance costs (78) (41)
+Total debt, including unamortized discounts, premiums, debt issuance costs and fair value adjustments 10,572 7,609
+Current portion of long-term debt — —
+Long-term debt 10,572 7,609
+
+Range of interest rates Average rate of interest Principal amount outstanding 2021 Due in 2022 Due after 2022 Due after 2026 Average remaining term (in years) Principal amountoutstanding2020
+----------------------------- ------------------------ --------------------------------- ----------- -------------- -------------- --------------------------------- ------------------------------- ---- ----- -
+USD notes 2.5%-5.6% 3.7 % 10,650 — 10,650 7,000 9.05 7,650
+Revolving Credit Facility (1) — % — % — — — — — —
+Bank borrowings — % — % — — — — — —
+ 10,650 — 10,650 7,000 9.05 7,650
+
+(1)We do not have any borrowings under the $1,500 million Revolving Credit Facility as of December 31, 2021 and 2020.
+As of December 31, 2021, the following principal amounts of long-term debt are due in the next 5 years:
+
+ 2022 —
+----------------- -----
+ 2023 900
+ 2024 1,000
+ 2025 500
+ 2026 1,250
+Due after 5 years 7,000
+ 10,650
+
+As of December 31, 2021, the book value of our outstanding long-term debt was $10,650 million, less debt issuance costs of $47 million and original issuance/debt discount of $31 million.
+
+As of December 31, 2021, we had no aggregate principal amount of variable interest rate indebtedness under our loan agreements. The remaining tenor of unsecured debt is on average 9.1 years.
+
+Accrued interest as of December 31, 2021 is $57 million (December 31, 2020: $57 million).
+
+2021 Financing Activities
+
+2032, 2042 and 2051 Senior Unsecured Notes
+On November 30, 2021, NXP B.V., together with NXP USA Inc. and NXP Funding LLC, issued $1 billion of 2.65% Senior Unsecured Notes due 2032, $500 million of 3.125% Senior Unsecured Notes due 2042 and $500 million of 3.25% Senior Unsecured Notes due 2051. The Company used a portion of the net proceeds of the offering of these notes to redeem the $1 billion aggregate principal amount of outstanding 3.875% Senior Notes due 2022. The remaining net proceeds will be used for general corporate purposes, which may include capital expenditures or equity buyback transactions.
+
+2031 and 2041 Senior Unsecured Notes
+On May 11, 2021, NXP B.V., together with NXP USA Inc. and NXP Funding LLC, issued $1 billion of 2.5% Senior Unsecured Notes due 2031 and $1 billion of 3.25% Senior Unsecured Notes due 2041. The net proceeds of the 2.5% Senior Notes due 2031 ("2031 Notes") are being used to finance certain eligible green projects. Pending the allocation of an amount equal to the net proceeds of the 2031 Notes to finance these eligible green projects, the remaining net proceeds of the 2031 Notes, together with the net proceeds of the 3.25% Senior Notes due 2041, are temporarily being held as cash and other short-term securities or are being used for general corporate purposes, including capital expenditures, short-term debt repayment or equity buyback transactions.
+
+Certain terms and Covenants of the notes
+
+The Company is not required to make mandatory redemption payments or sinking fund payments with respect to the notes.
+The indentures governing the notes contain covenants that, among other things, limit the Company’s ability and that of restricted subsidiaries to incur additional indebtedness, create liens, pay dividends, redeem capital stock or make certain other restricted payments or investments; enter into agreements that restrict dividends from restricted subsidiaries; sell assets, including capital stock of restricted subsidiaries; engage in transactions with affiliates; and effect a consolidation or merger. The Company has been in compliance with any such indentures and financing covenants.
+No portion of long-term and short-term debt as of December 31, 2021 and December 31, 2020 has been secured by collateral on substantially all of the Company’s assets and of certain of its subsidiaries.
+We are in compliance with all covenants under our debt agreements as of December 31, 2021.
+2019 Cash Convertible Senior Notes
+
+In November 2014, NXP issued $1,150 million principal amount of its 2019 Cash Convertible Senior Notes (the “Notes”). The Cash Convertible Notes matured on December 1, 2019. All of the holders elected to convert their Cash Convertible Notes for settlement on December 2, 2019, and none of the Cash Convertible Notes were repurchased or converted into cash prior to such date.
+
+On December 2, 2019, we repaid the $1,150 million aggregate principal amount of the Cash Convertible Notes using available cash. In separate transactions, NXP also sold warrants to various parties for the purchase of up to 11.18 million shares of NXP’s common stock at an initial strike price of $133.32 per share in a private placement pursuant to Section 4(2) of the Securities Act of 1933, as amended, or the Securities Act. The warrants expired on various dates ranging from March 2, 2020 to May 26, 2020. During the full period the NXP share price was below the conversion price of the warrants, and as such, none of the warrants have been converted. The Warrants are included in diluted earnings per share to the extent the impact is dilutive. As of December 31, 2020, the Warrants were not dilutive.
+
+X
+---------------------------------------------------- ------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_DebtDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------
+- DefinitionThe entire disclosure for information about short-term and long-term debt arrangements, which includes amounts of borrowings under each line of credit, note payable, commercial paper issue, bonds indenture, debenture issue, own-share lending arrangements and any other contractual agreement to repay funds, and about the underlying arrangements, rationale for a classification as long-term, including repayment terms, interest rates, collateral provided, restrictions on use of assets and activities, whether or not in compliance with debt covenants, and other matters important to users of the financial statements, such as the effects of refinancing and noncompliance with debt covenants. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -URI http://asc.fasb.org/topic&trid=2208564Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1B -Subparagraph (h) -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495323-112611Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1C -Subparagraph (c) -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495334-112611Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1I -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495371-112611Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1I -Subparagraph (d) -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495371-112611Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.4-08(c)) -URI http://asc.fasb.org/extlink&oid=120395691&loc=d3e23780-122690Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1B -Subparagraph (g) -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495323-112611Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1C -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495334-112611Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1C -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495334-112611Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1E -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495348-112611Reference 11: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1B -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495323-112611Reference 12: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1I -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495371-112611Reference 13: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 470 -SubTopic 20 -Section 50 -Paragraph 1B -Subparagraph (i) -URI http://asc.fasb.org/extlink&oid=123466505&loc=SL123495323-112611 + Details Name: us-gaap_DebtDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+49
+R23.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Leases 12 Months Ended
+--------------------------------------------------------------------------------------- --------------- ------- ------- - - -
+Dec. 31, 2021
+Leases [Abstract]
+Leases operating
+ 2021 2020 2019
+Operating lease cost 66 65 59
+Other information related to operating leases was as follows:
+Supplemental cash flows information:
+Operating cash flows from operating leases 64 63 53
+Right-of-use assets obtained in exchange for lease obligations 1) 67 50 279
+1) $188 million recorded on January 1, 2019 in accordance with the adoption of ASC 842.
+Weighted average remaining lease term 6 years 6 years 6 years
+Weighted average discount rate 2 % 3 % 3 %
+
+Future minimum lease payments for operating leases as of December 31, 2021 were as follows:
+
+As of
+----------------------------------- ----
+December 31, 2021
+ 2022 60
+ 2023 53
+ 2024 40
+ 2025 30
+ 2026 28
+Thereafter 45
+Total future minimum lease payments 256
+Less: imputed interest (19)
+Total 237
+
+Rent expense amounted to $10 million in 2021 compared to $9 million in 2020 and $12 million in 2019 (containing services related to leased assets as well as short-term leases).
+
+Lease liabilities related to operating leases are split between current and non-current:
+
+As of December 31,
+----------------------------- ---- ---
+ 2021 2020
+Other current liabilities 56 60
+Other non-current liabilities 181 177
+Total 237 237
+
+Operating lease right-of-use assets are $226 million as of December 31, 2021 (December 31, 2020: $223 million) and are included in other non-current assets in the consolidated balance sheet.
+
+Leases finance
+Leases
+Operating and finance lease assets relate to buildings (corporate offices, research and development and manufacturing facilities and datacenters), land, machinery and installations and other equipment (vehicles and certain office equipment). These leases, except for land leases, have remaining lease terms of 1 to 30 years (land leases 48 to 90 years), some of which may include options to extend the leases for up to 5 years, and some of which may include options to terminate the leases within 1 year. As of December 31, 2021, assets recorded under finance leases amounted to $82 million and accumulated depreciation associated with finance leases was $15 million (2020: $82 million and $12 million, respectively). Finance lease liabilities amounted to $23 million as of December 31, 2021 (December 31, 2020: $24 million).
+
+The components of operating lease expense were as follows
+
+ 2021 2020 2019
+--------------------------------------------------------------------------------------- ------- ------- ------- - - -
+Operating lease cost 66 65 59
+Other information related to operating leases was as follows:
+Supplemental cash flows information:
+Operating cash flows from operating leases 64 63 53
+Right-of-use assets obtained in exchange for lease obligations 1) 67 50 279
+1) $188 million recorded on January 1, 2019 in accordance with the adoption of ASC 842.
+Weighted average remaining lease term 6 years 6 years 6 years
+Weighted average discount rate 2 % 3 % 3 %
+
+Future minimum lease payments for operating leases as of December 31, 2021 were as follows:
+
+As of
+----------------------------------- ----
+December 31, 2021
+ 2022 60
+ 2023 53
+ 2024 40
+ 2025 30
+ 2026 28
+Thereafter 45
+Total future minimum lease payments 256
+Less: imputed interest (19)
+Total 237
+
+Rent expense amounted to $10 million in 2021 compared to $9 million in 2020 and $12 million in 2019 (containing services related to leased assets as well as short-term leases).
+
+Lease liabilities related to operating leases are split between current and non-current:
+
+As of December 31,
+----------------------------- ---- ---
+ 2021 2020
+Other current liabilities 56 60
+Other non-current liabilities 181 177
+Total 237 237
+
+Operating lease right-of-use assets are $226 million as of December 31, 2021 (December 31, 2020: $223 million) and are included in other non-current assets in the consolidated balance sheet.
+
+X
+---------------------------------------------------- ----------------------
+- ReferencesNo definition available. + Details Name: us-gaap_LeasesAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
+- DefinitionThe entire disclosure for finance leases of lessee. Includes, but is not limited to, description of lessee's finance lease and maturity analysis of finance lease liability. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 842 -SubTopic 20 -URI http://asc.fasb.org/subtopic&trid=77888251 + Details Name: us-gaap_LesseeFinanceLeasesTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------
+- DefinitionThe entire disclosure for operating leases of lessee. Includes, but is not limited to, description of operating lease and maturity analysis of operating lease liability. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 842 -SubTopic 20 -URI http://asc.fasb.org/subtopic&trid=77888251 + Details Name: us-gaap_LesseeOperatingLeasesTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+50
+R24.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Commitments and Contingencies 12 Months Ended
+--------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dec. 31, 2021
+Commitments and Contingencies Disclosure [Abstract]
+Commitments and Contingencies Commitments and ContingenciesPurchase Commitments The Company maintains purchase commitments with certain suppliers, primarily for raw materials, semi-finished goods and manufacturing services and for some non-production items. Purchase commitments for inventory materials are generally restricted to a forecasted time-horizon as mutually agreed upon between the parties. This forecasted time-horizon can vary for different suppliers. As of December 31, 2021, the Company had purchase commitments of $4,354 million, which are due through 2044. Our long-term obligations increased substantially in 2021 as we locked in long-term supply with our key manufacturing partners. Litigation We are regularly involved as plaintiffs or defendants in claims and litigation relating to a variety of matters such as contractual disputes, personal injury claims, employee grievances and intellectual property litigation. In addition, our acquisitions, divestments and financial transactions sometimes result in, or are followed by, claims or litigation. Some of these claims may possibly be recovered from insurance reimbursements. Although the ultimate disposition of asserted claims cannot be predicted with certainty, it is our belief that the outcome of any such claims, either individually or on a combined basis, will not have a material adverse effect on our consolidated financial position. However, such outcomes may be material to our consolidated statement of operations for a particular period. The Company records an accrual for any claim that arises whenever it considers that it is probable that it is exposed to a loss contingency and the amount of the loss contingency can be reasonably estimated. Legal fees are expensed when incurred. Based on the most current information available to it and based on its best estimate, the Company also reevaluates at least on a quarterly basis the claims that have arisen to determine whether any new accruals need to be made or whether any accruals made need to be adjusted. Based on the procedures described above, the Company has an aggregate amount of $65 million accrued for potential and current legal proceedings pending as of December 31, 2021, compared to $17 million accrued at December 31, 2020 (without reduction for any related insurance reimbursements). The accruals are included in “Other current liabilities” and “Other non-current liabilities”. As of December 31, 2021, the Company’s balance related to insurance reimbursements was $46 million (December 31, 2020: $8 million) and is included in “Other non-current assets”. The Company also estimates the aggregate range of reasonably possible losses in excess of the amount accrued based on currently available information for those cases for which such estimate can be made. The estimated aggregate range requires significant judgment, given the varying stages of the proceedings, the existence of multiple defendants (including the Company) in such claims whose share of liability has yet to be determined, the numerous yet-unresolved issues in many of the claims, and the attendant uncertainty of the various potential outcomes of such claims. Accordingly, the Company’s estimate will change from time to time, and actual losses may be more than the current estimate. As at December 31, 2021, the Company believes that for all litigation pending its potential aggregate exposure to loss in excess of the amount accrued (without reduction for any amounts that may possibly be recovered under insurance programs) could range between $0 million and $63 million. Based upon our past experience with these matters, the Company would expect to receive additional insurance reimbursement of up to $48 million on certain of these claims that would partially offset the potential aggregate exposure to loss in excess of the amount accrued. In addition, the Company is currently assisting Motorola in the defense of personal injury lawsuits due to indemnity obligations included in the agreement that separated Freescale from Motorola in 2004. The multi-plaintiff Motorola lawsuits are pending in the Circuit Court of Cook County, Illinois. These claims allege a link between working in semiconductor manufacturing clean room facilities and birth defects in 18 individuals. The Motorola suits allege exposures between 1981 and 2006. Each claim seeks an unspecified amount of damages for the alleged injuries; however, legal counsel representing the plaintiffs have indicated they will seek substantial compensatory and punitive damages from Motorola for the entire inventory of claims which, if proven and recovered, the Company considers to be material. A portion of any indemnity due to Motorola will be reimbursed to NXP if Motorola receives an indemnification payment from its insurance coverage. Motorola has potential insurance coverage for many of the years indicated above, but with differing types and levels of coverage, self-insurance retention amounts and deductibles. We are in discussions with Motorola and their insurers regarding the availability of applicable insurance coverage for each of the individual cases. Motorola and NXP have denied liability for these alleged injuries based on numerous defenses. Loss recoveryIn February 2021, NXP’s two wafer manufacturing facilities in Austin, Texas were negatively impacted by unusually severe winter weather conditions that corresponded with a widespread disruption of gas, electricity, and water. The Company has insurance coverage for the repair or replacement of assets that suffered damage or loss and business interruption coverage, including lost profits, and the reimbursement of other expenses and costs that have been incurred relating to the damages and losses suffered.For the year ended December 31, 2021, the Company recognized $177 million in insurance proceeds directly offsetting the loss from operations that were incurred in the period.Environmental remediation In each jurisdiction in which we operate, we are subject to many environmental, health and safety laws and regulations that govern, among other things, emissions of pollutants into the air, wastewater discharges, the use and handling of hazardous substances, waste disposal, the investigation and remediation of soil and ground water contamination and the health and safety of our employees. We are also required to obtain environmental permits from governmental authorities for certain of our operations. As with other companies engaged in similar activities or that own or operate real property, the Company faces inherent risks of environmental liability at our current and historical manufacturing facilities. Certain environmental laws impose liability on current or previous owners or operators of real property for the cost of removal or remediation of hazardous substances. Certain of these laws also assess liability on persons who arrange for hazardous substances to be sent to disposal or treatment facilities when such facilities are found to be contaminated. Soil and groundwater contamination has been identified at our properties in Nijmegen, the Netherlands and near Phoenix, Arizona, United States. The remediation processes at these locations are expected to continue for many years. As of December 31, 2021, we have recorded $87 million for environmental remediation costs, which are primarily included in other non-current liabilities in the accompanying Consolidated Balance Sheets. This amount represents the undiscounted future cash flows of our estimated share of costs incurred in environmental cleanup sites without considering recovery of costs from any other party or insurer, since in most cases potentially responsible parties other than us may exist and be held responsible.
+
+X
+---------------------------------------------------- -----------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_CommitmentsAndContingenciesDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------
+- DefinitionThe entire disclosure for commitments and contingencies. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 450 -URI http://asc.fasb.org/topic&trid=2127136Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 440 -URI http://asc.fasb.org/topic&trid=2144648Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 954 -SubTopic 440 -Section 50 -Paragraph 1 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=6491277&loc=d3e6429-115629Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 440 -SubTopic 10 -Section 50 -Paragraph 4 -Subparagraph (c) -URI http://asc.fasb.org/extlink&oid=123406679&loc=d3e25336-109308Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 440 -SubTopic 10 -Section 50 -Paragraph 4 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=123406679&loc=d3e25336-109308 + Details Name: us-gaap_CommitmentsAndContingenciesDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+51
+R25.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Stockholders' Equity and Earnings per Share 12 Months Ended
+------------------------------------------- --------------- ---- ----
+Dec. 31, 2020
+Equity [Abstract]
+Stockholders' Equity and Earnings per Share
+ 2021 2020 2019
+Dividends declared (in millions) 606 420 351
+Dividends declared (per share) 2.25 1.50 1.25
+
+Share-based awards
+The Company has granted share-based awards to the members of our board of directors, management team, our other executives, selected other key employees/talents of NXP and selected new hires to receive the Company’s shares in the future. See Note 17, “Share-based Compensation”.
+
+Treasury shares
+From time to time, last on May 26, 2021, the General Meeting of Shareholders authorizes the Board of Directors to repurchase shares of our common stock. On that basis, the Board of Directors has approved various share repurchase programs. In accordance with the Company’s policy to provide share-based awards from its treasury share inventory, shares which have been repurchased and are held in treasury for delivery upon exercise of options and under restricted and performance share programs, are accounted for as a reduction of
+stockholders’ equity. Treasury shares are recorded at cost, representing the market price on the acquisition date. When issued, shares are removed from treasury shares on a first-in, first-out (FIFO) basis.
+
+Differences between the cost and the proceeds received when treasury shares are reissued, are recorded in capital in excess of par value. Deficiencies in excess of net gains arising from previous treasury share issuances are charged to retained earnings.
+
+The following transactions took place resulting from employee option and share plans:
+
+ 2021 2020 2019
+--------------------------------------------- ---------- ---------- ----------
+Total shares in treasury at beginning of year 9,044,952 34,082,242 35,913,021
+Total cost 1,037 3,037 3,238
+Shares acquired under repurchase program 20,628,901 4,828,913 15,865,718
+Average price in $ per share 194.63 129.70 90.94
+Amount paid 4,015 627 1,443
+Shares delivered 5,104,494 3,866,203 4,513,416
+Average price in $ per share 102.88 94.26 93.55
+Amount received 62 71 84
+Shares retired 15,000,000 26,000,000 13,183,081
+Total shares in treasury at end of year 9,569,359 9,044,952 34,082,242
+Total cost 1,932 1,037 3,037
+
+Shareholder tax on repurchased shares
+Under Dutch tax law, the repurchase of a company’s shares by an entity in the Netherlands is a taxable event (unless exemptions apply). The tax on the repurchased shares is attributed to the shareholders, with NXP making the payment on the shareholders’ behalf. As such, the tax on the repurchased shares is accounted for within stockholders’ equity.
+The computation of earnings per share (EPS) is presented in the following table:
+
+ 2021 2020 2019
+----------------------------------------------------------------------------------------------------------------------------- ------- ------- -------
+Net income (loss) 1,906 80 272
+Less: Net income (loss) attributable to non-controlling interests 35 28 29
+Net income (loss) attributable to stockholders 1,871 52 243
+Weighted average number of shares outstanding (after deduction of treasury shares) during the year (in thousands) 270,687 279,763 282,056
+Plus incremental shares from assumed conversion of:
+Options 1) 386 526 776
+Restricted Share Units, Performance Share Units and Equity Rights 2) 4,573 3,520 3,079
+Dilutive potential common share 4,959 4,046 3,855
+Adjusted weighted average number of shares outstanding (after deduction of treasury shares) during the year (in thousands) 1) 275,646 283,809 285,911
+EPS attributable to stockholders in $:
+Basic net income (loss) 6.91 0.19 0.86
+Diluted net income (loss) 6.79 0.18 0.85
+
+1)No stock options to purchase shares of NXP’s common stock that were outstanding in 2021 (2020: none; 2019: 0.1 million shares) were anti-dilutive and were not included in the computation of diluted EPS because the exercise price was greater than the average fair market value of the common stock or the number of shares assumed to be repurchased using the proceeds of unrecognized compensation expense and exercise prices was greater than the weighted average number of shares underlying outstanding stock options. 2)Unvested RSU’s, PSU’s and equity rights up to 0.1 million shares that were outstanding in 2021 (2020: 0.6 shares; 2019: 0.7 million shares) were anti-dilutive and were not included in the computation of diluted EPS because the number of shares assumed to be repurchased using the proceeds of unrecognized compensation expense was greater than the weighted average number of outstanding unvested RSU’s, PSU’s and equity rights or the performance goal has not been met.
+
+X
+---------------------------------------------------- ----------------------
+- ReferencesNo definition available. + Details Name: us-gaap_EquityAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------
+- DefinitionThe entire disclosure for shareholders' equity comprised of portions attributable to the parent entity and noncontrolling interest, including other comprehensive income. Includes, but is not limited to, balances of common stock, preferred stock, additional paid-in capital, other capital and retained earnings, accumulated balance for each classification of other comprehensive income and amount of comprehensive income. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 13 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496158-112644Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 13 -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496158-112644Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 14 -Subparagraph (c) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496171-112644Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 14 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496171-112644Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.3-04) -URI http://asc.fasb.org/extlink&oid=120397183&loc=d3e187085-122770Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 18 -Subparagraph (d) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496189-112644Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 13 -Subparagraph (g) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496158-112644Reference 8: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -URI http://asc.fasb.org/topic&trid=2208762Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 18 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496189-112644Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 13 -Subparagraph (h) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496158-112644Reference 11: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 14 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496171-112644Reference 12: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 18 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496189-112644Reference 13: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 16 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496180-112644Reference 14: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 505 -SubTopic 10 -Section 50 -Paragraph 13 -Subparagraph (i) -URI http://asc.fasb.org/extlink&oid=123467817&loc=SL123496158-112644Reference 15: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.4-08(e)(1)) -URI http://asc.fasb.org/extlink&oid=120395691&loc=d3e23780-122690 + Details Name: us-gaap_StockholdersEquityNoteDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+52
+R26.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Share-based Compensation 12 Months Ended
+------------------------------------------ --------------- ---- ---
+Dec. 31, 2021
+Share-based Payment Arrangement [Abstract]
+Share-based Compensation
+ 2021 2020 2019
+Cost of revenue 45 45 42
+Research and development 165 159 141
+Selling, general and administrative 143 180 163
+ 353 384 346
+
+The income tax (expense) benefit recognized in net income related to share-based compensation expenses was $54 million (includes $32 million of excess tax benefits), $32 million (includes $10 million of excess tax benefits) and $27 million (includes $3 million of excess tax benefits) for the years ended December 31, 2021, 2020 and 2019, respectively.
+
+Long Term Incentive Plans (LTIP’s)
+The LTIP was introduced in 2010 and is a broad-based long-term retention program to attract, retain and motivate talented employees as well as align stockholder and employee interests. The LTIP provides share-based compensation (“awards”) to both our eligible employees and non-employee directors. Awards that may be granted include performance shares, stock options and restricted shares. On November 2, 2021, the Company granted PSU awards to certain executives of the Company with a performance measure of Relative Total Shareholder Return (“Relative TSR”). Each PSU, which cliff vests on the third anniversary of the date of grant, entitles the grant recipient to receive from 0 to 2 common shares for each of the target units awarded based on
+the Relative TSR of the Company's share price as compared to a set of peer companies. The Company estimates the fair value of the PSUs using a Monte Carlo valuation model, utilizing assumptions underlying the Black-Scholes methodology. The grant date fair value was $257.26 per PSU. The fair value of the PSUs is recognized as compensation cost over the service period of 3 years. Awards granted generally will become fully vested upon a termination event occurring within one year following a change in control, as defined. A termination event is defined as either termination of employment or services other than for cause or constructive termination resulting from a significant reduction in either the nature or scope of duties and responsibilities, a reduction in compensation or a required relocation. The number of shares authorized and available for awards at December 31, 2021 was 23.8 million.
+
+A charge of $331 million was recorded in 2021 for the LTIP (2020: $376 million; 2019: $339 million).
+
+A summary of the activity for our LTIP’s during 2021 is presented below.
+
+Stock options
+The options have a strike price equal to the closing share price on the grant date. The fair value of the options has been calculated using the Black-Scholes formula, using the following assumptions:
+•an expected life varying from 5.98 to 6.25 years, calculated in accordance with the guidance provided in SEC Staff bulletin No. 110 for plain vanilla options using the simplified method, since our equity shares have been publicly traded for only a limited period of time and we did not have sufficient historical exercise data at the grant date of the options;
+•a risk-free interest rate varying from 1.2% to 1.9% (2020: 1.2% to 1.9%; 2019: 1.0% to 1.9%);
+•no expected dividend payments; and
+•a volatility of 42 – 45% based on the volatility of a set of peer companies. Peer company data was used given the short period of time our shares had been publicly traded.
+
+Above assumptions were valid at the moment NXP granted the options. Changes in the assumptions can materially affect the fair value estimate.
+
+Stock options Weighted averageexerciseprice in USD Weighted averageremainingcontractual term Aggregate intrinsicvalue
+-------------------------------- ------------------------------------ ----------------------------------------- ------------------------ --
+Outstanding at January 1, 2021 644,334 56.03
+Granted — —
+Exercised 182,847 54.54
+Forfeited 3,275 17.96
+Outstanding at December 31, 2021 458,212 56.90 2.70 78
+Exercisable at December 31, 2021 458,212 56.90 2.70 78
+
+No options were granted in 2021, 2020 and 2019.
+
+The intrinsic value of the exercised options was $27 million (2020: $45 million; 2019: $48 million), whereas the amount received by NXP was $10 million (2020: $26 million; 2019: $45 million). The tax benefit realized from stock options exercised during fiscal 2021, 2020, and 2019 was $58 million, $33 million, and $31 million, respectively.
+
+At December 31, 2021, there were no (2020: none) unrecognized compensation cost related to non-vested stock options.
+Performance share units
+
+Market performance conditions
+
+Shares Weighted averagegrant date fair value in USD
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------- ------
+Outstanding at January 1, 2021 2,131,694 131.81
+Granted 238,043 257.18
+Performance based adjustment 1) 499,303 121.37
+Vested 1,914,161 121.20
+Forfeited 79,301 —
+Outstanding at December 31, 2021 875,578 181.50
+1) The amount shown represents performance adjustments for performance-based awards granted on July 26, 2018. These units vested at 135% during 2021 based on the achievement of relative TSR performance conditions.
+
+In 2021, the weighted average grant date fair value of performance share units granted was $257.18 (2020: $164.92; 2019: $141.64).
+
+In 2021, the fair value of the performance share units at the time of vesting was $395 million (2020: nil ; 2019: nil).
+
+At December 31, 2021, there was a total of $90 million (2020: $89 million; 2019: $135 million) of unrecognized compensation cost related to non-vested performance share units. This cost is expected to be recognized over a weighted-average period of 1.7 years (2020: 2.0 years; 2019: 2.0 years).
+
+Restricted share units
+
+Shares Weighted averagegrant date fair value in USD
+-------------------------------- -------------------------------------------- ------
+Outstanding at January 1, 2021 5,392,686 114.83
+Granted 1,819,220 201.68
+Vested 2,693,170 107.31
+Forfeited 340,819 122.22
+Outstanding at December 31, 2021 4,177,917 156.89
+
+The weighted average grant date fair value of restricted share units granted in 2021 was $201.68 (2020: $129.05; 2019: $111.62). The fair value of the restricted share units at the time of vesting was $533 million (2020: $372 million; 2019: $325 million).
+
+At December 31, 2021, there was a total of $546 million (2020: $502 million; 2019: $501 million) of unrecognized compensation cost related to non-vested restricted share units. This cost is expected to be recognized over a weighted-average period of 1.6 years (2020: 1.5 years; 2019: 1.5 years).
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------
+- DefinitionThe entire disclosure for share-based payment arrangement. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 718 -URI http://asc.fasb.org/topic&trid=2228938 + Details Name: us-gaap_DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- ----------------------------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_DisclosureOfCompensationRelatedCostsSharebasedPaymentsAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+XML
+53
+R27.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Accumulated Other Comprehensive Income (Loss) 12 Months Ended
+------------------------------------------------------------------------- ---------------------------------- ------------------------- ------------------------------------------ ----
+Dec. 31, 2021
+Equity [Abstract]
+Accumulated Other Comprehensive Income (Loss)
+Currencytranslationdifferences Change infair valuecash flowhedges Netactuarialgain/(losses) AccumulatedOtherComprehensiveIncome (loss)
+As of December 31, 2019 203 2 (130) 75
+Other comprehensive income (loss) before reclassifications 78 15 (63) 30
+Amounts reclassified out of accumulated other comprehensive income (loss) — (4) — (4)
+Income tax effects — (2) 18 16
+Other comprehensive income (loss) 78 9 (45) 42
+As of December 31, 2020 281 11 (175) 117
+Other comprehensive income (loss) before reclassifications (74) (9) 23 (60)
+Amounts reclassified out of accumulated other comprehensive income (loss) — (6) — (6)
+Income tax effects — 4 (7) (3)
+Other comprehensive income (loss) (74) (11) 16 (69)
+As of December 31, 2021 207 — (159) 48
+
+X
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
+- DefinitionThe entire disclosure for comprehensive income, which includes, but is not limited to, 1) the amount of income tax expense or benefit allocated to each component of other comprehensive income, including reclassification adjustments, 2) the reclassification adjustments for each classification of other comprehensive income and 3) the ending accumulated balances for each component of comprehensive income. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 220 -URI http://asc.fasb.org/topic&trid=2134417Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 220 -SubTopic 10 -Section S99 -Paragraph 2 -Subparagraph (SX 210.5-03(21)) -URI http://asc.fasb.org/extlink&oid=123367319&loc=SL114868664-224227Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 942 -SubTopic 220 -Section S99 -Paragraph 1 -Subparagraph (SX 210.9-04(23)) -URI http://asc.fasb.org/extlink&oid=120399700&loc=SL114874048-224260Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 944 -SubTopic 220 -Section S99 -Paragraph 1 -Subparagraph (SX 210.7-04(19)) -URI http://asc.fasb.org/extlink&oid=120400993&loc=SL114874131-224263 + Details Name: us-gaap_ComprehensiveIncomeNoteTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- ----------------------
+- ReferencesNo definition available. + Details Name: us-gaap_EquityAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+XML
+54
+R28.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Related-party Transactions 12 Months Ended
+------------------------------------- --------------- ---- --
+Dec. 31, 2021
+Related Party Transactions [Abstract]
+Related-party Transactions
+ 2021 2020 2019
+Revenue and other income 8 54 82
+Purchase of goods and services 4 36 64
+
+The following table presents the amounts related to receivable and payable balances with these related parties:
+
+ 2021 2020
+----------- ---- -
+Receivables 1 3
+Payables 3 7
+
+X
+---------------------------------------------------- ----------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_RelatedPartyTransactionsAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------
+- DefinitionThe entire disclosure for related party transactions. Examples of related party transactions include transactions between (a) a parent company and its subsidiary; (b) subsidiaries of a common parent; (c) and entity and its principal owners; and (d) affiliates. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 850 -SubTopic 10 -Section 50 -Paragraph 1 -Subparagraph (d) -URI http://asc.fasb.org/extlink&oid=6457730&loc=d3e39549-107864Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 850 -SubTopic 10 -Section 50 -Paragraph 1 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=6457730&loc=d3e39549-107864Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 850 -SubTopic 10 -Section 50 -Paragraph 1 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=6457730&loc=d3e39549-107864Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 850 -URI http://asc.fasb.org/topic&trid=2122745Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 850 -SubTopic 10 -Section 50 -Paragraph 6 -URI http://asc.fasb.org/extlink&oid=6457730&loc=d3e39691-107864 + Details Name: us-gaap_RelatedPartyTransactionsDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+55
+R29.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Fair Value of Financial Assets and Liabilities 12 Months Ended
+---------------------------------------------- ----------------- ----------------- -----
+Dec. 31, 2021
+Fair Value Disclosures [Abstract]
+Fair Value of Financial Assets and Liabilities
+Estimated fair value
+Fair valuehierarchy December 31, 2021 December 31, 2020
+Assets:
+Money market funds 1 2,111 1,469
+Marketable equity securities 1 18 19
+Derivative instruments-assets 2 5 18
+Liabilities:
+Derivative instruments-liabilities 2 (3) —
+
+The following methods and assumptions were used to estimate the fair value of financial instruments:
+
+Assets and liabilities measured at fair value on a recurring basis
+Investments in money market funds (as part of our cash and cash equivalents) and marketable equity securities (as part of other non-current assets) have fair value measurements which are all based on quoted prices in active markets for identical assets or liabilities. For derivatives (as part of other current assets or accrued liabilities) the fair value is based upon significant other observable inputs depending on the nature of the derivative.
+
+Assets and liabilities recorded at fair value on a non-recurring basis
+We measure and record our non-marketable equity securities, equity method investments and non-financial assets, such as intangible assets and property, plant and equipment, at fair value when an impairment charge is required.
+
+Assets and liabilities not recorded at fair value on a recurring basis
+Financial instruments not recorded at fair value on a recurring basis include non-marketable equity securities and equity method investments that have not been remeasured or impaired in the current period and debt.As of December 31, 2021, the estimated fair value of current and non-current debt was $11.3 billion ($8.6 billion as of December 31, 2020). The fair value is estimated on the basis of broker-dealer quotes, which are Level 2 inputs. Accrued interest is included under accrued liabilities and not within the carrying amount or estimated fair value of debt.
+
+X
+---------------------------------------------------- ------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_FairValueDisclosuresAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------
+- DefinitionThe entire disclosure for the fair value of financial instruments (as defined), including financial assets and financial liabilities (collectively, as defined), and the measurements of those instruments as well as disclosures related to the fair value of non-financial assets and liabilities. Such disclosures about the financial instruments, assets, and liabilities would include: (1) the fair value of the required items together with their carrying amounts (as appropriate); (2) for items for which it is not practicable to estimate fair value, disclosure would include: (a) information pertinent to estimating fair value (including, carrying amount, effective interest rate, and maturity, and (b) the reasons why it is not practicable to estimate fair value; (3) significant concentrations of credit risk including: (a) information about the activity, region, or economic characteristics identifying a concentration, (b) the maximum amount of loss the entity is exposed to based on the gross fair value of the related item, (c) policy for requiring collateral or other security and information as to accessing such collateral or security, and (d) the nature and brief description of such collateral or security; (4) quantitative information about market risks and how such risks are managed; (5) for items measured on both a recurring and nonrecurring basis information regarding the inputs used to develop the fair value measurement; and (6) for items presented in the financial statement for which fair value measurement is elected: (a) information necessary to understand the reasons for the election, (b) discussion of the effect of fair value changes on earnings, (c) a description of [similar groups] items for which the election is made and the relation thereof to the balance sheet, the aggregate carrying value of items included in the balance sheet that are not eligible for the election; (7) all other required (as defined) and desired information. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 820 -SubTopic 10 -Section 50 -Paragraph 2 -URI http://asc.fasb.org/extlink&oid=123874694&loc=d3e19207-110258 + Details Name: us-gaap_FairValueDisclosuresTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+56
+R30.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Segments and Geographical Information 12 Months Ended
+------------------------------------- ---------------------------------- ----- ----- ----- ----- ---
+Dec. 31, 2021
+Segment Reporting [Abstract]
+Segments and Geographical Information
+Revenue Property, plant and equipment, net
+ 2021 2020 2019 2021 2020 2019
+China 4,180 3,324 3,147 387 257 265
+Netherlands 352 222 275 251 212 221
+United States 964 750 840 719 766 845
+Singapore 1,269 1,064 1,006 391 304 321
+Germany 628 483 526 44 51 52
+Japan 810 647 780 1 — —
+South Korea 467 327 327 — — —
+Malaysia 123 95 120 326 288 337
+Other countries 2,270 1,700 1,856 516 406 407
+ 11,063 8,612 8,877 2,635 2,284 2,448
+
+X
+---------------------------------------------------- --------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_SegmentReportingAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------
+- DefinitionThe entire disclosure for reporting segments including data and tables. Reportable segments include those that meet any of the following quantitative thresholds a) it's reported revenue, including sales to external customers and intersegment sales or transfers is 10 percent or more of the combined revenue, internal and external, of all operating segments b) the absolute amount of its reported profit or loss is 10 percent or more of the greater, in absolute amount of 1) the combined reported profit of all operating segments that did not report a loss or 2) the combined reported loss of all operating segments that did report a loss c) its assets are 10 percent or more of the combined assets of all operating segments. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 280 -SubTopic 10 -Section 50 -Paragraph 31 -URI http://asc.fasb.org/extlink&oid=123359005&loc=d3e8924-108599Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 280 -SubTopic 10 -Section 50 -Paragraph 34 -URI http://asc.fasb.org/extlink&oid=123359005&loc=d3e8981-108599Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 280 -SubTopic 10 -Section 50 -Paragraph 21 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=123359005&loc=d3e8721-108599Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 280 -SubTopic 10 -Section 50 -Paragraph 40 -URI http://asc.fasb.org/extlink&oid=123359005&loc=d3e9031-108599Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 280 -SubTopic 10 -Section 50 -Paragraph 32 -Subparagraph (f) -URI http://asc.fasb.org/extlink&oid=123359005&loc=d3e8933-108599Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 280 -SubTopic 10 -Section 50 -Paragraph 32 -Subparagraph (e) -URI http://asc.fasb.org/extlink&oid=123359005&loc=d3e8933-108599Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 280 -SubTopic 10 -Section 50 -Paragraph 26 -URI http://asc.fasb.org/extlink&oid=123359005&loc=d3e8844-108599Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 280 -SubTopic 10 -Section 50 -Paragraph 41 -U
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 3]:
+NOTE 3. ACQUISITIONS Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.18 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. The table below represents the preliminary purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. The fair values assigned to assets acquired and liabilities assumed are based on management's best estimates and assumptions as of the reporting date. Fair values associated with the net tax liabilities assumed and their related impact to goodwill were pending finalization as of the reporting date. --------------------------------------- ------ ----- ------------------------------------ --- - (dollars in millions) Amount Weighted Average Useful Life (years) Purchased technology $ 331 4 In-process research and development (1) 19 N/A Trademarks 4 3 Customer contracts and relationships 3 10 Total identifiable intangible assets 357 Net liabilities assumed (39) N/A Goodwill (2) 865 N/A Total purchase price $ 1,183 _________________________________________ (1) Capitalized as purchased technology and considered indefinite lived until the completion or abandonment of the associated research and development efforts. (2) Non-deductible for tax-purposes. Pro forma financial information has not been presented for the Frame.io acquisition as the impact to our Consolidated Financial Statements was not material. 70  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Workfront On December 7, 2020, we completed the acquisition of Workfront, a privately held company that provides a workflow platform, for approximately $1.52 ...
+
+[See Note 17]:
+NOTE 17. DEBT The carrying value of our borrowings as of December 3, 2021 and November 27, 2020 were as follows: -------------------------------------------- ------------- ---- ------------- ----------------------- - ----- --- ---- ----- - --- (dollars in millions) Issuance Date Due Date Effective Interest Rate 2021 2020 1.70% 2023 Notes February 2020 February 2023 1.92% $ 500 $ 500 1.90% 2025 Notes February 2020 February 2025 2.07% 500 500 3.25% 2025 Notes January 2015 February 2025 3.67% 1,000 1,000 2.15% 2027 Notes February 2020 February 2027 2.26% 850 850 2.30% 2030 Notes February 2020 February 2030 2.69% 1,300 1,300 Total debt outstanding, at par $ 4,150 $ 4,150 Unamortized discount and debt issuance costs (27) (33) Carrying value of long-term debt $ 4,123 $ 4,117 89  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Senior Notes In January 2015, we issued $1 billion of senior notes due February 1, 2025. The related discount and issuance costs are being amortized to interest expense over the term of the notes using the effective interest method. Interest is payable semi-annually, in arrears on February 1 and August 1. In February 2020, we issued $500 million of senior notes due February 1, 2023, $500 million of senior notes due February 1, 2025, $850 million of senior notes due February 1, 2027, and $1.30 billion of senior notes due February 1, 2030. Our total proceeds of approximately $3.14 billion, net of issuance discount, were used for general corporate purposes including repayment of debt instruments due in fiscal 2020. The related discount and issuance costs are amortized to interest expense over the respective terms of the notes using the effective interest method. Interest is payable semi-annually, in arrears on February 1 and August 1. Our senior notes rank equally with our other unsecured and unsubordinated indebtedness. We may redeem the notes at any time, subject to a make-whole premium. In addition, upon the occurrence of certain ch...
+
+['s statement of financial position, net change during the year in the total valuation allowance, approximate tax effect of each type of temporary difference and carryforward that gives rise to a significant portion of deferred tax liabilities and deferred tax assets, utilization of a tax carryback, and tax uncertainties information. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 21 -URI http://asc.fasb.org/extlink&oid=121826272&loc=d3e32857-109319Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section S99 -Paragraph 2 -Subparagraph (SAB Topic 11.C) -URI http://asc.fasb.org/extlink&oid=122134291&loc=d3e330215-122817Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 17 -Subparagraph (b) -URI http://asc.fasb.org/extlink&oid=121826272&loc=d3e32809-109319Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SAB TOPIC 6.I.5.Q1) -URI http://asc.fasb.org/extlink&oid=122134291&loc=d3e330036-122817Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 10 -Section 50 -Paragraph 14 -URI http://asc.fasb.org/extlink&oid=121826272&loc=d3e32705-109319Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 270 -Section 50 -Paragraph 1 -URI http://asc.fasb.org/extlink&oid=6424409&loc=d3e44925-109338Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -URI http://asc.fasb.org/topic&trid=2144680Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 740 -SubTopic 30 -Section 50 -Paragraph 2 -Subparagraph (a) -URI http://asc.fasb.org/extlink&oid=6424122&loc=d3e41874-109331Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 235 -SubTopic 10 -Section S99 -Paragraph 1 -Subparagraph (SX 210.4-08(h)(2)) -URI http://asc.fasb.org/extlink&oid=120395691&loc=d3e23780-122690 + Details Name: us-gaap_IncomeTaxDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+42
+R16.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Accounts Receivable, net 12 Months Ended
+-------------------------------------- --------------- ---
+Dec. 31, 2021
+Receivables [Abstract]
+Accounts Receivable, net
+ 2021 2020
+Accounts receivable from third parties 925 767
+Allowance for credit loss (2) (2)
+ 923 765
+
+The following table presents accounts receivable, net disaggregated by sales channel:
+
+ 2021 2020
+---------------------------------------------------------------------- ---- ---
+Distributors 171 186
+Original Equipment Manufacturers and Electronic Manufacturing Services 722 533
+Other 30 46
+ 923 765
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------
+- DefinitionThe entire disclosure for claims held for amounts due a entity, excluding financing receivables. Examples include, but are not limited to, trade accounts receivables, notes receivables, loans receivables. Includes disclosure for allowance for credit losses. + ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Publisher FASB -Name Accounting Standards Codification -Topic 310 -SubTopic 10 -URI http://asc.fasb.org/subtopic&trid=2196772 + Details Name: us-gaap_LoansNotesTradeAndOtherReceivablesDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------- ---------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_ReceivablesAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+XML
+43
+R17.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Inventories, net 12 Months Ended
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------- ---
+Dec. 31, 2021
+Inventory Disclosure [Abstract]
+Inventories, net
+ 2021 2020 1)
+Raw materials 107 66
+Work in process 846 738
+Finished goods 236 226
+ 1,189 1,030
+1) Certain prior period amounts have been reclassified, correcting for the current year presentation of the allowance for obsolescence between finished goods and work in process categories, with no impact on total net inventories.
+
+The portion of finished goods stored at customer locations under consignment amounted to $12 million as of December 31, 2021 (2020: $31 million).
+
+The amounts recorded above are net of an allowance for obsolescence of $120 million as of December 31, 2021 (2020: $122 million).
+
+X
+---------------------------------------------------- -----------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_InventoryDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
+- DefinitionThe entire disclosure for inventory. Includes, but is not limited to, the basis of stating inventory, the method of determining inventory cost, the classes of inventory, and the nature of the cost elements included in inventory. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 330 -URI http://asc.fasb.org/topic&trid=2126998 + Details Name: us-gaap_InventoryDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+44
+R18.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Property, Plant and Equipment, net 12 Months Ended
+-------------------------------------------------------------- --------------- ------- -----
+Dec. 31, 2021
+Property, Plant and Equipment [Abstract]
+Property, Plant and Equipment, net
+Useful Life(in years) 2021 2020
+Land 164 165
+Buildings 9 to 50 1,465 1,425
+Machinery and installations 2 to 10 4,457 3,970
+Other Equipment 1 to 5 802 751
+Prepayments and construction in progress 423 210
+ 7,311 6,521
+Less accumulated depreciation (4,676) (4,237)
+Property, plant and equipment, net of accumulated depreciation 2,635 2,284
+
+X
+---------------------------------------------------- -----------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_PropertyPlantAndEquipmentAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------
+- DefinitionThe entire disclosure for long-lived, physical asset used in normal conduct of business and not intended for resale. Includes, but is not limited to, work of art, historical treasure, and similar asset classified as collections. + ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 958 -SubTopic 360 -Section 50 -Paragraph 6 -URI http://asc.fasb.org/extlink&oid=120429125&loc=d3e99893-112916Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 360 -URI http://asc.fasb.org/topic&trid=2155823Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 958 -SubTopic 360 -Section 50 -Paragraph 7 -URI http://asc.fasb.org/extlink&oid=120429125&loc=SL120174063-112916Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Publisher FASB -Name Accounting Standards Codification -Topic 958 -SubTopic 360 -Section 50 -Paragraph 1 -Subparagraph (d) -URI http://asc.fasb.org/extlink&oid=120429125&loc=d3e99779-112916 + Details Name: us-gaap_PropertyPlantAndEquipmentDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+45
+R19.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Identified Intangible Assets 12 Months Ended
+---------------------------------------------------- ---------------
+Dec. 31, 2021
+Goodwill and Intangible Assets Disclosure [Abstract]
+Identified Intangible Assets
+Total
+Balance as of January 1, 2020
+Cost 9,384
+Accumulated amortization/impairment (5,764)
+Book value 3,620
+Changes in book value:
+Acquisitions/additions 63
+Transfer to assets held for sale —
+Amortization (1,398)
+Impairment (43)
+Total changes (1,378)
+Balance as of December 31, 2020
+Cost 9,249
+Accumulated amortization/impairment (7,007)
+Book value 2,242
+Changes in book value:
+Acquisitions/additions 163
+Transfer to assets held for sale —
+Amortization (674)
+Impairment (37)
+Translation differences —
+Total changes (548)
+Balance as of December 31, 2021
+Cost 4,715
+Accumulated amortization/impairment (3,021)
+Book value 1,694
+
+Identified intangible assets as of December 31, 2021 and 2020 respectively were composed of the following:
+
+December 31, 2021 December 31, 2020
+---------------------------- ----------------------- --------------------- ----------------------- -------
+Gross carrying amount Accumulatedamortization Gross carrying amount Accumulatedamortization
+IPR&D(1) 96 — 147 —
+Marketing-related 81 (81) 81 (81)
+Customer-related 852 (325) 957 (381)
+Technology-based 3,686 (2,615) 8,064 (6,545)
+Identified intangible assets 4,715 (3,021) 9,249 (7,007)
+
+(1)  IPR&D is not subject to amortization until completion or abandonment of the associated research and development effort.
+The estimated amortization expense for these identified intangible assets for each of the five succeeding years is:
+
+ 2022 614
+---------- ---
+ 2023 383
+ 2024 197
+ 2025 101
+ 2026 68
+Thereafter 331
+
+All intangible assets, excluding IPR&D and goodwill, are subject to amortization and have no assumed residual value.
+
+The expected weighted average remaining life of identified intangibles is 4 years as of December 31, 2021.
+
+X
+---------------------------------------------------- -----------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------
+- DefinitionThe entire disclosure for all or part of the information related to intangible assets. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -URI http://asc.fasb.org/topic&trid=2144416 + Details Name: us-gaap_IntangibleAssetsDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+46
+R20.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Goodwill 12 Months Ended
+---------------------------------------------------- --------------- ------
+Dec. 31, 2021
+Goodwill and Intangible Assets Disclosure [Abstract]
+Goodwill
+ 2021 2020
+Balances as of January 1
+Cost 10,098 10,063
+Accumulated impairment (114) (114)
+Book value 9,984 9,949
+Changes in book value:
+Acquisitions 6 3
+Transfer to assets held for sale — —
+Translation differences (29) 32
+Total changes (23) 35
+Balances as of December 31
+Cost - Balance 10,075 10,098
+Accumulated impairment - Balance (114) (114)
+Book value - Balance 9,961 9,984
+
+No goodwill impairment charges were required to be recognized in 2021 or 2020.
+
+The fair value of the reporting unit substantially exceeds the carrying value of the reporting unit.
+See Note 3, “Acquisitions and Divestments”.
+
+X
+---------------------------------------------------- -----------------------------------------------------
+- ReferencesNo definition available. + Details Name: us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+Namespace Prefix: us-gaap_
+Data Type: xbrli:stringItemType
+Balance Type: na
+Period Type: duration
+
+X
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------
+- DefinitionThe entire disclosure for goodwill. + ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 350 -SubTopic 20 -URI http://asc.fasb.org/subtopic&trid=2144439 + Details Name: us-gaap_GoodwillDisclosureTextBlock
+Namespace Prefix: us-gaap_
+Data Type: dtr-types:textBlockItemType
+Balance Type: na
+Period Type: duration
+
+XML
+47
+R21.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.0.1
+Postretirement Benefit Plans 12 Months Ended
+-------------------------------------------------------------------------------------------------------------------------------- --------------- ----- -----
+Dec. 31, 2021
+Retirement Benefits [Abstract]
+Postretirement Benefit Plans
+PME multi-employer plan 2021 2020 2019
+NXP’s contributions to the plan 37 33 31
+(including employees’ contributions) 5 4 4
+Average number of NXP’s active employees participating in the plan 2,075 2,048 2,129
+NXP’s contribution to the plan exceeded more than 5 percent of the total contribution (as of December 31 of the plan’s year end) No No No
+
+The amount for pension costs included in the statement of operations for the year 2021 was $112 million (2020: $103 million; 2019: $98 million) of which $52 million (2020: $47 million; 2019: $47 million) represents defined-contribution plans and $32 million (2020: $29 million; 2019: $27 million) represents the PME multi-employer plans.
+
+Defined-benefit plans
+The benefits provided by defined-benefit plans are based on employees’ years of service and compensation levels. Contributions are made by the Company, as necessary, to provide assets sufficient to meet the benefits payable to defined-benefit pension plan participants.
+
+These contributions are determined based upon various factors, including funded status, legal and tax considerations as well as local customs. The Company funds certain defined-benefit pension plans as claims are incurred.
+
+The total ongoing cost of defined-benefit plans amounted to $28 million in 2021 (2020: a cost of $27 million; 2019: a cost of $24 million).
+The table below provides a summary of the changes in the pension benefit obligations and defined-benefit pension plan assets for 2021 and 2020, associated with the Company’s dedicated plans, and a reconciliation of the funded status of these plans to the amounts recognized in the Consolidated Balance Sheets.
+
+ 2021 2020
+------------------------------------------------------------------------------------- ----- -----
+Projected benefit obligation
+Projected benefit obligation at beginning of year 790 665
+Service cost 17 17
+Interest cost 6 7
+Actuarial (gains) and losses (3) 65
+Curtailments and settlements — —
+Benefits paid (22) (22)
+Exchange rate differences (58) 58
+Projected benefit obligation at end of year 730 790
+Plan assets
+Fair value of plan assets at beginning of year 224 203
+Actual return on plan assets 19 5
+Employer contributions 18 22
+Curtailments and settlements — —
+Benefits paid (21) (22)
+Exchange rate differences (18) 16
+Fair value of plan assets at end of year 222 224
+Funded status (508) (566)
+Classification of the funded status is as follows
+– Accrued pension cost within other non-current liabilities (497) (554)
+– Accrued pension cost within accrued liabilities (11) (12)
+Total (508) (566)
+Accumulated benefit obligation
+Accumulated benefit obligation for all Company-dedicated benefit pension plans 705 755
+Plans with assets less than accumulated benefit obligation (including unfunded plans)
+– Fair value of plan assets 217 220
+– Accumulated benefit obligations 699 750
+Amounts recognized in accumulated other comprehensive income (before tax)
+Total AOCI at beginning of year 214 140
+– Net actuarial loss (gain) (24) 58
+– Exchange rate differences (15) 16
+Total AOCI at end of year 175 214
+
+The net amount of projected benefit obligation and plan assets for all underfunded (including unfunded) pension plans was $508 million and $566 million at December 31, 2021 and 2020, respectively, and was classified as liabilities in the Consolidated Balance Sheets.
+
+For the year ended December 31, 2021, actuarial losses were primarily related to increases in discount rates of approximately 40 basis points on a weighted basis and updates to mortality table benchmarks in various countries. For the year ended December 31, 2020, actuarial losses were primarily related to decreases in discount rates of approximately 40 basis points on a weighted basis and updates to mortality table benchmarks in various countries.
+The weighted average assumptions used to calculate the projected benefit obligations were as follows:
+
+ 2021 2020
+----------------------------- ---- - --- -
+Discount rate 1.2 % 0.8 %
+Rate of compensation increase 2.2 % 1.6 %
+
+The weighted average assumptions used to calculate the net periodic pension cost were as follows:
+
+ 2021 2020 2019
+------------------------------- ---- ---- --- - --- -
+Discount rate 0.8 % 1.2 % 2.0 %
+Expected returns on plan assets 2.6 % 2.6 % 2.7 %
+Rate of compensation increase 1.6 % 1.5 % 1.8 %
+
+For the Company’s major plans, the discount rate used is based on high quality corporate bonds (iBoxx Corporate Euro AA 10+).
+
+Plans in certain Asian countries without a deep corporate bond market use a discount rate based on the local sovereign rate and the plans']:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...

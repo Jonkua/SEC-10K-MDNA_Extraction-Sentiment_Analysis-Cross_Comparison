@@ -1,0 +1,774 @@
+================================================================================
+CIK: 0001043604
+Company Name: JUNIPER NETWORKS INC
+Filing Date: 2023-02-10
+Form Type: 10-K
+Extraction Date: 2025-09-03 09:05:35
+================================================================================
+
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion should be read with the Business section in Item 1 of Part I and the Consolidated Financial Statements and the related notes in Item 8 of Part II of this Report. We intend the discussion of our financial condition and results of operations to provide information that will assist the reader in understanding our Consolidated Financial Statements, the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting estimates affect our Consolidated Financial Statements. To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a financial results and key performance metrics overview and a discussion of material events and uncertainties known to management such as the COVID-19 pandemic and global component shortage. These sections should be read in conjunction with the more detailed discussion and analysis of our consolidated financial condition and results of operations in this Item 7, our “Risk Factors” section included in Item 1A of Part I, and our Consolidated Financial Statements and notes thereto included in Item 8 of Part II of this Report.
+
+40
+
+Table of Contents
+Executive Overview
+
+Financial Results and Key Performance Metrics Overview
+
+The following table provides an overview of our financial results and key financial metrics (in millions, except per share amounts, percentages, and days sales outstanding, or DSO):
+
+-------------------------------------------------------------------- ------------------------------------------ ------- ---- ------- -------- ------- -------- - ------- - ---- -
+ As of and for the Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Net revenues $ 5,301.2 $ 4,735.4 $ 565.8 12 %
+Gross margin $ 2,958.3 $ 2,740.1 $ 218.2 8 %
+Percentage of net revenues 55.8 % 57.9 %
+Operating income $ 519.1 $ 387.5 $ 131.6 34 %
+Percentage of net revenues 9.8 % 8.2 %
+Net income $ 471.0 $ 252.7 $ 218.3 86 %
+Percentage of net revenues 8.9 % 5.3 %
+Net income per share
+Basic $ 1.46 $ 0.78 $ 0.68 87 %
+Diluted $ 1.43 $ 0.76 $ 0.67 88 %
+
+Operating cash flows $ 97.6 $ 689.7 $ (592.1) (86) %
+Stock repurchase plan activity $ 299.7 $ 433.3 $ (133.6) (31) %
+Cash dividends declared per common stock $ 0.84 $ 0.80 $ 0.04 5 %
+DSO(1) 76 69 7 10 %
+
+Deferred revenue:
+Deferred product revenue $ 108.8 $ 129.1 $ (20.3) (16) %
+Deferred service revenue 1,554.3 1,284.5 269.8 21 %
+Total $ 1,663.1 $ 1,413.6 $ 249.5 18 %
+
+Deferred revenue from customer solutions(2) $ 632.8 $ 442.1 $ 190.7 43 %
+Deferred revenue from hardware maintenance and professional services 1,030.3 971.5 58.8 6 %
+Total $ 1,663.1 $ 1,413.6 $ 249.5 18 %
+
+________________________________
+(1)     DSO is for the fourth quarter ended December 31, 2022, and 2021.
+(2)     Includes deferred revenue from hardware solutions, software licenses, software support and maintenance and SaaS offerings sold in our Automated WAN Solutions, Cloud-Ready Data Center, and AI-Driven Enterprise customer solution categories.
+
+•Net Revenues: Net revenues increased during 2022 compared to 2021 across all of our verticals, customer solutions, and geographies. Service net revenues increased primarily due to strong sales of software subscriptions.
+
+•Gross Margin: Gross margin as a percentage of net revenues decreased during 2022 compared to 2021. Product gross margin decreased primarily due to incremental component costs due to supply chain constraints and product mix, partially offset by higher software revenue and pricing actions. The decrease in product gross margin was partially offset by the increase in service gross margin, which was primarily due to higher revenue and lower service delivery costs.
+
+•Operating Margin: Operating income as a percentage of net revenues increased primarily due to higher revenue, partially offset by the drivers described in the gross margin discussion above and higher personnel-related expenses driven by an increase in headcount.
+
+41
+
+Table of Contents
+•Operating Cash Flows: Net cash provided by operations decreased primarily due to higher supplier payments for inventory and contract manufacturer deposits in order to address significant industry-wide supply constraints. As of December 31, 2022, our inventory balance was $642.9 million, an increase of $358.7 million from the prior year, and our contract manufacturer deposit balance was $434.7 million, an increase of $210.9 million from the prior year. We also had approximately $140 million in tax payments attributed to the capitalization and amortization requirements for R&D expenditures pursuant to the Tax Act. The increase in payments was partially offset by higher collections from increased invoicing activity.
+
+•Capital Return: We continue to return capital to our stockholders. During 2022, we repurchased a total of 9.2 million shares of our common stock in the open market at an average price of $32.32 per share for an aggregate purchase price of $299.7 million. During 2022, we paid quarterly dividends of $0.21 per share, for an aggregate amount of $270.4 million.
+
+•DSO: DSO is calculated as the ratio of ending accounts receivable, net of allowances, divided by average daily net revenues for the preceding 90 days. DSO increased, primarily driven by higher overall invoicing, partially offset by higher revenue.
+
+•Deferred Revenue: Total deferred revenue increased, primarily driven by an increase in deferrals of SaaS and software license subscriptions.
+
+Global Component Shortage and COVID-19 Pandemic Update
+
+We continue to monitor and evaluate the impact of the COVID-19 pandemic on our business operations on a regional, national, and global basis. In 2022, we reopened our facilities world-wide for office-based employees in a new office/hybrid collaboration model. We do not expect the pandemic to have a substantial net impact on our consolidated operating results or our liquidity position.
+
+We have a global supply chain, which is primarily composed of manufacturing partners and component suppliers. Global supply chain constraints in the wake of the COVID-19 pandemic have resulted in disruption to our production schedule due to both constrained manufacturing capacity as well as component parts shortages as our component vendors were also facing manufacturing challenges. These challenges resulted in extended lead times of certain products to our customers, increased logistics costs, and impacted the volume of products we were able to deliver, which negatively impacted our ability to recognize revenue. To meet our customer needs, our supply chain team has been executing on a strong risk mitigation plan to resolve our challenges, further enhance our supply chain resiliency, and mitigate the effects of disruptions including, multi-sourcing, pre-ordering components, transforming our logistics network, prioritizing critical customers, and partnering on solutions that limit disruptions to our operations while ensuring the safety of our employees, partners, and suppliers.
+
+Similar to others, we continue to experience elevated component costs and inventory balances. These have had a negative impact on our gross margin and operating cash flow. We believe some of the strength in previous product orders was attributable to these industry supply chain challenges that were causing certain customers to place orders early in an effort to secure supply when needed, which resulted in significantly elevated backlog levels. In the third and fourth quarter of 2022, we saw a decline in product orders as buying patterns normalized and customers consumed previously placed orders. We anticipate backlog to remain at elevated levels but expect it to decline as supply improves.
+
+We believe the extended lead times and increased component and logistic costs will modestly improve through the course of 2023. We have taken pricing actions to mitigate some of the effects of rising component costs and general inflationary pressures arising from supply chain constraints as well as overall macroeconomic conditions, and expect these actions to have a more substantial impact in 2023. While the situation is dynamic, at this point in time, we believe we will have access to sufficient supplies of semiconductors and other components and will be able to meet our full-year financial forecast. See the section entitled “Risk Factors” in Item 1A of Part II of this Report for further discussion of this risk.
+
+42
+
+Table of Contents
+Critical Accounting Estimates
+
+The preparation of the financial statements and related disclosures in conformity with U.S. GAAP requires us to make judgments, assumptions, and estimates that affect the amounts reported in the Consolidated Financial Statements and the accompanying notes. We base our estimates and assumptions on current facts, historical experience, and various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Note 1, Description of Business, Basis of Presentation and Significant Accounting Policies, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report, describes the significant accounting policies and methods used in the preparation of the Consolidated Financial Statements.
+
+The below accounting policies require significant judgments, assumptions, and estimates used in the preparation of the Consolidated Financial Statements and actual results could differ materially from the amounts reported based on these policies.
+
+•Revenue Recognition: We enter into contracts to sell our products and services, and while most of our sales agreements contain standard terms and conditions, there are agreements that contain non-standard terms and conditions and include promises to transfer multiple goods or services. As a result, significant interpretation and judgment are sometimes required to determine the appropriate accounting for these transactions, including: (1) whether performance obligations are considered distinct that should be accounted for separately versus together, how the price should be allocated among the performance obligations, and when to recognize revenue for each performance obligation; (2) developing an estimate of the stand-alone selling price, or SSP, of each distinct performance obligation; (3) combining contracts that may impact the allocation of the transaction price between product and services; and (4) estimating and accounting for variable consideration, including rights of return, rebates, price protection, expected penalties or other price concessions as a reduction of the transaction price.
+
+Our estimates of SSP for each performance obligation require judgment that considers multiple factors, including, but not limited to, historical discounting trends for products and services, pricing practices in different geographies and through different sales channels, gross margin objectives, internal costs, competitor pricing strategies, and industry technology lifecycles. Our estimates for rights of return, rebates, and price protection are based on historical sales returns and price protection credits, specific criteria outlined in customer contracts or rebate agreements, and other factors known at the time. Our estimates for expected penalties and other price concessions are based on historical trends and expectations regarding future incurrence.
+
+Changes in judgments with respect to these assumptions and estimates could impact the timing or amount of revenue recognition.
+
+•Income Taxes: We are subject to income taxes in the United States and numerous foreign jurisdictions. We apply the authoritative accounting guidance for uncertainty in income taxes to all income tax positions, including the potential recovery of previously paid taxes, which if settled unfavorably could adversely affect our provision for income taxes. Significant judgment is required in evaluating our uncertain tax positions and determining our taxes including the interpretation and application of GAAP and complex domestic and international tax laws and matters related to the allocation of international taxation rights between countries. In addition, we are subject to the continuous examination of our income tax returns by the IRS and other tax authorities. We regularly assess the likelihood of adverse outcomes resulting from these examinations to determine the adequacy of our provision for income taxes. Although we believe our reserves are reasonable, no assurance can be given that the final tax outcome of these matters will not be different from that which is reflected in our historical income tax provisions and accruals. We adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit or the refinement of an estimate. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences will affect the provision for income taxes in the period in which such determination is made.
+
+Significant judgment is also required in determining any valuation allowance recorded against deferred tax assets. In assessing the need for a valuation allowance, we consider all available evidence, including past operating results, estimates of future taxable income, and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.
+
+43
+
+Table of Contents
+
+Recent Accounting Pronouncements
+
+See Note 1, Description of Business, Basis of Presentation and Significant Accounting Policies, in Notes to the Consolidated Financial Statements in Item 8 of Part II of this Report for a full description of recent accounting pronouncements, including the expected dates of adoption and estimated effects on financial condition and results of operations, which is incorporated herein by reference.
+
+44
+
+Table of Contents
+Results of Operations
+
+A discussion regarding our financial condition and results of operations for the fiscal year ended December 31, 2022 compared to 2021 is presented below. A discussion regarding our financial condition and results of operations for the fiscal year ended December 31, 2021 compared to 2020 can be found under Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2021, filed with the SEC on February 11, 2022, which is available on the SEC’s website at www.sec.gov and our Investor Relations website at http://investor.juniper.net.
+
+Revenues
+
+The following table presents net revenues by customer solution, customer vertical, and geographic region (in millions, except percentages):
+
+---------------------------------------------- ------------------------ ------- ---- ------- -------- ------- -------- - ----- - -- -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+Customer Solutions:
+Automated WAN Solutions $ 1,865.3 $ 1,665.0 $ 200.3 12 %
+Percentage of net revenues 35.2 % 35.2 %
+Cloud-Ready Data Center 878.9 727.1 151.8 21 %
+Percentage of net revenues 16.6 % 15.4 %
+AI-Driven Enterprise 1,026.2 830.4 195.8 24 %
+Percentage of net revenues 19.4 % 17.5 %
+Hardware Maintenance and Professional Services 1,530.8 1,512.9 17.9 1 %
+Percentage of net revenues 28.8 % 31.9 %
+Total net revenues $ 5,301.2 $ 4,735.4 $ 565.8 12 %
+
+Customer Verticals:
+Cloud $ 1,393.6 $ 1,228.0 $ 165.6 13 %
+Percentage of net revenues 26.3 % 25.9 %
+Service Provider 1,891.2 1,839.1 52.1 3 %
+Percentage of net revenues 35.7 % 38.8 %
+Enterprise 2,016.4 1,668.3 348.1 21 %
+Percentage of net revenues 38.0 % 35.3 %
+Total net revenues $ 5,301.2 $ 4,735.4 $ 565.8 12 %
+
+Geographic Regions:
+Americas:
+United States $ 2,931.6 $ 2,426.9 $ 504.7 21 %
+Other 225.2 222.2 3.0 1 %
+Total Americas 3,156.8 2,649.1 507.7 19 %
+Percentage of net revenues 59.6 % 55.9 %
+EMEA 1,370.0 1,314.5 55.5 4 %
+Percentage of net revenues 25.8 % 27.8 %
+APAC 774.4 771.8 2.6 — %
+Percentage of net revenues 14.6 % 16.3 %
+Total net revenues $ 5,301.2 $ 4,735.4 $ 565.8 12 %
+
+Total net revenues increased across all customer solutions mainly driven by higher sales volume.
+
+The Automated WAN Solutions and the Cloud-Ready Data Center revenue increased across all verticals.
+
+45
+
+Table of Contents
+The AI-Driven Enterprise revenue increase was primarily driven by Enterprise and Service Provider, partially offset by a decline in Cloud.
+
+Also, software and security products and services represent key areas of our strategic focus that are critical components to our business success. Software and related service offerings include revenue from software license, software support and maintenance and SaaS contracts. Total security offerings include revenue from our complete portfolio of hardware and software security products, including SD-WAN solutions, as well as services related to our security solutions.
+
+The following table presents net revenues from software and security products and services (in millions, except percentages):
+
+----------------------------- ------------------------ ----- ---- ---- -------- ----- -------- - ------ --- -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Software and Related Services $ 994.2 $ 760.9 $ 233.3 31 %
+Percentage of net revenues 18.8 % 16.1 %
+Total Security $ 628.6 $ 656.9 $ (28.3) (4) %
+Percentage of net revenues 11.9 % 13.9 %
+
+Gross Margins
+
+The following table presents gross margins (in millions, except percentages):
+
+------------------------------ ------------------------ ------- ---- ------- -------- ------- -------- - ----- - - -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Product gross margin $ 1,778.2 $ 1,668.7 $ 109.5 7 %
+Percentage of product revenues 50.2 % 54.2 %
+Service gross margin 1,180.1 1,071.4 108.7 10 %
+Percentage of service revenues 67.0 % 64.6 %
+Total gross margin $ 2,958.3 $ 2,740.1 $ 218.2 8 %
+Percentage of net revenues 55.8 % 57.9 %
+
+Our gross margins as a percentage of net revenues have been and will continue to be affected by a variety of factors, including general inflationary pressures, the mix and average selling prices of our products and services, new product introductions and enhancements, manufacturing, component and logistics costs, expenses for inventory obsolescence and warranty obligations, cost of support and service personnel, customer mix as we continue to expand our footprint with certain strategic customers, the mix of distribution channels through which our products and services are sold, and import tariffs. For example, our logistics and other supply chain-related costs have increased due to the ongoing global component shortage. For more information on the impact of supply chain constraints on our business, see the “Risk Factors” section of Item 1A of Part I of this Report.
+
+Product gross margin
+
+Product gross margin as a percentage of product revenues decreased primarily due to $64.8 million in incremental component costs due to supply chain constraints and product mix, partially offset by higher software revenue and pricing actions. We continue to undertake specific efforts to address certain factors impacting our product gross margin. These efforts include performance and quality improvements through engineering to increase value across our products; optimizing our supply chain and service business; pricing management; and increasing software and solution sales.
+
+Service gross margin
+
+Service gross margin as a percentage of service net revenues increased primarily due to higher revenue and lower delivery costs.
+
+46
+
+Table of Contents
+
+Operating Expenses
+
+The following table presents operating expenses (in millions, except percentages):
+
+-------------------------- ------------------------ ------- ---- ------- -------- ------- -------- - ---- - - -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Research and development $ 1,036.1 $ 1,007.2 $ 28.9 3 %
+Percentage of net revenues 19.5 % 21.3 %
+Sales and marketing 1,133.4 1,052.7 80.7 8 %
+Percentage of net revenues 21.4 % 22.2 %
+General and administrative 249.5 249.8 (0.3) — %
+Percentage of net revenues 4.7 % 5.3 %
+Restructuring charges 20.2 42.9 (22.7) (53) %
+Percentage of net revenues 0.4 % 0.9 %
+Total operating expenses $ 2,439.2 $ 2,352.6 $ 86.6 4 %
+Percentage of net revenues 46.0 % 49.7 %
+
+Our operating expenses have historically been driven in large part by personnel-related costs, including salaries and wages; commissions and bonuses, which we refer to collectively as variable compensation; benefits; share-based compensation; and travel. Facility and information technology, or IT, departmental costs are allocated to each department based on usage and headcount. We had a total of 10,901 and 10,191 employees as of December 31, 2022, and 2021, respectively. Our headcount increased by 710 employees, or 7%, primarily from hiring for the research and development and sales and marketing organizations. We expect inflationary pressures to impact operating expense, at least for the next twelve months.
+
+Research and development
+
+Research and development expense, or R&D, increased primarily due to higher personnel-related costs driven by headcount growth.
+
+Sales and marketing
+
+Sales and marketing expense, or S&M, increased primarily due to higher personnel-related costs driven by headcount growth, higher variable compensation and higher travel expenses, as well as higher costs associated with marketing initiatives.
+
+Restructuring charges
+
+Restructuring charges decreased primarily due to lower contract termination, facility consolidation, severance and other exit-related costs recorded in 2022 under the 2022 Restructuring Plan, compared to the charges recorded in 2021 under the 2021 Restructuring Plan.
+
+47
+
+Table of Contents
+Gain on Divestiture
+
+The following table presents the gain on divestiture (in millions, except percentages):
+
+-------------------------- ----------------------- ---- ---- - -------- - -------- - ---- ---
+ Year Ended December 31,
+ 2022 2021 $ Change % Change
+Gain on divestiture $ 45.8 $ — $ 45.8 N/M
+Percentage of net revenues 0.9 % — %
+
+______________________
+N/M - Not meaningful
+
+In 2022, we recognized a gain of $45.8 million related to the divestiture of our silicon photonics business for cash consideration of $90.0 million and a 25% equity interest in the business. For further discussion of the divestiture, see Note 2, Divestiture, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report.
+
+Loss on Extinguishment of Debt
+
+The following table presents the loss on extinguishment of debt (in millions, except percentages):
+
+------------------------------ ------------------------ - ---- ----- -------- ------ -------- - ---- ---
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Loss on extinguishment of debt $ — $ (60.6) $ 60.6 N/M
+Percentage of net revenues — % (1.3) %
+
+_______________________________
+N/M - Not meaningful
+
+In 2021, we incurred a loss on extinguishment of debt of $60.6 million related to the redemption of our Senior Notes maturing in 2024 and June 2025. The loss primarily consisted of a premium on the early redemption and acceleration of unamortized debt discount and fees on the redeemed debt.
+
+Other Expense, Net
+
+The following table presents other expense, net (in millions, except percentages):
+
+-------------------------- ------------------------ ------ ---- ------ -------- ------ -------- - ------ - -- -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Interest income $ 19.6 $ 14.9 $ 4.7 32 %
+Interest expense (58.6) (50.8) (7.8) 15 %
+Gain on investments, net 8.8 17.6 (8.8) (50) %
+Other 1.6 1.5 0.1 7 %
+Total other expense, net $ (28.6) $ (16.8) $ (11.8) 70 %
+Percentage of net revenues (0.5) % (0.4) %
+
+Interest income primarily includes interest earned on our cash, cash equivalents, and investments. Interest expense primarily includes interest, net of capitalized interest expense, from long-term debt and customer financing arrangements. Gain on investments, net, primarily includes gains (losses) from the sale of investments in public and privately-held companies, and any observable changes in fair value and impairment charges recorded on these investments. Other typically consists of foreign exchange gains and losses and other non-operational income and expense items.
+
+Total other expense, net, increased primarily due to higher interest expense related to our debt portfolio and lower net gains from equity investments, partially offset by higher interest income related to our fixed income investment portfolio, as a result of higher yields.
+
+48
+
+Table of Contents
+Income Tax Provision
+
+The following table presents income tax provision (in millions, except percentages):
+
+-------------------- ------------------------ ---- ---- ---- -------- ---- -------- - --- - -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Income tax provision $ 60.5 $ 57.4 $ 3.1 5 %
+Effective tax rate 11.3 % 18.5 %
+
+The effective tax rate for fiscal year 2022 was lower than fiscal year 2021, primarily due to the net difference in discrete items in fiscal year 2022 compared to fiscal year 2021 and a change in the geographic mix of earnings. For a complete reconciliation of our effective tax rate to the U.S. federal statutory rate of 21% and further explanation of our income tax provision, see Note 13, Income Taxes, in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report.
+
+Beginning January 1, 2022, as a result of the Tax Cuts and Jobs Act of 2017 ("Tax Act"), all our U.S. and non-U.S. based R&D expenditures are being capitalized and amortized over five and fifteen years, respectively. In 2022, the new regulations resulted in incremental cash tax payments of approximately $140 million and a reduction in our effective tax rate due to increased benefit from U.S. foreign-derived intangible income. In 2023, the new regulations are expected to result in incremental cash tax payments of up to $25 million related to 2022. The actual impact on future cash flow from operations will primarily depend on if and when this legislation is deferred, modified, or repealed by the U.S. Congress, including if retroactively, and the amount of R&D expenditures paid or incurred in those respective years. We estimate the largest impact will have been to 2022 cash flow from operations and that the impact in future years should gradually decrease over the five- and fifteen-year amortization periods. The Company’s future effective tax rate may be impacted.
+
+49
+
+Table of Contents
+Liquidity and Capital Resources
+
+Liquidity and capital resources may be impacted by our operating activities as well as acquisitions, investments in strategic relationships, repurchases of shares of our common stock, and payment of cash dividends on our common stock. Since the enactment of the Tax Act, we have repatriated a significant amount of cash from outside of the U.S., and plan to continue to repatriate on an ongoing basis. We intend to use the repatriated cash to invest in the business, support value-enhancing mergers and acquisitions, and fund our return of capital to stockholders.
+
+Based on past performance and current expectations, we believe that our existing cash and cash equivalents, short-term, and long-term investments, cash generated from operations together with the revolving credit facility and our ability to access to capital markets will be sufficient to fund our operations; planned stock repurchases and dividends; capital expenditures; purchase commitments and other liquidity requirements; and anticipated growth for at least the next twelve months and thereafter for the foreseeable future. However, our future liquidity and capital requirements may vary materially from those now planned depending on many factors, including, but not limited to, our growth rate; the timing and amount we spend to support development efforts; the expansion of sales and marketing activities; the introduction of new and enhanced products and services; the costs to acquire or invest in businesses and technologies; an increase in manufacturing or component costs; and the risks and uncertainties detailed in the “Risk Factors” section of Item 1A of Part I of this Report.
+
+The Company's material cash requirements include the following contractual and other obligations.
+
+Debt
+
+As of December 31, 2022, we had outstanding fixed-rate senior notes with varying maturities for an aggregate principal amount of $1,700.0 million (collectively the "Notes"), none of which is payable within 12 months. Future interest payments associated with the Notes total $650.0 million, with $55.4 million payable within 12 months.
+
+Purchase Commitments with Contract Manufacturers and Suppliers
+
+In order to reduce manufacturing lead times and in the interest of having access to adequate component supply, we enter into agreements with contract manufacturers and certain suppliers to procure inventory based on the Company's requirements. A significant portion of the Company's purchase commitments arising from these agreements consists of firm and non-cancelable commitments. In certain instances, these agreements allow the Company the option to cancel, reschedule, and adjust its requirements based on the Company's business needs prior to firm orders being placed. As of December 31, 2022, we had purchase commitments of $2,476.3 million, with $2,101.1 million payable within 12 months.
+
+Tax
+
+Our transition tax liability represents future cash payments on accumulated foreign earnings of subsidiaries as a result of the Tax Act. The Company has elected to pay its transition tax, net of applicable tax refunds, over the eight-year period provided in the Tax Act. As of December 31, 2022, the balance of our transition tax obligation was $250.6 million, with $52.1 million payable within 12 months.
+
+As of December 31, 2022, the Company had $81.0 million included in long-term income taxes payable on the Consolidated Balance Sheets for unrecognized tax positions. At this time, the Company is unable to make a reasonably reliable estimate of the timing of payments related to this amount due to uncertainties in the timing of tax audit outcomes.
+
+In 2022, we made tax payments of approximately $253.2 million of which approximately $140 million can be attributed to the capitalization and amortization requirements for R&D expenditures pursuant to the Tax Act.
+
+Leases
+
+The Company leases its facilities and certain equipment under non-cancelable operating leases that have remaining lease terms of 1 to 9 years and 1 to 4 years, respectively. As of December 31, 2022, we had fixed lease payment obligations of $177.3 million, with $48.7 million payable within 12 months.
+
+50
+
+Table of Contents
+Unconditional Purchase Obligations - Other
+
+Unconditional purchase obligations consist of agreements that include firm and non-cancelable terms to transfer funds in the future for fixed or minimum amounts or quantities to be purchased at fixed or minimum prices. As of December 31, 2022, we had unconditional purchase obligations of $96.8 million, with $48.4 million payable within 12 months. See Note 15, Commitments and Contingencies, in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for further discussion of our unconditional purchase obligations.
+
+Guarantees
+
+We have financial guarantees consisting of third-party financing arrangements extended to end-user customers and standby letters of credit for certain lease facilities, insurance programs, and customs of $27.4 million as of December 31, 2022.
+
+Capital Return
+
+In addition to our cash requirements, we have a capital return program authorized by the Board of Directors (the "Board"). In January 2018, the Board, approved a $2.0 billion share repurchase program, which we refer to as the 2018 Stock Repurchase Program. In October 2019, the Board authorized a $1.0 billion increase to the 2018 Stock Repurchase Program for a total of $3.0 billion.
+
+During the fiscal year ended December 31, 2022, we repurchased 9.2 million shares of our common stock in the open market at an average price of $32.32 per share for an aggregate purchase price of $299.7 million, under the 2018 Stock Repurchase Program. As of December 31, 2022, there was $0.6 billion of authorized funds remaining under the 2018 Stock Repurchase Program.
+
+Future share repurchases under the 2018 Stock Repurchase Program will be subject to a review of the circumstances at that time and will be made from time to time in private transactions or open market purchases as permitted by securities laws and other legal requirements. Our 2018 Stock Repurchase Program may be discontinued at any time. See Note 10, Equity, in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for further discussion of our share purchase program.
+
+In addition, any future dividends, and the establishment of record and payment dates, are subject to approval by the Board or an authorized committee thereof. See Note 16, Subsequent Events, in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for discussion of our dividend declaration subsequent to December 31, 2022.
+
+51
+
+Table of Contents
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+[see Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web application development, high-end printing and our Adobe Advertising Cl...
+
+[see Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 83
+
+[See Note 15]:
+Note 15 - Commitments and Contingencies Operating Lease Arrangement in Buffalo, New York We have an operating lease through the Research Foundation for the SUNY Foundation with respect to Gigafactory New York. Under the lease and a related research and development agreement, we are continuing to further develop the facility. Under this agreement, we are obligated to, among other things, meet employment targets as well as specified minimum numbers of personnel in the State of New York and in Buffalo, New York and spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York during the 10-year period beginning April 30, 2018. On an annual basis during the initial lease term, as measured on each anniversary of such date, if we fail to meet these specified investment and job creation requirements, then we would be obligated to pay a $41 million "program payment" to the SUNY Foundation for each year that we fail to meet these requirements. Furthermore, if the arrangement is terminated due to a material breach by us, then additional amounts may become payable by us. In 2021, an amendment was executed to extend our overall agreement to spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York through December 31, 2029. On February 1, 2022, we reported to the State of New York that we had met and exceeded our annual requirements for jobs and investment in Buffalo and New York State. As of December 31, 2022, we are currently in excess of such targets relating to investments and personnel in the State of New York and Buffalo and do not currently expect any issues meeting our applicable obligations in the years beyond. However, if our expectations as to the costs and timelines of our investment and operations at Buffalo or our production ramp of the Solar Roof prove incorrect, we may incur additional expenses or be required to make s...
+
+[See Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2022, 2021 and 2020 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2022 2021 2020 Domestic $ 1,958 $ 1,736 $ 1,090 Foreign 4,050 3,969 3,086 Income before income taxes $ 6,008 $ 5,705 $ 4,176 The provision for (benefit from) income taxes for fiscal 2022, 2021 and 2020 consisted of the following: ----------------------------------------- ---- ----- ---- ----- ---- --- ------- - ------- (in millions) 2022 2021 2020 Current: United States federal $ 465 $ 391 $ 119 Foreign 329 197 222 State and local 132 103 79 Total current 926 691 420 Deferred: United States federal (45) (148) (123) Foreign 360 359 (1,313) State and local 11 (19) (68) Total deferred 326 192 (1,504) Provision for (benefit from) income taxes $ 1,252 $ 883 $ (1,084) Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the income tax expense computed at the U.S. federal statutory rate of 21% as a result of the following: ---------------------------------------...
+
+[See Note 16]:
+NOTE 16. COMMITMENTS AND CONTINGENCIES Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. The following table summarizes our non-cancellable unconditional purchase obligations for each of the next five years and thereafter as of December 2, 2022, primarily relating to contracts with vendors for third-party hosting and data center services: ------------- -------------------- ----- (in millions) Fiscal Year Purchase Obligations 2023 $ 1,632 2024 921 2025 775 2026 753 2027 783 Thereafter 1,226 Total $ 6,090 Royalties We have royalty commitments associated with the licensing of certain offerings and products. Royalty expense is generally based on a dollar amount per unit or a percentage of the underlying revenue. Royalty expense, which was recorded in our cost of revenue on our Consolidated Statements of Income, was approximately $228 million, $202 million and $176 million in fiscal 2022, 2021 and 2020, respectively. Indemnifications In the ordinary course of business, we provide indemnifications of varying scope to customers and channel partners against claims of intellectual property infringement made by third parties arising from the use of our products and from time to time, we are subject to claims by our customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations. To the extent permitted under Delaware law, we have agreements whereby we indemnify our officers and directors for certain events or occurrences while the officer or director is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the officer's or director's lifetime. The maximum potential amount of future payments w...
+
+[Item 1 of Part I]:
+Item 1 Business 1
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 20
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 1A of Part II]:
+Item 1A. Risk Factors 20
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 20
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 20
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+['s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion should be read with the Business section in Item 1 of Part I and the Consolidated Financial Statements and the related notes in Item 8 of Part II of this Report. We intend the discussion of our financial condition and results of operations to provide information that will assist the reader in understanding our Consolidated Financial Statements, the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting estimates affect our Consolidated Financial Statements. To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a financial results and key performance metrics overview and a discussion of material events and uncertainties known to management such as the COVID-19 pandemic and global component shortage. These sections should be read in conjunction with the more detailed discussion and analysis of our consolidated financial condition and results of operations in this Item 7, our “Risk Factors” section included in Item 1A of Part I, and our Consolidated Financial Statements and notes thereto included in Item 8 of Part II of this Report.
+
+40
+
+Table of Contents
+Executive Overview
+
+Financial Results and Key Performance Metrics Overview
+
+The following table provides an overview of our financial results and key financial metrics (in millions, except per share amounts, percentages, and days sales outstanding, or DSO):
+
+-------------------------------------------------------------------- ------------------------------------------ ------- ---- ------- -------- ------- -------- - ------- - ---- -
+ As of and for the Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Net revenues $ 5,301.2 $ 4,735.4 $ 565.8 12 %
+Gross margin $ 2,958.3 $ 2,740.1 $ 218.2 8 %
+Percentage of net revenues 55.8 % 57.9 %
+Operating income $ 519.1 $ 387.5 $ 131.6 34 %
+Percentage of net revenues 9.8 % 8.2 %
+Net income $ 471.0 $ 252.7 $ 218.3 86 %
+Percentage of net revenues 8.9 % 5.3 %
+Net income per share
+Basic $ 1.46 $ 0.78 $ 0.68 87 %
+Diluted $ 1.43 $ 0.76 $ 0.67 88 %
+
+Operating cash flows $ 97.6 $ 689.7 $ (592.1) (86) %
+Stock repurchase plan activity $ 299.7 $ 433.3 $ (133.6) (31) %
+Cash dividends declared per common stock $ 0.84 $ 0.80 $ 0.04 5 %
+DSO(1) 76 69 7 10 %
+
+Deferred revenue:
+Deferred product revenue $ 108.8 $ 129.1 $ (20.3) (16) %
+Deferred service revenue 1,554.3 1,284.5 269.8 21 %
+Total $ 1,663.1 $ 1,413.6 $ 249.5 18 %
+
+Deferred revenue from customer solutions(2) $ 632.8 $ 442.1 $ 190.7 43 %
+Deferred revenue from hardware maintenance and professional services 1,030.3 971.5 58.8 6 %
+Total $ 1,663.1 $ 1,413.6 $ 249.5 18 %
+
+________________________________
+(1)     DSO is for the fourth quarter ended December 31, 2022, and 2021.
+(2)     Includes deferred revenue from hardware solutions, software licenses, software support and maintenance and SaaS offerings sold in our Automated WAN Solutions, Cloud-Ready Data Center, and AI-Driven Enterprise customer solution categories.
+
+•Net Revenues: Net revenues increased during 2022 compared to 2021 across all of our verticals, customer solutions, and geographies. Service net revenues increased primarily due to strong sales of software subscriptions.
+
+•Gross Margin: Gross margin as a percentage of net revenues decreased during 2022 compared to 2021. Product gross margin decreased primarily due to incremental component costs due to supply chain constraints and product mix, partially offset by higher software revenue and pricing actions. The decrease in product gross margin was partially offset by the increase in service gross margin, which was primarily due to higher revenue and lower service delivery costs.
+
+•Operating Margin: Operating income as a percentage of net revenues increased primarily due to higher revenue, partially offset by the drivers described in the gross margin discussion above and higher personnel-related expenses driven by an increase in headcount.
+
+41
+
+Table of Contents
+•Operating Cash Flows: Net cash provided by operations decreased primarily due to higher supplier payments for inventory and contract manufacturer deposits in order to address significant industry-wide supply constraints. As of December 31, 2022, our inventory balance was $642.9 million, an increase of $358.7 million from the prior year, and our contract manufacturer deposit balance was $434.7 million, an increase of $210.9 million from the prior year. We also had approximately $140 million in tax payments attributed to the capitalization and amortization requirements for R&D expenditures pursuant to the Tax Act. The increase in payments was partially offset by higher collections from increased invoicing activity.
+
+•Capital Return: We continue to return capital to our stockholders. During 2022, we repurchased a total of 9.2 million shares of our common stock in the open market at an average price of $32.32 per share for an aggregate purchase price of $299.7 million. During 2022, we paid quarterly dividends of $0.21 per share, for an aggregate amount of $270.4 million.
+
+•DSO: DSO is calculated as the ratio of ending accounts receivable, net of allowances, divided by average daily net revenues for the preceding 90 days. DSO increased, primarily driven by higher overall invoicing, partially offset by higher revenue.
+
+•Deferred Revenue: Total deferred revenue increased, primarily driven by an increase in deferrals of SaaS and software license subscriptions.
+
+Global Component Shortage and COVID-19 Pandemic Update
+
+We continue to monitor and evaluate the impact of the COVID-19 pandemic on our business operations on a regional, national, and global basis. In 2022, we reopened our facilities world-wide for office-based employees in a new office/hybrid collaboration model. We do not expect the pandemic to have a substantial net impact on our consolidated operating results or our liquidity position.
+
+We have a global supply chain, which is primarily composed of manufacturing partners and component suppliers. Global supply chain constraints in the wake of the COVID-19 pandemic have resulted in disruption to our production schedule due to both constrained manufacturing capacity as well as component parts shortages as our component vendors were also facing manufacturing challenges. These challenges resulted in extended lead times of certain products to our customers, increased logistics costs, and impacted the volume of products we were able to deliver, which negatively impacted our ability to recognize revenue. To meet our customer needs, our supply chain team has been executing on a strong risk mitigation plan to resolve our challenges, further enhance our supply chain resiliency, and mitigate the effects of disruptions including, multi-sourcing, pre-ordering components, transforming our logistics network, prioritizing critical customers, and partnering on solutions that limit disruptions to our operations while ensuring the safety of our employees, partners, and suppliers.
+
+Similar to others, we continue to experience elevated component costs and inventory balances. These have had a negative impact on our gross margin and operating cash flow. We believe some of the strength in previous product orders was attributable to these industry supply chain challenges that were causing certain customers to place orders early in an effort to secure supply when needed, which resulted in significantly elevated backlog levels. In the third and fourth quarter of 2022, we saw a decline in product orders as buying patterns normalized and customers consumed previously placed orders. We anticipate backlog to remain at elevated levels but expect it to decline as supply improves.
+
+We believe the extended lead times and increased component and logistic costs will modestly improve through the course of 2023. We have taken pricing actions to mitigate some of the effects of rising component costs and general inflationary pressures arising from supply chain constraints as well as overall macroeconomic conditions, and expect these actions to have a more substantial impact in 2023. While the situation is dynamic, at this point in time, we believe we will have access to sufficient supplies of semiconductors and other components and will be able to meet our full-year financial forecast. See the section entitled “Risk Factors” in Item 1A of Part II of this Report for further discussion of this risk.
+
+42
+
+Table of Contents
+Critical Accounting Estimates
+
+The preparation of the financial statements and related disclosures in conformity with U.S. GAAP requires us to make judgments, assumptions, and estimates that affect the amounts reported in the Consolidated Financial Statements and the accompanying notes. We base our estimates and assumptions on current facts, historical experience, and various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Note 1, Description of Business, Basis of Presentation and Significant Accounting Policies, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report, describes the significant accounting policies and methods used in the preparation of the Consolidated Financial Statements.
+
+The below accounting policies require significant judgments, assumptions, and estimates used in the preparation of the Consolidated Financial Statements and actual results could differ materially from the amounts reported based on these policies.
+
+•Revenue Recognition: We enter into contracts to sell our products and services, and while most of our sales agreements contain standard terms and conditions, there are agreements that contain non-standard terms and conditions and include promises to transfer multiple goods or services. As a result, significant interpretation and judgment are sometimes required to determine the appropriate accounting for these transactions, including: (1) whether performance obligations are considered distinct that should be accounted for separately versus together, how the price should be allocated among the performance obligations, and when to recognize revenue for each performance obligation; (2) developing an estimate of the stand-alone selling price, or SSP, of each distinct performance obligation; (3) combining contracts that may impact the allocation of the transaction price between product and services; and (4) estimating and accounting for variable consideration, including rights of return, rebates, price protection, expected penalties or other price concessions as a reduction of the transaction price.
+
+Our estimates of SSP for each performance obligation require judgment that considers multiple factors, including, but not limited to, historical discounting trends for products and services, pricing practices in different geographies and through different sales channels, gross margin objectives, internal costs, competitor pricing strategies, and industry technology lifecycles. Our estimates for rights of return, rebates, and price protection are based on historical sales returns and price protection credits, specific criteria outlined in customer contracts or rebate agreements, and other factors known at the time. Our estimates for expected penalties and other price concessions are based on historical trends and expectations regarding future incurrence.
+
+Changes in judgments with respect to these assumptions and estimates could impact the timing or amount of revenue recognition.
+
+•Income Taxes: We are subject to income taxes in the United States and numerous foreign jurisdictions. We apply the authoritative accounting guidance for uncertainty in income taxes to all income tax positions, including the potential recovery of previously paid taxes, which if settled unfavorably could adversely affect our provision for income taxes. Significant judgment is required in evaluating our uncertain tax positions and determining our taxes including the interpretation and application of GAAP and complex domestic and international tax laws and matters related to the allocation of international taxation rights between countries. In addition, we are subject to the continuous examination of our income tax returns by the IRS and other tax authorities. We regularly assess the likelihood of adverse outcomes resulting from these examinations to determine the adequacy of our provision for income taxes. Although we believe our reserves are reasonable, no assurance can be given that the final tax outcome of these matters will not be different from that which is reflected in our historical income tax provisions and accruals. We adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit or the refinement of an estimate. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences will affect the provision for income taxes in the period in which such determination is made.
+
+Significant judgment is also required in determining any valuation allowance recorded against deferred tax assets. In assessing the need for a valuation allowance, we consider all available evidence, including past operating results, estimates of future taxable income, and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.
+
+43
+
+Table of Contents
+
+Recent Accounting Pronouncements
+
+See Note 1, Description of Business, Basis of Presentation and Significant Accounting Policies, in Notes to the Consolidated Financial Statements in Item 8 of Part II of this Report for a full description of recent accounting pronouncements, including the expected dates of adoption and estimated effects on financial condition and results of operations, which is incorporated herein by reference.
+
+44
+
+Table of Contents
+Results of Operations
+
+A discussion regarding our financial condition and results of operations for the fiscal year ended December 31, 2022 compared to 2021 is presented below. A discussion regarding our financial condition and results of operations for the fiscal year ended December 31, 2021 compared to 2020 can be found under Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2021, filed with the SEC on February 11, 2022, which is available on the SEC’s website at www.sec.gov and our Investor Relations website at http://investor.juniper.net.
+
+Revenues
+
+The following table presents net revenues by customer solution, customer vertical, and geographic region (in millions, except percentages):
+
+---------------------------------------------- ------------------------ ------- ---- ------- -------- ------- -------- - ----- - -- -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+Customer Solutions:
+Automated WAN Solutions $ 1,865.3 $ 1,665.0 $ 200.3 12 %
+Percentage of net revenues 35.2 % 35.2 %
+Cloud-Ready Data Center 878.9 727.1 151.8 21 %
+Percentage of net revenues 16.6 % 15.4 %
+AI-Driven Enterprise 1,026.2 830.4 195.8 24 %
+Percentage of net revenues 19.4 % 17.5 %
+Hardware Maintenance and Professional Services 1,530.8 1,512.9 17.9 1 %
+Percentage of net revenues 28.8 % 31.9 %
+Total net revenues $ 5,301.2 $ 4,735.4 $ 565.8 12 %
+
+Customer Verticals:
+Cloud $ 1,393.6 $ 1,228.0 $ 165.6 13 %
+Percentage of net revenues 26.3 % 25.9 %
+Service Provider 1,891.2 1,839.1 52.1 3 %
+Percentage of net revenues 35.7 % 38.8 %
+Enterprise 2,016.4 1,668.3 348.1 21 %
+Percentage of net revenues 38.0 % 35.3 %
+Total net revenues $ 5,301.2 $ 4,735.4 $ 565.8 12 %
+
+Geographic Regions:
+Americas:
+United States $ 2,931.6 $ 2,426.9 $ 504.7 21 %
+Other 225.2 222.2 3.0 1 %
+Total Americas 3,156.8 2,649.1 507.7 19 %
+Percentage of net revenues 59.6 % 55.9 %
+EMEA 1,370.0 1,314.5 55.5 4 %
+Percentage of net revenues 25.8 % 27.8 %
+APAC 774.4 771.8 2.6 — %
+Percentage of net revenues 14.6 % 16.3 %
+Total net revenues $ 5,301.2 $ 4,735.4 $ 565.8 12 %
+
+Total net revenues increased across all customer solutions mainly driven by higher sales volume.
+
+The Automated WAN Solutions and the Cloud-Ready Data Center revenue increased across all verticals.
+
+45
+
+Table of Contents
+The AI-Driven Enterprise revenue increase was primarily driven by Enterprise and Service Provider, partially offset by a decline in Cloud.
+
+Also, software and security products and services represent key areas of our strategic focus that are critical components to our business success. Software and related service offerings include revenue from software license, software support and maintenance and SaaS contracts. Total security offerings include revenue from our complete portfolio of hardware and software security products, including SD-WAN solutions, as well as services related to our security solutions.
+
+The following table presents net revenues from software and security products and services (in millions, except percentages):
+
+----------------------------- ------------------------ ----- ---- ---- -------- ----- -------- - ------ --- -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Software and Related Services $ 994.2 $ 760.9 $ 233.3 31 %
+Percentage of net revenues 18.8 % 16.1 %
+Total Security $ 628.6 $ 656.9 $ (28.3) (4) %
+Percentage of net revenues 11.9 % 13.9 %
+
+Gross Margins
+
+The following table presents gross margins (in millions, except percentages):
+
+------------------------------ ------------------------ ------- ---- ------- -------- ------- -------- - ----- - - -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Product gross margin $ 1,778.2 $ 1,668.7 $ 109.5 7 %
+Percentage of product revenues 50.2 % 54.2 %
+Service gross margin 1,180.1 1,071.4 108.7 10 %
+Percentage of service revenues 67.0 % 64.6 %
+Total gross margin $ 2,958.3 $ 2,740.1 $ 218.2 8 %
+Percentage of net revenues 55.8 % 57.9 %
+
+Our gross margins as a percentage of net revenues have been and will continue to be affected by a variety of factors, including general inflationary pressures, the mix and average selling prices of our products and services, new product introductions and enhancements, manufacturing, component and logistics costs, expenses for inventory obsolescence and warranty obligations, cost of support and service personnel, customer mix as we continue to expand our footprint with certain strategic customers, the mix of distribution channels through which our products and services are sold, and import tariffs. For example, our logistics and other supply chain-related costs have increased due to the ongoing global component shortage. For more information on the impact of supply chain constraints on our business, see the “Risk Factors” section of Item 1A of Part I of this Report.
+
+Product gross margin
+
+Product gross margin as a percentage of product revenues decreased primarily due to $64.8 million in incremental component costs due to supply chain constraints and product mix, partially offset by higher software revenue and pricing actions. We continue to undertake specific efforts to address certain factors impacting our product gross margin. These efforts include performance and quality improvements through engineering to increase value across our products; optimizing our supply chain and service business; pricing management; and increasing software and solution sales.
+
+Service gross margin
+
+Service gross margin as a percentage of service net revenues increased primarily due to higher revenue and lower delivery costs.
+
+46
+
+Table of Contents
+
+Operating Expenses
+
+The following table presents operating expenses (in millions, except percentages):
+
+-------------------------- ------------------------ ------- ---- ------- -------- ------- -------- - ---- - - -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Research and development $ 1,036.1 $ 1,007.2 $ 28.9 3 %
+Percentage of net revenues 19.5 % 21.3 %
+Sales and marketing 1,133.4 1,052.7 80.7 8 %
+Percentage of net revenues 21.4 % 22.2 %
+General and administrative 249.5 249.8 (0.3) — %
+Percentage of net revenues 4.7 % 5.3 %
+Restructuring charges 20.2 42.9 (22.7) (53) %
+Percentage of net revenues 0.4 % 0.9 %
+Total operating expenses $ 2,439.2 $ 2,352.6 $ 86.6 4 %
+Percentage of net revenues 46.0 % 49.7 %
+
+Our operating expenses have historically been driven in large part by personnel-related costs, including salaries and wages; commissions and bonuses, which we refer to collectively as variable compensation; benefits; share-based compensation; and travel. Facility and information technology, or IT, departmental costs are allocated to each department based on usage and headcount. We had a total of 10,901 and 10,191 employees as of December 31, 2022, and 2021, respectively. Our headcount increased by 710 employees, or 7%, primarily from hiring for the research and development and sales and marketing organizations. We expect inflationary pressures to impact operating expense, at least for the next twelve months.
+
+Research and development
+
+Research and development expense, or R&D, increased primarily due to higher personnel-related costs driven by headcount growth.
+
+Sales and marketing
+
+Sales and marketing expense, or S&M, increased primarily due to higher personnel-related costs driven by headcount growth, higher variable compensation and higher travel expenses, as well as higher costs associated with marketing initiatives.
+
+Restructuring charges
+
+Restructuring charges decreased primarily due to lower contract termination, facility consolidation, severance and other exit-related costs recorded in 2022 under the 2022 Restructuring Plan, compared to the charges recorded in 2021 under the 2021 Restructuring Plan.
+
+47
+
+Table of Contents
+Gain on Divestiture
+
+The following table presents the gain on divestiture (in millions, except percentages):
+
+-------------------------- ----------------------- ---- ---- - -------- - -------- - ---- ---
+ Year Ended December 31,
+ 2022 2021 $ Change % Change
+Gain on divestiture $ 45.8 $ — $ 45.8 N/M
+Percentage of net revenues 0.9 % — %
+
+______________________
+N/M - Not meaningful
+
+In 2022, we recognized a gain of $45.8 million related to the divestiture of our silicon photonics business for cash consideration of $90.0 million and a 25% equity interest in the business. For further discussion of the divestiture, see Note 2, Divestiture, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report.
+
+Loss on Extinguishment of Debt
+
+The following table presents the loss on extinguishment of debt (in millions, except percentages):
+
+------------------------------ ------------------------ - ---- ----- -------- ------ -------- - ---- ---
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Loss on extinguishment of debt $ — $ (60.6) $ 60.6 N/M
+Percentage of net revenues — % (1.3) %
+
+_______________________________
+N/M - Not meaningful
+
+In 2021, we incurred a loss on extinguishment of debt of $60.6 million related to the redemption of our Senior Notes maturing in 2024 and June 2025. The loss primarily consisted of a premium on the early redemption and acceleration of unamortized debt discount and fees on the redeemed debt.
+
+Other Expense, Net
+
+The following table presents other expense, net (in millions, except percentages):
+
+-------------------------- ------------------------ ------ ---- ------ -------- ------ -------- - ------ - -- -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Interest income $ 19.6 $ 14.9 $ 4.7 32 %
+Interest expense (58.6) (50.8) (7.8) 15 %
+Gain on investments, net 8.8 17.6 (8.8) (50) %
+Other 1.6 1.5 0.1 7 %
+Total other expense, net $ (28.6) $ (16.8) $ (11.8) 70 %
+Percentage of net revenues (0.5) % (0.4) %
+
+Interest income primarily includes interest earned on our cash, cash equivalents, and investments. Interest expense primarily includes interest, net of capitalized interest expense, from long-term debt and customer financing arrangements. Gain on investments, net, primarily includes gains (losses) from the sale of investments in public and privately-held companies, and any observable changes in fair value and impairment charges recorded on these investments. Other typically consists of foreign exchange gains and losses and other non-operational income and expense items.
+
+Total other income investment portfolio, as a result of higher yields.
+
+48
+
+Table of Contents
+Income Tax Provision
+
+The following table presents income tax provision (in millions, except percentages):
+
+-------------------- ------------------------ ---- ---- ---- -------- ---- -------- - --- - -
+ Years Ended December 31,
+ 2022 2021 $ Change % Change
+
+Income tax provision $ 60.5 $ 57.4 $ 3.1 5 %
+Effective tax rate 11.3 % 18.5 %
+
+The effective tax rate for fiscal year 2022 was lower than fiscal year 2021, primarily due to the net difference in discrete items in fiscal year 2022 compared to fiscal year 2021 and a change in the in the Notes to Consolidated Financial Statements in Item 8 of Part II of this Report.
+
+Beginning January 1, 2022, as a result of the Tax Cuts and Jobs Act of 2017 ("]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+["), all our U.S. and non-U.S. based R&D expenditures are being capitalized and amortized over five and fifteen years, respectively. In 2022, the new regulations resulted in incremental cash tax payments of approximately $140 million and a reduction in our effective tax rate due to increased benefit from U.S. foreign-derived intangible income. In 2023, the new regulations are expected to result in incremental cash tax payments of up to $25 million related to 2022. The actual impact on future cash flow from operations will primarily depend on if and when this legislation is deferred, modified, or repealed by the U.S. Congress, including if retroactively, and the amount of R&D expenditures paid or incurred in those respective years. We estimate the largest impact will have been to 2022 cash flow from operations and that the impact in future years should gradually decrease over the five- and fifteen-year amortization periods. The Company’s future effective tax rate may be impacted.
+
+49
+
+Table of Contents
+Liquidity and Capital Resources
+
+Liquidity and capital resources may be impacted by our operating activities as well as acquisitions, investments in strategic relationships, repurchases of shares of our common stock, and payment of cash dividends on our common stock. Since the enactment of the Tax Act, we have repatriated a significant amount of cash from outside of the U.S., and plan to continue to repatriate on an ongoing basis. We intend to use the repatriated cash to invest in the business, support value-enhancing mergers and acquisitions, and fund our return of capital to stockholders.
+
+Based on past performance and current expectations, we believe that our existing cash and cash equivalents, short-term, and long-term investments, cash generated from operations together with the revolving credit facility and our ability to access to capital markets will be sufficient to fund our operations; planned stock repurchases and dividends; capital expenditures; purchase commitments and other liquidity requirements; and anticipated growth for at least the next twelve months and thereafter for the foreseeable future. However, our future liquidity and capital requirements may vary materially from those now planned depending on many factors, including, but not limited to, our growth rate; the timing and amount we spend to support development efforts; the expansion of sales and marketing activities; the introduction of new and enhanced products and services; the costs to acquire or invest in businesses and technologies; an increase in manufacturing or component costs; and the risks and uncertainties detailed in the “Risk Factors” section of Item 1A of Part I of this Report.
+
+The Company']:
+Item 1A. Risk Factors 20
+
+['s business needs prior to firm orders being placed. As of December 31, 2022, we had purchase commitments of $2,476.3 million, with $2,101.1 million payable within 12 months.
+
+Tax
+
+Our transition tax liability represents future cash payments on accumulated foreign earnings of subsidiaries as a result of the Tax Act. The Company has elected to pay its transition tax, net of applicable tax refunds, over the eight-year period provided in the Tax Act. As of December 31, 2022, the balance of our transition tax obligation was $250.6 million, with $52.1 million payable within 12 months.
+
+As of December 31, 2022, the Company had $81.0 million included in long-term income taxes payable on the Consolidated Balance Sheets for unrecognized tax positions. At this time, the Company is unable to make a reasonably reliable estimate of the timing of payments related to this amount due to uncertainties in the timing of tax audit outcomes.
+
+In 2022, we made tax payments of approximately $253.2 million of which approximately $140 million can be attributed to the capitalization and amortization requirements for R&D expenditures pursuant to the Tax Act.
+
+Leases
+
+The Company leases its facilities and certain equipment under non-cancelable operating leases that have remaining lease terms of 1 to 9 years and 1 to 4 years, respectively. As of December 31, 2022, we had fixed lease payment obligations of $177.3 million, with $48.7 million payable within 12 months.
+
+50
+
+Table of Contents
+Unconditional Purchase Obligations - Other
+
+Unconditional purchase obligations consist of agreements that include firm and non-cancelable terms to transfer funds in the future for fixed or minimum amounts or quantities to be purchased at fixed or minimum prices. As of December 31, 2022, we had unconditional purchase obligations discussion of our unconditional purchase obligations.
+
+Guarantees
+
+We have financial guarantees consisting of third-party financing arrangements extended to end-user customers and standby letters of credit for certain lease facilities, insurance programs, and customs of $27.4 million as of December 31, 2022.
+
+Capital Return
+
+In addition to our cash requirements, we have a capital return program authorized by the Board of Directors (the "]:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement

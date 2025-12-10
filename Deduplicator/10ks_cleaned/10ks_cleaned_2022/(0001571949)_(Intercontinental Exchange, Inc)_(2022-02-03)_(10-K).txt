@@ -1,0 +1,1085 @@
+================================================================================
+CIK: 0001571949
+Company Name: Intercontinental Exchange, Inc
+Filing Date: 2022-02-03
+Form Type: 10-K
+Extraction Date: 2025-09-02 01:28:42
+================================================================================
+
+ITEM 7.    MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements for many reasons. See the factors set forth under the heading “Forward Looking Statements” at the beginning of Part 1 of this Annual Report and in Item 1(A) under the heading “Risk Factors.” For discussion related to the results of operations and changes in financial condition for 2020 compared to 2019 refer to Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in our 2020 Annual Report on Form 10-K, which was filed with the U.S. Securities and Exchange Commission on February 4, 2021.
+Overview
+We are a provider of market infrastructure, data services and technology solutions to a broad range of customers including financial institutions, corporations and government entities. These products, which span major asset classes including futures, equities, fixed income and U.S. residential mortgages, provide our customers with access to mission critical tools that are designed to increase asset class transparency and workflow efficiency. We report our results in three segments: Exchanges, Fixed Income and Data Services, and Mortgage Technology. The majority of our identifiable assets are located in the U.S. and U.K.
+•In our Exchanges segment, we operate regulated marketplaces for the listing, trading and clearing of a broad array of derivatives contracts and financial securities.
+•In our Fixed Income and Data Services segment, we provide fixed income pricing, reference data, indices, analytics and execution services as well as global CDS clearing and multi-asset class data delivery solutions.
+•In our Mortgage Technology segment, we provide an end-to-end technology platform that offers customers comprehensive, digital workflow tools that aim to address the inefficiencies that exist in the U.S. residential mortgage market.
+Recent Developments
+Bakkt Transaction
+On October 15, 2021, Bakkt Holdings, LLC, or Bakkt, completed its merger with VPC Impact Acquisition Holdings, or VIH, a special purpose acquisition company sponsored by Victory Park Capital, or VPC. Bakkt is an integrated platform that enables customers and consumers to transact in digital assets.
+The business combination between Bakkt and VIH resulted in enterprise value of approximately $2.1 billion, including approximately $479 million of cash on the combined company’s balance sheet, reflecting a contribution of up to $123 million of cash held in VIH’s trust account, and a $325 million concurrent private investment in public equity, or PIPE, of Class A common stock of the combined company and $31 million of cash held in Bakkt accounts. The PIPE was priced at $10.00 per share and included a $47 million commitment from us. The newly combined company has been renamed Bakkt Holdings, Inc. and is listed on the New York Stock Exchange, or NYSE.
+As part of the transaction, Bakkt’s existing equity holders and management rolled 100% of their equity into the combined company, and are subject to a six-month lockup period. Certain shareholders of VIH exercised their redemption rights, and at closing, Bakkt equity holders, including ICE, owned approximately 81% of the combined company, VIH’s public shareholders owned approximately 5%, VPC owned 2%, and PIPE investors (a group that also includes us) owned approximately 12% of the issued and outstanding common stock of the combined company.
+Following completion of the business combination, we initially held a 68% economic interest and a minority voting interest in the combined company. Prior to the closing, Bakkt revenues and operating expenses were reported within our consolidated revenues and operating expenses. Following the closing, as a consequence of holding a minority voting interest in the combined company, during the fourth quarter of 2021 we deconsolidated Bakkt and treat it as an equity method investment within our financial statements. We recorded a gain on the transaction of $1.4 billion during the fourth quarter of 2021, which is included in other non-operating income within our consolidated income statement. For the three
+
+43
+
+months ended December 31, 2021, we recorded estimated equity losses of ($92 million) related to our investment in Bakkt.
+COVID-19
+Since March 2020, the coronavirus (COVID-19) pandemic has created economic and financial disruptions globally and has led governmental authorities to take unprecedented measures to mitigate the spread of the disease, including travel bans, border closings, business closures, quarantines and shelter-in-place orders, and to take actions designed to stabilize markets and promote economic growth.
+From an operational perspective, our businesses, including our exchanges, clearing houses, listing venues, data services businesses, and mortgage platforms, have remained open and we do not have any plans to close any of our business operations as a result of the COVID-19 pandemic. However, due to the COVID-19 pandemic, we have taken preventative measures and implemented contingency plans, and many of our employees are continuing to work remotely. We believe that our global office closures and phased re-opening measures were and continue to be in compliance, as necessary, with local government directives and social distancing directives. We continue to monitor local government mandates in determining our office re-openings, re-closures and work-related travel.
+Global health concerns relating to COVID-19 and preventive measures taken to reduce its spread have created significant volatility in financial markets, which has resulted in higher trading volumes for some of our products and increased demand for our services.
+The extent of the impact of the pandemic on our business will depend on future developments, including the duration, spread and severity of the outbreak, the effectiveness of vaccines against COVID-19 over the long term and against new and emerging variants thereof, and the actions taken to contain the spread of the disease or mitigate its impact. We continue to monitor this dynamic situation, including guidance and regulations issued by U.S. and other governmental authorities. In light of the continually evolving nature of the COVID-19 outbreak, we are not able at this time to estimate the ultimate effect of the pandemic on our business, results of operations or financial condition in the future.
+
+Consolidated Financial Highlights
+The following summarizes our results and significant changes in our consolidated financial performance for the periods presented (dollars in millions, except per share amounts):
+
+44
+
+------------------------------------------------------------------------------ ----------------------- ----- ---- -- - ----------------------- ------- ---- - - ------ ----- - ------ ----- -- -- -
+ Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Revenues, less transaction-based expenses $ 7,146 $ 6,036 18 % $ 6,036 $ 5,202 16 %
+Operating expenses $ 3,697 $ 3,003 23 % $ 3,003 $ 2,529 19 %
+Adjusted operating expenses(1) $ 2,977 $ 2,495 19 % $ 2,495 $ 2,189 14 %
+Operating income $ 3,449 $ 3,033 14 % $ 3,033 $ 2,673 13 %
+Adjusted operating income(1) $ 4,169 $ 3,541 18 % $ 3,541 $ 3,013 18 %
+Operating margin 48 % 50 % (2 pts) 50 % 51 % (1 pt)
+Adjusted operating margin(1) 58 % 59 % (1 pt) 59 % 58 % 1 pt
+Other income (expense), net $ 2,249 $ (267) n/a $ (267) $ (192) 39 %
+Income tax expense $ 1,629 $ 658 148 % $ 658 $ 521 26 %
+Effective tax rate 29 % 24 % 5 pts 24 % 21 % 3 pts
+
+Net income attributable to ICE $ 4,058 $ 2,089 94 % $ 2,089 $ 1,933 8 %
+Adjusted net income attributable to ICE(1) $ 2,910 $ 2,449 19 % $ 2,449 $ 2,142 14 %
+
+Diluted earnings per share attributable to ICE common stockholders $ 7.18 $ 3.77 90 % $ 3.77 $ 3.42 10 %
+Adjusted diluted earnings per share attributable to ICE common stockholders(1) $ 5.15 $ 4.41 17 % $ 4.41 $ 3.79 16 %
+Cash flows from operating activities $ 3,123 $ 2,881 8 % $ 2,881 $ 2,659 8 %
+
+*Percentage changes in the table above deemed "n/a" are not meaningful.
+(1) The adjusted figures exclude items that are not reflective of our ongoing core operations and business performance. Adjusted net income attributable to ICE and adjusted diluted earnings per share attributable to ICE common stockholders are presented net of taxes. These adjusted numbers are not calculated in accordance with U.S. Generally Accepted Accounting Principles, or GAAP. See “- Non-GAAP Financial Measures” below.
+
+45
+
+•Revenues, less transaction-based expenses, increased $1.1 billion in 2021 from 2020. The increase in revenues includes $44 million in favorable foreign exchange effects arising from the weaker U.S. dollar in 2021 from 2020.
+•Revenues, less transaction-based expenses, increased $834 million in 2020 from 2019. The increase in revenues includes $7 million in favorable foreign exchange effects arising from the weaker U.S. dollar in 2020 from 2019.
+•Operating expenses increased $694 million in 2021 from 2020. The increase in operating expenses includes $22 million in unfavorable foreign exchange effects arising from the weaker U.S. dollar in 2021 from 2020.
+•Operating expenses increased $474 million in 2020 from 2019. The increase in operating expenses includes $2 million in unfavorable foreign exchange effects arising from the weaker U.S. dollar in 2020 from 2019.
+•Other income (expense), net, in 2021 primarily includes our gain on the Bakkt transaction of $1.4 billion, our gain on the sale of our Coinbase Global, Inc., or Coinbase, investment of $1.2 billion, equity earnings in OCC of $51 million, estimated equity losses in our investment in Bakkt during the post-merger period of $92 million, dividend income from Euroclear plc, or Euroclear, of $60 million, a fair value adjustment gain on our Euroclear investment of $34 million and interest expense of $423 million.
+•Other income (expense), net, in 2020 primarily includes interest expense of $357 million, equity earnings in OCC of $71 million, an accrual for potential legal settlements of $30 million, a fair value adjustment gain on our Euroclear investment of $35 million, and gain on the sale of our BIDS Trading, LP, or BIDS, investment of $20 million.
+•The effective tax rate in 2021 is higher than the effective tax rate in 2020 primarily due to the deferred income tax impacts resulting from the U.K. tax law changes as well as the Bakkt transaction. In June 2021, the U.K. enacted a corporate income tax rate increase from 19% to 25% effective April 1, 2023.
+•The effective tax rate in 2020 was higher than the effective tax rate in 2019 primarily due to U.K. tax law changes enacted in July 2020, partially offset by favorable state apportionment changes as a result of our acquisition of Ellie Mae, as well as favorable changes in certain international tax provisions as part of the U.S. Federal Tax Cuts and Jobs Act, or TCJA, in 2019.
+Business Environment and Market Trends
+Our business environment has been characterized by:
+•globalization of marketplaces, customers and competitors;
+•growing customer demand for workflow efficiency and automation;
+•commodity, interest rate and financial markets uncertainty;
+•growing demand for data to inform customers' risk management and investment decisions;
+•evolving, increasing and disparate regulation across multiple jurisdictions;
+•price volatility increasing customers' demand for risk management services;
+•increasing focus on capital and cost efficiencies;
+•customers' preference to manage risk in markets demonstrating the greatest depth of liquidity and product diversity;
+•the evolution of existing products and new product innovation to serve emerging customer needs and changing industry agreements;
+•rising demand for speed, data, data capacity and connectivity by market participants, necessitating increased investment in technology; and
+•consolidation and increasing competition among global markets for trading, clearing and listings.
+Recent changes with regard to global financial reform have emphasized the importance of transparent markets, centralized clearing and access to data, all of which are important aspects of our product offering. However, some of the proposed rules have yet to be implemented and some rules that have already been partially implemented are being reconsidered. In addition, some of the global regulations have not been fully harmonized and several non-U.S. regulations are inconsistent with U.S. rules. As the evolution continues, legislative and regulatory actions may change the way we conduct our business and may create uncertainty for market participants, which could affect trading volumes or demand for market data. As a result, it is difficult to predict all of the effects that the legislation and its implementing regulations will
+
+46
+
+have on us. As discussed more fully in Item 1 “- Business - Regulation” included in this Annual Report, Brexit, the implementation of MiFID II and other regulations may result in operational, regulatory and/or business risk.
+We have diversified our business so that we are not dependent on volatility or transaction activity in any one asset class. In addition, we have increased our portion of recurring revenues from 34% in 2014 to 49% in 2021. These recurring revenues include data services, listings and various mortgage technology solutions.
+Many of the data products we sell and services we provide are required for our clients’ business operations regardless of market volatility or shifts in business profitability levels. We anticipate that there will continue to be growth in the financial information services sector driven by a number of global trends, including the following:
+•increasing global regulatory demands;
+•greater use of fair value accounting standards and reliance on independent valuations;
+•greater emphasis on risk management;
+•market fragmentation driven by regulatory changes;
+•the move to passive investing and indexation;
+•ongoing growth in the size and diversity of financial markets;
+•increased automation of fixed income, mortgage and other less automated markets;
+•the development of new data products;
+•the demand for greater data capacity and connectivity;
+•new entrants; and
+•increasing demand for outsourced services by financial institutions.
+We continue to focus on our strategy to grow each of our revenue streams, and prudently manage expenses, in order to mitigate these uncertainties and to build on our growth opportunities by leveraging our proprietary data, clearing, markets and technology solutions.
+
+Segment Results
+Our business is conducted through three reportable business segments, comprised of the following:
+•Our Exchanges segment includes our trade execution and clearing within our global futures network and NYSE businesses, various data and connectivity services that are directly related to those exchange platforms, administration fees and our NYSE listings business. Trade execution and clearing products include energy, agricultural and metals, financial futures and options, cash equities, equity options, OTC and other;
+•Our Fixed Income and Data Services segment includes pricing and reference data, analytics, indices, trade execution and clearing within our ICE Bonds and CDS businesses, consolidated feeds and our ICE Global Network businesses; and
+•Our Mortgage Technology segment includes origination technology, closing solutions, data and analytics and other mortgage technology businesses.
+While revenues are recorded specifically in the segment in which they are earned or to which they relate, a significant portion of our operating expenses are not solely related to a specific segment because the expenses serve functions that are necessary for the operation of more than one segment. We directly allocate expenses when reasonably possible to do so. Otherwise, we use a pro-rata revenue approach as the allocation method for the expenses that do not relate solely to one segment and serve functions that are necessary for the operation of all segments. Our segments do not engage in intersegment transactions.
+Beginning in the first quarter of 2021, origination technology revenues include those related to our ICE Mortgage Technology network (previously reported in closing solutions revenues) and closing solutions revenues now include registration revenues related to MERSCORP Holdings, Inc., or MERS, (previously reported in other revenues). We believe these changes more accurately reflect how we operate the business. Prior-year periods have been adjusted to reflect these changes.
+For details on trends in recent prior-year periods, refer to our 2020 and 2019 Annual Reports on Form 10-K.
+
+47
+
+Exchanges Segment
+The following presents selected statements of income data for our Exchanges segment (dollars in millions):
+
+(1) The adjusted figures in the charts above are calculated by excluding items that are not reflective of our cash operations and core business performance. As a result, these adjusted numbers are not calculated in accordance with U.S. GAAP. See “- Non-GAAP Financial Measures” below.
+
+48
+
+----------------------------------------------------- ----------------------- ----- ---- ----- - ----- ----------------------- ---- ---- ----- ------ ----- - ----- -- -
+ Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Revenues:
+Energy futures and options $ 1,236 $ 1,120 10 % $ 1,120 $ 992 13 %
+Agricultural and metals futures and options 228 245 (7) 245 251 (2)
+Financial futures and options 394 357 10 357 332 8
+Futures and options 1,858 1,722 8 1,722 1,575 9
+Cash equities and equity options 2,377 2,585 (8) 2,585 1,643 57
+OTC and other 326 296 10 296 233 27
+Transaction and clearing, net 4,561 4,603 (1) 4,603 3,451 33
+Data and connectivity services 838 790 6 790 752 5
+Listings 479 446 7 446 449 (1)
+Revenues 5,878 5,839 1 5,839 4,652 26
+Transaction-based expenses(1) 2,022 2,208 (8) 2,208 1,345 64
+Revenues, less transaction-based expenses 3,856 3,631 6 3,631 3,307 10
+Other operating expenses 1,028 965 6 965 874 10
+Depreciation and amortization 244 261 (7) 261 265 (2)
+Acquisition-related transaction and integration costs 61 16 287 16 1 n/a
+Operating expenses 1,333 1,242 7 1,242 1,140 9
+Operating income $ 2,523 $ 2,389 6 % $ 2,389 $ 2,167 10 %
+
+*Percentage changes in the table above deemed "n/a" are not meaningful.
+(1)Transaction-based expenses are largely attributable to our cash equities and options business.
+
+Exchanges Revenues
+Our Exchanges segment includes transaction and clearing revenues from our futures and NYSE exchanges, related data and connectivity services, and our listings business. Transaction and clearing revenues consist of fees collected from derivatives, cash equities and equity options trading and derivatives clearing, and are reported on a net basis, except for the NYSE transaction-based expenses discussed below. Rates per-contract, or RPC, are driven by the number of contracts or securities traded and the fees charged per contract, net of certain rebates. Our per-contract transaction and clearing revenues will depend upon many factors, including, but not limited to, market conditions, transaction and clearing volume, product mix, pricing, applicable revenue sharing and market making agreements, and new product introductions. Because transaction and clearing revenues are generally assessed on a per-contract basis, revenues and profitability fluctuate with changes in contract volume and product mix. Our data and connectivity services revenues are recurring subscription fees related to the various data and connectivity services that we provide which are directly attributable to our exchange venues. Our listings revenues are also recurring subscription fees that we earn for the provision of NYSE listings services for public companies and ETFs, and related corporate actions for listed companies.
+In 2021 and 2020, 17% and 14%, respectively, of our Exchanges segment revenues, less transaction-based expenses, were billed in pounds sterling or euros. Due to the fluctuations of the pound sterling and euro compared to the U.S. dollar, our Exchanges segment revenues, less transaction-based expenses, were higher by $30 million in 2021 from 2020.
+Our exchange transaction and clearing revenues are presented net of rebates. We recorded rebates of $1.0 billion and $962 million in 2021 and 2020, respectively. We offer rebates in certain of our markets primarily to support market liquidity and trading volume by providing qualified participants in those markets a discount to the applicable commission rate. Such rebates are calculated based on volumes traded. The increase in rebates is primarily due to the launch of new products, including ICE Murban crude oil futures and the Sterling Overnight Index Average, or SONIA.
+•Energy Futures and Options: Total energy volume increased 1% and revenues increased 10% in 2021 from 2020.
+–Total oil volume increased 3% in 2021 from 2020 driven by price volatility related to oil supply and demand dynamics and macroeconomic uncertainty in late 2021.
+–Our global natural gas futures and options volume decreased 4% in 2021 from 2020 as 2020 benefited from elevated volatility related to COVID-19, partially offset by 2021 continued growth in our TTF and Asian JKM gas complexes driven by the globalization of gas, coupled with heightened price volatility in 2021 related to natural gas supply and demand dynamics in the U.K. and Europe.
+
+49
+
+–Our environmentals and other futures and options volume increased 18% to record levels in 2021 from 2020 due to an increase in the price of carbon and continued demand for market-based mechanisms to price climate risk and help enable greenhouse gas reduction goals.
+•Agricultural and Metals Futures and Options: Total volume in our agricultural and metals futures and options markets decreased 10% and revenues decreased 7% in 2021 from 2020. The overall decrease in agricultural volumes was due to 2020 benefiting from elevated volatility related to COVID-19 and a sharp decline in oil prices, partially offset by elevated volatility in late 2021 as a result of weather-related supply and demand dynamics impacting our Coffee and Cotton markets as well as geopolitical events impacting our Cocoa markets.
+–Sugar futures and options volumes decreased 21% in 2021 from 2020.
+–Other agricultural and metal futures and options volumes were flat in 2021 as compared to 2020.
+•Financial Futures and Options: Total volume increased 2% and revenues increased 10% in our financial futures and options markets in 2021 from 2020.
+–Interest rate futures and options volume and revenue increased 6% and 23% in 2021 from 2020, respectively, driven by interest rate volatility from increased speculation of central bank activity due to post-pandemic global economic re-opening and inflation concerns. Interest rate futures and options revenues were $237 million and $193 million in 2021 and 2020, respectively.
+–Other financial futures and options volume, which includes our MSCI®, FTSE® and NYSE FANG+ equity index products, decreased 12% and revenue decreased 4% in 2021 from 2020. Other financial futures and options volume decreased as 2020 benefited from elevated volatility across global equity markets driven by the emergence of COVID-19. Other financial futures and options revenues were $157 million and $164 million in 2021 and 2020, respectively.
+•Cash Equities and Equity Options: Cash equities volume decreased 6% in 2021 from 2020 as 2020 benefited from elevated volatility across global equity markets driven by the emergence of COVID-19. Cash equities revenues, net of transaction-based expenses, were $246 million and $276 million in 2021 and 2020, respectively. Equity options volume increased 40% in 2021 from 2020 driven by increased participation and higher market share. Equity options revenues, net of transaction-based expenses, were $109 million and $101 million in 2021 and 2020, respectively.
+•OTC and Other: OTC and other transactions include revenues from our OTC energy business and other trade confirmation services, as well as interest income on certain clearing margin deposits, regulatory penalties and fines, fees for use of our facilities, regulatory fees charged to member organizations of our U.S. securities exchanges, designated market maker service fees, exchange membership fees and agricultural grading and certification fees. Our OTC and other revenues increased 10% in 2021 from 2020. Following the October 2021 Bakkt transaction, Bakkt revenues are no longer included within our OTC and other revenues.
+•Data and Connectivity Services: Our data and connectivity services revenues increased 6% in 2021 from 2020. The increase in revenue was driven by the strong retention rate of existing customers and increased purchases by existing customers.
+
+•Listings Revenues: Through NYSE, NYSE American and NYSE Arca, we generate listings revenue related to the provision of listings services for public companies and ETFs, and related corporate actions for listed companies. Listings revenues increased 7% in 2021 from 2020, driven by equity capital markets activity, including an increase in demand for special purpose acquisition company, or SPAC, listings.
+Listings revenues in our securities markets arise from fees applicable to companies listed on our cash equities exchanges– original listing fees and annual listing fees. Original listing fees consist of two components: initial listing fees and fees related to corporate actions. Initial listing fees, subject to a minimum and maximum amount, are based on the number of shares that a company initially lists. All listings fees are billed upfront and the identified performance obligations are satisfied over time. Revenue related to the investor relations performance obligation is recognized ratably over the period these services are provided, with the remaining revenue recognized ratably over time as customers continue to list on our exchanges.
+In addition, we earn corporate actions-related listing fees in connection with actions involving the issuance of new shares, such as stock splits, rights issues and sales of additional securities, as well as mergers and acquisitions. Listings fees related to other corporate actions are considered contract modifications of our listing contracts and are recognized ratably over time as customers continue to list on our exchanges.
+
+50
+
+In a record year for new issuance, NYSE raised $221 billion in IPOs and follow-on offerings from over 594 transactions, an increase of 20% from $185 billion raised in 2020.
+Selected Operating Data
+The following charts and tables present trading activity in our futures and options markets by commodity type based on the total number of contracts traded, as well as futures and options rate per contract (in millions, except for percentages and rate per contract amounts):
+
+----------------------------
+Volume and Rate per Contract
+
+-------------------------------------------------------- ----------------------- ---- ---- ----- ----------------------- ---- ---- - ---- ----- ------ - ----- --- ---- --- -
+ Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Number of contracts traded (in millions):
+Energy futures and options 782 773 1 % 773 669 15 %
+Agricultural and metals futures and options 98 108 (10) % 108 111 (3) %
+Financial futures and options 634 619 2 % 619 630 (2) %
+Total 1,514 1,500 1 % 1,500 1,410 6 %
+
+ Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Average Daily Volume of contracts traded (in thousands):
+Energy futures and options 3,103 3,054 2 % 3,054 2,655 15 %
+Agricultural and metals futures and options 388 428 (9) % 428 442 (3) %
+Financial futures and options 2,475 2,409 3 % 2,409 2,460 (2) %
+Total 5,966 5,891 1 % 5,891 5,557 6 %
+
+ Year Ended December 31, Year Ended December 31,
+Rate per contract: 2021 2020 Change 2020 2019 Change
+Energy futures and options $ 1.58 $ 1.45 9 % $ 1.45 $ 1.48 (2) %
+Agricultural and metals futures and options $ 2.34 $ 2.27 3 % $ 2.27 $ 2.25 1 %
+Financial futures and options $ 0.61 $ 0.57 7 % $ 0.57 $ 0.52 10 %
+
+51
+
+Open interest is the aggregate number of contracts (long or short) that clearing members hold either for their own account or on behalf of their clients. Open interest refers to the total number of contracts that are currently “open,” – in other words, contracts that have been entered into but not yet liquidated by either an offsetting trade, exercise, expiration or assignment. Open interest is also a measure of the future activity remaining to be closed out in terms of the number of contracts that members and their clients continue to hold in the particular contract and by the number of contracts held for each contract month listed by the exchange. The following charts and table present our year-end open interest for our futures and options contracts (in thousands, except for percentages):
+
+------------------------------------------- ------------------ ---- ------ ------------------ ---- - ---- ------ ------ ------ --- -
+ As of December 31, As of December 31,
+ 2021 2020 Change 2020 2019 Change
+Open interest — in thousands of contracts:
+Energy futures and options 40,317 40,073 1 % 40,073 37,433 7 %
+Agricultural and metals futures and options 3,763 3,608 4 % 3,608 3,836 (6) %
+Financial futures and options 23,942 27,535 (13) % 27,535 29,369 (6) %
+Total 68,022 71,216 (4) % 71,216 70,638 1 %
+
+The following charts and tables present selected cash and equity options trading data. All trading volume below is presented as average net daily trading volume, or ADV, and is single counted:
+
+52
+
+------------------------------------------------ ----------------------- - ------ ------ ----------------------- - --------- ------ ---- ------ ------ ---- ------ --------- -- -
+ Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+NYSE cash equities (shares in millions):
+Total cash handled volume 2,317 2,466 (6) % 2,466 1,740 42 %
+Total cash market share matched 19.9 % 22.1 % (2.3) pts 22.1 % 24.2 % (2.1) pts
+
+NYSE equity options (contracts in thousands):
+NYSE equity options volume 7,162 5,101 40 % 5,101 3,172 61 %
+Total equity options volume 37,170 27,685 34 % 27,685 17,542 58 %
+NYSE share of total equity options 19.3 % 18.4 % 0.8 pts 18.4 % 18.1 % 0.3 pts
+
+Revenue capture or rate per contract:
+Cash equities rate per contract (per 100 shares) $0.042 $0.044 (5) % $0.044 $0.046 (4) %
+Equity options rate per contract $0.06 $0.08 (23) % $0.08 $0.12 (34) %
+
+Handled volume represents the total number of shares of equity securities, ETFs and crossing session activity internally matched on our exchanges or routed to and executed on an external market center. Matched volume represents the total number of shares of equity securities, ETFs and crossing session activity executed on our exchanges.
+Transaction-Based Expenses
+Our equities and equity options markets pay fees to the SEC pursuant to Section 31 of the Exchange Act. Section 31 fees are recorded on a gross basis as a component of transaction and clearing fee revenue. These Section 31 fees are assessed to recover the government’s costs of supervising and regulating the securities markets and professionals and are subject to change. We, in turn, collect corresponding activity assessment fees from member organizations clearing or settling trades on the equities and options exchanges, and recognize these amounts in our transaction and clearing revenues when invoiced. The activity assessment fees are designed to equal the Section 31 fees. As a result, activity assessment fees and the corresponding Section 31 fees do not have an impact on our net income, although the timing of
+
+53
+
+payment by us will vary from collections. Section 31 fees were $248 million and $622 million in 2021 and 2020, respectively. The decrease in Section 31 fees was primarily related to a decline in rates, which were revised in February of both years. The fees we collect are included in cash at the time of receipt and we remit the amounts to the SEC semi-annually as required. The total amount is included in accrued liabilities and was $57 million as of December 31, 2021.
+We make liquidity payments to cash and options trading customers, as well as routing charges made to other exchanges which are included in transaction-based expenses. We incur routing charges when we do not have the best bid or offer in the market for a security that a customer is trying to buy or sell on one of our securities exchanges. In that case, we route the customer’s order to the external market center that displays the best bid or offer. The external market center charges us a fee per share (denominated in tenths of a cent per share) for routing to its system. We record routing charges on a gross basis as a component of transaction and clearing fee revenue. Cash liquidity payments, routing and clearing fees were $1.8 billion and $1.6 billion in 2021 and 2020, respectively.
+Operating Expenses, Operating Income and Operating Margin
+The following chart summarizes our Exchanges segment's operating expenses, operating income and operating margin (dollars in millions). See “- Consolidated Operating Expenses” below for a discussion of the significant changes in our operating expenses.
+
+------------------------------ ----------------------- ----- ---- -- - ----------------------- ------ ---- - ------ ----- ------ ----- -- -
+Exchanges Segment: Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Operating expenses $ 1,333 $ 1,242 7 % $ 1,242 $ 1,140 9 %
+Adjusted operating expenses(1) $ 1,201 $ 1,145 5 % $ 1,145 $ 1,041 10 %
+Operating income $ 2,523 $ 2,389 6 % $ 2,389 $ 2,167 10 %
+Adjusted operating income(1) $ 2,655 $ 2,486 7 % $ 2,486 $ 2,266 10 %
+Operating margin 65 % 66 % (1 pt) 66 % 66 % —
+Adjusted operating margin(1) 69 % 68 % 1 pt 68 % 69 % (1 pt)
+
+(1) The adjusted figures exclude items that are not reflective of our ongoing core operations and business performance. These adjusted numbers are not calculated in accordance with GAAP. See “- Non-GAAP Financial Measures” below.
+
+54
+
+Fixed Income and Data Services Segment
+The following charts and table present our selected statements of income data for our Fixed Income and Data Services segment (dollars in millions):
+
+(1) The adjusted figures in the charts above are calculated by excluding items that are not reflective of our cash operations and core business performance. As a result, these adjusted numbers are not calculated in accordance with U.S. GAAP. See “- Non-GAAP Financial Measures” below.
+
+55
+
+----------------------------------------------------- ----------------------- --- ---- ----- - --- ----------------------- ---- ---- ----- ------ ----- - ---- ---- -
+ Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Revenues:
+Fixed income execution $ 52 $ 70 (25) % $ 70 $ 83 (16) %
+CDS clearing 192 208 (8) 208 214 (2)
+Fixed income data and analytics 1,082 1,018 6 1,018 969 5
+Fixed income and credit 1,326 1,296 2 1,296 1,266 2
+Other data and network services 557 514 8 514 490 5
+Revenues 1,883 1,810 4 1,810 1,756 3
+Other operating expenses 1,012 967 5 967 939 3
+Acquisition-related transaction and integration costs 1 — 195 — — (10)
+Depreciation and amortization 341 351 (3) 351 378 (7)
+Operating expenses 1,354 1,318 3 1,318 1,317 —
+Operating income $ 529 $ 492 7 % $ 492 $ 439 12 %
+
+Our Fixed Income and Data Services segment represents fixed income and credit trading and clearing as well as subscription-based, or recurring, revenues related to our fixed income data and analytics offerings as well as other multi-asset class data and network services.
+In both 2021 and 2020, 14% of our Fixed Income and Data Services segment revenues were billed in pounds sterling or euros. As the pound sterling or euro exchange rate changes, the U.S. equivalent of revenues denominated in foreign currencies changes accordingly. Due to the fluctuations of the pound sterling and euro compared to the U.S. dollar during 2021, our Fixed Income and Data Services revenues were higher by $14 million in 2021 than in 2020.
+Fixed Income and Data Services Revenues
+Our Fixed Income and Data Services revenues increased 4% in 2021 from 2020 primarily due to growth in our fixed income data and analytics products and our other data and network services.
+•Fixed Income Execution: Fixed income execution includes revenues from ICE Bonds. Execution fees are reported net of rebates, which were nominal in 2021, 2020 and 2019. Our fixed income execution revenues decreased 25% in 2021 from 2020. The decrease in revenue was due to 2020 benefiting from price volatility related to COVID-19, as well as decreased retail activity, particularly in municipal and corporate bonds, as a result of low interest rates.
+•CDS Clearing: CDS clearing revenues decreased 8% in 2021 from 2020. The notional value of CDS cleared was $17.0 trillion and $17.9 trillion in 2021 and 2020, respectively. Elevated volatility in 2020 related to COVID-19 benefited 2020 revenues, with volatility and cleared volumes generally returning to more normal levels late in 2021.
+•Fixed Income Data and Analytics: Our fixed income data and analytics revenues increased 6% in 2021 from 2020. The increase in revenue was due to strength in our index business and continued growth in our pricing and reference data business driven by the strong retention rate of existing customers, the addition of new customers, and increased purchases by existing customers.
+•Other Data and Network Services: Our other data and network services revenues increased 8% in 2021 from 2020. The increase in revenues was driven primarily by growth in our ICE Global Network offering, coupled with strength in our consolidated feeds and desktop revenues.
+Annual Subscription Value, or ASV, represents, at a point in time, the data services revenues, which includes Fixed Income Data and Analytics as well as Other Data and Network Services, subscribed for the succeeding 12 months. ASV does not include new sales, contract terminations or price changes that may occur during that 12-month period. However, while it is an indicative forward-looking metric, it does not provide a precise growth forecast of the next 12 months of data services revenues.
+As of December 31, 2021, ASV was $1.646 billion, which increased 4.9% compared to the ASV as of December 31, 2020. ASV represents nearly 100% of total data services revenues for this segment. This does not adjust for year-over-year foreign exchange fluctuations.
+
+56
+
+Operating Expenses, Operating Income and Operating Margin
+The following chart summarizes our Fixed Income and Data Services segment's operating expenses, operating income and operating margin (dollars in millions). See “- Consolidated Operating Expenses” below for a discussion of the significant changes in our operating expenses.
+
+--------------------------------------- ----------------------- ----- ---- -- - ----------------------- ---- ---- - ------ ----- ----- ----- -- -
+Fixed Income and Data Services Segment: Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Operating expenses $ 1,354 $ 1,318 3 % $ 1,318 $ 1,317 — %
+Adjusted operating expenses(1) $ 1,174 $ 1,119 5 % $ 1,119 $ 1,092 3 %
+Operating income $ 529 $ 492 7 % $ 492 $ 439 12 %
+Adjusted operating income(1) $ 709 $ 691 3 % $ 691 $ 664 4 %
+Operating margin 28 % 27 % 1 pt 27 % 25 % 2 pts
+Adjusted operating margin(1) 38 % 38 % — 38 % 38 % —
+
+(1) The adjusted figures exclude items that are not reflective of our ongoing core operations and business performance. These adjusted numbers are not calculated in accordance with GAAP. See “- Non-GAAP Financial Measures” below.
+
+57
+
+Mortgage Technology Segment
+The following charts and table present our selected statements of income data for our Mortgage Technology segment (dollars in millions):
+    *Other revenues were $4 million in 2019 and $19 million in 2020.
+
+(1) The adjusted figures in the charts above are calculated by excluding items that are not reflective of our cash operations and core business performance. As a result, these adjusted numbers are not calculated in accordance with U.S. GAAP. See “- Non-GAAP Financial Measures” below.
+
+58
+
+----------------------------------------------------- ----------------------- --- ---- --- - --- ----------------------- ---- - ---- --- ------ --- - --- --- -
+ Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Revenues:
+Origination technology 971 316 208 % 316 — n/a
+Closing solutions 310 238 30 238 135 76
+Data and analytics 73 22 226 22 — n/a
+Other 53 19 185 19 4 n/a
+Revenues 1,407 595 137 595 139 n/a
+Other operating expenses 546 215 154 215 52 n/a
+Acquisition-related transaction and integration costs 40 89 (56) 89 1 n/a
+Depreciation and amortization 424 139 205 139 19 n/a
+Operating expenses 1,010 443 128 443 72 n/a
+Operating income $ 397 $ 152 162 % $ 152 $ 67 124 %
+
+*Percentage changes in the table above deemed "n/a" are not meaningful due to the acquisition of Ellie Mae in September 2020.
+Mortgage Technology Revenues
+Our mortgage technology revenues are derived from our comprehensive, end-to-end U.S. residential mortgage platform. Our mortgage technology business enables greater workflow efficiency for customers focused on originating U.S. residential mortgage loans. Mortgage technology revenues increased $812 million or 137% in 2021 from 2020. Revenues from Ellie Mae following our September 2020 acquisition were $351 million in 2020.
+•Origination technology: Our origination technology acts as a system of record for the mortgage transaction, automating the gathering, reviewing, and verifying of mortgage-related information and enabling automated enforcement of rules and business practices designed to help ensure that each completed loan transaction is of high quality and adheres to secondary market standards. These revenues are based on recurring Software as a Service, or SaaS, subscription fees, with an additive transaction-based or Success-Based Pricing fee as lenders exceed the number of loans closed that are included with their monthly base subscription.
+In addition, the ICE Mortgage Technology network provides originators connectivity to the mortgage supply chain and facilitates the secure exchange of information between our customers and a broad ecosystem of third-party service providers, as well as lenders and investors that are critical to consummating the millions of loan transactions that occur on our origination network each year. Revenue from the ICE Mortgage Technology network is largely transaction-based.
+•Closing solutions: Our closing solutions uniquely connect key participants, such as lenders, title and settlement agents and individual county recorders, to digitize the traditionally manual and paper-based closing and recording process. Our closing solutions also include revenues from the MERS database, a leading system for recording and tracking changes in mortgage servicing rights and beneficial ownership interests in loans secured by U.S. residential real estate. Closing solutions revenues increased in 2021 from 2020 as a result of an increase in residential home sales, market share gains and increased demand and adoption of digital solutions. Revenues from closing solutions are largely transaction-based.
+•Data and Analytics: Revenues include those related to ICE Mortgage Technology’s Automation, Intelligence, Quality, or AIQ, offering, which applies machine learning and artificial intelligence, or AI, to the entire loan origination process, offering customers greater efficiency by streamlining data collection and validation through our automated document recognition and data extraction capabilities. AIQ revenues can be both recurring and transaction-based in nature. In addition, our data offerings include real-time industry and peer benchmarking tools, which provide originators a granular view into the real-time trends of nearly half the U.S. residential mortgage market. We also provide a Data as a Service, or DaaS, offering through private data clouds for lenders to access their own data and origination information. Revenues related to our data products are largely subscription-based and recurring in nature.
+•Other: Other revenues include professional services fees, as well as revenues from ancillary products. Other revenues can be both recurring and transaction-based in nature.
+The following chart summarizes our Mortgage Technology segment's operating expenses, operating income and operating margin (dollars in millions). See “- Consolidated Operating Expenses” below for a discussion of the significant changes in our operating expenses.
+
+59
+
+------------------------------ ----------------------- ----- ---- -- - ----------------------- ------- ---- - ------ --- -------- -- --- -
+Mortgage Technology Segment: Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Operating expenses $ 1,010 $ 443 128 % $ 443 $ 72 n/a
+Adjusted operating expenses(1) $ 602 $ 231 160 % $ 231 $ 56 n/a
+Operating income $ 397 $ 152 162 % $ 152 $ 67 124 %
+Adjusted operating income(1) $ 805 $ 364 122 % $ 364 $ 83 n/a
+Operating margin 28 % 25 % 3 pts 25 % 48 % (23 pts)
+Adjusted operating margin(1) 57 % 61 % (4 pts) 61 % 59 % 2 pts
+
+*Percentage changes in the table above deemed "n/a" are not meaningful due to the acquisition of Ellie Mae in September 2020.
+
+(1) The adjusted figures exclude items that are not reflective of our ongoing core operations and business performance. These adjusted numbers are not calculated in accordance with GAAP. See “- Non-GAAP Financial Measures”
+
+60
+
+Consolidated Operating Expenses
+The following presents our consolidated operating expenses (dollars in millions):
+
+61
+
+----------------------------------------------------- ----------------------- ----- ---- --- - ----------------------- --- ---- ---- - ------ --- ----- --- - ----- -- -
+ Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Compensation and benefits $ 1,462 $ 1,188 23 % $ 1,188 $ 1,042 14 %
+Professional services 159 144 10 144 125 15
+Acquisition-related transaction and integration costs 102 105 (3) 105 2 n/a
+Technology and communication 666 549 21 549 469 17
+Rent and occupancy 84 81 3 81 68 19
+Selling, general and administrative 215 185 16 185 161 15
+Depreciation and amortization 1,009 751 34 751 662 13
+Total operating expenses $ 3,697 $ 3,003 23 % $ 3,003 $ 2,529 19 %
+
+*Percentage changes in the table above deemed "n/a" are not meaningful.
+The majority of our operating expenses do not vary directly with changes in our volume and revenues, except for certain technology and communication expenses, including data acquisition costs, licensing and other fee-related arrangements and a portion of our compensation expense that is tied directly to our data sales or overall financial performance.
+We expect our operating expenses to increase in absolute terms in future periods in connection with the growth of our business, and to vary from year-to-year based on the type and level of our acquisitions, our integrations and other investments.
+In 2021 and 2020, 10% and 11%, respectively, of our operating expenses were incurred in pounds sterling or euros. Due to fluctuations in the U.S. dollar compared to the pound sterling and euro, our consolidated operating expenses were $22 million higher in 2021 than in 2020. See Item 7(A) “- Quantitative and Qualitative Disclosures About Market Risk - Foreign Currency Exchange Rate Risk” below for additional information.
+Compensation and Benefits Expenses
+Compensation and benefits expense is our most significant operating expense and includes non-capitalized employee wages, bonuses, non-cash or stock compensation, certain severance costs, benefits and employer taxes. The bonus component of our compensation and benefits expense is based on both our financial performance and individual employee performance. The performance-based restricted stock compensation expense is also based on our financial performance. Therefore, our compensation and benefits expense will vary year-to-year based on our financial performance and fluctuations in our number of employees. The below chart summarizes the significant drivers of our compensation and benefits expense results for the periods presented (dollars in millions, except employee headcount).
+
+--------------------------------- ----------------------- --- ---- ----- - ------ - - -- -
+ Year Ended December 31,
+ 2021 2020 Change
+Employee headcount 8,858 8,890 — %
+Stock-based compensation expenses $ 155 $ 127 22 %
+
+Employee headcount decreased in 2021 from 2020 primarily due to the deconsolidation of Bakkt, which was partially offset by increased hiring in 2021. Ellie Mae compensation and benefits expense was $174 million higher in 2021 than in 2020 due to our September 2020 acquisition. Bakkt compensation and benefits expense was $16 million higher in 2021 than in 2020 due to increases in employee headcount prior to deconsolidating Bakkt. In addition, compensation and benefits expense increased $67 million in 2021 from 2020 due to merit pay increases, above target performance-based compensation and higher employee insurance costs than in 2020 due to the impact of COVID-19. The stock-based compensation expenses in the table above relate to employee stock option and restricted stock awards.
+Professional Services Expenses
+Professional services expense includes fees for consulting services received on strategic and technology initiatives, temporary labor, as well as regulatory, legal and accounting fees, and may fluctuate as a result of changes in our use of these services in our business.
+
+62
+
+Professional services expenses increased in 2021 from 2020 primarily due to an increase of $26 million from Ellie Mae which was partially offset by lower legal expenses for 2021.
+Acquisition-Related Transaction and Integration Costs
+In 2021, we incurred $59 million in acquisition-related transaction costs related to the deconsolidation of Bakkt, which included $31 million non-cash compensation related to a market condition event triggered on the Bakkt equity incentive awards in connection with the merger of Bakkt and VIH. Additionally, we incurred $39 million in integration costs related to Ellie Mae.
+We expect to continue to explore and pursue various potential acquisitions and other strategic opportunities to strengthen our competitive position and support our growth. As a result, we may incur acquisition-related transaction costs in future periods.
+Technology and Communication Expenses
+Technology support services consist of costs for running our wholly-owned data centers, hosting costs paid to third-party data centers, and maintenance of our computer hardware and software required to support our technology and cybersecurity. These costs are driven by system capacity, functionality and redundancy requirements. Communication expenses consist of costs for network connections for our electronic platforms and telecommunications costs.
+Technology and communications expense also includes fees paid for access to external market data, licensing and other fee agreement expenses. Technology and communications expenses may be impacted by growth in electronic contract volume, our capacity requirements, changes in the number of telecommunications hubs and connections with customers to access our electronic platforms directly.
+Technology and communications expenses increased by $117 million in 2021 from 2020, primarily due to the inclusion of Ellie Mae expenses, which were $87 million higher in 2021 than in 2020. In addition, technology and communications expenses increased by $24 million in 2021 from 2020 due to increased license fees and data acquisition costs.
+Rent and Occupancy Expenses
+Rent and occupancy expense relates to leased and owned property and includes rent, maintenance, real estate taxes, utilities and other related costs. We have significant operations located in the U.S., U.K., and India, with smaller offices located throughout the world.
+Rent and occupancy expenses includes the expenses of Ellie Mae, which increased $6 million in 2021 from 2020. These expenses were partially offset by a reduction in other occupancy expenses in 2021 and the early termination of our NYSE Chicago office lease in 2020. See Item 2 “- Properties” above for additional information regarding our leased and owned property.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses include marketing, advertising, public relations, insurance, bank service charges, dues and subscriptions, travel and entertainment, non-income taxes and other general and administrative costs.
+Selling, general and administrative expenses increased in 2021 from 2020, primarily due to the inclusion of $13 million of Ellie Mae expenses and $12 million of Bakkt expenses related to the launch of Bakkt's digital wallet, Bakkt App. In addition, marketing expenses increased $19 million in 2021 from 2020 primarily due to a higher number of NYSE initial public offerings, or IPOs, which were partially offset by a charitable contribution in support of COVID-19 relief efforts of $10 million and an $8 million regulatory settlement accrual in 2020.
+Depreciation and Amortization Expenses
+Depreciation and amortization expense results from depreciation of long-lived assets such as buildings, leasehold improvements, aircraft, hardware and networking equipment, software, furniture, fixtures and equipment over their estimated useful lives. This expense includes amortization of intangible assets obtained in our acquisitions of
+
+63
+
+businesses, as well as on various licensing agreements, over their estimated useful lives. Intangible assets subject to amortization consist primarily of customer relationships, trading products with finite lives and technology. This expense also includes amortization of internally-developed and purchased software over its estimated useful life.
+We recorded amortization expenses on intangible assets acquired as part of our acquisitions, as well as on other intangible assets, of $622 million and $388 million in 2021 and 2020, respectively. The increase in 2021 over 2020 was primarily due to an increase in the amortization of Ellie Mae intangible assets of $246 million.
+We recorded depreciation expenses on our fixed assets of $387 million and $363 million in 2021 and 2020, respectively. The increase in 2021 over 2020 was primarily due to an increase in the depreciation of Ellie Mae fixed assets of $31 million, partially offset by a software impairment charge of $11 million in 2020 related to a portion of customized software developed at Bakkt that was no longer useful.
+
+64
+
+Consolidated Non-Operating Income (Expense)
+Income and expenses incurred through activities outside of our core operations are considered non-operating. The following tables present our non-operating income (expenses) (dollars in millions):
+
+--------------------------------------------------- ----------------------- ----- ---- ----- - ----------------------- ---- ---- ----- ------ ----- ----- -- ----- ---- -- ---- -
+ Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Other income (expense):
+Interest income $ 1 $ 10 (93) % $ 10 $ 35 (71) %
+Interest expense (423) (357) 19 (357) (285) 25
+Other income, net 2,671 80 n/a 80 58 38
+Total other income (expense), net $ 2,249 $ (267) n/a $ (267) $ (192) 39 %
+
+Net income attributable to non-controlling interest $ (11) $ (19) (44) % $ (19) $ (27) (27) %
+
+Interest Income
+Interest income decreased in 2021 from 2020 primarily due to a decrease in short-term interest rates on various investments.
+Interest Expense
+Interest expense increased in 2021 from 2020 primarily due to the issuance of senior notes in May 2020 to refinance existing debt, the issuance of senior notes in August 2020 related to the Ellie Mae acquisition, and $4 million in accelerated unamortized costs related to the early redemption in September 2021 of the floating rate notes due June 2023, partially offset by a $14 million extinguishment payment we incurred related to the June 2020 early redemption of senior notes with an original maturity of December 1, 2020, or the December 2020 Senior Notes, and $5 million pre-acquisition interest expense on debt issued for Ellie Mae acquisition. See “- Debt” below.
+Other income (expense), net
+During 2021, Bakkt completed its merger with VIH, which resulted in an initial 68% economic interest, and we recorded a gain of $1.4 billion as other income upon our deconsolidation of Bakkt. Following the merger, we show our economic interest share of estimated Bakkt profits/(losses) as equity earnings, which are also included in other income (expense), net. We recorded other expense of ($92 million) related to our Bakkt investment for the post-merger period during 2021.
+During 2021, Coinbase completed an IPO and we sold our investment in Coinbase for $1.2 billion, and recorded a gain of $1.2 billion as other income.
+During 2021, we recorded a gain of $7 million related to the settlement of an acquisition-related indemnification claim from a prior acquisition as other income. In addition, we accrued approximately $16 million related to a legal settlement. In 2020, we recorded an accrual for potential legal settlements of $30 million as other income.
+We own a 40% interest in the Options Clearing Corporation, or OCC, which we treat as an equity method investment. OCC is regulated by the SEC and the CFTC. We recognized $51 million and $71 million of equity earnings as our share of OCC's estimated profits during 2021 and 2020, respectively, which is included in other income. Refer to Note 4 to our consolidated financial statements, included in this Annual Report for additional details on our OCC investment.
+In connection with our equity investment in Euroclear, we recognized dividend income of $60 million in 2021 and $19 million in 2019, included in other income. As a result of a 2020 European regulation limiting dividend payments, we did not receive a Euroclear dividend in 2020, but we received two dividend payments during 2021. In addition, in both September 2021 and in November 2020 we became aware of observable price changes in orderly transactions of similar Euroclear investments by third parties. The transactions resulted in fair value adjustments of our Euroclear investment, and we recorded gains of $34 million and $35 million in other income in 2021 and 2020, respectively, including the impacts of foreign currency exchange.
+We historically held a 9% ownership interest in BIDS, a registered broker-dealer and the operator of the BIDS Alternative Trading System. In December 2020, we sold our investment in BIDS to Cboe and recorded a gain on the sale of $20 million, included in other income.
+
+65
+
+We incurred foreign currency transaction losses of $13 million and $5 million in 2021 and 2020, respectively. This was primarily attributable to the fluctuations of the pound sterling and euro relative to the U.S. dollar. Foreign currency transaction gains and losses are recorded in other income (expense), net, when the settlement of foreign currency assets, liabilities and payables occur in non-functional currencies and there is an increase or decrease in the period-end foreign currency exchange rates between periods. See Item 7A “- Quantitative and Qualitative Disclosures About Market Risk - Foreign Currency Exchange Rate Risk” included elsewhere in this Annual Report for more information on these items.
+In connection with our adoption of Accounting Standards Update, or ASU, 2017-07, Compensation Retirement Benefits: Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost, or ASU 2017-07, we are recognizing the other components of net benefit cost of our defined benefit plans in the income statement as non-operating income on a full retrospective basis. The combined net periodic expense of these plans was $3 million and $6 million in 2021 and 2020, respectively.
+Non-controlling Interest
+For consolidated subsidiaries in which our ownership is less than 100%, and for which we have control over the assets, liabilities and management of the entity, the outside stockholders’ interests are shown as non-controlling interests. As of December 31, 2021, our non-controlling interests include those related to the non-ICE limited partners' interest in our CDS clearing subsidiaries and non-controlling interest in ICE Futures Abu Dhabi. Prior to completion of the Bakkt transaction on October 15, 2021, our non-controlling interest also included the redeemable non-controlling interest of the non-ICE partners in Bakkt, as discussed further below.
+The non-ICE limited partners of our CDS clearing subsidiaries hold a 26.7% ownership interest as of December 31, 2021. In addition, during 2020 we received a contribution from a group of minority investors for a non-controlling interest in ICE Futures Abu Dhabi.
+As of December 31, 2020, minority interests related to Bakkt were reflected as redeemable non-controlling interests in temporary equity within our consolidated balance sheet. On October 15, 2021, Bakkt completed its merger with VIH and as of December 31, 2021, we no longer hold redeemable non-controlling interest related to Bakkt. Refer to Note 3 to our consolidated financial statements contained elsewhere in this Annual Report.
+
+Consolidated Income Tax Provision
+Consolidated income tax expense was $1.6 billion and $658 million in 2021 and 2020, respectively. The change in consolidated income tax expense between years is primarily due to the tax impact of changes in our pre-tax income and the changes in our effective tax rate. The consolidated income tax expense for 2021 was elevated due to the tax expense associated with the gains resulting from our Coinbase and Bakkt transactions.
+Our effective tax rate was 29% and 24% in 2021 and 2020, respectively. The effective tax rate for 2021 is higher than the effective tax rate for 2020 primarily due to the deferred income tax impacts from the U.K. tax law changes as well as the Bakkt transaction. In June 2021, the U.K. enacted a corporate income tax rate increase from 19% to 25% effective April 1, 2023.
+On March 27, 2020, the CARES Act was enacted and certain income tax related relief was provided under the CARES Act. On March 11, 2021, the American Rescue Plan Act, or ARPA, was signed into law. The ARPA enacted certain provisions that are relevant to corporate income tax. On November 15, 2021, the Infrastructure Investment and Jobs Act was signed into law. These provisions did not have a material impact on our income tax provision for 2021 or 2020.
+See Note 13 to our consolidated financial statements and related notes, which are included in this Annual Report, for additional information on these tax items.
+
+66
+
+Liquidity and Capital Resources
+Below are charts that reflect our outstanding debt and capital allocation. The acquisition and integration costs in the chart below include cash paid for acquisitions, net of cash received for divestitures, cash paid for equity and equity method investments, cash paid for non-controlling interest and redeemable non-controlling interest, and acquisition-related transaction and integration costs, in each year.
+
+We have financed our operations, growth and cash needs primarily through income from operations and borrowings under our various debt facilities. Our principal capital requirements have been to fund capital expenditures, working capital, strategic acquisitions and investments, stock repurchases, dividends and the development of our technology platforms. We believe that our cash on hand and cash flows from operations will be sufficient to repay our outstanding debt, but we
+
+67
+
+may also need to incur additional debt or issue additional equity securities in the future. See “- Future Capital Requirements” below.
+See “- Cash Flow” below for a discussion of our capital expenditures and capitalized software development costs.
+Consolidated cash and cash equivalents were $607 million and $583 million as of December 31, 2021 and 2020, respectively. We had $1.4 billion in short-term and long-term restricted cash and cash equivalents as of both December 31, 2021 and 2020. We had $145.9 billion and $81.6 billion of cash and cash equivalent margin deposits and guaranty funds as of December 31, 2021 and 2020, respectively.
+As of December 31, 2021, the amount of unrestricted cash held by our non-U.S. subsidiaries was $400 million. Due to U.S. tax reform, the majority of our foreign earnings since January 1, 2018 have been subject to immediate U.S. income taxation, and the existing non-U.S. unrestricted cash balance can be distributed to the U.S. in the future with no material additional income tax consequences.
+Our cash and cash equivalents and financial investments are managed as a global treasury portfolio of non-speculative financial instruments that are readily convertible into cash, such as overnight deposits, term deposits, money market funds, mutual funds for treasury investments, short duration fixed income investments and other money market instruments, thus ensuring high liquidity of financial assets. We may invest a portion of our cash in excess of short-term operating needs in investment-grade marketable debt securities, including government or government-sponsored agencies and corporate debt securities. As of December 31, 2021, we held $13 million of unrestricted cash that was set aside for legal, regulatory and surveillance operations at NYSE.
+Cash Flow
+The following table presents the major components of net changes in cash, cash equivalents, and restricted cash and cash equivalents (in millions):
+
+--------------------------------------------------------------------------------------------------------------------------------------------- ----------------------- ------ -------- - ------ ------- - -----
+ Year Ended December 31,
+ 2021 2020 2019
+Net cash provided by (used in):
+Operating activities $ 3,123 $ 2,881 $ 2,659
+Investing activities (786) (10,361) (1,740)
+Financing activities 62,026 26,000 (424)
+
+Effect of exchange rate changes (6) 8 4
+Net increase in cash, cash equivalents, restricted cash and cash equivalents, and cash and cash equivalent margin deposits and guaranty funds $ 64,357 $ 18,528 $ 499
+
+Operating Activities
+Net cash provided by operating activities primarily consists of net income adjusted for certain items, including depreciation and amortization, deferred taxes, stock based compensation and the effects of changes in working capital.
+The $242 million increase in net cash provided by operating activities in 2021 from 2020 was driven by an increase of accounts receivable collections of $144 million, primarily due to a prior period COVID-19-related decision to allow customers to defer payment of their 2020 listings invoices. In addition, operating cash increased due to a $2.0 billion increase in net income, adjusted for depreciation and amortization, deferred taxes, the gain from the sale of our Coinbase investment, net of taxes, of $892 million, and the gain from the deconsolidation of Bakkt, of $1.4 billion. These increases were partially offset by a decrease in Section 31 fee collections of $219 million, primarily due to lower rates, which were revised in February of each year. The remaining change is due to fluctuations in our working capital and the timing of various payments such as transaction-related expenses and taxes payable on the sale of our Coinbase investment.
+Investing Activities
+Consolidated net cash used in investing activities in 2021 primarily relates to $5.1 billion purchases of invested margin deposits, $179 million of capitalized expenditures, $273 million of software development costs, $117 million for the purchase of an equity method investment and $66 million cash paid for acquisitions, net of cash acquired, partially offset by $3.7 billion of proceeds from the sale of invested margin deposits and $1.2 billion in proceeds from the sale of our Coinbase investment. Consolidated net cash used in investing activities in 2020 relates to $9.4 billion cash paid for acquisitions, primarily Ellie Mae, net of cash acquired, $3.4 billion purchases of invested margin deposits, $207 million of capitalized expenditures and $203 million of software development costs, partially offset by $2.8 billion proceeds from the sale of invested margin deposits.
+
+68
+
+The capital expenditures primarily relate to hardware and software purchases to continue the development and expansion of our electronic platforms, data services and clearing houses and leasehold improvements. The software development expenditures primarily relate to the development and expansion of our electronic trading platforms, data services, mortgage services and clearing houses.
+Financing Activities
+Consolidated net cash provided by financing activities in 2021 primarily relates to an increase in our cash and cash equivalent margin deposits and guaranty fund balances of $65.7 billion, partially offset by $1.2 billion in repayments of debt facilities, $1.4 billion in net repayments under our Commercial Paper Program, $250 million in repurchases of common stock, $747 million in dividend payments to our stockholders and $70 million in cash payments related to treasury shares received for restricted stock tax payments and stock options exercises.
+Consolidated net cash provided by financing activities in 2020 primarily relates to an increase in our cash and cash equivalent margin deposits and guaranty fund balances of $19.3 billion, $9.6 billion in net proceeds from the issuance of the May 2020 Notes and the August 2020 Notes, borrowings under a term loan facility and $1.1 billion in net issuances under our Commercial Paper Program. Cash provided by financing activities was partially offset by repayments of our $1.25 billion December 2020 Senior Notes, and the early payoff of the term loan mentioned above, $1.2 billion in repurchases of common stock, $669 million in dividend payments to stockholders and $74 million in cash payments related to treasury shares received for restricted stock tax payments and stock options exercises.
+We have adjusted our historical presentation of opening and ending amounts of cash, cash equivalents, and restricted cash and cash equivalents in our consolidated statements of cash flows to include cash and cash equivalent margin deposits and guaranty funds. Changes in these balances are reflected as cash provided by/(used in) financing activities.
+See Note 10 to our consolidated financial statements, included in this Annual Report.
+Debt
+As of December 31, 2021, we had $13.9 billion in outstanding debt, consisting of $12.9 billion of fixed rate senior notes, $1.0 billion under our U.S. dollar commercial paper program, or the Commercial Paper Program and $10 million under credit lines at our ICE India subsidiaries. Our fixed rate senior notes of $12.9 billion have a weighted average maturity of 15 years and a weighted average cost of 2.9% per annum. The commercial paper notes had original maturities ranging from three to 73 days as of December 31, 2021, with a weighted average interest rate of 0.33% per annum, and a weighted average remaining maturity of 26 days.
+As of December 31, 2020, we had $16.5 billion in outstanding debt, consisting of $12.9 billion of fixed rate senior notes, $1.2 billion of floating rate senior notes, $2.4 billion under the Commercial Paper Program and $6 million under credit lines at our ICE India subsidiaries. Our fixed rate senior notes of $12.9 billion had a weighted average maturity of 16 years and a weighted average cost of 3.0% per annum. The commercial paper notes had original maturities ranging from four to 266 days as of December 31, 2020, with a weighted average interest rate of 0.40% per annum, and a weighted average remaining maturity of 82 days.
+In September 2021, we used the proceeds from commercial paper issuances and cash on hand to fund the redemption of $1.25 billion aggregate principal amount of senior floating rate notes due in June 2023, or the Floating Rate Notes. We delivered a notice of redemption of the Floating Rate Notes to Wells Fargo Bank, National Association, as trustee, under the indenture governing the Floating Rate Notes, which was delivered to the holders of the Floating Rate Notes on September 17, 2021, and they were subsequently redeemed on September 27, 2021. In connection with this redemption, we recorded $4 million in accelerated unamortized deferred loan costs, which are included in interest expense in our consolidated statements of income for 2021.
+We have a $3.8 billion senior unsecured revolving credit facility, or the Credit Facility, pursuant to a credit agreement with Wells Fargo Bank, N.A., as primary administrative agent, issuing lender and swing-line lender, Bank of America, N.A., as syndication agent, backup administrative agent and swing-line lender, and the lenders party thereto. As of December 31, 2021, of the $3.8 billion that is currently available for borrowing under the Credit Facility, $1.0 billion is required to back-stop the amount outstanding under our Commercial Paper Program and $171 million is required to support certain broker-dealer and other subsidiary commitments. The amount required to backstop the amounts outstanding under the Commercial Paper Program will fluctuate as we increase or decrease our commercial paper borrowings. The remaining $2.6 billion is available for working capital and general corporate purposes, including, but not limited to, acting as a backstop to future increases in the amounts outstanding under the Commercial Paper Program. On October 15, 2021, we agreed with the lenders to extend the maturity date of the Credit Facility to October 15, 2026, among other items.
+
+69
+
+On August 21, 2020, we entered into a $750 million 18-month senior unsecured delayed draw term loan facility with a maturity date of February 21, 2022. We borrowed in full under the facility on September 3, 2020 and the proceeds were used to fund a portion of the purchase price for the Ellie Mae acquisition. We had the option to prepay the facility in whole or in part at any time and paid off the full balance of the loan on December 16, 2020. Interest on borrowings under this term loan facility were based on the principal amount outstanding at LIBOR plus an applicable margin, which was equal to 1.125%.
+On August 20, 2020, we issued $6.5 billion in aggregate principal amount of new senior notes, comprised of $1.25 billion in aggregate principal amount of floating rate senior notes due in 2023, $1.0 billion in aggregate principal amount of 0.70% senior notes due in 2023, $1.5 billion in aggregate principal amount of 1.85% senior notes due in 2032, $1.25 billion in aggregate principal amount of 2.65% senior notes due in 2040, and $1.5 billion in aggregate principal amount of 3.00% senior notes due in 2060. We used the net proceeds from the offering to fund a portion of the purchase price for the Ellie Mae acquisition.
+On May 26, 2020, we issued $2.5 billion in aggregate principal amount of new senior notes, comprised of $1.25 billion in aggregate principal amount of 2.10% senior notes due in 2030 and $1.25 billion in aggregate principal amount of 3.00% senior notes due in 2050. We used the net proceeds from the offering for general corporate purposes, including to fund the redemption of our $1.25 billion aggregate principal amount of 2.75% senior notes due in December 2020 and to pay down a portion of our commercial paper outstanding.
+Our Commercial Paper Program enables us to borrow efficiently at reasonable short-term interest rates and provides us with the flexibility to de-lever using our strong annual cash flows from operating activities whenever our leverage becomes elevated as a result of investment or acquisition activities. We had net repayments of $1.4 billion under our Commercial Paper Program during 2021. We used $1.2 billion of proceeds received from the sale of our Coinbase investment to pay down the balance under our Commercial Paper Program.
+Upon maturity of our commercial paper and to the extent old issuances are not repaid by cash on hand, we are exposed to the rollover risk of not being able to issue new commercial paper. To mitigate this risk, we maintain the Credit Facility for an aggregate amount which meets or exceeds the amount issued under our Commercial Paper Program at any time. If we were not able to issue new commercial paper, we have the option of drawing on the backstop revolving facility. However, electing to do so would result in higher interest expense.
+For additional details of our debt instruments, refer to Note 10 to our consolidated financial statements, included in this Annual Report.
+Capital Return
+In December 2019, our Board approved an aggregate of $2.4 billion for future repurchases of our common stock with no fixed expiration date that became effective January 1, 2020.
+During 2021, we repurchased 1.8 million shares of our outstanding common stock at a cost of $250 million on the open market. During 2020, we repurchased 13.6 million shares of our outstanding common stock at a cost of $1.2 billion, including 10.4 million shares at a cost of $948 million under our Rule 10b5-1 trading plan and 3.2 million shares at a cost of $299 million on the open market. Shares repurchased are held in treasury stock.
+We discontinued stock repurchases and terminated our Rule 10b5-1 trading plan in August 2020 in connection with our Ellie Mae acquisition and in November 2021, we resumed repurchases. The remaining balance of Board approved funds for future repurchases as of December 31, 2021 was $903 million. In December 2021, our Board approved an aggregate of $3.15 billion for future repurchases of our common stock with no fixed expiration date that became effective January 1, 2022. The $3.15 billion replaces the previous amount approved by the Board. In December 2021 we entered into a new Rule 10b5-1 trading plan that will become effective in February 2022. We may discontinue stock repurchases at any time and may amend or terminate a Rule 10b5-1 trading plan at any time. The approval of our Board for the stock repurchases does not obligate us to acquire any particular amount of our common stock. In addition, our Board may increase or decrease the amount available for repurchases from time to time.
+From time to time, we enter into Rule 10b5-1 trading plans, as authorized by our Board, to govern some or all of the repurchases of our shares of common stock. We expect funding for any stock repurchases to come from our operating cash flow or borrowings under our Commercial Paper Program or our debt facilities. The timing and extent of future repurchases that are not made pursuant to a Rule 10b5-1 trading plan will be at our discretion and will depend upon many conditions. In making a determination regarding any stock repurchases, management considers multiple factors, including overall stock market conditions, our common stock price performance, the remaining amount authorized for repurchases by our Board, the potential impact of a stock repurchase program on our corporate debt ratings, our expected free cash
+
+70
+
+flow and working capital needs, our current and future planned strategic growth initiatives, and other potential uses of our cash and capital resources.
+During 2021, we paid cash dividends of $1.32 per share of our common stock in the aggregate, including quarterly dividends of $0.33 per share, for an aggregate payout of $747 million, which includes the payment of dividend equivalents on unvested employee restricted stock units. Refer to Note 12 to our consolidated financial statements included in this Annual Report, for details on the amounts of our quarterly dividend payouts for the last three years.
+
+Future Capital Requirements
+Our future capital requirements will depend on many factors, including the rate of growth across our segments, strategic plans and acquisitions, available sources for financing activities, required and discretionary technology and clearing initiatives, regulatory requirements, the timing and introduction of new products and enhancements to existing products, the geographic mix of our business and potential stock repurchases.
+We currently expect to incur capital expenditures (including operational and real estate capital expenditures) and to incur software development costs that are eligible for capitalization ranging in the aggregate between $490 million and $520 million in 2022, which we believe will support the enhancement of our technology, business integration and the continued growth of our businesses.
+As of December 31, 2021, we had $903 million authorized for future repurchases of our common stock. Refer to Note 12 to our consolidated financial statements included in this Annual Report for additional details on our stock repurchase program.
+Our Board has adopted a quarterly dividend policy providing that dividends will be approved quarterly by the Board or the Audit Committee taking into account factors such as our evolving business model, prevailing business conditions, our current and future planned strategic growth initiatives and our financial results and capital requirements, without a predetermined net income payout ratio. For the first quarter of 2022, we announced a $0.38 per share dividend payable on March 31, 2022 to stockholders of record as of March 17, 2022.
+Other than the facilities for the ICE Clearing Houses, our Credit Facility and our Commercial Paper Program are currently the only significant agreements or arrangements that we have for liquidity and capital resources with third parties. See Notes 10 and 14 to our consolidated financial statements for further discussion. In the event of any strategic acquisitions, mergers or investments, or if we are required to raise capital for any reason or desire to return capital to our stockholders, we may incur additional debt, issue additional equity to raise necessary funds, repurchase additional shares of our common stock or pay a dividend. However, we cannot provide assurance that such financing or transactions will be available or successful, or that the terms of such financing or transactions will be favorable to us. See “-Risk Factors" and Note 10 to our consolidated financial statements, included in this Annual Report.
+
+Non-GAAP Measures
+We use certain financial measures internally to evaluate our performance and make financial and operational decisions that are presented in a manner that adjusts from their equivalent GAAP measures or that supplement the information provided by our GAAP measures. We use these adjusted results because we believe they more clearly highlight trends in our business that may not otherwise be apparent when relying solely on GAAP financial measures, since these measures eliminate from our results specific financial items that have less bearing on our core operating performance.
+We use these measures in communicating certain aspects of our results and performance, including in this Annual Report, and believe that these measures, when viewed in conjunction with our GAAP results and the accompanying reconciliation, can provide investors with greater transparency and a greater understanding of factors affecting our financial condition and results of operations than GAAP measures alone. In addition, we believe the presentation of these measures is useful to investors for making period-to-period comparisons of results because the adjustments to GAAP are not reflective of our core business performance.
+These financial measures are not presented in accordance with, or as an alternative to, GAAP financial measures and may be different from non-GAAP measures used by other companies. We encourage investors to review the GAAP financial measures included in this Annual Report, including our consolidated financial statements, to aid in their analysis and understanding of our performance and in making comparisons.
+The table below outlines our adjusted operating expenses, adjusted operating income, adjusted operating margin, adjusted net income attributable to ICE common stockholders and adjusted earnings per share, which are non-GAAP measures that are calculated by making adjustments for items we view as not reflective of our cash operations and core
+
+71
+
+business performance. These measures, including the adjustments and their related income tax effect and other tax adjustments (in millions, except for percentages and per share amounts), are as follows:
+
+---------------------------------------------------------------------------------------------------------- ----------------------- ----- -------------------------------------- ----- --------------------------- ----- ----------------------- - ---- ----- ---- ----- ----- ---- ----- ---- ----- ------- ----- ---- ----- ---- ----- ---- ----- - ----- - --- ----- - - ----- - - ----- - ----- - -----
+ Exchanges Segment Fixed Income and Data Services Segment Mortgage Technology Segment Consolidated
+ Year Ended December 31, Year Ended December 31, Year Ended December 31, Year Ended December 31,
+ 2021 2020 2019 2021 2020 2019 2021 2020 2019 2021 2020 2019
+Total revenues, less transaction-based expenses $ 3,856 $ 3,631 $ 3,307 $ 1,883 $ 1,810 $ 1,756 $ 1,407 $ 595 $ 139 $ 7,146 $ 6,036 $ 5,202
+Operating expenses 1,333 1,242 1,140 1,354 1,318 1,317 1,010 443 72 3,697 3,003 2,529
+Less: Amortization of acquisition-related intangibles 73 74 68 180 191 225 369 123 16 622 388 309
+Less: Transaction and integration costs and acquisition-related success fees 59 12 — — — — 39 89 — 98 101 —
+Less: Impairment of developed software — 11 — — — — — — — — 11 —
+Less: Impairment of exchange registration intangible assets on ICE Futures Singapore — — 31 — — — — — — — — 31
+Less: Accrual relating to a regulatory settlement — — — — 8 — — — — — 8 —
+Adjusted operating expenses $ 1,201 $ 1,145 $ 1,041 $ 1,174 $ 1,119 $ 1,092 $ 602 $ 231 $ 56 $ 2,977 $ 2,495 $ 2,189
+Operating income $ 2,523 $ 2,389 $ 2,167 $ 529 $ 492 $ 439 $ 397 $ 152 $ 67 $ 3,449 $ 3,033 $ 2,673
+Adjusted operating income $ 2,655 $ 2,486 $ 2,266 $ 709 $ 691 $ 664 $ 805 $ 364 $ 83 $ 4,169 $ 3,541 $ 3,013
+Operating margin 65 % 66 % 66 % 28 % 27 % 25 % 28 % 25 % 48 % 48 % 50 % 51 %
+Adjusted operating margin 69 % 68 % 69 % 38 % 38 % 38 % 57 % 61 % 59 % 58 % 59 % 58 %
+
+Net income attributable to ICE common stockholders $ 4,058 $ 2,089 $ 1,933
+Add: Amortization of acquisition-related intangibles 622 388 309
+Add: Transaction and integration costs and acquisition-related success fees 98 101 —
+Less: Gain on value of Euroclear equity investment (34) (35) —
+Less: Gain on sale of Coinbase equity investment (1,227) — —
+Less: Gain on deconsolidation of Bakkt (1,419) — —
+Less: Gain on sale of BIDS equity investment — (20) —
+Less: Gain related to the settlement of an acquisition-related indemnification claim (7) — —
+Add: Accelerated unamortized costs related to the early payoff of the June 2023 floating rate senior notes 4 — —
+Add: Extinguishment of December 2020 Senior Notes — 14 —
+Add: Pre-acquisition interest expense on debt issued for Ellie Mae acquisition — 5 —
+Add: Impairment of developed software — 11 —
+Add: Impairment of CAT promissory notes — 2 16
+Add: Impairment of exchange registration intangible assets on ICE Futures Singapore — — 31
+Add: Accrual relating to legal settlement 16 30 —
+Add: Accrual relating to regulatory settlement — 8 —
+Add/(Less): Net losses/(income) from unconsolidated investees 42 (71) (62)
+Add/(Less): Income tax effect for the above items 574 (109) (80)
+Add/(Less): Deferred tax adjustments on acquisition-related intangibles 183 36 (8)
+Add: Other tax adjustments — — 3
+Adjusted net income attributable to ICE common stockholders $ 2,910 $ 2,449 $ 2,142
+
+Basic earnings per share attributable to ICE common stockholders $ 7.22 $ 3.79 $ 3.44
+Diluted earnings per share attributable to ICE common stockholders $ 7.18 $ 3.77 $ 3.42
+
+Adjusted basic earnings per share attributable to ICE common stockholders $ 5.17 $ 4.44 $ 3.82
+Adjusted diluted earnings per share attributable to ICE common stockholders $ 5.15 $ 4.41 $ 3.79
+
+Basic weighted average common shares outstanding 562 552 561
+Diluted weighted average common shares outstanding 565 555 565
+
+Amortization of acquisition-related intangibles are included in non-GAAP adjustments as excluding these non-cash expenses provides greater clarity regarding our financial strength and stability of cash operating results.
+Transaction and integration costs are included as part of our core business expenses, except for those that are directly related to the announcement, closing, financing or termination of a transaction. However, we adjust for the acquisition-related transaction and integration costs relating to acquisitions such as Ellie Mae given the magnitude of the $11.4 billion
+
+72
+
+purchase price of the acquisition. We also adjust for the acquisition-related transaction costs related to the merger of Bakkt and VIH due to the significance of the transaction. In 2020, we also included a $10 million adjustment for Bridge2 Solutions acquisition costs resulting from a Bakkt incentive award market condition estimation adjustment as an acquisition-related success fee. This adjustment was directly related to the March 2020 capital call to fund the acquisition of Bridge2 Solutions and we believe is therefore appropriate since we exclude costs directly related to the success of a transaction.
+In 2021, we recorded a $1.2 billion gain on the sale of our Coinbase equity investment and a $1.4 billion gain on the deconsolidation of Bakkt. We do not consider these items to be part of our core business operations.
+Effective January 1, 2021, we exclude net income from our unconsolidated equity method investees for purposes of calculating non-GAAP measures and have retroactively restated the prior-year periods for comparability purposes. For 2021, this adjustment includes our share of net income from OCC, BondLink, and Bakkt (from the period of the Bakkt merger on October 15, 2021 through December 31, 2021). This is consistent with how we treat changes in the fair value of our equity investments. We believe these adjustments provide greater clarity of our performance given that equity investments are non-cash and not a part of our core operations.
+In addition, we also include the following items as non-GAAP adjustments, as each of these are not considered a part of our core business operations:
+•2021: The $34 million gain on the fair value adjustment of our Euroclear equity investment;
+•2021: The $7 million gain related to the settlement of an acquisition-related indemnification claim;
+•2021: Accrual of $16 million relating to a legal settlement;
+•2021: The acceleration of unamortized costs of $4 million related to the September 2021 early redemption of our Floating Rate Notes;
+•2020: The $11 million impairment of software developed at Bakkt when it was our subsidiary since it relates to the build-out of a fundamental software design vs. a recurring upgrade;
+•2020: Accrual of $30 million relating to a legal settlement;
+•2020: Accrual of $8 million relating to a regulatory settlement;
+•2020: The $35 million gain on the fair value adjustment of our Euroclear equity investment;
+•2020: The extinguishment payment of $14 million related to the June 2020 early redemption of the December 2020 Senior Notes which had an original maturity of December 1, 2020, as a result of our new senior notes offering in May 2020. This included both a make-whole redemption payment and duplicative interest;
+•2020: The $20 million gain on the sale of our BIDS equity investment;
+•2020: Pre-acquisition interest expense of $5 million on the August 2020 debt issued to fund a portion of the purchase price of our Ellie Mae acquisition;
+•2020: Promissory note impairment charges of $2 million on work performed by the original plan processor on the CAT as non-GAAP adjustments (this was in addition to the 2019 accrual of $16 million for the same item). See additional discussion on the CAT in Item 1(A) "-Risk Factors" in this Annual Report;
+•2019: Impairment of exchange registration intangible assets of $31 million at ICE Futures Singapore. This non-cash impairment was a result of the estimated fair value of an acquired intangible asset falling below its carrying value. See Note 8 to our consolidated financial statements, included in this Annual Report.
+The tax items in non-GAAP adjustments are either the tax impacts of the pre-tax non-GAAP adjustments or tax items as described below that are not in the normal course of business and are not indicative of our core business performance. The following tax-related items are included as non-GAAP adjustments:
+•Deferred tax adjustments on acquisition-related intangibles, including the impact of U.K. and U.S. state tax law changes and apportionment updates, as well as other foreign tax law changes which resulted in deferred tax expense/(benefit) of $183 million, $36 million and ($8 million) in 2021, 2020 and 2019, respectively. The deferred tax adjustments in 2021 relate primarily to the U.K. tax law changes enacted in June 2021, which increased the U.K. corporate income tax rate from 19% to 25% effective April 1, 2023. The deferred tax adjustments in 2020 were due to the tax law changes enacted in July 2020, which increased the U.K. corporate income tax rate from 17% to 19% effective April 1, 2020, as well as impacts of U.S. state apportionment charges.
+•Other tax adjustments of $3 million in 2019 for audit settlement payments primarily related to pre-acquisition tax matters in connection with our acquisition of NYSE in 2013.
+For additional information on these items, refer to our consolidated financial statements included in this Annual Report and “- Recent Developments,” “- Consolidated Operating Expenses”, “- Consolidated Non-Operating Income (Expenses)” and “-Consolidated Income Tax Provision” above.
+
+73
+
+Off-Balance Sheet Arrangements
+As described in Note 14 to our consolidated financial statements, which are included elsewhere in this Annual Report, certain clearing house collateral is reported off-balance sheet. We do not have any relationships with unconsolidated entities or financial partnerships, often referred to as structured finance or special purpose entities.
+
+Contractual Obligations and Commercial Commitments
+We intend to fund our contractual obligations and commercial commitments from existing cash and cash flow from operations. As of December 31, 2021, our primary cash requirements include the following contractual and other obligations.
+As of December 31, 2021, we had $13.9 billion in outstanding debt, including $1.5 billion of short-term debt. Our outstanding debt consists of $12.9 billion of fixed rate senior notes, $1.0 billion under our U.S. dollar commercial paper program, or the Commercial Paper Program and $10 million under credit lines at our ICE India subsidiaries.
+Our operating leases primarily relate to our leased office space and data center facilities, and as of December 31, 2021, we had fixed lease payment obligations of $350 million, with $82 million payable within one-year.
+We have other purchase obligations to purchase various goods and services that we believe are enforceable and legally binding.
+In addition, we have $150.4 billion in cash and cash equivalent margin deposits and guaranty funds, invested deposits, delivery contracts payable and unsettled variation margin. Clearing members of our clearing houses are required to deposit original margin and variation margin and to make deposits to a guaranty fund. The cash and cash equivalent deposits made to these margin accounts and to the guaranty fund are recorded in the consolidated balance sheet as current assets with corresponding current liabilities to the clearing members that deposited them. ICE NGX administers the physical delivery of energy trading contracts. It has an equal and offsetting claim to and from its respective participants on opposite sides of the physically-settled contract, each of which is reflected as a delivery contract receivable with an offsetting delivery contract payable. See Note 14 to our consolidated financial statements included in this Annual Report for additional information on our clearing houses and the margin deposits, guaranty funds, invested deposits, delivery contracts payable and unsettled variation margin.
+We also have unrecognized tax benefits, or UTBs. As of December 31, 2021, our cumulative UTBs were $229 million, and accrued interest and penalties related to UTBs were $49 million. We are under examination by various tax authorities. We are unable to make a reasonable estimate of the periods of cash settlement because it is not possible to reasonably predict the amount of tax, interest and penalties, if any, that might be assessed by a tax authority or the timing of an assessment or payment. It is also not possible to reasonably predict whether or not the applicable statutes of limitations might expire without us being examined by any particular tax authority. See Note 13 to our consolidated financial statements for additional information on our UTBs.
+As of December 31, 2021, we, through NYSE, have net obligations of $103 million related to our pension and other benefit programs. The date of payment under these net obligations cannot be determined. See Note 16 to our consolidated financial statements for additional information on our pension and other benefit programs.
+In addition, the future funding of the implementation and operation of the CAT is ultimately expected to be provided by both the SROs and broker-dealers. To date, however, funding has been provided solely by the SROs, and future funding is expected to be repaid if industry member fees are approved by the SEC and subsequently collected by industry members. See "- Non-GAAP Measures" above.
+
+New and Recently Adopted Accounting Pronouncements
+Refer to Note 2 to our consolidated financial statements included in this Annual Report for information on the new and recently adopted accounting pronouncements that are applicable to us.
+
+Critical Accounting Policies
+We have identified the policies below as critical to our business operations and the understanding of our results of operations. The impact of, and any associated risks related to, these policies on our business operations is discussed throughout “- Management’s Discussion and Analysis of Financial Condition and Results of Operations.” For a detailed discussion on the application of these and other accounting policies, see Note 2 to our consolidated financial statements included in this Annual Report.
+
+74
+
+Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of financial statements in conformity with these accounting principles requires us to make estimates and assumptions that affect the reported amount of assets and liabilities, and the disclosure of contingent assets and liabilities, at the date of our financial statements and the reported amounts of revenues and expenses during the reporting period.
+We base our estimates and judgments on our historical experience and other factors that we believe to be reasonable under the circumstances when we make these estimates and judgments and re-evaluate them on a periodic basis. Based on these factors, we make estimates and judgments about, among other things, the carrying values of assets and liabilities that are not readily apparent from market prices or other independent sources and about the recognition and characterization of our revenues and expenses. The values and results based on these estimates and judgments could differ significantly under different assumptions or conditions and could change materially in the future.
+We believe that the following critical accounting policies, among others, affect our more significant judgments and estimates used in the preparation of our consolidated financial statements and could materially increase or decrease our reported results, assets and liabilities.
+Goodwill and Other Identifiable Intangible Assets
+Assets acquired and liabilities assumed in connection with our acquisitions are recorded at their estimated fair values. Goodwill represents the excess of the purchase price of an acquired company over the fair value of its identifiable net assets, including identified intangible assets. We recognize specifically identifiable intangibles, such as customer relationships, trademarks, technology, trading products, data, exchange registrations, backlog, trade names and licenses when a specific right or contract is acquired. Our determination of the fair value of the intangible assets and whether or not these assets may be impaired following their acquisition requires us to apply significant judgments and make significant estimates and assumptions regarding future cash flows. If we change our strategy or if market conditions shift, our judgments and estimates may change, which may result in adjustments to recorded asset balances. Intangible assets with finite useful lives are amortized over their estimated useful lives whereas goodwill and intangible assets with indefinite useful lives are not.
+In performing the allocation of the acquisitions' purchase price to assets and liabilities, we consider, among other factors, the intended use of the acquired assets, analysis of past financial performance and estimates of future performance of the acquired business. At the acquisition date, a preliminary allocation of the purchase price is recorded based upon a preliminary valuation performed with the assistance of a third-party valuation specialist. We continue to review and assess our estimates, assumptions and valuation methodologies during the measurement period provided by GAAP, which ends as soon as we receive the information about facts and circumstances that existed as of the acquisition date or we learn that more information is not obtainable, which usually does not exceed one year from the date of acquisition. Accordingly, these estimates and assumptions are subject to change, which could have a material impact on our consolidated financial statements. Estimation uncertainty may exist due to the sensitivity of the respective fair value to underlying assumptions about the future performance of an acquired business in our discounted cash flow models. Significant assumptions typically include revenue growth rates and expense synergies that form the basis of the forecasted results and the discount rate.
+Our goodwill and other indefinite-lived intangible assets are evaluated for impairment annually in our fiscal fourth quarter or more frequently if conditions exist that indicate that the value may be impaired. We test our goodwill for impairment at the reporting unit level, and we have identified four reporting units, which were updated in 2020 to reflect our new segment presentation. Our reporting units identified for our goodwill testing are the NYSE, Other Exchanges, Fixed Income and Data Services, and Mortgage Technology reporting units. These impairment evaluations are performed by comparing the carrying value of the goodwill or other indefinite-lived intangibles to its estimated fair value.
+In accordance with Accounting Standards Update 2017-04, Simplifying the Test for Goodwill Impairment, or ASU-2017, for both goodwill and indefinite-lived intangible impairment testing, we have the option to first perform a qualitative assessment to determine whether it is more likely than not that the fair value of a reporting unit or indefinite-lived intangible asset is less than its carrying amount. If the fair value of the goodwill or indefinite-lived intangible asset is less than its carrying value, an impairment loss is recognized in earnings in an amount equal to the difference. Alternatively, we may choose to bypass the qualitative option and perform quantitative testing to determine if the fair value is less than the carrying value. For our goodwill impairment testing, we have elected to bypass the qualitative assessment and apply the quantitative approach. For our testing of indefinite-lived intangible assets, we apply qualitative and quantitative approaches.
+
+75
+
+Application of the impairment test requires judgment, including the identification of reporting units, assignment of assets and liabilities to reporting units, assignment of goodwill to reporting units, and determination of the fair value of each reporting unit. We have historically determined the fair value of our reporting units based on various valuation techniques, including discounted cash flow analysis and a multiple of earnings approach. In assessing whether goodwill and other intangible assets are impaired, we must make estimates and assumptions regarding future cash flows, long-term growth rates of our business, operating margins, discount rates, weighted average cost of capital and other factors to determine the fair value of our assets. These estimates and assumptions require management’s judgment, and changes to these estimates and assumptions, as a result of changing economic and competitive conditions, could materially affect the determination of fair value and/or impairment. During 2019, we recorded an impairment charge of $31 million on the remaining value of exchange registration intangible assets on ICE Futures Singapore as a result of a decrease in fair value determined during our annual impairment testing. We did not record any impairments in 2021 or 2020 as a result of our goodwill or indefinite-lived impairment testing.
+We are also required to evaluate other finite-lived intangible assets for impairment by first determining whether events or changes in circumstances indicate that the carrying value of these assets to be held and used may not be recoverable. If impairment indicators are present, then an estimate of undiscounted future cash flows produced by these long-lived assets is compared to the carrying value of those assets to determine if the asset is recoverable. If an asset is not recoverable, the loss is measured as the difference between fair value and carrying value of the impaired asset. Fair value of these assets is based on various valuation techniques, including discounted cash flow analysis.
+Income Taxes
+We are subject to income taxes in the U.S., U.K. and other foreign jurisdictions where we operate. The determination of our provision for income taxes and related accruals, deferred tax assets and liabilities requires the use of significant judgment, estimates, and the interpretation and application of complex tax laws. We recognize a current tax liability or tax asset for the estimated taxes payable or refundable on tax returns for the current year. We recognize deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the financial statement carrying amounts and the tax bases of our assets and liabilities. We establish valuation allowances if we believe that it is more likely than not that some or all of our deferred tax assets will not be realized. Deferred tax assets and liabilities are measured using current enacted tax rates in effect for the years in which those temporary differences and carryforwards are expected to reverse.
+The FASB Staff has provided additional guidance to address the accounting for the effects of the provisions related to the taxation of Global Intangible Low-Taxed Income noting that companies should make an accounting policy election to recognize deferred taxes for temporary basis differences expected to reverse in future years or to include the tax expense in the year it is incurred. We have made a policy election to recognize such taxes as current period expenses when incurred.
+We do not recognize a tax benefit unless we conclude that it is more likely than not that the benefit will be sustained on audit by the taxing authority based solely on the technical merits of the associated tax position. If the recognition threshold is met, we recognize a tax benefit measured at the largest amount of the tax benefit that, in our judgment, is greater than 50 percent likely to be realized. We recognize accrued interest and penalties related to uncertain income tax positions as income tax expense in the consolidated statements of income.
+We operate within multiple domestic and foreign taxing jurisdictions and are subject to audit in these jurisdictions by domestic and foreign tax authorities. These audits include questions regarding our tax filing positions, including the timing and amount of deductions taken and the allocation of income among various tax jurisdictions. We record accruals for the estimated outcomes of these audits, and the accruals may change in the future due to new developments in each matter. At any point in time, many tax years are subject to or in the process of being audited by various taxing authorities. To the extent our estimates of settlements change or the final tax outcome of these matters is different from the amounts recorded, such differences will impact the income tax provision in the period in which such determinations are made. Our income tax expense includes changes in our estimated liability for exposures associated with our various tax filing positions. Determining the income tax expense for these potential assessments requires management to make assumptions that are subject to factors such as proposed assessments by tax authorities, changes in facts and circumstances, issuance of new regulations, and resolution of tax audits.
+We believe the judgments and estimates discussed above are reasonable. However, if actual results are not consistent with our estimates or assumptions, we may be exposed to losses or gains that could be material.
+
+76
+
+ITEM 7 (A).     QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+As a result of our operating and financing activities, we are exposed to market risks such as interest rate risk, foreign currency exchange rate risk and credit risk. We have implemented policies and procedures designed to measure, manage, monitor and report risk exposures, which are regularly reviewed by the appropriate management and supervisory bodies.
+Interest Rate Risk
+We have exposure to market risk for changes in interest rates relating to our cash and cash equivalents, short-term and long-term restricted cash and cash equivalents, short-term and long-term investments and indebtedness. As of December 31, 2021 and 2020, our cash and cash equivalents and short-term and long-term restricted cash and cash equivalents were $2.0 billion for both periods, of which $276 million and $245 million, respectively, were denominated in pounds sterling, euros or Canadian dollars, and the remaining amounts are denominated in U.S. dollars. We do not use our investment portfolio for trading or other speculative purposes. A hypothetical 50% decrease in short-term interest rates would have an immaterial impact on our annual pre-tax earnings as of December 31, 2021, assuming no change in the amount or composition of our cash and cash equivalents and short-term and long-term restricted cash and cash equivalents.
+As of December 31, 2021, we had $13.9 billion in outstanding debt, of which $12.9 billion relates to our fixed rate senior notes. The remaining amount outstanding of $1.0 billion relates to $1.0 billion outstanding under our Commercial Paper Program, which bears interest at fluctuating rates, and $10 million under lines of credit at our India subsidiaries. A hypothetical 100 basis point increase in short-term interest rates relating to the amounts under our Commercial Paper Program as of December 31, 2021 would decrease annual pre-tax earnings by $10 million, assuming no change in the volume or composition of our outstanding indebtedness and no hedging activity. See Part II, Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations – Debt," and Note 10 to our consolidated financial statements included in this Annual Report.
+The interest rates on our Commercial Paper Program are currently evaluated based upon current maturities and market conditions. The weighted average interest rate on our Commercial Paper Program decreased from 0.40% as of December 31, 2020 to 0.33% as of December 31, 2021. The effective interest rate of commercial paper issuances will continue to fluctuate based on the movement in short-term interest rates along with shifts in supply and demand within the commercial paper market.
+Foreign Currency Exchange Rate Risk
+As an international business, we are subject to foreign currency exchange rate risk. We may experience gains or losses from foreign currency transactions in the future given that a significant part of our assets and liabilities are recorded in pounds sterling, Canadian dollars or euros, and a significant portion of our revenues and expenses are recorded in pounds sterling or euros. Certain assets, liabilities, revenues and expenses of foreign subsidiaries are denominated in the local functional currency of such subsidiaries. Our exposure to foreign denominated earnings in 2021 and 2020 is presented by primary foreign currency in the following table (dollars in millions, except exchange rates):
+
+77
+
+------------------------------------------------------------ ---------------------------- ------ ---- ---------------------------- - -------------- ---- - - ------ - - ------
+ Year Ended December 31, 2021 Year Ended December 31, 2020
+ Pound Sterling Euro Pound Sterling Euro
+Average exchange rate to the U.S. dollar in the current year $ 1.3762 $ 1.1835 $ 1.2832 $ 1.1412
+Average exchange rate to the U.S. dollar in the prior year $ 1.2832 $ 1.1412 $ 1.2769 $ 1.1195
+Average exchange rate increase (decrease) 7 % 4 % — % 2 %
+Foreign denominated percentage of:
+Revenues, less transaction-based expenses 7 % 6 % 7 % 6 %
+Operating expenses 8 % 2 % 9 % 2 %
+Operating income 6 % 11 % 6 % 9 %
+Impact of the currency fluctuations (1) on:
+Revenues, less transaction-based expenses $ 31 $ 13 $ 1 $ 6
+Operating expenses $ 19 $ 3 $ 1 $ 1
+Operating income $ 12 $ 10 $ — $ 5
+
+(1)    Represents the impact of currency fluctuation for the year compared to the same period in the prior year.
+We have a significant part of our assets, liabilities, revenues and expenses recorded in pounds sterling or euros. In both 2021 and 2020, 13% of our consolidated revenues, less transaction-based expenses, were denominated in pounds sterling or euros, and in 2021 and 2020, 10% and 11%, respectively, of our consolidated operating expenses were denominated in pounds sterling or euros. As the pound sterling or euro exchange rate changes, the U.S. equivalent of revenues and expenses denominated in foreign currencies changes accordingly.
+Foreign currency transaction risk related to the settlement of foreign currency denominated assets, liabilities and payables occurs through our operations, which are received in or paid in pounds sterling, Canadian dollars, or euros, due to the increase or decrease in the foreign currency exchange rates between periods. We incurred foreign currency transaction losses of $13 million and $5 million in 2021 and 2020, respectively inclusive of the impact of foreign currency hedging transactions. The foreign currency transaction losses were primarily attributable to the fluctuations of the pound sterling and euro relative to the U.S. dollar. A 10% adverse change in the underlying foreign currency exchange rates as of December 31, 2021, assuming no change in the composition of the foreign currency denominated assets, liabilities and payables and assuming no hedging activity, would result in a foreign currency loss of $15 million.
+We entered into foreign currency hedging transactions during 2021 and 2020 as economic hedges to help mitigate a portion of our foreign exchange risk exposure and may enter into additional hedging transactions in the future to help mitigate our foreign exchange risk exposure. Although we may enter into additional hedging transactions in the future, these hedging arrangements may not be effective, particularly in the event of imprecise forecasts of the levels of our non-U.S. denominated assets and liabilities.
+We have foreign currency translation risk equal to our net investment in our foreign subsidiaries. The financial statements of these subsidiaries are translated into U.S. dollars using a current rate of exchange, with gains or losses included in the cumulative translation adjustment account, a component of equity. Our exposure to the net investment in foreign currencies is presented by primary foreign currencies in the table below (in millions):
+
+------------------------------------------------------------------------------------------- --------------------------- --- ---------------------------- ----- ----------------- ----- -- - ---
+ As of December 31, 2021
+ Position in pounds sterling Position in Canadian dollars Position in euros
+Assets £ 722 C$ 2,245 € 220
+of which goodwill represents 566 398 92
+Liabilities 78 1,826 48
+
+Net currency position £ 644 C$ 419 € 172
+Net currency position, in $USD $ 871 $ 331 $ 195
+Negative impact on consolidated equity of a 10% decrease in foreign currency exchange rates $ 87 $ 33 $ 20
+
+Foreign currency translation adjustments are included as a component of accumulated other comprehensive income/(loss) within our balance sheet. See the table below for the portion of equity attributable to foreign currency translation adjustments as well as the activity by year included within our statement of other comprehensive income. The impact of
+
+78
+
+the foreign currency exchange rate differences in the table below were primarily driven by fluctuations of the pound sterling as compared to the U.S. dollar which were 1.3524, 1.3665 and 1.3260 as of December 31, 2021, 2020, and 2019, respectively.
+
+---------------------------------------------------- --------------------------------------------------------------------------------------------------------------------- -----
+ Changes in Accumulated Other Comprehensive Income/ (Loss) from Foreign Currency Translation Adjustments (in millions)
+
+Balance, as of January 1, 2019 $ (227)
+
+Net current period other comprehensive income/(loss) 50
+Balance, as of December 31, 2019 (177)
+
+Net current period other comprehensive income/(loss) 43
+Balance, as of December 31, 2020 (134)
+
+Net current period other comprehensive income/(loss) (16)
+Balance, as of December 31, 2021 $ (150)
+
+The future impact on our business relating to the U.K. leaving the EU and the corresponding regulatory changes are uncertain at this time, including future impacts on currency exchange rates.
+Credit Risk
+We are exposed to credit risk in our operations in the event of a counterparty default. We limit our exposure to credit risk by rigorously selecting the counterparties with which we make our investments, monitoring them on an ongoing basis and executing agreements to protect our interests.
+Clearing House Cash Deposit Risks
+The ICE Clearing Houses hold material amounts of clearing member margin deposits which are held or invested primarily to provide security of capital while minimizing credit, market and liquidity risks. Refer to Note 14 to our consolidated financial statements for more information on the ICE Clearing Houses' cash and cash equivalent margin deposits and guaranty funds, invested deposits, delivery contracts receivable and unsettled variation margin which were $150.4 billion as of December 31, 2021. While we seek to achieve a reasonable rate of return which may generate interest income for our clearing members, we are primarily concerned with preservation of capital and managing the risks associated with these deposits. As the ICE Clearing Houses may pass on interest revenues (minus costs) to the clearing members, this could include negative or reduced yield due to market conditions. The following is a summary of the risks associated with these deposits and how these risks are mitigated:
+•Credit Risk: When a clearing house has the ability to hold cash collateral at a central bank, the clearing house utilizes its access to the central bank system to minimize credit risk exposures. Credit risk is managed by using exposure limits depending on the credit profile of the counterparty as well as the nature and maturity of transactions. Our investment objective is to invest in securities that preserve principal while maximizing yields, without significantly increasing risk. We seek to substantially mitigate the credit risk associated with investments by placing them with governments, well-capitalized financial institutions and other creditworthy counterparties.
+An ongoing review is performed to evaluate changes in the financial status of counterparties. In addition to the intrinsic creditworthiness of counterparties, our policies require diversification of counterparties (banks, financial institutions, bond issuers and funds) so as to avoid a concentration of risk.
+•Liquidity Risk: Liquidity risk is the risk a clearing house may not be able to meet its payment obligations in the right currency, in the right place and at the right time. To mitigate this risk, the clearing houses monitor liquidity requirements closely and maintain funds and assets in a manner which minimizes the risk of loss or delay in the access by the clearing house to such funds and assets. For example, holding funds with a central bank where possible or making only short term investments such as overnight reverse repurchase agreements serves to reduce liquidity risks.
+•Interest Rate Risk: Interest rate risk is the risk that interest rates rise and cause the value of securities we hold or invest in to decline. If we were required to sell securities prior to maturity, and interest rates had risen, the sale might be made at a loss relative to the carrying value. Our clearing houses seek to manage this risk by making short term
+
+79
+
+investments. For example, where possible and in accordance with regulatory requirements, the clearing houses invest cash pursuant to overnight reverse repurchase agreements or term reverse repurchase agreements with short dated maturities. In addition, the clearing house investment guidelines allow for direct purchases of high quality sovereign debt (for example, U.S. Treasury securities) and supranational debt instruments (Euro cash deposits only) with short dated maturities.
+•Security Issuer Risk: Security issuer risk is the risk that an issuer of a security defaults on the payment when the security matures or debt is serviced. This risk is mitigated by limiting allowable investments under the reverse repurchase agreements to high quality sovereign or government agency debt and limiting any direct investments to high quality sovereign debt instruments.
+•Investment Counterparty Risk: Investment counterparty risk is the risk that a reverse repurchase agreement counterparty might become insolvent and, thus, fail to meet its obligations to our clearing houses. We mitigate this risk by only engaging in transactions with high credit quality counterparties and by limiting the acceptable collateral to securities of high quality issuers. When engaging in reverse repurchase agreements, our clearing houses take delivery of the securities underlying the reverse repurchase arrangement in custody accounts under clearing house control. Additionally, the securities purchased subject to reverse repurchase have a market value greater than the reverse repurchase amount. The typical haircut for high quality sovereign debt is 2% of the reverse repurchase amount which provides additional excess collateral. Thus, in the event that a reverse repurchase counterparty defaults on its obligation to repurchase the underlying reverse repurchase securities, our clearing house will have possession of a security with a value potentially greater than the counterparty’s obligation.
+The ICE Clearing Houses may use third-party investment advisors who make investments subject to the guidelines provided by each clearing house. Such advisors do not hold clearing member cash or cash equivalent deposits or the underlying investments. Clearing house property is held in custody accounts under clearing house control with credit worthy custodians. The ICE Clearing Houses employ (or may employ) multiple investment advisors and custodians to ensure that in the event a single advisor or custodian is unable to fulfill its role, additional advisors or custodians are available as alternatives.
+•Cross-Currency Margin Deposit Risk: Each of the ICE Clearing Houses may permit posting of cross-currency collateral to satisfy margin requirements (for example, accepting margin deposits denominated in U.S. dollars to secure a Euro margin obligation). The ICE Clearing Houses mitigate the risk of a currency value exposure by applying a “haircut” to the currency posted as margin at a level viewed as sufficient to provide financial protection during periods of currency volatility. Cross-currency balances are marked-to-market on a daily basis. Should the currency posted to satisfy margin requirements decline in value, the clearing member is required to increase its margin deposit on a same-day basis.
+Impact of Inflation
+We have not been adversely affected by inflation as technological advances and competition have generally caused prices for the hardware and software that we use for our electronic platforms to remain constant. In the event of inflation, we believe that we will be able to pass on any price increases to our participants, as the prices that we charge are not governed by long-term contracts.
+
+80
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[Refer to Note 4]:
+(4)As discussed in note 4 to the consolidated financial statements, in May 2021, we completed the acquisition of General Finance Corporation ("General Finance"), which was a leading provider of mobile storage equipment and modular office space. Prior to the General Finance acquisition, we did not rent material amounts of such equipment. (5)As discussed below (see "Industry Overview and Economic Outlook"), North American equipment rental industry revenue is based on industry estimates from the American Rental Association ("ARA"). Subsequent to our prior disclosure of 2020 industry information, the ARA decreased its estimate of the size of the North American equipment rental industry. As a result of this change, relative to our prior disclosures, our market share for 2020 increased and the size of the 2020 decline in North American equipment rental industry revenue decreased. COVID-19 COVID-19 was first identified in people in late 2019. COVID-19 spread rapidly throughout the world and, in March 2020, the World Health Organization characterized COVID-19 as a pandemic. The COVID-19 pandemic has significantly disrupted supply chains and businesses around the world. Uncertainty remains regarding the ongoing impact of existing and emerging variant strains of COVID-19 on the operations and financial position of United Rentals, and on the global economy. Uncertainty also remains regarding the length of time it will take for the COVID-19 pandemic to ultimately subside, which will be impacted by the effectiveness of vaccines against COVID-19 (including against emerging variant strains), and by measures that may in the future be implemented to protect public health. See "Industry Overview and Economic Outlook" below for a discussion of market performance in 2021 and 2020. The health and safety of our employees and customers remains our top priority, and we also implemented a detailed COVID-19 response plan, which is explained in more detail in "Management's Discussion and Anal...
+
+[Refer to Note 3]:
+NOTE 3. ACQUISITIONS Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.18 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. The table below represents the preliminary purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. The fair values assigned to assets acquired and liabilities assumed are based on management's best estimates and assumptions as of the reporting date. Fair values associated with the net tax liabilities assumed and their related impact to goodwill were pending finalization as of the reporting date. --------------------------------------- ------ ----- ------------------------------------ --- - (dollars in millions) Amount Weighted Average Useful Life (years) Purchased technology $ 331 4 In-process research and development (1) 19 N/A Trademarks 4 3 Customer contracts and relationships 3 10 Total identifiable intangible assets 357 Net liabilities assumed (39) N/A Goodwill (2) 865 N/A Total purchase price $ 1,183 _________________________________________ (1) Capitalized as purchased technology and considered indefinite lived until the completion or abandonment of the associated research and development efforts. (2) Non-deductible for tax-purposes. Pro forma financial information has not been presented for the Frame.io acquisition as the impact to our Consolidated Financial Statements was not material. 70 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Workfront On December 7, 2020, we completed the acquisition of Workfront, a privately held company that provides a workflow platform, for approximately $1.52 ...
+
+[See Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 92
+
+[See Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2021, 2020 and 2019 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2021 2020 2019 Domestic $ 1,736 $ 1,090 $ 438 Foreign 3,969 3,086 2,767 Income before income taxes $ 5,705 $ 4,176 $ 3,205 The provision for (benefit from) income taxes for fiscal 2021, 2020 and 2019 consisted of the following: ----------------------------------------- ----- --- ---- ------- ---- ------- ---- - --- (in millions) 2021 2020 2019 Current: United States federal $ 391 $ 119 $ 7 Foreign 197 222 211 State and local 103 79 31 Total current 691 420 249 Deferred: United States federal (148) (123) 23 Foreign 359 (1,313) (12) State and local (19) (68) (6) Total deferred 192 (1,504) 5 Provision for (benefit from) income taxes $ 883 $ (1,084) $ 254 Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. 80 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the expected tax expense, computed by multiplying the U.S. federal statutory rate of...
+
+[refer to Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2021, 2020 and 2019 consisted of the following: -------------------------- (benefit from) income taxes for fiscal 2021, 2020 and 2019 consisted of the following: ----------------------------------------- ----- --- ---- ------- ---- ------- ---- - --- (in millions) 2021 2020 2019 Current: United States federal of...
+
+[Refer to Note 12]:
+Note 12 - Leases 90
+
+[Refer to Note 12]:
+Note 12 - Leases 90
+
+[See Note 8]:
+Note 8. Acquisitions Fitbit In January 2021, we closed the acquisition of Fitbit, a leading wearables brand for $2.1 billion. The addition of Fitbit to Google Services is expected to help spur innovation in wearable devices. The assets acquired and liabilities assumed were recorded at fair value. The purchase price excludes post acquisition compensation arrangements. The purchase price was attributed to $440 million cash acquired, $590 million of intangible assets, $1.2 billion of goodwill and $92 million of net liabilities assumed. Goodwill was recorded in the Google Services segment and primarily attributable to synergies expected to arise after the acquisition. Goodwill is not expected to be deductible for tax purposes. Other Acquisitions During the year ended December 31, 2021, we completed other acquisitions and purchases of intangible assets for total consideration of approximately $885 million, net of cash acquired, of which the total amount of goodwill expected to be deductible for tax purposes is approximately $118 million. Pro forma results of operations for these acquisitions have not been presented because they are not material to our consolidated results of operations, either individually or in the aggregate. 74 ----------------- ------------- Alphabet Inc.
+
+[See Note 14]:
+Note 14 - Arrangements with Off-Balance Sheet Risk 97
+
+[See Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 92
+
+[See Note 16]:
+NOTE 16. COMMITMENTS AND CONTINGENCIES Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. The following table summarizes our non-cancellable unconditional purchase obligations for each of the next five years and thereafter as of December 3, 2021: ------------- -------------------- ----- (in millions) Fiscal Year Purchase Obligations 2022 $ 711 2023 471 2024 174 2025 18 2026 7 Thereafter -- Total $ 1,381 Royalties We have royalty commitments associated with the licensing of certain offerings and products. Royalty expense is generally based on a dollar amount per unit or a percentage of the underlying revenue. Royalty expense, which was recorded in our cost of revenue on our Consolidated Statements of Income, was approximately $202 million, $176 million and $154 million in fiscal 2021, 2020 and 2019, respectively. Indemnifications In the ordinary course of business, we provide indemnifications of varying scope to customers and channel partners against claims of intellectual property infringement made by third parties arising from the use of our products and from time to time, we are subject to claims by our customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations. To the extent permitted under Delaware law, we have agreements whereby we indemnify our officers and directors for certain events or occurrences while the officer or director is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the officer's or director's lifetime. The maximum potential amount of future payments we could be required to make under these indemnification agreements is unlimited; however, we have direct...
+
+[Refer to Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer 66 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[see Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[Refer to Note 14]:
+Note 14 - Arrangements with Off-Balance Sheet Risk 97
+
+[Notes 10 and 14]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2021, 2020 and 2019 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- fiscal 2021, 2020 and 2019 consisted of the following: ----------------------------------------- ----- --- ---- ------- ---- ------- ---- - --- (in millions) 2021 2020 2019 Current: United States federal $ 391 $ 119 $ 7 Foreign 197 222 211 State and local 103 79 31 Total current 691 420 249 Deferred: United States federal (148) (123) 23 Foreign 359 (1,313) (12) State and local (19) (68) (6) Total deferred 192 (1,504) 5 Provision for (benefit from) income taxes $ 883 $ (1,084) $ 254 Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. 80 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the expected tax expense, computed by multiplying the U.S. federal statutory rate of...
+
+[refer to Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[See Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[" are not meaningful.
+The majority of our operating expenses do not vary directly with changes in our volume and revenues, except for certain technology and communication expenses, including data acquisition costs, licensing and other fee-related arrangements and a portion of our compensation expense that is tied directly to our data sales or overall financial performance.
+We expect our operating expenses to increase in absolute terms in future periods in connection with the growth of our business, and to vary from year-to-year based on the type and level of our acquisitions, our integrations and other investments.
+In 2021 and 2020, 10% and 11%, respectively, of our operating expenses were incurred in pounds sterling or euros. Due to fluctuations in the U.S. dollar compared to the pound sterling and euro, our consolidated operating expenses were $22 million higher in 2021 than in 2020. See Item 7(A) “- Quantitative and Qualitative Disclosures About Market Risk - Foreign Currency Exchange Rate Risk” below for additional information.
+Compensation and Benefits Expenses
+Compensation and benefits expense is our most significant operating expense and includes non-capitalized employee wages, bonuses, non-cash or stock compensation, certain severance costs, benefits and employer taxes. The bonus component of our compensation and benefits expense is based on both our financial performance and individual employee performance. The performance-based restricted stock compensation expense is also based on our financial performance. Therefore, our compensation and benefits expense will vary year-to-year based on our financial performance and fluctuations in our number of employees. The below chart summarizes the significant drivers of our compensation and benefits expense results for the periods presented (dollars in millions, except employee headcount).
+
+--------------------------------- ----------------------- --- ---- ----- - ------ - - -- -
+ Year Ended December 31,
+ 2021 2020 Change
+Employee headcount 8,858 8,890 — %
+Stock-based compensation expenses $ 155 $ 127 22 %
+
+Employee headcount decreased in 2021 from 2020 primarily due to the deconsolidation of Bakkt, which was partially offset by increased hiring in 2021. Ellie Mae compensation and benefits expense was $174 million higher in 2021 than in 2020 due to our September 2020 acquisition. Bakkt compensation and benefits expense was $16 million higher in 2021 than in 2020 due to increases in employee headcount prior to deconsolidating Bakkt. In addition, compensation and benefits expense increased $67 million in 2021 from 2020 due to merit pay increases, above target performance-based compensation and higher employee insurance costs than in 2020 due to the impact of COVID-19. The stock-based compensation expenses in the table above relate to employee stock option and restricted stock awards.
+Professional Services Expenses
+Professional services expense includes fees for consulting services received on strategic and technology initiatives, temporary labor, as well as regulatory, legal and accounting fees, and may fluctuate as a result of changes in our use of these services in our business.
+
+62
+
+Professional services expenses increased in 2021 from 2020 primarily due to an increase of $26 million from Ellie Mae which was partially offset by lower legal expenses for 2021.
+Acquisition-Related Transaction and Integration Costs
+In 2021, we incurred $59 million in acquisition-related transaction costs related to the deconsolidation of Bakkt, which included $31 million non-cash compensation related to a market condition event triggered on the Bakkt equity incentive awards in connection with the merger of Bakkt and VIH. Additionally, we incurred $39 million in integration costs related to Ellie Mae.
+We expect to continue to costs in future periods.
+Technology and Communication Expenses
+Technology support services consist of costs for running our wholly-owned data centers, hosting costs paid to third-party data centers, and expenses consist of costs for network connections for our electronic platforms and telecommunications costs.
+Technology and communications expense also includes fees paid for access to external market hubs and connections with customers to access our electronic platforms directly.
+Technology and communications expenses increased by $117 million in 2021 from 2020, primarily due to the inclusion of Ellie Mae expenses, which were $87 million higher in 2021 than in 2020. In addition, technology and communications expenses increased by $24 million in 2021 from 2020 due to increased license fees and data acquisition costs.
+Rent and Occupancy Expenses
+Rent and occupancy expense relates to leased and owned property and includes rent, maintenance, real estate taxes, utilities and other related costs. We have significant operations located in the U.S., U.K., and India, with smaller offices located throughout the world.
+Rent and occupancy expenses includes the expenses of Ellie Mae, which increased $6 million in 2021 from 2020. These expenses were partially offset by a reduction in other occupancy expenses in 2021 and the early termination of our NYSE Chicago office lease in 2020. See Item 2 “- Properties” above for additional information regarding our leased and owned property.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses include marketing, advertising, public relations, insurance, bank service charges, dues and subscriptions, travel and entertainment, non-income taxes and other general and administrative costs.
+Selling, general and administrative expenses increased in 2021 from 2020, primarily due to the inclusion of $13 million of Ellie Mae expenses and $12 million of Bakkt expenses related to the launch of Bakkt']:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[" and Note 10 to our consolidated financial statements, included in this Annual Report.
+
+Non-GAAP Measures
+We use certain financial measures since these measures eliminate from our results specific financial items that have less bearing on our core operating performance.
+We use these measures in communicating certain aspects of our results transparency and a greater understanding of factors affecting our financial condition and results of operations than GAAP measures alone. In addition, we believe the presentation of these measures is useful to investors for making period-to-period comparisons of results because the adjustments to GAAP are not reflective of our core business performance.
+These financial measures are not presented in in this Annual Report, including our consolidated financial statements, to aid in their analysis and understanding of our performance and in making comparisons.
+The table below outlines our adjusted operating by making adjustments for items we view as not reflective of our cash operations and core
+
+71
+
+business performance. These measures, including the adjustments and their related income tax effect and other tax adjustments (in millions, except for percentages and per share amounts), are as follows:
+
+---------------------------------------------------------------------------------------------------------- ----- ---- ----- ---- ----- - ----- - --- ----- - - ----- - - ----- - ----- - -----
+ Exchanges Segment Fixed Income and Data Services Segment Mortgage Technology Segment Consolidated
+ Year Ended December 31, Year Ended December 31, Year Ended December 31, Year Ended December 31,
+ 2021 2020 2019 2021 2020 2019 2021 2020 2019 2021 2020 2019
+Total revenues, less transaction-based expenses $ 3,856 $ 3,631 $ 3,307 $ 1,883 $ 1,810 $ 1,756 $ 1,407 $ 595 $ 139 $ 7,146 $ 6,036 $ 5,202
+Operating expenses 1,333 1,242 1,140 1,354 1,318 1,317 1,010 443 72 3,697 3,003 2,529
+Less: Amortization of acquisition-related intangibles 73 74 68 180 191 225 369 123 16 622 388 309
+Less: Transaction and integration costs and acquisition-related success fees 59 12 — — — — 39 89 — 98 101 —
+Less: Impairment of developed software — 11 — — — — — — — — 11 —
+Less: Impairment of exchange registration intangible assets on ICE Futures Singapore — — 31 — — — — — — — — 31
+Less: Accrual relating to a regulatory settlement — — — — 8 — — — — — 8 —
+Adjusted operating expenses $ 1,201 $ 1,145 $ 1,041 $ 1,174 $ 1,119 $ 1,092 $ 602 $ 231 $ 56 $ 2,977 $ 2,495 $ 2,189
+Operating income $ 2,523 $ 2,389 $ 2,167 $ 529 $ 492 $ 439 $ 397 $ 152 $ 67 $ 3,449 $ 3,033 $ 2,673
+Adjusted operating income $ 2,655 $ 2,486 $ 2,266 $ 709 $ 691 $ 664 $ 805 $ 364 $ 83 $ 4,169 $ 3,541 $ 3,013
+Operating margin 65 % 66 % 66 % 28 % 27 % 25 % 28 % 25 % 48 % 48 % 50 % 51 %
+Adjusted operating margin 69 % 68 % 69 % 38 % 38 % 38 % 57 % 61 % 59 % 58 % 59 % 58 %
+
+Net income attributable to ICE common stockholders $ 4,058 $ 2,089 $ 1,933
+Add: Amortization of acquisition-related intangibles 622 388 309
+Add: Transaction and integration costs and acquisition-related success fees 98 101 —
+Less: Gain on value of Euroclear equity investment (34) (35) —
+Less: Gain on sale of Coinbase equity investment (1,227) — —
+Less: Gain on deconsolidation of Bakkt (1,419) — —
+Less: Gain on sale of BIDS equity investment — (20) —
+Less: Gain related to the settlement of an acquisition-related indemnification claim (7) — —
+Add: Accelerated unamortized costs related to the early payoff of the June 2023 floating rate senior notes 4 — —
+Add: Extinguishment of December 2020 Senior Notes — 14 —
+Add: Pre-acquisition interest expense on debt issued for Ellie Mae acquisition — 5 —
+Add: Impairment of developed software — 11 —
+Add: Impairment of CAT promissory notes — 2 16
+Add: Impairment of exchange registration intangible assets on ICE Futures Singapore — — 31
+Add: Accrual relating to legal settlement 16 30 —
+Add: Accrual relating to regulatory settlement — 8 —
+Add/(Less): Net losses/(income) from unconsolidated investees 42 (71) (62)
+Add/(Less): Income tax effect for the above items 574 (109) (80)
+Add/(Less): Deferred tax adjustments on acquisition-related intangibles 183 36 (8)
+Add: Other tax adjustments — — 3
+Adjusted net income attributable to ICE common stockholders $ 2,910 $ 2,449 $ 2,142
+
+Basic earnings per share attributable to ICE common stockholders $ 7.22 $ 3.79 $ 3.44
+Diluted earnings per share attributable to ICE common stockholders $ 7.18 $ 3.77 $ 3.42
+
+Adjusted basic earnings per share attributable to ICE common stockholders $ 5.17 $ 4.44 $ 3.82
+Adjusted diluted earnings per share attributable to ICE common stockholders $ 5.15 $ 4.41 $ 3.79
+
+Basic weighted average common shares outstanding 562 552 561
+Diluted weighted average common shares outstanding 565 555 565
+
+Amortization of acquisition-related intangibles are included in non-GAAP adjustments as excluding these non-cash expenses provides greater clarity regarding our financial strength and stability of cash operating results.
+Transaction and integration acquisition-related transaction and integration costs relating to acquisitions such as Ellie Mae given the magnitude of the $11.4 billion
+
+72
+
+purchase price of the acquisition. We also adjust for the acquisition-related Bridge2 Solutions and we believe is therefore appropriate since we exclude costs directly related to the success of a transaction.
+In 2021, we recorded a $1.2 billion gain on the sale of our Coinbase equity investment and a $1.4 billion gain on the deconsolidation of Bakkt. We do not consider these items to be part of our core business operations.
+Effective January 1, 2021, we exclude net income from of our equity investments. We believe these adjustments provide greater clarity of our performance given that equity investments are non-cash and not a part of our core operations.
+In addition, we also include the following items as non-GAAP adjustments, as each of these are not considered a part of our core business operations:
+•2021: The $34 million gain on the fair value adjustment of our Euroclear equity investment;
+•2021: The $7 million gain related to the settlement of an acquisition-related indemnification claim;
+•2021: Accrual of $16 million relating to a legal settlement;
+•2021: The acceleration of unamortized costs of $4 million related to the September 2021 early redemption of our Floating Rate Notes;
+•2020: The $11 million impairment of software developed at Bakkt when it was our subsidiary since it relates to the build-out of a fundamental software design vs. a recurring upgrade;
+•2020: Accrual of $30 million relating to a legal settlement;
+•2020: Accrual of $8 million relating to a regulatory settlement;
+•2020: The $35 million gain on the fair value adjustment of our Euroclear equity investment;
+•2020: The extinguishment payment of $14 million related to the June 2020 early redemption of the interest;
+•2020: The $20 million gain on the sale of our BIDS equity investment;
+•2020: Pre-acquisition interest expense of $5 million on the August 2020 debt issued to fund a portion of the purchase price of our Ellie Mae acquisition;
+•2020: Promissory note impairment charges of $2 million on work performed by the original plan processor on the CAT as non-GAAP adjustments (this was in addition to the 2019 accrual of $16 million for the same item). See additional discussion on the CAT in Item 1(A) "]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2021, 2020 and 2019 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2021 2020 2019 Domestic $ 1,736 $ 1,090 $ 438 Foreign 3,969 3,086 2,767 Income before income taxes $ 5,705 $ 4,176 $ 3,205 The provision for (benefit from) income taxes for fiscal 2021, 2020 and 2019 consisted of the following: ----------------------------------------- ----- --- ---- ------- ---- ------- ---- - --- (in millions) 2021 2020 2019 Current: United States federal $ 391 $ 119 $ 7 Foreign 197 222 211 State and local 103 79 31 Total current 691 420 249 Deferred: United States federal (148) (123) 23 Foreign 359 (1,313) (12) State and local (19) (68) (6) Total deferred 192 (1,504) 5 Provision for (benefit from) income taxes $ 883 $ (1,084) $ 254 Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. 80 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the expected tax expense, computed by multiplying the U.S. federal statutory rate of...
+
+[" above.
+
+New and Recently Adopted Accounting Pronouncements
+Refer to Note 2 to our consolidated financial statements included in this Annual Report for information on the new and recently adopted accounting pronouncements that are applicable to us.
+
+Critical Accounting Policies
+We have identified the policies below as critical to our business operations and the understanding of our results of operations. The impact of, and any associated risks related to, these policies on our business operations is discussed throughout “- Management’s Discussion and Analysis of Financial Condition and Results of Operations.” For a detailed discussion on the application of these and other accounting policies, see Note 2 to our consolidated financial statements included in this Annual Report.
+
+74
+
+Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of financial statements in conformity with these accounting principles requires us to make estimates and assumptions that affect the reported amount of assets and liabilities, and the disclosure of contingent assets and liabilities, at the date of our financial statements and the reported amounts of revenues and expenses during the reporting period.
+We base our estimates and judgments on our historical experience and other factors that we believe to be reasonable under the circumstances when we make these estimates and judgments and re-evaluate them on a periodic basis. Based on these factors, we make estimates and judgments about, among other things, the carrying values of assets and liabilities that are not readily apparent from market prices or other independent sources and about the recognition and characterization of our revenues and expenses. The values and results based on these estimates and judgments could differ significantly under different assumptions or conditions and could change materially in the future.
+We believe that the following critical accounting policies, among others, affect our more significant judgments and estimates used in the preparation of our consolidated financial statements and could materially increase or decrease our reported results, assets and liabilities.
+Goodwill and Other Identifiable Intangible Assets
+Assets acquired and liabilities assumed in connection with our acquisitions are recorded at their estimated fair values. Goodwill represents the excess of the purchase price of an acquired company over the fair value of its identifiable net assets, including identified intangible assets. We recognize specifically identifiable intangibles, such as customer relationships, trademarks, technology, trading products, data, exchange registrations, backlog, trade names and licenses when a specific right or contract is acquired. Our determination of the fair value of the intangible assets and whether or not these assets may be impaired following their acquisition requires us to apply significant judgments and make significant estimates and assumptions regarding future cash flows. If we change our strategy or if market conditions shift, our judgments and estimates may change, which may result in adjustments to recorded asset balances. Intangible assets with finite useful lives are amortized over their estimated useful lives whereas goodwill and intangible assets with indefinite useful lives are not.
+In performing the allocation of the acquisitions']:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web a...
+
+[" and Note 10 to our consolidated financial statements included in this Annual Report.
+The interest rates on our Commercial Paper Program are currently evaluated based upon current maturities and market conditions. The weighted average interest rate on our Commercial Paper Program decreased from 0.40% as of December 31, 2020 to 0.33% as of December 31, 2021. The effective interest rate of commercial paper issuances will continue to fluctuate based on the movement in short-term interest rates along with shifts in supply and demand within the commercial paper market.
+Foreign Currency Exchange Rate Risk
+As an international business, we are subject to foreign currency exchange rate risk. We may experience gains or losses from foreign currency transactions in the future given that a significant part of our assets and liabilities are recorded in pounds sterling, Canadian dollars or euros, and a significant portion of our revenues and expenses are recorded in pounds sterling or euros. Certain assets, liabilities, revenues and expenses of foreign subsidiaries are denominated in the local functional currency of such subsidiaries. Our exposure to foreign denominated earnings in 2021 and 2020 is presented by primary foreign currency in the following table (dollars in millions, except exchange rates):
+
+77
+
+------------------------------------------------------------ ---------------------------- ------ ---- ---------------------------- - -------------- ---- - - ------ - - ------
+ Year Ended December 31, 2021 Year Ended December 31, 2020
+ Pound Sterling Euro Pound Sterling Euro
+Average exchange rate to the U.S. dollar in the current year $ 1.3762 $ 1.1835 $ 1.2832 $ 1.1412
+Average exchange rate to the U.S. dollar in the prior year $ 1.2832 $ 1.1412 $ 1.2769 $ 1.1195
+Average exchange rate increase (decrease) 7 % 4 % — % 2 %
+Foreign denominated percentage of:
+Revenues, less transaction-based expenses 7 % 6 % 7 % 6 %
+Operating expenses 8 % 2 % 9 % 2 %
+Operating income 6 % 11 % 6 % 9 %
+Impact of the currency fluctuations (1) on:
+Revenues, less transaction-based expenses $ 31 $ 13 $ 1 $ 6
+Operating expenses $ 19 $ 3 $ 1 $ 1
+Operating income $ 12 $ 10 $ — $ 5
+
+(1)    Represents the impact of currency fluctuation for the year compared to the same period in the prior year.
+We have a significant part of our assets, liabilities, revenues and expenses recorded in pounds sterling or euros. In both 2021 and 2020, 13% of our consolidated revenues, less transaction-based expenses, were denominated in pounds sterling or euros, and in 2021 and 2020, 10% and 11%, respectively, of our consolidated operating expenses were denominated in pounds sterling or euros. As the pound sterling or euro exchange rate changes, the U.S. equivalent of revenues and expenses denominated in foreign currencies changes accordingly.
+Foreign currency transaction risk related to the settlement of foreign currency denominated assets, liabilities and payables occurs through our operations, which are received in or paid in pounds sterling, Canadian dollars, or euros, due to the increase or decrease in the foreign currency exchange rates between periods. We incurred foreign currency transaction losses of $13 million and $5 million in 2021 and 2020, respectively inclusive of the impact of foreign currency hedging transactions. The foreign currency transaction losses were primarily attributable to the fluctuations of the pound sterling and euro relative to the U.S. dollar. A 10% adverse change in the underlying foreign currency exchange rates as of December 31, 2021, assuming no change in the composition of the foreign currency denominated assets, liabilities and payables and assuming no hedging activity, would result in a foreign currency loss of $15 million.
+We entered into foreign currency hedging transactions during 2021 and 2020 as economic hedges to help mitigate a portion of our foreign exchange risk exposure and may enter into additional hedging transactions in the future to help mitigate our foreign exchange risk exposure. Although we may enter into additional hedging transactions in the future, these hedging arrangements may not be effective, particularly in the event of imprecise forecasts of the levels of our non-U.S. denominated assets and liabilities.
+We have foreign currency translation risk equal to our net investment in our foreign subsidiaries. The financial statements of these subsidiaries are translated into U.S. dollars using a current rate of exchange, with gains or losses included in the cumulative translation adjustment account, a component of equity. Our exposure to the net investment in foreign currencies is presented by primary foreign currencies in the table below (in millions):
+
+------------------------------------------------------------------------------------------- --------------------------- --- ---------------------------- ----- ----------------- ----- -- - ---
+ As of December 31, 2021
+ Position in pounds sterling Position in Canadian dollars Position in euros
+Assets £ 722 C$ 2,245 € 220
+of which goodwill represents 566 398 92
+Liabilities 78 1,826 48
+
+Net currency position £ 644 C$ 419 € 172
+Net currency position, in $USD $ 871 $ 331 $ 195
+Negative impact on consolidated equity of a 10% decrease in foreign currency exchange rates $ 87 $ 33 $ 20
+
+Foreign currency translation adjustments are included as a component of accumulated other comprehensive income/(loss) within our balance sheet. See the table below for the portion of equity attributable to foreign currency translation adjustments as well as the activity by year included within our statement of other comprehensive income. The impact of
+
+78
+
+the foreign currency exchange rate differences in the table below were primarily driven by fluctuations of the pound sterling as compared to the U.S. dollar which were 1.3524, 1.3665 and 1.3260 as of December 31, 2021, 2020, and 2019, respectively.
+
+---------------------------------------------------- --------------------------------------------------------------------------------------------------------------------- -----
+ Changes in Accumulated Other Comprehensive Income/ (Loss) from Foreign Currency Translation Adjustments (in millions)
+
+Balance, as of January 1, 2019 $ (227)
+
+Net current period other comprehensive income/(loss) 50
+Balance, as of December 31, 2019 (177)
+
+Net current period other comprehensive income/(loss) 43
+Balance, as of December 31, 2020 (134)
+
+Net current period other comprehensive income/(loss) (16)
+Balance, as of December 31, 2021 $ (150)
+
+The future impact on our business relating to the U.K. leaving the EU and the corresponding regulatory changes are uncertain at this time, including future impacts on currency exchange rates.
+Credit Risk
+We are exposed to credit risk in our operations in the event of a counterparty default. We limit our exposure to credit risk by rigorously selecting the counterparties with which we make our investments, monitoring them on an ongoing basis and executing agreements to protect our interests.
+Clearing House Cash Deposit Risks
+The ICE Clearing Houses hold material amounts of clearing member margin deposits which are held or invested primarily to provide security of capital while minimizing credit, market and liquidity risks. Refer to Note 14 to our consolidated financial statements for more information on the ICE Clearing Houses']:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2021, 2020 and 2019 consisted of the following: -------------------------- ----- ----- ---- ----- ---- ----- ----- - ----- (in millions) 2021 2020 2019 Domestic $ 1,736 $ 1,090 $ 438 Foreign 3,969 3,086 2,767 Income before income taxes $ 5,705 $ 4,176 $ 3,205 The provision for (benefit from) income taxes for fiscal 2021, 2020 and 2019 consisted of the following: ----------------------------------------- ----- --- ---- ------- ---- ------- ---- - --- (in millions) 2021 2020 2019 Current: United States federal $ 391 $ 119 $ 7 Foreign 197 222 211 State and local 103 79 31 Total current 691 420 249 Deferred: United States federal (148) (123) 23 Foreign 359 (1,313) (12) State and local (19) (68) (6) Total deferred 192 (1,504) 5 Provision for (benefit from) income taxes $ 883 $ (1,084) $ 254 Intra-Entity Transfers of Certain Intellectual Property Rights ("IP rights") During fiscal 2020, we completed intra-entity transfers of certain IP rights to our Irish subsidiary in order to better align the ownership of these rights with how our business operates. The transfers did not result in taxable gains; however, our Irish subsidiary recognized deferred tax assets for the book and tax basis difference of the transferred IP rights. As a result of these transactions, we recorded deferred tax assets, net of valuation allowance, and related tax benefits totaling $1.35 billion, based on the fair value of the IP rights transferred. The determination of the fair value involves significant judgment on future revenue growth, operating margins and discount rates. The tax-deductible amortization related to the transferred IP rights is recognized over the period of economic benefit. 80 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Reconciliation of Provision for (Benefit from) Income Taxes Total income tax expense differed from the expected tax expense, computed by multiplying the U.S. federal statutory rate of...
+
+[' preference to manage risk in markets demonstrating the greatest depth of liquidity and product diversity;
+•the evolution of existing products and new product innovation to serve emerging customer needs and changing industry agreements;
+•rising demand for speed, data, data capacity and connectivity by market participants, necessitating increased investment in technology; and
+•consolidation and increasing competition among global markets for trading, clearing and listings.
+Recent changes with regard to global financial reform have emphasized the importance of transparent markets, centralized clearing and access to data, all of which are important aspects of our product offering. However, some of the proposed rules have yet to be implemented and some rules that have already been partially implemented are being reconsidered. In addition, some of the global regulations have not been fully harmonized and several non-U.S. regulations are inconsistent with U.S. rules. As the evolution continues, legislative and regulatory actions may change the way we conduct our business and may create uncertainty for market participants, which could affect trading volumes or demand for market data. As a result, it is difficult to predict all of the effects that the legislation and its implementing regulations will
+
+46
+
+have on us. As discussed more fully in Item 1 “- Business - Regulation” included in this Annual Report, Brexit, the implementation of MiFID II and other regulations may result in operational, regulatory and/or business risk.
+We have diversified our business so that we are not dependent on volatility or transaction activity in any one asset class. In addition, we have increased our portion of recurring revenues from 34% in 2014 to 49% in 2021. These recurring revenues include data services, listings and various mortgage technology solutions.
+Many of the data products we sell and services we provide are required for our clients’ business operations regardless of market volatility or shifts in business profitability levels. We anticipate that there will continue to be growth in the financial information services sector driven by a number of global trends, including the following:
+•increasing global regulatory demands;
+•greater use of fair value accounting standards and reliance on independent valuations;
+•greater emphasis on risk management;
+•market fragmentation driven by regulatory changes;
+•the move to passive investing and indexation;
+•ongoing growth in the size and diversity of financial markets;
+•increased automation of fixed income, mortgage and other less automated markets;
+•the development of new data products;
+•the demand for greater data capacity and connectivity;
+•new entrants; and
+•increasing demand for outsourced services by financial institutions.
+We continue to focus clearing, markets and technology solutions.
+
+Segment Results
+Our business is conducted through three reportable business segments, comprised of the following:
+•Our Exchanges segment includes our trade execution and clearing within our global futures network and NYSE businesses, various data and connectivity services that are directly related to those exchange platforms, administration fees and our NYSE listings business. Trade execution and clearing products include energy, agricultural and metals, financial futures and options, cash equities, equity options, OTC and other;
+•Our Fixed Income and Data Services segment includes pricing and reference data, analytics, indices, trade execution and clearing within our ICE Bonds and CDS businesses, consolidated feeds and our ICE Global Network businesses; and
+•Our Mortgage Technology segment includes origination technology, closing solutions, data and analytics and other mortgage technology businesses.
+While revenues are recorded specifically in the segment not relate solely to one segment and serve functions that are necessary for the operation of all segments. Our segments do not engage in intersegment transactions.
+Beginning in the first quarter of 2021, revenues related to MERSCORP Holdings, Inc., or MERS, (previously reported in other revenues). We believe these changes more accurately reflect how we operate the business. Prior-year periods have been adjusted to reflect these changes.
+For details on trends in recent prior-year periods, refer to our 2020 and 2019 Annual Reports on Form 10-K.
+
+47
+
+Exchanges Segment
+The following presents selected statements of income data for our Exchanges segment (dollars in millions):
+
+(1) The adjusted figures in the charts above are calculated by excluding items that are not reflective of our cash operations and core business performance. As a result, these adjusted numbers are not calculated in accordance with U.S. GAAP. See “- Non-GAAP Financial Measures” below.
+
+48
+
+----------------------------------------------------- ----------------------- ----- ---- ----- - ----- ----------------------- ---- ---- ----- ------ ----- - ----- -- -
+ Year Ended December 31, Year Ended December 31,
+ 2021 2020 Change 2020 2019 Change
+Revenues:
+Energy futures and options $ 1,236 $ 1,120 10 % $ 1,120 $ 992 13 %
+Agricultural and metals futures and options 228 245 (7) 245 251 (2)
+Financial futures and options 394 357 10 357 332 8
+Futures and options 1,858 1,722 8 1,722 1,575 9
+Cash equities and equity options 2,377 2,585 (8) 2,585 1,643 57
+OTC and other 326 296 10 296 233 27
+Transaction and clearing, net 4,561 4,603 (1) 4,603 3,451 33
+Data and connectivity services 838 790 6 790 752 5
+Listings 479 446 7 446 449 (1)
+Revenues 5,878 5,839 1 5,839 4,652 26
+Transaction-based expenses(1) 2,022 2,208 (8) 2,208 1,345 64
+Revenues, less transaction-based expenses 3,856 3,631 6 3,631 3,307 10
+Other operating expenses 1,028 965 6 965 874 10
+Depreciation and amortization 244 261 (7) 261 265 (2)
+Acquisition-related transaction and integration costs 61 16 287 16 1 n/a
+Operating expenses 1,333 1,242 7 1,242 1,140 9
+Operating income $ 2,523 $ 2,389 6 % $ 2,389 $ 2,167 10 %
+
+*Percentage changes in the table above deemed "]:
+Item 1 Business 1

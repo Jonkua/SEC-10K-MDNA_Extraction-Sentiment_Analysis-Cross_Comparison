@@ -1,0 +1,1486 @@
+================================================================================
+CIK: 0001013462
+Company Name: ANSYS INC
+Filing Date: 2020-02-27
+Form Type: 10-K
+Extraction Date: 2025-08-31 14:27:28
+================================================================================
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Overview
+Overall GAAP and Non-GAAP Results
+Our growth rates of GAAP and non-GAAP results for the year ended December 31, 2019 as compared to the year ended December 31, 2018 were as follows:
+
+-------------------------- ---------------------------- - -------- ---- -
+
+ Year Ended December 31, 2019
+ GAAP Non-GAAP
+Revenue 17.2 % 17.3 %
+Operating income 8.1 % 12.0 %
+Diluted earnings per share 7.6 % 10.0 %
+
+We experienced higher revenue during the year ended December 31, 2019 from double-digit growth in lease licenses, maintenance and service, partially driven by contributions from our recent acquisitions. We also experienced increased operating expenses primarily due to increased personnel costs, higher stock-based compensation and additional operating expenses related to acquisitions, partially offset by a reduction in expenses due to a stronger U.S. Dollar.
+The non-GAAP results exclude the income statement effects of the acquisition accounting adjustments to deferred revenue, stock-based compensation, amortization of acquired intangible assets, transaction costs related to business combinations, and adjustments related to the transition tax associated with the Tax Cuts and Jobs Act. For further disclosure regarding non-GAAP results, see the section titled "Non-GAAP Results" immediately preceding the section titled "Liquidity and Capital Resources."
+Impact of Foreign Currency
+Our comparative financial results were impacted by fluctuations in the U.S. Dollar during the year ended December 31, 2019 as compared to the year ended December 31, 2018. The impacts on our revenue and operating income due to currency fluctuations are reflected in the table below. Amounts in brackets indicate an adverse impact from currency fluctuations.
+
+---------------- ---------------------------- ------- -------- - ------- -
+
+ Year Ended December 31, 2019
+(in thousands) GAAP Non-GAAP
+Revenue $ (24,008 ) $ (24,235 )
+Operating income $ (10,213 ) $ (11,062 )
+
+In constant currency, our growth rates were as follows:
+
+---------------- ---------------------------- - -------- ---- -
+
+ Year Ended December 31, 2019
+ GAAP Non-GAAP
+Revenue 19.0 % 19.2 %
+Operating income 10.2 % 13.8 %
+
+Constant currency amounts exclude the effects of foreign currency fluctuations on the reported results. To present this information, the 2019 results for entities whose functional currency is a currency other than the U.S. Dollar were converted to U.S. Dollars at rates that were in effect for the 2018 comparable period, rather than the actual exchange rates in effect for 2019. Constant currency growth rates are calculated by adjusting the 2019 reported revenue and operating income amounts by the 2019 currency fluctuation impacts and comparing to the 2018 comparable period reported revenue and operating income amounts.
+Other Financial Information
+Our financial position includes $872.4 million in cash and short-term investments, and working capital of $860.3 million as of December 31, 2019.
+During the year ended December 31, 2019, we repurchased 0.3 million shares for $59.1 million at an average price of $179.41 per share under our stock repurchase program.
+
+29
+
+Table of Contents
+
+Business
+Ansys, a Delaware corporation formed in 1994, develops and globally markets engineering simulation software and services widely used by engineers, designers, researchers and students across a broad spectrum of industries and academia, including aerospace and defense, automotive, electronics, semiconductors, energy, materials and chemical processing, turbomachinery, consumer products, healthcare, and sports. Headquartered south of Pittsburgh, Pennsylvania, we employed approximately 4,100 people as of December 31, 2019. We focus on the development of open and flexible solutions that enable users to analyze designs directly on the desktop, providing a common platform for fast, efficient and cost-conscious product development, from design concept to final-stage testing and validation. We distribute our suite of simulation technologies through a global network of independent resellers and distributors (collectively, channel partners) and direct sales offices in strategic, global locations. It is our intention to continue to maintain this hybrid sales and distribution model.
+We license our technology to businesses, educational institutions and governmental agencies. Growth in our revenue is affected by the strength of global economies, general business conditions, currency exchange rate fluctuations, customer budgetary constraints and the competitive position of our products. Please see Part I. Item 1A. of this Annual Report on Form 10-K for a complete discussion of factors that might impact our financial condition and operating results. We believe that the features, functionality and integrated multiphysics capabilities of our software products are as strong as they have ever been. However, the software business is generally characterized by long sales cycles. These long sales cycles increase the difficulty of predicting sales for any particular quarter. We make many operational and strategic decisions based upon short- and long-term sales forecasts that are impacted not only by these long sales cycles, but also by current global economic conditions. As a result, we believe that our overall performance is best measured by fiscal year results rather than by quarterly results. Please see the sub-section entitled "Financial Risks" under Part I. Item 1A. of this Annual Report on Form 10-K for additional discussion of the potential impact of our sales forecasts on our financial condition, cash flows and operating results.
+Management considers the competition and price pressure that it faces in the short- and long-term by focusing on expanding the breadth, depth, ease of use and quality of the technologies, features, functionality and integrated multiphysics capabilities of our software products as compared to our competitors; investing in research and development to develop new and innovative products and increase the capabilities of our existing products; supplying new products and services; focusing on customer needs, training, consulting and support; and enhancing our distribution channels. We also consider acquisitions to supplement our global engineering talent, product offerings and distribution channels.
+Geographic Trends
+The following table presents our geographic constant currency revenue growth during the year ended December 31, 2019 as compared to the year ended December 31, 2018:
+
+------------------------------------- ---------------------------- -
+
+ Year Ended December 31, 2019
+Americas 25.4 %
+Europe, Middle East and Africa (EMEA) 13.8 %
+Asia-Pacific 15.6 %
+Total 19.0 %
+
+We continue to focus on a number of sales improvement activities across the geographic regions, including sales hiring, pipeline building, productivity initiatives and customer engagement activities.
+As trade tensions between the U.S. and China continue, as well as the uncertainty around China's ability to control the coronavirus outbreak, our ability to sell and ship our products to certain customers and our ability to collect against existing trade receivables may be further restricted and could have an adverse effect on our business, results of operations or financial condition. For additional details, refer to Part I. Item 1A. of this Annual Report on Form 10-K.
+Industry Commentary:
+Our three largest industries — high-tech, automotive, and aerospace and defense (A&D) — remained strong throughout 2019. The high-tech industry was positively impacted by companies' investments in 5G and smart connected products. The automotive industry continued its momentum due to continued investments by our customers to capture the disruptive mobility trends of autonomy and electrification. Defense spending continued to support growth in the aerospace and defense industry.
+
+30
+
+Table of Contents
+
+Acquisitions
+On November 1, 2019, we completed the acquisition of 100% of the shares of LST, the premier provider of explicit dynamics and other advanced finite element analysis technology, for a purchase price of $777.8 million. The acquisition empowers our customers to solve a new class of engineering challenges, including developing safer automobiles, aircraft and trains while reducing or even eliminating the need for costly physical testing.
+On February 1, 2019, we completed the acquisition of 100% of the shares of Granta Design, the premier provider of materials information technology, for a purchase price of $208.7 million. The acquisition expands our portfolio into this important area, giving customers access to materials intelligence, including data that is critical to successful simulations.
+Additionally, during the year ended December 31, 2019, we acquired Dynardo, Helic and DfR Solutions to combine the acquired technologies with our existing comprehensive multiphysics portfolio. These acquisitions were not individually significant. The combined purchase price of these acquisitions was $136.2 million.
+During the year ended December 31, 2018, we completed the acquisition of 100% of the shares of OPTIS, a premier provider of software for scientific simulation of light, human vision and physics-based visualization, for a purchase price of $291.0 million. The acquisition extended our portfolio into the area of optical simulation to provide comprehensive sensor solutions, covering visible and infrared light, electromagnetics and acoustics for camera, radar and lidar.
+During the year ended December 31, 2017, we completed various acquisitions to expand our customer base and accelerate the development of new and innovative products to the marketplace while lowering design and engineering costs for customers. The acquisitions were not individually significant. The combined purchase price of the acquisitions was approximately $67.0 million.
+For further information on our business combinations during the years ended December 31, 2019, 2018 and 2017, see Note 4 to the consolidated financial statements included in Part IV, Item 15 of this Annual Report on Form 10-K.
+
+31
+
+Table of Contents
+
+Results of Operations
+For purposes of the following discussion and analysis, the table below sets forth certain consolidated financial data for the years 2019, 2018 and 2017. The operating results of our acquisitions have been included in the results of operations since their respective acquisition dates.
+
+----------------------------------- ----------------------- ------- ---- --------- ---- ------- --------- - - -------
+
+ Year Ended December 31,
+(in thousands) 2019 2018 2017
+Revenue:
+Software licenses $ 699,630 $ 576,717 $ 624,964
+Maintenance and service 816,262 716,919 470,286
+Total revenue 1,515,892 1,293,636 1,095,250
+Cost of sales:
+Software licenses 23,944 18,619 34,421
+Amortization 21,710 27,034 36,794
+Maintenance and service 120,619 110,232 78,949
+Total cost of sales 166,273 155,885 150,164
+Gross profit 1,349,619 1,137,751 945,086
+Operating expenses:
+Selling, general and administrative 521,200 413,580 338,640
+Research and development 298,210 233,802 202,746
+Amortization 15,169 13,795 12,972
+Total operating expenses 834,579 661,177 554,358
+Operating income 515,040 476,574 390,728
+Interest income 12,796 11,419 6,962
+Interest expense (3,461 ) (59 ) (86 )
+Other expense, net (1,792 ) (849 ) (1,910 )
+Income before income tax provision 522,583 487,085 395,694
+Income tax provision 71,288 67,710 136,443
+Net income $ 451,295 $ 419,375 $ 259,251
+
+Effective January 1, 2018, we adopted new guidance on revenue recognition. We elected to adopt the change in accounting principle using the modified retrospective approach. Results for reporting periods beginning after January 1, 2018 are presented under the new guidance, while prior period amounts are not adjusted and continue to be reported in accordance with previous guidance. For further information, see Note 3 to the consolidated financial statements included in Part IV, Item 15 of this Annual Report on Form 10-K.
+
+32
+
+Table of Contents
+
+Year Ended December 31, 2019 Compared to Year Ended December 31, 2018
+Revenue:
+
+---------------------------------- ----------------------- --------- ------ ------- ------ --------- ------- - ------------------- ------- - ---- - ----
+
+ Year Ended December 31, Change
+(in thousands, except percentages) 2019 2018 Amount % Constant Currency %
+Revenue:
+Lease licenses $ 406,043 $ 275,619 $ 130,424 47.3 49.4
+Perpetual licenses 293,587 301,098 (7,511 ) (2.5 ) (1.1 )
+Software licenses 699,630 576,717 122,913 21.3 23.1
+Maintenance 760,574 676,883 83,691 12.4 14.3
+Service 55,688 40,036 15,652 39.1 41.5
+Maintenance and service 816,262 716,919 99,343 13.9 15.8
+Total revenue $ 1,515,892 $ 1,293,636 $ 222,256 17.2 19.0
+
+Our revenue in the year ended December 31, 2019 increased 17.2% as compared to the year ended December 31, 2018, or 19.0% in constant currency. The growth rate was favorably impacted by our continued investments in our global sales, support and marketing organizations, as well as our 2019 and 2018 acquisitions which contributed incremental revenue of $72.9 million. Lease license revenue increased 47.3%, or 49.4% in constant currency, as compared to the year ended December 31, 2018, driven primarily by an increase in multi-year lease contracts. Annual maintenance contracts that were sold with new perpetual licenses, maintenance contracts for new perpetual licenses sold in previous years and the maintenance portion of lease license contracts each contributed to maintenance revenue growth of 12.4%, or 14.3% in constant currency. Service revenue, driven primarily by a focus on service offerings that provide on-site mentorship on simulation best practices, training and expanding simulation adoption, increased 39.1%, or 41.5% in constant currency, as compared to the year ended December 31, 2018. Perpetual license revenue, which is derived primarily from new sales during the year ended December 31, 2019, decreased 2.5%, or 1.1% in constant currency, as compared to the year ended December 31, 2018.
+We continue to experience increased interest by some of our larger customers in enterprise agreements that often include longer-term, time-based licenses involving a larger number of our software products. While these arrangements typically involve a higher overall transaction price, the upfront recognition of license revenue related to these larger, multi-year transactions can result in significantly higher lease license revenue and corresponding revenue growth volatility. As software products, across a large variety of applications and industries, become increasingly distributed in software-as-a-service, cloud and other subscription environments in which the licensing approach is time-based rather than perpetual, we are also experiencing a shifting preference from perpetual licenses to time-based licenses across a broader spectrum of our customers.
+With respect to revenue, on average for the year ended December 31, 2019, the U.S. Dollar was approximately 3.3% stronger, when measured against our primary foreign currencies, than for the year ended December 31, 2018. The table below presents the impacts of currency fluctuations on revenue for the year ended December 31, 2019. Amounts in brackets indicate an adverse impact from currency fluctuations.
+
+---------------- ---------------------------- ------- -
+
+(in thousands) Year Ended December 31, 2019
+Euro $ (17,361 )
+South Korean Won (5,097 )
+British Pound (1,881 )
+Japanese Yen 1,791
+Other (1,460 )
+Total $ (24,008 )
+
+The net overall stronger U.S. Dollar also resulted in decreased operating income of $10.2 million for the year ended December 31, 2019 as compared to the year ended December 31, 2018.
+
+33
+
+Table of Contents
+
+As a percentage of revenue, our international and domestic revenues, and our direct and indirect revenues, were as follows:
+
+------------- ----------------------- - ---- ---- -
+
+ Year Ended December 31,
+ 2019 2018
+International 57.9 % 60.9 %
+Domestic 42.1 % 39.1 %
+
+Direct 77.1 % 77.6 %
+Indirect 22.9 % 22.4 %
+
+In valuing deferred revenue on the balance sheets of our recent acquisitions as of their respective acquisition dates, we applied the fair value provisions applicable to the accounting for business combinations, resulting in a reduction of deferred revenue as compared to the historical carrying amount. As a result, our post-acquisition revenue will be less than the sum of what would have otherwise been reported by us and each acquiree absent the acquisitions. The impacts on reported revenue were $12.5 million and $9.4 million for the years ended December 31, 2019 and 2018, respectively. The expected impacts on reported revenue are $3.9 million and $8.0 million for the quarter ending March 31, 2020 and the year ending December 31, 2020, respectively.
+Cost of Sales and Operating Expenses:
+The tables below reflect our operating results as presented on the consolidated statements of income, which are inclusive of foreign currency translation impacts. Amounts included in the discussions that follow each table are provided in constant currency and are inclusive of costs related to our acquisitions. The impact of foreign exchange translation is discussed separately, where material. The 2019 and 2018 acquisitions contributed $54.7 million to the overall increase in cost of sales and operating expenses with the most significant contributions from the OPTIS (May 2, 2018) and Granta Design (February 1, 2019) acquisitions of $17.3 million and $18.9 million, respectively.
+
+---------------------------------- ----------------------- --------- ----------- ------ ------ ------- ----------- --------- ------ ------ - - ------- - ----
+
+ Year Ended December 31,
+ 2019 2018 Change
+(in thousands, except percentages) Amount % ofRevenue Amount % ofRevenue Amount %
+Cost of sales:
+Software licenses $ 23,944 1.6 $ 18,619 1.4 $ 5,325 28.6
+Amortization 21,710 1.4 27,034 2.1 (5,324 ) (19.7 )
+Maintenance and service 120,619 8.0 110,232 8.5 10,387 9.4
+Total cost of sales 166,273 11.0 155,885 12.1 10,388 6.7
+Gross profit $ 1,349,619 89.0 $ 1,137,751 87.9 $ 211,868 18.6
+
+Software Licenses: The increase in the cost of software licenses was primarily due to increased third-party royalties of $5.6 million.
+Amortization: The net decrease in amortization expense was primarily due to a decrease in the amortization of trade names and acquired technology due to assets that became fully amortized, which was partially offset by the amortization of newly acquired intangible assets.
+Maintenance and Service: The net increase in maintenance and service costs was primarily due to the following:
+
+- -----------------------------------
+• Increased salaries of $4.0 million.
+
+- ---------------------------------------------------
+• Increased stock-based compensation of $3.3 million.
+
+- -------------------------------------------
+• Increased consulting costs of $1.7 million.
+
+- --------------------------------------------------------------------
+• Increased IT maintenance and software hosting costs of $1.3 million.
+
+- ------------------------------------------------------------------------------------------------------
+• Decreased costs related to foreign exchange translation of $2.0 million due to a stronger U.S. Dollar.
+
+The improvement in gross profit was a result of the increase in revenue, partially offset by the increase in the related cost of sales.
+
+34
+
+Table of Contents
+
+----------------------------------- ----------------------- ------- ----------- ------ ------ ------- ----------- ------- ------ ------ - ------- ----
+
+ Year Ended December 31,
+ 2019 2018 Change
+(in thousands, except percentages) Amount % ofRevenue Amount % ofRevenue Amount %
+Operating expenses:
+Selling, general and administrative $ 521,200 34.4 $ 413,580 32.0 $ 107,620 26.0
+Research and development 298,210 19.7 233,802 18.1 64,408 27.5
+Amortization 15,169 1.0 13,795 1.1 1,374 10.0
+Total operating expenses $ 834,579 55.1 $ 661,177 51.1 $ 173,402 26.2
+
+Selling, General and Administrative: The net increase in selling, general and administrative costs was primarily due to the following:
+
+- ----------------------------------------------------------------------------------------------
+• Increased salaries, incentive compensation and other headcount-related costs of $63.7 million.
+
+- ----------------------------------------------------
+• Increased stock-based compensation of $13.5 million.
+
+- ------------------------------------------
+• Increased business travel of $6.5 million.
+
+- ---------------------------------------------
+• Increased marketing expenses of $5.4 million.
+
+- --------------------------------------------
+• Increased professional fees of $4.5 million.
+
+- -------------------------------------------
+• Increased consulting costs of $4.2 million.
+
+- ------------------------------------------------------------------------------------------------------
+• Decreased costs related to foreign exchange translation of $7.1 million due to a stronger U.S. Dollar.
+
+We anticipate that we will continue to make targeted investments in our global sales and marketing organizations and our global business infrastructure to enhance and support our revenue-generating activities.
+Research and Development: The increase in research and development costs was primarily due to the following:
+
+- ----------------------------------------------------------------------------------------------
+• Increased salaries, incentive compensation and other headcount-related costs of $41.1 million.
+
+- ----------------------------------------------------
+• Increased stock-based compensation of $16.0 million.
+
+We have traditionally invested significant resources in research and development activities and intend to continue to make investments in expanding the ease of use and capabilities of our broad portfolio of simulation software products.
+Interest Income: Interest income for the year ended December 31, 2019 was $12.8 million as compared to $11.4 million for the year ended December 31, 2018. Interest income increased as a result of an increase in the average rate of return on invested cash balances.
+Interest Expense: Interest expense for the year ended December 31, 2019 was $3.5 million as compared to $0.1 million for the year ended December 31, 2018. Interest expense increased as a result of the interest incurred on debt financing obtained in fiscal year 2019.
+Other Expense, net: Our other expense consisted of the following:
+
+---------------------------- ----------------------- ------ ---- ----- - ------ -
+
+ Year Ended December 31,
+(in thousands) 2019 2018
+Foreign currency losses, net $ (2,510 ) $ (3,058 )
+Investment gains, net 333 2,204
+Other 385 5
+Total other expense, net $ (1,792 ) $ (849 )
+
+35
+
+Table of Contents
+
+Income Tax Provision: Our income before income tax provision, income tax provision and effective tax rate were as follows:
+
+---------------------------------- ----------------------- ------- ---- ---- - -------
+
+ Year Ended December 31,
+(in thousands, except percentages) 2019 2018
+Income before income tax provision $ 522,583 $ 487,085
+Income tax provision $ 71,288 $ 67,710
+Effective tax rate 13.6 % 13.9 %
+
+The decrease in the effective tax rate from the prior year was primarily due to $6.7 million of benefit related to the release of valuation allowance in a foreign jurisdiction and $1.8 million of benefit related to transition tax recorded in 2019. These benefits are offset by $6.7 million of benefit recorded in 2018 related to global legal entity restructuring activities that did not recur in 2019.
+When compared to the federal and state combined statutory rate for each respective period, the effective tax rates for the years ended December 31, 2019 and 2018 were favorably impacted by tax benefits from stock-based compensation, the foreign-derived intangible income deduction, and research and development credits.
+Net Income: Our net income, diluted earnings per share and weighted average shares used in computing diluted earnings per share were as follows:
+
+--------------------------------------------- ----------------------- ------- ---- ------ - -------
+
+ Year Ended December 31,
+(in thousands, except per share data) 2019 2018
+Net income $ 451,295 $ 419,375
+Diluted earnings per share $ 5.25 $ 4.88
+Weighted average shares outstanding - diluted 85,925 85,913
+
+36
+
+Table of Contents
+
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017
+Revenue:
+
+---------------------------------- ----------------------- --------- ------------- ------- ------ --------- ------- - ------------------- -------- - ----- - ----- -
+
+ Year Ended December 31, Change
+(in thousands, except percentages) 2018(ASC 606) 2017(ASC 605) Amount % Constant Currency %
+Revenue:
+Lease licenses $ 275,619 $ 376,886 $ (101,267 ) (26.9 ) (27.4 )
+Perpetual licenses 301,098 248,078 53,020 21.4 20.2
+Software licenses 576,717 624,964 (48,247 ) (7.7 ) (8.5 )
+Maintenance 676,883 440,428 236,455 53.7 51.6
+Service 40,036 29,858 10,178 34.1 33.1
+Maintenance and service 716,919 470,286 246,633 52.4 50.4
+Total revenue $ 1,293,636 $ 1,095,250 $ 198,386 18.1 16.8
+
+The adoption of ASC 606 significantly impacted the timing, allocation and presentation of lease license, perpetual license and maintenance revenue. For further information about this adoption, see Note 3 to the consolidated financial statements included in Part IV, Item 15 of this Annual Report on Form 10-K.
+For purposes of comparability, the changes in the following table and the related discussion that follows are presented in accordance with ASC 605.
+
+---------------------------------- ----------------------- --------- ------------- ------- ------ --------- ------ ------------------- ------- ---- ---- ----
+
+ Year Ended December 31, Change
+(in thousands, except percentages) 2018(ASC 605) 2017(ASC 605) Amount % Constant Currency %
+Revenue:
+Lease licenses $ 421,268 $ 376,886 $ 44,382 11.8 10.7
+Perpetual licenses 255,578 248,078 7,500 3.0 2.0
+Software licenses 676,846 624,964 51,882 8.3 7.2
+Maintenance 499,510 440,428 59,082 13.4 11.6
+Service 40,113 29,858 10,255 34.3 33.4
+Maintenance and service 539,623 470,286 69,337 14.7 13.0
+Total revenue $ 1,216,469 $ 1,095,250 $ 121,219 11.1 9.7
+
+Our ASC 605 revenue in the year ended December 31, 2018 increased 11.1% as compared to the year ended December 31, 2017, while revenue grew 9.7% in constant currency. The growth rate was favorably impacted by our continued investments in our global sales, support and marketing organizations; continued progress with market segmentation and go-to-market adjustments; and the May 2018 acquisition of OPTIS. Lease license revenue increased 11.8%, or 10.7% in constant currency, as compared to the year ended December 31, 2017. Perpetual license revenue, which is derived primarily from new sales during the year, increased 3.0%, or 2.0% in constant currency, as compared to the year ended December 31, 2017. Annual maintenance contracts that were sold with new perpetual licenses, along with maintenance contracts for perpetual licenses sold in previous years, contributed to maintenance revenue growth of 13.4%, or 11.6% in constant currency. Service revenue, driven primarily by a focus on service offerings that provide on-site mentorship on simulation best practices, training and expanding simulation adoption, increased 34.3%, or 33.4% in constant currency, as compared to the year ended December 31, 2017.
+
+37
+
+Table of Contents
+
+With respect to revenue, on average for the year ended December 31, 2018, the U.S. Dollar was approximately 2.3% weaker and 2.6% weaker, when measured against our primary foreign currencies, than for the year ended December 31, 2017 under ASC 606 and ASC 605, respectively. The table below presents the impacts of currency fluctuations on revenue for the year ended December 31, 2018. Amounts in brackets indicate a net adverse impact from currency fluctuations.
+
+---------------- ---------------------------- ------ ------- ------ - ------
+
+ Year Ended December 31, 2018
+(in thousands) ASC 606 ASC 605
+Euro $ 12,498 $ 11,915
+Japanese Yen 2,088 2,075
+South Korean Won 918 1,182
+British Pound 870 1,083
+Indian Rupee (1,623 ) (1,372 )
+Other (129 ) (36 )
+Total $ 14,622 $ 14,847
+
+The net overall weaker U.S. Dollar also resulted in increased operating income of $9.6 million and $10.3 million for the year ended December 31, 2018 as compared to the year ended December 31, 2017 under ASC 606 and ASC 605, respectively.
+As a percentage of revenue, our international and domestic revenues, and our direct and indirect revenues, were as follows:
+
+------------- ----------------------- - ------------- ---- ------------- ---- -
+
+ Year Ended December 31,
+ 2018(ASC 606) 2018(ASC 605) 2017(ASC 605)
+International 60.9 % 60.5 % 61.9 %
+Domestic 39.1 % 39.5 % 38.1 %
+
+Direct 77.6 % 76.5 % 75.2 %
+Indirect 22.4 % 23.5 % 24.8 %
+
+In valuing by us and each acquiree absent the acquisitions. Under ASC 606, the impact on reported revenue was $9.4 million for the year ended December 31, 2018. Under ASC 605, the impacts on reported revenue were $15.6 million and $2.9 million for the years ended December 31, 2018 and 2017, respectively.
+
+38
+
+Table of Contents
+
+Cost of Sales and Operating Expenses:
+The tables below reflect our operating results as presented on the consolidated statements of income, which are inclusive of foreign currency translation impacts. The adoption of ASC 606 resulted in a reclassification of expenses within cost of sales from software licenses to maintenance and service. Amounts included in the discussion that follows are provided in constant currency and do not include the impact of the OPTIS acquisition. The impact of the OPTIS acquisition on each expense line is provided separately, where material. The impact, where material, of foreign exchange translation on each expense line is also provided separately and is inclusive of the OPTIS acquisition.
+
+---------------------------------- ----------------------- --------- ----------- ------ ------ ------- ----------- ------- ------ ------ - - ------- - ----- -
+
+ Year Ended December 31,
+ 2018 2017 Change
+(in thousands, except percentages) Amount % ofRevenue Amount % ofRevenue Amount %
+Cost of sales:
+Software licenses $ 18,619 1.4 $ 34,421 3.1 $ (15,802 ) (45.9 )
+Amortization 27,034 2.1 36,794 3.4 (9,760 ) (26.5 )
+Maintenance and service 110,232 8.5 78,949 7.2 31,283 39.6
+Total cost of sales 155,885 12.1 150,164 13.7 5,721 3.8
+Gross profit $ 1,137,751 87.9 $ 945,086 86.3 $ 192,665 20.4
+
+Software Licenses: The net decrease in the cost of software licenses was primarily due to the following:
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Reclassification of $18.2 million of cost of sales, previously reflected within software licenses, to maintenance and service due to the adoption of ASC 606 in 2018.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------
+• OPTIS-related software license expenses of $1.6 million for the period from the acquisition date (May 2, 2018) through December 31, 2018.
+
+Amortization: The decrease in amortization expense was primarily due to a net decrease in the amortization of trade names and acquired technology due to assets that became fully amortized.
+Maintenance and Service: The increase in maintenance and service costs was primarily due to the following:
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Reclassification of $18.2 million of cost of sales, previously reflected within software licenses, to maintenance and service due to the adoption of ASC 606 in 2018.
+
+- --------------------------------------------------------
+• Increased third-party technical support of $5.5 million.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------
+• OPTIS-related maintenance and service expenses of $2.8 million for the period from the acquisition date (May 2, 2018) through December 31, 2018.
+
+- -----------------------------------
+• Increased salaries of $2.1 million.
+
+The improvement in gross profit was a result of the increase in revenue, partially offset by the increase in the related cost of sales.
+
+39
+
+Table of Contents
+
+----------------------------------- ----------------------- ------- ----------- ------ ------ ------- ----------- ------- ------ ------ - ------- ----
+
+ Year Ended December 31,
+ 2018 2017 Change
+(in thousands, except percentages) Amount % ofRevenue Amount % ofRevenue Amount %
+Operating expenses:
+Selling, general and administrative $ 413,580 32.0 $ 338,640 30.9 $ 74,940 22.1
+Research and development 233,802 18.1 202,746 18.5 31,056 15.3
+Amortization 13,795 1.1 12,972 1.2 823 6.3
+Total operating expenses $ 661,177 51.1 $ 554,358 50.6 $ 106,819 19.3
+
+Selling, General and Administrative: The net increase in selling, general and administrative costs was primarily due to the following:
+
+- ----------------------------------------------------------------------------------------------
+• Increased salaries, incentive compensation and other headcount-related costs of $35.2 million.
+
+- ----------------------------------------------------
+• Increased stock-based compensation of $15.3 million.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------
+• OPTIS-related selling, general and administrative expenses of $13.8 million for the period from the acquisition date (May 2, 2018) through December 31, 2018.
+
+- ------------------------------------------
+• Increased business travel of $3.9 million.
+
+- ---------------------------------------------
+• Increased severance expenses of $3.7 million.
+
+- -------------------------------------------
+• Decreased consulting costs of $7.1 million.
+
+Research and Development: The net increase in research and development costs was primarily due to the following:
+
+- ----------------------------------------------------------------------------------------------
+• Increased salaries, incentive compensation and other headcount-related costs of $15.2 million.
+
+- ----------------------------------------------------
+• Increased stock-based compensation of $11.6 million.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------
+• OPTIS-related research and development expenses of $5.9 million for the period from the acquisition date (May 2, 2018) through December 31, 2018.
+
+- --------------------------------------------------------------------
+• Increased IT maintenance and software hosting costs of $1.5 million.
+
+- ------------------------------------------------------------------------------------------------------------------
+• Restructuring costs of $6.8 million related to 2017 workforce realignment activities that did not reoccur in 2018.
+
+Interest Income: Interest income for the year ended December 31, 2018 was $11.4 million as compared to $7.0 million for the year ended December 31, 2017. Interest income increased as a result of an increase in the average rate of return on invested cash balances.
+Other Expense, net: Our other expense, net consists of the following:
+
+---------------------------- ----------------------- ------ ---- -- - ------ -
+
+ Year Ended December 31,
+(in thousands) 2018 2017
+Foreign currency losses, net $ (3,058 ) $ (1,935 )
+Investment gains, net 2,204 24
+Other 5 1
+Total other expense, net $ (849 ) $ (1,910 )
+
+Income Tax Provision: Our income before income tax provision, income tax provision and effective tax rate were as follows:
+
+---------------------------------- ----------------------- ------- ------------- ---- ------------- ------- ---- - - -------
+
+ Year Ended December 31,
+(in thousands, except percentages) 2018(ASC 606) 2018(ASC 605) 2017(ASC 605)
+Income before income tax provision $ 487,085 $ 409,918 $ 395,694
+Income tax provision $ 67,710 $ 53,067 $ 136,443
+Effective tax rate 13.9 % 12.9 % 34.5 %
+
+40
+
+Table of Contents
+
+On December 22, 2017, the U.S. government enacted comprehensive tax legislation commonly referred to as the Tax Cuts and Jobs Act (Tax Reform). Tax Reform made broad and complex changes to the U.S. tax code, including, but not limited to, (1) reducing the U.S. federal corporate tax rate from 35 percent to 21 percent; (2) requiring companies to pay a one-time federal income tax on certain unrepatriated earnings of foreign subsidiaries (transition tax); (3) generally eliminating U.S. federal income taxes on dividends from foreign subsidiaries; (4) creating a new provision designed to tax global intangible low-taxed income (GILTI) which allows for the possibility of using foreign tax credits (FTCs) and a deduction of up to 50 percent to offset the income tax liability (subject to some limitations); (5) repealing the domestic production activity deduction; (6) creating the foreign-derived intangible income deduction; (7) creating the base erosion anti-abuse tax, a new minimum tax; (8) allowing for full expensing of qualified property through bonus depreciation; and (9) creating limitations on the deductibility of certain executive compensation.
+The SEC staff issued Staff Accounting Bulletin (SAB) 118, which provides guidance on accounting for the tax effects of Tax Reform. SAB 118 provided a measurement period that was limited to one year from enactment for companies to complete the accounting under ASC 740, Income Taxes. In accordance with SAB 118, throughout the measurement period, a company must reflect the income tax effects of those aspects of Tax Reform for which the accounting under ASC 740 was complete in the financial statements. To the extent that a company’s accounting for certain income tax effects of Tax Reform was incomplete, but a reasonable estimate was able to be made, the company must record a provisional estimate in the financial statements. If a company could not determine a provisional estimate to be included in the financial statements, it should continue to apply ASC 740 on the basis of the tax laws that were in effect immediately before the enactment of Tax Reform.
+As further discussed below, we finalized our provisional Tax Reform calculations as of the end of the measurement period, based on guidance and information available as of the reporting date. The U.S. government has not yet issued final guidance related to a portion of the new rules enacted as part of Tax Reform. Subsequent adjustments, if any, will be recorded in the period in which guidance is finalized.
+Our accounting for the impact of the reduction in the U.S. federal corporate tax rate on our deferred tax assets and liabilities is complete. Tax Reform reduced the corporate tax rate to 21 percent, effective January 1, 2018. Consequently, we recorded a net adjustment to deferred income tax expense of $1.9 million for the year ended December 31, 2017 to revalue our deferred tax assets and liabilities. No further adjustments were recorded for the year ended December 31, 2018.
+Our accounting for the transition tax is complete. Reasonable estimates of certain effects were calculated and a provisional adjustment of $16.0 million was recorded in the December 31, 2017 financial statements. To determine the amount of the transition tax, we determined, in addition to other factors, the amount of post-1986 earnings and profits (E&P) of the relevant subsidiaries, as well as the amount of non-U.S. income taxes paid on such earnings. Based on revised E&P calculations updated during the measurement period, we recognized an additional measurement-period adjustment for the year ended December 31, 2018 of $0.9 million to the transition tax obligation and a corresponding adjustment to tax expense.
+Our accounting for the indefinite reinvestment assertion is complete. In general, it is our intention to permanently reinvest all earnings in excess of previously taxed amounts. As part of Tax Reform, substantially all of the previous earnings of our non-U.S. subsidiaries were taxed through the transition tax and current earnings are taxed as part of GILTI tax expense. These taxes increased our previously taxed earnings and allow for the repatriation of the majority of our foreign earnings without any residual U.S. federal tax. During the year ended December 31, 2018, we repatriated $144.3 million of foreign cash. We did not make any adjustments related to our indefinite reinvestment assertion during the year ended December 31, 2018.
+Our accounting policy choice for GILTI is complete. Under U.S. GAAP, we are allowed to make an accounting policy choice of either (1) treating taxes due on future U.S. inclusions in taxable income related to GILTI as a current-period expense when incurred (the period cost method) or (2) factoring such amounts into the measurement of our deferred taxes (the deferred method). We selected the period cost method and recorded GILTI tax expense of $0.4 million in the financial statements for the year ended December 31, 2018.
+The decrease in the effective tax rate from the prior year was primarily due to the reduction in the U.S. federal corporate tax rate from 35 percent to 21 percent enacted as part of Tax Reform, the additional $15.1 million of transition tax in 2017 when compared to 2018, and a net $6.7 million benefit related to global legal entity restructuring activities. The effective tax rate was also reduced by the foreign-derived intangible income deduction, increased research and development credits and increased stock-based compensation benefits, partially offset by the loss of the domestic manufacturing deduction, which was repealed as part of Tax Reform.
+When compared to the federal and state combined statutory rate, the effective tax rates for the years ended December 31, 2018 and 2017 were favorably impacted by tax benefits from stock-based compensation and research and development credits.
+
+41
+
+Table of Contents
+
+Net Income: Our net income, diluted earnings per share and weighted average shares used in computing diluted earnings per share were as follows:
+
+--------------------------------------------- ----------------------- ------- ------------- ------ ------------- ------- ------ - -------
+
+ Year Ended December 31,
+(in thousands, except per share data) 2018(ASC 606) 2018(ASC 605) 2017(ASC 605)
+Net income $ 419,375 $ 356,851 $ 259,251
+Diluted earnings per share $ 4.88 $ 4.15 $ 2.98
+Weighted average shares outstanding - diluted 85,913 85,913 86,854
+
+42
+
+Table of Contents
+
+Non-GAAP Results
+We provide non-GAAP revenue, non-GAAP operating income, non-GAAP operating profit margin, non-GAAP net income and non-GAAP diluted earnings per share as supplemental measures to GAAP regarding our operational performance. These financial measures exclude the impact of certain items and, therefore, have not been calculated in accordance with GAAP. A detailed explanation and a reconciliation of each non-GAAP financial measure to our most comparable GAAP financial measure are described below.
+
+----------------------------------------------------- ----------------------- --------- ----------- ------- --------------- ------- ------------ ---- ----------- --------- --------------- ---- ------- --------- --- ------- - ------ --- - ---------
+
+ ASC 606
+ Year Ended December 31,
+ 2019 2018
+(in thousands, except percentages and per share data) GAAP Results Adjustments Non-GAAPResults GAAP Results Adjustments Non-GAAPResults
+Total revenue $ 1,515,892 $ 12,514 (1) $ 1,528,406 $ 1,293,636 $ 9,442 (4) $ 1,303,078
+Operating income 515,040 177,093 (2) 692,133 476,574 141,442 (5) 618,016
+Operating profit margin 34.0 % 45.3 % 36.8 % 47.4 %
+Net income $ 451,295 $ 113,702 (3) $ 564,997 $ 419,375 $ 94,510 (6) $ 513,885
+Earnings per share – diluted:
+Earnings per share $ 5.25 $ 6.58 $ 4.88 $ 5.98
+Weighted average shares 85,925 85,925 85,913 85,913
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Amount represents the revenue not reported during the period as a result of the acquisition accounting adjustment associated with the accounting for deferred revenue in business combinations.
+
+--- ------------------------------
+(2) Amount represents $116.2 million of stock-based compensation expense, $4.9 million of excess payroll taxes related to stock-based awards, $36.9 million of amortization expense associated with intangible assets acquired in business combinations, $6.6 million of transaction expenses related to business combinations and the $12.5 million adjustment to revenue as reflected in (1) above.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) Amount represents the impact of the adjustments to operating income referred to in (2) above, decreased for the related income tax impact of $61.2 million, adjustments related to the transition tax associated with the Tax Cuts and Jobs Act of $1.8 million, and rabbi trust income of $0.4 million.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Amount represents the revenue not reported during the period as a result of the acquisition accounting adjustment associated with the accounting for deferred revenue in business combinations.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(5) Amount represents $83.3 million of stock-based compensation expense, $4.3 million of excess payroll taxes related to stock-based awards, $40.8 million of amortization expense associated with intangible assets acquired in business combinations, $3.5 million of transaction expenses related to business combinations and the $9.4 million adjustment to revenue as reflected in (4) above.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(6) Amount represents the impact of the adjustments to operating income referred to in (5) above, decreased for the related income tax impact of $47.9 million and increased for a measurement-period adjustment related to the Tax Cuts and Jobs Act of $0.9 million and rabbi trust expense of $0.1 million.
+
+43
+
+Table of Contents
+
+----------------------------------------------------- ----------------------- --------- ----------- ------- --------------- ------ ------------ ---- ----------- --------- --------------- ---- ------- --------- --- ------- - ------ --- - ---------
+
+ ASC 605
+ Year Ended December 31,
+ 2018 2017
+(in thousands, except percentages and per share data) GAAP Results Adjustments Non-GAAPResults GAAP Results Adjustments Non-GAAPResults
+Total revenue $ 1,216,469 $ 15,583 (1) $ 1,232,052 $ 1,095,250 $ 2,856 (4) $ 1,098,106
+Operating income 399,407 147,583 (2) 546,990 390,728 118,567 (5) 509,295
+Operating profit margin 32.8 % 44.4 % 35.7 % 46.4 %
+Net income $ 356,851 $ 98,832 (3) $ 455,683 $ 259,251 $ 88,663 (6) $ 347,914
+Earnings per share – diluted:
+Earnings per share $ 4.15 $ 5.30 $ 2.98 $ 4.01
+Weighted average shares 85,913 85,913 86,854 86,854
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Amount represents the revenue not reported during the period as a result of the acquisition accounting adjustment associated with the accounting for deferred revenue in business combinations.
+
+--- -
+(2) Amount represents $83.3 million of stock-based compensation expense, $4.3 million of excess payroll taxes related to stock-based awards, $40.8 million of amortization expense associated with intangible assets acquired in business combinations, $3.5 million of transaction expenses related to business combinations and the $15.6 million adjustment to revenue as reflected in (1) above.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) Amount represents the impact of the adjustments to operating income referred to in (2) above, decreased for the related income tax impact of $49.7 million and increased for a measurement-period adjustment related to the Tax Cuts and Jobs Act of $0.9 million and rabbi trust expense of $0.1 million.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Amount represents the revenue not reported during the period as a result of the acquisition accounting adjustment associated with the accounting for deferred revenue in business combinations.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(5) Amount represents $53.2 million of stock-based compensation expense, $49.8 million of amortization expense associated with intangible assets acquired in business combinations, $11.7 million of restructuring charges, $1.1 million of transaction expenses related to business combinations and the $2.9 million adjustment to revenue as reflected in (4) above.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(6) Amount represents the impact of the adjustments to operating income referred to in (5) above, decreased for the related income tax impact of $52.5 million, excluding the impact of the Tax Cuts and Jobs Act, and rabbi trust income of $0.1 million, and increased for total net impacts of the Tax Cuts and Jobs Act of $22.7 million.
+
+Non-GAAP Measures
+We use non-GAAP financial measures (a) to evaluate our historical and prospective financial performance as well as our performance relative to our competitors, (b) to set internal sales targets and spending budgets, (c) to allocate resources, (d) to measure operational profitability and the accuracy of forecasting, (e) to assess financial discipline over operational expenditures and (f) as an important factor in determining variable compensation for management and employees. In addition, many financial analysts that follow us focus on and publish both historical results and future projections based on non-GAAP financial measures. We believe that it is in the best interest of our investors to provide this information to analysts so that they accurately report the non-GAAP financial information. Moreover, investors have historically requested, and we have historically reported, these non-GAAP financial measures as a means of providing consistent and comparable information with past reports of financial results.
+While we believe that these non-GAAP financial measures provide useful supplemental information to investors, there are limitations associated with the use of these non-GAAP financial measures. These non-GAAP financial measures are not prepared in accordance with GAAP, are not reported by all our competitors and may not be directly comparable to similarly titled measures of our competitors due to potential differences in the exact method of calculation. We compensate for these limitations by using these non-GAAP financial measures as supplements to GAAP financial measures and by reviewing the reconciliations of the non-GAAP financial measures to their most comparable GAAP financial measures.
+
+44
+
+Table of Contents
+
+The adjustments to these non-GAAP financial measures, and the basis for such adjustments, are outlined below:
+Acquisition accounting for deferred revenue and its related tax impact. Historically, we have consummated acquisitions in order to support our strategic and other business objectives. In accordance with the fair value provisions applicable to the accounting for business combinations, acquired deferred revenue is often recorded on the opening balance sheet at an amount that is lower than the historical carrying value. Although this acquisition accounting requirement has no impact on our business or cash flow, it adversely impacts our reported GAAP revenue in the reporting periods following an acquisition. In order to provide investors with financial information that facilitates comparison of both historical and future results, we provide non-GAAP financial measures which exclude the impact of the acquisition accounting adjustment. We believe that this non-GAAP financial adjustment is useful to investors because it allows investors to (a) evaluate the effectiveness of the methodology and information used by us in our financial and operational decision-making, and (b) compare our past and future reports of financial results as the revenue reduction related to acquired deferred revenue will not recur when related annual lease licenses and software maintenance contracts are renewed in future periods.
+Amortization of intangible assets from acquisitions and its related tax impact. We incur amortization of intangible assets, included in our GAAP presentation of amortization expense, related to various acquisitions we have made. We exclude these expenses and their related tax impact for the purpose of calculating non-GAAP operating income, non-GAAP operating profit margin, non-GAAP net income and non-GAAP diluted earnings per share when we evaluate our continuing operational performance because these costs are fixed at the time of an acquisition, are then amortized over a period of several years after the acquisition and generally cannot be changed or influenced by us after the acquisition. Accordingly, we do not consider these expenses for purposes of evaluating our performance during the applicable time period after the acquisition, and we exclude such expenses when making decisions to allocate resources. We believe that these non-GAAP financial measures are useful to investors because they allow investors to (a) evaluate the effectiveness of the methodology and information used by us in our financial and operational decision-making, and (b) compare our past reports of financial results as we have historically reported these non-GAAP financial measures.
+Stock-based compensation expense and its related tax impact. We incur expense related to stock-based compensation included in our GAAP presentation of cost of software licenses; cost of maintenance and service; research and development expense; and selling, general and administrative expense. This non-GAAP adjustment also includes excess payroll tax expense related to stock-based compensation. Stock-based compensation expense (benefit) incurred in connection with our deferred compensation plan held in a rabbi trust includes an offsetting benefit (charge) recorded in other income (expense). Although stock-based compensation is an expense and viewed as a form of compensation, we exclude these expenses for the purpose of calculating non-GAAP operating income, non-GAAP operating profit margin, non-GAAP net income and non-GAAP diluted earnings per share when we evaluate our continuing operational performance. We similarly exclude income (expense) related to assets held in a rabbi trust in connection with our deferred compensation plan. Specifically, we exclude stock-based compensation and income (expense) related to assets held in the deferred compensation plan rabbi trust during our annual budgeting process and our quarterly and annual assessments of our performance. The annual budgeting process is the primary mechanism whereby we allocate resources to various initiatives and operational requirements. Additionally, the annual review by our board of directors during which it compares our historical business model and profitability to the planned business model and profitability for the forthcoming year excludes the impact of stock-based compensation. In evaluating the performance of our senior management and department managers, charges related to stock-based compensation are excluded from expenditure and profitability results. In fact, we record stock-based compensation expense into a stand-alone cost center for which no single operational manager is responsible or accountable. In this way, we can review, on a period-to-period basis, each manager's performance and assess financial discipline over operational expenditures without the effect of stock-based compensation. We believe that these non-GAAP financial measures are useful to investors because they allow investors to (a) evaluate our operating results and the effectiveness of the methodology used by us to review our operating results, and (b) review historical comparability in our financial reporting as well as comparability with competitors' operating results.
+Restructuring charges and the related tax impact. We occasionally incur expenses for restructuring our workforce included in our GAAP presentation of cost of software licenses; cost of maintenance and service; research and development expense; and selling, general and administrative expense. We exclude these expenses for the purpose of calculating non-GAAP operating income, non-GAAP operating profit margin, non-GAAP net income and non-GAAP diluted earnings per share when we evaluate our continuing operational performance, as we generally do not incur these expenses as a part of our operations. We believe that these non-GAAP financial measures are useful to investors because they allow investors to (a) evaluate our operating results and the effectiveness of the methodology used by us to review our operating results, and (b) review historical comparability in our financial reporting as well as comparability with competitors' operating results.
+Transaction costs related to business combinations. We incur expenses for professional services rendered in connection with business combinations, which are included in our GAAP presentation of selling, general and administrative expense. These expenses are generally not tax-deductible. We exclude these acquisition-related transaction expenses, derived from announced
+
+45
+
+Table of Contents
+
+acquisitions, for the purpose of calculating non-GAAP operating income, non-GAAP operating profit margin, non-GAAP net income and non-GAAP diluted earnings per share when we evaluate our continuing operational performance, as we generally would not have otherwise incurred these expenses in the periods presented as a part of our operations. We believe that these non-GAAP financial measures are useful to investors because they allow investors to (a) evaluate our operating results and the effectiveness of the methodology used by us to review our operating results, and (b) review historical comparability in our financial reporting as well as comparability with competitors' operating results.
+Tax Cuts and Jobs Act. We recorded impacts to our income tax provision related to the enactment of the Tax Cuts and Jobs Act, specifically for the transition tax related to unrepatriated cash and the impacts of the tax rate change on net deferred tax assets. We exclude these impacts for the purpose of calculating non-GAAP net income and non-GAAP diluted earnings per share when we evaluate our continuing operational performance, as (i) the charges are not expected to recur as part of our normal operations and (ii) the charges resulted from the extremely infrequent event of major U.S. tax reform, the last such reform having occurred in 1986. We believe that these non-GAAP financial measures are useful to investors because they allow investors to (a) evaluate our operating results and the effectiveness of the methodology used by us to review our operating results, and (b) review historical comparability in our financial reporting.
+Non-GAAP financial measures are not in accordance with, or an alternative for, GAAP. Our non-GAAP financial measures are not meant to be considered in isolation or as a substitute for comparable GAAP financial measures and should be read only in conjunction with our consolidated financial statements prepared in accordance with GAAP.
+We have provided a reconciliation of the non-GAAP financial measures to the most directly comparable GAAP financial measures as listed below:
+
+-------------------------- -----------------------------------
+
+GAAP Reporting Measure Non-GAAP Reporting Measure
+Revenue Non-GAAP Revenue
+Operating Income Non-GAAP Operating Income
+Operating Profit Margin Non-GAAP Operating Profit Margin
+Net Income Non-GAAP Net Income
+Diluted Earnings Per Share Non-GAAP Diluted Earnings Per Share
+
+46
+
+Table of Contents
+
+Liquidity and Capital Resources
+
+------------------------------------------------- ------------------ ------- ------ ------ ------- - - ------ ----
+
+ As of December 31, Change
+(in thousands, except percentages) 2019 2018 Amount %
+Cash, cash equivalents and short-term investments $ 872,382 $ 777,364 $ 95,018 12.2
+Working capital $ 860,340 $ 786,410 $ 73,930 9.4
+
+Cash, Cash Equivalents and Short-Term Investments
+Cash and cash equivalents consist primarily of highly liquid investments such as money market funds and deposits held at major banks. Short-term investments consist primarily of deposits held by certain of our foreign subsidiaries with original maturities of three months to one year. The following table presents our foreign and domestic holdings of cash, cash equivalents and short-term investments:
+
+---------------------------------- ------------------ ------- ---------- ---- ---- ------- ---------- ------- ---- ----
+
+ As of December 31,
+(in thousands, except percentages) 2019 % of Total 2018 % of Total
+Domestic $ 626,433 71.8 $ 616,249 79.3
+Foreign 245,949 28.2 161,115 20.7
+Total $ 872,382 $ 777,364
+
+In general, it is our intention to permanently reinvest all earnings in excess of previously taxed amounts. As part of Tax our previously taxed earnings and allow for the repatriation of the majority of our foreign earnings without any residual U.S. federal tax. While we believe that the financial reporting bases may be greater than the tax bases of investments in foreign subsidiaries for any earnings in excess of previously taxed amounts, such amounts are considered permanently reinvested. The cumulative temporary difference related to such permanently reinvested earnings is approximately $32.8 million and we would anticipate the tax effect on those earnings to be immaterial as a result of Tax Reform.
+The amount of cash, cash equivalents and short-term investments held by foreign subsidiaries is subject to translation adjustments caused by changes in foreign currency exchange rates as of the end of each respective reporting period, the offset to which is recorded in accumulated other comprehensive loss on our consolidated balance sheet.
+Cash Flows from Operating Activities
+
+----------------------------------------- ----------------------- ------- ------ ---- ------- ------------- ------------- ------- - ------ - ------
+
+ Year Ended December 31, Change
+(in thousands) 2019 2018 2017 2019 vs. 2018 2018 vs. 2017
+Net cash provided by operating activities $ 499,936 $ 484,988 $ 427,660 $ 14,948 $ 57,328
+
+Fiscal year 2019 as compared to fiscal year 2018
+Net cash provided by operating activities increased during the current fiscal year due to increased net income (net of non-cash operating adjustments) of $107.4 million, partially offset by decreased net cash flows from operating assets and liabilities of $92.4 million.
+Fiscal year 2018 as compared to fiscal year 2017
+Net cash provided by operating activities increased during the prior fiscal year due to increased net income (net of non-cash operating adjustments) of $151.4 million, partially offset by decreased net cash flows from operating assets and liabilities of $94.1 million.
+
+47
+
+Table of Contents
+
+Cash Flows from Investing Activities
+
+------------------------------------- ----------------------- -------- ------ ---- -------- ------------- ------------- ------- - - -------- - - -------- -
+
+ Year Ended December 31, Change
+(in thousands) 2019 2018 2017 2019 vs. 2018 2018 vs. 2017
+Net cash used in investing activities $ (833,548 ) $ (312,231 ) $ (94,665 ) $ (521,317 ) $ (217,566 )
+
+Fiscal year 2019 as compared to fiscal year 2018
+Net cash used in investing activities increased during the current fiscal year due primarily to increased acquisition-related net cash outlays of $504.2 million and increased capital expenditures of $23.2 million. We currently plan capital spending of $45.0 million to $55.0 million during fiscal year 2020 as compared to the $44.9 million that was spent in fiscal year 2019. The level of spending will depend on various factors, including the growth of the business and general economic conditions.
+Fiscal year 2018 as compared to fiscal year 2017
+Net cash used in investing activities increased during the prior fiscal year due primarily to increased acquisition-related net cash outlays of $219.1 million.
+Cash Flows from Financing Activities
+
+--------------------------------------------------- ----------------------- ------- ------ ---- -------- ------------- ------------- -------- - - ------- - ------
+
+ Year Ended December 31, Change
+(in thousands) 2019 2018 2017 2019 vs. 2018 2018 vs. 2017
+Net cash provided by (used in) financing activities $ 429,409 $ (262,675 ) $ (294,651 ) $ 692,084 $ 31,976
+
+Fiscal year 2019 as compared to fiscal year 2018
+Net cash provided by financing activities increased during the current fiscal year due primarily to $500.0 million in proceeds from long-term debt obtained in fiscal year 2019 related to the LST acquisition and decreased stock repurchases of $210.7 million, partially offset by increased restricted stock unit withholding taxes paid in lieu of issuing shares of $13.6 million.
+Fiscal year 2018 as compared to fiscal year 2017
+Net cash used in financing activities decreased during the prior fiscal year due primarily to decreased stock repurchases of $66.2 million, partially offset by increased restricted stock unit withholding taxes paid in lieu of issuing shares of $17.8 million and decreased proceeds from shares issued for stock-based compensation of $11.5 million.
+Other Cash Flow Information
+We believe that existing cash and cash equivalent balances of $872.1 million, together with cash generated from operations and access to the $500.0 million revolving credit facility, will be sufficient to meet our working capital and capital expenditure requirements through the next twelve months. Our cash requirements in the future may also be financed through additional equity or debt financings. There can be no assurance that such financings can be obtained on favorable terms, if at all. We repaid $75.0 million of our unsecured term loan in January 2020 prior to its scheduled maturity date.
+Under our stock repurchase program, we repurchased shares as follows:
+
+------------------------------------- ----------------------- ------ ---- ----- ---- ------- ----- - -------
+
+ Year Ended December 31,
+(in thousands, except per share data) 2019 2018 2017
+Number of shares repurchased 330 1,674 2,750
+Average price paid per share $ 179.41 $ 161.12 $ 122.20
+Total cost $ 59,116 $ 269,801 $ 336,042
+
+In February 2018, our Board of Directors increased the number of shares authorized for repurchase to a total of 5.0 million shares under the stock repurchase program. As of December 31, 2019, 3.5 million shares remained available for repurchase under the program.
+The authorized repurchase program does not have an expiration date, and the pace of the repurchase activity will depend on factors such as working capital needs, cash requirements for acquisitions, our stock price, and economic and market conditions. Our stock repurchases may be effected from time to time through open market purchases or pursuant to a Rule 10b5-1 plan.
+
+48
+
+Table of Contents
+
+We continue to generate positive cash flows from operating activities and believe that the best uses of our excess cash are to invest in the business; acquire or make investments in complementary companies, products, services and technologies; and make payments on our outstanding debt balances. Any future acquisitions may be funded by available cash and investments, cash generated from operations, debt financing, or the issuance of additional securities. Additionally, we have in the past, and expect in the future, to repurchase stock in order to both offset dilution and return capital, in excess of our requirements, to stockholders with the goal of increasing stockholder value.
+
+Off-Balance-Sheet Arrangements
+We do not have any special-purpose entities or off-balance-sheet arrangements.
+
+49
+
+Table of Contents
+
+Contractual Obligations
+Our significant contractual obligations as of December 31, 2019 are summarized below:
+
+----------------------------------------------------------------------------------- ---------------------- ------- ------------- ------ ----------- ------ ----------- ------------- ------- ------ ------- - ------
+
+ Payments Due by Period
+(in thousands) Total Within 1 year 2 – 3 years 4 – 5 years After 5 years
+Long-term debt:
+Principal payments(1) $ 500,000 $ — $ 25,000 $ 475,000 $ —
+Interest payments(2) 70,488 17,372 29,400 23,716 —
+Global headquarters operating lease(3) 45,199 4,464 8,928 8,944 22,863
+Other operating leases(4) 83,566 17,153 27,127 15,990 23,296
+Unconditional purchase obligations(5) 71,382 37,183 24,723 9,476 —
+Obligations related to uncertain tax positions, including interest and penalties(6) — — — — —
+Other long-term obligations(7) 44,767 22,776 10,568 2,856 8,567
+Total contractual obligations $ 815,402 $ 98,948 $ 125,746 $ 535,982 $ 54,726
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) We repaid $75.0 million of the unsecured term loan in January 2020 prior to its scheduled maturity date. As such, the payment is reflected as current on our consolidated balance sheet but not in the table above.
+
+--- ---------------------------------------
+(2) Interest on the long-term debt is estimated using the interest rate as of December 31, 2019, as the interest rate is variable. For additional information, see Note 10 to the consolidated financial statements included in Part IV, Item 15 of this Annual Report on Form 10-K. The interest payments reflected in the table above have not been reduced for the effect of the $75.0 million principal payment discussed in (1) above.
+
+--- ---------------------------------------------------------
+(3) We previously entered into a lease agreement for 186,000 square feet of rentable space located in an office facility in Canonsburg, Pennsylvania, which serves as our headquarters. The term of the lease is 183 months, beginning on October 1, 2014 and expiring on December 31, 2029. We have a one-time right to terminate the lease on December 31, 2025 by providing the landlord with at least 18 months' prior written notice of such termination.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Other operating leases primarily include noncancellable lease commitments for our other domestic and international offices as well as certain operating equipment.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------
+(5) Unconditional purchase obligations primarily include royalties and software licenses and services, which are unrecorded as of December 31, 2019.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(6) We have $64.4 million of unrecognized tax benefits, including estimated interest and penalties, that have been recorded as liabilities in accordance with income tax accounting guidance for which we are uncertain as to if or when such amounts may be settled. As a result, such amounts are excluded from the table above.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(7) Other long-term obligations primarily include third-party commissions of $28.3 million; post-employment benefits, including pension obligations, of $12.7 million for certain foreign locations; and office space restoration of $3.1 million. These amounts include the related current portions when applicable.
+
+50
+
+Table of Contents
+
+Critical Accounting Policies and Estimates
+We believe that the following critical accounting policies affect the more significant judgments and estimates used in the preparation of our consolidated financial statements.
+Revenue Recognition: Our revenue is derived principally from the licensing of computer software products and from related maintenance contracts. We adopted ASC 606 on January 1, 2018 using the modified retrospective approach for all contracts not completed as of the date of adoption. Results for reporting periods beginning after January 1, 2018 are presented under ASC 606, while prior period amounts are not adjusted and continue to be reported in accordance with ASC 605. The adoption of ASC 606 represents a change in accounting principle that will more closely align revenue recognition with the delivery of our software licenses, maintenance and services.
+Revenue Recognition Policy 2019 and 2018 (ASC 606)
+We enter into contracts that include combinations of products, maintenance and services, which are accounted for as separate performance obligations with differing revenue recognition patterns.
+Revenue from perpetual licenses is classified as software license revenue. Software license revenue is recognized up front upon delivery of the licensed product and/or the utility that enables the customer to access authorization keys, provided that an enforceable contract has been received. Typically, our perpetual licenses are sold with post-contract support (PCS), which includes unspecified technical enhancements and customer support. We allocate value in bundled perpetual and PCS arrangements based on the standalone selling prices of the perpetual license and PCS. Revenue from PCS is classified as maintenance revenue and is recognized ratably over the term of the contract, as we satisfy the PCS performance obligation over time.
+In addition to perpetual licenses, we sell time-based lease licenses. Lease licenses are sold only as a bundled arrangement that includes the rights to a term software license and PCS. Utilizing observable inputs, we determined that 50% of the estimated standalone selling price of the lease license is attributable to the term license and 50% is attributable to the PCS. This determination considered the value relationship for our products between PCS to time-based lease licenses, the value relationship between PCS and perpetual licenses, the average economic life of our products, software renewal rates and the price of the bundled arrangement in relation to the perpetual licensing approach. Consistent with the perpetual sales, the license component is classified as software license revenue and recognized as revenue up front at the commencement of the lease upon delivery of the licensed product and/or utility that enables the customer to access authorization keys. The PCS is classified as maintenance revenue and is recognized ratably over the term of the contract, as we provide the PCS benefit over time.
+Revenue from training, support and other services is recognized as the services are performed. For contracts in which the service consists of a single performance obligation, such as providing a training class to a customer, we recognize revenue upon completion of the performance obligation. For service contracts that are longer in duration and often include multiple performance obligations (for example, both training and consulting), we measure the progress toward completion of the obligations and recognize revenue accordingly. In measuring progress towards the completion of performance obligations, we typically utilize output-based estimates for services with contractual billing arrangements that are not based on time and materials, and estimate output based on the total tasks completed as compared to the total tasks required for each work contract. Input-based estimates are utilized for services that involve general consultations with contractual billing arrangements based on time and materials, utilizing direct labor as the input measure. Proceeds from customers for the purpose of expediting road-map items, developing new products or creating specific features and functionality for existing products is classified as revenue.
+We also execute arrangements through independent channel partners in which the channel partners are authorized to market and distribute our software products to end users of our products and services in specified territories. In sales facilitated by channel partners, the channel partner bears the risk of collection from the end-user customer. We recognize revenue from transactions with channel partners in a manner consistent with the direct sales described above for both perpetual and time-based licenses. Revenue from channel partner transactions is the amount remitted to us by the channel partners. This amount includes a fee for PCS that is compensation for providing technical enhancements and the second level of technical support to the end user, which is recognized over the period that PCS is to be provided.
+Non-income related taxes collected from customers and remitted to governmental authorities are recorded on the consolidated balance sheet as accounts receivable and accrued expenses. The collection and payment of these amounts are reported on a net basis in the consolidated statements of income and do not impact reported revenues or expenses.
+We do not offer right of return. We warrant to our customers that our software will perform substantially as specified in our current user manuals. We have not experienced significant claims related to software warranties beyond the scope of
+
+51
+
+Table of Contents
+
+maintenance support, which we are already obligated to provide. The warranty is not sold, and cannot be purchased, separately. The warranty does not provide any type of additional service to the customer or performance obligation for us.
+Our agreements with our customers generally require us to indemnify the customer against claims that our software infringes third-party patent, copyright, trademark or other proprietary rights. Such indemnification obligations are generally limited in a variety of industry-standard respects, including our right to replace an infringing product.
+Significant Judgments (ASC 606)
+Our contracts with customers typically include promises to transfer licenses and services to a customer. Judgment is required to determine if the promises are separate performance obligations, and if so, to allocate the transaction price to each performance obligation. We use the estimated standalone selling price method to allocate the transaction price for each performance obligation. The estimated standalone selling price is determined using all information reasonably available to us, including market conditions and other observable inputs. The corresponding revenues are recognized as the related performance obligations are satisfied.
+We apply a practical expedient to expense sales commissions as incurred when the amortization period would have been one year or less. Sales commissions associated with the initial year of multi-year contracts are expensed as incurred due to their immateriality. Sales commissions associated with multi-year contracts beyond the initial year are subject to an employee service requirement and are expensed as incurred as they are not considered incremental costs to obtain a contract.
+We are required to adjust promised amounts of consideration for the effects of the time value of money if the timing of the payments provides the customer or us with a significant financing benefit. We consider various factors in assessing whether a financing component exists, including the duration of the contract, market interest rates and the timing of payments. Our contracts do not include a significant financing component requiring adjustment to the transaction price.
+Revenue Recognition Policy 2017 (ASC 605)
+Revenue from perpetual licenses was classified as license revenue and was recognized upon delivery of the licensed product and/or the utility that enabled the customer to access authorization keys, provided that acceptance had occurred and a signed contractual obligation was received, the price was fixed and determinable, and collectibility of the receivable was probable. We determined the fair value of PCS sold together with perpetual licenses based on the rate charged for PCS when sold separately. Revenue from PCS contracts was classified as maintenance and service revenue and was recognized ratably over the term of the contract.
+Revenue for software lease licenses was classified as license revenue and was recognized over the period of the lease contract. Typically, our software leases include PCS which, due to the short term (principally one year or less) of our software lease licenses, were not permitted to be separated from lease revenue for accounting purposes. As a result, both the lease licenses and PCS were recognized ratably over the lease period. We included the revenue for the entire lease arrangement within software license revenue in the consolidated statements of income.
+Many of our semiconductor products are typically licensed via longer term leases of 24–36 months. We recognized revenue for these licenses over the term of the lease contract. Because we did not have vendor-specific objective evidence of the fair value of these leases, we also recognized revenue from perpetual licenses over the term of the lease contract during the infrequent occurrence of these licenses being sold with semiconductor leases in multiple-element arrangements.
+Revenue from training, support and other services was recognized as the services were performed. We applied the specific performance method to contracts in which the service consisted of a single act, such as providing a training class to a customer, and the proportional performance method to other service contracts that were longer in duration and often included multiple acts (for example, both training and consulting). In applying the proportional performance method, we typically utilized output-based estimates for services with contractual billing arrangements that were not based on time and materials, and estimated output based on the total tasks completed as compared to the total tasks required for each work contract. Input-based estimates were utilized for services that involved general consultations with contractual billing arrangements based on time and materials, utilizing direct labor as the input measure.
+The accounting treatment under ASC 605 associated with arrangements through independent channel partners, non-income related taxes, warranties and indemnification obligations is consistent with the accounting treatment under ASC 606 described above.
+Goodwill and Other Intangible Assets: We test goodwill and indefinite-lived intangible assets for impairment at least annually by performing a quantitative assessment of whether the fair value of each reporting unit or asset exceeds its carrying amount. We have one reporting unit. Goodwill is tested at this reporting unit level and indefinite-lived intangible assets are tested at the individual asset level. This requires us to assess and make judgments regarding a variety of factors which impact the fair value
+
+52
+
+Table of Contents
+
+of the reporting unit or asset being tested, including business plans, anticipated future cash flows, economic projections and other market data. Because there are inherent uncertainties involved in these factors, significant differences between these estimates and actual results could result in future impairment charges and could materially impact our future financial results. During the first quarter of 2019, we completed the annual impairment test for goodwill and the indefinite-lived intangible asset and determined that these assets had not been impaired as of the test date, January 1, 2019. No other events or circumstances changed during the year ended December 31, 2019 that would indicate that the fair values of our reporting unit and indefinite-lived intangible asset are below their carrying values.
+Intangible assets are recognized apart from goodwill whenever an acquired intangible asset arises from contractual or other legal rights, or whenever it is capable of being separated or divided from the acquired entity and sold, transferred, licensed, rented, or exchanged, either individually or in combination with a related contract, asset or liability. We determined the fair value of our intangible assets using various valuation techniques, including the relief-from-royalty method and the multi-period excess earnings method. These models utilize certain unobservable inputs classified as Level 3 measurements as defined by ASC 820, Fair Value Measurements and Disclosures. The determination of fair value requires considerable judgment and is sensitive to changes in underlying assumptions, estimates and market factors. Estimating fair value requires us to make assumptions and estimates regarding our future plans, as well as industry and economic conditions. These assumptions and estimates include, but are not limited to: royalty rate, discount rate and attrition rate. The fair values of the intangible assets will be amortized over their useful lives. Impairment losses are recognized if the carrying amounts of finite-lived intangible assets are both not recoverable and exceed the fair values.
+Income Taxes: We account for income taxes under the asset and liability method, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the financial statements. Under this method, deferred tax assets and liabilities are determined based on the differences between the financial statement and tax bases of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in income in the period of the enactment date.
+We record net deferred tax assets to the extent we believe these assets will more likely than not be realized. In making such determination, we consider all available positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax planning strategies and recent financial operations. In the event we determine that we will be able to realize deferred tax assets for which a valuation allowance was used to reduce their carrying value, the adjustment to the valuation allowance will be recorded as a reduction to the provision for income taxes.
+Tax benefits related to uncertain tax positions taken or expected to be taken on a tax return are recorded when such benefits meet a more-likely-than-not threshold. Otherwise, these tax benefits are recorded when a tax position has been effectively settled, which means that the statute of limitations has expired or the appropriate taxing authority has completed its examination even though the statute of limitations remains open.
+We recognize interest and penalties related to income taxes within the income tax expense line in the consolidated statements of income. Accrued interest and penalties are included within the related tax liability line in the consolidated balance sheets.
+Stock-Based Compensation: We grant restricted stock units and other stock awards to employees and directors under our equity incentive plan. Eligible employees can also purchase shares of our common stock at a discount under our employee stock purchase plan. The benefits provided under these plans are stock-based payments subject to the provisions of stock-based payment accounting guidance. We use the fair value method to apply the provisions of stock-based payment accounting guidance. Stock-based compensation expense for 2019, 2018 and 2017 was $116.2 million, $83.3 million and $53.2 million, respectively. As of December 31, 2019, total unrecognized estimated compensation expense related to awards granted prior to that date was $186.4 million, which is expected to be recognized over a weighted average period of 1.5 years.
+Prior to 2017, we granted stock option awards. The value of each stock option award was estimated on the date of grant, or date of acquisition for options issued in a business combination, using the Black-Scholes option pricing model (Black-Scholes model). The determination of the fair value of stock-based payment awards using an option pricing model was affected by our stock price as well as assumptions regarding a number of complex and subjective variables. These variables included our stock volatility during the preceding six years, actual and projected employee stock option exercise behaviors, interest rate assumptions using the five-year U.S. Treasury Note yield on the date of grant or acquisition date, and expected dividends. The stock-based compensation expense for options is recorded ratably over the requisite service period.
+We issue various restricted stock unit awards which contain either a market condition, a performance condition, a service condition, or certain combinations of the three. Restricted stock unit awards are valued based on the grant-date fair value of the award. Stock-based compensation expense is recognized over the employee's requisite service period for awards with only a service condition. For awards with a performance condition, stock-based compensation expense is recorded from the service
+
+53
+
+Table of Contents
+
+inception date through the conclusion of the measurement period based on management's estimates concerning the probability of vesting.
+Vesting of restricted stock unit awards with a market condition is based on our performance as measured by total stockholder return relative to the appreciation of a specified stock index over the measurement period, subject to each participant's continued employment through the conclusion of the measurement period. The fair value of the restricted stock unit awards with a market condition is estimated using a Monte Carlo simulation model. The determination of the fair value of the awards is affected by the grant date and several variables, each of which has been identified in the chart below. Stock-based compensation expense based on the fair value of the award is recorded from the grant date through the conclusion of the measurement period.
+
+----------------------------------------------------- ----------------------- --------- ---------
+
+ Year Ended December 31,
+Assumptions used in Monte Carlo lattice pricing model 2019 2018 2017
+Risk-free interest rate 2.5% 2.4% 1.5%
+Expected dividend yield —% —% —%
+Expected volatility—Ansys stock price 23% 21% 19%
+Expected volatility—Nasdaq Composite Index 16% 15% 15%
+Expected term 2.8 years 2.8 years 2.8 years
+Correlation factor 0.71 0.65 0.70
+Weighted average fair value per share $238.99 $191.76 $120.94
+
+We also grant restricted stock units to non-employee Directors, which vest upon the earlier of one year from the date of grant or the date of the next regular annual meeting of stockholders. If a non-employee Director retires prior to the vest date, the non-employee Director receives a pro-rata portion of the restricted stock units.
+To the extent we change the terms of our stock-based compensation programs, experience market volatility in the pricing of our common stock that increases the implied volatility assumption used in the pricing models, refine different assumptions, or assume stock awards from acquired companies that are different in nature than our stock award arrangements, among other potential impacts, the stock-based compensation expense recorded in future periods and the related tax benefits may differ significantly from what was recorded in previous reporting periods. Forfeitures of awards are accounted for as they occur.
+Estimates of stock-based compensation expense are significant to our financial statements, but this expense is partially based on the aforementioned option valuation and Monte Carlo simulation models and will never result in the payment of cash by us other than through the payment of withholding taxes in lieu of additional share issuance. For this reason, and because we do not view stock-based compensation as related to our operational performance, the Board of Directors and management exclude stock-based compensation expense when evaluating our underlying business performance.
+Contingencies: We are involved in various investigations, claims and legal proceedings that arise in the ordinary course of business, including commercial disputes, labor and employment matters, tax audits, alleged infringement of intellectual property rights and other matters. We review the status of these matters, assess our financial exposure and record a related accrual if the potential loss from an investigation, claim or legal proceeding is probable and the amount is reasonably estimable. Significant judgment is involved in the determination of probability and in the determination of whether an exposure is reasonably estimable. As a result of the uncertainties involved in making these estimates, we may have to revise our estimates as facts and circumstances change. The revision of these estimates could have a material impact on our financial position and results of operations.
+Recent Accounting Guidance
+For information regarding recent accounting guidance and its impact on our consolidated financial statements, see Note 2 to the consolidated financial statements in Part IV, Item 15 of this Annual Report on Form 10-K.
+
+54
+
+Table of Contents
+
+-------- ----------------------------------------------------------
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[see Note 4]:
+(4) Adjusted income tax rate is calculated as adjusted income tax expense as a percentage of income from consolidated operations before income taxes, excluding transaction and integration expenses and special charges, or $840.0 million, $780.1 million, and $694.1 million for the years ended November 30, 2019, 2018, and 2017, respectively. 32 ------------------------------------- -------------- ---------------------------------------------- Estimate for the year ending November 30, 2020 Earnings per share - diluted $5.15 to $5.25 Impact of special charges 0.05 Adjusted earnings per share - diluted $5.20 to $5.30 Because we are a multi-national company, we are subject to variability of our reported U.S. dollar results due to changes in foreign currency exchange rates. Those changes have been volatile over the past several years. The exclusion of the effects of foreign currency exchange, or what we refer to as amounts expressed "on a constant currency basis," is a non-GAAP measure. We believe that this non-GAAP measure provides additional information that enables enhanced comparison to prior periods excluding the translation effects of changes in rates of foreign currency exchange and provides additional insight into the underlying performance of our operations located outside of the U.S. It should be noted that our presentation herein of amounts and percentage changes on a constant currency basis does not exclude the impact of foreign currency transaction gains and losses (that is, the impact of transactions denominated in other than the local currency of any of our subsidiaries in their local currency reported results). Percentage changes in sales and adjusted operating income expressed on a constant currency basis are presented excluding the impact of foreign currency exchange. To present this information for historical periods, current year results for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at the average exchan...
+
+[see Note 3]:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, a privately held 3D editing and authoring software company for gaming and entertainment, and integrated it into our Digital Media reportable segment. Prior to the acquisition, we held an equity interest that was accounted for as an equity-method investment. We acquired the remaining equity interest for approximately $106.2 million in cash consideration. The total purchase price, inclusive of the acquisition-date fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 million, which represents the difference between the $54.8 million acquisition-date fair value of our pre-existing equity interest and our previous carrying amount. Under the acquisition method of accounting, the total final purchase price was allocated to Allegorithmic's net tangible and intangible assets based upon their estimated fair values as of the acquisition date. The excess purchase price over the value of the net tangible and identifiable intangible assets was recorded as goodwill. Of the total purchase price, $125.9 million was allocated to goodwill that was non-deductible for tax purposes, $44.8 million to identifiable intangible assets and the remainder to net liabilities assumed. Pro forma financial information has not been presented for the Allegorithmic acquisition as the impact to our Consolidated Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash consideration. Adding Marketo's engagement platform to Adobe Experience Cloud furthers our long-term plan for strategic growth in the Digital Experience segment and enables us to offer a comprehensive set of solutions to enable customers across industries...
+
+[see Note 3]:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash set of solutions to enable customers across industries...
+
+[see Note 10]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- --------- --------- ---- --------- ---- --------- --------- - --------- (in thousands) 2019 2018 2017 Domestic $ 437,603 $ 542,948 $ 1,056,156 Foreign 2,767,138 2,250,928 1,081,485 Income before income taxes $ 3,204,741 $ 2,793,876 $ 2,137,641 The provision for income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- ------- ------- ---- -------- ---- ------- ------- - - ------- (in thousands) 2019 2018 2017 Current: United States federal $ 6,563 $ 501,272 $ 298,802 Foreign 211,174 140,308 60,962 State and local 30,893 28,612 33,578 Total current 248,630 670,192 393,342 Deferred: United States federal 22,528 (466,113 ) 48,905 Foreign (11,675 ) (9,734 ) (4,242 ) State and local (6,200 ) 8,757 5,682 Total deferred 4,653 (467,090 ) 50,345 Provision for income taxes $ 253,283 $ 203,102 $ 443,687 88 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) U.S. Tax Reform On December 22, 2017, the Tax Cuts and Jobs Act (the "Tax Act") was enacted into law, which significantly changed existing U.S. tax law and includes many provisions applicable to us, such as reducing the U.S. federal statutory tax rate, imposing a one-time transition tax on deemed repatriation of deferred foreign income and adopting a territorial tax system. The Tax Act reduced the U.S. federal statutory tax rate from 35% to 21% effective January 1, 2018. For fiscal 2018, our blended U.S. federal statutory tax rate was 22.2%. This was the result of using the tax rate of 35% for the first month of fiscal 2018 and the reduced tax rate of 21% for the remaining eleven months of fiscal 2018. The Tax Act also required us to incur a one-time transition tax on deferred foreign income not previously subject to U.S. income tax at a rate of 15.5% for foreign cash and certain other net current assets, and 8% on the remaining income,...
+
+[see Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. Our business is organized into three reportable segments: Digital Media, Digital Experience and Publishing. These segments provide our senior management with a comprehensive financial view of our key businesses. Our segments are aligned around our 70 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) two strategic growth opportunities as described in the "Business Overview" within Part I, Item 1, placing our Publishing business in a third segment that contains some of our mature products and solutions. In fiscal 2019, we categorized our products into the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ * Digital Media--Our Digital Media segment provides tools and solutions that enable individuals, teams and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include content creators, experien...
+
+[Note 4 to the consolidated financial statements]:
+(4) Adjusted income tax rate is calculated as adjusted income tax expense as a percentage of income from consolidated operations before income taxes, excluding transaction and integration expenses and special charges, or $840.0 million, $780.1 million, and $694.1 million for the years ended November 30, 2019, 2018, and 2017, respectively. 32 ------------------------------------- -------------- ---------------------------------------------- Estimate for the year ending November 30, 2020 Earnings per share - diluted $5.15 to $5.25 Impact of special charges 0.05 Adjusted earnings per share - diluted $5.20 to $5.30 Because we are a multi-national company, we are subject to variability of our reported U.S. dollar results due to changes in foreign currency exchange rates. Those changes have been volatile over the past several years. The exclusion of the effects of foreign currency exchange, or what we refer to as amounts expressed "on a constant currency basis," is a non-GAAP measure. We believe that this non-GAAP measure provides additional information that enables enhanced comparison to prior periods excluding the translation effects of changes in rates of foreign currency exchange and provides additional insight into the underlying performance of our operations located outside of the U.S. It should be noted that our presentation herein of amounts and percentage changes on a constant currency basis does not exclude the impact of foreign currency transaction gains and losses (that is, the impact of transactions denominated in other than the local currency of any of our subsidiaries in their local currency reported results). Percentage changes in sales and adjusted operating income expressed on a constant currency basis are presented excluding the impact of foreign currency exchange. To present this information for historical periods, current year results for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at the average exchan...
+
+[Note 3 to the consolidated financial statements]:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, a privately held 3D editing and authoring software company for gaming and entertainment, and integrated it into our Digital Media reportable segment. Prior to the acquisition, we held an equity interest that was fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash set of solutions to enable customers across industries...
+
+[Note 3 to the consolidated financial statements]:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, a privately held 3D editing and authoring software company for gaming and entertainment, and integrated it into our Digital Media reportable segment. Prior to the acquisition, we held an equity interest that was accounted for as an equity-method investment. We acquired the remaining equity interest for approximately $106.2 million in cash consideration. The total purchase price, inclusive of the acquisition-date fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 million, which final purchase price was allocated to Allegorithmic's net tangible and intangible assets based upon their estimated fair values as of the acquisition date. The excess purchase price over the value of Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash set of solutions to enable customers across industries...
+
+[Note 10 to the consolidated financial statements]:
+NOTE 10. INCOME TAXES Income before income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- --------- --------- ---- --------- ---- --------- --------- - --------- (in thousands) 2019 2018 2017 Domestic $ 437,603 $ 542,948 $ 1,056,156 Foreign 2,767,138 2,250,928 1,081,485 Income before income taxes $ 3,204,741 $ 2,793,876 $ 2,137,641 The provision for income taxes for fiscal 2019, 2018 and 2017 consisted of the following: -------------------------- ------- ------- ---- -------- ---- ------- ------- - - ------- (in thousands) 2019 2018 2017 Current: United States federal $ 6,563 $ 501,272 $ 298,802 Foreign 211,174 140,308 60,962 State and local 30,893 28,612 33,578 Total current 248,630 670,192 393,342 Deferred: United States federal 22,528 (466,113 ) 48,905 Foreign (11,675 ) (9,734 ) (4,242 ) State and local (6,200 ) 8,757 5,682 Total deferred 4,653 (467,090 ) 50,345 Provision for income taxes $ 253,283 $ 203,102 $ 443,687 88 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) U.S. Tax Reform On December 22, 2017, the Tax Cuts and Jobs Act (the "Tax Act") was enacted into law, which significantly changed existing U.S. tax law and includes many provisions applicable to us, such as reducing the U.S. federal statutory tax rate, imposing a one-time transition tax on deemed repatriation of deferred foreign income and adopting a territorial tax system. The Tax Act reduced the U.S. federal statutory tax rate from 35% to 21% effective January 1, 2018. For fiscal 2018, our blended U.S. federal statutory tax rate was 22.2%. This was the result of using the tax rate of 35% for the first month of fiscal 2018 and the reduced tax rate of 21% for the remaining eleven months of fiscal 2018. The Tax Act also required us to incur a one-time transition tax on deferred foreign income not previously subject to U.S. income tax at a rate of 15.5% for foreign cash and certain other net current assets, and 8% on the remaining income,...
+
+[Note 2 to the consolidated financial statements]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. Our business is organized into three reportable segments: Digital Media, Digital Experience and Publishing. These segments provide our senior management with a comprehensive financial view of our key businesses. Our segments are aligned around our 70 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) two strategic growth opportunities as described in the "Business Overview" within Part I, Item 1, placing our Publishing business in a third segment that contains some of our mature products and solutions. In fiscal 2019, we categorized our products into the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ include content creators, experien...
+
+[included in Part IV, Item 15]:
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES Financial Statements and Exhibits
+
+[included in Part IV, Item 15]:
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES Financial Statements and Exhibits
+
+[included in Part IV, Item 15]:
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES Financial Statements and Exhibits
+
+[included in Part IV, Item 15]:
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES Financial Statements and Exhibits
+
+[Part IV, Item 15]:
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES Financial Statements and Exhibits
+
+[Part IV, Item 15]:
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES Financial Statements and Exhibits
+
+[Part IV, Item 15]:
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES Financial Statements and Exhibits
+
+[Part IV, Item 15]:
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES Financial Statements and Exhibits
+
+[Part IV, Item 15]:
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES Financial Statements and Exhibits
+
+[section entitled "Financial Risks"]:
+Our revenue is subject to increased volatility due to the adoption of a new revenue recognition accounting standard on January 1, 2018. 21
+
+["
+Impact of Foreign Currency
+Our comparative financial results were impacted by fluctuations in the U.S. Dollar during the year ended December 31, 2019 as compared to the year ended December 31, 2018. The impacts on our revenue and operating income due to currency fluctuations are reflected in the table below. Amounts in brackets indicate an adverse impact from currency fluctuations.
+
+---------------- ---------------------------- ------- -------- - ------- -
+
+ Year Ended December 31, 2019
+(in thousands) GAAP Non-GAAP
+Revenue $ (24,008 ) $ (24,235 )
+Operating income $ (10,213 ) $ (11,062 )
+
+In constant currency, our growth rates were as follows:
+
+---------------- ---------------------------- - -------- ---- -
+
+ Year Ended December 31, 2019
+ GAAP Non-GAAP
+Revenue 19.0 % 19.2 %
+Operating income 10.2 % 13.8 %
+
+Constant currency amounts exclude the effects of foreign currency fluctuations on the reported results. To present this information, the 2019 results for entities whose functional currency is a currency other than the U.S. Dollar were converted to U.S. Dollars at rates that were in effect for the 2018 comparable period, rather than the actual exchange rates in effect for 2019. Constant currency growth rates are calculated by adjusting the 2019 reported revenue and operating income amounts by the 2019 currency fluctuation impacts and comparing to the 2018 comparable period reported revenue and operating income amounts.
+Other Financial Information
+Our financial position includes $872.4 million in cash and short-term investments, and working capital of $860.3 million as of December 31, 2019.
+During the year ended December 31, 2019, we repurchased 0.3 million shares for $59.1 million at an average price of $179.41 per share under our stock repurchase program.
+
+29
+
+Table of Contents
+
+Business
+Ansys, a Delaware corporation formed in 1994, develops and globally markets engineering simulation software and services widely used by engineers, designers, researchers and students across a broad spectrum of industries and academia, including aerospace and defense, automotive, electronics, semiconductors, energy, materials and chemical processing, turbomachinery, consumer products, healthcare, and sports. Headquartered south of Pittsburgh, Pennsylvania, we employed approximately 4,100 people as of December 31, 2019. We focus on the development of open and flexible solutions that enable users to analyze designs directly on the desktop, providing a common platform for fast, efficient and cost-conscious product development, from design concept to final-stage testing and validation. We distribute our suite of simulation technologies through a global network of independent resellers and distributors (collectively, channel partners) and direct sales offices in strategic, global locations. It is our intention to continue to maintain this hybrid sales and distribution model.
+We license our technology to businesses, educational institutions and governmental agencies. Growth in our revenue is affected by the strength of global economies, general business conditions, currency exchange rate fluctuations, customer budgetary constraints and the competitive position of our products. Please see Part I. Item 1A. of this Annual Report on Form 10-K for a complete discussion of factors that might impact our financial condition and operating results. We believe that the features, functionality and integrated multiphysics capabilities of our software products are as strong as they have ever been. However, the software business is generally characterized by long sales cycles. These long sales cycles increase the difficulty of predicting sales for any particular quarter. We make many operational and strategic decisions based upon short- and long-term sales forecasts that are impacted not only by these long sales cycles, but also by current global economic conditions. As a result, we believe that our overall performance is best measured by fiscal year results rather than by quarterly results. Please see the sub-section entitled "]:
+Item 1A. Risk Factors 22
+
+[" under Part I. Item 1A. of this Annual Report on Form 10-K for additional discussion of the potential impact of our sales forecasts on our financial condition, cash flows and operating results.
+Management considers the competition and price pressure that it faces in the short- and long-term by focusing on expanding the breadth, depth, ease of use and quality of the technologies, features, functionality and integrated multiphysics capabilities of our software products as compared to our competitors; investing in research and development to develop new and innovative products and increase the capabilities of our existing products; supplying new products and services; focusing on customer needs, training, consulting and support; and enhancing our distribution channels. We also consider acquisitions to supplement our global engineering talent, product offerings and distribution channels.
+Geographic Trends
+The following table presents our geographic constant currency revenue growth during the year ended December 31, 2019 as compared to the year ended December 31, 2018:
+
+------------------------------------- ---------------------------- -
+
+ Year Ended December 31, 2019
+Americas 25.4 %
+Europe, Middle East and Africa (EMEA) 13.8 %
+Asia-Pacific 15.6 %
+Total 19.0 %
+
+We continue to focus on a number of sales improvement activities across the geographic regions, including sales hiring, pipeline building, productivity initiatives and customer engagement activities.
+As trade tensions between the U.S. and China continue, as well as the uncertainty around China']:
+Item 1A. Risk Factors 22
+
+[' investments in 5G and smart connected to support growth in the aerospace and defense industry.
+
+30
+
+Table of Contents
+
+Acquisitions
+On November 1, 2019, we completed the acquisition of 100% of the shares of LST, the premier provider of explicit developing safer automobiles, aircraft and trains while reducing or even eliminating the need for costly physical testing.
+On February 1, 2019, we completed the acquisition of 100% of the shares of Granta intelligence, including data that is critical to successful simulations.
+Additionally, during the year ended December 31, 2019, we acquired Dynardo, Helic and DfR Solutions to combine the acquired technologies with our existing comprehensive multiphysics portfolio. These acquisitions were not individually significant. The combined purchase price of these acquisitions was $136.2 million.
+During the year ended December 31, 2018, we completed the acquisition of 100% of the shares of OPTIS, a premier provider of software for scientific simulation of light, human vision and physics-based visualization, for a purchase acoustics for camera, radar and lidar.
+During the year ended December 31, 2017, we completed various acquisitions to expand our customer base and accelerate the development of new and innovative products million.
+For further information on our business combinations during the years ended December 31, 2019, 2018 and 2017, see Note 4 to the consolidated financial statements included in Part IV, Item 15 of this Annual Report on Form 10-K.
+
+31
+
+Table of Contents
+
+Results of Operations
+For purposes of the following discussion and analysis, the table below sets forth certain consolidated financial data for the years 2019, 2018 and 2017. The operating results of our acquisitions have been included in the results of operations since their respective acquisition dates.
+
+----------------------------------- ----------------------- ------- ---- --------- ---- ------- --------- - - -------
+
+ Year Ended December 31,
+(in thousands) 2019 2018 2017
+Revenue:
+Software licenses $ 699,630 $ 576,717 $ 624,964
+Maintenance and service 816,262 716,919 470,286
+Total revenue 1,515,892 1,293,636 1,095,250
+Cost of sales:
+Software licenses 23,944 18,619 34,421
+Amortization 21,710 27,034 36,794
+Maintenance and service 120,619 110,232 78,949
+Total cost of sales 166,273 155,885 150,164
+Gross profit 1,349,619 1,137,751 945,086
+Operating expenses:
+Selling, general and administrative 521,200 413,580 338,640
+Research and development 298,210 233,802 202,746
+Amortization 15,169 13,795 12,972
+Total operating expenses 834,579 661,177 554,358
+Operating income 515,040 476,574 390,728
+Interest income 12,796 11,419 6,962
+Interest expense (3,461 ) (59 ) (86 )
+Other expense, net (1,792 ) (849 ) (1,910 )
+Income before income tax provision 522,583 487,085 395,694
+Income tax provision 71,288 67,710 136,443
+Net income $ 451,295 $ 419,375 $ 259,251
+
+Effective 3 to the consolidated financial statements included in Part IV, Item 15 of this Annual Report on Form 10-K.
+
+32
+
+Table of Contents
+
+Year Ended December 31, 2019 Compared to Year Ended December 31, 2018
+Revenue:
+
+---------------------------------- ----------------------- --------- ------ ------- ------ --------- ------- - ------------------- ------- - ---- - ----
+
+ Year Ended December 31, Change
+(in thousands, except percentages) 2019 2018 Amount % Constant Currency %
+Revenue:
+Lease licenses $ 406,043 $ 275,619 $ 130,424 47.3 49.4
+Perpetual licenses 293,587 301,098 (7,511 ) (2.5 ) (1.1 )
+Software licenses 699,630 576,717 122,913 21.3 23.1
+Maintenance 760,574 676,883 83,691 12.4 14.3
+Service 55,688 40,036 15,652 39.1 41.5
+Maintenance and service 816,262 716,919 99,343 13.9 15.8
+Total revenue $ 1,515,892 $ 1,293,636 $ 222,256 17.2 19.0
+
+Our revenue in the year ended December 31, 2019 increased 17.2% as compared to the year ended December 31, 2018, or 19.0% in constant currency. The growth rate was favorably impacted increased 47.3%, or 49.4% in constant currency, as compared to the year ended December 31, 2018, driven primarily by an increase in multi-year lease contracts. Annual maintenance contracts that were sold adoption, increased 39.1%, or 41.5% in constant currency, as compared to the year ended December 31, 2018. Perpetual license revenue, which is derived primarily from new sales during the year ended December 31, 2019, decreased 2.5%, or 1.1% in constant currency, as compared to the year ended December 31, 2018.
+We continue to experience increased interest by some of our larger customers in enterprise agreements perpetual, we are also experiencing a shifting preference from perpetual licenses to time-based licenses across a broader spectrum of our customers.
+With respect to revenue, on average for the year ended December 31, 2019, the U.S. Dollar was approximately 3.3% stronger, when measured against our primary foreign currencies, than for the year ended December 31, 2018. The table below presents the impacts of currency fluctuations on revenue for the year ended December 31, 2019. Amounts in brackets indicate an adverse impact from currency fluctuations.
+
+---------------- ---------------------------- ------- -
+
+(in thousands) Year Ended December 31, 2019
+Euro $ (17,361 )
+South Korean Won (5,097 )
+British Pound (1,881 )
+Japanese Yen 1,791
+Other (1,460 )
+Total $ (24,008 )
+
+The net overall stronger U.S. Dollar also resulted in decreased operating income of $10.2 million for the year ended December 31, 2019 as compared to the year ended December 31, 2018.
+
+33
+
+Table of Contents
+
+As a percentage of revenue, our international and domestic revenues, and our direct and indirect revenues, were as follows:
+
+------------- ----------------------- - ---- ---- -
+
+ Year Ended December 31,
+ 2019 2018
+International 57.9 % 60.9 %
+Domestic 42.1 % 39.1 %
+
+Direct 77.1 % 77.6 %
+Indirect 22.9 % 22.4 %
+
+In valuing deferred revenue on the balance sheets of our recent acquisitions as of their respective acquisition dates, we applied the years ended December 31, 2019 and 2018, respectively. The expected impacts on reported revenue are $3.9 million and $8.0 million for the quarter ending March 31, 2020 and the year ending December 31, 2020, respectively.
+Cost of Sales and Operating Expenses:
+The tables below reflect our operating results as presented on the consolidated statements of income, which are inclusive of foreign currency translation is discussed separately, where material. The 2019 and 2018 acquisitions contributed $54.7 million to the overall increase in cost of sales and operating expenses with the most significant contributions from the OPTIS (May 2, 2018) and Granta Design (February 1, 2019) acquisitions of $17.3 million and $18.9 million, respectively.
+
+---------------------------------- ----------------------- --------- ----------- ------ ------ ------- ----------- --------- ------ ------ - - ------- - ----
+
+ Year Ended December 31,
+ 2019 2018 Change
+(in thousands, except percentages) Amount % ofRevenue Amount % ofRevenue Amount %
+Cost of sales:
+Software licenses $ 23,944 1.6 $ 18,619 1.4 $ 5,325 28.6
+Amortization 21,710 1.4 27,034 2.1 (5,324 ) (19.7 )
+Maintenance and service 120,619 8.0 110,232 8.5 10,387 9.4
+Total cost of sales 166,273 11.0 155,885 12.1 10,388 6.7
+Gross profit $ 1,349,619 89.0 $ 1,137,751 87.9 $ 211,868 18.6
+
+Software Licenses: The increase in the cost of software licenses was primarily due to increased third-party royalties of $5.6 million.
+Amortization: The net decrease in amortization expense was primarily due to a decrease in the amortization of trade names and acquired technology due to assets that became fully amortized, which was partially offset by the amortization of newly acquired intangible assets.
+Maintenance and Service: The net increase in maintenance and service costs was primarily due to the following:
+
+- -----------------------------------
+• Increased salaries of $4.0 million.
+
+- ---------------------------------------------------
+• Increased stock-based compensation of $3.3 million.
+
+- -------------------------------------------
+• Increased consulting costs of $1.7 million.
+
+- --------------------------------------------------------------------
+• Increased IT maintenance and software hosting costs of $1.3 million.
+
+- ------------------------------------------------------------------------------------------------------
+• Decreased costs related to foreign exchange translation of $2.0 million due to a stronger U.S. Dollar.
+
+The improvement in gross profit was a result of the increase in revenue, partially offset by the increase in the related cost of sales.
+
+34
+
+Table of Contents
+
+----------------------------------- ----------------------- ------- ----------- ------ ------ ------- ----------- ------- ------ ------ - ------- ----
+
+ Year Ended December 31,
+ 2019 2018 Change
+(in thousands, except percentages) Amount % ofRevenue Amount % ofRevenue Amount %
+Operating expenses:
+Selling, general and administrative $ 521,200 34.4 $ 413,580 32.0 $ 107,620 26.0
+Research and development 298,210 19.7 233,802 18.1 64,408 27.5
+Amortization 15,169 1.0 13,795 1.1 1,374 10.0
+Total operating expenses $ 834,579 55.1 $ 661,177 51.1 $ 173,402 26.2
+
+Selling, General and Administrative: The net increase in selling, general and administrative costs was primarily due to the following:
+
+- ----------------------------------------------------------------------------------------------
+• Increased salaries, incentive compensation and other headcount-related costs of $63.7 million.
+
+- ----------------------------------------------------
+• Increased stock-based compensation of $13.5 million.
+
+- ------------------------------------------
+• Increased business travel of $6.5 million.
+
+- ---------------------------------------------
+• Increased marketing expenses of $5.4 million.
+
+- --------------------------------------------
+• Increased professional fees of $4.5 million.
+
+- -------------------------------------------
+• Increased consulting costs of $4.2 million.
+
+- ------------------------------------------------------------------------------------------------------
+• Decreased costs related to foreign exchange translation of $7.1 million due to a stronger U.S. Dollar.
+
+We anticipate that we will continue to make targeted investments in our global sales and marketing organizations and our global business infrastructure to enhance and support our revenue-generating activities.
+Research and Development: The increase in research and development costs was primarily due to the following:
+
+- ----------------------------------------------------------------------------------------------
+• Increased salaries, incentive compensation and other headcount-related costs of $41.1 million.
+
+- ----------------------------------------------------
+• Increased stock-based compensation of $16.0 million.
+
+We have traditionally invested significant resources in research and development activities and intend to continue to make investments in expanding the ease of use and capabilities of our broad portfolio of simulation software products.
+Interest Income: Interest income for the year ended December 31, 2019 was $12.8 million as compared to $11.4 million for the year ended December 31, 2018. Interest income increased as a result of an increase in the average rate of return on invested cash balances.
+Interest Expense: Interest expense for the year ended December 31, 2019 was $3.5 million as compared to $0.1 million for the year ended December 31, 2018. Interest expense increased as a result of the interest incurred on debt financing obtained in fiscal year 2019.
+Other Expense, net: Our other expense consisted of the following:
+
+---------------------------- ----------------------- ------ ---- ----- - ------ -
+
+ Year Ended December 31,
+(in thousands) 2019 2018
+Foreign currency losses, net $ (2,510 ) $ (3,058 )
+Investment gains, net 333 2,204
+Other 385 5
+Total other expense, net $ (1,792 ) $ (849 )
+
+35
+
+Table of Contents
+
+Income Tax Provision: Our income before income tax provision, income tax provision and effective tax rate were as follows:
+
+---------------------------------- ----------------------- ------- ---- ---- - -------
+
+ Year Ended December 31,
+(in thousands, except percentages) 2019 2018
+Income before income tax provision $ 522,583 $ 487,085
+Income tax provision $ 71,288 $ 67,710
+Effective tax rate 13.6 % 13.9 %
+
+The decrease in the effective tax rate from the prior year was primarily due to $6.7 million of benefit related to the release of valuation allowance in a foreign jurisdiction and not recur in 2019.
+When compared to the federal and state combined statutory rate for each respective period, the effective tax rates for the years ended December 31, 2019 and 2018 were favorably impacted by tax benefits from stock-based compensation, the foreign-derived intangible income deduction, and research and development credits.
+Net Income: Our net income, diluted earnings per share and weighted average shares used in computing diluted earnings per share were as follows:
+
+--------------------------------------------- ----------------------- ------- ---- ------ - -------
+
+ Year Ended December 31,
+(in thousands, except per share data) 2019 2018
+Net income $ 451,295 $ 419,375
+Diluted earnings per share $ 5.25 $ 4.88
+Weighted average shares outstanding - diluted 85,925 85,913
+
+36
+
+Table of Contents
+
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017
+Revenue:
+
+---------------------------------- ----------------------- --------- ------------- ------- ------ --------- ------- - ------------------- -------- - ----- - ----- -
+
+ Year Ended December 31, Change
+(in thousands, except percentages) 2018(ASC 606) 2017(ASC 605) Amount % Constant Currency %
+Revenue:
+Lease licenses $ 275,619 $ 376,886 $ (101,267 ) (26.9 ) (27.4 )
+Perpetual licenses 301,098 248,078 53,020 21.4 20.2
+Software licenses 576,717 624,964 (48,247 ) (7.7 ) (8.5 )
+Maintenance 676,883 440,428 236,455 53.7 51.6
+Service 40,036 29,858 10,178 34.1 33.1
+Maintenance and service 716,919 470,286 246,633 52.4 50.4
+Total revenue $ 1,293,636 $ 1,095,250 $ 198,386 18.1 16.8
+
+The adoption of ASC 606 significantly impacted the timing, allocation and presentation of lease license, perpetual license and maintenance revenue. For further information about this adoption, see Note 3 to the consolidated financial statements included in Part IV, Item 15 of this Annual Report on Form 10-K.
+For purposes of comparability, the changes in the following table and the related discussion that follows are presented in accordance with ASC 605.
+
+---------------------------------- ----------------------- --------- ------------- ------- ------ --------- ------ ------------------- ------- ---- ---- ----
+
+ Year Ended December 31, Change
+(in thousands, except percentages) 2018(ASC 605) 2017(ASC 605) Amount % Constant Currency %
+Revenue:
+Lease licenses $ 421,268 $ 376,886 $ 44,382 11.8 10.7
+Perpetual licenses 255,578 248,078 7,500 3.0 2.0
+Software licenses 676,846 624,964 51,882 8.3 7.2
+Maintenance 499,510 440,428 59,082 13.4 11.6
+Service 40,113 29,858 10,255 34.3 33.4
+Maintenance and service 539,623 470,286 69,337 14.7 13.0
+Total revenue $ 1,216,469 $ 1,095,250 $ 121,219 11.1 9.7
+
+Our ASC 605 revenue in the year ended December 31, 2018 increased 11.1% as compared to the year ended December 31, 2017, while revenue grew 9.7% in constant currency. The growth rate was favorably impacted by our continued investments in our global sales, support and marketing organizations; continued progress with market segmentation and go-to-market adjustments; and the May 2018 acquisition of OPTIS. Lease license revenue increased 11.8%, or 10.7% in constant currency, as compared to the year ended December 31, 2017. Perpetual license revenue, which is derived primarily from new sales during the year, increased 3.0%, or 2.0% in constant currency, as compared to the year ended December 31, 2017. Annual maintenance contracts that were sold with new perpetual licenses, along with maintenance contracts provide on-site mentorship on simulation best practices, training and expanding simulation adoption, increased 34.3%, or 33.4% in constant currency, as compared to the year ended December 31, 2017.
+
+37
+
+Table of Contents
+
+With respect to revenue, on average for the year ended December 31, 2018, the U.S. Dollar was approximately 2.3% weaker and 2.6% weaker, when measured against our primary foreign currencies, than for the year ended December 31, 2017 under ASC 606 and ASC 605, respectively. The table below presents the impacts of currency fluctuations on revenue for the year ended December 31, 2018. Amounts in brackets indicate a net adverse impact from currency fluctuations.
+
+---------------- ---------------------------- ------ ------- ------ - ------
+
+ Year Ended December 31, 2018
+(in thousands) ASC 606 ASC 605
+Euro $ 12,498 $ 11,915
+Japanese Yen 2,088 2,075
+South Korean Won 918 1,182
+British Pound 870 1,083
+Indian Rupee (1,623 ) (1,372 )
+Other (129 ) (36 )
+Total $ 14,622 $ 14,847
+
+The net overall weaker U.S. Dollar also resulted in increased operating income of $9.6 million and $10.3 million for the year ended December 31, 2018 as compared to the year ended December 31, 2017 under ASC 606 and ASC 605, respectively.
+As a percentage of revenue, our international and domestic revenues, and our direct and indirect revenues, were as follows:
+
+------------- ----------------------- - ------------- ---- ------------- ---- -
+
+ Year Ended December 31,
+ 2018(ASC 606) 2018(ASC 605) 2017(ASC 605)
+International 60.9 % 60.5 % 61.9 %
+Domestic 39.1 % 39.5 % 38.1 %
+
+Direct 77.6 % 76.5 % 75.2 %
+Indirect 22.4 % 23.5 % 24.8 %
+
+In valuing deferred revenue on the balance sheets of our recent acquisitions as of their respective acquisition dates, we applied the fair value provisions applicable to the accounting for business combinations, resulting in a reduction of deferred revenue as compared to the historical carrying amount. As a result, our post-acquisition revenue will be less than the sum of what would have otherwise been reported by us and each acquiree absent the acquisitions. Under ASC 606, the impact on reported revenue was $9.4 million for the year ended December 31, 2018. Under ASC 605, the impacts on reported revenue were $15.6 million and $2.9 million for the years ended December 31, 2018 and 2017, respectively.
+
+38
+
+Table of Contents
+
+Cost of Sales and Operating Expenses:
+The tables below reflect our operating results as from software licenses to maintenance and service. Amounts included in the discussion that follows are provided in constant currency and do not include the impact of the OPTIS acquisition. The impact inclusive of the OPTIS acquisition.
+
+---------------------------------- ----------------------- --------- ----------- ------ ------ ------- ----------- ------- ------ ------ - - ------- - ----- -
+
+ Year Ended December 31,
+ 2018 2017 Change
+(in thousands, except percentages) Amount % ofRevenue Amount % ofRevenue Amount %
+Cost of sales:
+Software licenses $ 18,619 1.4 $ 34,421 3.1 $ (15,802 ) (45.9 )
+Amortization 27,034 2.1 36,794 3.4 (9,760 ) (26.5 )
+Maintenance and service 110,232 8.5 78,949 7.2 31,283 39.6
+Total cost of sales 155,885 12.1 150,164 13.7 5,721 3.8
+Gross profit $ 1,137,751 87.9 $ 945,086 86.3 $ 192,665 20.4
+
+Software Licenses: The net decrease in the cost of software licenses was primarily due to the following:
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Reclassification of $18.2 million of cost of sales, previously reflected within software licenses, to maintenance and service due to the adoption of ASC 606 in 2018.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------
+• OPTIS-related software license expenses of $1.6 million for the period from the acquisition date (May 2, 2018) through December 31, 2018.
+
+Amortization: The decrease in amortization expense was primarily due to a net decrease in the amortization of trade names and acquired technology due to assets that became fully amortized.
+Maintenance and Service: The increase in maintenance and service costs was primarily due to the following:
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Reclassification of $18.2 million of cost of sales, previously reflected within software licenses, to maintenance and service due to the adoption of ASC 606 in 2018.
+
+- --------------------------------------------------------
+• Increased third-party technical support of $5.5 million.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------
+• OPTIS-related maintenance and service expenses of $2.8 million for the period from the acquisition date (May 2, 2018) through December 31, 2018.
+
+- -----------------------------------
+• Increased salaries of $2.1 million.
+
+The improvement in gross profit was a result of the increase in revenue, partially offset by the increase in the related cost of sales.
+
+39
+
+Table of Contents
+
+----------------------------------- ----------------------- ------- ----------- ------ ------ ------- ----------- ------- ------ ------ - ------- ----
+
+ Year Ended December 31,
+ 2018 2017 Change
+(in thousands, except percentages) Amount % ofRevenue Amount % ofRevenue Amount %
+Operating expenses:
+Selling, general and administrative $ 413,580 32.0 $ 338,640 30.9 $ 74,940 22.1
+Research and development 233,802 18.1 202,746 18.5 31,056 15.3
+Amortization 13,795 1.1 12,972 1.2 823 6.3
+Total operating expenses $ 661,177 51.1 $ 554,358 50.6 $ 106,819 19.3
+
+Selling, General and Administrative: The net increase in selling, general and administrative costs was primarily due to the following:
+
+- ----------------------------------------------------------------------------------------------
+• Increased salaries, incentive compensation and other headcount-related costs of $35.2 million.
+
+- ----------------------------------------------------
+• Increased stock-based compensation of $15.3 million.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------
+• OPTIS-related selling, general and administrative expenses of $13.8 million for the period from the acquisition date (May 2, 2018) through December 31, 2018.
+
+- ------------------------------------------
+• Increased business travel of $3.9 million.
+
+- ---------------------------------------------
+• Increased severance expenses of $3.7 million.
+
+- -------------------------------------------
+• Decreased consulting costs of $7.1 million.
+
+Research and Development: The net increase in research and development costs was primarily due to the following:
+
+- ----------------------------------------------------------------------------------------------
+• Increased salaries, incentive compensation and other headcount-related costs of $15.2 million.
+
+- ----------------------------------------------------
+• Increased stock-based compensation of $11.6 million.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------
+• OPTIS-related research and development expenses of $5.9 million for the period from the acquisition date (May 2, 2018) through December 31, 2018.
+
+- --------------------------------------------------------------------
+• Increased IT maintenance and software hosting costs of $1.5 million.
+
+- ------------------------------------------------------------------------------------------------------------------
+• Restructuring costs of $6.8 million related to 2017 workforce realignment activities that did not reoccur in 2018.
+
+Interest Income: Interest income for the year ended December 31, 2018 was $11.4 million as compared to $7.0 million for the year ended December 31, 2017. Interest income increased as a result of an increase in the average rate of return on invested cash balances.
+Other Expense, net: Our other expense, net consists of the following:
+
+---------------------------- ----------------------- ------ ---- -- - ------ -
+
+ Year Ended December 31,
+(in thousands) 2018 2017
+Foreign currency losses, net $ (3,058 ) $ (1,935 )
+Investment gains, net 2,204 24
+Other 5 1
+Total other expense, net $ (849 ) $ (1,910 )
+
+Income Tax Provision: Our income before income tax provision, income tax provision and effective tax rate were as follows:
+
+---------------------------------- ----------------------- ------- ------------- ---- ------------- ------- ---- - - -------
+
+ Year Ended December 31,
+(in thousands, except percentages) 2018(ASC 606) 2018(ASC 605) 2017(ASC 605)
+Income before income tax provision $ 487,085 $ 409,918 $ 395,694
+Income tax provision $ 67,710 $ 53,067 $ 136,443
+Effective tax rate 13.9 % 12.9 % 34.5 %
+
+40
+
+Table of Contents
+
+On December 22, 2017, the U.S. government enacted comprehensive the foreign-derived intangible income deduction; (7) creating the base erosion anti-abuse tax, a new minimum tax; (8) allowing for full expensing of qualified property through bonus depreciation; and (9) creating limitations on the deductibility of certain executive compensation.
+The SEC staff issued Staff Accounting Bulletin (SAB) 118, which provides guidance on accounting for the tax effects of the enactment of Tax Reform.
+As further discussed below, we finalized our provisional Tax Reform calculations as of the end of the measurement period, based on guidance and information available as of in which guidance is finalized.
+Our accounting for the impact of the reduction in the U.S. federal corporate tax rate on our deferred tax assets and liabilities is complete. Tax Reform reduced the corporate tax assets and liabilities. No further adjustments were recorded for the year ended December 31, 2018.
+Our accounting for the transition tax is complete. Reasonable estimates of certain effects were calculated amount of post-1986 earnings and profits (E&P) of the relevant subsidiaries, as well as the amount of non-U.S. income taxes paid on such earnings. Based on revised E&P calculations updated during the expense.
+Our accounting for the indefinite reinvestment assertion is complete. In general, it is our intention to permanently reinvest all earnings in excess of previously taxed amounts. As part of Tax Reform, substantially all of the previous earnings of our non-U.S. subsidiaries were taxed through the transition tax and current earnings are taxed as part of GILTI tax expense. These taxes increased million of foreign cash. We did not make any adjustments related to our indefinite reinvestment assertion during the year ended December 31, 2018.
+Our accounting policy choice for GILTI is complete. Under the financial statements for the year ended December 31, 2018.
+The decrease in the effective tax rate from the prior year was primarily due to the reduction in the U.S. federal corporate tax rate from offset by the loss of the domestic manufacturing deduction, which was repealed as part of Tax Reform.
+When compared to the federal and state combined statutory rate, the effective tax rates for the years ended December 31, 2018 and 2017 were favorably impacted by tax benefits from stock-based compensation and research and development credits.
+
+41
+
+Table of Contents
+
+Net Income: Our net income, diluted earnings per share and weighted average shares used in computing diluted earnings per share were as follows:
+
+--------------------------------------------- ----------------------- ------- ------------- ------ ------------- ------- ------ - -------
+
+ Year Ended December 31,
+(in thousands, except per share data) 2018(ASC 606) 2018(ASC 605) 2017(ASC 605)
+Net income $ 419,375 $ 356,851 $ 259,251
+Diluted earnings per share $ 4.88 $ 4.15 $ 2.98
+Weighted average shares outstanding - diluted 85,913 85,913 86,854
+
+42
+
+Table of Contents
+
+Non-GAAP Results
+We provide non-GAAP revenue, non-GAAP operating income, non-GAAP operating profit below.
+
+----------------------------------------------------- ----------------------- --------- ----------- ------- --------------- ------- ------------ ---- ----------- --------- --------------- ---- ------- --------- --- ------- - ------ --- - ---------
+
+ ASC 606
+ Year Ended December 31,
+ 2019 2018
+(in thousands, except percentages and per share data) GAAP Results Adjustments Non-GAAPResults GAAP Results Adjustments Non-GAAPResults
+Total revenue $ 1,515,892 $ 12,514 (1) $ 1,528,406 $ 1,293,636 $ 9,442 (4) $ 1,303,078
+Operating income 515,040 177,093 (2) 692,133 476,574 141,442 (5) 618,016
+Operating profit margin 34.0 % 45.3 % 36.8 % 47.4 %
+Net income $ 451,295 $ 113,702 (3) $ 564,997 $ 419,375 $ 94,510 (6) $ 513,885
+Earnings per share – diluted:
+Earnings per share $ 5.25 $ 6.58 $ 4.88 $ 5.98
+Weighted average shares 85,925 85,925 85,913 85,913
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Amount represents the revenue not reported during the period as a result of the acquisition accounting adjustment associated with the accounting for deferred revenue in business combinations.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ assets acquired in business combinations, $6.6 million of transaction expenses related to business combinations and the $12.5 million adjustment to revenue as reflected in (1) above.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ associated with the Tax Cuts and Jobs Act of $1.8 million, and rabbi trust income of $0.4 million.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Amount represents the revenue not reported during the period as a result of the acquisition accounting adjustment associated with the accounting for deferred revenue in business combinations.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ assets acquired in business combinations, $3.5 million of transaction expenses related to business combinations and the $9.4 million adjustment to revenue as reflected in (4) above.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ related to the Tax Cuts and Jobs Act of $0.9 million and rabbi trust expense of $0.1 million.
+
+43
+
+Table of Contents
+
+----------------------------------------------------- ----------------------- --------- ----------- ------- --------------- ------ ------------ ---- ----------- --------- --------------- ---- ------- --------- --- ------- - ------ --- - ---------
+
+ ASC 605
+ Year Ended December 31,
+ 2018 2017
+(in thousands, except percentages and per share data) GAAP Results Adjustments Non-GAAPResults GAAP Results Adjustments Non-GAAPResults
+Total revenue $ 1,216,469 $ 15,583 (1) $ 1,232,052 $ 1,095,250 $ 2,856 (4) $ 1,098,106
+Operating income 399,407 147,583 (2) 546,990 390,728 118,567 (5) 509,295
+Operating profit margin 32.8 % 44.4 % 35.7 % 46.4 %
+Net income $ 356,851 $ 98,832 (3) $ 455,683 $ 259,251 $ 88,663 (6) $ 347,914
+Earnings per share – diluted:
+Earnings per share $ 4.15 $ 5.30 $ 2.98 $ 4.01
+Weighted average shares 85,913 85,913 86,854 86,854
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Amount represents the revenue not reported during the period as a result of the acquisition accounting adjustment associated with the accounting for deferred revenue in business combinations.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ assets acquired in business combinations, $3.5 million of transaction expenses related to business combinations and the $15.6 million adjustment to revenue as reflected in (1) above.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ related to the Tax Cuts and Jobs Act of $0.9 million and rabbi trust expense of $0.1 million.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Amount represents the revenue not reported during the period as a result of the acquisition accounting adjustment associated with the accounting for deferred revenue in business combinations.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ charges, $1.1 million of transaction expenses related to business combinations and the $2.9 million adjustment to revenue as reflected in (4) above.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Jobs Act, and rabbi trust income of $0.1 million, and increased for total net impacts of the Tax Cuts and Jobs Act of $22.7 million.
+
+Non-GAAP Measures
+We use non-GAAP financial measures (a) to evaluate our historical and prospective financial performance as well as our performance relative to our competitors, (b) to set internal sales targets and spending budgets, (c) to allocate resources, (d) to measure operational profitability and the accuracy of forecasting, (e) to assess financial discipline over operational expenditures and (f) as an important factor in determining variable compensation for management reported, these non-GAAP financial measures as a means of providing consistent and comparable information with past reports of financial results.
+While we believe that these non-GAAP financial measures comparable GAAP financial measures.
+
+44
+
+Table of Contents
+
+The adjustments to these non-GAAP financial measures, and the basis for such adjustments, are outlined below:
+Acquisition accounting for deferred revenue and its related tax impact. Historically, we have consummated acquisitions in order to support our strategic and other business objectives. In accordance with the fair value provisions applicable accounting requirement has no impact on our business or cash flow, it adversely impacts our reported GAAP revenue in the reporting periods following an acquisition. In order to provide investors with that this non-GAAP financial adjustment is useful to investors because it allows investors to (a) evaluate the effectiveness of the methodology and information used by us in our financial and operational decision-making, and (b) compare our past and future reports of financial results as the revenue reduction related to acquired deferred revenue will not recur when related annual lease licenses and software maintenance contracts are renewed in future periods.
+Amortization of intangible assets from acquisitions and its related tax impact. We incur amortization of intangible assets, included in our GAAP presentation are useful to investors because they allow investors to (a) evaluate the effectiveness of the methodology and information used by us in our financial and operational decision-making, and (b) compare our past reports of financial results as we have historically reported these non-GAAP financial measures.
+Stock-based compensation expense and its related tax impact. We incur expense related to stock-based rabbi trust includes an offsetting benefit (charge) recorded in other income (expense). Although stock-based compensation is an expense and viewed as a form of compensation, we exclude these expenses We similarly exclude income (expense) related to assets held in a rabbi trust in connection with our deferred compensation plan. Specifically, we exclude stock-based compensation and income (expense) center for which no single operational manager is responsible or accountable. In this way, we can review, on a period-to-period basis, each manager']:
+(5) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. Strategy For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2020, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * The further optimization of our customer mix and fleet mix, with a dual objective: to enhance our performance in serving our current customer base, and to focus on the accounts and customer types that are best suited to our strategy for profitable growth. We believe these efforts will lead to even better service of our target accounts, primarily large construction and industrial customers, as well as select l...
+
+[see the section titled "Non-GAAP Results"]:
+We provide non-GAAP revenue, non-GAAP operating income, non-GAAP operating profit margin, non-GAAP net income and non-GAAP diluted earnings per share as supplemental measures to GAAP regarding our operational performance. These financial measures exclude the impact of certain items and, therefore, have not been calculated in accordance with GAAP. A detailed explanation and a reconciliation of each non-GAAP financial measure to our most comparable GAAP financial measure are described below. ----------------------------------------------------- ----------------------- --------- ----------- ------- --------------- ------- ------------ ---- ----------- --------- --------------- ---- ------- --------- --- ------- - ------ --- - --------- ASC 606 Year Ended December 31, 2019 2018 (in thousands, except percentages and per share data) GAAP Results Adjustments Non-GAAPResults GAAP Results Adjustments Non-GAAPResults Total revenue $ 1,515,892 $ 12,514 (1) $ 1,528,406 $ 1,293,636 $ 9,442 (4) $ 1,303,078 Operating income 515,040 177,093 (2) 692,133 476,574 141,442 (5) 618,016 Operating profit margin 34.0 % 45.3 % 36.8 % 47.4 % Net income $ 451,295 $ 113,702 (3) $ 564,997 $ 419,375 $ 94,510 (6) $ 513,885 Earnings per share - diluted: Earnings per share $ 5.25 $ 6.58 $ 4.88 $ 5.98 Weighted average shares 85,925 85,925 85,913 85,913
+
+[the section titled "Non-GAAP Results"]:
+We provide non-GAAP revenue, non-GAAP operating income, non-GAAP operating profit margin, non-GAAP net income and non-GAAP diluted earnings per share as supplemental measures to GAAP regarding our operational performance. These financial measures exclude the impact of certain items and, therefore, have not been calculated in accordance with GAAP. A detailed explanation and a reconciliation of each non-GAAP financial measure to our most comparable GAAP financial measure are described below. ----------------------------------------------------- ----------------------- --------- ----------- ------- --------------- ------- ------------ ---- ----------- --------- --------------- ---- margin 34.0 % 45.3 % 36.8 % 47.4 % Net income $ 451,295 $ 113,702 (3) $ 564,997 $ 419,375 $ 94,510 (6) $ 513,885 Earnings per share - diluted: Earnings per share $ 5.25 $ 6.58 $ 4.88 $ 5.98 Weighted average shares 85,925 85,925 85,913 85,913

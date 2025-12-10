@@ -1,0 +1,295 @@
+================================================================================
+CIK: 0001014473
+Company Name: VERISIGN INC/CA
+Filing Date: 2020-02-14
+Form Type: 10-K
+Extraction Date: 2025-08-31 12:27:14
+================================================================================
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+FORWARD-LOOKING STATEMENTS
+
+This Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act. These forward-looking statements involve risks and uncertainties, including, among other things, statements regarding our anticipated costs and expenses and revenue mix. Forward-looking statements include, among others, those statements including the words “expects,” “anticipates,” “intends,” “believes” and similar language. Our actual results may differ significantly from those projected in the forward-looking statements. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in the section titled “Risk Factors” in Part I, Item 1A of this Form 10-K. You are cautioned not to place undue reliance on the forward-looking statements, which speak only as of the date of this Form 10-K. We undertake no obligation to publicly release any revisions to the forward-looking statements or reflect events or circumstances after the date of this document.
+This section of this Form 10-K generally discusses 2019 and 2018 items and year-to-year comparisons between 2019 and  2018. Discussions of 2017 items and year-to-year comparisons between 2018 and 2017 that are not included in this Form 10-K can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2018.
+
+Overview
+We are a global provider of domain name registry services and internet infrastructure, enabling internet navigation for many of the world’s most recognized domain names. We enable the security, stability, and resiliency of key internet infrastructure and services, including providing root zone maintainer services, operating two of the 13 global internet root servers, and providing registration services and authoritative resolution for the .com and .net top-level domains, which support the majority of global e-commerce.
+As of December 31, 2019, we had approximately 158.8 million .com and .net registrations in the domain name base. The number of domain names registered is largely driven by continued growth in online advertising, e-commerce, and the number of internet users, which is partially driven by greater availability of internet access, as well as marketing activities carried out by us and our registrars. Growth in the number of domain name registrations under our management may be hindered by certain factors, including overall economic conditions, competition from ccTLDs, the introduction of new gTLDs, and ongoing changes in the internet practices and behaviors of consumers and businesses. Factors such as the evolving practices and preferences of internet users, and how they navigate the internet, as well as the motivation of domain name registrants and how they will manage their investment in domain names, can negatively impact our business and the demand for new domain name registrations and renewals.
+2019 Business Highlights and Trends
+
+- ------------------------------------------------------------------------------------------------------
+• We recorded revenues of $1,231.7 million in 2019, which represents an increase of 1% compared to 2018.
+
+- -------------------------------------------------------------------------------------------------------------------
+• We recorded operating income of $806.1 million during 2019, which represents an increase of 5% as compared to 2018.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------
+• We finished 2019 with 158.8 million .com and .net registrations in the domain name base, which represents a 4% increase from December 31, 2018.
+
+- ------------------------------------------------------------------------------------------------------------------------
+• During 2019, we processed 40.3 million new domain name registrations for .com and .net compared to 38.2 million in 2018.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The final .com and .net renewal rate for the third quarter of 2019 was 73.7% compared with 74.8% for the same quarter in 2018. Renewal rates are not fully measurable until 45 days after the end of the quarter.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We repurchased 3.9 million shares of our common stock for an aggregate cost of $738.5 million in 2019. As of December 31, 2019, there was $327.5 million remaining for future share repurchases under the share repurchase program.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Effective February 6, 2020, our Board authorized the repurchase of our common stock in the amount of $743.0 million, in addition to the $257.0 million that remained available for repurchases under the share repurchase program, for a total repurchase authorization of up to $1.0 billion under the program.
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+• We generated cash flows from operating activities of $753.9 million in 2019, which represents an increase of 8% as compared to 2018.
+
+26
+
+Critical Accounting Policies and Significant Management Estimates
+The discussion and analysis of our financial condition and results of operations are based upon our Consolidated Financial Statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities. On an ongoing basis, management evaluates those estimates. Management bases its estimates on historical experience and on various assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily available from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+ An accounting estimate is considered critical if the nature of the estimates or assumptions is material due to the levels of subjectivity and judgment involved, and the impact of changes in the estimates and assumptions would have a material effect on the consolidated financial statements. We believe the following critical accounting estimates and policies have the most significant impact on our consolidated financial statements:
+ Income taxes
+Our operations involve dealing with uncertainties and judgments in the application of complex tax regulations in multiple jurisdictions. The final taxes payable are dependent upon many factors, including negotiations with taxing authorities in various jurisdictions and resolution of disputes arising from U.S. federal, state, and international tax audits. We only recognize or continue to only recognize tax positions that are more likely than not to be sustained upon examination. We adjust these amounts in light of changing facts and circumstances; however, due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the tax liabilities.
+
+Results of Operations
+The following table presents information regarding our results of operations as a percentage of revenues:
+
+-------------------------- ----------------------- - ---- ----- ---- ----- -
+
+ Year Ended December 31,
+ 2019 2018 2017
+Revenues 100.0 % 100.0 % 100.0 %
+Costs and expenses:
+Cost of revenues 14.6 15.8 16.6
+Sales and marketing 3.8 5.3 7.0
+Research and development 4.9 4.8 4.5
+General and administrative 11.2 10.9 11.2
+Total costs and expenses 34.5 36.8 39.3
+Operating income 65.5 63.2 60.7
+Interest expense (7.4 ) (9.5 ) (11.7 )
+Non-operating income, net 3.5 6.3 2.4
+Income before income taxes 61.6 60.0 51.4
+Income tax expense (11.9 ) (12.1 ) (12.2 )
+Net income 49.7 % 47.9 % 39.2 %
+
+Revenues
+Our revenues are primarily derived from registrations for domain names in the .com and .net domain name registries. We also derive revenues from operating domain name registries for several other TLDs and from providing back-end registry services to a number of TLD registry operators, all of which are not significant in relation to our consolidated revenues. For domain names registered with the .com and .net registries we receive a fee from registrars per annual registration that is fixed pursuant to our agreements with ICANN. Individual customers, called registrants, contract directly with registrars or their resellers, and the registrars in turn register the domain names with Verisign. Changes in revenues are driven largely by changes in the number of new domain name registrations and the renewal rate for existing registrations as well as the impact of new and prior price increases, to the extent permitted by ICANN and the DOC. New registrations and the renewal rate for existing registrations are impacted by continued growth in online advertising, e-commerce, and the number of internet users, as well as marketing activities carried out by us and our registrars. The annual fee for a .com domain name registration has been fixed at
+
+27
+
+$7.85 since 2012. On October 26, 2018, we entered into an agreement with the DOC to amend the Cooperative Agreement. The amendment extends the term of the Cooperative Agreement until November 30, 2024 and permits the price of a .com domain name to be increased without further DOC approval by up to 7% in each of the final four years of each six-year period beginning on October 26, 2018. We increased the annual fee for a .net domain name registration from $8.20 to $9.02 on February 1, 2018. We have the contractual right to increase the fees for .net domain name registrations by up to 10% each year during the term of our agreement with ICANN, through June 30, 2023. We offer promotional marketing programs for our registrars based upon market conditions and the business environment in which the registrars operate. All fees paid to us for .com and .net registrations are in U.S. dollars.
+A comparison of revenues is presented below:
+
+-------- ----------------------- ---------------------- --------- ------- ---- - ------- - --------- - - - ---------
+
+ Year Ended December 31,
+ 2019 %Change 2018 %Change 2017
+ (Dollars in thousands)
+Revenues $ 1,231,661 1 % $ 1,214,969 4 % $ 1,165,095
+
+The following table compares the .com and .net domain name registrations in the domain name base:
+
+--------------------------------------------------------------- ------------------ ------------- ------- - ---- ------------- ------- - ---- -------------
+
+ As of December 31,
+ 2019 %Change 2018 %Change 2017
+.com and .net domain name registrations in the domain name base 158.8 million 4 % 153.0 million 4 % 146.4 million
+
+Growth in the domain name base has been primarily driven by continued internet growth and marketing activities carried out by us and our registrars. However, competitive pressure from ccTLDs, the introduction of new gTLDs, ongoing changes in internet practices and behaviors of consumers and business, as well as the motivation of existing domain name registrants managing their investment in domain names, and historical global economic uncertainty, has limited the rate of growth of the domain name base in recent years and may continue to do so in 2020 and beyond.
+Revenues increased by $16.7 million in 2019 compared to 2018, primarily due to an increase in revenues from the operation of the registries for the .com and .net TLDs, partially offset by the decrease in revenues from the security services business as customers terminated or consented to the assignment of their contracts to Neustar. The increase in revenues from the .com and .net TLDs was driven by a 5% increase in registrations in the domain name base for .com and the increase in the .net domain name registration fees in February 2018, partially offset by a 4% decline in registrations in the domain name base for .net.
+Geographic revenues
+We generate revenues in the U.S.; Europe, the Middle East and Africa (“EMEA”); China; and certain other countries, including Canada, Australia and Japan.  The following table presents a comparison of the Company’s geographic revenues:
+
+-------------- ----------------------- --------- ------- -- ---- - ------- - --------- -- -- - ------- - ---------
+
+ Year Ended December 31,
+ 2019 %Change 2018 %Change 2017
+ (Dollars in thousands)
+U.S $ 772,586 2 % $ 756,907 7 % $ 707,906
+EMEA 206,975 (3 )% 212,699 1 % 211,349
+China 119,291 12 % 106,841 — % 106,526
+Other 132,809 (4 )% 138,522 (1 )% 139,314
+Total revenues $ 1,231,661 1 % $ 1,214,969 4 % $ 1,165,095
+
+Revenues in the table above are attributed to the country of domicile and the respective regions in which our registrars are located, however, this may differ from the regions where the registrars operate or where registrants are located. Revenue growth for each region may be impacted by registrars reincorporating, relocating, or from acquisitions or changes in affiliations of resellers. Revenue growth for each region may also be impacted by registrars domiciled in one region, registering domain names in another region. The majority of our revenue growth in 2019 has come from increased sales to registrars based in the U.S. and China. Revenues in the U.S. and EMEA regions in particular, were impacted by the decrease in revenues from our security services business as customers terminated or consented to the assignment of their contracts to Neustar.
+
+28
+
+We expect revenues will continue to grow in 2020, as a result of the increased volume of domain registrations in 2019, and continued growth in registrations in the domain name base in 2020, partially offset by the elimination of revenue from the customers of our security services business that had not yet consented to the assignment of their contracts to Neustar.
+Cost of revenues
+Cost of revenues consist primarily of salaries and employee benefits expenses for our personnel who manage the operational systems, depreciation expenses, operational costs associated with the delivery of our services, fees paid to ICANN, customer support and training, consulting and development services, costs of facilities and computer equipment used in these activities, telecommunications expense and allocations of indirect costs such as corporate overhead.
+A comparison of cost of revenues is presented below:
+
+---------------- ----------------------- ------- ------- ---- -- ------- - ------- -- -- - -------
+
+ Year Ended December 31,
+ 2019 %Change 2018 %Change 2017
+ (Dollars in thousands)
+Cost of revenues $ 180,467 (6 )% $ 192,134 (1 )% $ 193,326
+
+Cost of revenues decreased by $11.7 million in 2019 compared to 2018 primarily due to decreases in salary and employee benefits expenses, telecommunications expenses, and depreciation expenses. Salary and benefits expenses decreased by $5.5 million due to a reduction in average headcount primarily related to employees supporting the divested security services business. Telecommunications expenses decreased by $5.1 million as a result of lower costs to support our operations. Depreciation expenses decreased by $2.0 million as a result of a decrease in capital expenditures in recent years.
+We expect cost of revenues as a percentage of revenues to remain consistent in 2020 as compared to 2019.
+Sales and marketing
+Sales and marketing expenses consist primarily of salaries, sales commissions, sales operations and other personnel-related expenses, travel and related expenses, trade shows, costs of lead generation, costs of computer and communications equipment and support services, facilities costs, consulting fees, costs of marketing programs, such as online, television, radio, print and direct mail advertising costs, and allocations of indirect costs such as corporate overhead.
+A comparison of sales and marketing expenses is presented below:
+
+------------------- ----------------------- ------ ------- ---- -- ------- - ------ --- -- - ------
+
+ Year Ended December 31,
+ 2019 %Change 2018 %Change 2017
+ (Dollars in thousands)
+Sales and marketing $ 46,637 (28 )% $ 64,891 (21 )% $ 81,951
+
+Sales and marketing expenses decreased by $18.3 million in 2019 compared to 2018 primarily due to decreases in salary and employee benefits expenses, advertising and marketing expenses, and allocated overhead expenses. Salary and employee benefits expenses decreased by $9.1 million due to a reduction in average headcount primarily affecting employees supporting the divested security services business. Advertising and marketing expenses decreased by $4.4 million as we executed fewer marketing activities and campaigns. Allocated overhead expenses decreased by $2.7 million primarily due to a decrease in average headcount relative to other cost types.
+We expect sales and marketing expenses as a percentage of revenues to remain consistent in 2020 as compared to 2019.
+Research and development
+Research and development expenses consist primarily of costs related to research and development personnel, including salaries and other personnel-related expenses, consulting fees, facilities costs, computer and communications equipment, support services used in our service and technology development, and allocations of indirect costs such as corporate overhead.
+
+29
+
+A comparison of research and development expenses is presented below:
+
+------------------------ ----------------------- ------ ------- ---- - ------- - ------ -- - - ------
+
+ Year Ended December 31,
+ 2019 %Change 2018 %Change 2017
+ (Dollars in thousands)
+Research and development $ 60,805 5 % $ 57,884 11 % $ 52,342
+
+Research and development expenses increased by $2.9 million in 2019 compared to 2018 primarily due to a decrease in capitalized labor and an increase in allocated overhead expenses. Capitalized labor decreased by $2.5 million due to a shift in work from capital projects to certain non-capital projects and maintenance of existing software products. Allocated overhead expenses increased by $2.0 million primarily due to an increase in average headcount relative to other cost types.
+We expect research and development expenses as a percentage of revenues to remain consistent in 2020 as compared to 2019.
+General and administrative
+General and administrative expenses consist primarily of salaries and other personnel-related expenses for our executive, administrative, legal, finance, information technology and human resources personnel, costs of facilities, computer and communications equipment, management information systems, support services, professional services fees, and certain tax and license fees, offset by allocations of indirect costs such as facilities and shared services expenses to other cost types.
+A comparison of general and administrative expenses is presented below:
+
+-------------------------- ----------------------- ------- ------- ---- - ------- - ------- - - - -------
+
+ Year Ended December 31,
+ 2019 %Change 2018 %Change 2017
+ (Dollars in thousands)
+General and administrative $ 137,625 4 % $ 132,668 2 % $ 129,754
+
+General and administrative expenses increased by $5.0 million in 2019 compared to 2018 primarily due to increases in salary and employee benefits expenses and software license expenses. Salary and employee benefits expenses increased by $2.8 million due to an increase in average headcount and annual salary increases. Software license expenses increased by $2.4 million resulting from costs related to certain security initiatives.
+We expect general and administrative expenses as a percentage of revenues to remain consistent in 2020 as compared to 2019.
+Interest expense
+See Note 4, “Debt and interest expense” of our Notes to Consolidated Financial Statements in Item 8 of this Form 10-K. We expect interest expense to remain consistent in 2020 as compared to 2019.
+Non-operating income, net
+See Note 9, “Non-operating income, net” of our Notes to Consolidated Financial Statements in Item 8 of this Form 10-K. We expect Non-operating income, net to decrease in 2020 as compared to 2019 due to income from the transition services provided to Neustar in 2019 in connection with the sale of customer contracts of our security services business and a decrease in interest income resulting from a decline in interest rates.
+Income tax expense
+
+------------------ ----------------------- ---- ---- ------- -- - -------
+
+ Year Ended December 31,
+ 2019 2018 2017
+ (Dollars in thousands)
+Income tax expense 146,477 $ 147,027 $ 141,764
+Effective tax rate 19 % 20 % 24 %
+
+The effective tax rates for 2019 and 2018 were lower than the statutory federal rate of 21% due to a lower foreign effective tax rate and excess tax benefits related to stock-based compensation, partially offset by state income taxes, U.S. taxes on our foreign earnings, and accrual for uncertain tax positions.
+
+30
+
+As of December 31, 2019, we had deferred tax assets arising from deductible temporary differences, tax losses, and tax credits of $94.8 million, net of valuation allowances, but before the offset of certain deferred tax liabilities. With the exception of deferred tax assets related to certain state and foreign NOL carryforwards, we believe it is more likely than not that the tax effects of the deferred tax liabilities, together with future taxable income, will be sufficient to fully recover the remaining deferred tax assets.
+We qualified for a tax holiday in Switzerland until the end of 2019 which lowered tax rates on certain types of income and required certain thresholds of foreign source income. The tax holiday reduced our foreign income tax expense by $17.3 million ($0.15 per share) and $16.9 million ($0.14 per share) in 2019 and 2018, respectively. The benefit from the tax holiday is calculated before consideration of any offsetting tax impact in the United States. Effective January 1, 2020, due to Swiss tax law changes, the tax holiday was eliminated, which was partially offset by a lowered statutory tax rate.
+We expect the effective tax rate for 2020 to be between 18% and 21%.
+
+Liquidity and Capital Resources
+
+------------------------- ------------------ --------- ---- ------- - ---------
+
+ As of December 31,
+ 2019 2018
+ (In thousands)
+Cash and cash equivalents $ 508,196 $ 357,415
+Marketable securities 709,863 912,254
+Total $ 1,218,059 $ 1,269,669
+
+As of December 31, 2019, our principal source of liquidity was $508.2 million of cash and cash equivalents and $709.9 million of marketable securities. The marketable securities consist primarily of debt securities issued by the U.S. Treasury meeting the criteria of our investment policy, which is focused on the preservation of our capital through investment in investment grade securities. The cash equivalents consist mainly of amounts invested in money market funds and U.S. Treasury bills purchased with original maturities of less than 90 days. As of December 31, 2019, all of our debt securities have contractual maturities of less than one year. Our cash and cash equivalents are readily accessible.  Following the Tax Cuts and Jobs Act, we have greater flexibility in accessing the cash, cash equivalents and marketable securities balances held by our foreign subsidiaries. For additional information on our investment portfolio, see Note 2, “Financial Instruments,” of our Notes to Consolidated Financial Statements in Item 8 of this Form 10-K.
+In 2019, we repurchased 3.9 million shares of our common stock at an average stock price of $188.84 for an aggregate cost of $738.5 million under our share repurchase program. In 2018, we repurchased 4.4 million shares of our common stock at an average stock price of $137.86 for an aggregate cost of $600.0 million. Effective February 6, 2020, our Board authorized the repurchase of our common stock in the amount of $743.0 million, in addition to the $257.0 million that remained available for repurchases under the share repurchase program, for a total repurchase authorization of up to $1.0 billion under the program.
+As of December 31, 2019, we had $550.0 million principal amount outstanding of 4.75% senior unsecured notes due 2027, $500.0 million principal amount outstanding of the 5.25% senior unsecured notes due 2025 and $750.0 million principal amount outstanding of the 4.625% senior unsecured notes due 2023. In December 2019, we entered into a new $200.0 million unsecured revolving credit facility. This facility will expire in 2024 and takes the place of our prior unsecured revolving credit facility. As of December 31, 2019, there were no borrowings outstanding under this credit facility.
+In 2018 we settled our subordinated convertible debentures with the $1.25 billion principal value paid in cash and 26.1 million shares of common stock issued for the conversion spread.
+We believe existing cash, cash equivalents and marketable securities, and funds generated from operations, together with our ability to arrange for additional financing should be sufficient to meet our working capital, capital expenditure requirements, and to service our debt for the next 12 months. We regularly assess our cash management approach and activities in view of our current and potential future needs.
+
+31
+
+In summary, our cash flows for 2019, 2018, and 2017 were as follows:
+
+----------------------------------------------------------------------------- ----------------------- ------- ---- ---------- ---- -------- -------- - - -------
+
+ Year Ended December 31,
+ 2019 2018 2017
+ (In thousands)
+Net cash provided by operating activities $ 753,892 $ 697,767 $ 702,761
+Net cash provided by (used in) investing activities 167,195 1,070,130 (405,424 )
+Net cash used in financing activities (770,303 ) (1,875,325 ) (65,073 )
+Effect of exchange rate changes on cash, cash equivalents and restricted cash 64 (958 ) 1,294
+Net increase (decrease) in cash, cash equivalents and restricted cash $ 150,848 $ (108,386 ) $ 233,558
+
+Cash flows from operating activities
+
+Our largest source of operating cash flows is cash collections from our customers. Our primary uses of cash from operating activities are for personnel related expenditures, and other general operating expenses, as well as payments related to taxes, interest and facilities.
+
+Net cash provided by operating activities increased in 2019 compared to 2018 primarily due to an increase in cash received from customers and a decrease in cash paid for interest, partially offset by an increase in cash paid for income taxes. Cash received from customers increased primarily due to higher domain name registrations and renewals. The decrease in cash paid for interest on our debt obligations was primarily due to the settlement of our subordinated convertible debentures in May 2018. The increase in cash paid for income taxes was primarily due to by higher U.S. federal income tax payments in 2019, partially offset by the $60.7 million of foreign withholding taxes paid on the repatriation of $1.15 billion cash held by foreign subsidiaries to the U.S. in the first quarter of 2018.
+
+Cash flows from investing activities
+
+The changes in cash flows from investing activities primarily relate to purchases, maturities and sales of marketable securities, purchases of property and equipment and the sale of businesses.
+
+Net cash provided by investing activities decreased in 2019 compared to 2018 primarily due to decreases in proceeds from sales and maturities of marketable securities, net of purchases, proceeds from the sale of businesses, and an increase in purchases of property and equipment.
+
+Cash flows from financing activities
+
+The changes in cash flows from financing activities primarily relate to share repurchases, proceeds from and repayment of borrowings, and our employee stock purchase plan (“ESPP”).
+
+Net cash used in financing activities decreased in 2019 compared to 2018 primarily due to the repayment of the principal amount of the subordinated convertible debentures during 2018, partially offset by an increase in share repurchases.
+
+Impact of Inflation
+
+We do not believe that inflation has had a significant impact on our operations in any of the periods presented.
+
+Income taxes
+
+We expect cash paid for income taxes in 2020 to approximate our Income tax expenses for the year.
+
+Property and Equipment Expenditures
+ Our planned property and equipment expenditures for 2020 are anticipated to be between $45.0 million and $55.0 million and will primarily be focused on infrastructure upgrades and enhancements to our product portfolio.
+
+Contractual Obligations
+
+See Note 11, “Commitments and Contingencies,” Purchase Obligations and Contractual Agreements, of our Notes to Consolidated Financial Statements in Item 8 of this Form 10-K.
+
+32
+
+ Off-Balance Sheet Arrangements
+
+It is not our business practice to enter into off-balance sheet arrangements. As of December 31, 2019, we did not have any significant off-balance sheet arrangements. See Note 11, “Commitments and Contingencies,” Off-Balance Sheet Arrangements, of our Notes to Consolidated Financial Statements in Item 8 of this Form 10-K for further information regarding off-balance sheet arrangements.
+
+Dilution from RSUs
+Grants of stock-based awards are key components of the compensation packages we provide to attract and retain certain of our talented employees and align their interests with the interests of existing stockholders. We recognize that these stock-based awards dilute existing stockholders and have sought to control the number granted while providing competitive compensation packages. As of December 31, 2019, there are a total of 0.9 million unvested RSUs which represent potential dilution of less than 1.0%. This maximum potential dilution will only result if all outstanding RSUs vest and are settled. In recent years, our stock repurchase program has more than offset the dilutive effect of RSU grants to employees; however, we may reduce the level of our stock repurchases in the future as we may use our available cash for other purposes.
+
+-------- ----------------------------------------------------------
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 4]:
+(4) Adjusted income tax rate is calculated as adjusted income tax expense as a percentage of income from consolidated operations before income taxes, excluding transaction and integration expenses and special charges, or $840.0 million, $780.1 million, and $694.1 million for the years ended November 30, 2019, 2018, and 2017, respectively. 32 ------------------------------------- -------------- ---------------------------------------------- Estimate for the year ending November 30, 2020 Earnings per share - diluted $5.15 to $5.25 Impact of special charges 0.05 Adjusted earnings per share - diluted $5.20 to $5.30 Because we are a multi-national company, we are subject to variability of our reported U.S. dollar results due to changes in foreign currency exchange rates. Those changes have been volatile over the past several years. The exclusion of the effects of foreign currency exchange, or what we refer to as amounts expressed "on a constant currency basis," is a non-GAAP measure. We believe that this non-GAAP measure provides additional information that enables enhanced comparison to prior periods excluding the translation effects of changes in rates of foreign currency exchange and provides additional insight into the underlying performance of our operations located outside of the U.S. It should be noted that our presentation herein of amounts and percentage changes on a constant currency basis does not exclude the impact of foreign currency transaction gains and losses (that is, the impact of transactions denominated in other than the local currency of any of our subsidiaries in their local currency reported results). Percentage changes in sales and adjusted operating income expressed on a constant currency basis are presented excluding the impact of foreign currency exchange. To present this information for historical periods, current year results for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at the average exchan...
+
+[See Note 9]:
+Note 9 Tower Obligations 88
+
+[see Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. Our business is organized into three reportable segments: Digital Media, Digital Experience and Publishing. These segments provide our senior management with a comprehensive financial view of our key businesses. Our segments are aligned around our 70  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) two strategic growth opportunities as described in the "Business Overview" within Part I, Item 1, placing our Publishing business in a third segment that contains some of our mature products and solutions. In fiscal 2019, we categorized our products into the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ * Digital Media--Our Digital Media segment provides tools and solutions that enable individuals, teams and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include content creators, experien...
+
+[See Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $4.54 billion of non-cancelable contractual commitments as of December 31, 2019, which is primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Legal Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking 94  unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class a...
+
+[See Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $4.54 billion of non-cancelable contractual commitments as of December 31, 2019, which is primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Legal Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking 94  unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class a...
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 22
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 13

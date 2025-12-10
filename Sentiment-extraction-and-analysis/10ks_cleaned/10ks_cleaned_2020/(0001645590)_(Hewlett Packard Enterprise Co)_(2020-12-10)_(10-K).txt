@@ -1,0 +1,1075 @@
+================================================================================
+CIK: 0001645590
+Company Name: Hewlett Packard Enterprise Co
+Filing Date: 2020-12-10
+Form Type: 10-K
+Extraction Date: 2025-08-31 16:07:20
+================================================================================
+
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+For purposes of the Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD&A") section, we use the terms "Hewlett Packard Enterprise", "HPE", "the Company", "we", "us", and "our" to refer to Hewlett Packard Enterprise Company. References in the MD&A section to "former Parent" refer to HP Inc.
+This MD&A is organized as follows:
+•Trends and Uncertainties A discussion of our response to the novel coronavirus pandemic ("COVID-19"), including our efforts to protect the health and well-being of our workforce, community and customers, and other matters.
+•Overview.  A discussion of our business and overall analysis of financial and other highlights affecting the Company to provide context for the remainder of MD&A. The overview analysis compares fiscal 2020 to fiscal 2019.
+•Critical Accounting Policies and Estimates.  A discussion of accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results.
+•Results of Operations.  An analysis of our financial results comparing fiscal 2020 and fiscal 2019 to the prior-year periods. A discussion of the results of operations at the consolidated level is followed by a discussion of the results of operations at the segment level.
+•Liquidity and Capital Resources.  An analysis of changes in our cash flows and a discussion of our financial condition and liquidity.
+•Contractual and Other Obligations.  An overview of contractual obligations, retirement and post-retirement benefit plan funding, restructuring plans, uncertain tax positions, off-balance sheet arrangements, cross-indemnifications with HP Inc. (formerly known as "Hewlett-Packard Company" and also referred to in this Annual Report as "former Parent"), and cross-indemnifications with DXC Technology Company ("DXC") and Micro Focus International plc ("Micro Focus").
+We intend the discussion of our financial condition and results of operations that follows to provide information that will assist the reader in understanding our Consolidated Financial Statements, the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles, policies and estimates affect our Consolidated Financial Statements. This discussion should be read in conjunction with our Consolidated Financial Statements and the related notes that appear elsewhere in this document.
+Former Parent Separation Transaction
+On November 1, 2015, the Company became an independent publicly-traded company through a pro rata distribution by HP Inc. ("former Parent" or "HPI"), formerly known as Hewlett-Packard Company ("HP Co."), of 100% of the outstanding shares of Hewlett Packard Enterprise Company to HP Inc.'s stockholders (collectively, the "Separation"). Each HP Inc. stockholder of record received one share of Hewlett Packard Enterprise common stock for each share of HP Inc. common stock held on the record date. Following the Separation, the Company became an independent publicly-traded company.
+Discontinued Operations
+On April 1, 2017, HPE completed the separation and merger of its Enterprise Services business with the DXC Technology Company ("DXC", "the Everett Transaction" or "Everett").
+On September 1, 2017, HPE completed the separation and merger of its Software business segment with Micro Focus International plc ("Micro Focus", "the Seattle Transaction" or "Seattle").
+
+31
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Trends and Uncertainties
+ COVID-19
+ The outbreak of COVID-19 in 2020 resulted in a global slowdown of economic activity including worldwide travel restrictions, prohibitions of non-essential work activities, disruption and shutdown of businesses and greater uncertainty in global financial markets. COVID-19 continues to have an impact on our financial performance and we are currently unable to predict the extent to which COVID-19 may adversely impact our future business operations, financial performance and results of operations. The full extent of the impact of COVID-19 on the Company's operational and financial performance is currently uncertain and will depend on many factors outside the Company's control, including, without limitation, the timing, extent, trajectory and duration of the pandemic, the development and availability of effective treatments and vaccines, the imposition of protective public safety measures, and the impact of the pandemic on the global economy and demand for our enterprise technology solutions. For a further discussion of the risks, uncertainties and actions taken in response to COVID-19, see risks identified in the section entitled " Risk Factors" in Part I, Item 1A.
+The Company believes its existing balances of cash, cash equivalents and marketable securities, along with commercial paper and other short-term liquidity arrangements, will be sufficient to satisfy its working capital needs, capital asset purchases, dividends, debt repayments and other liquidity requirements associated with its existing operations.
+The Company also believes that COVID-19 has forced fundamental changes in businesses and communities that are aligned with the Company's edge-to-cloud platform delivered as-a-service strategy. Navigating through the pandemic and planning for a post-COVID world have increased customers' needs for as-a-service offerings, secure connectivity, remote work capabilities and analytics to unlock insights from data. Our solutions are aligned to these needs, and we see opportunity to help our customers drive digital transformations as they continue to adapt to operate in a new world.
+We have prioritized protecting the health and safety of our team members, supporting the global communities in which we live and work and supporting our customers and partners to help them adjust to new and emerging needs.
+In response to the COVID-19 pandemic and to ensure the safety of our employees, we implemented a global work-from-home policy until further notice that applies to a significant majority of our employees, with the exception of those performing essential activities. In October 2020, in certain countries, we introduced a new hybrid model of work to our workforce called Edge-to-Office. Depending on role classification, work will now primarily be done at the edge (outside of the office), or at HPE sites. HPE sites will be used for collaborations, social connections, and other work, as needed for all roles. The implementation of Edge-to-Office will occur in a phased-approach across the Company and as local regulations allow.
+We have also made additional education and support resources and personal protective supplies available to team members. In the event of a confirmed or probable case of COVID-19 among our team members and contractors, we have implemented a confidential reporting process to trace and notify close contacts—including third parties—that maintains the anonymity of all involved.
+In the third quarter of fiscal 2020 we announced new return-to-work solutions to help customers accelerate business recovery and reopening plans. The solutions combine expertise from HPE operational services for a fast, seamless transition, with HPE servers for the edge, Aruba AI-powered network infrastructure, and technologies from HPE's rich ecosystem of partners. Customers that have implemented these solutions include large international airports, global food processing and packaging plants, retail stores, and corporate offices.
+While we continue to mitigate the impact on our business and operations to address the near-term uncertainty, in fiscal 2020 we took a number of actions to ensure HPE is well positioned to emerge stronger, more agile and digitally enabled for a post-COVID-19 world.
+•On March 27, 2020, the Coronavirus Aid, Relief, and Economic Security Act (the "CARES Act") was enacted into law. The CARES Act, among other things, provides tax relief to businesses, including the deferral of certain payroll taxes, relief for retaining employees, and other income tax provisions. In addition to the CARES Act, governments around the world also enacted comparable legislation to address COVID-19 economic impacts. Based on the relief provided by this legislation, in fiscal 2020 we deferred $92 million of payroll taxes which, the Company will pay, at least partially or in full, prior to the end of fiscal 2021.
+•On April 6, 2020, we announced that we suspended purchases under our share repurchase program.
+
+32
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+•In April 2020, we issued $2.25 billion aggregate principal amount of unsecured Senior Notes to enhance our liquidity and strengthen our capital. Additionally, in July 2020, we issued $1.75 billion in aggregate principal amount of unsecured Senior Notes. The net proceeds from July offerings were used primarily for the redemption in August 2020 of the $3.0 billion outstanding principal amount of the 3.6% unsecured Senior Notes that were originally due in October 2020.
+•On May 19, 2020, the Board of Directors of HPE (the "Board") approved a cost optimization and prioritization plan. We expect that this plan will be implemented through fiscal 2023 and estimate that it will include gross savings of at least $1.0 billion as a result of changes to our workforce, business model and business process, with this plan being expected to deliver annualized net run-rate savings of at least $800 million by the end of fiscal 2023, in both cases relative to our fiscal 2019 exit. In order to achieve this level of cost savings, we estimate related cash funding payments of $1.3 billion over the next three years of which approximately $0.7 billion will relate to labor restructuring, $0.5 billion will relate to non-labor restructuring and $0.1 billion will relate to IT investments and design and execution charges. For further details of the plan see the Other section of this discussion.
+•On May 19, 2020, the Board approved cost containment measures including temporary base salary adjustments or unpaid leave for certain employees beginning July 1, 2020, along with restrictions on external hiring and salary increases. Effective November 1, 2020, the aforementioned cost containment measures were returned to their original levels prior to the change.
+•During fiscal 2020, we paid a quarterly dividend of $0.12 per share to our shareholders. On December 1, 2020 we declared a quarterly dividend of $0.12 per share, payable on or about January 6, 2021, to stockholders of record as of the close of business on December 9, 2020.
+ Other
+We are in the process of addressing many challenges facing our business. One set of challenges include dynamic and accelerating market trends, such as the market shift of workloads to cloud-related IT infrastructure business models, emergence of software-defined architectures and converged infrastructure functionality and growth in IT consumption models. Certain of our legacy hardware server and storage businesses face challenges as customers migrate to cloud-based offerings and reduce their purchases of hardware products. Therefore, the demand environment for traditional server and storage products is challenging and lower traditional compute and storage unit volume is impacting support attach opportunities within the associated services organization.
+Another set of challenges relates to changes in the competitive landscape. Our major competitors are expanding their product and service offerings with integrated products and solutions, our business-specific competitors are exerting increased competitive pressure in targeted areas and are entering new markets, our emerging competitors are introducing new technologies and business models, and our alliance partners in some businesses are increasingly becoming our competitors in others.
+A third set of challenges relates to business model changes and our go-to-market execution. We intend to provide our customers with a choice between traditional consumption models or subscription-based, pay-per-use and as-a-Service offerings across out entire portfolio of HPE products and services.
+ To be successful in overcoming these challenges, we must address business model shifts and optimize go-to-market execution by successfully transitioning to our as-a-Service model, further improving our cost structure, aligning sales coverage with our strategic goals, improving channel execution, and strengthening our capabilities in our areas of strategic focus, which includes accelerating growth in the Intelligent Edge and High Performance Compute businesses and delivering profitable growth across each of our business segments. We need to continue to pursue new product innovation that builds on our existing capabilities in areas such as cloud and data center computing, software-defined networking, converged storage, high-performance compute, and wireless networking, which will keep us aligned with market demand, industry trends and the needs of our customers and partners. In addition, we need to continue to improve our operations, with a particular focus on enhancing our end-to-end processes and efficiencies.
+
+33
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+The following transformation programs were launched in response to the aforementioned challenges:
+Cost Optimization and Prioritization Plan
+During the third quarter of fiscal 2020, we launched a cost optimization and prioritization plan which focuses on realigning our workforce to areas of growth, including a new hybrid workforce model call Edge-to-Office, real estate strategies and simplifying and evolving our product portfolio strategy. The implementation period for the cost optimization and prioritization plan is through fiscal 2023. During this implementation period, we expect to incur transformation costs predominantly related to labor restructuring, non-labor restructuring, IT investments and design and execution charges.
+HPE Next
+During the third quarter of fiscal 2017, we launched an initiative called HPE Next to put in place a purpose-built company designed to compete and win in the markets where we participate. Through this program, we are simplifying our operating model, streamlining our offerings, business processes and business systems to improve our execution. The implementation period for HPE Next is now extended to fiscal 2023. During the remaining implementation period we expect to incur transformation charges predominantly related to IT transformation costs for streamlining, upgrading and simplifying back-end operations, and real estate initiatives. These costs will be partially offset by gains from real estate sales.
+For additional details on these Transformation Programs, see Note 3, "Transformation Programs", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference.
+For a further discussion of trends, uncertainties and other factors that could impact our operating results, and risks, uncertainties and actions taken in response to COVID-19, see the section entitled "Risk Factors" in Item 1A of Part 1, which is incorporated herein by reference.
+The following Overview, Results of Operations and Liquidity discussions and analysis compare fiscal 2020 to fiscal 2019 and fiscal 2019 to fiscal 2018, unless otherwise noted. The Capital Resources and Contractual and Other Obligations discussions present information as of October 31, 2020, unless otherwise noted.
+OVERVIEW
+We are a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. We enable customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future. Our legacy dates back to a partnership founded in 1939 by William R. Hewlett and David Packard, and we strive every day to uphold and enhance that legacy through our dedication to providing innovative technological solutions to our customers.
+We organize our business into seven segments for financial reporting purposes: Compute, High Performance Compute & Mission Critical Systems (HPC & MCS), Storage, Advisory and Professional Services (A & PS), Intelligent Edge, Financial Services ("FS") and Corporate Investments. The following provides an overview of our key financial metrics by segment for fiscal 2020, as compared to fiscal 2019:
+
+34
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+------------------------------------------------------- ------------------------------------------------- ------- --------- ------- ------ ---------------- ------------------ -------------------- ----- --- ----- --- ----- --- ------ --- ----- - ----- - -----
+ HPEConsolidated Compute HPC & MCS Storage A & PS Intelligent Edge Financial Services CorporateInvestments
+ Dollars in millions, except for per share amounts
+Net revenue(1) $ 26,982 $ 12,215 $ 3,036 $ 4,681 $ 951 $ 2,855 $ 3,352 $ 490
+Year-over-year change % (7.4) % (10.5) % 4.3 % (9.7) % (6.0) % (2.0) % (6.4) % (3.4) %
+Earnings (loss) from operations (2) $ (329) $ 893 $ 237 $ 719 $ (5) $ 281 $ 278 $ (100)
+Earnings (loss) from operations as a % of net revenue (1.2) % 7.3 % 7.8 % 15.4 % (0.5) % 9.8 % 8.3 % (20.4) %
+Year-over-year change percentage points (5.6) pts (4.1) pts (3.2) pts (2.4) pts 4.8 pts 4.3 pts (0.2) pts 0.9 pts
+Net loss $ (322)
+Diluted net loss per share $ (0.25)
+
+Supplemental Non-GAAP information:
+Non-GAAP earnings from operations $ 2,008
+Non-GAAP earnings from operations as a % of net revenue 7.4 %
+Non-GAAP net earnings $ 1,765
+Non-GAAP diluted net earnings per share $ 1.35
+
+(1)HPE consolidated net revenue excludes intersegment net revenue.
+(2)Segment earnings from operations exclude certain unallocated corporate costs and eliminations, stock-based compensation expense related to corporate and certain global functions, amortization of capitalized initial direct costs, transformation costs, amortization of intangible assets, acquisition, dispositions and other related charges, impairment of goodwill and disaster (recovery) charges.
+Net revenue decreased by $2.2 billion, or 7.4% (decreased 6.4% on a constant currency basis), in fiscal 2020 as compared to fiscal 2019.
+During fiscal 2020, we experienced a net revenue decline due to the impact of the COVID-19 pandemic on our business operations and the worldwide demand environment. The impact of COVID-19 and resulting lockdown restrictions was felt across each of our business segments and included challenges such as disruptions to our supply chain process with processing order fulfillment, due in part to related commodity constraints, delays with meeting customer acceptance milestones and our ability to perform and complete on-site installations. The pandemic and related restrictions also contributed to manufacturing capacity constraints during the first half of fiscal 2020, which along with the consolidation of certain locations in North America, increased order backlog. Although we significantly improved our operational and supply chain execution in the second half of fiscal 2020, our financial results continued to be impacted by the weak worldwide demand environment resulting from the pandemic related restrictions. Given the comprehensive impact of the pandemic and to avoid repetition, the following discussion of the financial performance of each segment in fiscal 2020 as compared to fiscal 2019 will focus on the other leading factors contributing to their performance.
+From a segment perspective, the net revenue decrease in fiscal 2020, as compared to fiscal 2019, was primarily led by declines in Compute, Storage, and Financial Services, partially offset by a net revenue increase in HPC & MCS. The net revenue decline in Compute was due to competitive pricing pressures and manufacturing capacity constraints in North America. Storage net revenue was impacted by manufacturing capacity constraints in North America and lower revenue from the expiration of a one-time legacy contract. Financial Services net revenue was impacted due to a decrease in rental revenue due to
+
+35
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+lower average operating lease assets, lower lease equipment buyout revenue and unfavorable foreign currency fluctuations. HPC & MCS experienced a net revenue increase due to the addition of revenue from the acquisition of Cray Inc. ("Cray").
+ Our gross profit margin was 31.4% ($8.5 billion) and 32.6% ($9.5 billion) for fiscal 2020 and 2019, respectively. The 1.2 percentage point decrease to the gross profit margin was primarily driven by the combination of competitive pricing pressures, higher supply chain costs resulting from the impact of COVID-19, unfavorable currency fluctuations and the scale of the net revenue decline, partially offset by our overall shift to higher-margin products and services along with lower variable compensation expense. Our operating profit margin was (1.2)% and 4.4% for fiscal 2020 and 2019, respectively, representing a decrease of 5.6 percentage points. The decrease was due to an increase in operating expenses as a percentage of net revenue coupled with a decrease in the gross profit margin. The increase in operating expenses was due primarily to the goodwill impairment charge impacting our HPC & MCS segment in the second quarter of fiscal 2020, and higher transformation costs partially offset by the prior-year period containing higher acquisition, disposition and other related charges resulting from an arbitration settlement and cost containment measures.
+As of October 31, 2020, cash, cash equivalents and restricted cash were $4.6 billion, representing an increase of approximately $0.5 billion from the October 31, 2019 balance of $4.1 billion. The increase was due primarily to the following: cash provided by operating activities of $2.2 billion, net proceeds from debt issuance net of repayments of $1.9 billion, partially offset by investments in property, plant and equipment, net of sales proceeds of $1.7 billion, cash payments related to dividends and share repurchases of $1.0 billion and business acquisition activity of $0.9 billion.
+
+36
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+The following table provides reconciliation of GAAP to non-GAAP measures for fiscal 2020:
+
+----------------------------------------------------- ---------------------------------- ------ ------------------------------ ------ - ------
+ Fiscal year ended October 31, 2020 Diluted net earnings per share
+ In millions
+GAAP net earnings (loss) $ (322) $ (0.25)
+Non-GAAP adjustments:
+Amortization of initial direct costs 10 0.01
+Amortization of intangible assets 379 0.29
+Impairment of goodwill 865 0.67
+Transformation costs 950 0.74
+
+Disaster charges 26 0.02
+Acquisition, disposition and other related charges 107 0.08
+Tax indemnification adjustments 101 0.08
+Non-service net periodic benefit credit (136) (0.11)
+Earnings from equity interests(1) 145 0.11
+Adjustments for taxes (360) (0.29)
+Non-GAAP net earnings $ 1,765 $ 1.35
+GAAP earnings (loss) from operations $ (329)
+Non-GAAP adjustments:
+Amortization of initial direct costs 10
+Amortization of intangible assets 379
+Impairment of goodwill 865
+Transformation costs 950
+
+Disaster charges 26
+Acquisition, disposition and other related charges 107
+Non-GAAP earnings from operations $ 2,008
+
+GAAP operating profit margin (1.2) %
+Non-GAAP adjustments 8.6 %
+Non-GAAP operating profit margin 7.4 %
+
+GAAP Net revenue $ 26,982
+GAAP Cost of sales 18,513
+GAAP gross profit $ 8,469
+Non-GAAP adjustments
+Amortization of initial direct costs $ 10
+Acquisition, disposition and other related charges(2) 27
+Non-GAAP gross profit $ 8,506
+
+GAAP gross profit margin 31.4 %
+Non-GAAP adjustments 0.1 %
+Non-GAAP gross profit margin 31.5 %
+
+(1) Represents the amortization of basis difference adjustments related to the H3C divestiture.
+(2) Represent charges related to a non-cash inventory fair value adjustment in connection with the acquisition of Cray, which was included in Cost of Sales.
+
+37
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Non-GAAP financial measures
+The non-GAAP financial measures presented are net revenue on a constant currency basis, non-GAAP gross profit, non-GAAP gross profit margin, non-GAAP earnings from operations, non-GAAP operating profit margin (non-GAAP earnings from operations as a percentage of net revenue), non-GAAP net earnings and non-GAAP diluted net earnings per share. These non-GAAP financial measures are used by management for purposes of evaluating our historical and prospective financial performance, as well as evaluating our performance relative to our competitors. These non-GAAP financial measures are not computed in accordance with, or as an alternative to, generally accepted accounting principles in the United States. The GAAP measure most directly comparable to net revenue on a constant currency basis is net revenue. The GAAP measure most directly comparable to non-GAAP gross profit is gross profit. The GAAP measure most directly comparable to non-GAAP gross profit margin is gross profit margin. The GAAP measure most directly comparable to non-GAAP earnings from operations is earnings from operations. The GAAP measure most directly comparable to non-GAAP operating profit margin (non-GAAP earnings from operations as a percentage of net revenue) is operating profit margin (Earnings from operations as a percentage of net revenue). The GAAP measure most directly comparable to non-GAAP net earnings is net earnings. The GAAP measure most directly comparable to non-GAAP diluted net earnings per share is diluted net earnings per share.
+Net revenue on a constant currency basis assumes no change in the foreign exchange rate from the prior-year period. Non-GAAP gross profit and non-GAAP gross profit margin is defined to exclude charges related to the amortization of initial direct costs and certain acquisition, disposition and other related charges. Non-GAAP earnings from operations and non-GAAP operating profit margin (non-GAAP earnings from operations as a percentage of net revenue) consist of earnings from operations excluding any charges related to the amortization of initial direct costs, amortization of intangible assets, impairment of goodwill, transformation costs, disaster charges, and acquisition, disposition and other related charges. Non-GAAP net earnings and Non-GAAP diluted net earnings per share consist of net earnings or diluted net earnings per share excluding those same charges, as well as an adjustment to tax indemnification adjustments, non-service net periodic benefit credit, earnings from equity interests, certain income tax valuation allowances and separation taxes, the impact of U.S. tax reform, structural tax rate and excess tax benefit from stock-based compensation. In addition, non-GAAP net earnings and non-GAAP diluted net earnings per share are adjusted by the amount of additional taxes or tax benefits associated with each non-GAAP item. We believe that excluding the items mentioned above from these non-GAAP financial measures allows management to better understand our consolidated financial performance in relation to the operating results of our segments. Management does not believe that the excluded items are reflective of ongoing operating results, and excluding them facilitates a more meaningful evaluation of our current operating performance in comparison to our peers. The excluded items can be inconsistent in amount and frequency and/or not reflective of the operational performance of the business.
+These non-GAAP financial measures have limitations as analytical tools, and these measures should not be considered in isolation or as a substitute for analysis of our results as reported under GAAP. Some of the limitations in relying on these non-GAAP financial measures are that they can have a material impact on the equivalent GAAP earnings measures, they may be calculated differently by other companies and may not reflect the full economic effect of the loss in value of certain assets.
+We compensate for these limitations on the use of non-GAAP financial measures by relying primarily on our GAAP results and using non-GAAP financial measures only as a supplement. We also provide a reconciliation of each non-GAAP financial measure to its most directly comparable GAAP measure. We believe that providing net revenue on a constant currency basis, non-GAAP gross profit, non-GAAP gross profit margin, non-GAAP earnings from operations, non-GAAP operating profit margin, non-GAAP net earnings and non-GAAP diluted net earnings per share in addition to the related GAAP measures provides greater transparency to the information used in our financial and operational decision making and allows the reader of our Consolidated Financial Statements to see our financial results "through the eyes" of management.
+
+38
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+General
+Our Consolidated Financial Statements are prepared in accordance with U.S. Generally Accepted Accounting Principles ("GAAP"), which requires management to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, net revenue and expenses, and the disclosure of contingent liabilities. Management bases its estimates on historical experience and on various other assumptions that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying amount of assets and liabilities that are not readily apparent from other sources, including the economic considerations related to the impact that the novel coronavirus pandemic ("COVID-19") could have on our significant accounting estimates. Management has discussed the development, selection and disclosure of these estimates with the Audit Committee of HPE's Board of Directors. Management believes that the accounting estimates employed and the resulting amounts are reasonable; however, actual results may differ from these estimates. Making estimates and judgments about future events is inherently unpredictable and is subject to significant uncertainties, some of which are beyond our control. Should any of these estimates and assumptions change or prove to have been incorrect, it could have a material impact on our results of operations, financial position and cash flows.
+A summary of significant accounting policies is included in Note 1, "Overview and Summary of Significant Accounting Policies", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, if different estimates reasonably could have been used, or if changes in the estimate that are reasonably possible could materially impact the financial statements. Management believes the following critical accounting policies reflect the significant estimates and assumptions used in the preparation of the Consolidated Financial Statements.
+Revenue Recognition
+General
+We account for a contract with a customer when both parties have provided written approval and are committed to perform, each party's rights including payment terms are identified, the contract has commercial substance, and collection of consideration is probable.
+We enter into contracts with customers that may include combinations of products and services, resulting in arrangements containing multiple performance obligations for hardware and software products and/or various services. We determine whether each product or service is distinct in order to identify the performance obligations in the contract and allocate the contract transaction price among the distinct performance obligations. Arrangements are distinct based on whether the customer can benefit from the product or service on its own or together with other resources that are readily available and whether the commitment to transfer the product or service to the customer is separately identifiable from other obligations in the contract. We classify our hardware, perpetual software licenses, and software-as-a-service ("SaaS") as distinct performance obligations. Term software licenses represent multiple obligations, which include software licenses and software maintenance. In transactions where we deliver hardware or software, we are typically the principal and record revenue and costs of goods sold on a gross basis.
+The majority of our revenue is derived from sales of product and the associated support and maintenance which is recognized when, or as, control of promised products or services is transferred to the customer, in an amount that reflects the consideration to which we expect to be entitled, in exchange for those products or services. Variable consideration offered in contracts with customers, partners and distributors may include rebates, volume-based discounts, cooperative marketing, price protection, and other incentive programs. Variable consideration is estimated at contract inception and updated at the end of each reporting period as additional information becomes available and recognized only to the extent that it is probable that a significant reversal of revenue will not occur.
+Transfer of control occurs once the customer has the contractual right to use the product, generally upon shipment or once delivery and risk of loss has transferred to the customer. Transfer of control can also occur over time for maintenance and services as the customer receives the benefit over the contract term. Our hardware and perpetual software licenses are distinct performance obligations where revenue is recognized upfront upon transfer of control. Term software licenses include multiple performance obligations where the term licenses are recognized upfront upon transfer of control, with the associated software maintenance revenue recognized ratably over the contract term as services and software updates are provided. SaaS
+
+39
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+arrangements have one distinct performance obligation which is satisfied over time with revenue recognized ratably over the contract term as the customer consumes the services. On our product sales, we record consideration from shipping and handling on a gross basis within net product sales. Revenue is recorded net of any associated sales taxes.
+Significant Judgments
+We allocate the transaction price for the contract among the performance obligations on a relative standalone selling price basis. The standalone selling price ("SSP") is the price at which an entity would sell a promised product or service separately to a customer. We establish SSP for most of our products and services based on the observable price of the products or services when sold separately in similar circumstances to similar customers. When the SSP is not directly observable, we estimate SSP based on management judgment by considering available data such as internal margin objectives, pricing strategies, market/competitive conditions, historical profitability data, as well as other observable inputs. We establish SSP ranges for our products and services and reassesses them periodically.
+Judgment is applied in determining the transaction price as we may be required to estimate variable consideration when determining the amount of revenue to recognize. Variable consideration may include various rebates, volume-based discounts, cooperative marketing, price protection, and other incentive programs that are offered to customers, partners and distributors. When determining the amount of revenue to recognize, we estimate the expected usage of these programs, applying the expected value or most likely estimate and update the estimate at each reporting period as actual utilization becomes available. We also consider the customers' right of return in determining the transaction price, where applicable.
+Restructuring
+We have engaged in restructuring actions which require management to estimate the timing and amount of severance and other employee separation costs for workforce reduction and enhanced early retirement programs, the fair value of assets made redundant or obsolete, and the value of lease and contract cancellation and other exit costs. We accrue for severance and other employee separation costs under these actions when it is probable that benefits will be paid and the amount is reasonably estimable. The rates used in determining severance accruals are based on existing plans, historical experiences and negotiated settlements. For a full description of our restructuring actions, refer to our discussions of restructuring in "Results of Operations" below and in Note 3, "Transformation Programs", to the Consolidated Financial Statements.
+Retirement and Post-Retirement Benefits
+Our pension and other post-retirement benefit costs and obligations depend on various assumptions. Our major assumptions relate primarily to discount rates, mortality rates, expected increases in compensation levels and the expected long-term return on plan assets. The discount rate assumption is based on current investment yields of high-quality fixed-income securities with maturities similar to the expected benefits payment period. Mortality rates help predict the expected life of plan participants and are based on a historical demographic study of the plan. The expected increase in the compensation levels assumption reflects our long-term actual experience and future expectations. The expected long-term return on plan assets is determined based on asset allocations, historical portfolio results, historical asset correlations and management's expected returns for each asset class. In any fiscal year, significant differences may arise between the actual return and the expected long-term return on plan assets. Historically, differences between the actual return and expected long-term return on plan assets have resulted from changes in target or actual asset allocation, short-term performance relative to expected long-term performance, and to a lesser extent, differences between target and actual investment allocations, the timing of benefit payments compared to expectations, and the use of derivatives intended to effect asset allocation changes or hedge certain investment or liability exposures.
+Our major assumptions vary by plan, and the weighted-average rates used are set forth in Note 4, "Retirement and Post-Retirement Benefit Plans", to the Consolidated Financial Statements, which is incorporated herein by reference. The following table provides the impact changes in the weighted-average assumptions of discount rates, the expected increase in compensation levels and the expected long-term return on plan assets would have had on our net periodic benefit cost for fiscal 2020:
+
+40
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+---------------------------------------- ---------------------- ----------------------------------- - --
+ Change in basis points Change in Net Periodic Benefit Cost
+ In millions
+Assumptions:
+Discount rate (25) $ 21
+Expected increase in compensation levels 25 $ 4
+Expected long-term return on plan assets (25) $ 34
+
+Taxes on Earnings
+We calculate our current and deferred tax provisions based on estimates and assumptions that could differ from the final positions reflected in our income tax returns. We will adjust our current and deferred tax provisions based on our tax returns which are generally filed in the third or fourth quarters of the subsequent fiscal year.
+We recognize deferred tax assets and liabilities for the expected tax consequences of temporary differences between the tax bases of assets and liabilities and their reported amounts using enacted tax rates in effect for the year in which we expect the differences to reverse.
+We record a valuation allowance to reduce deferred tax assets to the amount that we are more likely than not to realize. In determining the need for a valuation allowance, we consider future market growth, forecasted earnings, future sources of taxable income, the mix of earnings in the jurisdictions in which we operate, and prudent and feasible tax planning strategies. In the event we were to determine that it is more likely than not that we will be unable to realize all or part of our deferred tax assets in the future, we would increase the valuation allowance and recognize a corresponding charge to earnings in the period in which we make such a determination. Likewise, if we later determine that we are more likely than not to realize the deferred tax assets, we would reverse the applicable portion of the previously recognized valuation allowance. In order for us to realize our deferred tax assets, we must be able to generate sufficient taxable income in the jurisdictions in which the deferred tax assets are located.
+Our effective tax rate includes the impact of certain undistributed foreign earnings and basis differences for which we have not provided for U.S. federal taxes because we plan to reinvest such earnings and basis differences indefinitely outside the U.S. In addition, future earnings from non-U.S. operations will largely be subject to U.S. tax. Therefore, the indefinitely reinvested undistributed foreign earnings and basis differences represent amounts that are not expected to be subject to U.S. tax in the foreseeable future.
+We are subject to income taxes in the U.S. and approximately 95 other countries, and we are subject to routine corporate income tax audits in many of these jurisdictions. We believe that positions taken on our tax returns are fully supported, but tax authorities may challenge these positions, which may not be fully sustained on examination by the relevant tax authorities. Accordingly, our income tax provision includes amounts intended to satisfy assessments that may result from these challenges. Determining the income tax provision for these potential assessments and recording the related effects requires management judgments and estimates. The amounts ultimately paid on resolution of an audit could be materially different from the amounts previously included in our income tax provision and, therefore, could have a material impact on our (Provision) benefit for taxes, Net earnings (loss) and cash flows. Our accrual for uncertain tax positions is attributable primarily to uncertainties concerning the tax treatment of our international operations, including the allocation of income among different jurisdictions, intercompany transactions and related interest, uncertain tax positions from acquired companies, as well as pre-Separation state income tax liabilities of HP Inc. for which the Company is jointly and severally liable. For a further discussion on taxes on earnings, refer to Note 6, "Taxes on Earnings", to the Consolidated Financial Statements.
+Inventory
+We state our inventory at the lower of cost or net realizable value. Cost is computed using standard cost which approximates actual cost on a first-in, first-out basis. We make adjustments at each reporting period to reduce the cost of inventory to its net realizable value at the product group level for estimated excess or obsolescence. Factors influencing these adjustments include changes in future demand forecasts, market conditions, technological changes, product life-cycle and development plans, component cost trends, product pricing, physical deterioration, and quality issues.
+
+41
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Business Combinations
+We allocate the fair value of purchase consideration to the assets acquired, including in-process research and development ("IPR&D"), liabilities assumed, and non-controlling interests in the acquiree generally based on their fair values at the acquisition date. IPR&D is initially capitalized at fair value as an intangible asset with an indefinite life and assessed for impairment thereafter. The excess of the fair value of purchase consideration over the fair value of these assets acquired, liabilities assumed and non-controlling interests in the acquiree is recorded as goodwill.
+When determining the fair values of assets acquired, liabilities assumed, and non-controlling interests in the acquiree, management makes significant estimates and assumptions, especially with respect to intangible assets. Critical estimates in valuing intangible assets include, but are not limited to, expected future cash flows, which includes consideration of future growth rates and margins, attrition rates, future changes in technology and brand awareness, loyalty and position, and discount rates. Fair value estimates are based on the assumptions management believes a market participant would use in pricing the asset or liability. Amounts recorded in a business combination may change during the measurement period, which is a period not to exceed one year from the date of acquisition, as additional information about conditions existing at the acquisition date becomes available.
+Goodwill
+We review goodwill for impairment annually and whenever events or changes in circumstances indicate the carrying amount of goodwill may not be recoverable. We are permitted to conduct a qualitative assessment to determine whether it is necessary to perform a quantitative goodwill impairment test. We perform a quantitative test for each of our reporting units as part of our annual goodwill impairment test in the fourth quarter of each fiscal year.
+Goodwill is tested for impairment at the reporting unit level. As of October 31, 2020, our reporting units with goodwill are consistent with the reportable segments identified in Note 2, "Segment Information", to the Consolidated Financial Statements.
+In the goodwill impairment test, we compare the fair value of each reporting unit to its carrying amount. We estimate the fair value of our reporting units using a weighting of fair values derived most significantly from the income approach and, to a lesser extent, the market approach. Under the income approach, we estimate the fair value of a reporting unit based on the present value of estimated future cash flows. Cash flow projections are based on management's estimates of revenue growth rates and operating margins, taking into consideration industry and market conditions. The discount rate used is based on the weighted-average cost of capital adjusted for the relevant risk associated with business specific characteristics and the uncertainty related to the reporting unit's ability to execute on the projected cash flows. Under the market approach, we estimate the fair value based on market multiples of revenue and earnings derived from comparable publicly traded companies with operating and investment characteristics similar to the reporting unit. We weight the fair value derived from the market approach commensurate with the level of comparability of these publicly traded companies to the reporting unit. When market comparables are not meaningful or not available, we estimate the fair value of a reporting unit using only the income approach. A significant and sustained decline in our stock price could provide evidence of a need to record a goodwill impairment charge.
+Estimating the fair value of a reporting unit is judgmental in nature and involves the use of significant estimates and assumptions. These estimates and assumptions, covering discrete forecast periods as well as terminal value determinations, include revenue growth rates and operating margins used to calculate projected future cash flows, risk adjusted discount rates, future economic and market conditions, and the determination of appropriate comparable publicly traded companies. In addition, we make certain judgments and assumptions in allocating shared assets and liabilities to individual reporting units to determine the carrying amount of each reporting unit.
+If the fair value of a reporting unit exceeds the carrying amount of the net assets assigned to that reporting unit, goodwill is not impaired. If the fair value of the reporting unit is less than its carrying amount, goodwill is impaired. The goodwill impairment loss is measured as the excess of the reporting unit's carrying value over its fair value (not to exceed the total goodwill allocated to that reporting unit).
+On March 31, 2020, due to the macroeconomic impacts of COVID-19 on our current and projected future results of operations, we determined that an indicator of potential impairment existed to require an interim quantitative goodwill impairment test for its reporting units.
+Based on the results of this interim quantitative impairment test, the fair value of the HPC & MCS reporting unit was below the carrying value of net assets assigned to HPC & MCS. The decline in the fair value of the HPC & MCS reporting unit
+
+42
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+resulted from macroeconomic impacts of COVID-19 which lowered the projected revenue growth rates and profitability levels of the reporting unit. The fair value of the HPC & MCS reporting unit was based on a weighting of fair values derived most significantly from the income approach, and to a lesser extent, the market approach. Under the income approach, we estimated the fair value of HPC & MCS based on the present value of estimated future cash flows which we considered to be a level 3 unobservable input in the fair value hierarchy. We prepared cash flow projections based on management's estimates of revenue growth rates and operating margins, that considered our historical performance and the current macroeconomic industry and market conditions. We based the discount rate on the weighted-average cost of capital adjusted for the relevant risk associated with business-specific characteristics and the uncertainty related to HPC & MCS's ability to execute on the projected cash flows. Under the market approach, we estimated fair value based on market multiple earnings derived from comparable publicly traded companies with similar operating and investment characteristics as HPC & MCS. We weighted the fair value derived from the market approach commensurate with the level of comparability of these publicly traded companies to HPC & MCS.
+Prior to the quantitative goodwill impairment test, we tested the recoverability of long-lived assets and other assets of the HPC & MCS reporting unit and concluded that such assets were not impaired. The quantitative goodwill impairment test indicated that the carrying value of the HPC & MCS reporting unit exceeded its fair value by $865 million. As a result, we recorded a partial goodwill impairment charge of $865 million in the second quarter of fiscal 2020.
+Our annual goodwill impairment analysis, which we performed as of the first day of the fourth quarter of fiscal 2020, did not result in any additional impairment charges. The excess of fair value over carrying amount for our reporting units ranged from approximately 7% to 31% of the respective carrying amounts. In order to evaluate the sensitivity of the estimated fair value of our reporting units in the goodwill impairment test, we applied a hypothetical 10% decrease to the fair value of each reporting unit. Based on the results of this hypothetical 10% decrease all of the reporting units had an excess of fair value over carrying amount, with the exception of HPC & MCS reporting unit.
+As of the annual test date, subsequent to the impairment recognized in March, the HPC & MCS reporting unit has a goodwill of $3.6 billion and an excess of fair value over carrying value of net assets of 7%. The fair value of the HPC & MCS reporting unit was based on the same methodology used for the interim test, which was a weighting of fair values derived most significantly from the income approach, and to a lesser extent, the market approach. Our HPC & MCS business is facing challenges as a result of the macroeconomic impacts of COVID-19 on our current and projected future results. If we are not successful in addressing these challenges, our projected revenue growth rates or operating margins could decline resulting in a decrease in the fair value of the HPC & MCS reporting unit. The fair value of the HPC & MCS reporting unit could also be negatively impacted by changes in its weighted average cost of capital, changes in management's business strategy or significant and sustained declines in our stock price, which could result in an indicator of impairment.
+In addition, each of our reporting units has experienced a reduction of the excess of fair value over carrying value for the reporting unit, primarily as a result of COVID-19 impacts on our current and projected future results. Should economic conditions deteriorate further or remain depressed for a prolonged period of time, estimates of future cash flows for each of our reporting units may be insufficient to support the carrying value and the goodwill assigned to them, requiring impairment charges, including additional impairment charges for the HPC & MCS reporting unit. Further impairment charges, if any, may be material to our results of operations and financial position. See Part II, Item 1A, "Risk Factors" for a discussion of the potential impacts of COVID-19 on the fair value of our assets.
+Intangible Assets
+We review intangible assets with finite lives for impairment whenever events or changes in circumstances indicate the carrying amount of an asset may not be recoverable. Recoverability of our finite-lived intangible assets is assessed based on the estimated undiscounted future cash flows expected to result from the use and eventual disposition of the asset. If the undiscounted future cash flows are less than the carrying amount, the finite-lived intangible assets are considered to be impaired. The amount of the impairment loss, if any, is measured as the difference between the carrying amount of the asset and its fair value. We estimate the fair value of finite-lived intangible assets by using an income approach or, when available and appropriate, using a market approach.
+
+43
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Fair Value of Derivative Instruments
+We use derivative instruments to manage a variety of risks, including risks related to foreign currency exchange rates and interest rates. We use forwards, swaps and, at times, options to hedge certain foreign currency and interest rate exposures. We do not use derivative financial instruments for speculative purposes. At October 31, 2020, the gross notional amount of our derivative portfolio was $20.1 billion. Assets and liabilities related to derivative instruments are measured at fair value, and were $510 million and $194 million, respectively, as of October 31, 2020.
+Fair value is the price we would receive to sell an asset or pay to transfer a liability in an orderly transaction between market participants at the measurement date. In the absence of active markets for identical assets or liabilities, such measurements involve developing assumptions based on market observable data and, in the absence of such data, internal information that is consistent with what market participants would use in a hypothetical transaction that occurs at the measurement date. The determination of fair value often involves significant judgments about assumptions such as determining an appropriate discount rate that factors in both risk and liquidity premiums, identifying the similarities and differences in market transactions, weighting those differences accordingly and then making the appropriate adjustments to those market transactions to reflect the risks specific to the asset or liability being valued. We generally use industry standard valuation models to measure the fair value of our derivative positions. When prices in active markets are not available for an identical asset or liability, we use industry standard valuation models to measure fair value. Where applicable, these models project future cash flows and discount the future amounts to present value using market based observable inputs, including interest rate curves, Company and counterparty credit risk, foreign currency exchange rates, and forward and spot prices.
+For a further discussion of fair value measurements and derivative instruments, refer to Note 12, "Fair Value" and Note 13, "Financial Instruments", respectively, to the Consolidated Financial Statements.
+Loss Contingencies
+We are involved in various lawsuits, claims, investigations and proceedings including those consisting of IP, commercial, securities, employment, employee benefits, and environmental matters, which arise in the ordinary course of business. We record a liability when we believe that it is both probable that a liability has been incurred and the amount of loss can be reasonably estimated. Significant judgment is required to determine both the probability of having incurred a liability and the estimated amount of the liability. We review these matters at least quarterly and adjust these liabilities to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and other updated information and events, pertaining to a particular case. Based on our experience, we believe that any damage amounts claimed in the specific litigation and contingency matters further discussed in Note 17, "Litigation and Contingencies", to the Consolidated Financial Statements are not a meaningful indicator of our potential liability. Litigation is inherently unpredictable. However, we believe we have valid defenses with respect to legal matters pending against us. Nevertheless, cash flows or results of operations could be materially affected in any particular period by the resolution of one or more of these contingencies. We believe we have recorded adequate provisions for any such matters and, as of October 31, 2020, it was not reasonably possible that a material loss had been incurred in connection with such matters in excess of the amounts recognized in our financial statements.
+
+ACCOUNTING PRONOUNCEMENTS
+For a summary of recent accounting pronouncements applicable to our Consolidated Financial Statements, see Note 1, "Overview and Summary of Significant Accounting Policies", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference.
+
+44
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+RESULTS OF OPERATIONS
+Revenue from our international operations has historically represented, and we expect will continue to represent, a majority of our overall net revenue. As a result, our revenue growth has been impacted, and we expect will continue to be impacted, by fluctuations in foreign currency exchange rates. In order to provide a framework for assessing performance excluding the impact of foreign currency fluctuations, we present the year-over-year percentage change in revenue on a constant currency basis, which assumes no change in foreign currency exchange rates from the prior-year period and doesn't adjust for any repricing or demand impacts from changes in foreign currency exchange rates. This change in revenue on a constant currency basis is calculated as the quotient of (a) current year revenue converted to U.S. dollars using the prior-year period's foreign currency exchange rates divided by (b) prior-year period revenue. This information is provided so that revenue can be viewed without the effect of fluctuations in foreign currency exchange rates, which is consistent with how management evaluates our revenue results and trends. This constant currency disclosure is provided in addition to, and not as a substitute for, the year-over-year percentage change in revenue on a GAAP basis. Other companies may calculate and define similarly labeled items differently, which may limit the usefulness of this measure for comparative purposes.
+Results of operations in dollars and as a percentage of net revenue were as follows:
+
+------------------------------------------------------- -------------------------------------- ------ ------------ ----- ------- - ------------ - ------- ----- ------------ ----- ------- - ------ - ----- -
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ Dollars % of Revenue Dollars % of Revenue Dollars % of Revenue
+ Dollars in millions
+Net revenue $ 26,982 100.0 % $ 29,135 100.0 % $ 30,852 100.0 %
+Cost of sales 18,513 68.6 % 19,642 67.4 % 21,621 70.1 %
+Gross profit 8,469 31.4 % 9,493 32.6 % 9,231 29.9 %
+Research and development 1,874 6.9 % 1,842 6.3 % 1,667 5.4 %
+Selling, general and administrative 4,624 17.1 % 4,907 16.9 % 4,921 15.9 %
+Amortization of intangible assets 379 1.4 % 267 0.8 % 294 1.0 %
+Impairment of goodwill 865 3.2 % — — % 88 0.3 %
+Restructuring charges — — % — — % 19 0.1 %
+Transformation costs 950 3.5 % 453 1.6 % 414 1.3 %
+Disaster charges (recovery) 26 0.1 % (7) — % — — %
+Acquisition, disposition and other related charges 80 0.3 % 757 2.6 % 82 0.3 %
+Separation costs — — % — — % 9 — %
+Earnings (loss) from continuing operations (329) (1.2) % 1,274 4.4 % 1,737 5.6 %
+Interest and other, net (215) (0.8) % (177) (0.6) % (274) (0.9) %
+Tax indemnification adjustments (101) (0.4) % 377 1.3 % (1,354) (4.3) %
+Non-service net periodic benefit credit 136 0.5 % 59 0.2 % 121 0.4 %
+Earnings from equity interests 67 0.3 % 20 — % 38 0.1 %
+Earnings (loss) from continuing operations before taxes (442) (1.6) % 1,553 5.3 % 268 0.9 %
+(Provision) benefit for taxes 120 0.4 % (504) (1.7) % 1,744 5.6 %
+Net earnings (loss) from continuing operations (322) (1.2) % 1,049 3.6 % 2,012 6.5 %
+Net loss from discontinued operations — — % — — % (104) (0.3) %
+Net earnings (loss) $ (322) (1.2) % $ 1,049 3.6 % $ 1,908 6.2 %
+
+45
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Net revenue
+The components of the weighted net revenue change by segment were as follows:
+
+--------------------------------------- -------------------------------------- ---- -----
+ For the fiscal years ended October 31,
+ 2020 2019
+ Percentage Points
+Compute (4.9) (4.9)
+HPC & MCS 0.4 (0.2)
+Storage (1.7) 0.1
+A & PS (0.2) (0.4)
+Intelligent Edge (0.2) (0.3)
+Financial Services (0.8) (0.3)
+Corporate Investments (0.1) (0.1)
+Total Segment (7.5) (6.1)
+Elimination of Intersegment Net Revenue 0.1 0.5
+Total HPE (7.4) (5.6)
+
+Fiscal 2020 compared with Fiscal 2019
+In fiscal 2020, our total net revenue decreased by $2.15 billion or 7.4% (decreased 6.4% on a constant currency basis). U.S. net revenue decreased by $0.42 billion or 4.4% to $9.2 billion, while net revenue from outside of the U.S. decreased by $1.73 billion or 8.9% to $17.8 billion.
+During fiscal 2020, we experienced a net revenue decline due to the impact of the COVID-19 pandemic on our business operations and the worldwide demand environment. Given the comprehensive impact of the pandemic and to avoid repetition, the following discussion of each segment's financial performance in fiscal 2020 as compared to fiscal 2019 will focus on the other leading factors contributing to their performance. From a segment perspective, the primary factors contributing to the change in total net revenue are summarized as follows:
+•Compute net revenue decreased due primarily to competitive pricing pressures, manufacturing capacity constraints in North America in the first quarter of fiscal 2020 and unfavorable foreign currency fluctuations;
+•HPC & MCS net revenue increased due primarily to the addition of revenue resulting from the acquisition of Cray;
+•Storage net revenue decreased due primarily to commodity and manufacturing capacity constraints in North America in the first quarter of fiscal 2020, and lower revenue from the expiration of a one-time legacy contract;
+•A & PS net revenue decreased due primarily to service delivery delays;
+•Intelligent Edge net revenue decreased due primarily to competitive pricing pressures, and unfavorable foreign currency fluctuations, resulting in lower revenue from WLAN, switching products and software offerings; and
+•Financial Services net revenue decreased due primarily to a decrease in rental revenue due to lower average operating lease assets, lower lease equipment buyout revenue and unfavorable currency fluctuations.
+Fiscal 2019 compared with Fiscal 2018
+In fiscal 2019, our total net revenue decreased by $1.7 billion or 5.6% (decreased 4.3% on a constant currency basis). U.S. net revenue decreased by $610 million or 6.0% to $9.6 billion, while net revenue from outside of the U.S. decreased by $1.1 billion or 5.4% to $19.5 billion.
+From a segment perspective, the primary factors contributing to the change in total net revenue are summarized as follows:
+•Compute net revenue decreased due primarily to lower Tier 1 server sales and lower revenue from China as part of our strategic move to exit less profitable product categories and certain markets, and unfavorable currency fluctuations;
+
+46
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+•HPC & MCS net revenue decreased due primarily to the combination of lower services revenue, MCS and edge compute product revenue;
+
+•Storage net revenue increased due primarily to growth in Hyperconverged storage products, Big Data products and storage services;
+
+•A & PS net revenue decreased due primarily to demand weakness, our initiative to streamline our go-to-market approach in certain countries and unfavorable foreign currency fluctuations;
+
+•Intelligent Edge net revenue decreased due primarily to lower sales from switching and WLAN products driven by sales execution issues, particularly in the North America region, weaker demand and unfavorable foreign currency fluctuations; and
+•FS net revenue decreased due primarily to a decrease in rental revenue and unfavorable currency fluctuations.
+Gross Profit
+Fiscal 2020 compared with Fiscal 2019
+Our gross profit margin decreased 1.2 percentage points for fiscal 2020 as compared with fiscal 2019. The decreases in the gross profit margin were due to a combination of factors including competitive pricing pressures, higher supply chain costs resulting from the impact of COVID-19, unfavorable currency fluctuations and the scale of the net revenue decline, partially offset by our continued shift to higher margin products and services and lower variable compensation expense.
+Fiscal 2019 compared with Fiscal 2018
+Our gross profit margin increased 2.7 percentage points for fiscal 2019 as compared with fiscal 2018. The increase in gross profit margin was due primarily to a combination of factors including the year-over-year decrease in commodity costs, lower costs of services and products due to our cost management initiatives and a lower mix of revenue from lower-margin Tier-1 server sales coupled with a higher mix of revenue from higher-margin products.
+Operating expenses
+Research and development
+R&D expense increased by $32 million, or 2%, in fiscal 2020 as compared to fiscal 2019, due primarily to on-going expenses from business acquisitions partially offset by the impact of cost containment measures we put in place in response to COVID-19.
+R&D expense increased by $175 million, or 10%, in fiscal 2019 as compared to fiscal 2018, due primarily to our continued investments in the Intelligent Edge and Storage and on-going expenses from recent business acquisitions, partially offset by favorable currency fluctuations.
+Selling, general and administrative
+SG&A expense decreased by $283 million, or 6%, for fiscal 2020 as compared to fiscal 2019, due primarily to the impact of cost containment measures we put in place in response to COVID-19, lower litigation expenses and favorable currency fluctuations, partially offset by on-going expenses from business acquisitions.
+SG&A expense decreased by $14 million, or 0.3%, for fiscal 2019 as compared to fiscal 2018, due primarily to favorable currency fluctuations and lower variable compensation expense, partially offset by higher investments in the sales organization.
+Amortization of intangible assets
+Amortization expense increased by $112 million, or 42%, in fiscal 2020 as compared to fiscal 2019, due to an increase in the amortization of intangible assets from recent acquisitions and the write-off of certain intangible assets, partially offset by certain intangible assets associated with prior acquisitions reaching the end of their amortization period.
+Amortization expense decreased by $27 million, or 9%, in fiscal 2019 as compared to fiscal 2018, due to certain intangible assets associated with prior acquisitions reaching the end of their amortization periods, partially offset by an increase in the amortization of intangible assets from business acquisitions.
+
+47
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Impairment of goodwill
+Impairment of goodwill for fiscal 2020, represents a partial goodwill impairment charge of $865 million recorded in the second quarter of fiscal 2020, as it was determined that the fair value of the HPC & MCS reporting unit was below the carrying value of its net assets.
+During the fourth quarter of fiscal 2018, management of the then Hybrid IT segment changed its evaluation of Hybrid IT to evaluate the previously integrated CMS business separately from the remainder of Hybrid IT, resulting in a reassessment of the reporting units. This change in segment management review triggered an interim goodwill test in the fourth quarter of fiscal 2018 and based on that test, the fair value of CMS was lower than its carrying value, leading to a goodwill impairment charge of $88 million in fiscal 2018.
+Transformation costs
+Transformation programs are comprised of the cost optimization and prioritization plan which we introduced in May 2020, and the HPE Next Initiative.
+Transformation costs increased by $497 million in fiscal 2020 as compared to fiscal 2019, due primarily to restructuring charges recorded in the current period in connection with the cost optimization and prioritization plan and increased restructuring costs from the HPE Next initiative. These increases were partially offset by higher gains in the current period from the sale of real estate.
+
+Transformation costs increased by $39 million in fiscal 2019 as compared to fiscal 2018, due primarily to fiscal 2019 containing the combination of lower gains from the sale of real estate and impairment charges on real estate assets, the effects of which were partially offset primarily by lower restructuring charges in fiscal 2019.
+Disaster charges (recovery)
+In fiscal 2020, disaster charges represent direct costs resulting from COVID-19 and are primarily related to HPE hosted, co-hosted, or sponsored events which were converted to a virtual format or in some cases cancelled.
+In fiscal 2019, disaster recovery amounts represent insurance recoveries in relation to damage to our facilities in Houston, Texas due to Hurricane Harvey in fiscal 2017.
+Acquisition, disposition and other related charges
+Acquisition, disposition and other related charges decreased by $677 million in fiscal 2020 as compared to fiscal 2019, due primarily to a charge related to a one-time arbitration settlement in the prior-year period, partially offset by recent business acquisition costs related to retention bonuses and integration activities.
+Acquisition, disposition and other related charges increased by $675 million in fiscal 2019 as compared to fiscal 2018, due primarily to a charge related to a one-time arbitration settlement.
+Interest and other, net
+Interest and other, net expense increased by $38 million in fiscal 2020 as compared to fiscal 2019, due primarily to unfavorable currency fluctuations and higher net interest expense, partially offset by a higher gain from the sale of certain assets in the current year.
+Interest and other, net expense decreased by $97 million in fiscal 2019 as compared to fiscal 2018, due primarily to the combination of gains from equity investments and favorable currency fluctuations.
+Tax indemnification adjustments
+Tax indemnification adjustments, representing $101 million of expense, $377 million of income, and $1.4 billion of expense in fiscal 2020, 2019, and 2018, respectively, resulted primarily from the settlement of certain pre-Separation tax liabilities for which we share joint and several liability with HP Inc. and for which we were partially indemnified by HP Inc. under the terminated Tax Matters Agreement. Additionally, fiscal 2019 also includes the impact of the termination of the Tax Matters Agreement with HP Inc. In limited circumstances, we continue to be indemnified under the Termination and Mutual Release Agreement which terminated the Tax Matters Agreement.
+
+48
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Non-service net periodic benefit credit
+Non-service net periodic benefit credit represents the components of net periodic pension benefit costs, other than service cost, for the Hewlett Packard Enterprise defined benefit pension and post-retirement benefit plans such as interest cost, expected return on plan assets, and the amortization of prior plan amendments and actuarial gains or losses. The credit also includes the impact of any plan settlements, curtailments, or special termination benefits.
+Non-service net periodic benefit credit increased by $77 million in fiscal 2020 as compared to fiscal 2019, due primarily to lower interest rates.
+
+Non-service net periodic benefit credit decreased by $62 million in fiscal 2019 as compared to fiscal 2018, due primarily to lower expected returns on pension investments.
+Earnings from equity interests
+Earnings from equity interests primarily represents our 49% interest in H3C and the amortization of a basis difference. Earnings from equity interests increased by $47 million in fiscal 2020 as compared to fiscal 2019 due to higher net income earned by H3C.
+Earnings from equity interests decreased by $18 million in fiscal 2019 as compared to fiscal 2018 due to lower net income earned by H3C.
+Provision for taxes
+Our effective tax rates were 27.1%, 32.5% and (650.7)% in fiscal 2020, 2019 and 2018, respectively. Our effective tax rate generally differs from the U.S. federal statutory rate of 21% due to favorable tax rates associated with certain earnings from our operations in lower tax jurisdictions throughout the world but may also be materially impacted by discrete tax adjustments during the fiscal year. The jurisdictions with favorable tax rates that had the most significant impact on our effective tax rate in the periods presented include Puerto Rico and Singapore.
+In fiscal 2020, we recorded $362 million of net income tax benefits related to items discrete to the year. These amounts primarily included $174 million of income tax benefits related to transformation costs, and acquisition, disposition and other related charges, $66 million of income tax benefits related to the change in pre-Separation tax liabilities, primarily those for which we share joint and several liability with HP Inc. and for which we are indemnified by HP Inc., $57 million of income tax benefits related to Indian distribution tax rate changes, and $40 million of income tax benefits related to tax rate changes on deferred taxes. These discrete tax benefits were offset by $242 million of net income tax charges related to normal operations and the impact of the Company's goodwill impairment charge being non-deductible from a tax perspective.
+In fiscal 2019, we recorded $152 million of net income tax charges related to items discrete to the year. These amounts primarily included $488 million of income tax charges related to changes in U.S. federal and state valuation allowances primarily as a result of impacts of the Tax Cuts and Jobs Act of 2017 (the "Tax Act") and $40 million of income tax charges related to future withholding costs on potential intercompany distributions of earnings, the effects of which were partially offset by $274 million of income tax benefits related to the change in pre-Separation tax liabilities for which we shared joint and several liability with HP Inc., and $104 million of income tax benefits on transformation costs, and acquisition, disposition and other related charges.
+In fiscal 2018, we recorded $2.0 billion of net income tax benefits related to items discrete to the year. These amounts primarily included $2.0 billion of income tax benefits related to the settlement of certain pre-Separation tax liabilities for which we shared joint and several liability with HP Inc. and for which we were partially indemnified by HP Inc. under the Tax Matters Agreement, $208 million of income tax benefits related to Everett pre-divestiture tax matters and valuation allowances, $125 million of income tax benefits on restructuring charges, separation costs, transformation costs and acquisition and other related charges, and $65 million of income tax benefits on net excess tax benefits related to stock-based compensation, the effects of which were partially offset by $422 million of income tax charges related to impacts of the Tax Act.
+
+Segment Information
+A description of the products and services for each segment, along with other pertinent information related to Segments can be found in Note 3, "Segment Information", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference.
+
+49
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Forthcoming Segment Realignments
+
+In order to align our segment financial reporting structure more closely with our current business structure, effective November 1, 2020, we will report the following changes to our reportable segments: the lifecycle event services business which was previously reported within the A & PS segment will be reported within each of the related hardware segments; certain software related business offerings previously reported within Compute, Storage and A & PS will be combined and reported within the Corporate Investments segment; and the remainder of A & PS, which was previously reported as a reportable segment, will be reported within the Corporate Investments segment. Additionally, stock-based compensation expense which was previously reported within segment operating results will be now be reported as a corporate cost.
+As previously discussed in the Overview section of this MD&A, during fiscal 2020, we repetition, the following discussion of the financial performance of each segment in fiscal 2020 as compared to fiscal 2019 will focus on the other leading factors contributing to their performance.
+
+Compute
+
+---------------------------------------------- -------------------------------------- ------ ---- ---- ---- ------ --- - - ------
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ Dollars in millions
+Net revenue $ 12,215 $ 13,642 $ 15,142
+Earnings from operations $ 893 $ 1,550 $ 1,306
+Earnings from operations as a % of net revenue 7.3 % 11.4 % 8.6 %
+
+Fiscal 2020 compared with Fiscal 2019
+Compute net revenue decreased by $1.4 billion, or 10.5% (decreased 9.3% on a constant currency basis), in fiscal 2020 as compared to fiscal 2019.
+Net revenue in Compute declined due to multiple factors including competitive pricing pressures, manufacturing capacity constraints in North America in the first quarter of fiscal 2020, and unfavorable currency fluctuations. As a result, for fiscal 2020, as compared to fiscal 2019 Compute experienced a decline in unit shipments and average unit selling prices.
+
+Compute earnings from operations as a percentage of net revenue decreased 4.1 percentage points for fiscal 2020, as compared to fiscal 2019 due primarily to an increase in costs of products as a percentage of net revenue and an increase in operating expenses as a percentage of net revenue. The increase in cost of products as a percentage of net revenue was due primarily to competitive pricing pressures, unfavorable currency fluctuations, higher supply chain costs and the scale of the net revenue decline, partially offset by lower commodity costs. The increase in operating expense as a percentage of net revenue was due to the scale of the net revenue decline while total operating expenses declined year-over-year due primarily to lower spending due to cost containment measures put in place in response to COVID-19 and lower variable compensation expense. These declines were partially offset by higher field selling costs.
+Fiscal 2019 compared with Fiscal 2018
+Compute net revenue decreased by $1.5 billion, or 9.9% (decreased 8.7% on a constant currency basis), in fiscal 2019 as compared to fiscal 2018.
+Net revenue in Compute declined as we continued to execute on our HPE Next transformation initiative, which included streamlining our offerings and business processes, and shifting investments in innovation towards high growth and higher-margin solutions and services. The decline in revenue was due primarily to lower Tier 1 server sales and lower revenue from China as part of our strategic move to exit less profitable product categories and certain markets, and unfavorable currency fluctuations. Also, weak demand in the enterprise market led to lower revenue from ISS core products as well as longer sales cycles. As a result, for fiscal 2019, as compared to fiscal 2018, Compute experienced a decline in unit shipments while average unit selling prices increased.
+Compute earnings from operations as a percentage of net revenue increased 2.8 percentage points for fiscal 2019, as compared to fiscal 2018 due primarily to a decrease in costs of products as a percentage of net revenue offset by an increase in
+
+50
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+operating expenses as a percentage of net revenue. The decrease in cost of products as a percentage of net revenue was due to a combination of factors including year-over-year decrease in commodity costs, lower costs of products and services due to our cost management initiatives and a lower mix of revenue from lower-margin Tier-1 server sales coupled with a higher mix of revenue from higher-margin products which were partially offset by increased competitive pricing pressures. The increase in operating expenses as a percentage of net revenue was due to the scale of the net revenue decline while total operating expenses declined year-over-year due primarily to our HPE Next initiative to streamline business processes.
+
+HPC & MCS
+
+---------------------------------------------- -------------------------------------- ----- ---- ---- ---- ----- ---- - - -----
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ Dollars in millions
+Net revenue $ 3,036 $ 2,910 $ 2,987
+Earnings from operations $ 237 $ 320 $ 384
+Earnings from operations as a % of net revenue 7.8 % 11.0 % 12.9 %
+
+Fiscal 2020 compared with Fiscal 2019
+HPC & MCS net revenue increased by $126 million, or 4.3% (increased 4.6% on a constant currency basis) in fiscal 2020 as compared to fiscal 2019.
+The increase in HPC & MCS net revenue was primarily driven by higher revenue in HPC due to the addition of product and services revenue resulting from Cray. The net revenue increase in HPC was partially offset by a revenue decline in Edge Compute and MCS.
+HPC & MCS earnings from operations as a percentage of net revenue decreased 3.2 percentage points, in fiscal 2020 as compared to fiscal 2019, due to an increase in operating expenses as a percentage of net revenue partially offset by a lower cost of products and services as a percentage of net revenue. The decrease in cost of products and services as a percentage of net revenue was primarily due to improved product mix from the acquisition of Cray. The increase in operating expenses as a percentage of net revenue was due to the addition of operating expenses resulting from the acquisition of Cray.
+Fiscal 2019 compared with Fiscal 2018
+HPC & MCS net revenue decreased by $77 million, or 2.6% (decreased 2.2% on a constant currency basis) in fiscal 2019 as compared to fiscal 2018.
+The decrease in HPC & MCS net revenue was primarily due to the combination of lower revenue in services, the MCS product portfolio and with Edge Compute products. This decrease was partially offset by growth in the HPC product portfolio due to the increased Apollo product revenue.
+HPC & MCS earnings from operations as a percentage of net revenue decreased 1.9 percentage points, in fiscal 2019 as compared to fiscal 2018, due to an increase in cost of products and services as a percentage of net revenue and an increase in operating expenses as a percentage of net revenue. The increase in cost of products and services as a percentage of net revenue was primarily due to lower mix of lower-cost MCS products and services. The increase in operating expenses as a percentage of net revenue was primarily due to investments in research and development partially offset by a decrease in administrative expense.
+
+Storage
+
+---------------------------------------------- -------------------------------------- ----- ---- ---- ---- ----- ---- - - -----
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ Dollars in millions
+Net revenue $ 4,681 $ 5,185 $ 5,158
+Earnings from operations $ 719 $ 924 $ 830
+Earnings from operations as a % of net revenue 15.4 % 17.8 % 16.1 %
+
+51
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Fiscal 2020 compared with Fiscal 2019
+Storage net revenue decreased by $504 million, or 9.7% (decreased 8.7% on a constant currency basis), in fiscal 2020 as compared to fiscal 2019. Net revenue in Storage declined due primarily to commodity and manufacturing capacity constraints in North America in the first quarter of fiscal 2020, and lower revenue from the expiration of a one-time legacy contract. Partially offsetting the net revenue decrease was revenue growth from Big Data.
+Storage earnings from operations as a percentage of net revenue decreased 2.4 percentage points for fiscal 2020 as compared to fiscal 2019, due to an increase in cost of product and services as a percentage of net revenue and an increase in operating expenses as a percentage of net revenue. The increase in the cost of product and services as a percentage of net revenue was due primarily to unfavorable currency fluctuations and higher cost of products from higher fixed overhead costs as a percentage of net revenue, the effects of which were partially offset by lower cost of services due to delivery efficiencies. The increase in operating expenses as a percentage of net revenue was due primarily to the scale of the net revenue decline and higher investments in R&D, while total operating expenses declined during the period due to lower field selling cost and lower spending due to cost containment measures.
+Fiscal 2019 compared with Fiscal 2018
+Storage net revenue increased by $27 million, or 0.5% (increased 1.5% on a constant currency basis), in fiscal 2019 as compared to fiscal 2018. The increase in net revenue was due primarily to growth in Hyperconverged and Big Data products and storage services. These increases were partially offset by lower net revenue from 3PAR and traditional storage products.
+Storage earnings from operations as a percentage of net revenue increased 1.7 percentage points for fiscal 2019 as compared to fiscal 2018, due to a decrease in cost of product and services as a percentage of net revenue, partially offset by an increase in operating expenses as a percentage of net revenue. The decrease in cost of product and services as a percentage of net revenue was due primarily to the year-over-year decrease in commodity costs, lower cost of services from delivery efficiencies, a more favorable mix of revenue from higher-margin HPE Nimble product and Storage services, and cost management activities. The increase in operating expenses as a percentage of net revenue was due primarily to higher field selling costs and R&D costs driven by business acquisitions.
+
+A & PS
+
+---------------------------------------------- -------------------------------------- --- ---- ----- ---- ----- ----- - - -----
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ Dollars in millions
+Net revenue $ 951 $ 1,012 $ 1,118
+Earnings from operations $ (5) $ (54) $ (79)
+Earnings from operations as a % of net revenue (0.5) % (5.3) % (7.1) %
+
+The components of net revenue and the weighted net revenue change by business unit were as follows:
+
+Fiscal 2020 compared with Fiscal 2019
+A & PS net revenue decreased by $61 million, or 6.0% (decreased 5.7% on a constant currency basis) in fiscal 2020 as compared to fiscal 2019.
+The decrease in A & PS net revenue was primarily due to service delivery delays partially offset by strength in Asia Pacific and Japan.
+A & PS earnings from operations as a percentage of net revenue increased 4.8 percentage points, in fiscal 2020 as compared to fiscal 2019, due to lower cost of services as a percentage of net revenue coupled with a decrease in operating expenses as a percentage of net revenue. The decrease in cost of services as a percentage of net revenue was primarily due to service delivery and overhead efficiencies along with lower variable compensation expense. The decrease to operating expenses as a percentage of net revenue was primarily due to lower spending as a result of cost containment measures.
+
+52
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Fiscal 2019 compared with Fiscal 2018
+A & PS net revenue decreased by $106 million, or 9.5% (decreased 7.3% on a constant currency basis) in fiscal 2019 as compared to fiscal 2018.
+The decrease in A & PS net revenue was due primarily due to demand weakness, lower revenue as a result of our initiative to streamline our go-to-market approach in certain countries and unfavorable foreign currency fluctuations.
+A & PS earnings from operations as a percentage of net revenue increased 1.8 percentage points, in fiscal 2019 as compared to fiscal 2018, due to a decrease in cost of services as a percentage of net revenue while operating expenses as a percentage of net revenue were flat. The decrease in cost of services as a percentage of net revenue was due primarily to our cost management initiatives. Operating expenses as a percentage of net revenue were flat due to lower administrative and marketing expenses offset by higher field selling costs.
+
+Intelligent Edge
+
+---------------------------------------------- -------------------------------------- ----- ---- --- ---- ----- ---- - - -----
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ Dollars in millions
+Net revenue $ 2,855 $ 2,913 $ 3,013
+Earnings from operations $ 281 $ 159 $ 339
+Earnings from operations as a % of net revenue 9.8 % 5.5 % 11.3 %
+
+Fiscal 2020 compared with Fiscal 2019
+Intelligent Edge net revenue decreased by $58 million, or 2.0% (decreased 1.2% on a constant currency basis) in fiscal 2020 as compared to fiscal 2019.
+The decrease in Intelligent Edge net revenue was primarily due to competitive pricing pressures and unfavorable currency fluctuations. As a result, we experienced lower revenue from WLAN, switching products, and software offerings. These declines were partially offset by an increase in net revenue due to higher service renewals.
+Intelligent Edge earnings from operations as a percentage of net revenue increased 4.3 percentage points, in fiscal 2020 as compared to fiscal 2019, due to a decrease in operating expenses as a percentage of net revenue coupled with lower cost of products and services as a percentage of net revenue. The decrease in cost of product and services as a percentage of net revenue was primarily due to a favorable mix of revenue from services and WLAN products partially offset by higher cost of logistics. The decrease in operating expenses as a percentage of net revenue was primarily due to lower spending as a result of cost containment measures, partially offset by higher variable compensation expense.
+Fiscal 2019 compared with Fiscal 2018
+Intelligent Edge net revenue decreased by $100 million, or 3.3% (decreased 2.4% on a constant currency basis) in fiscal 2019 as compared to fiscal 2018.
+The decrease in Intelligent Edge net revenue was primarily due to lower revenue from switching and WLAN products driven by sales execution issues, particularly in the North America region, demand weakness and unfavorable foreign currency fluctuations. These decreases in net revenue were partially offset by higher attach services revenue on a growing installed base and higher renewal rates.
+Intelligent Edge earnings from operations as a percentage of net revenue decreased 5.8 percentage points, in fiscal 2019 as compared to fiscal 2018, due to an increase in operating expenses as a percentage of net revenue partially offset by a decrease in cost of products and services as a percentage of net revenue. The decrease in cost of products and services as a percentage of net revenue was primarily due to higher mix of revenue from lower-cost products and services, and cost management activities partially offset by competitive pricing pressures on switching products. The increase in operating expenses as a percentage of net revenue was due primarily to our continued investments in research and development and the sales organization.
+
+53
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Financial Services
+
+---------------------------------------------- -------------------------------------- ----- ---- --- ---- ----- --- - - -----
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ Dollars in millions
+Net revenue $ 3,352 $ 3,581 $ 3,671
+Earnings from operations $ 278 $ 305 $ 286
+Earnings from operations as a % of net revenue 8.3 % 8.5 % 7.8 %
+
+Fiscal 2020 compared with Fiscal 2019
+FS net revenue decreased by $229 million, or 6.4% (decreased 5.2% on a constant currency basis), in fiscal 2020 due primarily to a decrease in rental revenue due to lower average operating lease assets and lower lease equipment buyout revenue, along with unfavorable currency fluctuations, partially offset by higher revenue from lease extensions.
+FS earnings from operations as a percentage of net revenue decreased 0.2 percentage points due primarily to an increase to operating expenses as a percentage of net revenue, partially offset by lower cost of services as a percentage of net revenue. The decrease to cost of services as a percentage of net revenue resulted from lower depreciation expense and borrowing costs, partially offset by higher bad debt expense. The increase to operating expenses as a percentage of net revenue was due primarily to lower capitalized initial direct costs as a result of adopting the new lease accounting standard.
+Fiscal 2019 compared with Fiscal 2018
+FS net revenue decreased by $90 million, or 2.5% (increased 0.2% on a constant currency basis), in fiscal 2019 due primarily to a decrease in rental revenue due to lower average operating leases and unfavorable currency fluctuations, partially offset by higher asset management revenue from lease extensions, end-of-lease monthly rentals, and lease buyouts.
+FS earnings from operations as a percentage of net revenue increased 0.7 percentage points due to lower cost of services as a percentage of net revenue and a decrease in operating expenses as a percentage of net revenue. The decrease to cost of services as a percentage of net revenue resulted from lower depreciation expense and lower bad debt expense, partially offset by higher borrowing costs. The decrease to operating expenses as a percentage of net revenue was due primarily to lower field selling costs.
+Financing Volume
+
+---------------- -------------------------------------- ----- ---- ---- ----- - -----
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ Dollars in millions
+Financing volume $ 6,005 $ 6,200 $ 6,521
+
+Financing volume, which represents the amount of financing provided to customers for equipment and related software and services, including intercompany activity, decreased by 3.1% in fiscal 2020 and decreased 4.9% in fiscal 2019 as compared to the prior-year periods. The decrease in fiscal 2020 and 2019 were primarily driven by lower financing associated with HPE and third-party product sales and related service offerings, along with unfavorable currency fluctuations.
+Portfolio Assets and Ratios
+The FS business model is asset intensive and uses certain internal metrics to measure its performance against other financial services companies, including a segment balance sheet that is derived from our internal management reporting system. The accounting policies used to derive FS amounts are substantially the same as those used by the Company. However, intercompany loans and certain accounts that are reflected in the segment balances are eliminated in our Consolidated Financial Statements.
+
+54
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+The portfolio assets and ratios derived from the segment balance sheets for FS were as follows:
+
+------------------------------------------------------------ ------------------- ------ ---- ------ - ------
+ As of October 31,
+ 2020 2019
+ Dollars in millions
+Financing receivables, gross $ 9,058 $ 8,652
+Net equipment under operating leases 4,027 4,084
+Capitalized profit on intercompany equipment transactions(1) 315 382
+Intercompany leases(1) 92 100
+Gross portfolio assets 13,492 13,218
+Allowance for doubtful accounts(2) 154 131
+Operating lease equipment reserve 64 60
+Total reserves 218 191
+Net portfolio assets $ 13,274 $ 13,027
+Reserve coverage 1.6 % 1.4 %
+Debt-to-equity ratio(3) 7.0x 7.0x
+
+(1)Intercompany activity is eliminated in consolidation.
+(2)Allowance for doubtful accounts for financing receivables includes both the short- and long-term portions.
+(3)Debt benefiting FS consists of intercompany equity that is treated as debt for segment reporting purposes, intercompany debt, and borrowing- and funding-related activity associated with FS and its subsidiaries. Debt benefiting FS totaled $11.7 billion and $11.4 billion at October 31, 2020 and 2019, respectively, and was determined by applying an assumed debt-to-equity ratio, which management believes to be comparable to that of other similar financing companies. FS equity at both October 31, 2020 and October 31, 2019 was $1.7 billion and $1.6 billion, respectively.
+At October 31, 2020 and 2019, FS net cash and cash equivalents were $729 million and $711 million, respectively.
+Net portfolio assets at October 31, 2020 increased 1.9% from October 31, 2019. The increase generally resulted from new financing volume exceeding portfolio runoff during the period, partially offset by unfavorable currency fluctuations.
+FS bad debt expense includes charges to general reserves, specific reserves and write-offs for sales-type, direct-financing and operating leases. FS recorded net bad debt expense of $93 million, $75 million and $91 million in fiscal 2020, 2019 and 2018, respectively.
+As of October 31, 2020, FS experienced an increase in billed finance receivables compared to October 31, 2019, which included limited impact to collections from customers as a result of COVID-19. We are currently unable to fully predict the extent to which COVID-19 may adversely impact future collections of our receivables.
+
+Corporate Investments
+
+------------------------------------------ -------------------------------------- ----- ---- ------ ---- ----- ------ - - ----
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ Dollars in millions
+Net revenue $ 490 $ 507 $ 543
+Loss from operations $ (100) $ (108) $ (91)
+Loss from operations as a % of net revenue (20.4) % (21.3) % (16.8) %
+
+Fiscal 2020 compared with Fiscal 2019
+Corporate Investments net revenue decreased by $17 million, or 3.4% (decreased 2.8% on a constant currency basis), in fiscal 2020 as compared to fiscal 2019. The decrease in Corporate Investments net revenue was due to lower services revenue from the Communications and Media Solutions ("CMS") business and unfavorable currency fluctuations. CMS revenue decline was due primarily to competitive pricing pressures and a strategic focus on higher margin solutions and services.
+
+55
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Corporate Investments loss from operations as a percentage of net revenue decreased 0.9 percentage points in fiscal 2020 as compared to fiscal 2019, due primarily to lower cost of services, partially offset by higher legal expenses.
+Fiscal 2019 compared with Fiscal 2018
+Corporate Investments net revenue decreased by $36 million, or 6.6% (decreased 4.4% on a constant currency basis), in fiscal 2019 as compared to fiscal 2018. The decrease in Corporate Investments net revenue was due to lower services revenue from the CMS business and unfavorable currency fluctuations. CMS revenue decline was due primarily to competitive pricing pressures and a strategic focus on higher margin solutions and services.
+Corporate Investments loss from operations as a percentage of net revenue increased 4.5 percentage points in fiscal 2019 as compared to fiscal 2018, due primarily to higher R&D expenses from Hewlett Packard Labs and a legal settlement expense in the CMS business, partially offset by lower cost of services from the CMS business.
+
+LIQUIDITY AND CAPITAL RESOURCES
+We use cash generated by operations as our primary source of liquidity. We believe that internally generated cash flows will be generally sufficient to support our operating businesses, capital expenditures, product development initiatives, acquisition and disposal activities including legal settlements, restructuring activities, transformation costs, indemnifications, maturing debt, interest payments, and income tax payments, in addition to any future investments, share repurchases, and stockholder dividend payments. We expect to supplement this short-term liquidity, if necessary, by accessing the capital markets, issuing commercial paper, and borrowing under credit facilities made available by various domestic and foreign financial institutions. However, our access to capital markets may be constrained and our cost of borrowing may increase under certain business, market and economic conditions. Our liquidity is subject to various risks including the risks identified in the section entitled "Risk Factors" in Item 1A and market risks identified in the section entitled "Quantitative and Qualitative Disclosures about Market Risk" in Item 7A, each of which is incorporated herein by reference.
+COVID-19 has severely impacted global economic activity and caused significant volatility and negative pressure in the capital markets, which can increase the cost of capital and adversely impact access to capital. In addition, our businesses have been and may continue to be adversely affected, which may have a material adverse impact on our profitability and cash flows, and the timing and collectability of amounts due from our customers may be adversely affected as a result of the impact of COVID-19.
+On March 27, 2020, the CARES Act was enacted into law in response to COVID-19. The CARES Act, among other things, provides tax relief to businesses, including the deferral of certain payroll taxes, relief for retaining employees, and other income tax provisions. In addition to the CARES Act, governments around the world also enacted comparable legislation to address COVID-19 economic impacts. In fiscal 2020 we deferred approximately $92 million of payroll taxes, which, we may pay, all or in part, prior to the end of October 2021.
+In addition, as a result of the continued uncertainty generated by COVID-19, in April 2020, we issued $2.25 billion aggregate principal amount of unsecured Senior Notes to enhance our liquidity and strengthen our capital. The pricing on our undrawn $4.75 billion revolving credit facility, maturing in August 2024, remains unchanged. We continue to monitor the severity and duration of the pandemic and its impact on the U.S. and other global economies, consumer behavior, our businesses, results of operations, financial condition and cash flows.
+In July 2020, we issued $1.75 billion in aggregate principal amount of unsecured Senior Notes. The net proceeds were used primarily for the redemption in August 2020 of the $3.0 billion outstanding principal amount of the 3.6% unsecured Senior Notes that were originally due in October 2020.
+ On September 21, 2020, we completed the acquisition of Silver Peak Systems Inc. ("Silver Peak"), an SD-WAN (Software-Defined Wide Area Network) leader for consideration of $879 million of which $853 million was paid in cash. Silver Peak's results of operations are included within the Intelligent Edge segment.
+
+56
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+ During the third quarter of fiscal 2020, we launched a cost optimization and prioritization plan which focuses on realigning the workforce to areas of growth, including a new hybrid workforce model called Edge-to-Office, real estate strategies and simplifying and evolving our product portfolio strategy. The implementation period of the cost optimization and prioritization plan is through fiscal 2023. During this time we expect to incur transformation costs predominantly related to labor restructuring, non-labor restructuring, IT investments and design and execution charges. We estimate related cash funding payments of $1.3 billion over the next three charges.
+Our cash balances are held in numerous locations throughout the world, with a substantial amount held outside the U.S as of October 31, 2020. We utilize a variety of planning and financing strategies in an effort to ensure that our worldwide cash is available when and where it is needed. Our cash position is strong and we expect that our cash balances, anticipated cash flow generated from operations and access to capital markets will be sufficient to cover our expected near-term cash outlays.
+Amounts held outside of the U.S. are generally utilized to support our non-U.S. liquidity needs. Repatriations of amounts held outside the U.S. generally will not be taxable from a U.S. federal tax perspective, but may be subject to state income or foreign withholding tax. Where local restrictions prevent an efficient intercompany transfer of funds, our intent is to keep cash balances outside of the U.S. and to meet liquidity needs through ongoing cash flows, external borrowings, or both. We do not expect restrictions or potential taxes incurred on repatriation of amounts held outside of the U.S. to have a material effect on our overall liquidity, financial condition or results of operations.
+On October 13, 2015, our Board of Directors approved a share repurchase program with a $3.0 billion authorization, which was refreshed with additional share repurchase authorizations of $3.0 billion, $5.0 billion and $2.5 billion on May 24, 2016, October 16, 2017 and February 21, 2018, respectively. As of October 31, 2020, we had a remaining authorization of $2.1 billion for future share repurchases. The number of shares that we repurchase under the share repurchase program may vary depending on numerous factors, including share price, liquidity and other market conditions, our ongoing capital allocation planning, levels of cash and debt balances, other demands for cash, such as acquisition activity, general economic or business conditions, and board and management discretion. Additionally, our share repurchase activity, if any, during any particular period may fluctuate. We may commence, accelerate, suspend, delay, or discontinue any share repurchase activity at any time, without notice. This program does not have a specific expiration date.
+In fiscal 2020, we repurchased and settled an aggregate of $355 million of our stock as a result of our share repurchase program. On April 6, 2020, we suspended purchases under its share repurchase program in response to the global economic uncertainty generated by COVID-19. For more information on our share repurchase program, refer to Note 15, "Stockholders' Equity", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+Liquidity
+Our cash, cash equivalents, restricted cash, total debt and available borrowing resources were as follows:
+
+------------------------------------------ ----------------- ------ ---- ---- ------ - ------
+ As of October 31,
+ 2020 2019 2018
+ In millions
+Cash, cash equivalents and restricted cash $ 4,621 $ 4,076 $ 5,084
+Total debt $ 15,941 $ 13,820 $ 12,141
+Available borrowing resources $ 6,297 $ 5,639 $ 5,757
+
+Our key cash flow metrics were as follows:
+
+--------------------------------------------------------------------- -------------------------------------- ----- ---- ------- ---- ------- ------- - -------
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ In millions
+Net cash provided by operating activities $ 2,240 $ 3,997 $ 2,964
+Net cash used in investing activities (2,578) (3,457) (1,880)
+Net cash (used in) provided by financing activities 883 (1,548) (5,592)
+Net Increase (decrease) in cash, cash equivalents and restricted cash $ 545 $ (1,008) $ (4,508)
+
+57
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Operating Activities
+Net cash provided by operating activities decreased by $1.8 billion, for fiscal 2020 as compared to fiscal 2019. The decrease was due primarily to lower earnings from operations and unfavorable net working capital. Net cash provided by operating activities increased by $1.0 billion for fiscal 2019 as compared to fiscal 2018. The increase was driven primarily by favorable net working capital, lower payments related to our ongoing HPE restructuring plans, and cash generated as a result of the settlement of the Tax Matters Agreement pursuant to the Termination and Mutual Release Agreement with HP Inc., the effects of which were partially offset by an arbitration award settlement.
+Our key working capital metrics were as follows:
+
+------------------------------------------------- ----------------- ---- ----- ---- -----
+ As of October 31,
+ 2020 2019 2018
+Days of sales outstanding in accounts receivable 42 37 37
+Days of supply in inventory 48 45 40
+Days of purchases outstanding in accounts payable (97) (104) (100)
+Cash conversion cycle (7) (22) (23)
+
+The cash conversion cycle is the sum of DSO and DOS less DPO. Items which may cause the cash conversion cycle in a particular period to differ include, but are not limited to, changes in business mix, changes in payment terms (including extended payment terms from suppliers), the extent of receivables factoring, seasonal trends, the timing of sales and inventory purchases within the period, the impact of commodity costs and acquisition activity.
+Days of sales outstanding in accounts receivable ("DSO") measures the average number of days our receivables are outstanding. DSO is calculated by dividing ending accounts receivable, net of allowance for doubtful accounts, by a 90-day average of net revenue. For fiscal 2020, as compared to the prior-year period, DSO increased due primarily to a decrease in early payments and factoring, extended payments terms and unfavorable billing linearity. For fiscal 2019, as compared to fiscal 2018, DSO remained flat, as a result of the improvements in collections being offset with unfavorable currency fluctuations and extended payment terms.
+Days of supply in inventory ("DOS") measures the average number of days from procurement to sale of our product. DOS is calculated by dividing ending inventory by a 90-day average of cost of goods sold. For fiscal 2020, as compared to the prior year period, DOS increased due primarily to a higher inventory balance at end of the current reporting period. For fiscal 2019, as compared to fiscal 2018, DOS increased due primarily to an increase in inventory resulting from the acquisition of Cray Inc.
+
+Days of purchases outstanding in accounts payable ("DPO") measures the average number of days our accounts payable balances are outstanding. DPO is calculated by dividing ending accounts payable by a 90-day average of cost of goods sold. For fiscal 2020, as compared to the prior-year period, DPO decreased due primarily to lower inventory replenishments and higher payments to our suppliers during the quarter. For fiscal 2019, as compared to fiscal 2018, DPO increased due primarily to an increase in lease payables due to slower disbursements, payment term extensions and favorable inventory purchasing linearity.
+Investing Activities
+Net cash used in investing activities decreased by $0.9 billion, in fiscal 2020 as compared to fiscal 2019. The change was due primarily to a net decrease of $0.5 billion in cash used for investment in property, plant and equipment, a decrease of $0.7 billion in cash used for payments made in connection with business acquisitions, partially offset by increase of $0.3 billion in cash used in net financial collateral activities as compared to the prior-year period. Net cash used in investing activities increased by $1.6 billion in fiscal 2019 as compared to fiscal 2018 due primarily to an increase of $1.3 billion of cash used for payments made in connection with business acquisitions, an increase of $0.4 billion of cash used for investments in property, plant and equipment, net of proceeds from sales, partially offset by an increase of $0.2 billion of cash received from net financial collateral activities.
+Financing Activities
+Net cash provided by financing activities increased by $2.4 billion in fiscal 2020 as compared to fiscal 2019. The increase was due primarily to $0.6 billion of higher cash generated from the issuance of debt net of repayment, and a decrease in cash utilization of $1.9 billion for share repurchases. Net cash used in financing activities decreased by $4.0 billion in fiscal 2019 as
+
+58
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+compared to fiscal 2018 due primarily to the impact of a higher debt redemption by $1.9 billion in fiscal 2018, an increase in cash proceeds from the issuance of debt of $1.1 billion and a lower utilization of cash for share repurchase activity by $1.3 billion in fiscal 2019. These amounts were partially offset by a net transfer of cash from Seattle of $0.2 billion in fiscal 2018 as a result of the separation.
+Capital Resources
+Debt Levels
+
+------------------------------ ------------------- ------ ---- --- ---- ----- --- - - ------
+ As of October 31,
+ 2020 2019 2018
+ Dollars in millions
+Short-term debt $ 3,755 $ 4,425 $ 2,005
+Long-term debt $ 12,186 $ 9,395 $ 10,136
+Weighted-average interest rate 3.2 % 4.1 % 4.5 %
+
+We maintain debt levels that we establish through consideration of a number of factors, including cash flow expectations, cash requirements for operations, investment plans (including acquisitions), share repurchase activities, our cost of capital, and targeted capital structure.
+Unsecured Senior Notes
+ In August, we redeemed $3.0 billion outstanding principal amount of the 3.6% Senior Notes with original maturity date of October 15, 2020.
+In fiscal year 2020, we completed the offering of the following Senior Notes:
+•In July we issued $1.0 billion at discount to par at a price of 99.883% at 1.45% due April 1, 2024, interest payable semi-annually on April 1 and October 1 of each year beginning on April 1, 2021.
+•In July we issued $750 million at discount to par at a price of 99.820% at 1.75% due April 1, 2026 interest payable semi-annually on April 1 and October 1 of each year beginning on April 1, 2021.
+•In April we issued $1.25 billion at discount to par at a price of 99.956% at 4.45% due October 2, 2023 interest payable semi-annually on April 2 and October 2 of each year beginning on October 2, 2020.
+•In April we issued $1.0 billion at discount to par at a price of 99.817% at 4.65% due October 1, 2024 interest payable semi-annually on April 1 and October 1 of each year beginning on October 1, 2020.
+Asset-Backed Debt Securities
+•In June 2020, we issued $1.0 billion of asset-backed debt securities in six tranches at a weighted average price of 99.99% and a weighted average interest rate of 1.19%, payable monthly from August 2020 with a stated final maturity date of July 2030. As of October 31, 2020, the outstanding balance of the asset-backed debt securities was $822 million.
+•In February 2020, we issued $755 million of asset-backed debt securities in six tranches at a weighted average price of 99.99% and a weighted average interest rate of 1.87%, payable monthly from April 2020 with a stated final maturity date of February 2030. As of October 31, 2020, the outstanding balance of the asset-backed debt securities was $519 million.
+•In September 2019, we issued $763 million asset-backed debt securities in six tranches at a weighted average price of 99.99% and a weighted average interest rate of 2.31%, payable monthly from November 2019 with a stated final maturity date of September 2029. As of October 31, 2020, the outstanding balance of the asset-backed debt securities was $385 million.
+Commercial Paper
+We maintain two commercial paper programs, "the Parent Programs", and a wholly-owned subsidiary maintains a third program. Our U.S. program provides for the issuance of U.S. dollar-denominated commercial paper up to a maximum aggregate principal amount of $4.75 billion which was increased from $4.0 billion in March 2020. Our euro commercial paper
+
+59
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+program provides for the issuance of commercial paper outside of the U.S. denominated in U.S. dollars, euros or British pounds up to a maximum aggregate principal amount of $3.0 billion or the equivalent in those alternative currencies. The combined aggregate principal amount of commercial paper outstanding under those programs at any one time cannot exceed $4.75 billion as authorized by our Board of Directors. In addition, our subsidiary's euro Commercial Paper/Certificate of Deposit Program provides for the issuance of commercial paper in various currencies of up to a maximum aggregate principal amount of $1.0 billion, which was increased from $500 million, by way of an amendment in April 2019. As of October 31, 2020 and October 31, 2019, no borrowings were outstanding under the Parent Programs, and $677 million and $698 million, respectively, were outstanding under our subsidiary's program. During fiscal 2020, we issued $830 million and repaid $882 million of commercial paper.
+Our weighted-average interest rate reflects the average effective rate on our borrowings prevailing during the period and reflects the impact of interest rate swaps. For more information on our interest rate swaps, see Note 13, "Financial Instruments", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+In December 2017, we filed a shelf registration statement with the Securities and Exchange Commission that allows us to sell, at any time and from time to time, in one or more offerings, debt securities, preferred stock, common stock, warrants, depositary shares, purchase contracts, guarantees or units consisting of any of these securities. Our shelf registration statement will expire in December 2020, which will be renewed on or about the same date we file this report.
+Revolving Credit Facility
+We maintain a $4.75 billion five year senior unsecured committed credit facility that was entered into in August 2019. Loans under the revolving credit facility may be used for general corporate purposes, including support of the commercial paper program. Commitments under the Credit Agreement are available for a period of five years, which period may be extended, subject to the satisfaction of certain conditions, by up to two, one-year periods. Commitment fees, interest rates and other terms of borrowing under the credit facility vary based on Hewlett Packard Enterprise's external credit rating. As of October 31, 2020 and October 31, 2019, no borrowings were outstanding under the Credit Agreement.
+Available Borrowing Resources
+As of October 31, 2020, we had the following resources available to obtain short- or long-term financing if we need additional liquidity:
+
+--------------------------- ---------------------- -----
+ As of October 31, 2020
+ In millions
+Commercial paper programs $ 5,073
+Uncommitted lines of credit $ 1,224
+
+For more information on our available borrowing resources, see Note 14, "Borrowings", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+CONTRACTUAL AND OTHER OBLIGATIONS
+Our contractual and other obligations as of October 31, 2020, were as follows:
+
+-------------------------------------------------------------- ----------- ------ ---------------------- --- --------- ----- --------- ---------------- ----- ----- ----- - -----
+ Payments Due by Period
+ Total 1 Year orLess 1-3 Years 3-5 Years More than5 Years
+ In millions
+Principal payments on long-term debt(1) $ 14,740 $ 2,772 $ 4,461 $ 4,506 $ 3,001
+Interest payments on long-term debt(2) 4,147 468 783 519 2,377
+Operating lease obligations (net of sublease rental income)(3) 1,256 167 330 269 490
+Unconditional Purchase obligations(4) 544 231 264 17 32
+Capital lease obligations (includes interest) 68 6 13 14 35
+Total(5)(6)(7)(8) $ 20,755 $ 3,644 $ 5,851 $ 5,325 $ 5,935
+
+60
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+(1)Amounts represent the principal cash payments relating to our long-term debt, including current portion of long-term debt, and do not include fair value adjustments, discounts or premiums and debt issuance costs. As of October 31, 2020, the future principal payments related to asset-backed debt securities were expected to be $891 million in fiscal 2021, $594 million in fiscal 2022 and $241 million in fiscal 2023. For more information on our debt, see Note 14, "Borrowings", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(2)Amounts represent the expected interest payments relating to our long-term debt. We use interest rate swaps to mitigate the exposure of our fixed rate debt to changes in fair value resulting from changes in interest rates, or hedge the variability of cash flows in the interest payments associated with our variable-rate debt. The impact of our outstanding interest rate swaps at October 31, 2020 was factored into the calculation of the future interest payments on long-term debt.
+(3)Amounts include uncommenced operating leases as of fiscal 2020 and do not reflect imputed interest adjustments.
+(4)For additional information on our Unconditional Purchase Obligations, see Note 19, "commitments", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(5)In fiscal 2021, we anticipate making contributions of $192 million to our non-U.S. pension plans. Our policy is to fund pension plans so that we meet at least the minimum contribution requirements, as established by various authorities including local government and taxing authorities. Expected contributions and payments to our pension and post-retirement benefit plans are excluded from the contractual obligations table because they do not represent contractual cash outflows, as they are dependent on numerous factors which may result in a wide range of outcomes. For more information on our retirement and post-retirement benefit plans, see Note 4, "Retirement and Post-Retirement Benefit Plans", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(6)As of October 31, 2020, we expect future cash payments of approximately $1.4 billion in connection with our approved restructuring plans, which includes $0.6 billion expected to be paid in fiscal 2021 and $0.8 billion expected to be paid thereafter. Payments for restructuring activities have been excluded from the contractual obligations table, because they do not represent contractual cash outflows and there is uncertainty as to the timing of these payments. For more information on our restructuring activities, see Note 3, "Transformation Programs", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(7)As of October 31, 2020, we had approximately $468 million of recorded liabilities and related interest and penalties pertaining to uncertain tax positions. These liabilities and related interest and penalties include $29 million expected to be paid within one year. For the remaining amount, we are unable to make a reasonable estimate as to when cash settlement with the tax authorities might occur due to the uncertainties related to these tax matters. Payments of these obligations would result from settlements with taxing authorities. For more information on our uncertain tax positions, see Note 6, "Taxes on Earnings", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(8)In connection with the Separation, Everett and Seattle transactions, we entered into a Separation and Distribution Agreement with HP Inc., DXC and Micro Focus respectively, whereby we agreed to indemnify HP Inc., DXC and Micro Focus, each of their subsidiaries and each of their respective directors, officers and employees from and against all liabilities relating to, arising out of or resulting from, among other matters, the liabilities allocated to us as part of the Separation, Everett and Seattle transactions. HP Inc., DXC and Micro Focus similarly agreed to indemnify us, each of our subsidiaries and each of our respective directors, officers and employees from and against all claims and liabilities relating to, arising out of or resulting from, among other matters, the liabilities allocated to HP Inc., DXC and Micro Focus as part of the said transactions. Additionally, in connection with the Separation, Everett and Seattle transactions, we entered into a Tax Matters Agreement with HP Inc., DXC and Micro Focus respectively regarding our rights and obligations along with those of HP Inc., DXC or Micro Focus, as applicable, for certain pre-Separation and pre-divestiture tax liabilities and tax receivables. On October 30, 2019, we terminated our Tax Matters Agreement with HP Inc. See Note 18, "Guarantees, Indemnifications and Warranties", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference for more information on our receivable and payable balances related to indemnified litigation matters and other contingencies, and income tax-related indemnification covered by these agreements.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+As part of our ongoing business, we have not participated in transactions that generate material relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+We have third-party revolving short-term financing arrangements intended to facilitate the working capital requirements of certain customers. For more information on our third-party revolving short-term financing arrangements, see Note 7, "Balance Sheet Details", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+61
+
+Table of Contents
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[see Note 3]:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, a privately held 3D editing and authoring software company for gaming and entertainment, and integrated it into our Digital Media reportable segment. Prior to the acquisition, we held an equity interest that was accounted for as an equity-method investment. We acquired the remaining equity interest for approximately $106.2 million in cash consideration. The total purchase price, inclusive of the acquisition-date fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 million, which represents the difference between the $54.8 million acquisition-date fair value of our pre-existing equity interest and our previous carrying amount. Under the acquisition method of accounting, the total final purchase price was allocated to Allegorithmic's net tangible and intangible assets based upon their estimated fair values as of the acquisition date. The excess purchase price over the value of the net tangible and identifiable intangible assets was recorded as goodwill. Of the total purchase price, $125.9 million was allocated to goodwill that was non-deductible for tax purposes, $44.8 million to identifiable intangible assets and the remainder to net liabilities assumed. Pro forma financial information has not been presented for the Allegorithmic acquisition as the impact to our Consolidated Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash consideration. Adding Marketo's engagement platform to Adobe Experience Cloud furthers our long-term plan for strategic growth in the Digital Experience segment and enables us to offer a comprehensive set of solutions to enable customers across industries...
+
+[refer to Note 6]:
+NOTE 6. DERIVATIVE FINANCIAL INSTRUMENTS We may use derivatives to partially offset our business exposure to foreign currency and interest rate risk on expected future cash flows, and certain existing assets and liabilities. We do not use any of our derivative instruments for trading purposes. We enter into master netting arrangements to mitigate credit risk in derivative transactions by permitting net settlement of transactions with the same counterparty. We do not offset fair value amounts recognized for derivative instruments under master netting arrangements. We also enter into collateral security agreements with certain of our counterparties to exchange cash collateral when the net fair value of certain derivative instruments fluctuates from contractually established thresholds. Collateral posted is included in prepaid expenses and other current assets and collateral received is included in accrued expenses on our Consolidated Balance Sheets. Cash Flow Hedges In countries outside the United States, we transact business in U.S. Dollars and in various other currencies. We may use foreign exchange option contracts or forward contracts to hedge a portion of our forecasted foreign currency denominated revenue. These foreign exchange contracts, carried at fair value, have maturities of up to twelve months. As of November 29, 2019, total notional amounts of outstanding cash flow hedges were $1.20 billion, hedging exposures denominated in Euros, British Pounds and Japanese Yen. In June 2019, in anticipation of refinancing our $2.25 billion Term Loan due April 30, 2020 and $900 million notes payable due February 1, 2020, we entered into Treasury lock agreements with large financial institutions which fixed benchmark U.S. Treasury rates for an aggregate notional amount of $1 billion of our future debt issuance. These derivative instruments hedge the impact of changes in the benchmark interest rate to future interest payments and will be terminated upon closing of our ant...
+
+[refer to Note 12]:
+Note 12 Repurchases of Common Stock 92
+
+[see Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Inc. is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, devices and media. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas, Europe, Middle East and Africa ("EMEA"), and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and...
+
+[refer to Note 15]:
+Note 15 - Arrangements with Off-Balance Sheet Risk 89
+
+[see Note 13]:
+Note 13 - Commitments and Contingencies 53
+
+[see Note 14]:
+Note 14 - Liabilities, Commitments and Contingencies 84
+
+[see Note 14]:
+Note 14 - Liabilities, Commitments and Contingencies 84
+
+[see Note 19]:
+Note 19 -- Commitments and Contingencies 126
+
+[see Note 4]:
+(4) Adjusted income tax rate is calculated as adjusted income tax expense as a percentage of income from consolidated operations before income taxes, excluding transaction and integration expenses and special charges, or $840.0 million, $780.1 million, and $694.1 million for the years ended November 30, 2019, 2018, and 2017, respectively. 32 ------------------------------------- -------------- ---------------------------------------------- Estimate for the year ending November 30, 2020 Earnings per share - diluted $5.15 to $5.25 Impact of special charges 0.05 Adjusted earnings per share - diluted $5.20 to $5.30 Because we are a multi-national company, we are subject to variability of our reported U.S. dollar results due to changes in foreign currency exchange rates. Those changes have been volatile over the past several years. The exclusion of the effects of foreign currency exchange, or what we refer to as amounts expressed "on a constant currency basis," is a non-GAAP measure. We believe that this non-GAAP measure provides additional information that enables enhanced comparison to prior periods excluding the translation effects of changes in rates of foreign currency exchange and provides additional insight into the underlying performance of our operations located outside of the U.S. It should be noted that our presentation herein of amounts and percentage changes on a constant currency basis does not exclude the impact of foreign currency transaction gains and losses (that is, the impact of transactions denominated in other than the local currency of any of our subsidiaries in their local currency reported results). Percentage changes in sales and adjusted operating income expressed on a constant currency basis are presented excluding the impact of foreign currency exchange. To present this information for historical periods, current year results for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at the average exchan...
+
+[see Note 3]:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, a privately held 3D editing and authoring software company for gaming and entertainment, and integrated it into our Digital Media reportable segment. Prior to the acquisition, we held an equity interest that was accounted for as an equity-method investment. We acquired the remaining equity interest for approximately $106.2 million in cash consideration. The total purchase price, inclusive of the acquisition-date fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 million, which represents the difference between the $54.8 million acquisition-date fair value of our pre-existing equity interest and our previous carrying amount. Under the acquisition method of accounting, the total final purchase price was allocated to Allegorithmic's net tangible and intangible assets based upon their estimated fair values as of the acquisition date. The excess purchase price over the value of the net tangible and identifiable intangible assets was recorded as goodwill. Of the total purchase price, $125.9 million was allocated to goodwill that was non-deductible for tax purposes, $44.8 million to identifiable intangible assets and the remainder to net liabilities assumed. Pro forma financial information has not been presented for the Allegorithmic acquisition as the impact to our Consolidated Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash consideration. Adding Marketo's engagement platform to Adobe Experience Cloud furthers our long-term plan for strategic growth in the Digital Experience segment and enables us to offer a comprehensive set of solutions to enable customers across industries...
+
+[see Note 6]:
+NOTE 6. DERIVATIVE FINANCIAL INSTRUMENTS We may use derivatives to partially offset our business exposure to foreign currency and interest rate risk on expected future cash flows, and certain existing assets and liabilities. We do not use any of our derivative instruments for trading purposes. We enter into master netting arrangements to mitigate credit risk in derivative transactions by permitting net settlement of transactions with the same counterparty. We do not offset fair value amounts recognized for derivative instruments under master netting arrangements. We also enter into collateral security agreements with certain of our counterparties to exchange cash collateral when the net fair value of certain derivative instruments fluctuates from contractually established thresholds. Collateral posted is included in prepaid expenses and other current assets and collateral received is included in accrued expenses on our Consolidated Balance Sheets. Cash Flow Hedges In countries outside the United States, we transact business in U.S. Dollars and in various other currencies. We may use foreign exchange option contracts or forward contracts to hedge a portion of our forecasted foreign currency denominated revenue. These foreign exchange contracts, carried at fair value, have maturities of up to twelve months. As of November 29, 2019, total notional amounts of outstanding cash flow hedges were $1.20 billion, hedging exposures denominated in Euros, British Pounds and Japanese Yen. In June 2019, in anticipation of refinancing our $2.25 billion Term Loan due April 30, 2020 and $900 million notes payable due February 1, 2020, we entered into Treasury lock agreements with large financial institutions which fixed benchmark U.S. Treasury rates for an aggregate notional amount of $1 billion of our future debt issuance. These derivative instruments hedge the impact of changes in the benchmark interest rate to future interest payments and will be terminated upon closing of our ant...
+
+[See Note 18]:
+Note 18 Retirement Benefits FS-41
+
+[see Note 7]:
+(7) Lennar Other Evaluation of segment performance is based primarily on operating earnings (loss) before income taxes. Operations of the Company's homebuilding segments primarily include the construction and sale of single-family attached and detached homes, as well as the purchase, development and sale of residential land directly and through the Company's unconsolidated entities. Operating earnings (loss) for the homebuilding segments consist of revenues generated from the sales of homes and land, equity in earnings (loss) from unconsolidated entities and other income (expense), net, less the cost of homes sold and land sold, selling, general and administrative expenses incurred by the segment and loss due to litigation. The Company's reportable homebuilding segments and all other homebuilding operations not required to be reported separately, have homebuilding divisions located in: East: Florida, New Jersey, North Carolina, Pennsylvania and South Carolina Central: Georgia, Illinois, Indiana, Maryland, Minnesota, Tennessee and Virginia Texas: Texas West: Arizona, California, Colorado, Nevada, Oregon, Utah and Washington Other: Urban divisions and other homebuilding related investments primarily in California, including Five Point Holdings, LLC ("FivePoint") Operations of the Financial Services segment include primarily mortgage financing, title and closing services primarily for buyers of the Company's homes. It also includes originating and selling into securitizations commercial mortgage loans through its RMF business. The Financial Services segment sells substantially all of the loans it originates within a short period of time in the secondary mortgage market, the majority of which are sold on a servicing released, non-recourse basis. After the loans are sold, the Company retains potential liability for possible claims by purchasers that it breached certain limited industry standard representations and warranties in the loan sale agreements. Financial Service...
+
+[See Part II, Item 1A]:
+Item 1A. Risk Factors 22
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 22
+
+[Part II, Item 1A]:
+Item 1A. Risk Factors 22
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference.
+For a further discussion of trends, uncertainties and other factors that could impact our operating results, and risks, uncertainties and actions taken in response to COVID-19, see the section entitled "]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[" in Item 1A of Part 1, which is incorporated herein by reference.
+The following Overview, Results of Operations and Liquidity discussions and analysis compare fiscal 2020 to fiscal 2019 and fiscal 2019 to fiscal 2018, unless otherwise noted. The Capital Resources and Contractual and Other Obligations discussions present information as of October 31, 2020, unless otherwise noted.
+OVERVIEW
+We are a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. We enable customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future. Our legacy dates back to a partnership founded in 1939 by William R. Hewlett and David Packard, and we strive every day to uphold and enhance that legacy through our dedication to providing innovative technological solutions to our customers.
+We organize our business into seven segments for financial reporting purposes: Compute, High Performance Compute & Mission Critical Systems (HPC & MCS), Storage, Advisory and Professional Services (A & PS), Intelligent Edge, Financial Services ("]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal in their products and solutions. Our products run on personal and server-based and...
+
+['s Board of Directors. Management believes that the accounting estimates employed and the resulting amounts are reasonable; however, actual results may differ from these estimates. Making estimates and judgments about future events is inherently unpredictable and is subject to significant uncertainties, some of which are beyond our control. Should any of these estimates and assumptions change or prove to have been incorrect, it could have a material impact on our results of operations, financial position and cash flows.
+A summary of significant accounting policies is included in Note 1, "]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Inc. is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, devices and media. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use ("GAAP") and pursuant to the rules and regulations of the United States Securities and...
+
+[", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, if different estimates reasonably could have been used, or if changes in the estimate that are reasonably possible could materially impact the financial statements. Management believes the following critical accounting policies reflect the significant estimates and assumptions used in the preparation of the Consolidated Financial Statements.
+Revenue Recognition
+General
+We account for a contract with a customer when both parties have provided written approval and are committed to perform, each party']:
+Item 8. Financial Statements and Supplementary Data 31
+
+['s expected returns for each asset class. In any fiscal year, significant differences may arise between the actual return and the expected long-term return on plan assets. Historically, differences between the actual return and expected long-term return on plan assets have resulted from changes in target or actual asset allocation, short-term performance relative to expected long-term performance, and to a lesser extent, differences between target and actual investment allocations, the timing of benefit payments compared to expectations, and the use of derivatives intended to effect asset allocation changes or hedge certain investment or liability exposures.
+Our major assumptions vary by plan, and the weighted-average rates used are set forth in Note 4, "]:
+(4) Adjusted income tax rate is calculated as adjusted income tax expense as a percentage of income from consolidated operations before income taxes, excluding transaction and integration expenses and special charges, or $840.0 million, $780.1 million, and $694.1 million for the years ended November 30, 2019, 2018, and 2017, respectively. 32 ------------------------------------- -------------- ---------------------------------------------- Estimate for the year ending November 30, 2020 Earnings per share - diluted $5.15 to $5.25 Impact of special charges 0.05 Adjusted earnings per share - diluted $5.20 to $5.30 Because we are a multi-national company, we are subject to variability of our reported U.S. dollar results due to changes in foreign currency exchange rates. Those changes have been volatile over the past several years. The exclusion of the effects of foreign currency exchange, or what we refer to as amounts expressed "on a constant currency basis," is a non-GAAP measure. We believe that this non-GAAP measure provides additional information that enables enhanced comparison to prior periods excluding the translation effects of changes in rates of foreign currency exchange and provides additional insight into the underlying performance of our operations located outside of the U.S. It should be noted that our presentation herein of amounts and percentage changes on a constant currency basis does not exclude the impact of foreign currency transaction gains and losses (that is, the impact of transactions denominated in other than the local currency of any of our subsidiaries in their local currency reported results). Percentage changes in sales and adjusted operating income expressed on a constant currency basis are presented excluding the impact of foreign currency exchange. To present this information for historical periods, current year results for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at the average exchan...
+
+["), liabilities assumed, and non-controlling interests in the acquiree generally based on their fair values at the acquisition date. IPR&D is initially capitalized at fair value as an intangible asset with an indefinite life and assessed for impairment thereafter. The excess of the fair value of purchase consideration over the fair value of these assets acquired, liabilities assumed and non-controlling interests in the acquiree is recorded as goodwill.
+When determining the fair values of assets acquired, liabilities assumed, and non-controlling interests in the acquiree, management makes significant estimates and assumptions, especially with respect to intangible assets. Critical estimates in valuing intangible assets include, but are not limited to, expected future cash flows, which includes consideration of future growth rates and margins, attrition rates, future changes in technology and brand awareness, loyalty and position, and discount rates. Fair value estimates are based on the assumptions management believes a market participant would use in pricing the asset or liability. Amounts recorded in a business combination may change during the measurement period, which is a period not to exceed one year from the date of acquisition, as additional information about conditions existing at the acquisition date becomes available.
+Goodwill
+We review goodwill for impairment annually and whenever events or changes in circumstances indicate the carrying amount of goodwill may not be recoverable. We are permitted to conduct a qualitative assessment to determine whether it is necessary to perform a quantitative goodwill impairment test. We perform a quantitative test for each of our reporting units as part of our annual goodwill impairment test in the fourth quarter of each fiscal year.
+Goodwill is tested for impairment at the reporting unit level. As of October 31, 2020, our reporting units with goodwill are consistent with the reportable segments identified in Note 2, "]:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 89 ------- --------------------------------------------------------------------------- 101.DEF InlineXBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement
+
+['s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+Fair Value of Derivative Instruments
+We use derivative instruments to manage a variety of risks, including risks related to foreign currency exchange rates and interest rates. We use forwards, swaps and, at times, options to hedge certain foreign currency and interest rate exposures. We do not use derivative financial instruments for speculative purposes. At October respectively, as of October 31, 2020.
+Fair value is the price we would receive to sell an asset or pay to transfer a liability in an orderly transaction between market participants at the measurement date. In the absence of active markets for identical assets or liabilities, such measurements involve developing assumptions based on market observable data and, in the absence of such data, internal and counterparty credit risk, foreign currency exchange rates, and forward and spot prices.
+For a further discussion of fair value measurements and derivative instruments, refer to Note 12, "]:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 89 ------- --------------------------------------------------------------------------- 101.DEF InlineXBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement
+
+[" and Note 13, "]:
+Note 13 - Commitments and Contingencies 53
+
+[", respectively, to the Consolidated Financial Statements.
+Loss Contingencies
+We are involved in various lawsuits, claims, investigations and proceedings including those consisting of IP, commercial, securities, employment, employee benefits, and environmental matters, which arise in the ordinary course of business. We record a liability when we believe that it is both probable that a liability has been incurred and the amount of loss can be reasonably estimated. Significant judgment is required to determine both the probability of having incurred a liability and the estimated amount of the liability. We review these matters at least quarterly and adjust these liabilities to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and other updated information and events, pertaining to a particular case. Based on our experience, we believe that any damage amounts claimed in the specific litigation and contingency matters further discussed in Note 17, "]:
+Note 17 - Postretirement Plans 92
+
+[", to the Consolidated Financial Statements are not a meaningful indicator of our potential liability. Litigation is inherently unpredictable. However, we believe we have valid defenses with respect to legal matters pending against us. Nevertheless, cash flows or results of operations could be materially affected in any particular period by the resolution of one or more of these contingencies. We believe we have recorded adequate provisions for any such matters and, as of October 31, 2020, it was not reasonably possible that a material loss had been incurred in connection with such matters in excess of the amounts recognized in our financial statements.
+
+ACCOUNTING PRONOUNCEMENTS
+For a summary of recent accounting pronouncements applicable to our Consolidated Financial Statements, see Note 1, "]:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 89 ------- --------------------------------------------------------------------------- 101.DEF InlineXBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement
+
+[", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference.
+
+44
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+Item 8. Financial Statements and Supplementary Data 31
+
+[" in Item 1A and market risks identified in the section entitled "]:
+Item 1A. Risk Factors 22
+
+[" in Item 7A, each of which is incorporated herein by reference.
+COVID-19 has severely impacted global economic activity and caused significant volatility and negative pressure in the capital markets, which can and cash flows, and the timing and collectability of amounts due from our customers may be adversely affected as a result of the impact of COVID-19.
+On March 27, 2020, the CARES Act was enacted into law which, we may pay, all or in part, prior to the end of October 2021.
+In addition, as a result of the continued uncertainty generated by COVID-19, in April 2020, we issued $2.25 billion aggregate principal flows.
+In July 2020, we issued $1.75 billion in aggregate principal amount of unsecured Senior Notes. The net proceeds were used primarily for the redemption in August 2020 of the $3.0 billion outstanding principal amount of the 3.6% unsecured Senior Notes that were originally due in October 2020.
+ On September 21, 2020, we completed the acquisition of Silver Peak Systems Inc. ("]:
+(7) Lennar Other Evaluation of segment performance is based primarily on operating earnings (loss) before income taxes. Operations of the Company's homebuilding segments primarily include the construction and sale of single-family attached and detached homes, as well as the purchase, development and sale of residential land directly and through the Company's unconsolidated entities. Operating earnings (loss) for the homebuilding segments consist of revenues generated from the sales of homes and land, equity in earnings (loss) from unconsolidated entities and other income (expense), net, less the cost of homes sold and land sold, selling, general and administrative expenses incurred by the segment and loss due to litigation. The Company's reportable homebuilding segments and all other homebuilding operations not required to be reported separately, have homebuilding divisions located in: East: Florida, New Jersey, North Carolina, Pennsylvania and South Carolina Central: Georgia, Illinois, Indiana, Maryland, Minnesota, Tennessee and Virginia Texas: Texas West: Arizona, California, Colorado, Nevada, Oregon, Utah and Washington Other: Urban divisions and other homebuilding related investments primarily in California, including Five Point Holdings, LLC ("FivePoint") Operations of the Financial Services segment include primarily mortgage financing, title and closing services primarily for buyers of the Company's homes. It also includes originating and selling into securitizations commercial mortgage loans through its RMF business. The Financial Services segment sells substantially all of the loans it originates within a short period of time in the secondary mortgage market, the majority of which are sold on a servicing released, non-recourse basis. After the loans are sold, the Company retains potential liability for possible claims by purchasers that it breached certain limited industry standard representations and warranties in the loan sale agreements. Financial Service...
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+In December 2017, we filed a shelf registration statement with the Securities and Exchange Commission that allows us to sell, at any time and from time to time, in one or more offerings, debt securities, preferred stock, common stock, warrants, depositary shares, purchase contracts, guarantees or units consisting of any of these securities. Our shelf registration statement will expire in December 2020, which will be renewed on or about the same date we file this report.
+Revolving Credit Facility
+We maintain a $4.75 billion five year senior unsecured fees, interest rates and other terms of borrowing under the credit facility vary based on Hewlett Packard Enterprise']:
+Item 8. Financial Statements and Supplementary Data 31
+
+['s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+(1)Amounts represent the principal cash payments relating to our long-term debt, including current portion of long-term debt, and do not include fair value adjustments, discounts or premiums and debt issuance costs. As of October 31, 2020, the future principal payments related to asset-backed debt securities were expected to be $891 million in fiscal 2021, $594 million in fiscal 2022 and $241 million in fiscal 2023. For more information on our debt, see Note 14, "]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Inc. is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, devices and media. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas, Europe, Middle East and Africa ("EMEA"), and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and...
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(2)Amounts represent the expected interest payments relating to our long-term debt. We use interest rate swaps to mitigate the exposure of our fixed rate debt to changes in fair value resulting from changes in interest rates, or hedge the variability of cash flows in the interest payments associated with our variable-rate debt. The impact of our outstanding interest rate swaps at October 31, 2020 was factored into the calculation of the future interest payments on long-term debt.
+(3)Amounts include uncommenced operating leases as of fiscal 2020 and do not reflect imputed interest adjustments.
+(4)For additional information on our Unconditional Purchase Obligations, see Note 19, "]:
+(8) Registration Statement (Form S-8 No. 333-177561) pertaining to Netflix, Inc. 2011 Stock Plan; of our reports dated January 29, 2020, with respect to the consolidated financial statements of Netflix, Inc. and the effectiveness of internal control over financial reporting of Netflix, Inc. included in this Annual Report (Form 10-K) of Netflix, Inc. for the year ended December 31, 2019. -------------------- --------------------- /s/ Ernst & Young LLP San Jose, California January 29, 2020 EX-31.1 5 ex311q419.htm EXHIBIT 31.1 Exhibit EXHIBIT 31.1 CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Reed Hastings, certify that: -- ----------------------------------------------------------------- 1. I have reviewed this Annual Report on Form 10-K of Netflix, Inc.; -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; -- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; -- -------...
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(5)In fiscal 2021, we anticipate making contributions of $192 million to our non-U.S. pension plans. Our policy is to fund pension plans so that we meet at least the minimum contribution requirements, as established by various authorities including local government and taxing authorities. Expected contributions and payments to our pension and post-retirement benefit plans are excluded from the contractual obligations table because they do not represent contractual cash outflows, as they are dependent on numerous factors which may result in a wide range of outcomes. For more information on our retirement and post-retirement benefit plans, see Note 4, "]:
+(8) Registration Statement (Form S-8 No. 333-177561) pertaining to Netflix, Inc. 2011 Stock Plan; of our reports dated January 29, 2020, with respect to the consolidated financial statements 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; -- -------...
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(6)As of October 31, 2020, we expect future cash payments of approximately $1.4 billion in connection with our approved restructuring plans, which includes $0.6 billion expected to be paid in fiscal 2021 and $0.8 billion expected to be paid thereafter. Payments for restructuring activities have been excluded from the contractual obligations table, because they do not represent contractual cash outflows and there is uncertainty as to the timing of these payments. For more information on our restructuring activities, see Note 3, "]:
+(8) Registration Statement (Form S-8 No. 333-177561) pertaining to Netflix, Inc. 2011 Stock Plan; of our reports dated January 29, 2020, with respect to the consolidated financial statements of Netflix, Inc. and the effectiveness of internal control over financial reporting of Netflix, Inc. 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; -- -------...
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(7)As of October 31, 2020, we had approximately $468 million of recorded liabilities and related interest and penalties pertaining to uncertain tax positions. These liabilities and related interest and penalties include $29 million expected to be paid within one year. For the remaining amount, we are unable to make a reasonable estimate as to when cash settlement with the tax authorities might occur due to the uncertainties related to these tax matters. Payments of these obligations would result from settlements with taxing authorities. For more information on our uncertain tax positions, see Note 6, "]:
+(8) Registration Statement (Form S-8 No. 333-177561) pertaining to Netflix, Inc. 2011 Stock Plan; of our reports dated January 29, 2020, with respect to the consolidated financial statements of Netflix, Inc. and the effectiveness of internal control over financial reporting of Netflix, Inc. included in this Annual Report (Form 10-K) of Netflix, Inc. for the year ended December 31, 2019. -------------------- --------------------- /s/ Ernst & Young LLP San Jose, California January 29, 2020 EX-31.1 5 ex311q419.htm EXHIBIT 31.1 Exhibit EXHIBIT 31.1 CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Reed Hastings, certify that: -- 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; -- -------...
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+(8)In connection with the Separation, Everett and Seattle transactions, we entered into a Separation and Distribution Agreement with HP Inc., DXC and Micro Focus respectively, whereby we agreed to indemnify HP Inc., DXC and Micro Focus, each of their subsidiaries and each of their respective directors, officers and employees from and against all liabilities relating to, arising out of or resulting from, among other matters, the liabilities allocated to us as part of the Separation, Everett and Seattle transactions. HP Inc., DXC and Micro Focus similarly agreed to indemnify us, each of our subsidiaries and each of our respective directors, officers and employees from and against all claims and liabilities relating to, arising out of or resulting from, among other matters, the liabilities allocated to HP Inc., DXC and Micro Focus as part of the said transactions. Additionally, in connection with the Separation, Everett and Seattle transactions, we entered into a Tax Matters Agreement with HP Inc., DXC and Micro Focus respectively regarding our rights and obligations along with those of HP Inc., DXC or Micro Focus, as applicable, for certain pre-Separation and pre-divestiture tax liabilities and tax receivables. On October 30, 2019, we terminated our Tax Matters Agreement with HP Inc. See Note 18, "]:
+(8) Registration Statement (Form S-8 No. 333-177561) pertaining to Netflix, Inc. 2011 Stock Plan; of our reports dated January 29, 2020, with respect to the consolidated financial statements of Netflix, Inc. and the effectiveness of internal control over financial reporting of Netflix, Inc. included in this Annual Report (Form 10-K) of Netflix, Inc. for the year ended December 31, 2019. -------------------- --------------------- /s/ Ernst & Young LLP San Jose, California January 29, 2020 EX-31.1 5 ex311q419.htm EXHIBIT 31.1 Exhibit EXHIBIT 31.1 CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Reed Hastings, certify that: -- ----------------------------------------------------------------- 1. I have reviewed this Annual Report on Form 10-K of Netflix, Inc.; -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; -- -------...
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference for more information on our receivable and payable balances related to indemnified litigation matters and other contingencies, and income tax-related indemnification covered by these agreements.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+As part of our ongoing business, we have not participated in transactions that generate material relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+We have third-party see Note 7, "]:
+(8) Registration Statement (Form S-8 No. 333-177561) pertaining to Netflix, Inc. 2011 Stock Plan; of our reports dated January 29, 2020, with respect to the consolidated financial statements of Netflix, Inc. and the effectiveness of internal control over financial reporting of Netflix, Inc. included in this Annual Report (Form 10-K) of Netflix, Inc. for the year ended December 31, 2019. -------------------- --------------------- /s/ Ernst & Young LLP San Jose, California January 29, 2020 EX-31.1 5 ex311q419.htm EXHIBIT 31.1 Exhibit EXHIBIT 31.1 CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Reed Hastings, certify that: -- ----------------------------------------------------------------- 1. I have reviewed this Annual Report on Form 10-K of Netflix, Inc.; -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; -- -------...
+
+[").
+We intend the discussion of our financial condition and results of operations that follows to provide information that will assist the reader in understanding our Consolidated Financial Statements, the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles, policies and estimates affect our Consolidated Financial Statements. This discussion should be read in conjunction with our Consolidated Financial Statements and the related notes that appear elsewhere in this document.
+Former Parent Separation Transaction
+On November 1, 2015, the Company became an independent publicly-traded company through a pro rata distribution by HP Inc. ("]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe Inc. is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, marketers, knowledge workers, students, application developers, enterprises and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, devices and media. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the product. We have operations in the Americas, Europe, Middle East and Africa ("EMEA"), and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") and pursuant to the rules and regulations of the United States Securities and...
+
+[", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference.
+
+49
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+Item 8. Financial Statements and Supplementary Data 31
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+Liquidity
+Our cash, cash equivalents, restricted cash, total debt and available borrowing resources were as follows:
+
+------------------------------------------ ----------------- ------ ---- ---- ------ - ------
+ As of October 31,
+ 2020 2019 2018
+ In millions
+Cash, cash equivalents and restricted cash $ 4,621 $ 4,076 $ 5,084
+Total debt $ 15,941 $ 13,820 $ 12,141
+Available borrowing resources $ 6,297 $ 5,639 $ 5,757
+
+Our key cash flow metrics were as follows:
+
+--------------------------------------------------------------------- -------------------------------------- ----- ---- ------- ---- ------- ------- - -------
+ For the fiscal years ended October 31,
+ 2020 2019 2018
+ In millions
+Net cash provided by operating activities $ 2,240 $ 3,997 $ 2,964
+Net cash used in investing activities (2,578) (3,457) (1,880)
+Net cash (used in) provided by financing activities 883 (1,548) (5,592)
+Net Increase (decrease) in cash, cash equivalents and restricted cash $ 545 $ (1,008) $ (4,508)
+
+57
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+Item 8. Financial Statements and Supplementary Data 31
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+CONTRACTUAL AND OTHER OBLIGATIONS
+Our contractual and other obligations as of October 31, 2020, were as follows:
+
+-------------------------------------------------------------- ----------- ------ ---------------------- --- --------- ----- --------- ---------------- ----- ----- ----- - -----
+ Payments Due by Period
+ Total 1 Year orLess 1-3 Years 3-5 Years More than5 Years
+ In millions
+Principal payments on long-term debt(1) $ 14,740 $ 2,772 $ 4,461 $ 4,506 $ 3,001
+Interest payments on long-term debt(2) 4,147 468 783 519 2,377
+Operating lease obligations (net of sublease rental income)(3) 1,256 167 330 269 490
+Unconditional Purchase obligations(4) 544 231 264 17 32
+Capital lease obligations (includes interest) 68 6 13 14 35
+Total(5)(6)(7)(8) $ 20,755 $ 3,644 $ 5,851 $ 5,325 $ 5,935
+
+60
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+Item 8. Financial Statements and Supplementary Data 31

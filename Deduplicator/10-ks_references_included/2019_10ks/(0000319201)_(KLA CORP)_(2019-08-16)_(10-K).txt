@@ -1,0 +1,600 @@
+================================================================================
+CIK: 0000319201
+Company Name: KLA CORP
+Filing Date: 2019-08-16
+Form Type: 10-K
+Extraction Date: 2025-08-31 07:29:53
+================================================================================
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion of our financial condition and results of operations should be read in conjunction with our Consolidated Financial Statements and the related notes included in Item 8, “Financial Statements and Supplementary Data,” in this Annual Report on Form 10-K. This discussion contains forward-looking statements, which involve risks and uncertainties. Our actual results could differ materially from those anticipated in the forward-looking statements as a result of certain factors, including but not limited to those discussed in Item 1A, “Risk Factors” and elsewhere in this Annual Report on Form 10-K. (See “Special Note Regarding Forward-Looking Statements”). Pursuant to the FAST Act Modernization and Simplification of Regulation S-K, discussions related to the changes in results of operations from fiscal year 2018 to fiscal year 2017 have been omitted. Such omitted discussion can be found under Item 7 of our annual Form 10-K for the fiscal year ended June 30, 2018, filed with the SEC.
+
+EXECUTIVE SUMMARY
+We are a leading supplier of process control and yield management solutions for the semiconductor and related nanoelectronics industries. Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production. We provide leading edge equipment, software and support that enable IC manufacturers to identify, resolve and manage significant advanced technology manufacturing process challenges and obtain higher finished product yields at lower overall cost. In addition to serving the semiconductor industry, we also provide a range of technology solutions to a number of other high technology industries, including advanced packaging, light emitting diode (“LED”), power devices, compound semiconductor, and data storage industries, as well as general materials research.
+Our products and services are used by the vast majority of bare wafer, IC, lithography reticle (“reticle” or “mask”) and hard disk drive manufacturers around the world. Our products, services and expertise are used by our customers to measure, detect, analyze and resolve critical product defects that arise in that environment in order to control nanometric level manufacturing processes.
+Our revenues are driven largely by our customers’ spending on capital equipment and related maintenance services necessary to support key transitions in their underlying product technologies, or to increase their production volumes in response to market demand or expansion plans. Our semiconductor customers generally operate in one or more of the three major semiconductor markets - memory, foundry and logic. All three of these markets are characterized by rapid technological changes and sudden shifts in end-user demand, which influence the level and pattern of our customers’ spending on our products and services. Although capital spending in all three semiconductor markets has historically been very cyclical, the demand for more advanced and lower cost chips used in a growing number of consumer electronics, communications, data processing, and industrial and automotive products has resulted over the long term in a favorable demand environment for our process control and yield management solutions, particularly in the foundry and logic markets, which have higher levels of process control adoption than the memory market.
+Through the acquisition of Orbotech, Ltd. (“Orbotech”), we have expanded our reach in the electronics value chain to include technologically advanced, yield-enhancing and process-enabling solutions to address various manufacturing stages of Printed Circuit Boards (“PCB”), Flat Panel Displays (“FPD”), Specialty Semiconductor Devices (“SD”) and other electronic components. The products include Automated Optical Inspection (“AOI”), Automated Optical Shaping (“AOS”), Direct Imaging (“DI”), additive printing, laser drilling, laser plotters, Computer aided manufacturing (“CAM”) and engineering solutions for PCB and additional adjacent electronics component manufacturing, as well as AOI, test, repair and process monitoring systems for FPD manufacturing and vacuum process tools for etch, Physical Vapor Deposition (“PVD”), Molecular Vapor Deposition (“MVD”) and Chemical Vapor Deposition (“CVD”) solutions for SD manufacturing.
+In our newly acquired Orbotech business, consumer end markets have been experiencing a fundamental shift in technology complexity, driven primarily by the proliferation of high-end mobile devices and automotive devices, as well as by the demand for large area FPDs such as large-size LCD televisions and OLED displays. The shift towards 5G connectivity and the fast-paced growth of the Internet of Things (“IoT”) services is expected to continue to further accelerate this shift as more devices become connected and dependent upon other electronic devices.
+
+ 41
+
+Table of Contents
+
+As a supplier to the global semiconductor, semiconductor-related and electronics industries, our customer base continues to become more highly concentrated over time, thereby increasing the potential impact of a sudden change in capital spending by a major customer on our revenues and profitability. As our customer base becomes increasingly more concentrated, large orders from a relatively limited number of customers account for a substantial portion of our sales, which potentially exposes us to more volatility for revenues and earnings. In the global semiconductor and electronics related industries, China is emerging as a major region for manufacturing of logic and memory chips, adding to its role as the world’s largest consumer of ICs. Additionally, a significant portion of global FPD and PCB manufacturing has migrated to China. Government initiatives are propelling China to expand its domestic manufacturing capacity and attracting semiconductor manufacturers from Taiwan, Korea, Japan and the US. China is currently seen as an important long-term growth region for the semiconductor and electronics capital equipment sector. We are also subject to the cyclical capital spending that has historically characterized the semiconductor, semiconductor-related and electronics industries. The timing, length, intensity and volatility of the capacity-oriented capital spending cycles of our customers are unpredictable.
+The semiconductor and electronics industries have also been characterized by constant technological innovation. Currently, there are multiple drivers for growth in the industry with increased demand for chips providing computation power and connectivity for Artificial Intelligence (“AI”) applications and support for mobile devices at the leading edge of foundry and logic chip manufacturing. Qualification of early extreme ultraviolet (“EUV”) lithography processes and equipment is driving growth at leading logic/foundry and dynamic random-access memory (“DRAM”) manufacturers. Expansion of IoT together with increasing acceptance of advanced driver assistance systems (“ADAS”) in anticipation of the introduction of autonomous cars have begun to accelerate legacy-node technology conversions and capacity expansions. Intertwined in these areas, spurred by data storage and connectivity needs, is the growth in demand for memory chips. On the other hand, higher design costs for the most advanced ICs could economically constrain leading-edge manufacturing technology customers to focus their resources on only the large technologically advanced products and applications. We believe that, over the long term, our customers will continue to invest in advanced technologies and new materials to enable smaller design rules and higher density applications that fuel demand for process control equipment, although the growth for such equipment may be adversely impacted by higher design costs for advanced ICs, reuse of installed products, and delays in production ramps by our customers in response to higher costs and technical challenges at more advanced technology nodes.
+Additionally, current trends in smart mobile devices, 5G connectivity, automotive electronics, smart vehicles, flexible displays, AR/VR and wearable devices, high-performance computing, large size televisions and the IoT are expected to drive the need for production, inspection, test and repair solutions that are able to address the cutting-edge technology embedded in these types of electronic products.
+The demand for our products and our revenue levels are driven by our customers’ needs to solve the process challenges that they face as they adopt new technologies required to fabricate advanced ICs that are incorporated into sophisticated mobile devices. Our customers continuously seek to increase yields and enhance the efficiency of their manufacturing processes, including by improving their manufacturing, inspection, testing and repair capabilities.
+Subsequent to the Orbotech Acquisition, we changed our organizational structure resulting in four reportable segments: Semiconductor Process Control, Specialty Semiconductor Process, PCB, Display and Component Inspection, and Other. Prior period results have been recast to conform to the current presentation.
+Our view of the current wafer fab equipment demand climate is aligned with consensus industry analyst expectations for the calendar year 2019, which reflects a decline in capital equipment spending by memory customers. In contrast to the memory business, capital equipment spending by foundry and logic customers at the leading edge has begun to ramp up, and the momentum is expected to continue in calendar year 2019. We have already seen our mix of business begin to shift toward increased purchases by logic and foundry customers as a percentage of total sales, and we expect spending from these customers to continue to remain strong. Because of a more diversified semiconductor device-end demand, and disciplined capacity planning by wafer fab equipment customers, we believe the long-term growth dynamics for the industry remain strong. While manufacturers of PCBs, FPDs, SDs and other electronic components create different products for diverse end-markets, they share similar production challenges in an increasingly competitive environment.
+
+ 42
+
+Table of Contents
+
+The following table sets forth some of our key consolidated financial information for each of our last three fiscal years(1):
+
+------------------------------------------------------------------ ------------------- --------- ---- -- ---- --------- -- - - ---------
+
+ Year ended June 30,
+(Dollar amounts in thousands, except diluted net income per share) 2019 2018 2017
+Total revenues $ 4,568,904 $ 4,036,701 $ 3,480,014
+Costs of revenues $ 1,869,377 $ 1,446,041 $ 1,286,215
+Gross margin percentage 59 % 64 % 63 %
+Net income attributable to KLA(2) $ 1,175,617 $ 802,265 $ 926,076
+Diluted net income per share attributable to KLA $ 7.49 $ 5.10 $ 5.88
+
+__________________
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) On July 1, 2018, we adopted ASC 606 using the modified retrospective transition approach. Results for reporting periods beginning after June 30, 2018 are presented under ASC 606, while prior period amounts are not adjusted and continue to be reported in accordance with the previous revenue guidance in ASC 605.
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Our net income attributable to KLA decreased to $802.3 million in the fiscal year ended June 30, 2018, primarily as a result of the income tax effects from the enacted tax reform legislation through the Tax Cuts and Jobs Act, which was signed into law on December 22, 2017.
+
+Total revenues during the fiscal year ended June 30, 2019 increased by 13% compared to the fiscal year ended June 30, 2018. Our year over year revenue growth reflected strong demand in the semiconductor process control market, growth in service revenues, and additional revenues from the Orbotech business which was acquired in the fiscal year ended June 30, 2019.
+
+Acquisition of Orbotech, Ltd.
+On February 20, 2019, we completed the acquisition of Orbotech for total purchase consideration of approximately $3.26 billion. Orbotech’s core business enables electronic device manufacturers to inspect, test and measure printed circuit boards and flat panel displays to verify their quality; pattern electronic circuitry on substrate and perform three-dimensional shaping of metalized circuits on multiple surfaces; and utilize advanced vacuum deposition and etching process in semiconductor device and semiconductor manufacturing and to perform laser drilling of electronic substrates. For additional details on the financial statement impacts of the Orbotech acquisition, refer to Note 6 “Business Combinations” to our Consolidated Financial Statements.
+In addition, our Board of Directors has authorized a share repurchase of up to $2.00 billion of our common stock, reflecting an increase from $1.00 billion upon the close of the Orbotech Acquisition. We raised approximately $1.20 billion in new long-term debt financing to partially refinance our existing debt, to repurchase shares and for general corporate purposes. For additional details, refer to Note 8, “Debt”, and Note 10, “Stock Repurchase Program” to our Consolidated Financial Statements.
+
+CRITICAL ACCOUNTING ESTIMATES AND POLICIES
+The preparation of our Consolidated Financial Statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions in applying our accounting policies that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base these estimates and assumptions on historical experience and evaluate them on an ongoing basis to ensure that they remain reasonable under current conditions. Actual results could differ from those estimates. We discuss the development and selection of the critical accounting estimates with the Audit Committee of our Board of Directors on a quarterly basis, and the Audit Committee has reviewed our related disclosure in this Annual Report on Form 10-K. The accounting policies that reflect our more significant estimates, judgments and assumptions and which we believe are the most critical to aid in fully understanding and evaluating our reported financial results include the following:
+Revenue Recognition. We primarily derive revenue from the sale of process control and yield management solutions for the semiconductor and related nanoelectronics industries, maintenance and support of all these products, installation and training services and the sale of spare parts. Our solutions provide a comprehensive portfolio of inspection, metrology and data analytics products, which are accompanied by a flexible portfolio of services to enable our customers to maintain the performance and productivity of the solutions purchased. The acquisition of Orbotech enabled us to broaden our portfolio to include the yield enhancement and production solutions used by manufacturers of printed circuit boards, flat panel displays, advanced packaging, micro-electro-mechanical systems and other electronic components.
+
+ 43
+
+Table of Contents
+
+Our solutions are generally not sold with a right of return, nor have we experienced significant returns from or refunds to our customers.
+We account for a contract with a customer when there is approval and commitment from both parties, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectibility of consideration is probable.
+Our revenues are measured based on consideration stipulated in the arrangement with each customer, net of any sales incentives and amounts collected on behalf of third parties, such as sales taxes. The revenues are recognized as separate performance obligations that are satisfied by transferring control of the product or service to the customer.
+Our arrangements with our customers include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations. A product or service is considered distinct if it is separately identifiable from other deliverables in the arrangement and if a customer can benefit from it on its own or with other resources that are readily available to the customer.
+The transaction consideration, including any sales incentives, is allocated between separate performance obligations of an arrangement based on the stand-alone selling prices (“SSP”) for each distinct product or service. Management considers a variety of factors to determine the SSP, such as, historical standalone sales of products and services, discounting strategies and other observable data.
+From time to time, our contracts are modified to account for additional, or to change existing, performance obligations. Our contract modifications are generally accounted for prospectively.
+Product Revenue
+We recognize revenue from product sales at a point in time when we have satisfied our performance obligation by transferring control of the product to the customer. We use judgment to evaluate whether the control has transferred by considering several indicators, including:
+
+- -------------------------------------------
+• whether we have a present right to payment;
+
+- -----------------------------
+• the customer has legal title;
+
+- -------------------------------------
+• the customer has physical possession;
+
+- ---------------------------------------------------------------
+• the customer has significant risk and rewards of ownership; and
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• the customer has accepted the product, or whether customer acceptance is considered a formality based on history of acceptance of similar products (for example, when the customer has previously accepted the same tool, with the same specifications, and when we can objectively demonstrate that the tool meets all of the required acceptance criteria, and when the installation of the system is deemed perfunctory).
+
+Not all of the indicators need to be met for us to conclude that control has transferred to the customer. In circumstances in which revenue is recognized prior to the product acceptance, the portion of revenue associated with our performance obligations to install product is deferred and recognized upon acceptance.
+We enter into volume purchase agreements with some of our customers. We adjust the transaction consideration for estimated credits earned by our customers for such incentives. These credits are estimated based upon the forecasted and actual product sales for any given period and agreed-upon incentive rate. The estimate is updated at each reporting period.
+We offer perpetual and term licenses for defects and data analysis software. The primary difference between perpetual and term licenses is the duration over which the customer can benefit from the use of the software, while the functionality and the features of the software are the same. With the acquisition of Orbotech we offer computer-aided manufacturing and engineering software solutions for the printed circuit boards production. Software is generally bundled with post-contract customer support (“PCS”), which includes unspecified software updates that are made available throughout the entire term of the arrangement. Revenue from software licenses is recognized at a point in time, when the software is made available to the customer. Revenue from PCS is deferred at contract inception and recognized ratably over the service period, or as services are performed.
+
+ 44
+
+Table of Contents
+
+Services and Spare Parts Revenue
+The majority of product sales include a standard 6 to 12-month warranty that is not separately paid for by the customers. The customers may also purchase extended warranty for periods beyond the initial year as part of the initial product sale. We have concluded that the standard 12-month warranty as well as any extended warranty periods included in the initial product sales are separate performance obligations. The estimated fair value of warranty services is deferred and recognized ratably as revenue over the warranty period, as the customer simultaneously receives and consumes the benefits of warranty services provided by us.
+Additionally, we offer product maintenance and support services, which the customer may purchase separately from the standard and extended warranty offered as part of the initial product sale. Revenue from separately negotiated maintenance and support service contracts is also recognized over time based on the terms of the applicable service period. Revenue from services performed in the absence of a maintenance contract, including training revenue, is recognized when the related services are performed. We also sell spare parts, revenue from which is recognized when control over the spare parts is transferred to the customer.
+Installation services include connecting and validating configuration of the product. In addition, several testing protocols are completed to confirm the equipment is performing to customer specifications. Revenues from product installation are deferred and recognized at a point in time, once installation is complete.
+Significant Judgments
+Our contracts with our customers often include promises to transfer multiple products and services. Each product and service is generally capable of being distinct within the context of the contract and represents a separate performance obligation. Determining the SSP for each distinct performance obligation and allocation of consideration from an arrangement to the individual performance obligations and the appropriate timing of revenue recognition are significant judgments with respect to these arrangements. We typically estimate the SSP of products and services based on observable transactions when the products and services are sold on a standalone basis and those prices fall within a reasonable range. We typically have more than one SSP for individual products and services due to the stratification of these products by customers and circumstances. In these instances, we use information such as the size of the customer, geographic region, as well as customization of the products in determining the SSP. In instances where the SSP is not directly observable, we determine the SSP using information that includes market conditions, entity-specific factors, including discounting strategies, information about the customer or class of customer that is reasonably available and other observable inputs. While changes in the allocation of SSP between performance obligations will not affect the amount of total revenue recognized for a particular contract, any material changes could impact the timing of revenue recognition, which could have a material effect on our financial position and result of operations.
+Although the products are generally not sold with a right of return, we may provide other credits or sales incentives, which are accounted for either as variable consideration or material right, depending on the specific terms and conditions of the arrangement. These credits and incentives are estimated at contract inception and updated at the end of each reporting period if and when additional information becomes available.
+As outlined above, we use judgments to evaluate whether or not the customer has obtained control of the product and considers the several indicators in evaluating whether or not control has transferred to the customer. Not all of the indicators need to be met for us to conclude that control has transferred to the customer.
+Contract Assets/Liabilities
+The timing of revenue recognition, billings and cash collections may result in accounts receivable, contract assets, and contract liabilities (deferred revenue) on our Consolidated Balance Sheets. A receivable is recorded in the period we deliver products or provide services when we have an unconditional right to payment. Contract assets primarily relate to the value of products and services transferred to the customer for which the right to payment is not just dependent on the passage of time. Contract assets are transferred to receivable when rights to payment become unconditional.
+A contract liability is recognized when we receive payment or have an unconditional right to payment in advance of the satisfaction of performance. The contract liabilities represent (1) deferred product revenue related to the value of products that have been shipped and billed to customers and for which the control has not been transferred to the customers, and (2) deferred service revenue, which is recorded when we receive consideration, or such consideration is unconditionally due, from a customer prior to transferring services to the customer under the terms of a contract. Deferred service revenue typically results from warranty services, and maintenance and other service contracts.
+
+ 45
+
+Table of Contents
+
+Contract assets and liabilities related to rights and obligations in a contract are recorded net in the Consolidated Balance Sheets. Upon the adoption of ASC 606, deferred costs of revenue are included in other current assets while under the legacy guidance deferred costs of revenue was included in deferred system profit.
+Business Combinations. Accounting for business combinations requires management to make significant estimates and assumptions to determine the fair values of assets acquired and liabilities assumed at the acquisition date. Although we believe the assumptions and estimates we have made in the past have been reasonable and appropriate, they are based, in part, on historical experience and information obtained from management of the acquired companies and are inherently uncertain. Critical estimates in valuing certain acquired intangible assets include, but are not limited to future expected cash flows including revenue growth rate assumptions from product sales, customer contracts and acquired technologies, expected costs to develop in-process research and development into commercially viable products, estimated cash flows from the projects when completed, including assumptions associated with the technology migration curve, estimated royalty rates used in valuing technology related intangible assets, and discount rates. The discount rates used to discount expected future cash flows to present value are typically derived from a weighted-average cost of capital analysis and adjusted to reflect inherent risks. Unanticipated events and circumstances may occur that could affect either the accuracy or validity of such assumptions, estimates or actual results.
+We allocate the fair value of the purchase price of our acquisitions to the tangible assets acquired, liabilities assumed, and intangible assets acquired, including in-process research and development (“IPR&D”), based on their estimated fair values. The excess of the fair value of the purchase price over the fair values of these net tangible and intangible assets acquired is recorded as goodwill. Management’s estimates of fair value are based upon assumptions believed to be reasonable, but our estimates and assumptions are inherently uncertain and subject to refinement. As a result, during the measurement period, which will not exceed one year from the acquisition date, we record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of the measurement period or final determination of the fair value of the purchase price of our acquisitions, whichever comes first, any subsequent adjustments are recorded to our Consolidated Statements of Operations.
+The fair value of IPR&D is initially capitalized as an intangible asset with an indefinite life and assessed for impairment thereafter whenever events or changes in circumstances indicate that the carrying value of the IPR&D assets may not be recoverable. Impairment of IPR&D is recorded to research and development expenses. When an IPR&D project is completed, the IPR&D is reclassified as an amortizable purchased intangible asset and amortized to costs of revenues over the asset’s estimated useful life.
+Acquisition-related expenses are recognized separately from the business combination and are expensed as incurred.
+Inventories. Inventories are stated at the lower of cost (on a first-in, first-out basis) or net realizable value. Net realizable value is the estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal and transportation. Demonstration units are stated at their manufacturing cost and written down to their net realizable value. We review and set standard costs semi-annually at current manufacturing costs in order to approximate actual costs. Our manufacturing overhead standards for product costs are calculated assuming full absorption of forecasted spending over projected volumes, adjusted for excess capacity. Abnormal inventory costs such as costs of idle facilities, excess freight and handling costs, and spoilage are recognized as current period charges. We write down product inventory based on forecasted demand and technological obsolescence and service spare parts inventory based on forecasted usage. These factors are impacted by market and economic conditions, technology changes, new product introductions and changes in strategic direction and require estimates that may include uncertain elements. Actual demand may differ from forecasted demand, and such differences may have a material effect on recorded inventory values.
+Allowance for Doubtful Accounts. A majority of our accounts receivable are derived from sales to large multinational semiconductor manufacturers throughout the world. In order to monitor potential credit losses, we perform ongoing credit evaluations of our customers’ financial condition. An allowance for doubtful accounts is maintained for probable credit losses based upon our assessment of the expected collectibility of the accounts receivable. The allowance for doubtful accounts is reviewed on a quarterly basis to assess the adequacy of the allowance. We take into consideration (1) any circumstances of which we are aware of a customer’s inability to meet its financial obligations; and (2) our judgments as to prevailing economic conditions in the industry and their impact on our customers. If circumstances change, such that the financial conditions of our customers are adversely affected and they are unable to meet their financial obligations to us, we may need to record additional allowances, which would result in a reduction of our net income.
+
+ 46
+
+Table of Contents
+
+Accounting for Stock-Based Compensation Plans. We account for stock-based awards granted to employees for services based on the fair value of those awards. The fair value of stock-based awards is measured at the grant date and is recognized as expense over the employee’s requisite service period. The fair value for restricted stock units granted without “dividend equivalent” rights is determined using the closing price of our common stock on the grant date, adjusted to exclude the present value of dividends which are not accrued on the restricted stock units. The fair value for restricted stock units granted with “dividend equivalent” rights is determined using the closing price of our common stock on the grant date. The award holder is not entitled to receive payments under dividend equivalent rights unless the associated restricted stock unit award vests (i.e., the award holder is entitled to receive credits, payable in cash or shares of our common stock, equal to the cash dividends that would have been received on the shares of our common stock underlying the restricted stock units had the shares been issued and outstanding on the dividend record date, but such dividend equivalents are only paid subject to the recipient satisfying the vesting requirements of the underlying award). Compensation expense for restricted stock units with performance metrics is calculated based upon expected achievement of the metrics specified in the grant, or when a grant contains a market condition, the grant date fair value using a Monte Carlo simulation. The Monte Carlo simulation incorporates estimates of the potential outcomes of the market condition on the grant date fair value of each award. Additionally, we estimate forfeitures based on historical experience and revise those estimates in subsequent periods if actual forfeitures differ from the estimated amounts. The fair value is determined using a Black-Scholes valuation model for purchase rights under our Employee Stock Purchase Plan. The Black-Scholes option-pricing model requires the input of assumptions, including the option’s expected term and the expected price volatility of the underlying stock. The expected stock price volatility assumption is based on the market-based historical implied volatility from traded options of our common stock.
+Contingencies and Litigation. We are subject to the possibility of losses from various contingencies. Considerable judgment is necessary to estimate the probability and amount of any loss from such contingencies. An accrual is made when it is probable that a liability has been incurred or an asset has been impaired and the amount of loss can be reasonably estimated. We accrue a liability and recognize as expense the estimated costs expected to be incurred to defend or settle asserted and unasserted claims existing as of the balance sheet date. See Note 14, “Commitments and Contingencies” and Note 15, “Litigation and Other Legal Matters” to our Consolidated Financial Statements for additional details.
+Goodwill and Purchased Intangible Assets. We assess goodwill for impairment annually as well as whenever events or changes in circumstances indicate that the carrying value may not be recoverable. Long-lived purchased intangible assets are tested for impairment whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. See Note 7, “Goodwill and Purchased Intangible Assets” to the Consolidated Financial Statements for additional details. Goodwill represents the excess of the purchase price over the fair value of the net tangible and identifiable intangible assets acquired in each business combination. We performed our annual qualitative assessment of the goodwill by reporting unit during the third quarter of the fiscal year ended June 30, 2019 and concluded that there was no impairment. In addition, as a result of the Orbotech Acquisition, we updated our organizational structure and performed a qualitative assessment of the goodwill for our reporting units, which were impacted by the organizational change, and concluded that there were no impairment indicators affecting the valuation of goodwill subsequent to our annual impairment test. The next annual evaluation of the goodwill by reporting unit will be performed in the third quarter of the fiscal year ending June 30, 2020.
+If we were to encounter challenging economic conditions, such as a decline in our operating results, an unfavorable industry or macroeconomic environment, a substantial decline in our stock price, or any other adverse change in market conditions, we may be required to perform quantitative goodwill impairment analysis. In addition, if such conditions have the effect of changing one of the critical assumptions or estimates we use to calculate the value of our goodwill or intangible assets, we may be required to record goodwill and/or intangible asset impairment charges in future periods, whether in connection with our next annual impairment assessment or prior to that, if any triggering event occurs outside of the quarter during which the annual goodwill impairment assessment is performed. It is not possible at this time to determine if any such future impairment charge would occur or, if it does, whether such charge would be material to our results of operations.
+Income Taxes. We account for income taxes in accordance with the authoritative guidance, which requires income tax effects for changes in tax laws are recognized in the period in which the law is enacted.
+Transition tax liability is recognized in the period when the change in the U.S. tax law was enacted and the income tax effects are recorded as a component of provision for income taxes from continuing operations. Several inputs were considered in the calculation, such as the calculation of the post-1986 foreign earnings and profit (“E&P”), income tax pools for all foreign subsidiaries, and the amount of those earnings held in cash and other specified assets. We applied the current interpretations from the U.S. federal and state governments and regulatory organization in its calculation of the transition tax liability.
+
+ 47
+
+Table of Contents
+
+Deferred tax assets and liabilities are recognized using enacted tax rates for the effect of temporary differences between the book and tax bases of recorded assets and liabilities. The guidance also requires that deferred tax assets be reduced by a valuation allowance if it is more likely than not that a portion of the deferred tax asset will not be realized. We have determined that a valuation allowance is necessary against a portion of the deferred tax assets, but we anticipate that our future taxable income will be sufficient to recover the remainder of our deferred tax assets. However, should there be a change in our ability to recover our deferred tax assets that are not subject to a valuation allowance, we could be required to record an additional valuation allowance against such deferred tax assets. This would result in an increase to our tax provision in the period in which we determine that the recovery is not probable.
+On a quarterly basis, we provide for income taxes based upon an estimated annual effective income tax rate. The effective tax rate is highly dependent upon the geographic composition of worldwide earnings, tax regulations governing each region, availability of tax credits and the effectiveness of our tax planning strategies. We carefully monitor the changes in many factors and adjust our effective income tax rate on a timely basis. If actual results differ from these estimates, this could have a material effect on our financial condition and results of operations.
+The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax regulations. In accordance with the authoritative guidance on accounting for uncertainty in income taxes, we recognize liabilities for uncertain tax positions based on the two-step process. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained in audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon ultimate settlement. We reevaluate these uncertain tax positions on a quarterly basis. This evaluation is based on factors including, but not limited to, changes in facts or circumstances, changes in tax law, effectively settled issues under audit and new audit activity. Any change in these factors could result in the recognition of a tax benefit or an additional charge to the tax provision.
+We record income taxes on the undistributed earnings of foreign subsidiaries unless the subsidiaries’ earnings are considered indefinitely reinvested outside the U.S. Our effective tax rate would be adversely affected if we change our intent or if such undistributed earnings are needed for U.S. operations because we would be required to provide or pay income taxes on some or all of these undistributed earnings.
+Global Intangible Low-Taxed Income. The Tax Cuts and Jobs Act (the “Act”) includes provisions for Global Intangible Low-Taxed Income (“GILTI”) wherein taxes on foreign income are imposed in excess of a deemed return on tangible assets of foreign corporations. This income will effectively be taxed at a 10.5% tax rate in general. As a result, our deferred tax assets and liabilities were being evaluated to determine if the deferred tax assets and liabilities should be recognized for the basis differences expected to reverse as a result of GILTI provisions that are effective for us after the fiscal year ending June 30, 2018, or should the tax on GILTI provisions be recognized as period costs in each year incurred. We elected to account for GILTI as a component of current period tax expense starting from the first quarter of the fiscal year ending June 30, 2019.
+Valuation of Marketable Securities. Our investments in available-for-sale securities are reported at fair value. Unrealized gains related to increases in the fair value of investments and unrealized losses related to decreases in the fair value are included in accumulated other comprehensive income (loss), net of tax, as reported on our Consolidated Statements of Stockholders’ Equity. However, changes in the fair value of investments impact our net income only when such investments are sold or an impairment charge is recognized. Realized gains and losses on the sale of securities are determined by specific identification of the security’s cost basis. We periodically review our investment portfolio to determine if any investment is other-than-temporarily impaired due to changes in credit risk or other potential valuation concerns, which would require us to record an impairment charge in the period during which any such determination is made. In making this judgment, we evaluate, among other things, the duration of the investment, the extent to which the fair value of an investment is less than its cost, the credit rating and any changes in credit rating for the investment, default and loss rates of the underlying collateral, structure and credit enhancements to determine if a credit loss may exist. Our assessment that an investment is not other-than-temporarily impaired could change in the future due to new developments or changes in our strategies or assumptions related to any particular investment.
+Recent Accounting Pronouncements
+For a description of recent accounting pronouncements, including those recently adopted and the expected dates of adoption as well as estimated effects, if any, on our Consolidated Financial Statements of those not yet adopted, see Note 1, “Description of Business and Summary of Significant Accounting Policies” of the notes to our Consolidated Financial Statements.
+
+ 48
+
+Table of Contents
+
+RESULTS OF OPERATIONS
+Revenues and Gross Margin
+On July 1, 2018, we adopted ASC 606 using the modified retrospective transition approach. Results for reporting periods beginning after June 30, 2018 are presented under ASC 606, while prior period amounts are presented under legacy guidance. For additional details, refer to Note 2 “Revenue” to our Consolidated Financial Statements.
+
+----------------------------- ------------------- --------- ---- ------- ---- --------- ------------- - ------------- --------- -- -- ------- - ------ -- - -- - ------- -- -
+
+ Year ended June 30,
+(Dollar amounts in thousands) 2019 2018 2017 FY19 vs. FY18 FY18 vs. FY17
+Revenues:
+Product $ 3,392,243 $ 3,160,671 $ 2,703,934 $ 231,572 7 % $ 456,737 17 %
+Service 1,176,661 876,030 776,080 300,631 34 % 99,950 13 %
+Total revenues $ 4,568,904 $ 4,036,701 $ 3,480,014 $ 532,203 13 % $ 556,687 16 %
+Costs of revenues $ 1,869,377 $ 1,446,041 $ 1,286,215 $ 423,336 29 % $ 159,826 12 %
+Gross margin percentage 59 % 64 % 63 % (5 )% 1 %
+
+Product revenues
+Our business is affected by the concentration of our customer base and our customers’ capital equipment procurement schedules as a result of their investment plans. Our product revenues in any particular period are significantly impacted by the amount of new orders that we receive during that period and, depending upon the duration of manufacturing and installation cycles, in the preceding period.
+The increase in product revenues by 7% in the fiscal year ended June 30, 2019 compared to the prior year is primarily attributable to product revenue from our newly acquired Orbotech business, increased investments from our foundry and wafer customers, and a favorable impact from the adoption of ASC 606 due to our earlier timing of transfer of control, partially offset by a lower products shipments to customers in the memory business.
+Service revenues
+Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers. The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign exchange rates.
+The increase in service revenues by 34% in the fiscal year ended June 30, 2019 compared to the prior year is primarily attributable to service revenues from our newly acquired Orbotech business, the impact of adoption of ASC 606 whereby revenue from the standard warranty represents a separate performance obligation and included in our services revenue, and an increase in the number of systems installed at our customers’ sites.
+Revenues by segment(1)
+
+---------------------------------------- ------------------- --------- ---- ------ ---- --------- ------------- ------------- --------- --- ------- ------ --- - --- - ------- --- -
+
+ Year ended June 30,
+(Dollar amounts in thousands) 2019 2018 2017 FY19 vs. FY18 FY18 vs. FY17
+Revenues:
+Semiconductor Process Control $ 4,080,822 $ 3,944,015 $ 3,408,876 $ 136,807 3 % $ 535,139 16 %
+Specialty Semiconductor Process 151,164 — — 151,164 (3) — (3)
+PCB, Display and Component Inspection(2) 332,810 92,516 71,557 240,294 (3) 20,959 (3)
+Other 4,676 — — 4,676 (3) — (3)
+Total revenues $ 4,569,472 $ 4,036,531 $ 3,480,433 $ 532,941 (3) $ 556,098 (3)
+
+__________
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Segment revenues exclude corporate allocation and the effects of foreign exchange rates. For additional details, refer to Note 17, “Segment Reporting and Geographic Information” to our Consolidated Financial Statements.
+
+--- ------------------------------------------------------------------------------------------------------------------
+(2) Segment revenues for the fiscal years ended June 30, 2018 and 2017 include the component inspection business only.
+
+--- -------------------------------------------------------------------
+(3) No meaningful comparative information exists for the prior periods.
+
+ 49
+
+Table of Contents
+
+Fiscal Year 2019 compared with Fiscal Year 2018
+Revenue from our Semiconductor Process Control segment increased by 3% primarily due to a strong demand from our customers in the patterning business, and growth in service revenues. The increase in revenues from Specialty Semiconductor Process, PCB, Display and Component Inspection and Other segments primarily relates to the Orbotech business which was acquired in February of 2019.
+Fiscal Year 2018 compared with Fiscal Year 2017
+Revenue from our Semiconductor Process Control segment increased by 16%, primarily due to increases from sales of both our wafer inspection and patterning products as our customers continue to invest in the process control and services, and an increase in the number of post-warranty systems installed at our customers’ sites over this time period.
+Revenues - Top Customers
+The following customers each accounted for more than 10% of our total revenues primarily in Semiconductor Process Control segment for the indicated periods:
+
+-------------------------------------------------- ----------------------------- --------------------------------------------------
+
+Year ended June 30,
+ 2019 2018 2017
+Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Samsung Electronics Co., Ltd.
+ Taiwan Semiconductor Manufacturing Company Limited
+
+Revenues by region
+Revenues by region for the periods indicated were as follows:
+
+----------------------------- ------------------- --------- ---- -- ---- - --------- - --------- -- - --- --------- - --------- - --- -
+
+ Year ended June 30,
+(Dollar amounts in thousands) 2019 2018 2017
+China $ 1,215,807 27 % $ 643,033 16 % $ 412,098 12 %
+Taiwan 1,105,726 24 % 636,363 16 % 1,104,307 32 %
+North America 596,452 13 % 494,330 12 % 523,024 14 %
+Korea 584,091 13 % 1,178,601 29 % 688,094 20 %
+Japan 581,529 13 % 638,358 16 % 351,202 10 %
+Europe & Israel 305,924 7 % 300,883 7 % 263,789 8 %
+Rest of Asia 179,375 3 % 145,133 4 % 137,500 4 %
+Total $ 4,568,904 100 % $ 4,036,701 100 % $ 3,480,014 100 %
+
+A significant portion of our revenues continues to be generated in Asia, where a substantial portion of the world’s semiconductor manufacturing capacity is located, and we expect that trend to continue.
+
+Gross margin
+Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+
+ 50
+
+Table of Contents
+
+The following table summarizes the major factors that contributed to the changes in gross margin percentage:
+
+---------------------------------------------- ----------------------- --
+
+ Gross Margin Percentage
+Fiscal year ended June 30, 2017 63.0 %
+Revenue volume of products and services 0.8 %
+Mix of products and services sold 0.9 %
+Manufacturing labor, overhead and efficiencies (0.4 )%
+Other service and manufacturing costs (0.2 )%
+Fiscal year ended June 30, 2018 64.1 %
+Revenue volume of products and services (1.0 )%
+Mix of products and services sold 0.7 %
+Manufacturing labor, overhead and efficiencies (1.6 )%
+Other service and manufacturing costs (0.5 )%
+Impact from acquisition of Orbotech (2.6 )%
+Fiscal year ended June 30, 2019 59.1 %
+
+Changes in gross margin percentage, which are driven by the revenue volume of products and services, reflect our ability to leverage existing infrastructure to generate higher revenues. It also includes the effect of fluctuations in foreign exchange rates, average customer pricing and customer revenue deferrals associated with volume purchase agreements. Changes in gross margin percentage from the mix of products and services sold, reflect the impact of changes within the composition of product and service offerings, and amortization of inventory fair value adjustments from business combinations. Changes in gross margin percentage from manufacturing labor, overhead and efficiencies reflect our ability to manage costs and drive productivity as we scale our manufacturing activity to respond to customer requirements, and amortization of intangible assets. Changes in gross margin percentage from other service and manufacturing costs include the impact of customer support costs, including the efficiencies with which we deliver services to our customers, and the effectiveness with which we manage our production plans and inventory risk.
+The decrease in our gross margin to 59.1% from 64.1% during the fiscal year ended June 30, 2019 is primarily attributable to the acquisition of Orbotech, which historically had lower product gross margins, an increase in service and manufacturing costs, and a lower revenue volume of products and services. These trends were partially offset by a favorable mix of products and services sold.
+Segment gross margin(1)
+
+---------------------------------------- ------------------- --------- ---- ------ ---- --------- ------------- ------------- --------- --- ------- ----- --- - --- - ------- --- -
+
+ Year ended June 30,
+(Dollar amounts in thousands) 2019 2018 2017 FY19 vs. FY18 FY18 vs. FY17
+Segment gross margin:
+Semiconductor Process Control $ 2,590,434 $ 2,554,223 $ 2,160,747 $ 36,211 1 % $ 393,476 18 %
+Specialty Semiconductor Process 78,800 — — 78,800 (3) — (3)
+PCB, Display and Component Inspection(2) 155,765 38,428 30,914 117,337 (3) 7,514 (3)
+Other 1,102 — — 1,102 (3) — (3)
+ $ 2,826,101 $ 2,592,651 $ 2,191,661 $ 233,450 (3) $ 400,990 (3)
+
+_________________
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Segment gross margin is calculated as segment revenues less segment cost of revenues and excludes corporate allocation and the effects of foreign exchange rates, amortization of intangible assets, inventory fair value adjustments, and acquisition related costs. For additional details, refer to Note 17, “Segment Reporting and Geographic Information” to our Consolidated Financial Statements.
+
+--- --------------------------------------------------------------------------------------------------------------------
+(2) Segment gross margin in the fiscal year ended June 30, 2018 and 2017 include the component inspection business only.
+
+--- -------------------------------------------------------------------
+(3) No meaningful comparative information exists for the prior periods.
+
+ 51
+
+Table of Contents
+
+Fiscal Year 2019 compared with Fiscal Year 2018
+The primary factors impacting the performance of our segment gross margins are summarized as follows:
+
+- ---------------------------------------------------------------------------------------------------
+• Semiconductor Process Control segment gross margin remained relatively consistent from prior years.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The segment gross margins of Specialty Semiconductor Process, PCB, Display and Component Inspection and Other segments primarily relate to the Orbotech business, which was acquired in February 2019.
+
+Fiscal Year 2018 compared with Fiscal Year 2017
+The primary factors impacting the performance of our segment gross margins are summarized as follows:
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Semiconductor Process Control segment gross margin increased primarily due to a favorable mix of products and services sold, a higher revenue volume of products and services, and lower customer support costs, partially offset by higher manufacturing and service costs to support increased volume of product shipments.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• There were no segment gross margins in Specialty Semiconductor Process and Other segments as both segments relate to the Orbotech business, which was acquired in February 2019.
+
+Research and Development (“R&D”)
+
+---------------------------------------------- ------------------- ------- ---- -- ---- ------- ------------- - ------------- ------- - - ------- - - -- - - ------ -- -
+
+ Year ended June 30,
+(Dollar amounts in thousands) 2019 2018 2017 FY19 vs. FY18 FY18 vs. FY17
+R&D expenses $ 711,030 $ 608,531 $ 526,688 $ 102,499 17 % $ 81,843 16 %
+R&D expenses as a percentage of total revenues 16 % 15 % 15 % 1 % — %
+
+R&D expenses may fluctuate with product development phases and project timing as well as our R&D efforts. As technological innovation is essential to our success, we may incur significant costs associated with R&D projects, including compensation for engineering talent, engineering material costs, and other expenses.
+R&D expenses during the fiscal year ended June 30, 2019 were higher compared to the fiscal year ended June 30, 2018, primarily due to an increase in employee-related expenses of $36.2 million as a result of additional engineering headcount and higher employee benefit costs, an increase in depreciation expense of $5.1 million, and $55.7 million of expenses from the Orbotech business.
+Our future operating results will depend significantly on our ability to produce products and provide services that have a competitive advantage in our marketplace. To do this, we believe that we must continue to make substantial and focused investments in our research and development. We remain committed to product development in new and emerging technologies.
+
+Selling, General and Administrative (“SG&A”)
+
+----------------------------------------------- ------------------- ------- ---- -- ---- ------- ------------- - ------------- ------- - - ------- - - -- - - ------ -- -
+
+ Year ended June 30,
+(Dollar amounts in thousands) 2019 2018 2017 FY19 vs. FY18 FY18 vs. FY17
+SG&A expenses $ 599,124 $ 442,304 $ 388,211 $ 156,820 35 % $ 54,093 14 %
+SG&A expenses as a percentage of total revenues 13 % 11 % 11 % 2 % — %
+
+SG&A expenses during the fiscal year ended June 30, 2019 were higher compared to the fiscal year ended June 30, 2018, primarily due to an increase in employee-related expenses of $11.1 million as a result of additional headcount, and higher employee benefit costs, an increase in acquisition-related expenses of $22.0 million, $10.9 million of stock-based compensation expense acceleration for certain equity awards for Orbotech employees and $91.8 million of expenses from the Orbotech business, including $30.2 million of amortization expense for acquired intangible assets.
+
+ 52
+
+Table of Contents
+
+Interest Expense and Other Expense (Income), Net
+
+------------------------------------------------------------- ------------------- ------- ---- - ---- ------- - - - ------- -
+
+ Year ended June 30,
+(Dollar amounts in thousands) 2019 2018 2017
+Interest expense $ 124,604 $ 114,376 $ 122,476
+Other expense (income), net $ (31,462 ) $ (30,482 ) $ (16,822 )
+Interest expense as a percentage of total revenues 3 % 3 % 4 %
+Other expense (income), net as a percentage of total revenues 1 % 1 % — %
+
+The increase in interest expense during the fiscal year ended June 30, 2019 compared to the fiscal year ended June 30, 2018, was primarily due to interest on the $1.20 billion Senior Notes issued in March 2019.
+Other expense (income), net is comprised primarily of realized gains or losses on sales of marketable securities, gains or losses from revaluations of certain foreign currency denominated assets and liabilities as well as foreign currency contracts, and interest-related accruals (such as interest and penalty accruals related to our tax obligations) and interest income earned on our invested cash, cash equivalents and marketable securities.
+The increase in other expense (income), net during the fiscal year ended June 30, 2019 compared to the fiscal year ended June 30, 2018 was primarily due to an increase in interest income of $3.7 million, partially offset by an increase in accruals related to uncertain tax positions of $2.6 million.
+
+Provision for Income Taxes
+The following table provides details of income taxes:
+
+----------------------------- ------------------- --------- ---- ---- ---- --------- ---- - - ---------
+
+ Year ended June 30,
+(Dollar amounts in thousands) 2019 2018 2017
+Income before income taxes $ 1,296,231 $ 1,455,931 $ 1,173,246
+Provision for income taxes $ 121,214 $ 653,666 $ 247,170
+Effective tax rate 9.4 % 44.9 % 21.1 %
+
+Our effective tax rate during the fiscal years ended June 30, 2019 and June 30, 2018 was impacted by the Tax Cuts and Jobs Act (“the Act”), which was enacted into law on December 22, 2017. Income tax effects resulting from changes in tax laws are accounted for by us in accordance with the authoritative guidance, which requires that these tax effects be recognized in the period in which the law is enacted and the effects are recorded as a component of provision for income taxes from continuing operations. We have completed our accounting for the tax effects of the enactment of the Act. As a result, we recorded a tax benefit of $19.3 million during the year ended June 30, 2019 relating to the transition tax liability provided by the Act.
+Tax expense was lower as a percentage of income before taxes during the fiscal year ended June 30, 2019 compared to the fiscal year ended June 30, 2018 primarily due to the impact of the following items:
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Tax expense decreased by $49.9 million relating to the reduction of the U.S. federal corporate tax rate from 28.1% to 21% for the fiscal year ended June 30, 2019. The Act reduces the U.S. federal corporate tax rate from 35.0% to 21.0% as of January 1, 2018. The decrease in the U.S. federal corporate tax rate from 35.0% to 21.0% results in a blended statutory tax rate of 28.1% for the fiscal year ended June 30, 2018;
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Tax expense decreased by $320.2 million relating to the one -time transition tax recorded during the fiscal year ended June 30, 2018 on our total post-1986 earnings and profits (“E&P”) of which, prior to the enactment of the Act, was previously deferred from U.S. income taxes; and
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Tax expense decreased by $102.1 million relating to the one-time re-measurement of our deferred tax assets and liabilities recorded during the fiscal year ended June 30, 2018 based on the Act’s new corporate tax rate of 21.0%.
+
+Our future effective income tax rate depends on various factors, such as tax legislation, the geographic composition of our pre-tax income, the amount of our pre-tax income as business activities fluctuate, non-deductible expenses incurred in connection with acquisitions, research and development credits as a percentage of aggregate pre-tax income, non-taxable or non-deductible increases or decreases in the assets held within our Executive Deferred Savings Plan, the tax effects of employee stock activity, and the effectiveness of our tax planning strategies.
+
+ 53
+
+Table of Contents
+
+In the normal course of business, we are subject to examination by tax authorities throughout the world. We are subject to federal income tax examinations for all years beginning from the fiscal year ended June 30, 2016 and are under U.S. federal income tax examination for the fiscal year ended June 30, 2016. We are subject to state income tax examinations for all years beginning from the fiscal year ended June 30, 2015. We are also subject to examinations in other major foreign jurisdictions, including Singapore and Israel, for all years beginning from the calendar year ended December 31, 2012. We are under audit in Germany related to Orbotech for the years ended December 31, 2013 to December 31, 2015. Although we believe our tax estimates are reasonable, the final determination of tax audits and any related litigation could be materially different from our historical income tax provisions and accruals. The results of an audit or litigation could have a material adverse effect on our results of operations or cash flows in the period or periods for which that determination is made.
+In May 2017, Orbotech received an assessment from the ITA with respect to its fiscal years 2012 through 2014 (the “Assessment”, and the “Audit Period”, respectively), for an aggregate amount of tax against us, after offsetting all NOLs for tax purposes available through the end of 2014, of approximately NIS 218 million (approximately $61.0 million as of June 30, 2019), which amount includes related interest and linkage differentials to the Israeli consumer price index (as of date of the Assessment). We believe our recorded unrecognized tax benefits are sufficient to cover the resolution of the Assessment.
+On August 31, 2018, Orbotech filed an objection in respect of the tax assessment (the “Objection”). Orbotech is now in the process of the second stage, in which the claims raised by it in the Objection are examined by different personnel at the Israel Tax Authority (“ITA”). In addition, the ITA can examine additional items and may assess additional amounts in the second stage. The second stage must be completed within one year of when the Objection was filed.
+
+Liquidity and Capital Resources
+
+------------------------------------------------------------ ------------------- --------- ---- ---------- ---- --------- --------- - - ---------
+
+ As of June 30,
+(Dollar amounts in thousands) 2019 2018 2017
+Cash and cash equivalents $ 1,015,994 $ 1,404,382 $ 1,153,051
+Marketable securities 723,391 1,475,936 1,863,689
+Total cash, cash equivalents and marketable securities $ 1,739,385 $ 2,880,318 $ 3,016,740
+Percentage of total assets 19 % 51 % 54 %
+
+ Year ended June 30,
+(In thousands) 2019 2018 2017
+Cash flows:
+Net cash provided by operating activities $ 1,152,632 $ 1,229,120 $ 1,079,665
+Net cash (used in) provided by investing activities (1,180,982 ) 291,618 (560,886 )
+Net cash used in financing activities (360,005 ) (1,270,103 ) (472,805 )
+Effect of exchange rate changes on cash and cash equivalents (33 ) 696 (1,411 )
+Net (decrease) increase in cash and cash equivalents $ (388,388 ) $ 251,331 $ 44,563
+
+Cash and Cash Equivalents and Marketable Securities:
+As of June 30, 2019, our cash, cash equivalents and marketable securities totaled $1.74 billion, which represents a decrease of $1.14 billion from June 30, 2018. The decrease is mainly due to $1.82 billion paid to fund Orbotech and other business acquisitions, payment of dividends and dividend equivalents of $472.3 million, and stock repurchases of $1.10 billion, partially offset by the net proceeds from our 2019 Senior Notes of $1.18 billion, our cash generated from operations of $1.15 billion and net proceeds of $764.2 million from marketable securities transactions. As of June 30, 2019, $669.3 million of our $1.74 billion of cash, cash equivalents, and marketable securities were held by our foreign subsidiaries and branch offices. We currently intend to indefinitely reinvest $379.1 million of the cash, cash equivalents and marketable securities held by our foreign subsidiaries for which we assert that earnings are permanently reinvested. If, however, a portion of these funds were to be repatriated to the United States, we would be required to accrue and pay state and foreign taxes of approximately 1%-22% of the funds repatriated. The amount of taxes due will depend on the amount and manner of the repatriation, as well as the location from which the funds are repatriated. We have accrued state and foreign tax on the remaining cash of $290.2 million of the $669.3 million held by our foreign subsidiaries and branch offices. As such, these funds can be returned to the U.S. without accruing any additional U.S. tax expense.
+
+ 54
+
+Table of Contents
+
+Cash Dividends and Special Cash Dividend:
+The total amount of regular quarterly cash dividends and dividends equivalents paid during the fiscal years ended June 30, 2019, 2018 and 2017 was $469.4 million, $395.6 million and $335.4 million, respectively. The increase in the amount of regular quarterly cash dividends and dividends equivalents paid during the fiscal year ended June 30, 2019 reflected the increase in the level of our regular quarterly cash dividend from $0.59 to $0.75 per share that were instituted during the three months ended June 30, 2018. The amount of accrued dividend equivalents payable for regular quarterly cash dividends on unvested restricted stock units (“RSUs”) with dividend equivalent rights was $7.3 million and $6.7 million as of June 30, 2019 and 2018, respectively. These amounts will be paid upon vesting of the underlying unvested RSUs as described in Note 9, “Equity, Long-term Incentive Compensation Plans and Non-Controlling Interest” to our Consolidated Financial Statements.
+On August 1, 2019, we announced that our Board of Directors had declared a quarterly cash dividend of $0.75 per share. Refer to Note 19, “Subsequent Events” to the Consolidated Financial Statements for additional information regarding the declaration of our quarterly cash dividend announced subsequent to June 30, 2019.
+On November 19, 2014, our Board of Directors declared a special cash dividend of $16.50 per share on our outstanding common stock. The declaration and payment of the special cash dividend was part of our leveraged recapitalization transaction under which the special cash dividend was financed through a combination of existing cash and proceeds from the debt financing disclosed in Note 8, “Debt” that was completed during the three months ended December 31, 2014. The total amount of the special cash dividend accrued by us at the declaration date was substantially paid out during the three months ended December 31, 2014, except for the aggregate special cash dividend of $43.0 million that was accrued for the unvested RSUs and to be paid when such underlying unvested RSUs vest. During the second quarter of fiscal 2019, all of the special cash dividends accrued with respect to outstanding RSUs were vested and paid in full. We paid a special cash dividend with respect to vested restricted stock units during the fiscal years ended June 30, 2019, 2018 and 2017 of $2.9 million, $6.4 million and $8.6 million, respectively. Other than the special cash dividend declared during the three months ended December 31, 2014, we historically have not declared any special cash dividend. For details of the special cash dividend, refer to Note 9 “Equity, Long-Term Incentive Compensation Plans and Non-Controlling Interest,” to our Consolidated Financial Statements
+Stock Repurchases:
+The shares repurchased under our stock repurchase program have reduced our basic and diluted weighted-average shares outstanding for the fiscal years ended June 30, 2019 and 2018. The stock repurchase program is intended, in part, to offset shares issued in connection with the purchases under our Employee Stock Purchase Plan (“ESPP”) program and the vesting of employee restricted stock units.
+Fiscal Year 2019 Compared to Fiscal Year 2018
+Cash Flows from Operating Activities:
+We have historically financed our liquidity requirements through cash generated from operations. Net cash provided by operating activities during the fiscal year ended June 30, 2019 decreased by $76.5 million compared to the fiscal year ended June 30, 2018, from $1.23 billion to $1.15 billion primarily as a result of the following factors:
+
+- ------------------------------------------------------------------------
+• An increase in accounts payable payments of approximately $58.0 million;
+
+- -------------------------------------------------------------------------------------
+• An increase in payments for employee-related expenses of approximately $51.0 million;
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• An increase in payments for merger and acquisition related expenses, net of cash outflow mostly related to the Orbotech acquisition of approximately $51.0 million;
+
+These trends were partially offset by a decrease in income tax payments of $72.7 million, and an increase in collections of approximately $10.0 million.
+Cash Flows from Investing Activities:
+Net cash used in investing activities during the fiscal year ended June 30, 2019 was $1.18 billion compared to net cash provided by investing activities of $291.6 million during the fiscal year ended June 30, 2018. This increase was mainly due to $1.82 billion paid to fund Orbotech and other acquisitions, an increase in capital expenditures of $63.6 million, partially offset by higher net sales and maturities of marketable securities of $388.8 million.
+
+ 55
+
+Table of Contents
+
+Cash Flows from Financing Activities:
+Net cash used in financing activities during the fiscal year ended June 30, 2019 decreased compared to the fiscal year ended June 30, 2018, from $1.27 billion to $360.0 million. This change was mainly impacted by net proceeds from the issuance of Senior Notes in March 2019 of $1.18 billion, partially offset by an increase in common stock repurchases of $892.0 million and an increase in dividend and dividend equivalent payments of $70.2 million due to an increase in our quarterly dividend from $0.59 to $0.75 per share.
+Senior Notes:
+In March 2019 and November 2014, we issued $1.20 billion and $2.50 billion, respectively (each a “2019 Senior Notes”, a “2014 Senior Notes”, and collectively the “Senior Notes”), aggregate principal amount of senior, unsecured long-term notes.
+The interest rate specified for each series of the 2014 Senior Notes will be subject to adjustments from time to time if Moody’s Investor Service, Inc. (“Moody’s”) or Standard & Poor’s Ratings Services (“S&P”) or, under certain circumstances, a substitute rating agency selected by us as a replacement for Moody’s or S&P, as the case may be (a “Substitute Rating Agency”), downgrades (or subsequently upgrades) its rating assigned to the respective series of the 2014 Senior Notes such that the adjusted rating is below investment grade. Unlike the 2014 Senior Notes, the interest rate for each series of the 2019 Senior Notes will not be subject to such adjustments. During the three months ended June 30, 2018, we entered into a series of forward contracts (the “2018 Rate Lock Agreements”) to lock the benchmark interest rate with notional amount of $500.0 million in aggregate. In October 2014, we entered into a series of forward contracts to lock the 10-year treasury rate (“benchmark rate”) on a portion of the 2014 Senior Notes with a notional amount of $1.00 billion in aggregate. For additional details, refer to Note 17, “Derivative Instruments and Hedging Activities” and Note 8 “Debt” to our Consolidated Financial Statements.
+The original discounts on the 2019 Senior Notes and the 2014 Senior Notes amounted to $6.7 million and $4.0 million, respectively, and are being amortized over the life of the debt. Interest is payable semi-annually on May 1 and November 1 of each year for the 2014 Senior Notes and semi-annually on March 15 and September 15 of each year for the 2019 Senior Notes. The indenture for the Senior Notes (the “Indenture”) includes covenants that limit our ability to grant liens on our facilities and enter into sale and leaseback transactions, subject to certain allowances under which certain sale and leaseback transactions are not restricted.
+In certain circumstances involving a change of control followed by a downgrade of the rating of a series of Senior Notes by at least two of Moody’s, S&P and Fitch Inc., unless we have exercised our rights to redeem the Senior Notes of such series, we will be required to make an offer to repurchase all or, at the holder’s option, any part, of each holder’s Senior Notes of that series pursuant to the offer described below (the “Change of Control Offer”). In the Change of Control Offer, we will be required to offer payment in cash equal to 101% of the aggregate principal amount of Senior Notes repurchased plus accrued and unpaid interest, if any, on the Senior Notes repurchased, up to, but not including, the date of repurchase.
+As of June 30, 2019, we were in compliance with all of our covenants under the Indenture associated with the Senior Notes.
+Revolving Credit Facility:
+In November 2017, we entered into a Credit Agreement (the “Credit Agreement”) providing for a $750.0 million five-year unsecured Revolving Credit Facility (the “Revolving Credit Facility”), which replaced our prior Credit Facility. Subject to the terms of the Credit Agreement, the Revolving Credit Facility may be increased in an amount up to $250.0 million in the aggregate. In November 2018, we entered into an Incremental Facility, Extension and Amendment Agreement (the “Amendment”), which amends the Credit Agreement to (a) extend the Maturity Date (the “Maturity Date”) from November 30, 2022 to November 30, 2023, (b) increase the total commitment by $250.0 million and (c) effect certain other amendments to the Credit Agreement as set forth in the Amendment. After giving effect to the Amendment, the total commitments under the Credit Agreement are $1.00 billion. During the third quarter of the fiscal year ended June 30, 2019, we made borrowings of $900.0 million from the Revolving Credit Facility as part of the funding for the Orbotech Acquisition, which were paid in full in the same quarter. As of June 30, 2019, we had no outstanding borrowings under the Revolving Credit Facility.
+We may borrow, repay and reborrow funds under the Revolving Credit Facility until the Maturity Date, at which time such Revolving Credit Facility will terminate, and all outstanding loans under such facility, together with all accrued and unpaid interest, must be repaid. We may prepay outstanding borrowings under the Revolving Credit Facility at any time without a prepayment penalty.
+
+ 56
+
+Table of Contents
+
+Borrowings under the Revolving Credit Facility will bear interest, at our option, at either: (i) the Alternative Base Rate (“ABR”) plus a spread, which ranges from 0 bps to 75 bps, or (ii) the London Interbank Offered Rate (“LIBOR”) plus a spread, which ranges from 100 bps to 175 bps. The spreads under ABR and LIBOR are subject to adjustment in conjunction with credit rating downgrades or upgrades. We are also obligated to pay an annual commitment fee on the daily undrawn balance of the Revolving Credit Facility, which ranges from 10 bps to 25 bps, subject to an adjustment in conjunction with changes to our credit rating. As of June 30, 2019, we pay an annual commitment fee of 12.5 bps on the daily undrawn balance of the Revolving Credit Facility.
+The Revolving Credit Facility requires us to maintain an interest expense coverage ratio as described in the Credit Agreement, on a quarterly basis, covering the trailing four consecutive fiscal quarters of no less than 3.50 to 1.00. In addition, we are required to maintain the maximum leverage ratio as described in the Credit Agreement, on a quarterly basis of 3.00 to 1.00, covering the trailing four consecutive fiscal quarters for each fiscal quarter, which can be increased to 4.00 to 1.00 for a period of time in connection with a material acquisition or a series of material acquisitions. As of June 30, 2019, we elected to increase the maximum allowed leverage ratio to 4.00 to 1.00 following the Orbotech Acquisition.
+We were in compliance with all covenants under the Credit Agreement as of June 30, 2019 (the interest expense coverage ratio was 14.27 to 1.00 and the leverage ratio was 1.80 to 1.00). Considering our current liquidity position, short-term financial forecasts and ability to prepay the Revolving Credit Facility, if necessary, we expect to continue to be in compliance with our financial covenants at the end of our fiscal year ending June 30, 2020.
+
+Contractual Obligations
+The following is a schedule summarizing our significant obligations to make future payments under contractual obligations as of June 30, 2019:
+
+------------------------------------------------------- --------------------------- --------- ---- ------- ---- --------- ------- ---- ------- ---- ------------------- ------- ------ ------- - ------- ------- - ------- - --------- - -------
+
+ Fiscal year ending June 30,
+(In thousands) Total 2020 2021 2022 2023 2024 2025 and thereafter Others
+Debt obligations(1) $ 3,450,000 $ 250,000 $ — $ 500,000 $ — $ — $ 2,700,000 $ —
+Interest payment associated with alldebt obligations(2) 1,653,037 152,925 146,942 136,630 126,317 125,581 964,642 —
+Purchase commitments(3) 631,128 621,401 7,405 1,405 423 226 268 —
+Income taxespayable(4) 139,603 — — — — — — 139,603
+Operating leases 103,571 30,296 22,250 16,217 11,878 7,912 15,018 —
+Cash long-term incentive program(5) 179,346 67,831 58,307 34,884 18,324 — — —
+Pension obligations(6) 38,415 2,327 2,144 2,806 2,950 5,257 22,931 —
+Executive DeferredSavings Plan(7) 208,926 — — — — — — 208,926
+Transition tax payable(8) 283,143 8,643 26,143 26,143 26,143 49,018 147,053 —
+Liability for employee rights upon retirement(9) 52,108 — — — — — — 52,108
+Other(10) 7,340 3,991 1,696 1,159 418 76 — —
+Total obligations $ 6,746,617 $ 1,137,414 $ 264,887 $ 719,244 $ 186,453 $ 188,070 $ 3,849,912 $ 400,637
+
+__________________
+
+--- ------------------------------------------------------------------------------------------------------------------
+(1) Represents $3.45 billion aggregate principal amount of Senior Notes due from fiscal year 2020 to fiscal year 2049.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) The interest payments associated with the Senior Notes payable included in the table above are based on the principal amount multiplied by the applicable interest rate for each series of Senior Notes. Our future interest payments are subject to change if our then effective credit rating is below investment grade as discussed above. The interest payment under the Revolving Credit Facility for the undrawn balance is payable at 12.5 bps as a commitment fee based on the daily undrawn balance and we utilized the existing rate for the projected interest payments included in the table above. Our future interest payments for the Revolving Credit Facility is subject to change due to any upgrades or downgrades to our then effective credit rating.
+
+ 57
+
+Table of Contents
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) Represents an estimate of significant commitments to purchase inventory from our suppliers as well as an estimate of significant purchase commitments associated with goods, services and other assets in the ordinary course of business. Our obligation under these purchase commitments is generally restricted to a forecasted time-horizon as mutually agreed upon between the parties. This forecasted time-horizon can vary among different suppliers. Actual expenditures will vary based upon the volume of the transactions and length of contractual service provided. In addition, the amounts paid under these arrangements may be less in the event the arrangements are renegotiated or canceled. Certain agreements provide for potential cancellation penalties.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Represents the estimated income tax payable obligation related to uncertain tax positions as well as related accrued interest. We are unable to make a reasonably reliable estimate of the timing of payments in individual years due to uncertainties in the timing of tax audit outcomes.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------
+(5) Represents the amount committed under our cash long-term incentive program. The expected payment after estimated forfeitures is approximately $145.8 million.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(6) Represents an estimate of expected benefit payments up to fiscal year 2029 that was actuarially determined and excludes the minimum cash required to contribute to the plan. As of June 30, 2019, our defined benefit pension plans do not have material required minimum cash contribution obligations.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(7) Represents the amount committed under our non-qualified executive deferred compensation plan. We are unable to make a reasonably reliable estimate of the timing of payments in individual years due to the uncertainties in the timing around participant’s separation and any potential changes that participants may decide to make to the previous distribution elections.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(8) Represents the transition tax liability associated with our deemed repatriation of accumulated foreign earnings as a result from the enactment of the Tax Cuts and Jobs-Act into law on December 22, 2017.
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+(9) Represents severance payments due upon dismissal of an employee or upon termination of employment in certain other circumstances as required under Israeli law.
+
+---- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(10) Represents amounts committed for accrued dividends payable for quarterly cash dividends for unvested restricted stock units granted with dividend equivalent rights. For additional details, refer to Note 9, “Equity, Long-term Incentive Compensation Plans and Non-Controlling Interest,” to our Consolidated Financial Statements.
+
+We have adopted a cash-based long-term incentive (“Cash LTI”) program for many of our employees as part of our employee compensation program. Cash LTI awards issued to employees under the Cash Long-Term Incentive Plan (“Cash LTI Plan”) generally vest in three or four equal installments. For additional details, refer to Note 9, “Equity, Long-term Incentive Compensation Plans and Non-Controlling Interest,” to our Consolidated Financial Statements.
+We have agreements with financial institutions to sell certain of our trade receivables and promissory notes from customers without recourse. In addition, we periodically sell certain letters of credit (“LCs”), without recourse, received from customers in payment for goods and services.
+The following table shows total receivables sold under factoring agreements and proceeds from sales of LCs for the indicated periods:
+
+------------------------------------------- ------------------- ------- ---- ---- ------- - -------
+
+ Year ended June 30,
+(In thousands) 2019 2018 2017
+Receivables sold under factoring agreements $ 193,089 $ 217,462 $ 152,509
+Proceeds from sales of LCs $ 95,436 $ 5,511 $ 48,780
+
+ Factoring and LC fees for the sale of certain trade receivables were recorded in other expense (income), net and were not material for the periods presented.
+We maintain guarantee arrangements available through various financial institutions for up to $50.8 million, of which $44.7 million had been issued as of June 30, 2019, primarily to fund guarantees to customs authorities for value-added tax (“VAT”) and other operating requirements of our subsidiaries in Europe, Israel, and Asia.
+
+ 58
+
+Table of Contents
+
+Working Capital:
+Working capital was $2.55 billion as of June 30, 2019, which represents a decrease of $788.1 million compared to our working capital as of June 30, 2018. As of June 30, 2019, our principal sources of liquidity consisted of $1.74 billion of cash, cash equivalents and marketable securities. Our liquidity may be affected by many factors, some of which are based on the normal ongoing operations of the business, spending for business acquisitions, and other factors such as uncertainty in the global and regional economies and the semiconductor, semiconductor-related and electronic device industries. Although cash requirements will fluctuate based on the timing and extent of these factors, we believe that cash generated from operations, together with the liquidity provided by existing cash and cash equivalents balances and our $1.00 billion Revolving Credit Facility, will be sufficient to satisfy our liquidity requirements associated with working capital needs, capital expenditures, cash dividends, stock repurchases and other contractual obligations, including repayment of outstanding debt, for at least the next 12 months.
+Our credit ratings as of June 30, 2019 are summarized below:
+
+----------------- ------
+
+Rating Agency Rating
+Fitch BBB+
+Moody’s Baa1
+Standard & Poor’s BBB
+
+Factors that can affect our credit ratings include changes in our operating performance, the economic environment, conditions in the semiconductor and semiconductor equipment industries, our financial position, material acquisitions and changes in our business strategy.
+
+Off-Balance Sheet Arrangements
+As of June 30, 2019, we did not have any off-balance sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K, that have or are reasonably likely to have a current or future effect on our financial position, changes in financial condition, revenues and expenses, results of operations, liquidity, capital expenditures, or capital resources that are material to investors. Refer to Note 14 “Commitments and Contingencies” to our Consolidated Financial Statements for information related to indemnification obligations.
+
+ 59
+
+Table of Contents
+
+-------- ----------------------------------------------------------
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[refer to Note 6]:
+(6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision (benefit) for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and adjusted EBITDA help investors gain an understanding of the factors and trends affecting our ongoing cash earnings, from which capital investments are made and debt is serviced. However, EBITDA and adjusted EBITDA are not measures of financial performan...
+
+[refer to Note 8]:
+Note 8. Securitization Activities Jefferies Group engages in securitization activities related to corporate loans, commercial mortgage loans, consumer loans and mortgage-backed and other asset-backed securities. In securitization transactions, Jefferies Group transfers assets to special purpose entities ("SPEs") and acts as the placement or structuring agent for the beneficial interests sold to investors by the SPE. A significant portion of the securitization transactions are the securitization of assets issued or guaranteed by U.S. government agencies. These SPEs generally meet the criteria of VIEs; however, the SPEs are generally not consolidated as Jefferies Group is not considered the primary beneficiary for these SPEs. F-47 Jefferies Group accounts for securitization transactions as sales, provided it has relinquished control over the transferred assets. Transferred assets are carried at fair value with unrealized gains and losses reflected in Principal transactions revenues in the Consolidated Statements of Operations prior to the identification and isolation for securitization. Subsequently, revenues recognized upon securitization are reflected as net underwriting revenues. Jefferies Group generally receives cash proceeds in connection with the transfer of assets to an SPE. Jefferies Group may, however, have continuing involvement with the transferred assets, which is limited to retaining one or more tranches of the securitization (primarily senior and subordinated debt securities in the form of mortgage- and other asset-backed securities or CLOs), which are included in Trading assets and are generally initially categorized as Level 2 within the fair value hierarchy. Jefferies Group applies fair value accounting to the securities. The following table presents activity related to Jefferies Group's securitizations that were accounted for as sales in which it had continuing involvement (in millions): ----------------------------------------- --------------------...
+
+[See Note 14]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud offerings. - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Other Bets - Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes businesses such as Access, Calico, CapitalG, GV, Verily, Waymo, and X. Revenues from the Other Bets are derived primarily through the sales of internet and TV services through Access as well as licensing and R&D services through Verily. 80 ----------------- -------------  Alphabet Inc...
+
+[See Note 7]:
+(7) Rialto Information about homebuilding activities in the Company's urban divisions which are not economically similar to other divisions in the same geographic area is grouped under "Homebuilding Other," which is not considered a reportable segment. All prior periods have been adjusted to conform with the Company's current presentation. Evaluation of segment performance is based primarily on operating earnings (loss) before income taxes. Operations of the Company's homebuilding segments primarily include the construction and sale of single-family attached and detached homes, as well as the purchase, development and sale of residential land directly and through the Company's unconsolidated entities. Operating earnings (loss) for the homebuilding segments consist of revenues generated from the sales of homes and land, equity in earnings (loss) from unconsolidated entities and other income (expense), net, less the cost of homes sold and land sold, selling, general and administrative expenses incurred by the segment and loss due to litigation. The Company's reportable homebuilding segments and all other homebuilding operations not required to be reported separately, have homebuilding divisions located in: East: Florida, New Jersey, North Carolina and South Carolina Central: Georgia, Illinois, Indiana, Maryland, Minnesota, Tennessee and Virginia Texas: Texas West: Arizona, California, Colorado, Nevada, Oregon, Utah and Washington Other: Urban divisions and other homebuilding related investments, including FivePoint Operations of the Lennar Financial Services segment include primarily mortgage financing, title insurance and closing services for both buyers of the Company's homes and others. It also includes a real estate brokerage business acquired as part of the WCI transaction, which was sold subsequent to November 30, 2018. The Lennar Financial Services segment sells substantially all of the loans it originates within a short period in the secondary mortgage market,...
+
+[see Note 1]:
+(1) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. As discussed above, we completed the acquisitions of NES and Neff in April 2017 and October 2017, respectively. Estimated market share as of December 31, 2017 includes the standalone, pre-acquisition revenues of NES and Neff. Estimated market share as of December 31, 2017 does not include BakerCorp and BlueLine because we had not acquired them as of December 31, 2017. If the standalone, pre-acquisition revenues of BakerCorp and BlueLine were included for the year ended December 31, 2017, estimated market share as of December 31, 2017 would have been 12.9 percent. Strategy 2  For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2019, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------...
+
+[refer to Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[refer to Note 17]:
+Note 17. Income Taxes 82
+
+[refer to Note 17]:
+Note 17. Income Taxes 82
+
+[Refer to Note 19]:
+Note 19. Pension Plans and Postretirement Benefits U.S. Pension Plans Pursuant to the agreement to sell one of our former subsidiaries, WilTel Communications Group, LLC, ("WilTel") the responsibility for WilTel's defined benefit pension plan was retained by us. All benefits under this plan were frozen as of October 30, 2005. Prior to the acquisition of Jefferies Group, Jefferies Group sponsored a defined benefit pension plan covering certain employees; benefits under that plan were frozen as of December 31, 2005. A summary of activity with respect to both plans is as follows (in thousands): ----------------------------------------------- ------------------------------------- ------- ------------------------------------- ------ - ------- - Eleven Months Ended November 30, 2018 Twelve Months Ended December 31, 2017 Change in projected benefit obligation: Projected benefit obligation, beginning of year $ 211,257 $ 205,405 Interest cost 6,783 8,119 Actuarial (gains) losses (16,646 ) 6,644 Settlement payments (3,133 ) -- Benefits paid (7,000 ) (8,911 ) Projected benefit obligation, end of year $ 191,261 $ 211,257 Change in plan assets: Fair value of plan assets, beginning of year $ 150,806 $ 127,514 Actual return on plan assets (7,676 ) 22,192 Employer contributions 8,890 12,417 Benefits paid (7,000 ) (8,911 ) Settlement payments (3,133 ) -- Administrative expenses (2,895 ) (2,406 ) Fair value of plan assets, end of year $ 138,992 $ 150,806 Funded status at end of year $ (52,269 ) $ (60,451 ) As of November 30, 2018 and December 31, 2017, $49.7 million and $51.3 million, respectively, of the net amount recognized in the Consolidated Statements of Financial Condition was reflected as a charge to Accumulated other comprehensive income (substantially all of which were cumulative losses) and $52.3 million and $60.5 million, respectively, was reflected as accrued pension cost. F-71 The following table summarizes the components of net periodic pension cost and other amounts reco...
+
+[refer to Note 9]:
+Note 9. Commitments and Contingencies Commitments Leases We have entered into various non-cancelable operating lease agreements for certain of our offices, data centers, land, and colocations with original lease periods expiring between 2019 and 2093. We are committed to pay a portion of the related actual operating expenses under certain of these lease agreements. Certain of these arrangements have free rent periods or escalating rent payment provisions, and we recognize rent expense under such arrangements on a straight-line basis. The following is a schedule, by years, of the future minimum lease payments required under non-cancelable operating leases as of December 31, 2018 (in millions): ---------------------------- ---------------- ------ Operating Leases 2019 $ 698 2020 946 2021 1,055 2022 1,048 2023 1,054 Thereafter 9,850 Total minimum lease payments $ 14,651 Operating lease expense was $629 million, $363 million, and $269 million for the years ended December 31, 2018, 2017 and 2016, respectively. We fully repaid all our capital lease obligations during 2016. Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $6.17 billion of non-cancelable contractual commitments as of December 31, 2018, primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Contingencies Lega...
+
+[refer to Note 17]:
+Note 17. Income Taxes 82
+
+[refer to Note 9]:
+Note 9. Commitments and Contingencies Commitments Leases We have entered into various non-cancelable operating lease agreements for certain of our offices, data centers, land, and colocations with original lease periods expiring between 2019 and 2093. We are committed to pay a portion of the related actual operating expenses under certain of these lease agreements. Certain of these arrangements have free rent periods or escalating rent payment provisions, and we recognize rent expense under such arrangements on a straight-line basis. The following is a schedule, by years, of the future minimum lease payments required under non-cancelable operating leases as of December 31, 2018 (in millions): ---------------------------- ---------------- ------ Operating Leases 2019 $ 698 2020 946 2021 1,055 2022 1,048 2023 1,054 Thereafter 9,850 Total minimum lease payments $ 14,651 Operating lease expense was $629 million, $363 million, and $269 million for the years ended December 31, 2018, 2017 and 2016, respectively. We fully repaid all our capital lease obligations during 2016. Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $6.17 billion of non-cancelable contractual commitments as of December 31, 2018, primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Contingencies Lega...
+
+[refer to Note 9]:
+Note 9. Commitments and Contingencies Commitments Leases We have entered into various non-cancelable operating lease agreements for certain of our offices, data centers, land, and colocations with original lease periods expiring between 2019 and 2093. We are committed to pay a portion of the related actual operating expenses under certain of these lease agreements. Certain of these arrangements have free rent periods or escalating rent payment provisions, and we recognize rent expense under such arrangements on a straight-line basis. The following is a schedule, by years, of the future minimum lease payments required under non-cancelable operating leases as of December 31, 2018 (in millions): ---------------------------- ---------------- ------ Operating Leases 2019 $ 698 2020 946 2021 1,055 2022 1,048 2023 1,054 Thereafter 9,850 Total minimum lease payments $ 14,651 Operating lease expense was $629 million, $363 million, and $269 million for the years ended December 31, 2018, 2017 and 2016, respectively. We fully repaid all our capital lease obligations during 2016. Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $6.17 billion of non-cancelable contractual commitments as of December 31, 2018, primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Contingencies Lega...
+
+[Refer to Note 14]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud offerings. - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Other Bets - Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes businesses such as Access, Calico, CapitalG, GV, Verily, Waymo, and X. Revenues from the Other Bets are derived primarily through the sales of internet and TV services through Access as well as licensing and R&D services through Verily. 80 ----------------- -------------  Alphabet Inc...
+
+[discussed in Item 1A]:
+Item 1A. Risk Factors 8

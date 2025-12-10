@@ -1,0 +1,1027 @@
+================================================================================
+CIK: 0000018926
+Company Name: CENTURYLINK, INC
+Filing Date: 2020-02-28
+Form Type: 10-K
+Extraction Date: 2025-08-31 14:54:37
+================================================================================
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+All references to "Notes" in this Item 7 of Part II refer to the Notes to Consolidated Financial Statements included in Item 8 of Part II of this report. Certain statements in this report constitute forward-looking statements. See "Special Note Regarding Forward-Looking Statements" in Item 1 of Part I of this report for factors relating to these statements and "Risk Factors" in Item 1A of Part I of this report for a discussion of certain risk factors applicable to our business, financial condition, results of operations, liquidity or prospects.
+
+Overview
+
+We are an international facilities-based communications company engaged primarily in providing a broad array of integrated services to our business and residential customers. We believe, we are among the largest providers of communications services to domestic and global enterprise customers and the second largest enterprise wireline telecommunications company in the United States. We provide services in over 60 countries, with most of our revenue being derived in the United States.
+We continue expanding the reach and capabilities of our network by investing at the edge of our world class fiber network consisting of approximately 450,000 route miles, connecting approximately 170,000 fiber-based on-net enterprise buildings, connecting to public and private data centers and subsea networks. We are also investing in new technologies, leveraging our extensive fiber network that provide customers with dynamic bandwidth and low-latency edge computing services to enable their digital transformation.
+Acquisition of Level 3
+
+On November 1, 2017, CenturyLink, Inc. ("CenturyLink") acquired Level 3 Communications, Inc. ("Level 3") through successive merger transactions, including a merger of Level 3 with and into a merger subsidiary, which survived such merger as our indirect wholly-owned subsidiary under the name of Level 3 Parent, LLC.
+
+During the year ended December 31, 2019, we recognized $234 million of integration and transformation-related expenses associated with our activities related to the Level 3 acquisition.
+
+Our consolidated financial statements include the accounts of CenturyLink and its majority owned subsidiaries, including Level 3 beginning on November 1, 2017. Due to the significant size of the acquisition, direct comparison of our results of operations for the periods ending on or after December 31, 2017 to prior periods are less meaningful than usual.
+
+As a result of the acquisition, Level 3's assets and liabilities have been revalued and recorded at their fair value. The assignment of estimated fair value requires a significant amount of judgment. The use of fair value measures affects the comparability of our post-acquisition financial information and may make it more difficult to predict earnings in future periods. We completed our final fair value determinations during the fourth quarter 2018. Our final fair value determinations were different than those preliminary values reflected in our consolidated financial statements at December 31, 2017 and resulted in an increase in goodwill of $340 million and an increase to other noncurrent assets offset by a decrease in customer relationships during 2018.
+
+In the discussion that follows, we refer to the business that we operated prior to the Level 3 acquisition as "Legacy CenturyLink", and we refer to the incremental business activities that we now operate as a result of the Level 3 acquisition as "Legacy Level 3."
+
+For additional information about our acquisition of Level 3, see (i) Note 2—Acquisition of Level 3 to our consolidated financial statements in Item 8 of Part II of this report and (ii) the documents we filed with the SEC on February 13, 2017, November 1, 2017 and January 16, 2018.
+
+53
+
+Sale of Data Centers and Colocation Business
+
+On May 1, 2017, we sold a portion of our data centers and colocation business to a consortium led by BC Partners, Inc. and Medina Capital ("the Purchaser") in exchange for pre-tax cash proceeds of $1.8 billion and a minority stake in the limited partnership that owns the consortium's global secure infrastructure company, Cyxtera Technologies. As part of the transaction, the Purchaser acquired 57 of our data centers and assumed our capital lease obligations, which amounted to $294 million on May 1, 2017, related to the divested properties.
+
+Our colocation business generated revenue (excluding revenue from affiliates) of $210 million from January 1, 2017 through May 1, 2017.
+
+This transaction did not meet the accounting requirements for a sale-leaseback transaction as described in ASC 840-40, Leases - Sale-Leaseback Transaction. Under the failed-sale-leaseback accounting model, after the transaction we were deemed under GAAP to still own certain real estate assets sold to the Purchaser.
+
+After factoring in the costs to sell the data centers and colocation business, excluding the impacts from the failed-sale-leaseback accounting treatment, the sale resulted in a $20 million gain as a result of the aggregate value of the consideration we received exceeding the carrying value of the assets sold and liabilities assumed. Based on the fair market values of the failed-sale-leaseback assets, the failed-sale-leaseback accounting treatment resulted in a loss of $102 million as a result of the requirement to treat a certain amount of the pre-tax cash proceeds from the sale of the assets as though it were the result of a financing obligation. The combined net loss of $82 million is included in selling, general and administrative expenses in our consolidated statement of operations for the year ended December 31, 2017.
+
+Effective with the January 1, 2019 implementation date of the new accounting standard for Leases (ASU 2016-02), this particular accounting treatment was no longer applicable to our May 1, 2017 divestiture transaction. Consequently, the above-described real estate assets and corresponding financing obligation were derecognized as of January 1, 2019 from our future consolidated balance sheets resulting in an increase of $115 million to stockholder's equity.
+
+See Note 3—Sale of Data Centers and Colocation Business for additional information on the sale and Note 1— Background And Summary Of Significant Accounting Policies for discussion of the impact of implementing ASU 2016-02 to our consolidated financial statements in Item 8 of Part II of this report.
+
+Reporting Segments
+
+Our reporting segments are organized by customer focus:
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• International and Global Accounts Management ("IGAM") Segment. Under our IGAM segment, we provide our products and services to approximately 200 global enterprise customers and to enterprises and carriers in three operating regions: Europe Middle East and Africa, Latin America and Asia Pacific. IGAM is responsible for working with large multinational organizations in support of their business and IT transformation strategies. With our extensive fiber network, and our ability to provide global networking solutions and a differentiated customer experience spanning the globe, we believe we are well-positioned to serve customers within this segment. This segment contains some of our largest customers which could result in revenue fluctuations driven by contract renegotiations or churn. We remain focused on investing globally to expand our reach, scale and technology to grow services that we can offer to our global and international customers;
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Enterprise Segment. Under our enterprise segment, we provide our products and services to large and regional domestic and global enterprises, as well as the public sector, which includes the U.S. Federal government, state and local governments and research and education institutions. Our ability to meet our enterprise customers' increasing needs for integrated data, broadband and voice services with our extensive product portfolio and our local approach to the market are differentiators. We plan to grow revenue within our Enterprise segment by leveraging our extensive enterprise-focused fiber network to deliver dynamic solutions our customers require to meet their growing and evolving needs;
+
+54
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Small and Medium Business ("SMB") Segment. Under our SMB segment, we provide our products and services to small and medium businesses directly and through our indirect channel partners. We generally designate businesses as small or medium if they have fewer than 500 employees. With traditional voice services representing a significant portion of SMB segment revenues, we believe revenue growth will continue to be a challenge for this segment. We believe by bringing products specific to meet the needs of this segment, adding fiber-fed on-net buildings and collaborating with our indirect channel partners, we will be better positioned to meet our SMB customers’ needs;
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Wholesale Segment. Under our wholesale segment, we provide our products and services to a wide range of other communication providers across the wireline, wireless, cable, voice and data center sectors. Our wholesale segment contributes scale that we leverage in connection with serving our Enterprise customers. We plan to continue to partner with 5G wireless providers to support their growing needs for transmission capacity, which in turn will place our network closer to our customers. Nonetheless, we expect the relative contributions of our wholesale segment will decline over the longer term due to competitive pressures. In the meantime, we expect our wholesale segment will remain volatile from quarter to quarter given the relatively large size of wholesale customer contracts.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Consumer Segment. Under our consumer segment, we provide our products and services to residential customers. For this segment, we expect continued declines in revenues from our traditional voice services, as consumers continue their long-term migration towards alternative products and services, and from our video business, which we are no longer actively marketing to consumers. We are aggressively investing in fiber to drive higher average revenue per broadband customer to offset legacy voice and video declines. Additionally, we continue to invest in our own digital transformation to improve our service delivery and reduce our costs. At December 31, 2019, we served 4.7 million consumer broadband subscribers. Our methodology for counting consumer broadband subscribers may not be comparable to those of other companies. We no longer report or discuss access lines as a key operating metric given the significant migration in our industry from legacy services to IP-enabled services.
+
+See Note 17—Segment Information to our consolidated financial statements in Item 8 of Part II of this report for additional information.
+
+We categorize our revenue among the following four product and services categories that we sell to business customers:
+
+- -----------------------------------------------------------------------------------------------------------------------------
+• IP and Data Services, which include primarily VPN data networks, Ethernet, IP, content delivery and other ancillary services;
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Transport and Infrastructure, which includes wavelengths, dark fiber, private line, colocation and data center services, including cloud, hosting and application management solutions, professional services and other ancillary services;
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Voice and Collaboration, which includes primarily local and long-distance voice, including wholesale voice, and other ancillary services, as well as VoIP services; and
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• IT and Managed Services, which include information technology services and managed services, which may be purchased in conjunction with our other network services.
+
+We categorize revenue among the following four categories that we sell to residential customers:
+
+- -----------------------------------------------------------------------------------------
+• Broadband, which includes high speed, fiber-based and lower speed DSL broadband services;
+
+- ------------------------------------------------------
+• Voice, which include local and long-distance services;
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Regulatory Revenue, which consist of (i) CAF, USF and other support payments designed to reimburse us for various costs related to certain telecommunications services and (ii) other operating revenue from the leasing and subleasing of space; and
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+• Other, which include retail video services (including our linear TV services), professional services and other ancillary services.
+
+55
+
+Trends Impacting Our Operations
+
+Our consolidated operations have been, and are expected to continue to be, impacted by the following company-wide trends:
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Customers’ demand for automated products and services and competitive pressures will require that we continue to invest in new technologies and automated processes to improve the customer experience and reduce our operating expenses.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The increasingly digital environment and the growth in online video require robust, scalable network services. We are continuing to enhance our product capabilities and simplify our product portfolio based on demand and profitability to enable customers to have access to greater bandwidth.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Businesses continue to adopt distributed, global operating models. We are expanding and densifying our fiber network, connecting more buildings to our network to generate revenue opportunities and reduce our costs associated with leasing networks from other carriers.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Industry consolidation, coupled with changes in regulation, technology and customer preferences, are significantly reducing demand for our traditional voice services and are pressuring some other revenue streams, while other advances, such as the need for lower latency provided by Edge computing or the implementation of 5G networks, are expected to create opportunities.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The operating margins of several of our newer, more technologically advanced services, some of which may connect to customers through other carriers, are lower than the operating margins on our traditional, on-net wireline services.
+
+Additional trends impacting our segments are discussed elsewhere in this Item 7.
+
+Results of Operations
+
+In this section, we discuss our overall results of operations and highlight special items that are not included in our segment results. In "Segment Results of Operations" we review the performance of our five reporting segments in more detail.
+
+Consolidated Revenue
+
+The following table summarizes our consolidated operating revenue recorded under each of our eight above described revenue categories:
+
+---------------------------- ----------------------- ------ -------- --------------------- ----------------------- ---- -------- ---- -- ----- ------ ----- ------ --- -- -
+
+ Year Ended December 31, % Change Year Ended December 31, % Change
+ 2019 2018 2018 2017
+ (Dollars in millions) (Dollars in millions)
+IP and Data Services $ 7,000 6,961 1 % 6,961 3,594 94 %
+Transport and Infrastructure 5,203 5,433 (4 )% 5,433 3,663 48 %
+Voice and Collaboration 4,021 4,309 (7 )% 4,309 3,304 30 %
+IT and Managed Services 535 624 (14 )% 624 644 (3 )%
+Broadband 2,876 2,822 2 % 2,822 2,698 5 %
+Voice 1,881 2,173 (13 )% 2,173 2,531 (14 )%
+Regulatory 634 729 (13 )% 729 731 — %
+Other 251 392 (36 )% 392 491 (20 )%
+Total operating revenue $ 22,401 23,443 (4 )% 23,443 17,656 33 %
+
+56
+
+Our consolidated revenue decreased by $1.0 billion, or 4%, for the year ended December 31, 2019 as compared to the year ended December 31, 2018 largely due to continued declines in voice revenue as customers transition to other voice and non-voice services, our deemphasis of low margin equipment sales within Transport and Infrastructure, churn in legacy contracts within IT and Managed Services, and the derecognition of our prior failed-sale leaseback, partially offset by growth in our IP and Data services and Broadband revenue. See our segment results below for additional information.
+
+Our consolidated revenue increased by $5.8 billion or 33%, for the year ended December 31, 2018 compared to the year ended December 31, 2017 primarily due to the inclusion of $6.7 billion in Legacy Level 3 post-acquisition operating revenue in our consolidated operating revenue. See our segment results below for additional information.
+
+Operating Expenses
+
+These expense classifications may not be comparable to those of other companies.
+
+The following tables summarize our operating expenses:
+
+-------------------------------------------------------------------------- ------------------------ ------ -------- --------------------- ----------------------- ---- -------- ---- -- ----- ------ ----- ------ -- -- -
+
+ Years Ended December 31, % Change Year Ended December 31, % Change
+ 2019 2018 2018 2017
+ (Dollars in millions) (Dollars in millions)
+Cost of services and products (exclusive of depreciation and amortization) $ 10,077 10,862 (7 )% 10,862 8,203 32 %
+Selling, general and administrative 3,715 4,165 (11 )% 4,165 3,508 19 %
+Depreciation and amortization 4,829 5,120 (6 )% 5,120 3,936 30 %
+Goodwill impairment 6,506 2,726 139 % 2,726 — nm
+Total operating expenses $ 25,127 22,873 10 % 22,873 15,647 46 %
+
+_______________________________________________________________________________
+
+-- ----------------------------------------------------------------------------------------------------------------------------------------
+
+nm Percentages greater than 200% and comparison between positive and negatives values or to/from zero values are considered not meaningful.
+
+Cost of Services and Products (exclusive of depreciation and amortization)
+
+Cost of services and products (exclusive of depreciation and amortization) decreased by $785 million, or 7%, for the year ended December 31, 2019 as compared to the year ended December 31, 2018. The decrease in costs of services and products (exclusive of depreciation and amortization) was primarily due to reductions in (i) salaries and wages and employee-related expenses from lower headcount directly related to operating and maintaining our network, (ii) network expenses and voice usage costs, (iii) customer premises equipment costs from lower sales, in (iv) content costs from Prism TV, and (v) lower space and power expenses. These reductions were partially offset by increases in direct taxes and fees, USF rates, professional services, customer installation costs and right of way and dark fiber expenses.
+
+Cost of services and products (exclusive of depreciation and amortization) increased by $2.7 billion, or 32%, for the year ended December 31, 2018 as compared to the year ended December 31, 2017. The increase in costs of services and products (exclusive of depreciation and amortization) was attributable to the inclusion of $3.2 billion Legacy Level 3 post-acquisition costs (net of intercompany eliminations) in our consolidated costs of services and products (exclusive of depreciation and amortization). Costs of services and products (exclusive of depreciation and amortization) for Legacy CenturyLink decreased $588 million, or 8%, for the year ended December 31, 2018 as compared to the year ended December 31, 2017. The decrease was primarily due to reductions in salaries and wages and employee related expenses from lower headcount, reduced overtime, lower real estate and power expenses and a decline in content costs for Prism TV.
+
+57
+
+Selling, General and Administrative
+
+Selling, general and administrative expenses decreased by $450 million, or 11%, for the year ended December 31, 2019 as compared to the year ended December 31, 2018. The decrease in selling, general and administrative expenses was primarily due to reductions in salaries and wages and employee-related expenses from lower headcount, contract labor costs, lower rent expense in 2019 and from higher exited lease obligations in 2018, hardware and software maintenance costs, marketing and advertising expenses, bad debt expense, property and other taxes and an increase in the amount of labor capitalized or deferred and gains on the sale of assets. These reductions were slightly offset by higher professional fees, network infrastructure maintenance expenses and commissions.
+
+Selling, general and administrative expenses increased by $657 million, or 19%, for the year ended December 31, 2018 as compared to the year ended December 31, 2017. The increase in selling, general and administrative expenses was attributable to the inclusion of $1.1 billion legacy Level 3 post-acquisition costs (net of intercompany eliminations) in our consolidated selling, general and administrative expenses. Selling, general and administrative expenses for Legacy CenturyLink decreased by $444 million, or 14%, for the year ended December 31, 2018 as compared to the year ended December 31, 2017. The decrease was primarily due to (i) reductions in salaries and wages and employee related expenses from lower headcount, (ii) reduced overtime, professional fees, bad debt and marketing expenses and (iii) a loss on sale of data centers in 2017.
+
+Depreciation and Amortization
+
+The following tables provide detail of our depreciation and amortization expense:
+
+----------------------------------- ------------------------ ----- -------- --------------------- ------------------------ ---- -------- ---- -- ----- ----- ----- ----- -- -- -
+
+ Years Ended December 31, % Change Years Ended December 31, % Change
+ 2019 2018 2018 2017
+ (Dollars in millions) (Dollars in millions)
+Depreciation $ 3,089 3,339 (7 )% 3,339 2,710 23 %
+Amortization 1,740 1,781 (2 )% 1,781 1,226 45 %
+Total depreciation and amortization $ 4,829 5,120 (6 )% 5,120 3,936 30 %
+
+Depreciation expense decreased by $250 million, or 7%, for the year ended December 31, 2019 as compared to the year ended December 31, 2018 primarily due to the impact of the full depreciation of plant, property, and equipment assigned a one year life at the time we acquired Level 3 of $200 million that were fully depreciated in 2018, the impact of annual rate depreciable life changes of $108 million, and the discontinuation of depreciation on failed sale leaseback assets on $69 million. These decreases were partially offset by net growth in depreciable assets of $93 million and increases associated with changes in our estimates of the remaining economic life of certain network assets of $34 million.
+
+Depreciation expense increased by $629 million, or 23%, for the year ended December 31, 2018 as compared to the year ended December 31, 2017, primarily due to the inclusion of $763 million Legacy Level 3 post-acquisition depreciation expense in our consolidated depreciation expense, which was partially offset by lower Legacy CenturyLink depreciation expense.
+
+Amortization expense decreased by $41 million, or 2%, for the year ended December 31, 2019 as compared to the year ended December 31, 2018 primarily due to a $71 million decrease associated with the use of accelerated amortization methods for a portion of the customer intangibles and a $25 million decrease associated with annual rate amortizable life changes of software for the period. These decreases were partially offset by net growth in amortizable assets of $55 million for the period.
+
+58
+
+Amortization expense increased by $555 million, or 45%, for the year ended December 31, 2018 as compared to the year ended December 31, 2017. The increase in amortization expense was primarily attributable to the inclusion of $659 million, of post-acquisition Legacy Level 3 amortization expense in our consolidated amortization expense. Legacy CenturyLink's amortization expense was lower primarily due to the use of accelerated amortization for a portion of our customer relationship assets and our entry into an agreement to sell a portion of our data centers and colocation business. The effect of using an accelerated amortization method resulted in an incremental decline in expense as the intangible assets amortize. In 2017, we ceased amortizing the intangible assets of our colocation business when we entered into the agreement to sell that business. Absent the sale, we estimate that we would have recorded additional amortization expense of $13 million from January 1, 2017 through May 1, 2017, related to the conveyed intangible assets. In addition, amortization of capitalized software was lower due to software becoming fully amortized faster than new software was acquired or developed.
+
+Goodwill Impairments
+
+We are required to perform impairment tests related to our goodwill annually, which we perform as of October 31, or sooner if an indicator of impairment occurs. Both our January 2019 internal reorganization and the decline in our stock price triggered impairment testing in the first quarter of 2019. Consequently, we evaluated our goodwill in January 2019 and again as of March 31, 2019.
+
+When we performed our annual impairment test in the fourth quarter of 2019 the results indicated we did not have any impairment charges. When we performed our impairment tests during the first quarter of 2019, we concluded that the estimated fair value of certain of our reporting units was less than our carrying value of equity as of the date of each of our triggering events during the first quarter of 2019. As a result, we recorded non-cash, non-tax-deductible goodwill impairment charges aggregating to $6.5 billion in the quarter ended March 31, 2019. Additionally, when we performed our annual impairment test in the fourth quarter of 2018 we concluded that the estimated fair value of our consumer reporting unit was less than our carrying value of equity for such reporting unit and we recorded a non-cash non-tax-deductible goodwill impairment charge of approximately $2.7 billion in the fourth quarter of 2018.
+
+See Note 4—Goodwill, Customer Relationships and Other Intangible Assets for further details on these tests and impairment charges.
+
+Other Consolidated Results
+
+The following tables summarize our total other expense, net and income tax expense (benefit):
+
+---------------------------- ------------------------ ------ -------- --------------------- ------------------------ ---- -------- ---- -- -- ------ - -- ------ - -- -- -
+
+ Years Ended December 31, % Change Years Ended December 31, % Change
+ 2019 2018 2018 2017
+ (Dollars in millions) (Dollars in millions)
+Interest expense $ (2,021 ) (2,177 ) (7 )% (2,177 ) (1,481 ) 47 %
+Other (loss) income, net (19 ) 44 nm 44 12 nm
+Total other expense, net $ (2,040 ) (2,133 ) (4 )% (2,133 ) (1,469 ) 45 %
+Income tax expense (benefit) $ 503 170 nm 170 (849 ) nm
+
+_______________________________________________________________________________
+
+-- ----------------------------------------------------------------------------------------------------------------------------------------
+
+nm Percentages greater than 200% and comparison between positive and negatives values or to/from zero values are considered not meaningful.
+
+Interest Expense
+
+Interest expense decreased by $156 million, or 7%, for the year ended December 31, 2019 as compared to the year ended December 31, 2018. The decrease in interest expense was primarily due to the decrease in long-term debt from an average of $36.9 billion in 2018 to $35.4 billion in 2019.
+
+Interest expense increased by $696 million, or 47%, for the year ended December 31, 2018 as compared to the year ended December 31, 2017. The increase in interest expense was primarily due to our assumption of debt in conjunction with the acquisition of Level 3.
+
+59
+
+Other Income, Net
+
+Other income, net reflects certain items not directly related to our core operations, including our share of income from partnerships we do not control, interest income, gains and losses from non-operating asset dispositions, foreign currency gains and losses and components of net periodic pension and postretirement benefit costs. Other (loss) income, net decreased by $63 million, for the year ended December 31, 2019 as compared to the year ended December 31, 2018. This decrease in other (loss) income, net was primarily due to an increase in components of net periodic pension and postretirement benefit costs in 2019, partially offset by a gain on extinguishment of debt in 2019 compared to a loss on extinguishment of debt in 2018.
+
+Other income, net increased by $32 million, for the year ended December 31, 2018 as compared to the year ended December 31, 2017. This increase in other income, net was primarily due to a decrease in components of net periodic pension and postretirement benefit costs in 2018.
+
+Income Tax Expense (Benefit)
+
+For the years ended December 31, 2019, 2018 and 2017, our effective income tax rate was (10.6)%, (10.9)%, and (157.2)%, respectively. The effective tax rates for the year ended December 31, 2019 and December 31, 2018 include a $1.4 billion and a $572 million unfavorable impact of non-deductible goodwill impairments, respectively. Additionally, the effective tax rate for the year ended December 31, 2018 reflects the impact of purchase price accounting adjustments resulting from the Level 3 acquisition and from the tax reform impact of those adjustments of $92 million. The 2018 unfavorable impacts were partially offset by the tax benefit of a 2017 tax loss carryback to 2016 of $142 million. The effective tax rate for the year ended December 31, 2017 reflects the tax benefit of approximately $1.1 billion from re-measurement of deferred taxes to the new federal corporate tax rate of 21% as a result of the enactment of the Tax Cuts and Jobs Act in December 2017. The re-measurement resulted in a tax benefit recorded in the fourth quarter of 2017, which was the predominant factor contributing to our recognition of an $849 million income tax benefit for 2017. The 2017 effective tax rate also includes a $27 million tax expense related to the sale of a portion of our data centers and colocation business and a $32 million tax impact of non-deductible transaction costs related to the Level 3 acquisition. See Note 16—Income Taxes to our consolidated financial statements in Item 8 of Part II of this report and "Critical Accounting Policies and Estimates—Income Taxes" below for additional information.
+
+60
+
+Segment Results
+
+General
+
+Reconciliation of segment revenue to total operating revenue is below:
+
+--------------------------------- ----------------------- ------ ---- ----- ------ ----- ------
+
+ Year Ended December 31,
+ 2019 2018 2017
+ (Dollars in millions)
+Operating revenue
+International and Global Accounts $ 3,596 3,653 1,382
+Enterprise 6,133 6,133 4,186
+Small and Medium Business 2,956 3,144 2,418
+Wholesale 4,074 4,397 3,026
+Consumer 5,642 6,116 6,451
+Total segment revenue $ 22,401 23,443 17,463
+Operations and Other (1) — — 193
+Total operating revenue $ 22,401 23,443 17,656
+
+_______________________________________________________________________________
+(1) On May 1, 2017 we sold a portion of our data centers and colocation business. See Note 3—Sale of Data Centers and Colocation Business to our consolidated financial statements in Item 8 of Part II of this report, for additional information.
+
+Reconciliation of segment EBITDA to total adjusted EBITDA is below:
+
+--------------------------------- ----------------------- ------ ---- ------ ------ ------ ------
+
+ Year Ended December 31,
+ 2019 2018 2017
+ (Dollars in millions)
+Adjusted EBITDA
+International and Global Accounts $ 2,286 2,341 821
+Enterprise 3,490 3,522 2,456
+Small and Medium Business 1,870 2,013 1,581
+Wholesale 3,427 3,666 2,566
+Consumer 4,914 5,105 5,136
+Total segment EBITDA $ 15,987 16,647 12,560
+Operations and Other EBITDA (7,216 ) (8,045 ) (6,504 )
+Total adjusted EBITDA $ 8,771 8,602 6,056
+
+For additional information on our reportable segments and product and services categories, see Note 17—Segment Information to our consolidated financial statements in Item 8 of Part II of this report.
+
+61
+
+International and Global Accounts Management Segment
+
+---------------------------- ----------------------- ----- -------- --------------------- ----------------------- ---- -------- ---- -- ----- ----- ----- --- --- --- -
+
+ Year Ended December 31, % Change Year Ended December 31, % Change
+ 2019 2018 2018 2017
+ (Dollars in millions) (Dollars in millions)
+Revenue:
+IP and Data Services $ 1,676 1,728 (3 )% 1,728 528 227 %
+Transport and Infrastructure 1,318 1,276 3 % 1,276 406 214 %
+Voice and Collaboration 377 387 (3 )% 387 176 120 %
+IT and Managed Services 225 262 (14 )% 262 272 (4 )%
+Total revenue 3,596 3,653 (2 )% 3,653 1,382 164 %
+Total expense 1,310 1,312 — % 1,312 561 134 %
+Total adjusted EBITDA $ 2,286 2,341 (2 )% 2,341 821 185 %
+
+Year Ended December 31, 2019 Compared to the same periods Ended December 31, 2018 and December 31, 2017
+
+Segment revenue decreased $57 million, or 2% for the year ended December 31, 2019 compared to December 31, 2018 and increased $2.3 billion or 164%, for the year ended December 31, 2018 compared to December 31, 2017. Excluding the impact of foreign currency fluctuations, segment revenue decreased $5 million, or less than 1% for the year ended December 31, 2019 compared to December 31, 2018, primarily due to the following factors:
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• IT and managed services revenue declined due to a large unprofitable contract with a European customer that renegotiated in the second quarter of 2018 and higher overall churn;
+
+- ------------------------------------------------------------------------------------
+• IP and data services revenue declined mostly due to reduced rates and lower traffic;
+
+- ---------------------------------------------------------------------------------------------------------------------------------
+• voice and collaboration revenue decreased due to higher churn and benefited from certain non-recurring revenue items in 2018; and
+
+- -------------------------------------------------------------------------------------------------------------
+• transport and infrastructure revenue increased due to expanded services for large customers and higher rates.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Segment revenue increased $2.3 billion, or 164%, for the year ended December 31, 2018 compared to December 31, 2017, primarily due to the Level 3 acquisition on November 1, 2017.
+
+Segment expenses decreased by $2 million, or less than 1%, for the year ended December 31, 2019 compared to December 31, 2018 primarily due to lower cost of services in line with lower revenue. Segment expenses increased by $751 million, or 134%, for the year ended December 31, 2018 compared to December 31, 2017, primarily due to the Level 3 acquisition as noted above.
+
+Segment adjusted EBITDA as a percentage of revenue was 64%, 64% and 59% for the year ended December 31, 2019, 2018 and 2017, respectively.
+
+62
+
+Enterprise Segment
+
+---------------------------- ----------------------- ----- -------- --------------------- ----------------------- ---- -------- ---- -- ----- ----- ----- ----- -- -- -
+
+ Year Ended December 31, % Change Year Ended December 31, % Change
+ 2019 2018 2018 2017
+ (Dollars in millions) (Dollars in millions)
+Revenue:
+IP and Data Services $ 2,763 2,673 3 % 2,673 1,515 76 %
+Transport and Infrastructure 1,545 1,550 — % 1,550 1,116 39 %
+Voice and Collaboration 1,567 1,607 (2 )% 1,607 1,245 29 %
+IT and Managed Services 258 303 (15 )% 303 310 (2 )%
+Total revenue 6,133 6,133 — % 6,133 4,186 47 %
+Total expense 2,643 2,611 1 % 2,611 1,730 51 %
+Total adjusted EBITDA $ 3,490 3,522 (1 )% 3,522 2,456 43 %
+
+Year Ended December 31, 2019 Compared to the same periods Ended December 31, 2018 and December 31, 2017
+
+Segment revenue remained unchanged for the year ended December 31, 2019 compared to December 31, 2018 and increased $1.9 billion or 47% for the year ended December 31, 2018 compared to December 31, 2017, due to the following factors:
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• For the year ended 2019 compared to 2018, IP and data services revenue increased, primarily driven by an increase in rates, and for the period ended 2018 compared to 2017, the increase was driven mainly by the acquisition of Level 3;
+
+- --------------------------------------------------------------------------------------------------------------------
+• for both periods, IT and managed services revenue declined mainly due to churn in legacy managed services contracts;
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• for the year ended 2019 compared to 2018, voice and collaboration revenue decreased as customers continue to disconnect traditional voice TDM service and transition to newer (low cost) products such as VoIP, and for the year ended 2018 compared to 2017, voice and collaboration revenue increased due to the Level 3 acquisition partially offset by migration from traditional TDM services to VoIP; and
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• for the year ended 2019 compared to 2018, transport and infrastructure revenue decreased due to our deemphasis of low-margin equipment and lower professional services, and for the year ended 2018 compared to 2017, transport and infrastructure increased due to the Level 3 acquisition partially offset by lower equipment sales.
+
+Segment expenses increased by $32 million or 1% for the year ended December 31, 2019 compared to December 31, 2018 and $881 million or 51% for the year ended December 31, 2018 compared to December 31, 2017, primarily due to:
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• For the year ended 2019 compared to 2018, selling, general and administrative costs decreased due to lower headcount related costs and external commissions, and for the year ended 2018 compared to 2017, selling, general and administrative costs increased due to the Level 3 acquisition; and
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• for the year ended 2018 compared to 2017, cost of services and products increased primarily driven by the higher revenues from the Level 3 acquisition, increased rates and higher offnet costs.
+
+Segment adjusted EBITDA as a percentage of revenue was 57%, 57% and 59% for the year ended December 31, 2019, 2018 and 2017, respectively.
+
+63
+
+Small and Medium Business Segment
+
+---------------------------- ----------------------- ----- -------- --------------------- ----------------------- ---- -------- ---- -- ----- ----- ----- ----- -- -- -
+
+ Year Ended December 31, % Change Year Ended December 31, % Change
+ 2019 2018 2018 2017
+ (Dollars in millions) (Dollars in millions)
+Revenue:
+IP and Data Services $ 1,184 1,178 1 % 1,178 634 86 %
+Transport and Infrastructure 420 471 (11 )% 471 419 12 %
+Voice and Collaboration 1,306 1,443 (9 )% 1,443 1,314 10 %
+IT and Managed Services 46 52 (12 )% 52 51 2 %
+Total revenue 2,956 3,144 (6 )% 3,144 2,418 30 %
+Total expense 1,086 1,131 (4 )% 1,131 837 35 %
+Total adjusted EBITDA $ 1,870 2,013 (7 )% 2,013 1,581 27 %
+
+Year Ended December 31, 2019 Compared to the same periods Ended December 31, 2018 and December 31, 2017
+
+Segment revenue decreased $188 million or 6% for the year ended December 31, 2019 compared to December 31, 2018 and increased $726 million, or 30% for the year ended December 31, 2018 compared to December 31, 2017, primarily due to the following factors:
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• For the year ended 2019 compared to 2018, voice and collaboration revenue decreased due to continued decline in demand for legacy voice services, and for the year ended 2018 compared to 2017, voice and collaboration increased due to the Level 3 acquisition, partially offset by continued legacy voice declines;
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• for the year ended 2019 compared to 2018, transport and infrastructure revenue decreased primarily due to lower equipment sales as we continue to focus on driving profitable growth, and for the year ended 2018 compared to 2017, transport and infrastructure increased due to the Level 3 acquisition, partially offset by de-emphasis of Customer Premises Equipment ("CPE") sales; and
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• for the year ended 2018 compared to 2017, IP and data services increased due to the Level 3 acquisition and VPN revenue growth as we continue to experience good momentum in this product within our small and medium business segment.
+
+Segment expenses decreased by $45 million or 4% for the year ended December 31, 2019 compared to December 31, 2018 and increased $294 million or 35% for the year ended December 31, 2018 compared to December 31, 2017, primarily due to:
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+• For the year ended 2019 compared to 2018, expenses decreased due to lower network cost driven by declines in customer demand, and network expense synergies; and
+
+- --------------------------------------------------------------------------------------------
+• for the year ended 2018 compared to 2017, expenses increased due to the Level 3 acquisition.
+
+Segment adjusted EBITDA as a percentage of revenue was 63%, 64% and 65% for the year ended December 31, 2019, 2018 and 2017, respectively.
+
+64
+
+Wholesale Segment
+
+---------------------------- ----------------------- ----- -------- --------------------- ----------------------- ---- -------- ---- -- ----- ----- ----- ----- --- -- -
+
+ Year Ended December 31, % Change Year Ended December 31, % Change
+ 2019 2018 2018 2017
+ (Dollars in millions) (Dollars in millions)
+Revenue:
+IP and Data Services $ 1,377 1,382 — % 1,382 916 51 %
+Transport and Infrastructure 1,920 2,136 (10 )% 2,136 1,530 40 %
+Voice and Collaboration 771 872 (12 )% 872 569 53 %
+IT and Managed Services 6 7 (14 )% 7 11 (36 )%
+Total revenue 4,074 4,397 (7 )% 4,397 3,026 45 %
+Total expense 647 731 (11 )% 731 460 59 %
+Total adjusted EBITDA $ 3,427 3,666 (7 )% 3,666 2,566 43 %
+
+Year Ended December 31, 2019 Compared to the same periods Ended December 31, 2018 and December 31, 2017
+
+Segment revenue decreased $323 million or 7% for the year ended December 31, 2019 compared to December 31, 2018 and increased $1.4 billion or 45% for the year ended December 31, 2018 compared to December 31, 2017, primarily due to the following factors:
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• For the year ended 2019 compared to 2018, transport and infrastructure revenue decreased due to continued declines in legacy private line and customer network consolidation and grooming efforts, and for the year ended 2018 compared to 2017 transport and infrastructure increased due to the Level 3 acquisition;
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• for the year ended 2019 compared to 2018, voice and collaboration revenue decreased due to a combination of market rate compression, customer volume losses resulting from insourcing and industry consolidation, and for the year ended 2018 compared to 2017 voice and collaboration increased due to the Level 3 acquisition; and
+
+- ---------------------------------------------------------------------------------------------------------------
+• for the year ended 2018 compared to 2017 IP and data services revenue increased due to the Level 3 acquisition.
+
+Segment expenses decreased by $84 million, or 11%, for the year ended December 31, 2019 compared to December 31, 2018, primarily due to lower cost of services and products in line with the reduced customer demand, network grooming and operating synergies, and increased $271 million, or 59%, for the year ended December 31, 2018 compared to December 31, 2017, due to the Level 3 acquisition.
+
+ Segment adjusted EBITDA as a percentage of revenue was 84%, 83% and 85% for the year ended December 31, 2019, 2018 and 2017, respectively.
+
+65
+
+Consumer Segment
+
+--------------------- ----------------------- ----- -------- --------------------- ----------------------- ---- -------- ---- -- ----- ----- ----- ----- --- -- --
+
+ Year Ended December 31, % Change Year Ended December 31, % Change
+ 2019 2018 2018 2017
+ (Dollars in millions) (Dollars in millions)
+Revenue:
+Broadband $ 2,876 2,822 2 % 2,822 2,698 5 %
+Voice 1,881 2,173 (13 )% 2,173 2,531 (14 )%
+Regulatory 634 729 (13 )% 729 731 — %
+Other 251 392 (36 )% 392 491 (20 )%
+Total revenue 5,642 6,116 (8 )% 6,116 6,451 (5 )%
+Total expense 728 1,011 (28 )% 1,011 1,315 (23 )%
+Total adjusted EBITDA $ 4,914 5,105 (4 )% 5,105 5,136 (1 )%
+
+Year Ended December 31, 2019 Compared to the same periods Ended December 31, 2018 and December 31, 2017
+
+Segment revenue decreased $474 million or 8% for the year ended December 31, 2019 compared to December 31, 2018 and $335 million or 5% for the year ended December 31, 2018 compared to December 31, 2017, primarily due to the following factors:
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• For both periods, decreases in our voice, other and regulatory revenue was driven by continued decline in our legacy voice customers, our deemphasis of our Prism video product and the derecognition of our prior failed-sale leaseback; partially offset by
+
+- ---------------------------------------------------
+• for both periods, an increase in Broadband revenue.
+
+Segment expenses decreased by $283 million or 28% for the year ended December 31, 2019 compared to December 31, 2018 and $304 million or 23% for the year ended December 31, 2018 compared to December 31, 2017, primarily due to the following factors:
+
+- -----------------------------------------
+• For both periods, reduction in personnel;
+
+- ---------------------------------------------------
+• for both periods, decreased marketing expenses; and
+
+- ----------------------------------------
+• lower TV content costs for both periods.
+
+ Segment adjusted EBITDA as a percentage of revenue was 87%, 83% and 80% for the year ended December 31, 2019, 2018 and 2017, respectively.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements are prepared in accordance with accounting principles that are generally accepted in the United States. The preparation of these consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of our assets, liabilities, revenue and expenses. We have identified certain policies and estimates as critical to our business operations and the understanding of our past or present results of operations related to (i) business combinations, (ii) goodwill, customer relationships and other intangible assets; (iii) property, plant and equipment; (iv) pension and post-retirement benefits; (v) loss contingencies and litigation reserves and (vi) income taxes. These policies and estimates are considered critical because they had a material impact, or they have the potential to have a material impact, on our consolidated financial statements and because they require us to make significant judgments, assumptions or estimates. We believe that the estimates, judgments and assumptions made when accounting for the items described below were reasonable, based on information available at the time they were made. However, actual results may differ from those estimates, and these differences may be material.
+
+66
+
+Business Combination
+
+We have accounted for our acquisition of Level 3 on November 1, 2017, under the acquisition method of accounting, whereby the tangible and separately identifiable intangible assets acquired and liabilities assumed are recognized at their fair values at the acquisition date. The portion of the purchase price in excess of the fair value of the net tangible and separately identifiable intangible assets acquired represents goodwill. The fair value and resulting assignment of the purchase price related to our acquisition of Level 3 involved significant estimates and judgments by our management. In arriving at the fair values of assets acquired and liabilities assumed, we considered the following generally accepted valuation approaches: the cost approach, income approach and market approach. Our estimates also included assumptions about projected growth rates, cost of capital, effective tax rates, tax amortization periods, technology life cycles, customer attrition rates, the regulatory and legal environment and industry and economic trends. For additional information about our acquisition of Level 3, see Note 2—Acquisition of Level 3 to our consolidated financial statements in Item 8 of Part II of this report.
+
+Goodwill, Customer Relationships and Other Intangible Assets
+
+Intangible assets arising from business combinations, such as goodwill, customer relationships, capitalized software, trademarks and tradenames, are initially recorded at estimated fair value. We amortize customer relationships primarily over an estimated life of 7 to 15 years, using either the sum-of-years-digits or the straight-line methods, depending on the customer retention patterns for the type of customer at the companies we acquire. We amortize capitalized software using the straight-line method primarily over estimated lives ranging up to 7 years. We annually review the estimated lives and methods used to amortize our other intangible assets. The amount of future amortization expense may differ materially from current amounts, depending on the results of our annual reviews.
+
+Our goodwill was derived from numerous acquisitions where the purchase price exceeded the fair value of the net assets acquired.
+
+We are required to reassign goodwill to reporting units whenever reorganizations of our internal reporting structure changes the composition of our reporting units. Goodwill is reassigned to the reporting units using a relative fair value approach. When the fair value of a reporting unit is available, we allocate goodwill based on the relative fair value of the reporting units. When fair value is not available, we utilize an alternative allocation methodology that represents a reasonable proxy for the fair value of the operations being reorganized. For additional information on our segments, see Note 17—Segment Information to our consolidated financial statements in Item 8 of Part II of this report.
+
+We are required to perform impairment tests related to our goodwill annually, or sooner if an indicator of impairment occurs. At October 31, 2019, our international and global accounts segment was comprised of our North America global accounts ("NA GAM"), Europe, Middle East and Africa region ("EMEA"), Latin America region ("LATAM") and Asia Pacific region ("APAC") reporting units. Our annual impairment assessment date for goodwill is October 31, at which date we assess our reporting units. At October 31, 2019, our reporting units were consumer, small and medium business, enterprise, wholesale, NA GAM, EMEA, LATAM, and APAC.
+
+Our reporting units are not discrete legal entities with discrete full financial statements. Our assets and liabilities are employed in and relate to the operations of multiple reporting units. For each reporting unit, we compare its estimated fair value of equity to its carrying value of equity that we assign to the reporting unit. If the estimated fair value of the reporting unit is equal or greater than the carrying value, we conclude that no impairment exists. If the estimated fair value of the reporting unit is less than the carrying value, we record an impairment equal to the difference. Depending on the facts and circumstances, we typically estimate the fair value of our reporting units by considering either or both of (i) a market approach, which includes the use of multiples of publicly-traded companies whose services are comparable to ours, and (ii) a discounted cash flow method, which is based on the present value of projected cash flows and a terminal value, which represents the expected normalized cash flows of the reporting units beyond the cash flows from the discrete projection period.
+
+67
+
+At October 31, 2019, we estimated the fair value of our eight above-mentioned reporting units by considering both a market approach and a discounted cash flow method. We reconciled the estimated fair values of the reporting units to our market capitalization as of October 31, 2019 and concluded that the indicated control premium of approximately 44.7% was reasonable based on recent market transactions. As of October 31, 2019, based on our assessment performed with respect to our eight reporting units, the estimated fair value of our equity exceeded our carrying value of equity for our consumer, small and medium business, enterprise, wholesale, NA GAM, EMEA, LATAM, and APAC by 44%, 41%, 53%, 46%, 55%, 5%, 63% and 38%, respectively. Based on our assessments performed, we concluded that the goodwill for our eight reporting units was not impaired as of October 31, 2019.
+
+Both our January 2019 internal reorganization and the decline in our stock price triggered impairment testing in the first quarter of 2019. Consequently, we evaluated our goodwill in January 2019 and again as of March 31, 2019. Because our low stock price was a key trigger for impairment testing in early 2019, we estimated the fair value of our operations using only the market approach. Applying this approach, we utilized company comparisons and analyst reports within the telecommunications industry which have historically supported a range of fair values derived from annualized revenue and EBITDA multiples between 2.1x and 4.9x and 4.9x and 9.8x, respectively. We selected a revenue and EBITDA multiple for each of our reporting units within this range. We reconciled the estimated fair values of the reporting units to our market capitalization as of the date of each of our triggering events during the first quarter and concluded that the indicated control premiums of approximately 4.5% and 4.1% were reasonable based on recent market transactions. In the quarter ended March 31, 2019, based on our assessments performed with respect to the reporting units as described above, we concluded that the estimated fair value of certain of our reporting units was less than our carrying value of equity as of the date of each of our triggering events during the first quarter. As a result, we recorded non-cash, non-tax-deductible goodwill impairment charges aggregating to $6.5 billion in the quarter ended March 31, 2019.
+
+At October 31, 2018, we estimated the fair value of our then five reporting units, which we determined to be consumer, medium and small business, enterprise, international and global accounts and wholesale and indirect, by considering both a market approach and a discounted cash flow method. We reconciled the estimated fair values of the reporting units to our market capitalization as of October 31, 2018 and concluded that the indicated control premium of approximately 0.1% was reasonable based on recent transactions in the marketplace. As of October 31, 2018, based on our assessment we concluded that the estimated fair value of our consumer reporting unit was less than our carrying value of equity for such unit by approximately $2.7 billion. As a result, we recorded a non-cash, non-tax deductible goodwill impairment charge of $2.7 billion for goodwill assigned to our consumer segment during the fourth quarter of 2018.
+
+We believe the estimates, judgments, assumptions and allocation methods used by us are reasonable, but changes in any of them can significantly affect whether we must incur impairment charges, as well as the size of such charges.
+
+For additional information on our goodwill balances by segment, see Note 4—Goodwill, Customer Relationships and Other Intangible Assets to our consolidated financial statements in Item 8 of Part II of this report.
+
+Property, Plant and Equipment
+
+Property, plant and equipment acquired in connection with our acquisitions was recorded based on its estimated fair value as of its acquisition date, plus the estimated value of any associated legally or contractually required asset retirement obligation. Purchased and constructed property, plant and equipment is recorded at cost, plus the estimated value of any associated legally or contractually required asset retirement obligation. Renewals and betterments of plant and equipment are capitalized while repairs, as well as renewals of minor items, are charged to operating expense. Depreciation of property, plant and equipment is provided on the straight-line method specific unit or group method using class or overall group rates and specific asset life. The group method provides for the recognition of the remaining net investment, less anticipated net salvage value, over the remaining useful life of the assets. This method requires the periodic revision of depreciation rates.
+
+Normal retirements of property, plant and equipment are charged against accumulated depreciation under the group method, with no gain or loss recognized. We depreciate such property on the straight-line method over estimated service lives ranging from 3 to 45 years.
+
+68
+
+We perform annual internal reviews to evaluate the reasonableness of the depreciable lives for our property, plant and equipment. Our reviews utilize models that take into account actual usage, physical wear and tear, replacement history, assumptions about technology evolution and, in certain instances, actuarially determined probabilities to estimate the remaining life of our asset base.
+
+Due to rapid changes in technology and the competitive environment, determining the estimated economic life of telecommunications plant and equipment requires a significant amount of judgment. We regularly review data on utilization of equipment, asset retirements and salvage values to determine adjustments to our depreciation rates. The effect of a hypothetical one year increase or decrease in the estimated remaining useful lives of our property, plant and equipment would have decreased depreciation expense by approximately $360 million annually or increased depreciation expense by approximately $470 million annually, respectively.
+
+Pension and Post-retirement Benefits
+
+We sponsor a noncontributory qualified defined benefit pension plan (referred to as our qualified pension plan) for a substantial portion of our employees in the United States. In addition to this tax-qualified pension plan, we also maintain several non-qualified pension plans for certain eligible highly compensated employees. We also maintain post-retirement benefit plans that provide health care and life insurance benefits for certain eligible retirees. On November 1, 2017, we assumed Level 3's pension and post-retirement plans, and certain obligations associated with these plans. Due to the insignificant impact of these plans on our consolidated financial statements, we have excluded them from the following pension and post-retirement benefits disclosures for 2019, 2018 and 2017.
+
+In 2019, approximately 60% of the qualified pension plan's January 1, 2019 net actuarial loss balance of $3.0 billion was subject to amortization as a component of net periodic expense over the average remaining service period of 9 years for participating employees expected to receive benefits for the plan. The other 40% of the qualified pension plan's beginning net actuarial loss balance was treated as indefinitely deferred during 2019. The entire beginning net actuarial loss of $26 million for the post-retirement benefit plans was treated as indefinitely deferred during 2019.
+
+In 2018, approximately 55% of the qualified pension plan's January 1, 2018 net actuarial loss balance of $2.9 billion was subject to amortization as a component of net periodic expense over the average remaining service period of participating employees expected to receive benefits, which ranges from 8 to 9 years for the plan. The other 45% of the qualified pension plan's beginning net actuarial loss balance was treated as indefinitely deferred during 2018. The entire beginning net actuarial loss of $248 million for the post-retirement benefit plans was treated as indefinitely deferred during 2018.
+
+In 2017, approximately 58% of the qualified pension plan's January 1, 2017 net actuarial loss balance of $3.1 billion was subject to amortization as a component of net periodic expense over the average remaining service period of participating employees expected to receive benefits, which ranges from 9 to 10 years for the plan. The other 42% of the qualified pension plan's beginning net actuarial loss balance was treated as indefinitely deferred during 2017. The entire beginning net actuarial loss of $137 million for the post-retirement benefit plans was treated as indefinitely deferred during 2017.
+
+In computing our pension and post-retirement health care and life insurance benefit obligations, our most significant assumptions are the discount rate and mortality rates. In computing our periodic pension and post-retirement benefit expense, our most significant assumptions are the discount rate and the expected rate of return on plan assets.
+
+The discount rate for each plan is the rate at which we believe we could effectively settle the plan's benefit obligations as of the end of the year. We selected each plan's discount rate based on a cash flow matching analysis using hypothetical yield curves from U.S. corporate bonds rated high quality and projections of the future benefit payments that constitute the projected benefit obligation for the plans. This process establishes the uniform discount rate that produces the same present value of the estimated future benefit payments as is generated by discounting each year's benefit payments by a spot rate applicable to that year. The spot rates used in this process are derived from a yield curve created from yields on the 60th to 90th percentile of U.S. high quality bonds.
+
+69
+
+Mortality rates help predict the expected life of plan participants and are based on historical demographic studies by the Society of Actuaries ("SOA"). The SOA publishes new mortality rates (mortality tables and projection scales) on a regular basis which reflect updates to projected life expectancies in North America. Historically, we have adopted the new projection tables immediately after publication. In 2019, we adopted the revised mortality tables and projection scale released by the SOA, which decreased the projected benefit obligation of our benefit plans by approximately $4 million. The change in the projected benefit obligation of our benefit plans was recognized as part of the net actuarial loss and is included in accumulated other comprehensive loss, a portion of which is subject to amortization over the remaining estimated life of plan participants, which was approximately 16 years as of December 31, 2019.
+
+The expected rate of return on plan assets is the long-term rate of return we expect to earn on the plans' assets in the future, net of administrative expenses paid from plan assets. The rate of return is determined by the strategic allocation of plan assets and the long-term risk and return forecast for each asset class. The forecasts for each asset class are generated primarily from an analysis of the long-term expectations of various third-party investment management organizations to which we then add a factor of 50 basis points to reflect the benefit we expect to result from our active management of the assets. The expected rate of return on plan assets is reviewed annually and revised, as necessary, to reflect changes in the financial markets and our investment strategy.
+
+To compute the expected return on pension and post-retirement benefit plan assets, we apply an expected rate of return to the fair value of the pension plan assets and to the fair value of the post-retirement benefit plan assets adjusted for contribution timing and for projected benefit payments to be made from the plan assets. Annual market volatility for these assets (higher or lower than expected return) is reflected in the net actuarial losses.
+
+Changes in any of the above factors could significantly impact operating expenses in the consolidated statements of operations and other comprehensive income (loss) in the consolidated statements of comprehensive income as well as the value of the liability and accumulated other comprehensive loss of stockholders' equity on our consolidated balance sheets.
+
+Loss Contingencies and Litigation Reserves
+
+We are involved in several material legal proceedings, as described in more detail in Note 19—Commitments, Contingencies and Other Items to our consolidated financial statements in Item 8 of Part II of this report. On a quarterly basis, we assess potential losses in relation to these and other pending or threatened tax and legal matters. For matters not related to income taxes, if a loss is considered probable and the amount can be reasonably estimated, we recognize an expense for the estimated loss. To the extent these estimates are more or less than the actual liability resulting from the resolution of these matters, our earnings will be increased or decreased accordingly. If the differences are material, our consolidated financial statements could be materially impacted.
+
+For matters related to income taxes, if we determine in our judgment that the impact of an uncertain tax position is more likely than not to be sustained upon audit by the relevant taxing authority, then we recognize in our financial statements a benefit for the largest amount that is more likely than not to be sustained. No portion of an uncertain tax position will be recognized if we determine in our judgment that the position has less than a 50% likelihood of being sustained. Though the validity of any tax position is a matter of tax law, the body of statutory, regulatory and interpretive guidance on the application of the law is complex and often ambiguous, particularly in certain of the non-U.S. jurisdictions in which we operate. Because of this, whether a tax position will ultimately be sustained may be uncertain.
+
+Income Taxes
+
+Our provision for income taxes includes amounts for tax consequences deferred to future periods. We record deferred income tax assets and liabilities reflecting future tax consequences attributable to (i) tax credit carryforwards, (ii) differences between the financial statement carrying value of assets and liabilities and the tax basis of those assets and liabilities and (iii) tax net operating loss carryforwards, or NOLs. Deferred taxes are computed using enacted tax rates expected to apply in the year in which the differences are expected to affect taxable income. The effect on deferred income tax assets and liabilities of a change in tax rate is recognized in earnings in the period that includes the enactment date.
+
+70
+
+The measurement of deferred taxes often involves the exercise of considerable judgment related to the realization of tax basis. Our deferred tax assets and liabilities reflect our assessment that tax positions taken in filed tax returns and the resulting tax basis are more likely than not to be sustained if they are audited by taxing authorities. Assessing tax rates that we expect to apply and determining the years when the temporary differences are expected to affect taxable income requires judgment about the future apportionment of our income among the states in which we operate. Any changes in our practices or judgments involved in the measurement of deferred tax assets and liabilities could materially impact our financial condition or results of operations.
+
+In connection with recording deferred income tax assets and liabilities, we establish valuation allowances when necessary to reduce deferred income tax assets to amounts that we believe are more likely than not to be realized. We evaluate our deferred tax assets quarterly to determine whether adjustments to our valuation allowance are appropriate in light of changes in facts or circumstances, such as changes in tax law, interactions with taxing authorities and developments in case law. In making this evaluation, we rely on our recent history of pre-tax earnings. We also rely on our forecasts of future earnings and the nature and timing of future deductions and benefits represented by the deferred tax assets, all which involve the exercise of significant judgment. At December 31, 2019, we established a valuation allowance of $1.3 billion primarily related to foreign and state NOLs, based on our determination that it was more likely than not that these NOLs would expire unused. If forecasts of future earnings and the nature and estimated timing of future deductions and benefits change in the future, we may determine that existing valuation allowances must be updated or new valuation allowances created, any of which could materially impact our financial condition or results of operations. See Note 16—Income Taxes to our consolidated financial statements in Item 8 of Part II of this report for additional information.
+
+Liquidity and Capital Resources
+
+Overview of Sources and Uses of Cash
+
+We are a holding company that is dependent on the capital resources of our subsidiaries to satisfy our parent company liquidity requirements. Several of our significant operating subsidiaries have borrowed funds either on a standalone basis or as part of a separate restricted group with certain of its subsidiaries or affiliates. The terms of the instruments governing the indebtedness of these borrowers or borrowing groups may restrict our ability to access their accumulated cash. In addition, our ability to access the liquidity of these and other subsidiaries may be limited by tax and legal considerations and other factors.
+
+At December 31, 2019, we held cash and cash equivalents of $1.7 billion, a significant portion of which was held to redeem debt securities in mid-January 2020. At December 31, 2019, we also had approximately $1.9 billion of borrowing capacity available under our revolving credit facility. We had approximately $108 million of cash and cash equivalents outside the United States at December 31, 2019. We currently believe that there are no material restrictions on our ability to repatriate cash and cash equivalents into the United States, and that we may do so without paying or accruing U.S. taxes. We do not currently intend to repatriate to the United States any of our foreign cash and cash equivalents from operating entities outside of Latin America.
+
+Our executive officers and our Board of Directors periodically review our sources and potential uses of cash in connection with our annual budgeting process. Generally speaking, our principal funding source is cash from operating activities, and our principal cash requirements include operating expenses, capital expenditures, income taxes, debt repayments, dividends, periodic stock repurchases, periodic pension contributions and other benefits payments.
+
+Based on our current capital allocation objectives, during 2020 we project expending approximately $3.6 billion to $3.9 billion (excluding integration and transformation capital) of cash for capital investment in property, plant and equipment and approximately $1.1 billion of cash for dividends on our common stock (based on the assumptions described below under "Dividends"). At December 31, 2019, we had debt maturities of $1.0 billion, scheduled debt principal payments of $1.3 billion and finance lease and other fixed payments of $36 million, each due during 2020. Each of the expenditures is described further below.
+
+We will continue to monitor our future sources and uses of cash and anticipate that we will make adjustments to our capital allocation strategies when, as and if determined by our Board of Directors. We typically use our revolving credit facility as a source of liquidity for operating activities and our other cash requirements.
+
+For additional information, see "Risk Factors—Risks Affecting Our Liquidity and Capital Resources".
+
+71
+
+Capital Expenditures
+
+We incur capital expenditures on an ongoing basis to expand and improve our service offerings, enhance and modernize our networks and compete effectively in our markets. We evaluate capital expenditure projects based on a variety of factors, including expected strategic impacts (such as forecasted impact on revenue growth, productivity, expenses, service levels and customer retention) and our expected return on investment. The amount of capital investment is influenced by, among other things, demand for our services and products, cash flow generated by operating activities, cash required for other purposes and regulatory considerations (such as our CAF Phase II infrastructure buildout requirements).
+
+Our capital expenditures continue to be focused on enhancing network operating efficiencies and supporting new service developments. For more information on our capital spending, see "Historical Information—Investing Activities" below and Item 1 of Part 1 of this report.
+
+Debt and Other Financing Arrangements
+
+Subject to market conditions, we expect to continue to issue debt securities from time to time in the future to refinance a substantial portion of our maturing debt, including issuing debt securities of certain of our subsidiaries to refinance their maturing debt to the extent feasible. The availability, interest rate and other terms of any new borrowings will depend on the ratings assigned by credit rating agencies, among other factors.
+
+As of the date of this report, the credit ratings for the senior secured and unsecured debt of CenturyLink, Inc., Qwest Corporation and Level 3 Financing, Inc. were as follows:
+
+----------------------- ------------------------------- ----------------- -------------
+
+Borrower Moody's Investors Service, Inc. Standard & Poor's Fitch Ratings
+CenturyLink, Inc.:
+Unsecured B2 B+ BB
+Secured Ba3 BBB- BB+
+
+Qwest Corporation:
+Unsecured Ba2 BBB- BB+
+
+Level 3 Financing, Inc.
+Unsecured Ba3 BB BB
+Secured Ba1 BBB- BBB-
+
+Our credit ratings are reviewed and adjusted from time to time by the rating agencies. Any future downgrades of the senior unsecured or secured debt ratings of us or our subsidiaries could impact our access to debt capital or further raise our borrowing costs. See "Risk Factors—Risks Affecting our Liquidity and Capital Resources" in Item 1A of Part I of this report.
+
+72
+
+Net Operating Loss Carryforwards
+
+As of December 31, 2019, CenturyLink had approximately $6.2 billion of net operating loss carryforwards. ("NOLs"), which for U.S. federal income tax purposes can be used to offset future taxable income. These NOLs are primarily related to federal NOLs we acquired through the Level 3 acquisition on November 1, 2017 and are subject to limitations under Section 382 of the Internal Revenue Code ("Code") and related U.S. Treasury Department regulations. In the first half of 2019, we entered into and subsequently restated a Section 382 rights agreement designed to safeguard our ability to use those NOLs. Assuming that we can continue using these NOLs in the amounts projected, we expect to significantly reduce our federal cash taxes for the next several years. The amounts of our near-term future tax payments will depend upon many factors, including our future earnings and tax circumstances and results of any corporate tax reform. Based on current laws and our current estimates of 2020 earnings, we estimate our cash income tax liability related to 2020 will be approximately $100 million.
+
+We cannot assure you that we will be able to use these NOL carryforwards fully. See "Risk Factors—Risks Affecting Our Liquidity and Capital Resources—We cannot assure you, whether, when or in what amounts we will be able to use our net operating loss carryforwards, or when they will be depleted" in Item 1A of Part I of this report.
+
+Dividends
+
+We currently expect to continue our current practice of paying quarterly cash dividends in respect of our common stock subject to our Board of Directors' discretion to modify or terminate this practice at any time and for any reason without prior notice. Following a reduction announced on February 13, 2019, our current quarterly common stock dividend rate is $0.25 per share, as approved by our Board of Directors, which we believe is a dividend rate per share which enables us to balance our multiple objectives of managing our business, investing in the business, de-leveraging our balance sheet and returning a substantial portion of our cash to our shareholders. Assuming continued payment during 2020 at this rate of $0.25 per share, our average total dividend paid each quarter would be approximately $275 million based on our current number of outstanding shares (assuming no increases or decreases in the number of shares, except in connection with the vesting of currently outstanding equity awards). See Risk Factors—Risks Affecting Our Business" in Item 1A of Part I of this report.
+
+Revolving Facilities and Other Debt Instruments
+
+To substantially fund our acquisition of Level 3, on June 19, 2017, one of our affiliates entered into a credit agreement (the "2017 CenturyLink Credit Agreement") providing initially for $10.2 billion in senior secured credit facilities, consisting initially of a $2.0 billion revolving credit facility (which replaced our 2012 credit facility upon consummation of the Level 3 acquisition) and approximately $7.9 billion of term loan facilities. On November 1, 2017, CenturyLink, Inc., among other things, assumed all rights and obligations under the 2017 CenturyLink Credit Agreement. On January 29, 2018, the 2017 CenturyLink Credit Agreement was amended to increase the borrowing capacity of the new revolving credit facility from $2.0 billion to $2.2 billion, and to increase the borrowing capacity under one of the term loan tranches by $132 million. On January 31, 2020, the 2017 CenturyLink Credit Agreement was amended and restated to, among other things, extend the debt maturities of the facilities, to lower interest rates payable thereunder, and to amend the amounts owed under each of the facilities. For additional information, see (i) Note 7—Long-Term Debt and Credit Facilities to our consolidated financial statements in Item 8 of Part II of this report and (ii) our current reports on Form 8-K filed with the SEC on June 20, 2017, November 1, 2017 and January 31, 2020.
+
+In addition to its indebtedness under the 2017 CenturyLink Credit Agreement, CenturyLink is indebted under its outstanding senior notes, and several of its subsidiaries are indebted under separate credit facilities or senior notes. For information on the terms and conditions of these other debt instruments of ours and our subsidiaries, including financial and operating covenants, see Note 7—Long-Term Debt and Credit Facilities to our consolidated financial statements in Item 8 of Part II of this report.
+
+73
+
+Future Contractual Obligations
+
+The following table summarizes our estimated future contractual obligations as of December 31, 2019:
+
+------------------------------------------------ --------------------- ----- ---- ----- ----- ----- ----- ---- ----- ------------------- ----- ----- ------ ------ ------ ------
+
+ 2020 2021 2022 2023 2024 2025 and thereafter Total
+ (Dollars in millions)
+Long-term debt(1)(2) $ 2,300 2,478 4,224 2,096 1,973 21,968 35,039
+Interest on long-term debt and finance leases(2) 1,819 1,749 1,565 1,378 1,229 10,952 18,692
+Operating leases 460 361 308 265 194 686 2,274
+Right-of-way agreements 174 75 72 63 52 464 900
+Purchase commitments(3) 247 183 78 48 37 173 766
+Post-retirement benefit obligation(4) 73 70 66 62 58 430 759
+Non-qualified pension obligations(4) 5 4 4 4 4 16 37
+Asset retirement obligations 23 22 19 14 18 101 197
+Total future contractual obligations (5) $ 5,101 4,942 6,336 3,930 3,565 34,790 58,664
+_______________________________________________________________________________
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Includes current maturities and finance lease obligations, but excludes unamortized discounts and premiums, net, and unamortized debt issuance costs.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Actual principal and interest paid in all years may differ due to future refinancing of outstanding debt or issuance of new debt. Interest on our floating rate debt was calculated for all years using the rates effective at December 31, 2019. See Note 19—Commitments, Contingencies and Other Items to our consolidated financial statements in Item 8 of Part II of this report for additional information regarding the future commitments for finance leases related to our dark fiber operations.
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) We have various long-term, non-cancelable purchase commitments for advertising and promotion services, including advertising and marketing at sports arenas and other venues and events. We also have purchase commitments with third-party vendors for operating, installation and maintenance services for facilities. In addition, we have service-related commitments with various vendors for data processing, technical and software support services. Future payments under certain service contracts will vary depending on our actual usage. In the table above, we estimated payments for these service contracts based on estimates of the level of services we expect to receive.
+
+--- ----------------------------------------------------------------------------------------------
+(4) Reflects only the portion of total obligation that is contractual in nature. See Note 5 below.
+
+--- ------------------------------------------------------------------------------------
+(5) The table is limited solely to contractual payment obligations and does not include:
+
+- -----------------------
+• contingent liabilities;
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------
+• our open purchase orders as of December 31, 2019. These purchase orders are generally issued at fair value, and are generally cancelable without penalty;
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• other long-term liabilities, such as accruals for legal matters and other taxes that are not contractual obligations by nature. We cannot determine with any degree of reliability the years in which these liabilities might ultimately settle;
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• cash funding requirements for qualified pension benefits payable to certain eligible current and future retirees. Benefits paid by our qualified pension plan are paid through a trust. Cash funding requirements for this trust are not included in this table as we are not able to reliably estimate required contributions to this trust. Our funding projections are discussed further below;
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• certain post-retirement benefits payable to certain eligible current and future retirees. Not all of our post-retirement benefit obligation amount is a contractual obligation and only the portion that we believe is a contractual obligation is reported in the table. See additional information on our benefits plans in Note 11—Employee Benefits to our consolidated financial statements in Item 8 of Part II of this report;
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• contract termination fees. These fees are non-recurring payments, the timing and payment of which, if any, is uncertain. In the ordinary course of business and to optimize our cost structure, we enter into contracts with terms greater than one year to use the network facilities of other carriers and to purchase other goods and services. Our contracts to use other carriers' network facilities generally have no minimum volume requirements and pricing is based upon volumes and usage. In the normal course of business, we do not believe payment of these fees is likely;
+
+- --------------------------------------------------------------------------------------------------------------------------------------
+• service level commitments to our customers, the violation of which typically results in service credits rather than cash payments; and
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• potential indemnification obligations to counterparties in certain agreements entered into in the normal course of business. The nature and terms of these arrangements vary.
+
+For additional information on our obligations, see the notes to our consolidated financial statements in Item 8 of Part II of this report.
+
+74
+
+Pension and Post-retirement Benefit Obligations
+
+We are subject to material obligations under our existing defined benefit pension plans and post-retirement benefit plans. At December 31, 2019, the accounting unfunded status of our qualified and non-qualified defined benefit pension plans and our qualified post-retirement benefit plans was $1.8 billion and $3.0 billion, respectively. See Note 11—Employee Benefits to our consolidated financial statements in Item 8 of Part II of this report for additional information about our pension and post-retirement benefit arrangements.
+
+Benefits paid by our qualified pension plan are paid through a trust that holds all of the plan's assets. Based on current laws and circumstances, we do not expect any contributions to be required for our qualified pension plan during 2020. The amount of required contributions to our qualified pension plan in 2021 and beyond will depend on a variety of factors, most of which are beyond our control, including earnings on plan investments, prevailing interest rates, demographic experience, changes in plan benefits and changes in funding laws and regulations. We occasionally make voluntary contributions in addition to required contributions. We last made a voluntary contribution to the trust for our qualified pension plan during 2018. Based on current circumstances, we do not anticipate making a voluntary contribution to the trust for our qualified pension plan in 2020.
+
+Substantially all of our post-retirement health care and life insurance benefits plans are unfunded. Several trusts hold assets that have been used to help cover the health care costs of certain retirees. As of December 31, 2019, assets in the post-retirement trusts had been substantially depleted and had a fair value of only $13 million (a portion of which was comprised of investments with restricted liquidity), which has significantly limited our ability to continue paying benefits from the trusts. Benefits not paid from the trusts are expected to be paid directly by us with available cash. As described further in Note 11—Employee Benefits to our consolidated financial statements in Item 8 of Part II of this report, aggregate benefits paid by us under these plans (net of participant contributions and direct subsidy receipts) were $241 million, $249 million and $237 million for the years ended December 31, 2019, 2018 and 2017, respectively, while the amounts paid from the trust were $4 million, $4 million and $31 million, respectively. For additional information on our expected future benefits payments for our post-retirement benefit plans, please see Note 11—Employee Benefits to our consolidated financial statements in Item 8 of Part II in this report.
+
+For 2019, our expected annual long-term rates of return were 6.5% and 4% for the pension plan trust assets and post-retirement plans' trust assets based on the assets held and net of expected fees and administrative costs. For 2020, our expected annual long-term rates of return on these assets are 6% and 4%, respectively. However, actual returns could be substantially different.
+
+Connect America Fund
+
+As a result of accepting CAF Phase II support payments, we are receiving substantial support payments under a program that will soon lapse. Moreover, we must meet certain specified infrastructure buildout requirements in 33 states. In order to meet these specified infrastructure buildout requirements, we may be obligated to make substantial capital expenditures. See "Capital Expenditures" above.
+
+For additional information on the FCC's CAF program and a proposed replacement program, see "Business—Regulation" in Item 1 of Part I of this report and see "Risk Factors—Risks Affecting Our Liquidity and Capital Resources" in Item 1A of Part I of this report.
+
+75
+
+Historical Information
+
+The following tables summarize our consolidated cash flow activities:
+
+----------------------------------------- ------------------------ ----- -------------------- ------ ----- ------ ---- -
+
+ Years Ended December 31, Increase /(Decrease)
+ 2019 2018
+ (Dollars in millions)
+Net cash provided by operating activities $ 6,680 7,032 (352 )
+Net cash used in investing activities (3,570 ) (3,078 ) 492
+Net cash used in financing activities (1,911 ) (4,023 ) (2,112 )
+
+--------------------------------------------------- ------------------------ ----- -------------------- ------ ----- ------ -----
+
+ Years Ended December 31, Increase /(Decrease)
+ 2018 2017
+ (Dollars in millions)
+Net cash provided by operating activities $ 7,032 3,878 3,154
+Net cash used in investing activities (3,078 ) (8,871 ) (5,793 )
+Net cash (used in) provided by financing activities (4,023 ) 5,356 9,379
+
+Operating Activities
+
+Net cash provided by operating activities decreased by $352 million for the year ended December 31, 2019 as compared to the year ended December 31, 2018 primarily due to an increase in net loss after adjusting for non-cash items, a decrease in accounts payable and other noncurrent liabilities and an increase to prepaid assets partially offset by a decrease in retirement benefit contributions. Net cash provided by operating activities increased by $3.2 billion for the year ended December 31, 2018 as compared to the year ended December 31, 2017 primarily due to $2.4 billion in cash generated by Level 3 in addition to a positive variance in net (loss) income after adjusting for non-cash items for impairment of goodwill and other assets and depreciation, deferred income taxes and tax refunds of $674 million received in 2018, partially offset with a pension funding contribution of $500 million. Cash provided by operating activities is subject to variability period over period as a result of the timing of the collection of receivables and payments related to interest expense, accounts payable, payroll and bonuses. For additional information about our operating results, see "Results of Operations" above.
+
+Investing Activities
+
+Net cash used in investing activities increased by $492 million for the year ended December 31, 2019 as compared to the year ended December 31, 2018 primarily due to increased capital expenditures on property, plant and equipment partially offset by decreased proceeds from the sale of property, plant and equipment and other assets. Net cash used in investing activities decreased by $5.8 billion for the year ended December 31, 2018 as compared to the year ended December 31, 2017. The change in investing activities is primarily due to cash paid for the acquisition of Level 3 on November 1, 2017, which was partially offset with the cash proceeds from the May 2017 sale of a portion of our data centers and colocation business.
+
+Financing Activities
+
+Net cash used in financing activities decreased by $2.1 billion for the year ended December 31, 2019 as compared to the year ended December 31, 2018 primarily due to net proceeds from the issuance of long-term debt and the decrease in dividends paid partially offset by higher levels of payments on our long-term debt and revolving line of credit. Net cash used in financing activities increased by $9.4 billion for the year ended December 31, 2018 as compared to the year ended December 31, 2017 primarily due cash received from net proceeds from issuance of new debt in 2017 relating to the acquisition of Level 3.
+
+See Note 7—Long-Term Debt and Credit Facilities to our consolidated financial statements in Item 8 of Part II of this report, for information regarding indebtedness incurred or repaid by CenturyLink or its affiliates on our outstanding debt securities.
+
+76
+
+Other Matters
+
+We have cash management arrangements with certain of our principal subsidiaries, in which substantial portions of the subsidiaries' cash is regularly advanced to us. Although we periodically repay these advances to fund the subsidiaries' cash requirements throughout the year, at any given point in time we may owe a substantial sum to our subsidiaries under these advances, which, in accordance with generally accepted accounting principles, are eliminated in consolidation and therefore not recognized on our consolidated balance sheets.
+
+We also are involved in various legal proceedings that could substantially impact our financial position. See Note 19—Commitments, Contingencies and Other Items to our consolidated financial statements in Item 8 of Part II of this report for the current status of such legal proceedings.
+
+Market Risk
+
+As of December 31, 2019, we are exposed to market risk from changes in interest rates on our variable rate long-term debt obligations and fluctuations in certain foreign currencies. We seek to maintain a favorable mix of fixed and variable rate debt in an effort to limit interest costs and cash flow volatility resulting from changes in rates.
+
+Management periodically reviews our exposure to interest rate fluctuations and periodically implements strategies to manage the exposure. From time to time, we have used derivative instruments to (i) lock-in or swap our exposure to changing variable interest rates for fixed interest rates or (ii) to swap obligations to pay fixed interest rates for variable interest rates. We have established policies and procedures for risk assessment and the approval, reporting and monitoring of derivative instrument activities. As of December 31, 2019, we did not hold or issue derivative financial instruments for trading or speculative purposes.
+
+In February 2019, we executed swap transactions that reduced our exposure to floating rates with respect to $2.5 billion principal amount of floating rate debt. In June 2019, we executed swap transactions that reduced our exposure to floating rates with respect to $1.5 billion principal amount of floating rate debt. See Note 15—Derivative Financial Instruments to our consolidated financial statements in Item 1 of Part I of this report for additional disclosure regarding our hedging arrangements.
+
+As of December 31, 2019, we had approximately $11.2 billion floating rate debt potentially subject to the London Inter-Bank Offered Rate (LIBOR), $4.0 billion of which was subject to the above-described hedging arrangements. A hypothetical increase of 100 basis points in LIBOR relating to our $7.2 billion of unhedged floating rate debt would, among other things, decrease our annual pre-tax earnings by approximately $72 million.
+
+We conduct a portion of our business in currencies other than the U.S. dollar, the currency in which our consolidated financial statements are reported. Accordingly, our operating results could be adversely affected by foreign currency exchange rate volatility relative to the U.S. dollar. Our European subsidiaries and certain Latin American subsidiaries use the local currency as their functional currency, as the majority of their revenue and purchases are transacted in their local currencies. Certain Latin American countries previously designated as highly inflationary economies use the U.S. dollar as their functional currency. Although we continue to evaluate strategies to mitigate risks related to the effect of fluctuations in currency exchange rates, we will likely recognize gains or losses from international transactions. Changes in foreign currency rates could adversely affect our operating results.
+
+Certain shortcomings are inherent in the method of analysis presented in the computation of exposures to market risks. Actual values may differ materially from those disclosed by us from time to time if market conditions vary from the assumptions used in the analyses performed. These analyses only incorporate the risk exposures that existed at December 31, 2019.
+
+77
+
+Off-Balance Sheet Arrangements
+
+As of the date of this report, we have no special purpose or limited purpose entities that provide off-balance sheet financing, liquidity, or market or credit risk support and we do not engage in leasing, hedging or other similar activities that expose us to any significant liabilities that are not (i) reflected on the face of the consolidated financial statements, (ii) disclosed in Note 19—Commitments, Contingencies and Other Items to our consolidated financial statements in Item 8 of Part II of this report, or in the Future Contractual Obligations table included in this Item 7 of Part II above, or (iii) discussed under the heading "Market Risk" above.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 3]:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, a privately held 3D editing and authoring software company for gaming and entertainment, and integrated it into our Digital Media reportable segment. Prior to the acquisition, we held an equity interest that was accounted for as an equity-method investment. We acquired the remaining equity interest for approximately $106.2 million in cash consideration. The total purchase price, inclusive of the acquisition-date fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 million, which represents the difference between the $54.8 million acquisition-date fair value of our pre-existing equity interest and our previous carrying amount. Under the acquisition method of accounting, the total final purchase price was allocated to Allegorithmic's net tangible and intangible assets based upon their estimated fair values as of the acquisition date. The excess purchase price over the value of the net tangible and identifiable intangible assets was recorded as goodwill. Of the total purchase price, $125.9 million was allocated to goodwill that was non-deductible for tax purposes, $44.8 million to identifiable intangible assets and the remainder to net liabilities assumed. Pro forma financial information has not been presented for the Allegorithmic acquisition as the impact to our Consolidated Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash consideration. Adding Marketo's engagement platform to Adobe Experience Cloud furthers our long-term plan for strategic growth in the Digital Experience segment and enables us to offer a comprehensive set of solutions to enable customers across industries...
+
+[See Note 17]:
+Note 17 - Postretirement Plans 92
+
+[See Note 4]:
+(4) Adjusted income tax rate is calculated as adjusted income tax expense as a percentage of income from consolidated operations before income taxes, excluding transaction and integration expenses and special charges, or $840.0 million, $780.1 million, and $694.1 million for the years ended November 30, 2019, 2018, and 2017, respectively. 32 ------------------------------------- -------------- ---------------------------------------------- Estimate for the year ending November 30, 2020 Earnings per share - diluted $5.15 to $5.25 Impact of special charges 0.05 Adjusted earnings per share - diluted $5.20 to $5.30 Because we are a multi-national company, we are subject to variability of our reported U.S. dollar results due to changes in foreign currency exchange rates. Those changes have been volatile over the past several years. The exclusion of the effects of foreign currency exchange, or what we refer to as amounts expressed "on a constant currency basis," is a non-GAAP measure. We believe that this non-GAAP measure provides additional information that enables enhanced comparison to prior periods excluding the translation effects of changes in rates of foreign currency exchange and provides additional insight into the underlying performance of our operations located outside of the U.S. It should be noted that our presentation herein of amounts and percentage changes on a constant currency basis does not exclude the impact of foreign currency transaction gains and losses (that is, the impact of transactions denominated in other than the local currency of any of our subsidiaries in their local currency reported results). Percentage changes in sales and adjusted operating income expressed on a constant currency basis are presented excluding the impact of foreign currency exchange. To present this information for historical periods, current year results for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at the average exchan...
+
+[See Note 16]:
+NOTE 16. COMMITMENTS AND CONTINGENCIES Lease Commitments We lease certain of our facilities and some of our equipment under non-cancellable operating lease arrangements that expire at various dates through 2031. We also have one land lease that expires in 2091. Rent expense includes base contractual rent and variable costs such as building expenses, utilities, taxes, insurance and equipment rental. Rent expense for these leases was approximately $170.5 million, $137.2 million and $115.4 million in fiscal 2019, 2018 and 2017, respectively. Our sublease income was immaterial for all periods presented. Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. The following table summarizes our non-cancellable unconditional purchase obligations and operating leases for each of the next five years and thereafter as of November 29, 2019: -------------- -------------------- --------- -------------------------- ------- --------------------------- ------- ----- - ------ (in thousands) Operating Leases Fiscal Year Purchase Obligations FutureMinimumLeasePayments FutureMinimumSubleaseIncome 2020 $ 545,042 $ 98,200 $ 9,523 2021 407,528 91,866 9,000 2022 528,266 81,493 6,362 2023 555,658 68,539 2,327 2024 -- 60,691 -- Thereafter -- 337,903 -- Total $ 2,036,494 $ 738,692 $ 27,212 98  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Royalties We have royalty commitments associated with the licensing of certain offerings and products. Royalty expense is generally based on a dollar amount per unit or a percentage of the underlying revenue. Royalty expense, which was recorded under our cost of revenue on our Consolidated Statements of Income, was approximately $153.7 million, $119.1 million and $100.9 million in fiscal 2019, 2018 and 2017, respectively. Indemnifications In the ordinary course of business, we provide indemnifications of varying scope to customers and cha...
+
+[See Note 3]:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, a privately held 3D editing and authoring software company for gaming and entertainment, and integrated it into our Digital Media reportable segment. Prior to the acquisition, we held an equity interest that was accounted for as an equity-method investment. We acquired the remaining equity interest for approximately $106.2 million in cash consideration. The total purchase price, inclusive of the acquisition-date fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 million, which represents the difference between the $54.8 million acquisition-date fair value of our pre-existing equity interest and our previous carrying amount. Under the acquisition method of accounting, the total final purchase price was allocated to Allegorithmic's net tangible and intangible assets based upon their estimated fair values as of the acquisition date. The excess purchase price over the value of the net tangible and identifiable intangible assets was recorded as goodwill. Of the total purchase price, $125.9 million was allocated to goodwill that was non-deductible for tax purposes, $44.8 million to identifiable intangible assets and the remainder to net liabilities assumed. Pro forma financial information has not been presented for the Allegorithmic acquisition as the impact to our Consolidated Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash consideration. Adding Marketo's engagement platform to Adobe Experience Cloud furthers our long-term plan for strategic growth in the Digital Experience segment and enables us to offer a comprehensive set of solutions to enable customers across industries...
+
+[see Note 17]:
+Note 17 - Postretirement Plans 92
+
+[see Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. Our business is organized into three reportable segments: Digital Media, Digital Experience and Publishing. These segments provide our senior management with a comprehensive financial view of our key businesses. Our segments are aligned around our 70  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) two strategic growth opportunities as described in the "Business Overview" within Part I, Item 1, placing our Publishing business in a third segment that contains some of our mature products and solutions. In fiscal 2019, we categorized our products into the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ * Digital Media--Our Digital Media segment provides tools and solutions that enable individuals, teams and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include content creators, experien...
+
+[see Note 17]:
+Note 17 - Postretirement Plans 92
+
+[see Note 4]:
+(4) Adjusted income tax rate is calculated as adjusted income tax expense as a percentage of income from consolidated operations before income taxes, excluding transaction and integration expenses and special charges, or $840.0 million, $780.1 million, and $694.1 million for the years ended November 30, 2019, 2018, and 2017, respectively. 32 ------------------------------------- -------------- ---------------------------------------------- Estimate for the year ending November 30, 2020 Earnings per share - diluted $5.15 to $5.25 Impact of special charges 0.05 Adjusted earnings per share - diluted $5.20 to $5.30 Because we are a multi-national company, we are subject to variability of our reported U.S. dollar results due to changes in foreign currency exchange rates. Those changes have been volatile over the past several years. The exclusion of the effects of foreign currency exchange, or what we refer to as amounts expressed "on a constant currency basis," is a non-GAAP measure. We believe that this non-GAAP measure provides additional information that enables enhanced comparison to prior periods excluding the translation effects of changes in rates of foreign currency exchange and provides additional insight into the underlying performance of our operations located outside of the U.S. It should be noted that our presentation herein of amounts and percentage changes on a constant currency basis does not exclude the impact of foreign currency transaction gains and losses (that is, the impact of transactions denominated in other than the local currency of any of our subsidiaries in their local currency reported results). Percentage changes in sales and adjusted operating income expressed on a constant currency basis are presented excluding the impact of foreign currency exchange. To present this information for historical periods, current year results for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at the average exchan...
+
+[See Note 16]:
+NOTE 16. COMMITMENTS AND CONTINGENCIES Lease Commitments We lease certain of our facilities and some of our equipment under non-cancellable operating lease arrangements that expire at various dates through 2031. We also have one land lease that expires in 2091. Rent expense includes base contractual rent and variable costs such as building expenses, utilities, taxes, insurance and equipment rental. Rent expense for these leases was approximately $170.5 million, $137.2 million and $115.4 million in fiscal 2019, 2018 and 2017, respectively. Our sublease income was immaterial for all periods presented. Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. The following table summarizes our non-cancellable unconditional purchase obligations and operating leases for each of the next five years and thereafter as of November 29, 2019: -------------- -------------------- --------- -------------------------- ------- --------------------------- ------- ----- - ------ (in thousands) Operating Leases Fiscal Year Purchase Obligations FutureMinimumLeasePayments FutureMinimumSubleaseIncome 2020 $ 545,042 $ 98,200 $ 9,523 2021 407,528 91,866 9,000 2022 528,266 81,493 6,362 2023 555,658 68,539 2,327 2024 -- 60,691 -- Thereafter -- 337,903 -- Total $ 2,036,494 $ 738,692 $ 27,212 98  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) Royalties We have royalty commitments associated with the licensing of certain offerings and products. Royalty expense is generally based on a dollar amount per unit or a percentage of the underlying revenue. Royalty expense, which was recorded under our cost of revenue on our Consolidated Statements of Income, was approximately $153.7 million, $119.1 million and $100.9 million in fiscal 2019, 2018 and 2017, respectively. Indemnifications In the ordinary course of business, we provide indemnifications of varying scope to customers and cha...
+
+[see Note 7]:
+(7) Lennar Other Evaluation of segment performance is based primarily on operating earnings (loss) before income taxes. Operations of the Company's homebuilding segments primarily include the construction and sale of single-family attached and detached homes, as well as the purchase, development and sale of residential land directly and through the Company's unconsolidated entities. Operating earnings (loss) for the homebuilding segments consist of revenues generated from the sales of homes and land, equity in earnings (loss) from unconsolidated entities and other income (expense), net, less the cost of homes sold and land sold, selling, general and administrative expenses incurred by the segment and loss due to litigation. The Company's reportable homebuilding segments and all other homebuilding operations not required to be reported separately, have homebuilding divisions located in: East: Florida, New Jersey, North Carolina, Pennsylvania and South Carolina Central: Georgia, Illinois, Indiana, Maryland, Minnesota, Tennessee and Virginia Texas: Texas West: Arizona, California, Colorado, Nevada, Oregon, Utah and Washington Other: Urban divisions and other homebuilding related investments primarily in California, including Five Point Holdings, LLC ("FivePoint") Operations of the Financial Services segment include primarily mortgage financing, title and closing services primarily for buyers of the Company's homes. It also includes originating and selling into securitizations commercial mortgage loans through its RMF business. The Financial Services segment sells substantially all of the loans it originates within a short period of time in the secondary mortgage market, the majority of which are sold on a servicing released, non-recourse basis. After the loans are sold, the Company retains potential liability for possible claims by purchasers that it breached certain limited industry standard representations and warranties in the loan sale agreements. Financial Service...
+
+[See Note 19]:
+Note 19 -- Commitments and Contingencies 126
+
+[See Note 5]:
+(5) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. Strategy For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2020, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * The further optimization of our customer mix and fleet mix, with a dual objective: to enhance our performance in serving our current customer base, and to focus on the accounts and customer types that are best suited to our strategy for profitable growth. We believe these efforts will lead to even better service of our target accounts, primarily large construction and industrial customers, as well as select l...
+
+[See Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $4.54 billion of non-cancelable contractual commitments as of December 31, 2019, which is primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Legal Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking 94  unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class a...
+
+[see Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $4.54 billion of non-cancelable contractual commitments as of December 31, 2019, which is primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Legal Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking 94  unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class a...
+
+[See Note 7]:
+(7) Lennar Other Evaluation of segment performance is based primarily on operating earnings (loss) before income taxes. Operations of the Company's homebuilding segments primarily include the construction and sale of single-family attached and detached homes, as well as the purchase, development and sale of residential land directly and through the Company's unconsolidated entities. Operating earnings (loss) for the homebuilding segments consist of revenues generated from the sales of homes and land, equity in earnings (loss) from unconsolidated entities and other income (expense), net, less the cost of homes sold and land sold, selling, general and administrative expenses incurred by the segment and loss due to litigation. The Company's reportable homebuilding segments and all other homebuilding operations not required to be reported separately, have homebuilding divisions located in: East: Florida, New Jersey, North Carolina, Pennsylvania and South Carolina Central: Georgia, Illinois, Indiana, Maryland, Minnesota, Tennessee and Virginia Texas: Texas West: Arizona, California, Colorado, Nevada, Oregon, Utah and Washington Other: Urban divisions and other homebuilding related investments primarily in California, including Five Point Holdings, LLC ("FivePoint") Operations of the Financial Services segment include primarily mortgage financing, title and closing services primarily for buyers of the Company's homes. It also includes originating and selling into securitizations commercial mortgage loans through its RMF business. The Financial Services segment sells substantially all of the loans it originates within a short period of time in the secondary mortgage market, the majority of which are sold on a servicing released, non-recourse basis. After the loans are sold, the Company retains potential liability for possible claims by purchasers that it breached certain limited industry standard representations and warranties in the loan sale agreements. Financial Service...
+
+[See Note 19]:
+Note 19 -- Commitments and Contingencies 126
+
+[See Note 15]:
+Note 15 - Arrangements with Off-Balance Sheet Risk 89
+
+[Item 7 of Part II]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 13
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 1 of Part I]:
+Item 1. Business 3
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 22
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 22
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 22
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 22
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 1 of Part I]:
+Item 1. Business 3
+
+[Item 1A of Part I]:
+Item 1A. Risk Factors 22
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 1 of Part I]:
+Item 1. Business 3
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 7 of Part II]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 13
+
+[" in this Item 7 of Part II refer to the Notes to Consolidated Financial Statements included in Item 8 of Part II of this report. Certain statements in this report constitute forward-looking statements. See "]:
+(7) Lennar Other Evaluation of segment performance is based primarily on operating earnings (loss) before income taxes. Operations of the Company's homebuilding segments primarily include the construction and sale of single-family attached and detached homes, as well as the purchase, development and sale of residential land directly and through the Company's unconsolidated entities. Operating earnings (loss) for the homebuilding segments consist of revenues generated from the sales of homes and land, equity in earnings (loss) from unconsolidated entities and other income (expense), net, less the cost of homes sold and land sold, selling, general and administrative expenses incurred by the segment and loss due to litigation. The Company's reportable homebuilding segments and all other homebuilding operations not required to be reported separately, have homebuilding divisions located in: East: Florida, New Jersey, North Carolina, Pennsylvania and South Carolina Central: Georgia, Illinois, Indiana, Maryland, Minnesota, Tennessee and Virginia Texas: Texas West: Arizona, California, Colorado, Nevada, Oregon, Utah and Washington Other: Urban divisions and other homebuilding related investments primarily in California, including Five Point Holdings, LLC ("FivePoint") Operations of the Financial Services segment include primarily mortgage financing, title and closing services primarily for buyers of the Company's homes. It also includes originating and selling into securitizations commercial mortgage loans through its RMF business. The Financial Services segment sells substantially all of the loans it originates within a short period of time in the secondary mortgage market, the majority of which are sold on a servicing released, non-recourse basis. After the loans are sold, the Company retains potential liability for possible claims by purchasers that it breached certain limited industry standard representations and warranties in the loan sale agreements. Financial Service...
+
+[" in Item 1 of Part I of this report for factors relating to these statements and "]:
+Item 1. Business 3
+
+[" in Item 1A of Part I of this report for a discussion of certain risk factors applicable to our business, financial condition, results of operations, liquidity or prospects.
+
+Overview
+
+We are an international facilities-based communications company engaged primarily in providing a broad array of integrated services to our business and residential customers. We believe, we are among the largest providers of communications services to domestic and global enterprise customers and the second largest enterprise wireline telecommunications company in the United States. We provide services in over 60 countries, with most of our revenue being derived in the United States.
+We continue expanding the reach and capabilities of our network by investing at the edge of our world class fiber network consisting of approximately 450,000 route miles, connecting approximately 170,000 fiber-based on-net enterprise buildings, connecting to public and private data centers and subsea networks. We are also investing in new technologies, leveraging our extensive fiber network that provide customers with dynamic bandwidth and low-latency edge computing services to enable their digital transformation.
+Acquisition of Level 3
+
+On November 1, 2017, CenturyLink, Inc. ("]:
+Item 1A. Risk Factors 22
+
+[' network facilities generally have no minimum volume requirements and pricing is based upon volumes and usage. In the normal course of business, we do not believe payment of these fees is likely;
+
+- --------------------------------------------------------------------------------------------------------------------------------------
+• service level commitments to our customers, the violation of which typically results in service credits rather than cash payments; and
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• potential indemnification obligations to counterparties in certain agreements entered into in the normal course of business. The nature and terms of these arrangements vary.
+
+For additional information on our obligations, see the notes to our consolidated financial statements in Item 8 of Part II of this report.
+
+74
+
+Pension and Post-retirement Benefit Obligations
+
+We are subject to material obligations under our existing defined benefit pension plans and post-retirement benefit plans. At December 31, 2019, the accounting unfunded status of our qualified and non-qualified defined benefit pension plans and our qualified post-retirement benefit plans was $1.8 billion and $3.0 billion, respectively. See Note 11—Employee Benefits to our consolidated financial statements in Item 8 of Part II of this report for additional information about our pension and post-retirement benefit arrangements.
+
+Benefits paid by our qualified pension plan are paid through a trust that holds all of the plan']:
+(8) Registration Statement (Form S-8 No. 333-177561) pertaining to Netflix, Inc. 2011 Stock Plan; of our reports dated January 29, 2020, with respect to the consolidated financial statements of Netflix, Inc. and the effectiveness of internal control over financial reporting of Netflix, Inc. included in this Annual Report (Form 10-K) of Netflix, Inc. for the year ended December 31, 2019. -------------------- --------------------- /s/ Ernst & Young LLP San Jose, California January 29, 2020 EX-31.1 5 ex311q419.htm EXHIBIT 31.1 Exhibit EXHIBIT 31.1 CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Reed Hastings, certify that: -- ----------------------------------------------------------------- 1. I have reviewed this Annual Report on Form 10-K of Netflix, Inc.; -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; -- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; -- -------...
+
+['s equity.
+
+See Note 3—Sale of Data Centers and Colocation Business for additional information on the sale and Note 1— Background And Summary Of Significant Accounting Policies for discussion of the impact of implementing ASU 2016-02 to our consolidated financial statements in Item 8 of Part II of this report.
+
+Reporting Segments
+
+Our reporting segments are organized by customer focus:
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• International and Global Accounts Management ("]:
+NOTE 3. ACQUISITIONS Allegorithmic On January 23, 2019, we completed the acquisition of Allegorithmic, a privately held 3D editing and authoring software company for gaming and entertainment, and integrated it into our Digital Media reportable segment. Prior to the acquisition, we held an equity interest that was accounted for as an equity-method investment. We acquired the remaining equity interest for approximately $106.2 million in cash consideration. The total purchase price, inclusive of the acquisition-date fair-value of our pre-existing equity interest, was approximately $161.1 million. In conjunction with the Allegorithmic acquisition, we separately recognized an investment gain of approximately $42.0 million, which represents the difference between the $54.8 million acquisition-date fair value of our pre-existing equity interest and our previous carrying amount. Under the acquisition method of accounting, the total final purchase price was allocated to Allegorithmic's net tangible and intangible assets based upon their estimated fair values as of the acquisition date. The excess purchase price over the value of the net tangible and identifiable intangible assets was recorded as goodwill. Of the total purchase price, $125.9 million was allocated to goodwill that was non-deductible for tax purposes, $44.8 million to identifiable intangible assets and the remainder to net liabilities assumed. Pro forma financial information has not been presented for the Allegorithmic acquisition as the impact to our Consolidated Financial Statements was not material. Marketo On October 31, 2018, we completed the acquisition of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion of cash consideration. Adding Marketo's engagement platform to Adobe Experience Cloud furthers our long-term plan for strategic growth in the Digital Experience segment and enables us to offer a comprehensive set of solutions to enable customers across industries...
+
+[' cash requirements throughout the year, at any given point in time we may owe a substantial sum to our subsidiaries under these advances, which, in accordance with generally accepted accounting principles, are eliminated in consolidation and therefore not recognized on our consolidated balance sheets.
+
+We also are involved in various legal proceedings that could substantially impact our financial position. See Note 19—Commitments, Contingencies and Other Items to our consolidated financial statements in Item 8 of Part II of this report for the current status of such legal proceedings.
+
+Market Risk
+
+As of December 31, 2019, we are exposed to market risk from changes in interest rates on our variable rate long-term debt obligations and fluctuations in certain foreign currencies. We seek to maintain a favorable mix of fixed and variable rate debt in an effort to limit interest costs and cash flow volatility resulting from changes in rates.
+
+Management periodically reviews our exposure to interest rate fluctuations and periodically implements strategies to manage the exposure. From time to time, we have used derivative instruments to (i) lock-in or swap our exposure to changing variable interest rates for fixed interest rates or (ii) to swap obligations to pay fixed interest rates for variable interest rates. We have established policies and procedures for risk assessment and the approval, reporting and monitoring of derivative instrument activities. As of December 31, 2019, we did not hold or issue derivative financial instruments for trading or speculative purposes.
+
+In February 2019, we executed swap transactions that reduced our exposure to floating rates with respect to $2.5 billion principal amount of floating rate debt. In June 2019, we executed swap transactions that reduced our exposure to floating rates with respect to $1.5 billion principal amount of floating rate debt. See Note 15—Derivative Financial Instruments to our consolidated financial statements in Item 1 of Part I of this report for additional disclosure regarding our hedging arrangements.
+
+As of December 31, 2019, we had approximately $11.2 billion floating rate debt potentially subject to the London Inter-Bank Offered Rate (LIBOR), $4.0 billion of which was subject to the above-described hedging arrangements. A hypothetical increase of 100 basis points in LIBOR relating to our $7.2 billion of unhedged floating rate debt would, among other things, decrease our annual pre-tax earnings by approximately $72 million.
+
+We conduct a portion of our business in currencies other than the U.S. dollar, the currency in which our consolidated financial statements are reported. Accordingly, our operating results could be adversely affected by foreign currency exchange rate volatility relative to the U.S. dollar. Our European subsidiaries and certain Latin American subsidiaries use the local currency as their functional currency, as the majority of their revenue and purchases are transacted in their local currencies. Certain Latin American countries previously designated as highly inflationary economies use the U.S. dollar as their functional currency. Although we continue to evaluate strategies to mitigate risks related to the effect of fluctuations in currency exchange rates, we will likely recognize gains or losses from international transactions. Changes in foreign currency rates could adversely affect our operating results.
+
+Certain shortcomings are inherent in the method of analysis presented in the computation of exposures to market risks. Actual values may differ materially from those disclosed by us from time to time if market conditions vary from the assumptions used in the analyses performed. These analyses only incorporate the risk exposures that existed at December 31, 2019.
+
+77
+
+Off-Balance Sheet Arrangements
+
+As of the date of this report, we have no special purpose or limited purpose entities that provide off-balance sheet financing, liquidity, or market or credit risk support and we do not engage in leasing, hedging or other similar activities that expose us to any significant liabilities that are not (i) reflected on the face of the consolidated financial statements, (ii) disclosed in Note 19—Commitments, Contingencies and Other Items to our consolidated financial statements in Item 8 of Part II of this report, or in the Future Contractual Obligations table included in this Item 7 of Part II above, or (iii) discussed under the heading "]:
+Note 19 -- Commitments and Contingencies 126

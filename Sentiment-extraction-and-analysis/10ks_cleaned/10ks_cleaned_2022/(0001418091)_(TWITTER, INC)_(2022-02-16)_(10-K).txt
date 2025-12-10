@@ -1,0 +1,438 @@
+================================================================================
+CIK: 0001418091
+Company Name: TWITTER, INC
+Filing Date: 2022-02-16
+Form Type: 10-K
+Extraction Date: 2025-09-02 02:44:48
+================================================================================
+
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and related notes thereto included in Item 8 “Financial Statements and Supplementary Data” in this Annual Report on Form 10-K. This section of this Form 10-K generally discusses 2021 and 2020 items and year-to-year comparisons between 2021 and 2020. Discussions of 2019 items and year-to-year comparisons between 2020 and 2019 are not included in this Form 10-K, and can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Form 10-K for the fiscal year ended December 31, 2020. This discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those discussed below. Factors that could cause or contribute to such differences include, but are not limited to, those identified below and those discussed in the section titled “Risk Factors” included elsewhere in this Annual Report on Form 10-K.
+
+FY 2021 Highlights
+Total revenue was $5.08 billion, an increase of 37%, compared to 2020.
+•Advertising revenue totaled $4.51 billion, an increase of 40%, compared to 2020.
+•Data licensing and other revenue totaled $571.8 million, an increase of 12%, compared to 2020.
+•U.S. revenue totaled $2.84 billion, an increase of 36%, compared to 2020.
+•International revenue totaled $2.24 billion, an increase of 37%, compared to 2020.
+•Total ad engagements increased 7% compared to 2020.
+•Cost per engagement increased 32% compared to 2020.
+Average monetizable daily active usage (mDAU) was 217 million for the three months ended December 31, 2021, an increase of 13% year over year.
+Loss from operations was $492.7 million, or 10% of total revenue, in 2021, compared to income from operations of $26.7 million, or 1% of total revenue, in 2020. Loss from operations in 2021 includes a one-time litigation-related net charge of $765.7 million(1).
+Net loss was $221.4 million in 2021, compared to net loss of $1.14 billion in 2020, which was inclusive of a $1.10 billion provision for income taxes related to the establishment of a valuation allowance against deferred tax assets.
+Cash, cash equivalents and short-term investments in marketable securities totaled $6.39 billion as of December 31, 2021.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+(1) Includes a charge of $809.5 million partially offset by the recognition of an insurance recovery of $5.8 million in the third quarter of 2021. In addition, during the third quarter of 2021, we recorded a benefit for insurance proceeds of $38.0 million related to the settlement of separate shareholder derivative lawsuits.
+
+40
+
+Table of Contents
+FY 2021 Overview
+In 2021, we continued to make progress on our brand and direct response offerings, with updated ad formats, improved targeting, and better measurement. Our strategy is designed to help advertisers achieve their goals at every stage of the marketing funnel -- from awareness and consideration, all the way through to conversion. We are focused on improving both our suite of performance ad products and improving our tools to drive awareness and consideration.
+We continue to see opportunities around personalization on Twitter as we better leverage our unique signal to improve people’s experience on Twitter and show them more effective ads across both brand and direct response. The overall impact associated with Apple's App Tracking Transparency (ATT) policy to our revenue in 2021 was modest, and is likely to vary across our ad platforms given the unique mix of ad formats, signal, and remediations on each, as well as other factors. Although retooling some of our revenue products in light of Apple’s privacy-related iOS changes will continue to take additional time, energy and resources, we believe that our product improvements to date have reduced the impact on Twitter -- and looking ahead, we are confident that have a roadmap in place that can allow us to continue improving our product performance and navigate future potential changes, while growing our ads business and achieving our revenue goals.
+On January 1, 2022 we closed the sale of our MoPub business to AppLovin Corporation for $1.05 billion in cash. The sale of MoPub enables us to concentrate more of our efforts on the significant opportunity for performance-based advertising, small and medium-sized business (SMB) offerings, and commerce initiatives on Twitter.
+Looking ahead, there are no changes to our long-term goals for revenue or mDAU as we leverage the investments made in 2021.
+In February 2022, our board of directors authorized a new $4.0 billion share repurchase program. The program is effective immediately, and replaces the previously authorized $2.0 billion program from 2020. As part of the new program, we entered into a $2.0 billion accelerated share repurchase on February 10, 2022 and may repurchase the remaining $2.0 billion over time. We will continuously evaluate efficient alternatives to using cash on hand to fund the program, including accessing the capital markets, subject to market conditions.
+COVID-19 Update
+The COVID-19 pandemic has had, and continues to have, a significant impact around the world and has impacted our business, operations, and financial performance in different ways. The impacts of the COVID-19 pandemic, including supply chain constraints, labor shortages, and inflation, have caused advertisers in a variety of industries to be cautious in their spending, and in 2021 had a modest negative impact on, and may negatively impact in future periods, our advertising revenue. The extent of the ongoing impact of the COVID-19 pandemic on our business and on global economic activity is uncertain and may again in the future adversely affect our business, operations and financial results. Our past results may not be indicative of our future performance, and historical trends in revenue, income (loss) from operations, net income (loss), and net income (loss) per share may differ materially. The risks related to the COVID-19 pandemic on our business are further described in Part I, Item 1A - Risk Factors of this Annual Report on Form 10-K.
+
+41
+
+Table of Contents
+Key Metrics
+We review a number of metrics, including the key metrics discussed below, to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans and make strategic decisions.
+Monetizable Daily Active Usage or Users (mDAU). We define mDAU as people, organizations, or other accounts who logged in or were otherwise authenticated and accessed Twitter on any given day through twitter.com, Twitter applications that are able to show ads, or paid Twitter products, including subscriptions(2).
+We believe that mDAU, and its related growth, is the best way to measure our success against our objectives and to show the size of our audience and engagement. Average mDAU for a period represents the number of mDAU on each day of such period divided by the number of days for such period. Changes in mDAU are a measure of changes in the size of our daily logged in or otherwise authenticated active total accounts. To calculate the year-over-year change in mDAU, we subtract the average mDAU for the three months ended in the previous year from the average mDAU for the same three months ended in the current year and divide the result by the average mDAU for the three months ended in the previous year. Additionally, our calculation of mDAU is not based on any standardized industry methodology and is not necessarily calculated in the same manner or comparable to similarly titled measures presented by other companies.
+In the three months ended December 31, 2021, we had 217 million average mDAU, which represents an increase of 13% from the three months ended December 31, 2020. The increase was driven by product improvements, as well as global conversation around current events. In the three months ended December 31, 2021, we had 38 million average mDAU in the United States and 179 million average mDAU in the rest of the world, which represent increases of 2% and 15%, respectively, from the three months ended December 31, 2020.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+(2) We have updated our mDAU definition in the fourth quarter of 2021 to also include "paid Twitter products, including subscriptions", so this key metric continues to accurately reflect our audience as our products evolve. This change had no material impact on the number of mDAU reported in the fourth quarter of 2021, and is unlikely to do so in the near future. This change is effective for the fourth quarter of 2021 and for future periods, and it did not affect prior periods.
+
+42
+
+Table of Contents
+For additional information on how we calculate changes in mDAU and factors that can affect this metric, see the section titled “Note Regarding Key Metrics.”
+
+* Please note the sum of average mDAU in the United States and average mDAU in the rest of the world may not equal the total average mDAU indicated due to rounding.
+
+43
+
+Table of Contents
+Changes in Ad Engagements and Changes in Cost per Ad Engagement. We define an ad engagement as an interaction with one of our pay-for-performance advertising products. Ad engagements with our advertising products are based on the completion of an objective set out by an advertiser such as expanding, Retweeting, liking or replying to a Promoted Ad (previously branded as Promoted Tweet), viewing an embedded video, downloading or engaging with a promoted mobile application, clicking on a website link, signing up for marketing emails from advertisers, following the account that Tweets a Promoted Ad, or completing a transaction on an external website. We believe changes in ad engagements is one way to measure engagement with our advertising products. Cost per ad engagement is an output of our ads auction process and will vary from one period to another based on geographic performance, auction dynamics, the strength of demand for various ad formats, and campaign objectives.
+In the three months ended December 31, 2021, ad engagements decreased 12% from the three months ended December 31, 2020, driven by a mix shift toward lower funnel ad formats and 15-second video views, which, although they have higher cost per ad engagement, generally have lower engagement rates. In the three months ended December 31, 2021, cost per ad engagement increased by 39% compared to the three months ended December 31, 2020, primarily driven by like-for-like price increases across most ad formats due to the impact of COVID last year, as well as a mix shift toward lower funnel ad formats and 15-second video views.
+
+44
+
+Table of Contents
+Results of Operations
+The following tables set forth our consolidated statements of operations data for each of the periods presented (in thousands):
+
+---------------------------------------- ----------------------- --------- ---- --------- - -----------
+ Year Ended December 31,
+ 2021 2020
+Revenue
+Advertising services $ 4,505,692 $ 3,207,392
+Data licensing and other 571,790 508,957
+Total revenue 5,077,482 3,716,349
+Costs and expenses (1)
+Cost of revenue 1,797,510 1,366,388
+Research and development (2) 1,246,704 873,011
+Sales and marketing 1,175,970 887,860
+General and administrative 584,336 562,432
+Litigation settlement, net (3) 765,701 —
+Total costs and expenses 5,570,221 3,689,691
+Income (loss) from operations (492,739) 26,658
+Interest expense (51,186) (152,878)
+Interest income 35,683 88,178
+Other income (expense), net 97,129 (12,897)
+Income (loss) before income taxes (411,113) (50,939)
+Provision (benefit) for income taxes (4) (189,704) 1,084,687
+Net income (loss) $ (221,409) $ (1,135,626)
+
+(1)Costs and expenses include stock-based compensation expense as follows (in thousands):
+
+-------------------------------------- ----------------------- ------- ---- ------- - -------
+ Year Ended December 31,
+ 2021 2020
+Cost of revenue $ 45,203 $ 32,020
+Research and development 381,961 281,092
+Sales and marketing 112,990 98,748
+General and administrative 89,747 63,072
+Total stock-based compensation expense $ 629,901 $ 474,932
+
+(2)In the second quarter of 2020, we recorded $150.0 million in general and administrative expenses in the consolidated statements of operations related to a draft complaint from the Federal Trade Commission. Refer to Note 16 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for further information.
+(3)In the third quarter of 2021, we entered into an agreement to settle a shareholder class action lawsuit and recorded a charge of $809.5 million partially offset by the recognition of an insurance recovery of $5.8 million. In addition, during the third quarter of 2021, we recorded a benefit for insurance proceeds of $38.0 million related to the settlement of separate shareholder derivative lawsuits. Refer to Note 16 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for further information.
+(4)In 2020, we recognized a provision for income taxes of $1.10 billion related to the establishment of a valuation allowance against deferred tax assets of a foreign subsidiary. Refer to Note 15 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for further information.
+
+45
+
+Table of Contents
+The following table sets forth our consolidated statement of operations data for each of the periods presented as a percentage of revenue:
+
+------------------------------------ ----------------------- - ---- ---- -
+ Year Ended December 31,
+ 2021 2020
+Revenue
+Advertising services 89 % 86 %
+Data licensing and other 11 14
+Total revenue 100 100
+Costs and expenses
+Cost of revenue 35 37
+Research and development 25 23
+Sales and marketing 23 24
+General and administrative 12 15
+Litigation settlement, net 15 —
+Total costs and expenses 110 99
+Income (loss) from operations (10) 1
+Interest expense (1) (4)
+Interest income 1 2
+Other income (expense), net 2 0
+Income (loss) before income taxes (8) (1)
+Provision (benefit) for income taxes (4) 29
+Net income (loss) (4) % (31) %
+
+Years Ended December 31, 2021 and 2020
+Revenue
+We generate most of our revenue from the sale of advertising services. We also generate revenue by licensing our data to third parties and providing mobile advertising exchange services.
+Advertising Services
+We generate most of our advertising revenue by selling our Promoted Products. Currently, our Promoted Products consist of the following:
+•Promoted Ads and Twitter Amplify. Promoted Ads (previously branded as Promoted Tweets), which are labeled as “promoted,” appear within a timeline, search results, profile pages, and Tweet conversations. Using our proprietary algorithms and understanding what is relevant to each account, we can deliver Promoted Ads that are intended to achieve the outcome that the advertiser is seeking. We enable our advertisers to target an audience based on many criteria. Our Promoted Ads are pay-for-performance or pay-for-impression delivered advertising that are priced through an auction. Our Promoted Ads include objective-based features that allow advertisers to optimize for the goal selected by the advertisers, such as Tweet engagements (e.g., Retweets, replies and likes), website traffic, mobile application installs or engagements, obtaining new followers, or video views.
+•Follower Ads. Follower Ads (previously branded as Promoted Accounts), which are labeled as “promoted,” provide a way for our advertisers to build and grow an audience that is interested in their business, product or service. Our Follower Ads are pay-for-performance advertising priced through an auction.
+•Twitter Takeover. Twitter Takeover (previously branded as Promoted Trends), which are labeled as “promoted,” appear at the top of the list of trending topics or timeline for an entire day in a particular country. We sell our Twitter Takeover on a fixed-fee-per-day basis.
+While the majority of the Promoted Products we sell to our advertisers are placed on Twitter, we also generate advertising revenue by placing advertising products that we sell to advertisers on third-party publishers’ websites, applications or other offerings.
+
+46
+
+Table of Contents
+Data Licensing and Other
+We generate data licensing and other revenue by (i) offering data products and data licenses that allow our data partners to access, search and analyze historical and real-time data on our platform (which consists of public Tweets and their content), and (ii) until the completion of its sale on January 1, 2022, providing mobile advertising exchange services through our MoPub exchange. Our data partners generally purchase licenses to access all or a portion of our data for a fixed period. We recognize data licensing revenue as our data partners consume and benefit from their use of the licensed data. In addition, through December 31, 2021, we operated a mobile ad exchange and received service fees from transactions completed on the exchange. Our mobile ad exchange enabled buyers and sellers to purchase and sell advertising inventory and matched buyers and sellers. We have determined we were not the principal as it relates to the purchase and sale of advertising inventory in transactions between third-party buyers and sellers on the exchange. Therefore, we report revenue related to our ad exchange services on a net basis.
+
+------------------------ ----------------------- --------- ---- ------- - --------- -------- -------- ------ - --------- -- - -- -
+ Year Ended December 31,
+ 2021 2020 $ Change % Change
+ (in thousands)
+Advertising services $ 4,505,692 $ 3,207,392 $ 1,298,300 40 %
+Data licensing and other 571,790 508,957 $ 62,833 12 %
+Total revenue $ 5,077,482 $ 3,716,349 $ 1,361,133 37 %
+
+2021 Compared to 2020. Revenue in 2021 increased by $1.36 billion or 37% compared to 2020.
+In 2021, advertising revenue increased by $1.30 billion or 40% compared to 2020. The overall increase in advertising revenue reflects an increase in advertiser demand driven by revenue product improvements, strong sales execution, and a broad increase in advertiser demand.
+The increase in advertising revenue was attributable to a 7% increase in the number of ad engagements in 2021 and a 32% increase in cost per ad engagement compared to 2020. The increase in ad engagements was due to our growing audience and increased demand for ads on a year-over-year basis, offset in part by a mix shift toward lower funnel ad formats and 15-second video views which, although they have higher cost per ad engagement, generally have lower engagement rates. The increase in cost per ad engagement was primarily driven by like-for-like price increases across most ad formats due to the impact of COVID last year, as well as a mix shift toward lower funnel ad formats and 15-second video views.
+In 2021, data licensing and other revenue increased by $62.8 million or 12% compared to 2020. The increase was attributable to growth in MoPub and to Twitter Development Platform (formerly known as Developer and Enterprise Solutions) revenue attributed to contract renewals with higher fees. In December 2021, we completed the wind down of MoPub Acquire (formerly known as CrossInstall) and on January 1, 2022, we closed the sale of MoPub. MoPub and MoPub Acquire generated approximately $217.9 million in revenue in 2021, the significant majority of which was reflected in "Data Licensing and Other" revenue.
+To better reflect our business opportunities, including the sale of MoPub and the launch of Twitter Blue in 2022, we will update the name of “Data Licensing and Other Revenue” to “Subscription and Other Revenue” starting in the first quarter of 2022. This revenue line will include subscription revenue from the Twitter Development Platform, Twitter Blue, and other subscription-related offerings.
+
+47
+
+Table of Contents
+Cost of Revenue
+Cost of revenue includes infrastructure costs, revenue share expenses, amortization of acquired intangible assets, amortization of capitalized labor costs for internally developed software, allocated facilities costs, as well as traffic acquisition costs (TAC). Infrastructure costs consist primarily of data center costs related to our co-located facilities, which include lease and hosting costs, related support and maintenance costs and energy and bandwidth costs, public cloud hosting costs, as well as depreciation of servers and networking equipment; and personnel-related costs, including salaries, benefits and stock-based compensation, for our operations teams. TAC consists of costs we incur with third parties in connection with the sale to advertisers of our advertising products that we place on third-party publishers’ websites, and applications or other offerings collectively resulting from acquisitions. Certain elements of our cost of revenue are fixed and cannot be quickly reduced in the near term in response to market conditions.
+
+------------------------------------------ ----------------------- --------- ---- -- -------- --------- -------- ------- -- -
+ Year Ended December 31,
+ 2021 2020 $ Change % Change
+ (in thousands)
+Cost of revenue $ 1,797,510 $ 1,366,388 $ 431,122 32 %
+Cost of revenue as a percentage of revenue 35 % 37 %
+
+2021 Compared to 2020. In 2021, cost of revenue increased by $431.1 million compared to 2020. The increase was attributable to a $264.7 million increase primarily from a combination of revenue share expenses and personnel-related costs due to growth in employee headcount and a $166.4 million increase in infrastructure costs.
+We plan to continue to scale the capacity and enhance the capability and reliability of our infrastructure to support mDAU growth and increased activity on our platform. We expect that cost of revenue will increase in absolute dollar amounts and vary as a percentage of revenue over time.
+Research and Development
+Research and development expenses consist primarily of personnel-related costs, including salaries, benefits and stock-based compensation, for our engineers and other employees engaged in the research and development of our products and services. In addition, research and development expenses include amortization of acquired intangible assets, allocated facilities costs, and other supporting overhead costs.
+
+--------------------------------------------------- ----------------------- --------- ---- -- -------- ------- -------- - ------- -- -
+ Year Ended December 31,
+ 2021 2020 $ Change % Change
+ (in thousands)
+Research and development $ 1,246,704 $ 873,011 $ 373,693 43 %
+Research and development as a percentage of revenue 25 % 23 %
+
+2021 Compared to 2020. In 2021, research and development expenses increased by $373.7 million compared to 2020. The increase was attributable to a $432.5 million increase in personnel-related costs mainly driven by an increase in employee headcount as we continue to focus investments in engineering, product, design, and research, and a $100.5 million increase in facilities costs and other administrative expenses, offset by a $159.3 million increase in the capitalization of costs associated with developing software for internal use.
+We plan to continue to invest in key areas of our business to ensure that we have an appropriate level of engineering, product management and design personnel and related resources to support our research and development efforts on key priorities. We expect that research and development expenses will increase in absolute dollar amounts and vary as a percentage of revenue over time.
+
+48
+
+Table of Contents
+Sales and Marketing
+Sales and marketing expenses consist primarily of personnel-related costs, including salaries, commissions, benefits and stock-based compensation for our employees engaged in sales, sales support, business development and media, marketing, corporate communications and customer service functions. In addition, marketing and sales-related expenses also include advertising costs, market research, trade shows, branding, marketing, public relations costs, amortization of acquired intangible assets, allocated facilities costs, and other supporting overhead costs.
+
+---------------------------------------------- ----------------------- --------- ---- -- -------- ------- -------- ------- -- -
+ Year Ended December 31,
+ 2021 2020 $ Change % Change
+ (in thousands)
+Sales and marketing $ 1,175,970 $ 887,860 $ 288,110 32 %
+Sales and marketing as a percentage of revenue 23 % 24 %
+
+2021 Compared to 2020. In 2021, sales and marketing expenses increased by $288.1 million compared to 2020. The increase was attributable to a $148.9 million increase in sales related expenses due to higher revenue as well as in marketing expenses, a $95.0 million increase in personnel-related costs mainly driven by an increase in employee headcount, and a $44.2 million net increase in facilities costs and other administrative expenses.
+We continue to evaluate key areas in our business to ensure we have an appropriate level of sales and marketing expenses to execute on our key priorities and objectives. We expect that sales and marketing expenses will increase in absolute dollar amounts and vary as a percentage of revenue over time.
+General and Administrative
+General and administrative expenses consist primarily of personnel-related costs, including salaries, benefits and stock-based compensation, for our executive, finance, legal, information technology, human resources and other administrative employees. In addition, general and administrative expenses include fees and costs for professional services, including consulting, third-party legal and accounting services and facilities costs and other supporting overhead costs that are not allocated to other departments.
+
+----------------------------------------------------- ----------------------- ------- ---- -- -------- ------- -------- ------ - -
+ Year Ended December 31,
+ 2021 2020 $ Change % Change
+ (in thousands)
+General and administrative $ 584,336 $ 562,432 $ 21,904 4 %
+General and administrative as a percentage of revenue 12 % 15 %
+
+2021 Compared to 2020. In 2021, general and administrative expenses increased by $21.9 million compared to 2020. The increase was attributable to a $205.7 million increase primarily from a combination of personnel-related costs due to growth in employee headcount and higher professional service fees, offset by the non-recurrence of a $150.0 million expense related to an ongoing FTC matter recorded in 2020 and a net decrease of $33.8 million in facilities costs and other administrative expenses.
+We plan to continue to invest in general and administrative functions to ensure we have an appropriate level of support for our key objectives. We expect that general and administrative expenses will increase in absolute dollar amounts and vary as a percentage of revenue over time.
+Litigation Settlement, Net
+In September 2021, we entered into a binding agreement to settle a shareholder class action lawsuit. The proposed settlement resolves all claims asserted against us and the other named defendants in the shareholder class action lawsuit without any liability or wrongdoing attributed to them personally or to us. In the third quarter of 2021, we recorded a charge of $809.5 million for the settlement in the consolidated statement of operations, partially offset by the recognition of an insurance recovery of $5.8 million. In addition, in the third quarter of 2021, we recorded a benefit for insurance proceeds of $38.0 million related to the settlement of separate shareholder derivative lawsuits. We paid the settlement amount of $809.5 million from cash on hand in the fourth quarter of 2021.
+
+49
+
+Table of Contents
+Interest Expense
+Interest expense consists primarily of interest expense incurred in connection with the $954.0 million principal amount of 1.00% convertible senior notes due in 2021, or the 2021 Notes, which we repaid at maturity in September 2021, the $1.15 billion principal amount of 0.25% convertible senior notes due in 2024, or the 2024 Notes, the $1.44 billion principal amount of 0% convertible senior notes due 2026, or the 2026 Notes, the $700.0 million principal amount of 3.875% senior notes due in 2027, or the 2027 Notes, and the $1.0 billion principal amount of 0.375% convertible senior notes due in 2025, or the 2025 Notes, and interest expense related to finance leases and other financing facilities.
+
+---------------- ----------------------- ------ ---- - -------
+ Year Ended December 31,
+ 2021 2020
+ (in thousands)
+Interest expense $ 51,186 $ 152,878
+
+2021 Compared to 2020. In 2021, interest expense decreased by $101.7 million compared to 2020 primarily due to our adoption of the accounting standard update to simplify the accounting for convertible debt on January 1, 2021. Refer to Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for further information.
+Interest Income
+Interest income is generated from our cash equivalents and short-term investments net of the related amortization of premium paid on such investments.
+
+--------------- ----------------------- ------ ---- - ------
+ Year Ended December 31,
+ 2021 2020
+ (in thousands)
+Interest income $ 35,683 $ 88,178
+
+2021 Compared to 2020. In 2021, interest income decreased by $52.5 million compared to 2020. The decrease was primarily attributable to lower interest rates.
+Other Income (Expense), Net
+Other income (expense), net, consists primarily of unrealized foreign exchange gains and losses due to re-measurement of monetary assets and liabilities denominated in non-functional currencies and realized foreign exchange gains and losses on foreign exchange transactions, and gains and losses on investments in privately-held companies. We expect our foreign exchange gains and losses will vary depending upon movements in the underlying exchange rates.
+
+--------------------------- ----------------------- ------ ---- - --------
+ Year Ended December 31,
+ 2021 2020
+ (in thousands)
+Other income (expense), net $ 97,129 $ (12,897)
+
+2021 Compared to 2020. In 2021, other income, net, was $97.1 million compared to other expense, net, of $12.9 million in 2020. The change was primarily attributable to gains of $84.7 million on an investment in a privately-held company in 2021 compared to impairment charges of $8.8 million on investments in privately-held companies in 2020.
+
+50
+
+Table of Contents
+Provision (Benefit) for Income Taxes
+Our provision (benefit) for income taxes consists of federal and state income taxes in the United States and income taxes in certain foreign jurisdictions.
+
+------------------------------------ ----------------------- --------- ---- - ---------
+ Year Ended December 31,
+ 2021 2020
+ (in thousands)
+Provision (benefit) for income taxes $ (189,704) $ 1,084,687
+
+2021 Compared to 2020. In 2021, our benefit from income taxes was $189.7 million, compared to a net provision for income taxes of $1.08 billion in 2020. The change was primarily due to a provision from income taxes related to the establishment of a valuation allowance against deferred tax assets of $1.10 billion in 2020, and in 2021, a tax benefit from the litigation settlement described in Note 16 - Commitments and Contingencies, increased excess tax benefits from stock-based compensation, and increased research and development credits.
+Our effective tax rate could be affected by our jurisdictional mix of income (loss) before taxes, including our allocation of centrally incurred costs to foreign jurisdictions, changes in tax rates and tax regulations, the impact of tax examinations, the impact of business combinations, changes in our corporate structure, changes in the geographic location of business functions or assets, tax effects of stock-based compensation, and changes in management's assessment of the ability to realize deferred tax assets. In addition, the provision is impacted by deferred income taxes reflecting the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes.
+
+51
+
+Table of Contents
+Liquidity and Capital Resources
+
+--------------------------------------------------- ----------------------- --------- ---- - -----------
+ Year Ended December 31,
+ 2021 2020
+ (in thousands)
+Consolidated Statements of Cash Flows Data:
+Net loss $ (221,409) $ (1,135,626)
+Net cash provided by operating activities $ 632,689 $ 992,870
+Net cash provided by (used in) investing activities $ 52,623 $ (1,560,565)
+Net cash provided by (used in) financing activities $ (472,823) $ 755,310
+
+Our principal sources of liquidity are our cash, cash equivalents, and short-term investments in marketable securities. Our cash equivalents and marketable securities are invested primarily in short-term fixed income securities, including government and investment-grade debt securities and money market funds. In March 2021, we received net proceeds of approximately $1.42 billion from the issuance of the 2026 Notes, after deducting the debt issuance costs. In September 2021, we repaid at maturity the $954.0 million of principal balance associated with our 2021 Notes.
+In March 2020, our Board of Directors authorized a program to repurchase up to $2.0 billion of our common stock over time. Repurchases may be made from time to time through open market purchases or through privately negotiated transactions subject to market conditions, applicable legal requirements and other relevant factors. The repurchase program does not obligate us to acquire any particular amount of our common stock and may be suspended at any time at our discretion. In the year ended December 31, 2021, we repurchased 16.9 million shares for an aggregate amount of $930.5 million. The repurchases include 120,000 shares for $5.3 million that were not settled as of December 31, 2021 that are presented as treasury stock on the consolidated balance sheets as of such date.
+As of December 31, 2021, we had $6.39 billion of cash, cash equivalents and short-term investments in marketable securities, of which $279.6 million was held by our foreign subsidiaries. We do not plan to indefinitely reinvest these funds held by our foreign subsidiaries and have accrued the incremental taxes due as part of repatriation. In October 2021 we paid the $809.5 million settlement related to the shareholder class action lawsuit discussed in Note 16 – Commitments and Contingencies.
+We believe that our existing cash, cash equivalents and short-term investment balances, and our credit facility, together with cash generated from operations and continued access to capital markets, will be sufficient to meet our working capital, capital expenditure, and other cash requirements including authorized share repurchases over the next 12 months and beyond. From time to time, we may need or choose to seek additional financing through the issuance of equity, equity-linked or debt securities to operate or grow our business. Our ability to obtain additional financing, if and when required, will depend on investor and lender demand, our operating performance, the condition of the capital markets, and other factors.
+Credit Facility
+We have a revolving credit agreement with certain lenders which provides for a $500.0 million revolving unsecured credit facility maturing on August 7, 2023. We are obligated to pay interest on loans under the credit facility and other customary fees for a credit facility of this size and type, including an upfront fee and an unused commitment fee. The interest rate for the credit facility is determined based on calculations using certain market rates as set forth in the credit agreement. In addition, the credit facility contains restrictions on payments including cash payments of dividends. In March 2021, we entered into an amendment to the revolving credit agreement to increase the amount of indebtedness we may incur from $4.5 billion to $6.0 billion and to permit the convertible note issuance and hedge transactions associated with the 2026 Notes. In February 2022, we amended our existing revolving credit agreement to permit our repurchases of our common stock in an aggregate amount not to exceed $4.0 billion. As of December 31, 2021, no amounts had been drawn under the credit facility.
+Operating Activities
+Cash provided by operating activities consists of net income (loss) adjusted for certain non-cash items including depreciation and amortization, stock-based compensation, amortization of discount on our Notes, deferred income taxes, impairment of (gain on) investments in privately-held companies, non-cash restructuring charges, as well as the effect of changes in working capital and other activities. We expect that cash provided by operating activities will fluctuate in future periods as a result of a number of factors, including fluctuations in our revenue, increases in operating expenses and costs related to acquisitions. For additional discussion, see Part I, Item 1A, ”Risk Factors.”
+
+52
+
+Table of Contents
+Cash provided by operating activities in 2021 was $632.7 million, a decrease in cash inflow of $360.2 million compared to 2020. Cash provided by operating activities was driven by net loss of $221.4 million, as adjusted for the exclusion of non-cash expenses and other adjustments totaling $849.1 million, including $629.9 million of stock-based compensation expense, $544.8 million of depreciation and amortization expense, $228.8 million of deferred income taxes, and $101.4 million of net gains on investments in privately-held companies. Cash provided by operating activities also reflects the effect of changes in assets and liabilities, net of assets acquired and liabilities assumed from acquisitions, including an $809.5 million payment we made to settle a shareholder class action lawsuit in the fourth quarter of 2021, resulting in net cash inflows of $5.0 million.
+Investing Activities
+Our primary investing activities consist of purchases of property and equipment, particularly purchases of servers and networking equipment, leasehold improvements for our facilities, purchases and disposal of marketable securities, strategic investments in privately-held companies, acquisitions of businesses and other activities.
+Cash provided by investing activities in 2021 was $52.6 million, compared to cash used in investing activities of $1.56 billion in 2020. The change was due to a $2.54 billion decrease in purchases of marketable securities, a $79.9 million increase in proceeds from sales of marketable securities, and a $15.3 million decrease in cash used in business combinations, offset by a $742.5 million decrease in proceeds from maturities of marketable securities, a $138.2 million increase in purchases of property and equipment, $69.5 million of investments in the Finance Justice Fund, a socially responsible investment that aims to bring capital from corporate and philanthropic partners to individuals and communities in America most underestimated by mainstream finance, a $39.0 million increase in cash used in other investing activities, a $27.8 million increase in purchases of investments in privately-held companies, and a $0.7 million decrease in proceeds from sales of property and equipment.
+We anticipate making capital expenditures in 2022 of approximately $900 million to $950 million as we support our existing data centers and infrastructure needs.
+Financing Activities
+Our primary financing activities consist of issuances of securities, including common stock issued under our employee stock purchase plan and issuance of our Notes, repurchases of common stock under our share repurchase program, repayment of Convertible Notes, payments of finance lease obligations, and stock option exercises by employees and other service providers.
+Cash used in financing activities in 2021 was $472.8 million, compared to $755.3 million of cash provided by financing activities in 2020. The change was due to a $954.0 million repayment of the 2021 Notes at maturity, a $685.2 million increase in repurchases of common stock, a $4.4 million increase in tax payments related to net share settlements of equity awards, and a $3.4 million decrease in proceeds from option exercises, offset by $1.42 billion of net proceeds from the issuance of the 2026 Notes net of issuance costs, which was reduced by a net cash outflow of $52.3 million for the purchase of convertible note hedges and sale of warrants entered into in connection with the issuance of the 2026 Notes in 2021, compared to $985.3 million of net proceeds from the issuance of the 2025 Notes net of issuance costs in 2020, a $22.5 million decrease in payments of finance lease obligations, and a $13.3 million increase in proceeds from the issuance of shares of stock from the employee stock purchase plan (ESPP).
+Contractual Obligations
+Our principal commitments consist of obligations under the Notes (including principal and coupon interest), finance and operating leases for equipment, office space and co-located data center facilities, as well as non-cancelable contractual commitments. Refer to Note 6, Operating and Finance Leases; Note 11, Convertible Notes and Senior Notes; and Note 16, Commitments and Contingencies, of the Notes to Consolidated Financial Statements under Part II, Item 8 of this Annual Report on Form 10-K for more details.
+As of December 31, 2021, we had recorded liabilities of $39.7 million related to uncertain tax positions. Due to uncertainties in the timing of potential tax audits, the timing of the resolution of these positions is uncertain and we are unable to make a reasonably reliable estimate of the timing of payments in individual years beyond 12 months. As a result, this amount is not included in the contractual obligation table in Note 16.
+
+53
+
+Table of Contents
+Critical Accounting Policies and Estimates
+We prepare our consolidated financial statements and related notes in accordance with GAAP. In doing so, we have to make estimates and assumptions that affect our reported amounts of assets, liabilities, revenue and expenses, as well as related disclosure of contingent assets and liabilities. To the extent that there are material differences between these estimates and actual results, our financial condition or operating results would be affected. We base our estimates on past experience and other assumptions that we believe are reasonable under the circumstances, and we evaluate these estimates on an ongoing basis. We refer to accounting estimates of this type as critical accounting policies and estimates, which we discuss further below.
+Revenue Recognition
+We generate the substantial majority of our revenue from the sale of advertising services with the remaining balance from data licensing and other arrangements.
+We generate our advertising revenue primarily from the sale of our Promoted Products: (i) Promoted Ads, (ii) Follower Ads and (iii) Twitter Takeover. Promoted Ads and Follower Ads are pay-for-performance advertising products or pay-for-impressions delivered, each priced through an auction. Twitter Takeover is featured by geography and offered on a fixed-fee-per-day basis. Advertisers are obligated to pay when a person engages with a Promoted Ads, follows a Follower Ads, when an impression is delivered, or when a Twitter Takeover is displayed for an entire day in a particular country. These advertising services may be sold in combination as a bundled arrangement or separately on a stand-alone basis.
+For our Promoted Product arrangements, significant judgments are (i) identifying the performance obligations in the contract, (ii) determining the basis for allocating contract consideration to performance obligations, (iii) determining whether we are the principal or the agent in arrangements where another party is involved in providing specified services to a customer, and (iv) estimating the transaction price to be allocated for contracts with tiered rebate provisions.
+We may generate revenue from the sale of certain Promoted Ads through placement by Twitter of advertiser ads against third-party publisher content. We will pay the third-party publisher a revenue share fee for our right to monetize their content. In such transactions, advertisers are contracting to obtain a single integrated advertising service, the Promoted Ad combined with the third-party publisher content, and we obtain control of the third-party publisher content displayed on Twitter that we then combine with the advertiser ads within the Promoted Ad. Therefore, we report advertising revenue generated from these transactions on a gross basis and record the related third-party content monetization fees as cost of revenue.
+We also generate advertising revenue by selling services in which we place ads on third-party publishers’ websites, applications or other offerings. To fulfill these transactions, we purchase advertising inventory from third-party publishers’ websites and applications where we have identified the advertisers’ targeted audience and therefore incur traffic acquisition costs prior to transferring the advertising service to our customers. At such point, we have the sole ability to monetize the third-party publishers advertising inventory. In such transactions, we obtain control of a right to a service to be performed by the third-party publishers, which gives us the ability to direct those publishers to provide the services to our customers on our behalf. Therefore, we report advertising revenue generated from these transactions on a gross basis, and we record the related traffic acquisition costs as cost of revenue.
+Fees for the advertising services above are recognized in the period when advertising is delivered as evidenced by a person engaging with a Promoted Ad or an ad on a third-party publisher website or application in a manner satisfying the types of engagement selected by the advertisers, such as Tweet engagements (e.g., Retweets, replies and likes), website clicks, mobile application installs or engagements, obtaining new followers, or video views, following a Follower Ad, delivery of impressions, or through the display of a Twitter Takeover on our platform.
+We have concluded that our data licensing arrangements, which grant customers a right to our intellectual property (IP) for a defined period of time, may contain a single performance obligation satisfied at a point in time (Historical IP) or over time (Future IP), or may contain two or more performance obligations satisfied separately at a point in time (Historical IP) and over time (Future IP). In some of our data licensing arrangements, pricing is a fixed monthly fee over a specified term. In arrangements with a single performance obligation satisfied over time, data licensing revenue is recognized on a straight-line basis over the period in which we provide data as the customer consumes and benefits from the continuous data available on an ongoing basis. In arrangements with at least two performance obligations, we allocate revenue on a relative basis between the performance obligations based on standalone selling price (SSP) and recognize revenue as the performance obligations are satisfied.
+In other data licensing arrangements, we charge customers based on the amount of sales they generate from downstream customers using Twitter data. Certain of those royalty-based data licensing arrangements are subject to minimum guarantees. For such arrangements with a minimum guarantee and a single Future IP performance obligation, we recognize revenue for minimum guarantees on a straight-line basis over the period in which we provide data. For such arrangements with a minimum guarantee and two or more performance obligations, we allocate revenue on a relative basis between the performance obligations based on SSP and recognize revenue as the performance obligations are satisfied. Royalties in excess of minimum guarantees, if any, are recognized as revenue over the contract term, on a straight-line, cumulative catch-up basis. This reflects the nature of the Company’s performance obligation, which is a series of distinct monthly periods of providing a license of IP.
+
+54
+
+Table of Contents
+For data licensing arrangements involving two or more performance obligations, we use directly observable standalone transactions to determine SSP of Historical IP. We use standalone transactions and consider all other reasonably available observable evidence to estimate SSP of Future IP.
+Other revenue is primarily generated from service fees from transactions completed on our mobile ad exchange. Our mobile ad exchange enables buyers and sellers to purchase and sell advertising inventory by matching them in the exchange. We have determined we are not the principal in the purchase and sale of advertising inventory in transactions between third-party buyers and sellers on the exchange because we do not obtain control of the advertising inventory. We report revenue related to our ad exchange services on a net basis for the fees paid by buyers, net of costs related to acquiring the advertising inventory paid to sellers.
+Arrangements involving multiple performance obligations primarily consist of combinations of our pay-for-performance products, Promoted Ads and Follower Ads, which are priced through an auction, and Twitter Takeovers, which are priced on a fixed-fee-per day, per geography basis. For arrangements that include a combination of these products, we develop an estimate of the standalone selling price for these products in order to allocate any potential discount to all performance obligations in the arrangement. The estimate of standalone selling price for pay-for-performance auction based products is determined based on the winning bid price. The estimate of standalone selling price for Twitter Takeovers is based on Twitter Takeovers sold on a standalone basis and/or separately priced in a bundled arrangement by reference to a list price by geography, which is typically updated and approved annually. For other arrangements involving multiple performance obligations where neither auction pricing nor standalone sales provide sufficient evidence of standalone selling price, we estimate standalone selling price using either an adjusted market assessment approach or an expected cost plus margin approach. We believe the use of our estimation approach and allocation of the transaction price on a relative standalone selling price basis to each performance obligation results in revenue recognition in a manner consistent with the underlying economics of the transaction and the allocation principles of the revenue recognition guidance. We have elected to exclude certain sales and indirect taxes from the determination of the transaction price.
+We expense sales commissions as incurred when the amortization period is one year or less. Sales commission expenses are recorded within sales and marketing in the consolidated statements of operations.
+Income Taxes
+We are subject to income taxes in the United States and several foreign jurisdictions. Significant judgment is required in determining our provision (benefit) for income taxes and income tax assets and liabilities, including evaluating uncertainties in the application of accounting principles and complex tax laws.
+We record a provision (benefit) for income taxes for the anticipated tax consequences of the reported results of operations using the asset and liability method. Under this method, we recognize deferred income tax assets and liabilities for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, as well as for loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using the tax rates that are expected to apply to taxable income for the years in which those tax assets and liabilities are expected to be realized or settled. We recognize the deferred income tax effects of a change in tax rates in the period of the enactment. We record a valuation allowance to reduce our deferred tax assets to the net amount that we believe is more likely than not to be realized.
+We recognize tax benefits from uncertain tax positions if we believe that it is more likely than not that the tax position will be sustained upon examination by the taxing authorities based on the technical merits of the position. Although we believe we have adequately reserved for our uncertain tax positions (including net interest and penalties), we can provide no assurance that the final tax outcome of these matters will not be different. We make adjustments to these reserves in accordance with income tax accounting guidance when facts and circumstances change, such as the closing of a tax audit. To the extent that the final tax outcome of these matters is different from the amounts recorded, such differences may impact the provision (benefit) for income taxes in the period in which such determination is made. We record interest and penalties related to our uncertain tax positions in our provision (benefit) for income taxes.
+The establishment of deferred tax assets from intra-entity transfers of intangible assets requires management to make significant estimates and assumptions to determine the fair value of such intangible assets. Critical estimates in valuing the intangible assets include, but are not limited to, internal revenue and expense forecasts, the estimated life of the intangible assets, and discount rates. The discount rates used in the income method to discount expected future cash flows to present value are adjusted to reflect the inherent risks related to the cash flow. Although we believe the assumptions and estimates we have made are reasonable and appropriate, they are based, in part, on historical experience and are inherently uncertain. Unanticipated events and circumstances may occur that could affect either the accuracy or validity of such assumptions, estimates or actual results.
+
+55
+
+Table of Contents
+Loss Contingencies
+We are currently involved in, and may in the future be involved in, legal proceedings, claims, investigations, and government inquiries and investigations arising in the ordinary course of business. Certain of these matters include speculative claims for substantial or indeterminate amounts of damages. We record a liability when we believe that it is both probable that a loss has been incurred and the amount can be reasonably estimated. If we determine there is a reasonable possibility that we may incur a loss and the loss or range of loss can be estimated, we disclose the possible loss to the extent material. Significant judgment is required to determine the probability of loss and the estimated amount of loss, including when and if the probability and estimate has changed. We review these provisions on a regular basis and adjust these provisions accordingly to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and updated information.
+The outcomes of the legal matters, such as whether the likelihood of loss is remote, reasonably possible, or probable, or if and when the reasonably possible range of loss is estimable, are inherently uncertain. If one or more of these matters were resolved against us for amounts above management's estimates, our financial condition and results of operations, including in a particular reporting period in which any such outcome becomes probable and estimable, could be materially adversely affected.
+Business Combinations
+We allocate the purchase price of the acquisition to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values at the acquisition dates. The excess of the purchase price over those fair values is recorded as goodwill. During the measurement period, which may be up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of the measurement period or final determination of the values of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to the consolidated statements of operations.
+Accounting for business combinations requires our management to make significant estimates and assumptions at the acquisition date, including estimated fair value of acquired intangible assets, estimated fair value of stock awards assumed from the acquirees that are included in the purchase price, estimated income tax assets and liabilities assumed from the acquirees, and determination of the fair value of contractual obligations, where applicable. The estimates of fair value require management to also make estimates of, among other things, future expected cash flows, discount rates or expected costs to reproduce an asset. Although we believe the assumptions and estimates we made at the time were reasonable and appropriate, these estimates are based on historical experience and information obtained from the management of the acquired companies and are inherently uncertain.
+
+Impact of Recently Issued Accounting Standards
+The impact of recently issued accounting standards is set forth in Note 1, Summary of Significant Accounting Policies, of the Notes to Consolidated Financial Statements under Part II, Item 8 of this Annual Report on Form 10-K.
+
+56
+
+Table of Contents
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[Refer to Note 16]:
+NOTE 16. COMMITMENTS AND CONTINGENCIES Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. The following table summarizes our non-cancellable unconditional purchase obligations for each of the next five years and thereafter as of December 3, 2021: ------------- -------------------- ----- (in millions) Fiscal Year Purchase Obligations 2022 $ 711 2023 471 2024 174 2025 18 2026 7 Thereafter -- Total $ 1,381 Royalties We have royalty commitments associated with the licensing of certain offerings and products. Royalty expense is generally based on a dollar amount per unit or a percentage of the underlying revenue. Royalty expense, which was recorded in our cost of revenue on our Consolidated Statements of Income, was approximately $202 million, $176 million and $154 million in fiscal 2021, 2020 and 2019, respectively. Indemnifications In the ordinary course of business, we provide indemnifications of varying scope to customers and channel partners against claims of intellectual property infringement made by third parties arising from the use of our products and from time to time, we are subject to claims by our customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations. To the extent permitted under Delaware law, we have agreements whereby we indemnify our officers and directors for certain events or occurrences while the officer or director is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the officer's or director's lifetime. The maximum potential amount of future payments we could be required to make under these indemnification agreements is unlimited; however, we have direct...
+
+[Refer to Note 16]:
+NOTE 16. COMMITMENTS AND CONTINGENCIES Unconditional Purchase Obligations Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. The following table summarizes our non-cancellable unconditional purchase obligations for each of the next five years and thereafter as of December 3, 2021: ------------- -------------------- ----- (in millions) Fiscal Year Purchase Obligations 2022 $ 711 2023 471 2024 174 2025 18 2026 7 Thereafter -- Total $ 1,381 Royalties We have royalty commitments associated with the licensing of certain offerings and products. Royalty expense is generally based on a dollar amount per unit or a percentage of the underlying revenue. Royalty expense, which was recorded in our cost of revenue on our Consolidated Statements of Income, was approximately $202 million, $176 million and $154 million in fiscal 2021, 2020 and 2019, respectively. Indemnifications In the ordinary course of business, we provide indemnifications of varying scope customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations. To the extent permitted under Delaware law, we have agreements whereby we indemnify our officers and directors for certain events lifetime. The maximum potential amount of future payments we could be required to make under these indemnification agreements is unlimited; however, we have direct...
+
+[Refer to Note 15]:
+Note 15. Financial Instruments and Risk Management 63
+
+[Refer to Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+[Refer to Note 6]:
+(6)This reflects write-offs of leasehold improvements and other fixed assets. As discussed in note 6 to our consolidated financial statements, the 2020 charges primarily reflect the discontinuation of certain equipment programs, and were not related to COVID-19. (7)Reflects the difference between the net carrying amount and the total purchase price of the redeemed notes. For additional information, see "Results of Operations-Other costs/(income)-Interest expense, net" below. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The 27 net income and adjusted EBITDA margins represent net income or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and adjusted EBITDA help investors gain an understanding of the factors and trends affecting our ongoing cash earnings, from which capital investments are made and debt is serviced. However, EBITDA and adj...
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[included in Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[see Part I, Item 1A]:
+Item 1A. Risk Factors 21
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 21
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 21
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 29
+
+['s App Tracking Transparency (ATT) policy to our revenue in 2021 was modest, and is likely to vary across our ad platforms given the unique mix of ad formats, signal, and remediations on each, as well as other factors. Although retooling some of our revenue products in light of Apple’s privacy-related iOS changes will continue to take additional time, energy and resources, we believe that our product improvements to date have reduced the impact on Twitter -- and looking ahead, we are confident that have a roadmap in place that can allow us to continue improving our product performance and navigate future potential changes, while growing our ads business and achieving our revenue goals.
+On January 1, 2022 we closed the sale of our MoPub business to AppLovin Corporation for $1.05 billion in cash. The sale of MoPub enables us to concentrate more of our efforts on the significant opportunity for performance-based advertising, small and medium-sized business (SMB) offerings, and commerce initiatives on Twitter.
+Looking ahead, there are no changes to our long-term goals for revenue or mDAU as we leverage the investments made in 2021.
+In February 2022, our board of directors authorized a new $4.0 billion share repurchase program. The program is effective immediately, and replaces the previously authorized $2.0 billion program from 2020. As part of the new program, we entered into a $2.0 billion accelerated share repurchase on February 10, 2022 and may repurchase the remaining $2.0 billion over time. We will continuously evaluate efficient alternatives to using cash on hand to fund the program, including accessing the capital markets, subject to market conditions.
+COVID-19 Update
+The COVID-19 pandemic has had, and continues to have, a significant impact around the world and has impacted our business, operations, and financial performance in different ways. The impacts of the COVID-19 pandemic, including supply chain constraints, labor shortages, and inflation, have caused advertisers in a variety of industries to be cautious in their spending, and in 2021 had a modest negative impact on, and may negatively impact in future periods, our advertising revenue. The extent of The risks related to the COVID-19 pandemic on our business are further described in Part I, Item 1A - Risk Factors of this Annual Report on Form 10-K.
+
+41
+
+Table of Contents
+Key Metrics
+We review a number of metrics, including the key metrics discussed below, to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans and make strategic decisions.
+ Twitter applications that are able to show ads, or paid Twitter products, including subscriptions(2).
+We believe that mDAU, and its related growth, is the best way to measure our success against our objectives and to show the size of our audience and engagement. Average mDAU for a period represents the number of mDAU on each day of such period divided by the number of days for such period. Changes in mDAU are a measure of changes in the size of our daily logged in or otherwise authenticated active total accounts. To calculate the year-over-year change in mDAU, we subtract the average mDAU for the three months our calculation of mDAU is not based on any standardized industry methodology and is not necessarily calculated in the same manner or comparable to similarly titled measures presented by other companies.
+In the three months ended December 31, 2021, we had 217 million average mDAU, which represents an increase of 13% from the three months ended December 31, 2020. The increase was driven by product improvements, as well as global conversation around current events. In the three months ended December 31, 2021, we had 38 million average mDAU in the United States and 179 million average mDAU in the rest of the world, which represent increases of 2% and 15%, respectively, from the three months ended December 31, 2020.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+(2) We have updated our mDAU definition in the fourth quarter of 2021 to also include "]:
+Item 1A. Risk Factors 21

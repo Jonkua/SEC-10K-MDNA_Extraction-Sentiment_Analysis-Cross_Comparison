@@ -1,0 +1,948 @@
+================================================================================
+CIK: 0001645590
+Company Name: Hewlett Packard Enterprise Co
+Filing Date: 2023-12-22
+Form Type: 10-K
+Extraction Date: 2025-09-03 15:41:17
+================================================================================
+
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+For purposes of this Management's Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) section, we use the terms “Hewlett Packard Enterprise,” “HPE,” “the Company,” “we,” “us,” and “our” to refer to Hewlett Packard Enterprise Company.
+This section of this Form 10-K generally discusses fiscal 2023 and fiscal 2022 items and year-to-year comparisons between fiscal 2023 and fiscal 2022. Discussions of fiscal 2021 items and year-to-year comparisons between fiscal 2022 and fiscal 2021 that are not included in this Form 10-K can be found in “Part II, Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations” of the Company's Annual Report on Form 10-K for the fiscal year October 31, 2022, as filed with the SEC on December 8, 2022, which is available on the SEC's website at www.sec.gov.
+We intend the discussion of our financial condition and results of operations that follows to provide information that will assist the reader in understanding our Consolidated Financial Statements, changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles, policies and estimates affect our Consolidated Financial Statements. This discussion should be read in conjunction with our Consolidated Financial Statements and the related notes that appear elsewhere in this document.
+This MD&A is organized as follows:
+•Trends and Uncertainties. A discussion of material events and uncertainties known to management, such as the mixed macroeconomic environment, supply chain constraints (though easing), uneven demand across our portfolio, increased demand for and adoption of new technologies, conservative customer spending environment, inflationary trend and foreign exchange pressures, and recent tax developments.
+•Executive Overview. A discussion of our business and a summary of our financial performance and other highlights, including non-GAAP financial measures, affecting the Company in order to provide context to the remainder of the MD&A.
+•Critical Accounting Policies and Estimates. A discussion of accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results.
+•Results of Operations. A discussion of the results of operations at the consolidated level is followed by a discussion of the results of operations at the segment level.
+•Liquidity and Capital Resources. An analysis and discussion of changes in our cash flows, financial condition, liquidity, and cash requirements and commitments.
+•GAAP to Non-GAAP Reconciliation. Each non-GAAP financial measure has been reconciled to the most directly comparable GAAP financial measure. This section also includes a discussion of the use, usefulness and economic substance of the non-GAAP financial measures, along with a discussion of material limitations, and compensation for those limitations, associated with the use of non-GAAP financial measures.
+
+TRENDS AND UNCERTAINTIES
+The elevated order book levels we experienced in fiscal 2022 have generally declined throughout fiscal 2023, as supply chain constraints eased (though challenges still remain) and demand softened unevenly across our portfolio (as a result of improving supply chain dynamics and as customers have been digesting their prior larger orders). Meanwhile, demand for and adoption of new technologies, such as AI, hybrid cloud, and edge computing, have increased. We have observed, and expect to continue seeing, customers of various segments and sizes pursue such new technologies. As noted above, we have continued to see elongated sales cycles, as customers work through prior orders and adopt a more conservative approach to spending in a mixed macroeconomic environment. This has been particularly true of certain of our hardware businesses, as customers have focused investments on modernizing infrastructure, such as migrating to cloud-based offerings. We expect such mixed macroeconomic environment to continue to moderate our revenue growth in the near term.
+As referenced above, mild improvements to industry-wide supply constraints have helped to ease certain supply chain challenges we encountered in the recent past, including the increased availability of supply and lower material and logistics costs. Material cost trends are dependent on the strength or weakness of actual end-user demand and supply dynamics, which will continue to evolve and ultimately impact the translation of the cost environment to our pricing actions and, consequently, our operating results. Logistics costs continued to decrease from previously elevated levels as a result of declines in both expedited shipments and overall rate costs in the freight network.
+
+35
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Additionally, we continue to experience a challenging foreign exchange environment, which has increased costs of products and services and moderated our revenue and earnings growth. We have a large global presence, with more than half of our revenue generated outside of the U.S. As a result, our financial results can be, and particularly in recent periods have been, impacted by fluctuations in foreign currency exchange rates. Furthermore, inflationary pressures persist, keeping not only material and logistics costs, but also labor costs, somewhat elevated compared to pre-COVID-19 pandemic levels. We expect the unfavorable foreign exchange effects and inflationary trend to continue in the longer term.
+Recent Tax Developments
+The Organisation for Economic Co-operation and Development, an international association of 38 countries including the United States, has proposed changes to numerous long-standing tax principles, namely, its Pillar Two framework, which imposes a global minimum corporate tax rate of 15%. In December 2022, the EU member states adopted a directive that implements the Pillar Two framework, which is expected to be enacted into the national laws of the EU member states by December 31, 2023. Certain countries in which we operate have enacted legislation to adopt the Pillar Two framework (e.g., United Kingdom and Korea), and several other countries are also considering changes to their tax laws to implement this framework. The first component of the Pillar Two framework is expected to be effective for us in fiscal 2025 with a second component expected to be effective in fiscal 2026. When and how this framework is adopted or enacted by the various countries in which we do business could increase tax complexity and uncertainty and may adversely affect our provision for income taxes in the U.S. and non-U.S. jurisdictions.
+On August 16, 2022, the U.S. government enacted the Inflation Reduction Act of 2022 (the “Inflation Reduction Act”) into law. The Inflation Reduction Act includes a new corporate alternative minimum tax (the “Corporate AMT”) of 15% on the adjusted financial statement income (“AFSI”) of corporations with average AFSI exceeding $1.0 billion over a three-year period. The Corporate AMT is effective for the Company beginning in fiscal 2024. We expect U.S. cash tax to increase in the short term as a result of the Corporate AMT but do not expect the effective tax rate to be impacted as the Corporate AMT is expected to be recovered as a credit in future years. The realizability of any deferred tax asset associated with the Corporate AMT will be determined through our annual valuation allowance analysis. Additionally, the Inflation Reduction Act imposes an excise tax of 1% tax on the fair market value of net stock repurchases made after December 31, 2022. The impact of this provision will be dependent on the extent of share repurchases made in future periods.
+The Internal Revenue Service (“IRS”) is conducting audits of our fiscal 2017 through 2022 U.S. federal income tax returns. During the fourth quarter of fiscal 2023, the IRS issued notices of proposed adjustments (“NOPAs”) for fiscal 2017, 2018, and 2019 relating to our intercompany transfer pricing. After the close of fiscal 2023, the IRS issued a Revenue Agent Report (“RAR”) finalizing their position on the NOPAs for the same issues and same fiscal years. The IRS is seeking to increase taxable income across the three fiscal years by $904 million. As of the balance sheet date, we have sufficient tax credit carryforwards to offset any incremental tax liability from the adjustments in the RAR. However, we disagree with the IRS’ adjustments and believe the positions taken on our tax returns are more likely than not to prevail on technical merits, and we will defend these positions through the IRS administrative processes, as necessary. Accordingly, no changes have been made to our reserves for uncertain tax positions in fiscal 2023 relating to the IRS’ adjustments.
+Russia/Ukraine Conflict
+The conflict between Russia and Ukraine and the related sanctions imposed by the U.S., European Union and other countries in response have negatively impacted our operations in both countries and increased economic and political uncertainty across the world. In response to the sanctions imposed, in February 2022, we suspended all new sales and shipments to Russia and Belarus and implemented compliance measures to address the continuously changing regulatory landscape. Based on a further assessment of business risks and needs, in June 2022, we determined that it was no longer tenable to maintain our operations in Russia and Belarus and have been proceeding with an orderly, managed exit of our remaining business in these countries.
+Other Trends and Uncertainties
+We have observed market trends and demand gravitating towards AI, hybrid cloud, and edge computing, and data securities capabilities, and offerings. The volume of data at the edge continues to grow, driven by the proliferation of more devices, which has led to the need for enhanced security at the edge, as well. The need for a unified cloud experience everywhere has grown, as well, in order to manage the growth of data at the edge. With the abundance of data, there are opportunities to develop AI tools with powerful computational abilities to extract insights and value from the captured data. We expect these market dynamics and trends to continue in the longer term.
+
+36
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Observing these dynamics, we have accelerated our investment and innovation efforts in these areas that we see as critical to our long-term strategy and growth, including in pivoting our go-to-market motion and sales function. At the same time, we continue to strengthen our core Compute and Storage-oriented offerings and expand our offerings on the HPE GreenLake edge-to-cloud platform, to enable execution of our aaS pivot to become the edge-to-cloud company for our customers and partners. Furthermore, as noted elsewhere in this report, effective November 1, 2023, we have realigned our financial reporting segments to align with these key market trends. It is uncertain whether we will successfully execute this shift in strategic focus, realize the anticipated benefits of doing so, or capture the anticipated shares of the AI, hybrid cloud, and edge markets.
+The following Executive Overview, Results of Operations and Liquidity discussions and analysis compare fiscal 2023 to fiscal 2022, unless otherwise noted. The Capital Resources and, Cash Requirements and Commitments sections present information as of October 31, 2023, unless otherwise noted.
+
+EXECUTIVE OVERVIEW
+Net revenue of $29.1 billion represented an increase of 2.2% (increased 5.5% on a constant currency basis) primarily due to higher average unit prices (“AUPs”) in the Intelligent Edge and Compute segments, and higher customer acceptances in the High Performance Computing & Artificial Intelligence (“HPC & AI”) segment. The increase in net revenue was moderated by a decline in server unit volume in the Compute segment and unfavorable currency fluctuations. The gross profit margin of 35.1% (or $10.2 billion) represents an increase of 1.7 percentage points from the prior-year period due to the impact of higher-margin networking revenue, higher AUPs in Intelligent Edge and Compute, and lower supply chain and commodity costs. The operating profit margin of 7.2%, represents an increase of 4.5 percentage points primarily due to the aforementioned gross margin improvement, goodwill impairment charges for the HPC & AI and Software businesses in the prior-year period, and lower transformation expenses in the current period. The increase in operating profit margin was moderated by higher planned investments in research and development in the current period.
+Financial Results
+The following table summarizes our consolidated GAAP financial results:
+
+------------------------------ -------------------------------------- ------ ---- ---- ------ ------ ------ ------
+ For the fiscal years ended October 31,
+ 2023 2022 Change
+ In millions, except per share amounts
+Net revenue $ 29,135 $ 28,496 2.2%
+Gross profit $ 10,239 $ 9,506 7.7%
+Gross profit margin 35.1 % 33.4 % 1.7pts
+Earnings from operations $ 2,089 $ 782 167.1%
+Operating profit margin 7.2 % 2.7 % 4.5pts
+Net earnings $ 2,025 $ 868 133.3%
+Diluted net earnings per share $ 1.54 $ 0.66 $0.88
+Cash flow from operations $ 4,428 $ 4,593 $(165)
+
+The following table summarizes our consolidated non-GAAP financial results:
+
+--------------------------------------- -------------------------------------- ------ ---- ---- ------ ------ ------ -----
+ For the fiscal years ended October 31,
+ 2023 2022 Change
+ In millions, except per share amounts
+Net revenue in constant currency $ 30,077 $ 28,496 5.5%
+Non-GAAP gross profit $ 10,273 $ 9,667 6.3%
+Non-GAAP gross profit margin 35.3 % 33.9 % 1.4pts
+Non-GAAP earnings from operations $ 3,145 $ 3,026 3.9%
+Non-GAAP operating profit margin 10.8 % 10.6 % 0.2pts
+Non-GAAP net earnings $ 2,832 $ 2,664 6.3%
+Non-GAAP diluted net earnings per share $ 2.15 $ 2.02 $0.13
+Free cash flow $ 2,238 $ 1,794 $444
+
+37
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Each non-GAAP financial measure has been reconciled to the most directly comparable GAAP financial measure herein. Please refer to the section “GAAP to non-GAAP Reconciliations” included in this MD&A for these reconciliations, a discussion of the use, usefulness and economic substance of the non-GAAP financial measures, along with a discussion of material limitations, and compensation for those limitations, associated with the use of non-GAAP financial measures.
+Annualized Revenue Run-rate (“ARR”)
+Our pivot to aaS continues its strong momentum with the addition of HPE GreenLake Cloud Services. Our mix of ARR is becoming more software-rich as we build our HPE GreenLake edge-to-cloud platform, which is improving our margin profile. On the innovation front, we announced a transformative new data storage services platform that brings our cloud operations model to wherever data lives by unifying data operations. The platform will be available through HPE GreenLake Central and includes a new data services cloud console and a suite of software subscription services that simplifies and automates global infrastructure at scale. We will continue to invest aggressively in HPE GreenLake Cloud Services to provide a true cloud experience and operating model, whether at the edge, on-premises or across multiple clouds.
+ARR represents the annualized revenue of all net HPE GreenLake edge-to-cloud platform services revenue, related financial services revenue (which includes rental income from operating leases and interest income from finance leases), and software-as-a-service, software consumption revenue, and other aaS offerings, recognized during a quarter and multiplied by four. We believe that ARR is a metric that allows management to better understand and highlight the potential future performance of our aaS business. We also believe ARR provides investors with greater transparency to our financial information and of the performance metric used in our financial and operational decision making and allows investors to see our results “through the eyes of management.” We use ARR as a performance metric. ARR should be viewed independently of net revenue and is not intended to be combined with it.
+ARR does not have any standardized definition and is therefore unlikely to be comparable to similarly titled measures presented by other companies. ARR is not a forecast and the active contracts at the end of a reporting period used in calculating ARR may or may not be extended or renewed by our customers.
+The following presents our ARR as of October 31, 2023 and 2022:
+
+-------------------------- -------------------------------------- ----- ---- -- - ---
+ For the fiscal years ended October 31,
+ 2023 2022
+ Dollars in millions
+ARR $ 1,304 $ 936
+Year-over-year growth rate 39 % 17 %
+
+The 39% year over year increase in ARR was due primarily to growth in our HPE GreenLake edge-to-cloud platform, which was due to an expanding customer installed base and expanded range of offerings on the HPE GreenLake edge-to-cloud platform. At the segment level, the growth was led by Intelligent Edge aaS and Storage aaS activity.
+Returning capital to our shareholders remains an important part of our capital allocation framework, which also consists of strategic investments. We believe our existing balance of cash and cash equivalents, along with commercial paper and other short-term liquidity arrangements, are sufficient to satisfy our working capital needs, capital asset purchases, dividends, debt repayments, and other liquidity requirements associated with our existing operations. As of October 31, 2023, our cash, cash equivalents and restricted cash were $4.6 billion, compared to $4.8 billion as of October 31, 2022, representing a decrease of $0.2 billion.
+
+38
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+Our Consolidated Financial Statements are prepared in accordance with U.S. Generally Accepted Accounting Principles (“GAAP”), which requires us to make estimates, judgments, and assumptions that affect the reported amounts of assets, liabilities, net revenue and expenses, and the disclosure of contingent liabilities. A summary of significant accounting policies and a summary of recent accounting pronouncements applicable to our Consolidated Financial Statements are included in Note 1, “Overview and Summary of Significant Accounting Policies,” to the Consolidated Financial Statements in Item 8 of Part II. An accounting policy is deemed to be critical if the nature of the estimate or assumption it incorporates is subject to material level of judgment related to matters that are highly uncertain and changes in those estimates and assumptions are reasonably likely to materially impact our Consolidated Financial Statements.
+Estimates and judgments are based on historical experience, forecasted events, and various other assumptions that we believe to be reasonable under the circumstances. Estimates and judgments may vary under different assumptions or conditions. We evaluate our estimates and judgments on an ongoing basis.
+We believe the accounting policies below are critical in the portrayal of our financial condition and results of operations and require management’s most difficult, subjective, or complex judgments.
+Revenue Recognition
+We enter into contracts with customers that may include combinations of products and services, resulting in arrangements containing multiple performance obligations for hardware and software products and/or various services.
+The majority of our revenue is derived from sales of products and services and the associated support and maintenance, and such revenue is recognized when, or as, control of promised products or services is transferred to the customer at the transaction price. Transaction price is adjusted for variable consideration which may be offered in contracts with customers, partners, and distributors and may include rebates, volume-based discounts, price protection, and other incentive programs.
+Significant judgment is applied in determining the transaction price as we may be required to estimate variable consideration at the time of revenue recognition. When determining the amount of revenue to recognize, we estimate the expected usage of these programs, applying the expected value or most likely estimate and update the estimate at each reporting period as actual utilization becomes available. Variable consideration is recognized only to the extent that it is probable that a significant reversal of revenue will not occur. We also consider the customers' right of return in determining the transaction price, where applicable.
+To recognize revenue for the products and services for which control has been transferred, we allocate the transaction price for the contract among the performance obligations on a relative standalone selling price (“SSP”) basis. For products and services sold as a bundle, the SSP is generally not directly observable and requires the Company to estimate SSP based on management judgment by considering available data such as internal margin objectives, pricing strategies, market/competitive conditions, historical profitability data, as well as other observable inputs. For certain products and services, the Company establishes SSP based on the observable price when sold separately in similar circumstances to similar customers. The Company establishes SSP ranges for its products and services and reassesses them periodically.
+Taxes on Earnings
+We calculate our current and deferred tax provisions based on estimates and assumptions that could differ from the final positions reflected in our income tax returns. We adjust our current and deferred tax provisions based on our tax returns which are generally filed in the third or fourth quarters of the subsequent fiscal year.
+We recognize deferred tax assets and liabilities for the expected tax consequences of temporary differences between the tax bases of assets and liabilities and their reported amounts using enacted tax rates in effect for the year in which we expect the differences to reverse.
+We record a valuation allowance to reduce deferred tax assets to the amount that we are more likely than not to realize. In determining the need for a valuation allowance, we consider future market growth, forecasted earnings, future sources of taxable income, the mix of earnings in the jurisdictions in which we operate, and prudent and feasible tax planning strategies. In order for us to realize our deferred tax assets, we must be able to generate sufficient taxable income, of the appropriate character, in the jurisdictions in which the deferred tax assets are located, prior to their expiration under applicable tax laws.
+
+39
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Our effective tax rate includes the impact of certain undistributed foreign earnings and basis differences for which we have not provided for U.S. federal taxes because we plan to reinvest such earnings and basis differences indefinitely outside the U.S. We will remit non-indefinitely reinvested earnings of our non-U.S. subsidiaries for which deferred U.S. state income and foreign withholding taxes have been provided where excess cash has accumulated and when we determine that it is advantageous for business operations, tax, or cash management reasons.
+We are subject to income taxes in the U.S. and approximately 85 other countries, and we are subject to routine corporate income tax audits in many of these jurisdictions. We believe that positions taken on our tax returns are fully supported, but tax authorities may challenge these positions, which may not be fully sustained on examination by the relevant tax authorities. Accordingly, our income tax provision includes amounts intended to satisfy assessments that may result from these challenges. Determining the income tax provision for these potential assessments and recording the related effects requires management judgments and estimates. The amounts ultimately paid on resolution of an audit could be materially different from the amounts previously included in our income tax provision and, therefore, could have a material impact on our Provision for taxes, Net earnings and cash flows. Our accrual for uncertain tax positions is attributable primarily to uncertainties concerning the tax treatment of our international operations, including the allocation of income among different jurisdictions, intercompany transactions and related interest, and uncertain tax positions from acquired companies. For further discussion on taxes on earnings, refer to Note 6, “Taxes on Earnings,” to the Consolidated Financial Statements in Item 8 of Part II.
+Goodwill
+We review goodwill for impairment at the reporting unit level annually on the first day of the fourth quarter, or whenever events or circumstances indicate the carrying amount of goodwill may not be recoverable. We are permitted to conduct a qualitative assessment to determine whether it is necessary to perform a quantitative goodwill impairment test.
+As of October 31, 2023, our reporting units with goodwill are consistent with the reportable segments identified in Note 2, “Segment Information” to the Consolidated Financial Statements in Item 8 of Part II, with the exception of Corporate Investments and Other which contains five reporting units: Advisory and Professional Services, Athonet, legacy Communications and Media Solutions business, OpsRamp and Software.
+When performing the goodwill impairment test, we compare the fair value of each reporting unit to its carrying amount. An impairment exists if the fair value of the reporting unit is less than its carrying amount. For two of our reporting units, Athonet and OpsRamp, we perform a qualitative assessment to determine whether it is more likely than not that the fair value is less than the carrying amount. The qualitative assessment requires management judgement in assessing factors including, but not limited to, the macroeconomic and industry environment as well as Company-specific factors. The assessments for Athonet and OpsRamp as of our test date indicated that it is not more likely than not that the fair values of these two reporting units are less than their carrying amounts.
+For all of our other reporting units, we conduct a quantitative assessment. Estimating the fair value of a reporting unit is judgmental in nature and involves the use of significant estimates and assumptions. We estimate the fair value of our reporting units using a weighting of fair values derived mostly from the income approach and, to a lesser extent, the market approach, with the exception of the Software reporting unit which uses a weighting derived solely from the market approach. Under the income approach, the fair value of a reporting unit is based on discounted cash flow analysis of management's short-term and long-term forecast of operating performance. This analysis includes significant assumptions regarding revenue growth rates, expected operating margins, and timing of expected future cash flows based on market conditions and customer acceptances. The discount rate used is based on the weighted-average cost of capital of comparable public companies adjusted for the relevant risk associated with business specific characteristics and the uncertainty related to the reporting unit's ability to execute on the projected cash flows. Under the market approach, the fair value is based on market multiples of revenue and earnings derived from comparable publicly traded companies with operating and investment characteristics similar to the reporting unit. We weight the fair value derived from the market approach commensurate with the level of comparability of these publicly traded companies to the reporting unit. When market comparables are not meaningful or not available, we estimate the fair value of a reporting unit using the income approach. In addition, we make certain judgments and assumptions in allocating shared assets and liabilities to individual reporting units to determine the carrying amount of each reporting unit.
+Our annual goodwill impairment analysis, which we performed as of the first day of the fourth quarter of fiscal 2023, did not result in any impairment charges. The excess of fair value over carrying amount for our reporting units ranged from approximately 5% to 218% of the respective carrying amounts. In order to evaluate the sensitivity of the estimated fair value of our reporting units in the goodwill impairment test, we applied a hypothetical 10% decrease to the fair value of each reporting
+
+40
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+unit. Based on the results of this hypothetical 10% decrease all of the reporting units had an excess of fair value over carrying amount, except for Compute.
+The Compute reporting unit has goodwill of $7.7 billion as of October 31, 2023, and excess of fair value over carrying value of 5% as of the annual test date. The Compute business is facing challenges reflected in the results for October 31, 2023. The Compute business is cyclical in nature. Over the last several years, digital transformation drove increased investment to modernize infrastructure. However, in the current macroeconomic and inflationary environment, customers have slowed their investments resulting in lower server demand and competitive pricing. These dynamics are further compounded by higher supply chain costs. During this cycle, the Compute business continues to focus on capturing market share while maintaining operating margin.
+
+The HPC & AI reporting unit has goodwill of $2.9 billion as of October 31, 2023, and excess of fair value over carrying value of 12% as of the annual test date. The HPC & AI business continues to face challenges related to supply chain constraints of key components and other operational challenges impacting our ability to achieve certain customer acceptance milestones required for revenue recognition and resulting cost increases associated with fulfilling contracts over longer than originally anticipated timelines. We currently believe these challenges will be successfully addressed as the supply chain constraints continue to improve.
+
+In addition, effective November 1, 2023 (fiscal 2024), there were organizational changes impacting the composition of our reporting units. These changes will require us to perform an interim impairment assessment as of that date. If the global macroeconomic or geopolitical conditions worsen, projected revenue growth rates or projected operating margins are not achieved, weighted average cost of capital increases, or if we have a significant sustained decline in our stock price, it is possible our estimates about the Compute, HPC & AI, or our other reporting units’ ability to successfully address the current challenges may change, which could result in the carrying value for our reporting units exceeding their estimated fair value resulting in potential impairment charges.
+Our fiscal 2022 annual goodwill impairment analysis resulted in impairment charges for goodwill related to the HPC & AI and Software reporting units. There was no impairment of goodwill for our other reporting units.
+The decline in the fair value of the HPC & AI reporting unit in fiscal 2022 below its carrying value resulted from changes in expected future cash flows due to the continuation of supply chain constraints, and other operational challenges as well as an increase in cost of capital. As a result, a goodwill impairment charge of $815 million was recorded in the fourth quarter of fiscal 2022.
+The decline in the fair value of the Software reporting unit in fiscal 2022 resulted primarily from a decline in market multiples. As a result, a goodwill impairment charge of $90 million was recorded in the fourth quarter of fiscal 2022.
+Contingencies
+We are subject to the possibility of losses from various contingencies. Significant judgment is necessary to estimate the probability and amount of a loss, if any, from such contingencies. An accrual is made when it is probable that a liability has been incurred or an asset has been impaired and the amount of loss can be reasonably estimated. We review these matters at least quarterly and adjust these liabilities to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and other updated information and events, pertaining to a particular case.
+Based on our experience, we believe that any damage amounts claimed in the specific litigation and contingency matters further discussed in Note 17, “Litigation and Contingencies,” to the Consolidated Financial Statements in Item 8 of Part II, are not a meaningful indicator of our potential liability. Litigation is inherently unpredictable. However, we believe we have valid defenses with respect to legal matters pending against us. Nevertheless, cash flows or results of operations could be materially affected in any particular period by the resolution of one or more of these contingencies. We believe we have recorded adequate provisions for any such matters and, as of October 31, 2023, it was not reasonably possible that a material loss had been incurred in connection with such matters in excess of the amounts recognized in our financial statements.
+
+41
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+RESULTS OF OPERATIONS
+Revenue from our international operations has historically represented, and we expect will continue to represent, a majority of our overall net revenue. As a result, our revenue growth has been impacted, and we expect will continue to be impacted, by fluctuations in foreign currency exchange rates. In order to provide a framework for assessing performance excluding the impact of foreign currency fluctuations, we present the year-over-year percentage change in revenue on a constant currency basis, which assumes no change in foreign currency exchange rates from the prior-year period and does not adjust for any repricing or demand impacts from changes in foreign currency exchange rates. This change in revenue on a constant currency basis is calculated as the quotient of (a) current year revenue converted to U.S. dollars using the prior-year period's foreign currency exchange rates divided by (b) the prior-year period revenue. This information is provided so that revenue can be viewed without the effect of fluctuations in foreign currency exchange rates, which is consistent with how management evaluates our revenue results and trends. This constant currency disclosure is provided in addition to, and not as a substitute for, the year-over-year percentage change in revenue on a GAAP basis. Other companies may calculate and define similarly labeled items differently, which may limit the usefulness of this measure for comparative purposes.
+Results of operations in dollars and as a percentage of net revenue were as follows:
+
+-------------------------------------------------- -------------------------------------- ------ ------------ ----- ------- - ------------ - ------- ----- ------------ ----- ------ - ------ - ----- -
+ For the fiscal years ended October 31,
+ 2023 2022 2021
+ Dollars % of Revenue Dollars % of Revenue Dollars % of Revenue
+ Dollars in millions
+Net revenue $ 29,135 100.0 % $ 28,496 100.0 % $ 27,784 100.0 %
+Cost of sales 18,896 64.9 % 18,990 66.6 % 18,408 66.3 %
+Gross profit 10,239 35.1 % 9,506 33.4 % 9,376 33.7 %
+Research and development 2,349 8.1 % 2,045 7.2 % 1,979 7.1 %
+Selling, general and administrative 5,160 17.7 % 4,941 17.3 % 4,929 17.7 %
+Amortization of intangible assets 288 1.0 % 293 1.0 % 354 1.3 %
+Impairment of goodwill — — % 905 3.2 % — — %
+Transformation costs 283 1.0 % 473 1.7 % 930 3.3 %
+Disaster charges 1 — % 48 0.2 % 16 0.1 %
+Acquisition, disposition and other related charges 69 0.1 % 19 0.1 % 36 0.1 %
+Earnings from operations 2,089 7.2 % 782 2.7 % 1,132 4.1 %
+Interest and other, net (156) (0.5) % (188) (0.7) % (211) (0.8) %
+Tax indemnification and other adjustments 55 0.2 % (67) (0.2) % 65 0.2 %
+Non-service net periodic benefit (cost) credit (3) — % 134 0.5 % 70 0.3 %
+Litigation judgment — — % — — % 2,351 8.5 %
+Earnings from equity interests 245 0.8 % 215 0.8 % 180 0.6 %
+Earnings before taxes 2,230 7.7 % 876 3.1 % 3,587 12.9 %
+Provision for taxes (205) (0.7) % (8) (0.1) % (160) (0.6) %
+Net earnings $ 2,025 7.0 % $ 868 3.0 % $ 3,427 12.3 %
+
+42
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Fiscal 2023 compared with fiscal 2022
+Net revenue
+In fiscal 2023, total net revenue of $29.1 billion represented an increase of $639 million, or 2.2% (increased 5.5% on a constant currency basis). U.S. net revenue increased by $944 million, or 10.0% to $10.4 billion, and net revenue from outside of the U.S. decreased by $305 million, or 1.6%, to $18.7 billion.
+The components of the weighted net revenue change by segment were as follows:
+
+------------------------------------------------- -------------------------------------- ---- -----
+ For the fiscal years ended October 31,
+ 2023 2022
+ Percentage Points
+Compute (5.0) 1.6
+HPC & AI 2.6 0.1
+Storage (0.7) (0.1)
+Intelligent Edge 5.4 1.3
+Financial Services 0.5 (0.2)
+Corporate Investments and Other — (0.4)
+Total segment 2.8 2.3
+Elimination of intersegment net revenue and other (0.6) 0.3
+Total HPE 2.2 2.6
+
+Fiscal 2023 compared with fiscal 2022
+From a segment perspective, the primary factors contributing to the change in total net revenue are summarized as follows:
+•Compute net revenue decrease of $1,414 million, or 11.0%, primarily due to a decline in server unit volume and unfavorable currency fluctuations moderated by higher AUPs
+•HPC & AI net revenue increase of $721 million, or 22.6%, primarily due to higher customer acceptances
+•Storage net revenue decrease of $188 million, or 4.1%, primarily due to unfavorable currency fluctuations
+•Intelligent Edge net revenue increase of $1,530 million, or 41.6%, primarily due to increased AUPs and volume and product mix effect
+•Financial Services net revenue increase of $141 million, or 4.2%, primarily due to higher rental revenue from higher average operating leases and higher finance income on finance leases due to an increasing interest rate environment
+•Corporate Investments and Other net revenue decrease of $5 million, or 0.4%, primarily due to unfavorable currency fluctuations
+Gross Profit
+Fiscal 2023 total gross profit margin of 35.1% represents an increase of 1.7 percentage points as compared to the respective prior year period. The increase was due to the impact of higher-margin networking revenue, higher AUPs in Intelligent Edge and Compute, and lower supply chain and commodity costs. Additionally, the increase was partially offset by lower gross profit from support services.
+Operating expenses
+Research and development (“R&D”)
+R&D expense increased by $304 million, or 14.9%, led by Intelligent Edge, HPC & AI and Storage. The increase was driven by higher employee costs due to an increase in software engineers to pursue our strategic goals, which contributed 15.6 percentage points to the change.
+
+43
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Selling, general and administrative (“SG&A”)
+SG&A expense increased by $219 million, or 4.4%, due primarily to higher travel and marketing expenses by 1.8 percentage points; increased employee costs by 1.7 percentage points; factoring fees, charitable donations, other general expenses and higher software expenditures, all of which contributed 1.9 percentage points to the change. The increase was partially offset by a combination of lower consulting costs and cost savings from our transformation programs.
+Impairment of goodwill
+Impairment of goodwill for fiscal 2022 represents a partial goodwill impairment charge of $905 million recorded in the fourth quarter of fiscal 2022, as it was determined that the fair value of the HPC & AI and Software reporting units was below the carrying value of their net assets.
+Transformation programs and costs
+Our transformation programs consist of the Cost Optimization and Prioritization Plan (launched in 2020) and the HPE Next Plan (launched in 2017).
+Transformation costs decreased by $190 million, or 40.2%, due to lower charges incurred in the current period as these plans approach completion. Refer to Note 3, “Transformation Programs” to the Consolidated Financial Statements in Item 8 of Part II for further discussion.
+ Disaster charges
+Disaster charges decreased by $47 million or 97.9% due to charges recorded in fiscal 2022 driven by the Company’s exit from its Russia and Belarus businesses.
+Interest and other, net
+Interest and other, net expense decreased by $32 million, due to favorable currency fluctuations and an increase in net interest income from higher interest rates, partially offset by an increase in impairments recorded on equity investments in fiscal 2023.
+Tax indemnification and other adjustments
+We record changes in certain pre-separation and pre-divestiture tax liabilities and tax receivables for which we remain liable on behalf of the separated or divested business, but which may not be subject to indemnification.
+We recorded Tax indemnification and other adjustments income of $55 million and expense of $67 million in fiscal 2023 and 2022, respectively.
+In fiscal 2023, Tax indemnification and other adjustments included the favorable settlement of tax indemnification liabilities for certain pre-divestiture tax liabilities. In fiscal 2022, Tax indemnification and other adjustments resulted from changes in certain pre-separation tax liabilities, for which we partially shared joint and several liability with HP Inc. and for which we were indemnified under the Termination and Mutual Release Agreement, and changes to certain pre-divestiture tax liabilities and tax receivables.
+Non-service net periodic benefit (cost) credit
+Non-service net periodic benefit (cost) credit represents the components of net periodic pension benefit costs, other than service cost, for the Hewlett Packard Enterprise defined benefit pension and post-retirement benefit plans such as interest cost, expected return on plan assets, and the amortization of prior plan amendments and actuarial gains or losses. The benefit (cost) credit also includes the impact of any plan settlements, curtailments, or special termination benefits.
+In fiscal 2023, Non-service net periodic benefit (cost) credit decreased by $137 million resulting in non-service net periodic benefit cost of $3 million in the current period, as compared to non-service net periodic benefit credit of $134 million in fiscal 2022. The change was primarily due to higher interest cost as a result of higher discount rates, partially offset by higher expected returns on assets and lower amortized actuarial losses in the current period.
+
+44
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Earnings from equity interests
+Earnings from equity interests primarily represents our 49% interest in H3C Technologies Co., Limited (“H3C”) and the amortization of our interest in a basis difference. In fiscal 2023, Earnings from equity interests increased by $30 million due primarily to lower amortization expense from basis difference in the current period.
+Provision for taxes
+For fiscal 2023 and 2022, we recorded income tax expense of $205 million and $8 million, respectively, which reflect effective tax rates of 9.2% and 0.9%, respectively. Our effective tax rate generally differs from the U.S. federal statutory rate of 21% due to favorable tax rates associated with certain earnings from our operations in lower tax jurisdictions throughout the world but may also be materially impacted by discrete tax adjustments during the fiscal year. Our tax rate for fiscal 2022 also included the effects of the non-deductible goodwill impairment. The jurisdictions with favorable tax rates that had the most significant impact on our effective tax rate in the periods presented include Puerto Rico and Singapore.
+In fiscal 2023, we recorded $131 million of net income tax benefits related to items discrete to the year. These amounts primarily included:
+•$104 million of income tax benefits related to transformation costs and acquisition, disposition and other related charges and
+•$19 million of net excess tax benefits related to stock-based compensation.
+In fiscal 2022, we recorded $454 million of net income tax benefits related to items discrete to the year. These amounts primarily included:
+•$150 million of income tax benefits related to releases of foreign valuation allowances,
+•$99 million of income tax benefits related to transformation costs and acquisition, disposition and other related charges,
+•$43 million of income tax benefits related to the settlement of U.S. tax audit matters,
+•$42 million of income tax benefits related to the release of U.S. passive foreign tax credit valuation allowance,
+•$30 million of income tax benefits related to the change in pre-separation tax liabilities, primarily those for which we shared joint and several liability with, and for which we were indemnified by, HP Inc.,
+•$27 million of income tax benefits related to the utilization of capital losses which had a full valuation allowance,
+•$12 million of income tax benefits as a result of the fiscal 2021 U.S. tax return filing primarily from the decrease in Global Intangible Low Taxed Income, and
+•$11 million of net income tax benefits related to settlements and ongoing discussions in foreign tax audit matters.
+
+Segment Information
+Hewlett Packard Enterprise's organizational structure is based on a number of factors that the Chief Operating Decision Maker (“CODM”), who is the CEO, uses to evaluate, view, and run our business operations, which include, but are not limited to, customer base and homogeneity of products and technology. The segments are based on this organizational structure and information reviewed by Hewlett Packard Enterprise's management to evaluate segment results.
+A description of the products and services for each segment, along with other pertinent information related to Segments can be found in Note 2, “Segment Information,” to the Consolidated Financial Statements in Item 8 of Part II.
+Segment Results
+The following provides an overview of our key financial metrics by segment for fiscal 2023 as compared to fiscal 2022:
+
+45
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+----------------------------------------------------- ------------------------------------------------- ------ ------- ----- -------- ------- ----- ---------------- ----- ------------------ ------------------------------ ----- ----- ----- ----- -----
+ HPEConsolidated Compute HPC & AI Storage Intelligent Edge Financial Services CorporateInvestments and Other
+ Dollars in millions, except for per share amounts
+Net revenue(1) $ 29,135 $ 11,436 $ 3,913 $ 4,415 $ 5,204 $ 3,480 $ 1,250
+Year-over-year change % 2.2% (11.0)% 22.6% (4.1)% 41.6% 4.2% (0.4)%
+Earnings (loss) from operations(2) $ 2,089 $ 1,569 $ 47 $ 429 $ 1,419 $ 317 $ (172)
+Earnings (loss) from operations as a % of net revenue 7.2% 13.7% 1.2% 9.7% 27.3% 9.1% (13.8)%
+Year-over-year change percentage points 4.5 pts (0.5) pts 0.9 pts (4.2) pts 12.4 pts (2.8) pts (6.5) pts
+
+(1)HPE consolidated net revenue excludes inter-segment net revenue.
+(2)Segment earnings from operations exclude certain unallocated corporate costs and eliminations, stock-based compensation expense, amortization of initial direct costs, amortization of intangible assets, impairment of goodwill, transformation costs, disaster charges and acquisition, disposition and other related charges.
+
+Compute
+
+---------------------------------------------- -------------------------------------- ------ ---- ---- ---- ------ -------------------- - - ------ ------ -
+ For the fiscal years ended October 31,
+ 2023 2022 2021 2023 vs 2022% Change
+ Dollars in millions
+Net revenue $ 11,436 $ 12,850 $ 12,409 (11.0) %
+Earnings from operations $ 1,569 $ 1,821 $ 1,382 (13.8) %
+Earnings from operations as a % of net revenue 13.7 % 14.2 % 11.1 %
+
+Fiscal 2023 compared with fiscal 2022
+Compute net revenue decreased by $1,414 million, or 11.0% (decreased 7.1% on a constant currency basis), primarily due to a $1,424 million, or 14.3%, decrease in product revenue. The decline in product revenue was primarily due to lower server unit volume of $1,889 million, or 18.9%, and unfavorable currency fluctuations of $399 million. The product revenue decline was moderated by an increase in AUPs of $864 million, or 8.7%, led by higher sales of server configurations with more complex component architectures in our next generation products.
+Compute earnings from operations as a percentage of net revenue decreased 0.5 percentage points primarily due to an increase in operating expenses as a percentage of net revenue partially offset by a decrease in the cost of products and services as a percentage of net revenue. The increase in operating expenses as a percentage of net revenue was primarily due to the scale of the net revenue decline. The decrease in costs of products and services as a percentage of net revenue was primarily due to higher AUPs moderated by unfavorable currency fluctuations and higher supply chain costs.
+
+HPC & AI
+
+---------------------------------------------- -------------------------------------- ----- ---- --- ---- ----- -------------------- - - ----- ----- -
+ For the fiscal years ended October 31,
+ 2023 2022 2021 2023 vs 2022% Change
+ Dollars in millions
+Net revenue $ 3,913 $ 3,192 $ 3,184 22.6 %
+Earnings from operations $ 47 $ 11 $ 231 327.3 %
+Earnings from operations as a % of net revenue 1.2 % 0.3 % 7.3 %
+
+Fiscal 2023 compared with fiscal 2022
+HPC & AI net revenue increased by $721 million, or 22.6% (increased 25.2% on a constant currency basis), primarily due to a $759 million, or 33.6%, increase in product revenue. The product revenue increase was led by the HPE Cray Supercomputing product portfolio, as operational and supply improvements addressed challenges with achieving certain
+
+46
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+customer acceptance milestones for revenue recognition. HPE Cray Supercomputing experienced a deal volume increase of $991 million, or 43.9 %, moderated by lower AUPs of $358 million, or 15.8%. The product revenue was also impacted by unfavorable currency fluctuation of $69 million. Services revenue declined by $38 million, or 4.1%, primarily due to unfavorable portfolio mix of service offerings.
+HPC & AI earnings from operations as a percentage of net revenue remained relatively flat, driven by a decrease in operating expenses as a percentage of net revenue partially offset by an increase in costs of products and services as a percentage of net revenue.
+
+Storage
+
+---------------------------------------------- -------------------------------------- ----- ---- ---- ---- ----- --------------------- - - ----- ------ -
+ For the fiscal years ended October 31,
+ 2023 2022 2021 2023 vs 2022 % Change
+ Dollars in millions
+Net revenue $ 4,415 $ 4,603 $ 4,635 (4.1) %
+Earnings from operations $ 429 $ 641 $ 716 (33.1) %
+Earnings from operations as a % of net revenue 9.7 % 13.9 % 15.4 %
+
+Fiscal 2023 compared with fiscal 2022
+Storage net revenue decreased by $188 million, or 4.1% (decreased 0.7% on a constant currency basis) primarily due to unfavorable currency fluctuations and a decrease in AUPs. Storage product revenue decreased by $187 million, or 6.9%, primarily due to unfavorable currency fluctuations of $122 million, a decrease in AUPs of $21 million, or 0.8%, led by HPE Alletra Storage portfolio and big data, a unit volume decrease of $25 million, or 0.9%, led by HPE Alletra Storage portfolio and moderated by big data, and lower revenue from Russia of $20 million. Storage services revenue remained relatively flat.
+Storage earnings from operations as a percentage of net revenue decreased 4.2 percentage points due to increases in cost of products and services as a percentage of net revenue and operating expenses as a percentage of net revenue. The increase in cost of products and services as a percentage of net revenue was due primarily to unfavorable currency fluctuations partially offset by lower supply chain costs. The increase in operating expenses as a percentage of net revenue was due primarily to incremental investments in R&D and field selling costs.
+
+Intelligent Edge
+
+---------------------------------------------- -------------------------------------- ----- ---- ---- ---- ----- --------------------- - - ----- ----- -
+ For the fiscal years ended October 31,
+ 2023 2022 2021 2023 vs 2022 % Change
+ Dollars in millions
+Net revenue $ 5,204 $ 3,674 $ 3,302 41.6 %
+Earnings from operations $ 1,419 $ 549 $ 509 158.5 %
+Earnings from operations as a % of net revenue 27.3 % 14.9 % 15.4 %
+
+Fiscal 2023 compared with fiscal 2022
+Intelligent Edge net revenue increased by $1,530 million, or 41.6% (increased 44.9% on a constant currency basis). Product revenue increased by $1,387 million, or 46.5%, led by higher AUPs of $1,257 million, or 42.2%, and a volume and product mix effect of $236 million, or 7.9%, moderated by unfavorable currency fluctuations of $106 million. The product revenue increase was led by switching and wireless local area network products, which benefited from improvements in the supply availability, and elevated order book levels at the beginning of the period. Services net revenue increased $143 million, or 20.6%, primarily led by our aaS and attached support service offerings.
+Intelligent Edge earnings from operations as a percentage of net revenue increased 12.4 percentage points primarily due to decreases in cost of products and services as a percentage of net revenue and operating expenses as a percentage of net revenue. The decrease in cost of product and services as a percentage of net revenue was primarily due to lower supply chain costs, moderating the decrease was a lower mix of higher-margin support services revenue. Operating expenses as a percentage of net revenue decreased primarily due to our cost containment measures.
+
+47
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Financial Services
+
+---------------------------------------------- -------------------------------------- ----- ---- ---- ---- ----- --------------------- - - ----- ------ -
+ For the fiscal years ended October 31,
+ 2023 2022 2021 2023 vs 2022 % Change
+ Dollars in millions
+Net revenue $ 3,480 $ 3,339 $ 3,401 4.2 %
+Earnings from operations $ 317 $ 399 $ 390 (20.6) %
+Earnings from operations as a % of net revenue 9.1 % 11.9 % 11.5 %
+
+Fiscal 2023 compared with fiscal 2022
+FS net revenue increased by $141 million, or 4.2% (increased 5.4% on a constant currency basis) due primarily to higher rental revenue from higher average operating leases and higher finance income on finance leases due to an increasing interest rate environment, partially offset by lower asset management revenue primarily from lower pre-owned asset sales and unfavorable currency fluctuations.
+FS earnings from operations as a percentage of net revenue decreased 2.8 percentage points due primarily to an increase in cost of services as a percentage of net revenue, while operating expenses as a percentage of net revenue were relatively flat. The increase to cost of services as a percentage of net revenue resulted primarily from a combination of higher borrowing costs and higher depreciation expense, partially offset by lower bad debt expense.
+Financing Volume
+
+---------------- -------------------------------------- ----- ---- ---- ----- - -----
+ For the fiscal years ended October 31,
+ 2023 2022 2021
+ In millions
+Financing volume $ 6,412 $ 6,252 $ 6,168
+
+Financing volume, which represents the amount of financing provided to customers for equipment and related software and services, including intercompany activity, increased by 2.6% in fiscal 2023 as compared to the prior-year period. The increase was primarily driven by higher financing of HPE product sales and services, partially offset by lower financing of third-party product sales and services and unfavorable currency fluctuations.
+Portfolio Assets and Ratios
+The FS business model is asset intensive and uses certain internal metrics to measure its performance against other financial services companies, including a segment balance sheet that is derived from our internal management reporting system. The accounting policies used to derive FS amounts are substantially the same as those used by the Company. However, intercompany loans and certain accounts that are reflected in the segment balances are eliminated in our Consolidated Financial Statements.
+
+48
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+The portfolio assets and ratios derived from the segment balance sheets for FS were as follows:
+
+------------------------------------------------------------ ------------------- ------ ---- ------ - ------
+ As of October 31
+ 2023 2022
+ Dollars in millions
+Financing receivables, gross $ 8,814 $ 8,359
+Net equipment under operating leases 4,100 4,103
+Capitalized profit on intercompany equipment transactions(1) 263 241
+Intercompany leases(1) 109 97
+Gross portfolio assets 13,286 12,800
+Allowance for doubtful accounts(2) 178 222
+Operating lease equipment reserve 36 44
+Total reserves 214 266
+Net portfolio assets $ 13,072 $ 12,534
+Reserve coverage 1.6 % 2.1 %
+Debt-to-equity ratio(3) 7.0x 7.0x
+
+(1)Intercompany activity is eliminated in consolidation.
+(2)Allowance for credit losses for financing receivables includes both the short- and long-term portions.
+(3)Debt benefiting FS consists of intercompany equity that is treated as debt for segment reporting purposes, intercompany debt, and borrowing- and funding-related activity associated with FS and its subsidiaries. Debt benefiting FS totaled $11.6 billion and $11.5 billion at October 31, 2023 and 2022, respectively, and was determined by applying an assumed debt-to-equity ratio, which management believes to be comparable to that of other similar financing companies. FS equity at October 31, 2023 and 2022, was $1.7 billion and $1.6 billion, respectively.
+As of October 31, 2023 and 2022, FS net cash and cash equivalents balances were $700 million and $923 million, respectively.
+Net portfolio assets as of October 31, 2023 increased 4.3% from October 31, 2022. The increase generally resulted from new financing volume exceeding portfolio runoff during the period, along with favorable currency fluctuations.
+FS bad debt expense includes charges to general reserves, specific reserves and write-offs for sales-type, direct-financing and operating leases. FS recorded net bad debt expense of $59 million, $82 million and $95 million in fiscal 2023, 2022 and 2021, respectively.
+
+Corporate Investments and Other
+
+------------------------------------------ -------------------------------------- ----- ---- ----- ---- ----- --------------------- - - ----- ----- -
+ For the fiscal years ended October 31,
+ 2023 2022 2021 2023 vs 2022 % Change
+ Dollars in millions
+Net revenue $ 1,250 $ 1,255 $ 1,356 (0.4) %
+Loss from operations $ (172) $ (92) $ (95) 87.0 %
+Loss from operations as a % of net revenue (13.8) % (7.3) % (7.0) %
+
+Fiscal 2023 compared with fiscal 2022
+Corporate Investments and Other net revenue decreased by $5 million, or 0.4% (increased 3.3% on a constant currency basis) primarily due to unfavorable currency fluctuations.
+Corporate Investments and Other loss from operations as a percentage of net revenue increased 6.5 percentage points primarily due to an increase in cost of services and operating expense as a percentage of net revenue. The increase in cost of services as a percentage of net revenue was primarily due to unfavorable currency fluctuations, higher services delivery costs and higher variable compensation expense. The increase in operating expenses as a percentage of net revenue was primarily due to higher variable compensation expense.
+
+49
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+LIQUIDITY AND CAPITAL RESOURCES
+Current Overview
+We use cash generated by operations as our primary source of liquidity. We believe that internally generated cash flows will be generally sufficient to support our operating businesses, capital expenditures, product development initiatives, acquisitions and disposal activities including legal settlements, restructuring activities, transformation costs, indemnifications, maturing debt, interest payments, and income tax payments, in addition to any future investments, share repurchases, and stockholder dividend payments. We expect to supplement this short-term liquidity, if necessary, by accessing the capital markets, issuing commercial paper, and borrowing under credit facilities made available by various domestic and foreign financial institutions. However, our access to capital markets may be constrained and our cost of borrowing may increase under certain business, market and economic conditions. We anticipate that the funds made available and cash generated from operations along with our access to capital markets will be sufficient to meet our liquidity requirements for at least the next twelve months and for the foreseeable future thereafter. Our liquidity is subject to various risks including the risks identified in the section entitled “Risk Factors” in Item 1A and market risks identified in the section entitled “Quantitative and Qualitative Disclosures about Market Risk” in Item 7A.
+Our cash balances are held in numerous locations throughout the world, with a substantial amount held outside the U.S as of October 31, 2023. We utilize a variety of planning and financing strategies in an effort to provide availability of our worldwide cash when and where it is needed.
+Amounts held outside of the U.S. are generally utilized to support our non-U.S. liquidity needs. Repatriations of amounts held outside the U.S. generally should not be taxable from a U.S. federal tax perspective, but may be subject to state income or foreign withholding tax. Where local restrictions prevent an efficient intercompany transfer of funds, our intent is to keep cash balances outside of the U.S. and to meet liquidity needs through ongoing cash flows, external borrowings, or both. We do not expect restrictions or potential taxes incurred on the repatriation of amounts held outside of the U.S. to have a material effect on our overall liquidity, financial condition or results of operations.
+In connection with the share repurchase program previously authorized by our Board of Directors, during fiscal 2023, we repurchased and settled an aggregate amount of $0.4 billion. As of October 31, 2023, we had a remaining authorization of approximately $1.0 billion for future share repurchases. For more information on our share repurchase program, refer to Note 15, “Stockholders' Equity,” to the Consolidated Financial Statements in Item 8 of Part II.
+Pursuant to the Shareholders' Agreement among our relevant subsidiaries, Unisplendour International Technology Limited (“UNIS”), and H3C dated as of May 1, 2016, as amended from time to time, and most recently on October 28, 2022, we delivered a notice to UNIS on December 30, 2022, to exercise our right to put to UNIS, for cash consideration, all of the H3C shares held by us, which represent 49% of the total issued share capital of H3C. On May 26, 2023, our relevant subsidiaries entered into a Put Share Purchase Agreement with UNIS, whereby UNIS has agreed to purchase all of the H3C shares held by us, through our subsidiaries, for a total pre-tax cash consideration of $3.5 billion. We intend to consider a range of allocation activities, in line with our practice of pursuing a balanced, returns-based approach for capital allocation decisions, including but not limited to organic and strategic investments, return of capital to shareholders, repayment and/or redemption of outstanding debt, and general corporate purposes. The disposition remains subject to obtaining required regulatory approvals and completion of certain conditions necessary for closing.
+
+50
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Liquidity
+Our cash, cash equivalents, restricted cash, total debt and available borrowing resources were as follows:
+
+------------------------------------------ ----------------- ----- ---- ------ ---- ----- ------ - -----
+ As of October 31,
+ 2023 2022 2021
+ In millions
+Cash, cash equivalents and restricted cash $ 4,581 $ 4,763 $ 4,332
+Total debt 12,355 12,465 13,448
+Available borrowing resources 6,588 6,161 6,017
+Commercial paper programs(1) 5,071 5,208 5,045
+Uncommitted lines of credit(2) $ 1,517 $ 953 $ 972
+
+(1)The maximum aggregate borrowing amount of the commercial paper programs and revolving credit facility is $5.75 billion.
+(2)The maximum aggregate capacity under the uncommitted lines of credit is $1.8 billion of which $0.3 billion was primarily utilized towards issuances of bank guarantees.
+The tables below represent the way in which management reviews cash flows:
+
+------------------------------------------------------------------------------ -------------------------------------- ----- ---- ------- ---- ----- ------- - -----
+ For the fiscal years ended October 31,
+ 2023 2022 2021
+ In millions
+Net cash provided by operating activities $ 4,428 $ 4,593 $ 5,871
+Net cash used in investing activities (3,284) (2,087) (2,796)
+Net cash used in financing activities (1,362) (1,796) (3,364)
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash 36 (279) —
+Net (decrease) increase in cash, cash equivalents and restricted cash $ (182) $ 431 $ (289)
+Free Cash Flow $ 2,238 $ 1,794 $ 1,551
+
+Operating Activities
+Net cash provided by operating activities decreased by $165 million for fiscal 2023, as compared to fiscal 2022. The decrease was primarily due to unfavorable working capital primarily resulting from higher vendor payments and an increase in financing receivables, moderated by unfavorable hedging positions, lower cash payouts for variable compensation, and favorable impacts from other assets and liabilities during the current period.
+Our working capital metrics and cash conversion impacts were as follows:
+
+--------------------------------------------------------- ----------------- ---- ----- ---- -----
+ As of October 31,
+ 2023 2022 2021
+Days of sales outstanding in accounts receivable (“DSO”) 43 47 49
+Days of supply in inventory (“DOS”) 87 88 82
+Days of purchases outstanding in accounts payable (“DPO”) (134) (149) (128)
+Cash conversion cycle (4) (14) 3
+
+The cash conversion cycle is the sum of DSO and DOS less DPO. Items which may cause the cash conversion cycle in a particular period to differ include, but are not limited to, changes in business mix, changes in payment terms (including extended payment terms to customers or from suppliers), early or late invoice payments from customers or to suppliers, the extent of receivables factoring, seasonal trends, the timing of revenue recognition and inventory purchases within the period, the impact of commodity costs and acquisition activity.
+DSO measures the average number of days our receivables are outstanding. DSO is calculated by dividing ending accounts receivable, net of allowance for doubtful accounts, by a 90-day average of net revenue. Compared to the three-month
+
+51
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+period ending October 31, 2022, the decrease in DSO by 4 days in the current period was primarily due to higher early collections and receivables factoring.
+DOS measures the average number of days from procurement to sale of our product. DOS is calculated by dividing ending inventory by a 90-day average of cost of goods sold. Compared to the corresponding three-month period ending October 31, 2022, the DOS remained relatively flat.
+DPO measures the average number of days our accounts payable balances are outstanding. DPO is calculated by dividing ending accounts payable by a 90-day average of cost of goods sold. Compared to the corresponding three-month period ending October 31, 2022, the decrease in DPO by 15 days in the current period was primarily due to lower inventory purchases during the current period.
+Investing Activities
+Net cash used in investing activities increased by $1.2 billion in fiscal 2023, as compared to fiscal 2022. The increase was primarily due to payments made in connection with business acquisitions of $0.8 billion, higher cash utilized in net financial collateral activities of $0.5 billion, lower proceeds from maturities and sales of investments, net of purchases of $0.2 billion, offset by lower investment in property, plant and equipment of $0.3 billion, as compared to the prior-year period.
+Financing Activities
+Net cash used in financing activities decreased by $0.4 billion in fiscal 2023, as compared to fiscal 2022. The decrease was primarily due to an increase in proceeds from debt, net of issuance costs of $1.4 billion, offset by higher repayments of debt and short-term borrowings of $1.0 billion, as compared to the prior-year period.
+Free Cash Flow
+Free cash flow (“FCF”) represents cash flow from operations, less net capital expenditures (investments in property, plant and equipment (“PP&E”) less proceeds from the sale of PP&E), and adjusted for the effect of exchange rate fluctuations on cash, cash equivalents, and restricted cash. FCF increased by $0.4 billion in fiscal 2023, as compared to fiscal 2022, due to a favorable currency impact on cash, cash equivalents, and restricted cash, lower cash utilized for investments in PP&E, moderated by lower cash provided from operations, as compared to the prior-year period. For more information on our FCF, refer to the section entitled “GAAP to non-GAAP Reconciliations” included in this MD&A.
+For more information on the impact from operating assets and liabilities to cash flows, see Note 7, “Balance Sheet Details,” to the Consolidated Financial Statements in Item 8 of Part II.
+Capital Resources
+Debt Levels
+
+------------------------------ ------------------- ----- ---- --- ---- ----- --- - - -----
+ As of October 31,
+ 2023 2022 2021
+ Dollars in millions
+Short-term debt $ 4,868 $ 4,612 $ 3,552
+Long-term debt $ 7,487 $ 7,853 $ 9,896
+Weighted-average interest rate 5.4 % 4.0 % 2.9 %
+
+We maintain debt levels that we establish through consideration of a number of factors, including cash flow expectations, cash requirements for operations, investment plans (including acquisitions), share repurchase activities, our cost of capital, and targeted capital structure. We maintain a revolving credit facility and two commercial paper programs, "the Parent Programs", and a wholly-owned subsidiary maintains a third program. There have been no changes to our commercial paper programs and revolving credit facility since October 31, 2022.
+In December 2020, we filed a shelf registration statement with the Securities and Exchange Commission that allows us to sell, at any time and from time to time, in one or more offerings, debt securities, preferred stock, common stock, warrants, depository shares, purchase contracts, guarantees or units consisting of any of these securities. The shelf registration statement expired in December 2023, and we expect to file a new shelf registration statement around the time of the filing of this report.
+
+52
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Significant funding and liquidity activities for fiscal 2023 were as follows:
+Debt Issuances:
+•In March 2023 and June 2023, we issued $1.3 billion and $250 million, respectively, of 5.90% Senior Notes due October 1, 2024
+•In March 2023, we issued $400 million of 6.102% Senior Notes due April 1, 2026
+•In March and April 2023, we issued $643 million of asset-backed debt securities in five tranches with a weighted average interest rate of 5.59% and final maturity date of April 20, 2028
+•In June 2023, we issued $550 million of 5.25% Senior Notes due July 1, 2028
+•In September 2023, we issued $612 million of asset-backed debt securities in six tranches with a weighted average interest rate of 6.40% and final maturity date of July 21, 2031.
+Debt Repayments:
+•In April 2023, we repaid $1.0 billion of 2.25% fixed rate Senior Notes
+•In October 2023, we repaid $1.25 billion of 4.45% Senior Notes
+•During fiscal 2023, we repaid $1.7 billion of the outstanding asset-backed debt securities.
+Our weighted-average interest rate reflects the average effective rate on our borrowings prevailing during the period and reflects the impact of interest rate swaps. For more information on our interest rate swaps, see Note 13, “Financial Instruments,” to the Consolidated Financial Statements in Item 8 of Part II.
+For more information on our available borrowing resources and the impact of operating assets and liabilities to cash flows, see Note 14, “Borrowings,” and Note 7, “Balance Sheet Details,” respectively, to the Consolidated Financial Statements in Item 8 of Part II.
+Cash Requirements and Commitments
+Long-term debt and interest payments on debt
+As of October 31, 2023, future principal payment obligations on our long-term debt including asset-backed debt securities totaled $11.7 billion of which $4.0 billion is due within one year. As of October 31, 2023, our finance lease obligations, including interest, was $48 million, of which $6 million is to be due within one year. For more information on our debt, see Note 14, “Borrowings,” to the Consolidated Financial Statements in Item 8 of Part II.
+As of October 31, 2023, future interest payments relating to our long-term debt is estimated to be approximately $3.5 billion, of which $0.6 billion is expected to be due within one year. We use interest rate swaps to mitigate the exposure of our fixed rate debt to changes in fair value resulting from changes in interest rates, or hedge the variability of cash flows in the interest payments associated with our variable-rate debt. The impact of our outstanding interest rate swaps as of October 31, 2023 was factored into the calculation of the future interest payments on long-term debt.
+Operating lease obligations
+We enter into various leases as a lessee for assets including office buildings, data centers, vehicles, and aviation. As of October 31, 2023, operating lease obligations, net of sublease rental income totaled $1.6 billion, of which $216 million is due within one year. These amounts included uncommenced operating leases as of October 31, 2023, and did not reflect imputed interest adjustments. For more information on our leases, see Note 8, “Accounting for Leases as a Lessee,” to the Consolidated Financial Statements in Item 8 of Part II.
+Unconditional purchase obligations
+Our unconditional purchase obligations are related principally to inventory purchases, software maintenance and support services and other items. Unconditional purchase obligations exclude agreements that are cancellable without penalty. As of October 31, 2023, unconditional purchase obligations totaled $1.6 billion, of which $580 million is due within one year. For more information on our unconditional purchase obligations, see Note 19, “Commitments,” to the Consolidated Financial Statements in Item 8 of Part II.
+
+53
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Retirement Benefit Plan Funding
+In fiscal 2024, we anticipate making contributions of $182 million to our non-U.S. pension plans. Our policy is to fund pension plans to meet at least the minimum contribution requirements, as established by various authorities including local government and taxing authorities. Expected contributions and payments to our pension and post-retirement benefit plans are not considered as contractual obligations because they do not represent contractual cash outflows, as they are dependent on numerous factors which may result in a wide range of outcomes. For more information on our retirement and post-retirement benefit plans, see Note 4, “Retirement and Post-Retirement Benefit Plans,” to the Consolidated Financial Statements in Item 8 of Part II.
+Restructuring Plans
+As of October 31, 2023, we expect future cash payments of approximately $360 million in connection with our approved restructuring plans, which includes $240 million expected to be paid in fiscal 2024 and $120 million expected to be paid thereafter. Payments for restructuring activities are not considered as contractual obligations, because they do not represent contractual cash outflows and there is uncertainty as to the timing of these payments. For more information on our restructuring activities, see Note 3, “Transformation Programs,” to the Consolidated Financial Statements in Item 8 of Part II.
+Uncertain Tax Positions
+As of October 31, 2023, we had approximately $224 million of recorded liabilities and related interest and penalties pertaining to uncertain tax positions. These liabilities and related interest and penalties include $9 million expected to be paid within one year. For the remaining amount, we are unable to make a reasonable estimate as to when cash settlement with the tax authorities might occur due to the uncertainties related to these tax matters. Payments of these obligations would result from settlements with taxing authorities. For more information on our uncertain tax positions, see Note 6, “Taxes on Earnings,” to the Consolidated Financial Statements in Item 8 of Part II.
+Off-Balance Sheet Arrangements
+As part of our ongoing business, we have not participated in transactions that generate material relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+We have third-party revolving short-term financing arrangements intended to facilitate the working capital requirements of certain customers. For more information on our third-party revolving short-term financing arrangements, see Note 7, “Balance Sheet Details,” to the Consolidated Financial Statements in Item 8 of Part II.
+
+54
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+GAAP TO NON-GAAP RECONCILIATIONS
+The following tables provide a reconciliation of each non-GAAP financial measure to the most directly comparable GAAP financial measure for the periods presented:
+Reconciliation of GAAP gross profit and gross profit margin to non-GAAP gross profit and gross profit margin.
+
+------------------------------------ -------------------------------------- ------ ----------- ---- ------- - ----------- - ------ ---- - ----- -
+ For the fiscal years ended October 31,
+ 2023 2022
+ Dollars % ofRevenue Dollars % ofRevenue
+ In millions
+GAAP Net revenue $ 29,135 100.0 % $ 28,496 100.0 %
+GAAP Cost of sales 18,896 64.9 % 18,990 66.6 %
+GAAP gross profit $ 10,239 35.1 % $ 9,506 33.4 %
+Non-GAAP adjustments
+Amortization of initial direct costs — — % 4 — %
+Stock-based compensation expense 47 0.2 % 46 0.1 %
+Disaster (recovery) charges (13) — % 111 0.4 %
+
+Non-GAAP gross profit $ 10,273 35.3 % $ 9,667 33.9 %
+
+Reconciliation of GAAP earnings from operations and operating profit margin to non-GAAP earnings from operations and operating profit margin.
+
+-------------------------------------------------- -------------------------------------- ----- ----------- --- ------- - ----------- - ----- --- - ---- -
+ For the fiscal years ended October 31,
+ 2023 2022
+ Dollars % ofRevenue Dollars % ofRevenue
+ In millions
+GAAP earnings from operations $ 2,089 7.2 % $ 782 2.7 %
+Non-GAAP adjustments:
+Amortization of initial direct costs — — % 4 — %
+Amortization of intangible assets 288 1.0 % 293 1.0 %
+Impairment of goodwill — — % 905 3.2 %
+Transformation costs 283 1.0 % 473 1.6 %
+
+Disaster (recovery) charges (12) — % 159 0.6 %
+Stock-based compensation expense 428 1.5 % 391 1.4 %
+Acquisition, disposition and other related charges 69 0.2 % 19 0.1 %
+Non-GAAP earnings from operations $ 3,145 10.8 % $ 3,026 10.6 %
+
+55
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Reconciliation of GAAP net earnings and diluted net earnings per share to non-GAAP net earnings and diluted net earnings per share.
+
+-------------------------------------------------- -------------------------------------- ----- ------------------------------ ------ ------- ---- ------------------------------ - ------ - ----
+ For the fiscal years ended October 31,
+ 2023 2022
+ Dollars Diluted net earnings per share Dollars Diluted net earnings per share
+
+ Dollars in millions
+GAAP net earnings $ 2,025 $ 1.54 $ 868 $ 0.66
+Non-GAAP adjustments:
+Amortization of initial direct costs — — 4 —
+Amortization of intangible assets 288 0.22 293 0.22
+Impairment of goodwill — — 905 0.69
+Transformation costs 283 0.22 473 0.36
+
+Disaster (recovery) charges (12) (0.01) 159 0.12
+Stock-based compensation expense 428 0.33 391 0.30
+Acquisition, disposition and other related charges 69 0.05 19 0.01
+Tax indemnification and other adjustments (55) (0.04) 67 0.05
+Non-service net periodic benefit cost (credit) 3 — (134) (0.10)
+
+Earnings from equity interests(1) 18 0.01 45 0.03
+Impairment of investment 40 0.03 — —
+Adjustments for taxes (255) (0.20) (426) (0.32)
+Non-GAAP net earnings $ 2,832 $ 2.15 $ 2,664 $ 2.02
+
+(1)     Represents the amortization of basis difference adjustments related to the H3C divestiture. Fiscal 2023 included the Company's portion of intangible asset impairment charges from H3C of $8 million.
+Reconciliation of net cash provided by operating activities to free cash flow.
+
+------------------------------------------------------------------------------------------- -------------------------------------- ----- ---- ------- ---- ----- ------- - -----
+ For the fiscal years ended October 31,
+ 2023 2022 2021
+ In millions
+Net cash provided by operating activities $ 4,428 $ 4,593 $ 5,871
+Litigation judgment, net of taxes paid — — (2,172)
+Net cash provided by operating activities, excluding litigation judgment, net of taxes paid 4,428 4,593 3,699
+Investment in property, plant and equipment (2,828) (3,122) (2,502)
+Proceeds from sale of property, plant and equipment 602 602 354
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash 36 (279) —
+Free cash flow $ 2,238 $ 1,794 $ 1,551
+
+56
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Use of Non-GAAP Financial Measures
+The non-GAAP financial measures presented are net revenue on a constant currency basis (including at the business segment level), non-GAAP gross profit, non-GAAP gross profit margin, non-GAAP earnings from operations, non-GAAP tax rate, non-GAAP net earnings, non-GAAP diluted net earnings per share, and FCF. These non-GAAP financial measures are not computed in accordance with, or as an alternative to, generally accepted accounting principles in the United States. The GAAP measure most directly comparable to net revenue on a constant currency basis is net revenue. The GAAP measure most directly comparable to non-GAAP gross profit is gross profit. The GAAP measure most directly comparable to non-GAAP gross profit margin is gross profit margin. The GAAP measure most directly comparable to non-GAAP earnings from operations is earnings from operations. The GAAP measure most directly comparable to non-GAAP operating profit margin (non-GAAP earnings from operations as a percentage of net revenue) is operating profit margin (earnings from operations as a percentage of net revenue). The GAAP measure most directly comparable to non-GAAP income tax rate is income tax rate. The GAAP measure most directly comparable to non-GAAP net earnings is net earnings. The GAAP measure most directly comparable to non-GAAP diluted net earnings per share is diluted net earnings per share. The GAAP measure most directly comparable to FCF is cash flow from operations.
+We believe that providing the non-GAAP measures stated above, in addition to the related GAAP measures provides greater transparency to the information used in our financial and operational decision making and allows the reader of our Condensed Consolidated Financial Statements to see our financial results “through the eyes” of management. We further believe that providing this information provides investors with a supplemental view to understand our historical and prospective
+operating performance and to evaluate the efficacy of the methodology and information used by management to evaluate and measure such performance. Disclosure of these non-GAAP financial measures also facilitates comparisons of our operating performance with the performance of other companies in the same industry that supplement their GAAP results with non-GAAP financial measures that may be calculated in a similar manner.
+Economic Substance of non-GAAP Financial Measures
+Net revenue on a constant currency basis assumes no change to the foreign exchange rate utilized in the comparable prior-year period. This measure assists investors with evaluating our past and future performance, without the impact of foreign exchange rates, as more than half of our revenue is generated outside of the U.S.
+We believe that excluding the items mentioned below from the non-GAAP financial measures provides a supplemental view to management and our investors of our consolidated financial performance and presents the financial results of the business without costs that we do not believe to be reflective of our ongoing operating results. Exclusion of these items can have a material impact on the equivalent GAAP measure and cash flows thus limiting the use of such non-GAAP financial measures as analytic tools. See “Compensation for Limitations With Use of Non-GAAP Financial Measures” section below for further information.
+Non-GAAP gross profit and non-GAAP gross profit margin are defined to exclude charges related to the amortization of initial direct costs, stock-based compensation expense, and disaster charges. See below for the reasons management excludes each item:
+•Amortization of initial direct costs represents the portion of lease origination costs incurred in prior fiscal years that do not qualify for capitalization under the new leasing standard. We exclude these costs as we elected the practical expedient under the new leasing standard. As a result, we did not adjust these historical costs to accumulated deficit. We believe that most financing companies did not elect this practical expedient and therefore we exclude these costs. This can have an impact on the equivalent GAAP measures and Financial Services segment results.
+•Stock-based compensation expense consists of equity awards granted based on the estimated fair value of those awards at grant date. Although stock-based compensation is a key incentive offered to our employees, we exclude these charges for the purpose of calculating these non-GAAP measures, primarily because they are non-cash expenses and our internal benchmarking analyses evidence that many industry participants and peers present non-GAAP financial measures excluding stock-based compensation expense.
+•Disaster (recovery) charges are primarily related to the exit of our businesses in Russia and Belarus, and include credit losses of financing and trade receivables, employee severance and abandoned assets. Disaster (recovery) charges also include direct costs or recovery of these costs related to COVID-19 as a result of Hewlett Packard Enterprise-hosted, co-hosted, or sponsored event cancellations and subsequent shift to a virtual format. While we present various items as
+
+57
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Disaster charges (recovery), we exclude Disaster charges (recovery) from these non-GAAP measures as the specific charges are non-recurring charges and not indicative of the operational performance of our business.
+Non-GAAP earnings from operations and non-GAAP operating profit margin consist of earnings from operations or earnings from operations as a percentage of net revenue excluding the items mentioned above and charges relating to the amortization of intangible assets, goodwill impairment, transformation costs and acquisition, disposition and other related charges. In addition to the items previously explained above, management excludes these items for the following reasons:
+•We incur charges relating to the amortization of intangible assets and exclude these charges for purposes of calculating these non-GAAP measures. Such charges are significantly impacted by the timing and magnitude of our acquisitions. We exclude these charges for the purpose of calculating these non-GAAP measures, primarily because they are noncash expenses and our internal benchmarking analyses evidence that many industry participants and peers present non-GAAP financial measures excluding intangible asset amortization. Although this does not directly affect our cash position, the loss in value of intangible assets over time can have a material impact on the equivalent GAAP earnings measure.
+•In the fourth quarter of fiscal 2022, Hewlett Packard Enterprise recorded an impairment charge for the goodwill associated with its HPC & AI and Software reporting units following the annual goodwill impairment review. Hewlett Packard Enterprise excludes these charges for purposes of calculating these non-GAAP measures to facilitate a more meaningful evaluation of current operating performance and comparisons to operating performance in other periods.
+•Transformation costs represent net costs related to the (i) HPE Next Plan and (ii) Cost Optimization and Prioritization Plan and include restructuring charges, program design and execution costs, costs incurred to transform our IT infrastructure, net gains from the sale of real estate and any impairment charges on real estate identified as part of the initiatives. We exclude these costs as they are discrete costs related to two specific transformation programs that were announced in 2017 and 2020, respectively, as multi-year programs necessary to transform the business and IT infrastructure following material divestiture transactions in 2017 and in response to COVID-19 and an evolving product portfolio in fiscal 2020. The primary elements of the HPE Next and the Cost Optimization and Prioritization Plan have been substantially completed by October 31, 2023. The exclusion of the transformation program costs from our non-GAAP financial measures as stated above is to provide a supplemental measure of our operating results that does not include material HPE Next Plan and Cost Optimization and Prioritization Plan costs as we do not believe such costs to be reflective of our ongoing operating cost structure. Further as our transformation costs for these plans have materially fluctuated since 2017, have been materially declining since 2021 and we do not expect to incur material transformation costs related to these programs beyond fiscal 2023, we believe non-GAAP measures excluding these costs are useful to management and investors for comparing operating performance across multiple periods.
+•We incur costs related to our acquisition, disposition and other related charges. The charges are direct expenses, such as professional fees and retention costs, most of which are treated as non-cash or non-capitalized expenses. Charges may also include expenses associated with disposal activities including legal and arbitration settlements in connection with certain dispositions. We exclude these costs as these expenses are inconsistent in amount and frequency and are significantly impacted by the timing and nature of our acquisitions and divestitures. In addition, our internal benchmarking analyses evidence that many industry participants and peers present non-GAAP financial measures excluding these charges.
+Non-GAAP net earnings and non-GAAP diluted net earnings per share consist of net earnings or diluted net earnings per share excluding those same charges mentioned above, as well as other items such as tax indemnification and other adjustments, non-service net periodic benefit cost (credit), earnings from equity interests, impairment of investment, and adjustments for taxes. The Adjustments for taxes line item includes certain income tax valuation allowances and separation taxes, the impact of tax reform, structural rate adjustment, excess tax benefit from stock-based compensation, and adjustments for additional taxes or tax benefits associated with each non-GAAP item. In addition to the items previously explained, management excludes these items for the following reasons:
+•Tax indemnification and other adjustments are primarily related to changes to certain pre-separation and pre-divestiture tax liabilities and tax receivables for which we remain liable on behalf of the separated or divested business, but which may not be subject to indemnification. We exclude these income or charges and the associated tax impact for the purpose of calculating non-GAAP measures to facilitate an evaluation of our current operating performance and comparisons to operating performance in prior periods.
+
+58
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+•Non-service net periodic benefit cost (credit) includes certain market-related factors such as (i) interest cost, (ii) expected return on plan assets, (iii) amortization of prior plan amendments, (iv) amortized actuarial gains or losses, (v) the impacts of any plan settlements/curtailments and (vi) impacts from other market-related factors associated with our defined benefit pension and post-retirement benefit plans. These market-driven retirement-related adjustments are primarily due to the change in pension plan assets and liabilities which are tied to financial market performance. We exclude these adjustments for purposes of calculating non-GAAP measures and consider them to be outside the operational performance of the business.
+•Adjustment to earnings from equity interests includes the amortization of the basis difference in relation to the H3C divestiture and the resulting equity method investment in H3C. In the first fiscal quarter of 2023, this adjustment also included our portion of intangible asset impairment charges from H3C. We believe that eliminating this amount for purposes of calculating non-GAAP measures facilitates the evaluation of our current operating performance and comparisons to operating performance in prior periods.
+•In the fourth quarter of fiscal 2023, HPE recorded an impairment charge for an equity investment resulting from a permanent reduction of the investee’s assets. This adjustment was reflected in Interest and other, net in the Consolidated Statements of Earnings. We believe eliminating impairment of investment for the purposes of calculating non-GAAP measures facilitates the evaluation of our current operating performance and comparisons to operating performance in prior periods.
+•We utilize a structural long-term projected non-GAAP income tax rate in order to provide consistency across the interim reporting periods and to eliminate the effects of items not directly related to our operating structure that can vary in size and frequency. When projecting this long-term rate, we evaluated a three-year financial projection. The projected rate assumes no incremental acquisitions in the three-year projection period and considers other factors including our expected tax structure, our tax positions in various jurisdictions and current impacts from key legislation implemented in major jurisdictions where we operate. For fiscal 2023 and 2022, we used a non-GAAP income tax rate of 14%. The non-GAAP income tax rate could be subject to change for a variety of reasons, including the rapidly evolving global tax environment, significant changes in our geographic earnings mix including due to acquisition activity, or other changes to our strategy or business operations. We will re-evaluate its long-term rate as appropriate. We believe that making these adjustments for purposes of calculating non-GAAP measures, facilitates a supplemental evaluation of our current operating performance and comparisons to past operating results.
+FCF is a non-GAAP measure that is defined as cash flow from operations, excluding the impact of proceeds received in the fourth quarter of fiscal 2021 from a one-time Itanium litigation judgment, less net capital expenditures (investments in PP&E less proceeds from the sale of PP&E), and adjusted for the effect of exchange rate fluctuations on cash, cash equivalents, and restricted cash. FCF does not represent the total increase or decrease in cash for the period. Our management and investors can use FCF for the purpose of determining the amount of cash available for investment in our businesses, repurchasing stock and other purposes as well as evaluating our historical and prospective liquidity.
+Compensation for Limitations With Use of Non-GAAP Financial Measures
+These non-GAAP financial measures have limitations as analytical tools, and these measures should not be considered in isolation or as a substitute for analysis of our results as reported under GAAP. Some of the limitations in relying on these non- GAAP financial measures are that they can have a material impact on the equivalent GAAP earnings measures and cash flows, they may be calculated differently by other companies (limiting the usefulness of those measures for comparative purposes) and may not reflect the full economic effect of the loss in value of certain assets.
+We compensate for these limitations on the use of non-GAAP financial measures by relying primarily on our GAAP results and using non-GAAP financial measures only as a supplement. We also provide a reconciliation of each non-GAAP financial measure to its most directly comparable GAAP financial measure for this fiscal year and prior periods, and we encourage investors to review those reconciliations carefully.
+
+59
+
+Table of Contents
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[refer to Note 6]:
+(6)This reflects write-offs of leasehold improvements and other fixed assets. The 2020 charges primarily reflect the discontinuation of certain equipment programs, and were not related to COVID-19. (7)Reflects the difference between the net carrying amount and the total purchase price of the redeemed notes. For additional information, see "Results of Operations-Other costs/(income)-Interest expense, net" below. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The net income and adjusted EBITDA margins represent net income or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and adjusted EBITDA help investors gain an understanding of the factors and trends affecting our ongoing cash earnings, from which capital investments are made and debt is serviced. However, EBITDA and adjusted EBITDA are not measures of financial performance or liquidity u...
+
+[Refer to Note 3]:
+NOTE 3. ACQUISITIONS Figma On September 15, 2022, we entered into a definitive agreement under which we intend to acquire Figma, Inc. ("Figma") for approximately $20 billion, comprised of approximately half cash and half stock, subject to customary purchase price adjustments. Approximately 6 million additional restricted stock units will be granted to Figma's Chief Executive Officer and employees that will vest over four years subsequent to closing. The transaction is subject to regulatory approvals and customary closing conditions, and is expected to close in 2023. We will be required to pay Figma a reverse termination fee of $1 billion if the transaction fails to receive regulatory clearance, assuming all other closing conditions have been satisfied or waived, or if it fails to close within 18 months from September 15, 2022. Figma is a privately held company that provides a web-first collaborative product design platform. Following the closing, we intend to integrate Figma into our Digital Media reportable segment for financial reporting purposes. Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.24 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. During fiscal 2022, we recorded purchase accounting adjustments that were not material based on changes to management's estimates and assumptions primarily in regards to the total purchase price and its related impact to goodwill. The table below represents the final purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. --------------------------------------- ------ ----- --------------------...
+
+[refer to Note 15]:
+Note 15 - Commitments and Contingencies Operating Lease Arrangement in Buffalo, New York We have an operating lease through the Research Foundation for the SUNY Foundation with respect to Gigafactory New York. Under the lease and a related research and development agreement, we are continuing to further develop the facility. Under this agreement, we are obligated to, among other things, meet employment targets as well as specified minimum numbers of personnel in the State of New York and in Buffalo, New York and spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York during the 10-year period beginning April 30, 2018. On an annual basis during the initial lease term, as measured on each anniversary of such date, if we fail to meet these specified investment and job creation requirements, then we would be obligated to pay a $41 million "program payment" to the SUNY Foundation for each year that we fail to meet these requirements. Furthermore, if the arrangement is terminated due to a material breach by us, then additional amounts may become payable by us. In 2021, an amendment was executed to extend our overall agreement to spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York through December 31, 2029. On February 1, 2022, we reported to the State of New York that we had met and exceeded our annual requirements for jobs and investment in Buffalo and New York State. As of December 31, 2022, we are currently in excess of such targets relating to investments and personnel in the State of New York and Buffalo and do not currently expect any issues meeting our applicable obligations in the years beyond. However, if our expectations as to the costs and timelines of our investment and operations at Buffalo or our production ramp of the Solar Roof prove incorrect, we may incur additional expenses or be required to make s...
+
+[see Note 7]:
+(7)Includes 9605, 9645, 9675, 9685, 9725, 9735, 9808, 9855, and 9868 Scranton Road and 10055, 10065, and 10075 Barnes Canyon Road. (8)Includes 9965, 9975, 9985, and 9995 Summers Ridge Road. (9)In addition to the unconsolidated real estate joint ventures listed, we hold an interest in one other insignificant unconsolidated real estate joint venture in North America. (10)Represents our ownership interest; our voting interest is limited to 50%. (11)Represents a joint venture with a distinguished retail real estate developer for a retail shopping center aggregating 84,837 RSF. (12)Represents a joint venture with a local real estate operator in which our partner manages the day-to-day activities that significantly affect the economic performance of the joint venture. 127 The following table presents key terms related to our unconsolidated real estate joint ventures' secured loans as of December 31, 2022 (dollars in thousands): ---------------------------- ------------- -------- ----------- -------------------- ---------------- --------------- ------- - --------- ------- ------ ------- ------- ------ ----- ----- Maturity Date Stated Rate Interest Rate(1) At 100% Our Share Unconsolidated Joint Venture Aggregate Commitment Debt Balance(2) 1401/1413 Research Boulevard 12/23/24 2.70% 3.33 % $ 28,500 $ 28,146 65.0% 1655 and 1725 Third Street 3/10/25 4.50% 4.57 % 600,000 599,081 10.0% 101 West Dickman Street 11/10/26 SOFR+1.95% (3) 6.38 % 26,750 11,575 57.9% 1450 Research Boulevard 12/10/26 SOFR+1.95% (3) 6.44 % 13,000 3,802 73.2% $ 668,250 $ 642,604 (1)Includes interest expense and amortization of loan fees. (2)Represents outstanding principal, net of unamortized deferred financing costs, as of December 31, 2022. (3)This loan is subject to a fixed SOFR floor rate of 0.75%. The following tables present information related to the operating results and financial positions of our consolidated and unconsolidated real estate joint ventures (in thousands): ---------------------------...
+
+[see Note 13]:
+Note 13 - Liabilities, Commitments and Contingencies 83
+
+[see Note 14]:
+Note 14 - Arrangements with Off-Balance Sheet Risk 88
+
+[see Note 14]:
+Note 14 - Arrangements with Off-Balance Sheet Risk 88
+
+[see Note 8]:
+Note 8. Property and Equipment Property and equipment, net consists of the following (in millions): --------------------------------- ------------ ------ ---- -------- - ------ December 31, 2022 2021 Land $ 1,874 $ 1,688 Servers and network assets 34,330 25,584 Buildings 27,720 22,531 Leasehold improvements 6,522 5,795 Equipment and other 5,642 4,764 Finance lease right-of-use assets 3,353 2,840 Construction in progress 25,052 14,687 Property and equipment, gross 104,493 77,889 Less: Accumulated depreciation (24,975) (20,080) Property and equipment, net $ 79,518 $ 57,809 105  Construction in progress includes costs mostly related to construction of data centers, network infrastructure, servers, and office facilities. As of December 31, 2022, construction in progress also includes $2.18 billion of servers and network assets components stored by our suppliers until required by our design manufacturers to fulfill certain purchase orders. Depreciation expense on property and equipment was $8.50 billion, $7.56 billion, and $6.39 billion for the years ended December 31, 2022, 2021, and 2020, respectively. The majority of the property and equipment depreciation expense was from servers and network assets depreciation of $5.29 billion, $4.94 billion, and $4.38 billion for the years ended December 31, 2022, 2021, and 2020, respectively. For additional information regarding changes in the estimated useful life of our servers and network assets, see Note 1 -- Summary of Significant Accounting Policies. During the year ended December 31, 2022, we recorded $1.34 billion abandonment charge and $508 million impairment loss for data center assets and leasehold improvements assets, respectively, as a result of our restructuring efforts. For additional information, see Note 3 -- Restructuring.
+
+[see Note 19]:
+Note 19. Recent Accounting Pronouncements 129 68 Report of Independent Registered Public Accounting Firm To the Board of Directors and Stockholders of Kinder Morgan, Inc. Opinions on the Financial Statements and Internal Control over Financial Reporting We have audited the accompanying consolidated balance sheets of Kinder Morgan, Inc. and its subsidiaries (the "Company") as of December 31, 2022 and 2021, and the related consolidated statements of income, of comprehensive income, of stockholders' equity and of cash flows for each of the three years in the period ended December 31, 2022, including the related notes (collectively referred to as the "consolidated financial statements"). We also have audited the Company's internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2022 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control - Integrated Framework (2013) issued by the COSO. Basis for Opinions The Company's management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in Management's Report on Internal Control Over Financial Reporting appearing under Item 9A. Our responsibility is to ex...
+
+[see Note 4]:
+(4)The year-over-year increases in rental locations and employees include the impact of the December 2022 acquisition of assets of Ahern Rentals, Inc. ("Ahern Rentals"), which is discussed in note 4 to the consolidated financial statements. (5)As discussed below (see "Industry Overview and Economic Outlook"), North American equipment rental industry revenue is based on industry estimates from the American Rental Association ("ARA"). As discussed above, we completed the acquisition of Ahern Rentals in December 2022. Estimated North American market share as of December 31, 2022 includes the standalone, pre-acquisition revenue of Ahern Rentals. Estimated North American market share as of December 31, 2021 does not include the pre-acquisition revenue of Ahern Rental because the acquisition was completed in 2022. If the pre-acquisition revenue of Ahern Rental was included for 2021, estimated North American market share as of December 31, 2021 would have been approximately 16 percent. Global Economic Conditions and COVID-19 Our operations are impacted by global economic conditions, including inflation, increased interest rates and supply chain constraints, and we take actions to modify our plans to address such economic conditions. In 2022, for example, we intentionally held back on sales of rental equipment to ensure we had sufficient capacity for our customers. In 2022, revenue from sales of rental equipment was largely flat year-over-year, however the number of units sold decreased approximately 17 percent year-over-year, as we held on to fleet to serve strong customer demand and to ensure greater fleet availability in the event industry supply chain challenges persist or worsen. While the volume of sales of rental equipment decreased year-over-year, gross margin from sales of rental equipment increased 14.2 percentage points, which primarily reflected strong pricing and improved channel mix. To date, our supply chain disruptions have been limited, but we may experienc...
+
+[see Note 3]:
+NOTE 3. ACQUISITIONS Figma On September 15, 2022, we entered into a definitive agreement under which we intend to acquire Figma, Inc. ("Figma") for approximately $20 billion, comprised of approximately half cash and half stock, subject to customary purchase price adjustments. Approximately 6 million additional restricted stock units will be granted to Figma's Chief Executive Officer and employees that will vest over four years subsequent to closing. The transaction is subject to regulatory approvals and customary closing conditions, and is expected to close in 2023. We will be required to pay Figma a reverse termination fee of $1 billion if the transaction fails to receive regulatory clearance, assuming all other closing conditions have been satisfied or waived, or if it fails to close within 18 months from September 15, 2022. Figma is a privately held company that provides a web-first collaborative product design platform. Following the closing, we intend to integrate Figma into our Digital Media reportable segment for financial reporting purposes. Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.24 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. During fiscal 2022, we recorded purchase accounting adjustments that were not material based on changes to management's estimates and assumptions primarily in regards to the total purchase price and its related impact to goodwill. The table below represents the final purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. --------------------------------------- ------ ----- --------------------...
+
+[see Note 6]:
+(6)This reflects write-offs of leasehold improvements and other fixed assets. The 2020 charges primarily reflect the discontinuation of certain equipment programs, and were not related to COVID-19. (7)Reflects the difference between the net carrying amount and the total purchase price of the redeemed notes. For additional information, see "Results of Operations-Other costs/(income)-Interest expense, net" below. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The net income and adjusted EBITDA margins represent net income or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and adjusted EBITDA help investors gain an understanding of the factors and trends affecting our ongoing cash earnings, from which capital investments are made and debt is serviced. However, EBITDA and adjusted EBITDA are not measures of financial performance or liquidity u...
+
+[see Note 7]:
+(7)Includes 9605, 9645, 9675, 9685, 9725, 9735, 9808, 9855, and 9868 Scranton Road and 10055, 10065, and 10075 Barnes Canyon Road. (8)Includes 9965, 9975, 9985, and 9995 Summers Ridge Road. (9)In addition to the unconsolidated real estate joint ventures listed, we hold an interest in one other insignificant unconsolidated real estate joint venture in North America. (10)Represents our ownership interest; our voting interest is limited to 50%. (11)Represents a joint venture with a distinguished retail real estate developer for a retail shopping center aggregating 84,837 RSF. (12)Represents a joint venture with a local real estate operator in which our partner manages the day-to-day activities that significantly affect the economic performance of the joint venture. 127 The following table presents key terms related to our unconsolidated real estate joint ventures' secured loans as of December 31, 2022 (dollars in thousands): ---------------------------- ------------- -------- ----------- -------------------- ---------------- --------------- ------- - --------- ------- ------ ------- ------- ------ ----- ----- Maturity Date Stated Rate Interest Rate(1) At 100% Our Share Unconsolidated Joint Venture Aggregate Commitment Debt Balance(2) 1401/1413 Research Boulevard 12/23/24 2.70% 3.33 % $ 28,500 $ 28,146 65.0% 1655 and 1725 Third Street 3/10/25 4.50% 4.57 % 600,000 599,081 10.0% 101 West Dickman Street 11/10/26 SOFR+1.95% (3) 6.38 % 26,750 11,575 57.9% 1450 Research Boulevard 12/10/26 SOFR+1.95% (3) 6.44 % 13,000 3,802 73.2% $ 668,250 $ 642,604 (1)Includes interest expense and amortization of loan fees. (2)Represents outstanding principal, net of unamortized deferred financing costs, as of December 31, 2022. (3)This loan is subject to a fixed SOFR floor rate of 0.75%. The following tables present information related to the operating results and financial positions of our consolidated and unconsolidated real estate joint ventures (in thousands): ---------------------------...
+
+[Part II, Item 7]:
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 17
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 29
+
+['s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Observing these dynamics, we have accelerated our investment and innovation efforts in these areas that we see as critical to our long-term strategy and growth, including in pivoting our go-to-market motion and sales function. At the same time, we continue to strengthen our core Compute and Storage-oriented offerings and expand our offerings on the HPE GreenLake edge-to-cloud platform, to enable execution of our aaS pivot to become the edge-to-cloud company for our customers and partners. Furthermore, as noted elsewhere in this report, effective November 1, 2023, we have realigned our financial reporting segments to align with these key market trends. It is uncertain whether we will successfully execute this shift in strategic focus, realize the anticipated benefits of doing so, or capture the anticipated shares of the AI, hybrid cloud, and edge markets.
+The following Executive Overview, Results of Operations and Liquidity discussions and analysis compare fiscal 2023 to fiscal 2022, unless otherwise noted. The Capital Resources and, Cash Requirements and Commitments sections present information as of October 31, 2023, unless otherwise noted.
+
+EXECUTIVE OVERVIEW
+Net revenue of $29.1 billion represented an increase of 2.2% (increased 5.5% on a constant currency basis) primarily due to higher average unit prices (“AUPs”) in the Intelligent Edge and Compute segments, and higher customer acceptances in the High Performance Computing & Artificial Intelligence (“HPC & AI”) segment. The increase in net revenue was moderated by a decline in server unit volume in the Compute segment and unfavorable currency fluctuations. The gross profit margin of 35.1% (or $10.2 billion) represents an increase of 1.7 percentage points from the prior-year period due to the impact of higher-margin networking revenue, higher AUPs in Intelligent Edge and Compute, and lower supply chain and commodity costs. The operating profit margin of 7.2%, represents an increase of 4.5 percentage points primarily due to the aforementioned gross margin improvement, goodwill impairment charges for the HPC & AI and Software businesses in the prior-year period, and lower transformation expenses in the current period. The increase in operating profit margin was moderated by higher planned investments in research and development in the current period.
+Financial Results
+The following table summarizes our consolidated GAAP financial results:
+
+------------------------------ -------------------------------------- ------ ---- ---- ------ ------ ------ ------
+ For the fiscal years ended October 31,
+ 2023 2022 Change
+ In millions, except per share amounts
+Net revenue $ 29,135 $ 28,496 2.2%
+Gross profit $ 10,239 $ 9,506 7.7%
+Gross profit margin 35.1 % 33.4 % 1.7pts
+Earnings from operations $ 2,089 $ 782 167.1%
+Operating profit margin 7.2 % 2.7 % 4.5pts
+Net earnings $ 2,025 $ 868 133.3%
+Diluted net earnings per share $ 1.54 $ 0.66 $0.88
+Cash flow from operations $ 4,428 $ 4,593 $(165)
+
+The following table summarizes our consolidated non-GAAP financial results:
+
+--------------------------------------- -------------------------------------- ------ ---- ---- ------ ------ ------ -----
+ For the fiscal years ended October 31,
+ 2023 2022 Change
+ In millions, except per share amounts
+Net revenue in constant currency $ 30,077 $ 28,496 5.5%
+Non-GAAP gross profit $ 10,273 $ 9,667 6.3%
+Non-GAAP gross profit margin 35.3 % 33.9 % 1.4pts
+Non-GAAP earnings from operations $ 3,145 $ 3,026 3.9%
+Non-GAAP operating profit margin 10.8 % 10.6 % 0.2pts
+Non-GAAP net earnings $ 2,832 $ 2,664 6.3%
+Non-GAAP diluted net earnings per share $ 2.15 $ 2.02 $0.13
+Free cash flow $ 2,238 $ 1,794 $444
+
+37
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+['s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+Our Consolidated Financial Statements are prepared in accordance with U.S. Generally Accepted Accounting Principles (“GAAP”), which requires us to make estimates, judgments, and assumptions that affect the reported amounts of assets, liabilities, net revenue and expenses, and the disclosure of contingent liabilities. A summary of significant accounting policies and a summary of recent accounting pronouncements applicable to our Consolidated Financial Statements are included in Note 1, “Overview and Summary of Significant Accounting Policies,” to the Consolidated Financial Statements in Item 8 of Part II. An accounting policy is deemed to be critical if the nature of the estimate or assumption it incorporates is subject to material level of judgment related to matters that are highly uncertain and changes in those estimates and assumptions are reasonably likely to materially impact our Consolidated Financial Statements.
+Estimates and judgments are based on historical experience, forecasted events, and various other assumptions that we believe to be reasonable under the circumstances. Estimates and judgments may vary under different assumptions or conditions. We evaluate our estimates and judgments on an ongoing basis.
+We believe the accounting policies below are critical in the portrayal of our financial condition and results of operations and require management’s most difficult, subjective, or complex judgments.
+Revenue Recognition
+We enter into contracts with customers that may include combinations of products and services, resulting in arrangements containing multiple performance obligations for hardware and software products and/or various services.
+The majority of our revenue is derived from sales of products and services and the associated support and maintenance, and such revenue is recognized when, or as, control of promised products or services is transferred to the customer at the transaction price. Transaction price is adjusted for variable consideration which may be offered in contracts with customers, partners, and distributors and may include rebates, volume-based discounts, price protection, and other incentive programs.
+Significant judgment is applied in determining the transaction price as we may be required to estimate variable consideration at the time of revenue recognition. When determining the amount of revenue to recognize, we estimate the expected usage of these programs, applying the expected value or most likely estimate and update the estimate at each reporting period as actual utilization becomes available. Variable consideration is recognized only to the extent that it is probable that a significant reversal of revenue will not occur. We also consider the customers']:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+['s management to evaluate segment results.
+A description of the products and services for each segment, along with other pertinent information related to Segments can be found in Note 2, “Segment Information,” to the Consolidated Financial Statements in Item 8 of Part II.
+Segment Results
+The following provides an overview of our key financial metrics by segment for fiscal 2023 as compared to fiscal 2022:
+
+45
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web application development, high-end printing and our Adobe Advertising Cl...
+
+[' Equity,” to the Consolidated Financial Statements in Item 8 of Part II.
+Pursuant to the Shareholders']:
+Item 8. Financial Statements and Supplementary Data 29
+
+['s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+period ending October 31, 2022, the decrease in DSO by 4 days in the current period was primarily due to higher early collections and receivables factoring.
+DOS measures the average number of days from procurement to sale of our product. DOS is calculated by dividing ending inventory by a 90-day average of cost of goods sold. Compared to the corresponding three-month period ending October 31, 2022, the DOS remained relatively flat.
+DPO measures the average number of days our accounts payable balances are outstanding. DPO is calculated by dividing ending accounts payable by a 90-day average of cost of goods sold. Compared to the corresponding three-month period ending October 31, 2022, the decrease in DPO by 15 days in the current period was primarily due to lower inventory purchases during the current period.
+Investing Activities
+Net cash used in investing activities increased by $1.2 billion in fiscal 2023, as compared to fiscal 2022. The increase was primarily due to payments made in connection with business acquisitions of $0.8 billion, higher cash utilized in net financial collateral activities of $0.5 billion, lower proceeds from maturities and sales of investments, net of purchases of $0.2 billion, offset by lower investment in property, plant and equipment of $0.3 billion, as compared to the prior-year period.
+Financing Activities
+Net cash used in financing activities decreased by $0.4 billion in fiscal 2023, as compared to fiscal 2022. The decrease was primarily due to an increase in proceeds from debt, net of issuance costs of $1.4 billion, offset by higher repayments of debt and short-term borrowings of $1.0 billion, as compared to the prior-year period.
+Free Cash Flow
+Free cash flow (“FCF”) represents cash flow from operations, less net capital expenditures (investments in property, plant and equipment (“PP&E”) less proceeds from the sale of PP&E), and adjusted for the effect of exchange rate fluctuations on cash, cash equivalents, and restricted cash. FCF increased by $0.4 billion in fiscal 2023, as compared to fiscal 2022, due to a favorable currency impact on cash, cash equivalents, and restricted cash, lower cash utilized for investments in PP&E, moderated by lower cash provided from operations, as compared to the prior-year period. For more information on our FCF, refer to the section entitled “GAAP to non-GAAP Reconciliations” included in this MD&A.
+For more information on the impact from operating assets and liabilities to cash flows, see Note 7, “Balance Sheet Details,” to the Consolidated Financial Statements in Item 8 of Part II.
+Capital Resources
+Debt Levels
+
+------------------------------ ------------------- ----- ---- --- ---- ----- --- - - -----
+ As of October 31,
+ 2023 2022 2021
+ Dollars in millions
+Short-term debt $ 4,868 $ 4,612 $ 3,552
+Long-term debt $ 7,487 $ 7,853 $ 9,896
+Weighted-average interest rate 5.4 % 4.0 % 2.9 %
+
+We maintain debt levels that we establish through consideration of a number of factors, including cash flow expectations, cash requirements for operations, investment plans (including acquisitions), share repurchase activities, our cost of capital, and targeted capital structure. We maintain a revolving credit facility and two commercial paper programs, "]:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement

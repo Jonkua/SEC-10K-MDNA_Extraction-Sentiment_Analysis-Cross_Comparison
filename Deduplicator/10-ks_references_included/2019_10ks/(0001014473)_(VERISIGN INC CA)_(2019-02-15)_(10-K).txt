@@ -1,0 +1,331 @@
+================================================================================
+CIK: 0001014473
+Company Name: VERISIGN INC/CA
+Filing Date: 2019-02-15
+Form Type: 10-K
+Extraction Date: 2025-08-31 03:16:35
+================================================================================
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+FORWARD-LOOKING STATEMENTS
+
+This Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act. These forward-looking statements involve risks and uncertainties, including, among other things, statements regarding our anticipated costs and expenses and revenue mix. Forward-looking statements include, among others, those statements including the words “expects,” “anticipates,” “intends,” “believes” and similar language. Our actual results may differ significantly from those projected in the forward-looking statements. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in the section titled “Risk Factors” in Part I, Item 1A of this Form 10-K. You are cautioned not to place undue reliance on the forward-looking statements, which speak only as of the date of this Form 10-K. We undertake no obligation to publicly release any revisions to the forward-looking statements or reflect events or circumstances after the date of this document.
+
+Overview
+We are a global provider of domain name registry services and internet infrastructure, enabling internet navigation for many of the world’s most recognized domain names. Verisign enables the security, stability, and resiliency of key internet infrastructure and services, including providing root zone maintainer services, operating two of the 13 global internet root servers, and providing registration services and authoritative resolution for the .com and .net top-level domains, which support the majority of global e-commerce. On December 5, 2018, we completed the sale of our rights, economic benefits, and obligations, in all customer contracts related to our Security Services business, which primarily consisted of DDoS Protection Services, and Managed DNS Services, to Neustar. As part of the transaction, we will continue to support the Security Services customers during the transition to Neustar over the course of 2019. Revenues from Security Services are not significant in relation to our consolidated revenues.
+As of December 31, 2018, we had approximately 153.0 million .com and .net registrations in the domain name base. The number of domain names registered is largely driven by continued growth in online advertising, e-commerce, and the number of internet users, which is partially driven by greater availability of internet access, as well as marketing activities carried out by us and our registrars. Growth in the number of domain name registrations under our management may be hindered by certain factors, including overall economic conditions, competition from ccTLDs, the introduction of new gTLDs, and ongoing changes in the internet practices and behaviors of consumers and businesses. Factors such as the evolving practices and preferences of internet users, and how they navigate the internet, as well as the motivation of domain name registrants and how they will manage their investment in domain names, can negatively impact our business and the demand for new domain name registrations and renewals.
+2018 Business Highlights and Trends
+
+- ------------------------------------------------------------------------------------------------------
+• We recorded revenues of $1,215.0 million in 2018, which represents an increase of 4% compared to 2017.
+
+- -------------------------------------------------------------------------------------------------------------------
+• We recorded operating income of $767.4 million during 2018, which represents an increase of 8% as compared to 2017.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------
+• We finished 2018 with 153.0 million .com and .net registrations in the domain name base, which represents a 4% increase from December 31, 2017.
+
+- ------------------------------------------------------------------------------------------------------------------------
+• During 2018, we processed 38.2 million new domain name registrations for .com and .net compared to 36.7 million in 2017.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The final .com and .net renewal rate for the third quarter of 2018 was 74.8% compared with 74.4% for the same quarter in 2017. Renewal rates are not fully measurable until 45 days after the end of the quarter.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We repurchased 4.4 million shares of our common stock for an aggregate cost of $600.0 million in 2018. As of December 31, 2018, there was $463.2 million remaining for future share repurchases under the share repurchase program.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Through February 7, 2019, we repurchased an additional 0.4 million shares for $66.0 million under our share repurchase program. Effective February 7, 2019, our Board authorized the repurchase of our common stock in the amount of approximately $602.9 million, in addition to the $397.1 million remaining available for repurchase under the previous share repurchase program, for a total repurchase authorization of up to $1.0 billion under the share repurchase program.
+
+26
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+• We generated cash flows from operating activities of $697.8 million in 2018, which represents a decrease of 1% as compared to 2017.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• On October 26, 2018, Verisign and the DOC entered into Amendment 35 to the Cooperative Agreement, which, among other items, permits Verisign, without further approval of the DOC, to agree with ICANN to change the .com Registry Agreement to increase wholesale prices for .com domain names up to 7 percent in each of the last four years of each six-year period of the .com Registry Agreement.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• On December 5, 2018, we completed the sale of the rights, economic benefits, and obligations, in all customer contracts related to our Security Services business. We recognized a gain of $54.8 million in 2018, based on the estimated amount of total net consideration we expect to receive from the sale. To the extent that the actual results differ from our estimates, the gain on the sale may be adjusted in 2019. For further information refer to Note 8 “Sale of Security Services Business”of our Notes to Consolidated Financial Statements in Item 15 of this Form 10-K.
+
+Critical Accounting Policies and Significant Management Estimates
+The discussion and analysis of our financial condition and results of operations are based upon our Consolidated Financial Statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities. On an ongoing basis, management evaluates those estimates. Management bases its estimates on historical experience and on various assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily available from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+ An accounting estimate is considered critical if the nature of the estimates or assumptions is material due to the levels of subjectivity and judgment involved, and the impact of changes in the estimates and assumptions would have a material effect on the consolidated financial statements. We believe the following critical accounting estimates and policies have the most significant impact on our consolidated financial statements:
+ Income taxes
+Accounting for income taxes requires significant judgments in the development of estimates used in income tax calculations. Such judgments include, but are not limited to, interpretation and application of the 2017 Tax Act, and related IRS guidance changes, especially related to accumulated and ongoing foreign earnings, the likelihood we would realize the benefits of carryforwards from net operating losses (“NOLs”), capital losses, domestic and/or foreign tax credits, the adequacy of valuation allowances, and the rates used to measure transactions with foreign subsidiaries. To the extent recovery of deferred tax assets is not likely, we record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized.
+Our operations involve dealing with uncertainties and judgments in the application of complex tax regulations in multiple jurisdictions. The final taxes payable are dependent upon many factors, including negotiations with taxing authorities in various jurisdictions and resolution of disputes arising from U.S. federal, state, and international tax audits. We only recognize or continue to only recognize tax positions that are more likely than not to be sustained upon examination. We adjust these amounts in light of changing facts and circumstances; however, due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the tax liabilities.
+
+27
+
+Results of Operations
+The following table presents information regarding our results of operations as a percentage of revenues:
+
+-------------------------- ----------------------- - ---- ----- ---- ----- -
+
+ Year Ended December 31,
+ 2018 2017 2016
+Revenues 100.0 % 100.0 % 100.0 %
+Costs and expenses:
+Cost of revenues 15.8 16.6 17.4
+Sales and marketing 5.3 7.0 7.0
+Research and development 4.8 4.5 5.2
+General and administrative 10.9 11.2 10.3
+Total costs and expenses 36.8 39.3 39.9
+Operating income 63.2 60.7 60.1
+Interest expense (9.5 ) (11.7 ) (10.1 )
+Non-operating income, net 6.3 2.4 0.9
+Income before income taxes 60.0 51.4 50.9
+Income tax expense (12.1 ) (12.2 ) (12.3 )
+Net income 47.9 % 39.2 % 38.6 %
+
+Revenues
+Revenues related to our Registry Services are primarily derived from registrations for domain names in the .com and .net domain name registries. We also derive revenues from operating domain name registries for several other TLDs and from providing back-end registry services to a number of TLD registry operators, all of which are not significant in relation to our consolidated revenues. For domain names registered with the .com and .net registries we receive a fee from registrars per annual registration that is fixed pursuant to our agreements with ICANN. Individual customers, called registrants, contract directly with registrars or their resellers, and the registrars in turn register the domain names with Verisign. Changes in revenues are driven largely by changes in the number of new domain name registrations and the renewal rate for existing registrations as well as the impact of new and prior price increases, to the extent permitted by ICANN and the DOC. New registrations and the renewal rate for existing registrations are impacted by continued growth in online advertising, e-commerce, and the number of internet users, as well as marketing activities carried out by us and our registrars. We increased the annual fee for a .net domain name registration from $7.46 to $8.20 on February 1, 2017, and from $8.20 to $9.02 on February 1, 2018. We have the contractual right to increase the fees for .net domain name registrations by up to 10% each year during the term of our agreement with ICANN, through June 30, 2023. The annual fee for a .com domain name registration has been fixed at $7.85 since 2012. On October 26, 2018, we entered into an agreement with the DOC to amend the Cooperative Agreement. The amendment extends the term of the Cooperative Agreement until November 30, 2024 and permits the price of a .com domain name to be increased without further DOC approval by up to 7% in each of the final four years of each 6-year period beginning on October 26, 2018. We offer promotional marketing programs for our registrars based upon market conditions and the business environment in which the registrars operate. All fees paid to us for .com and .net registrations are in U.S. dollars. Revenues from Security Services were not significant in relation to our total consolidated revenues.
+
+A comparison of revenues is presented below:
+
+-------- ----------------------- ---------------------- --------- ------- ---- - ------- - --------- - - - ---------
+
+ Year Ended December 31,
+ 2018 %Change 2017 %Change 2016
+ (Dollars in thousands)
+Revenues $ 1,214,969 4 % $ 1,165,095 2 % $ 1,142,167
+
+The following table compares the domain name base for .com and .net managed by our Registry Services business:
+
+---------------------------------- ------------------ ------------- ------- - ---- ------------- ------- - ---- -------------
+
+ As of December 31,
+ 2018 %Change 2017 %Change 2016
+Domain name base for .com and .net 153.0 million 4 % 146.4 million 3 % 142.2 million
+
+28
+
+Growth in the domain name base has been primarily driven by continued internet growth and marketing activities carried out by us and our registrars. However, competitive pressure from ccTLDs, the introduction of new gTLDs, ongoing changes in internet practices and behaviors of consumers and business, as well as the motivation of existing domain name registrants managing their investment in domain names, and historical global economic uncertainty, has limited the rate of growth of the domain name base in recent years and may continue to do so in 2019 and beyond.
+2018 compared to 2017: Revenues increased by $49.9 million, primarily due to a 5% increase in the domain name base for .com and increases in the .net domain name registration fees in February 2017 and 2018, partially offset by a 4% decline in the domain name base for .net.
+2017 compared to 2016: Revenues increased by $22.9 million, primarily due to a 4% increase in the domain name base for .com and increases in the .net domain name registration fees in February 2016 and 2017, partially offset by a 5% decline in the domain name base for .net. Additionally, 2016 revenue was elevated due to an increased volume of new domain name registrations primarily from our registrars in China during the second half of 2015 and the first quarter of 2016. The volume of these new registrations was inconsistent and episodic compared to prior periods, and by the end of the first quarter of 2016, reverted back to a more normalized registration pace. A significant portion of these registrations did not renew upon expiration.
+Geographic revenues
+We generate revenue in the U.S.; Europe, the Middle East and Africa (“EMEA”); China; and certain other countries, including Canada, Australia and Japan.
+ The following table presents a comparison of the Company’s geographic revenues:
+
+-------------- ----------------------- --------- ------- -- ---- - ------- - --------- --- -- - ------- - ---------
+
+ Year Ended December 31,
+ 2018 %Change 2017 %Change 2016
+ (Dollars in thousands)
+U.S $ 756,907 7 % $ 707,906 6 % $ 667,301
+EMEA 212,699 1 % 211,349 2 % 207,474
+China 106,841 — % 106,526 (16 )% 127,298
+Other 138,522 (1 )% 139,314 (1 )% 140,094
+Total revenues $ 1,214,969 4 % $ 1,165,095 2 % $ 1,142,167
+
+Revenues for our Registry Services business are attributed to the country of domicile and the respective regions in which our registrars are located, however, this may differ from the regions where the registrars operate or where registrants are located. Revenue growth for each region may be impacted by registrars reincorporating, relocating, or from acquisitions or changes in affiliations of resellers. Revenue growth for each region may also be impacted by registrars domiciled in one region, registering domain names in another region. The majority of our revenue growth in 2018 and 2017 has come from increased sales to U.S. based registrars. Revenues from China in 2016 benefited from the increased volume of registrations in the second half of 2015 and the first quarter of 2016, as discussed earlier. However, a significant portion of those registrations did not renew, resulting in the decline in revenues from China in 2017.
+We expect revenues will continue to grow in 2019, as a result of the increased volume of domain registrations in 2018, and continued growth in the domain name base in 2019, partially offset by the decrease in revenues resulting from the sale of customer contracts of our Security Services business.
+
+29
+
+Cost of revenues
+Cost of revenues consist primarily of salaries and employee benefits expenses for our personnel who manage the operational systems, depreciation expenses, operational costs associated with the delivery of our services, fees paid to ICANN, customer support and training, consulting and development services, costs of facilities and computer equipment used in these activities, telecommunications expense and allocations of indirect costs such as corporate overhead.
+A comparison of cost of revenues is presented below:
+
+---------------- ----------------------- ------- ------- ---- -- ------- - ------- -- -- - -------
+
+ Year Ended December 31,
+ 2018 %Change 2017 %Change 2016
+ (Dollars in thousands)
+Cost of revenues $ 192,134 (1 )% $ 193,326 (2 )% $ 198,242
+
+2018 compared to 2017: Cost of revenues decreased by $1.2 million, primarily due to a decrease in depreciation expenses, partially offset by an increase in telecommunications expenses. Depreciation expenses decreased by $2.5 million as a result of lower average hardware purchases over the last several years. Telecommunications expenses increased by $1.5 million as a result of an increase in network costs supporting our operations.
+
+2017 compared to 2016: Cost of revenues decreased by $4.9 million, primarily due to decreases in depreciation expenses and salary and employee benefits expenses, partially offset by an increase in telecommunications expenses. Depreciation expenses decreased by $5.3 million as a result of lower average hardware purchases over the last several years. Salary and employee benefits expenses decreased by $3.1 million, primarily due to a reduction in average headcount related to the sale of the iDefense business in April 2017, partially offset by increases in salary and employee benefits expenses for the remaining employee base. Telecommunications expenses increased by $3.2 million as a result of an increase in network costs supporting our operations.
+We expect cost of revenues as a percentage of revenues to remain consistent in 2019 as compared to 2018.
+Sales and marketing
+
+Sales and marketing expenses consist primarily of salaries, sales commissions, sales operations and other personnel-related expenses, travel and related expenses, trade shows, costs of lead generation, costs of computer and communications equipment and support services, facilities costs, consulting fees, costs of marketing programs, such as online, television, radio, print and direct mail advertising costs, and allocations of indirect costs such as corporate overhead.
+A comparison of sales and marketing expenses is presented below:
+
+------------------- ----------------------- ------ ------- ---- -- ------- - ------ - - - ------
+
+ Year Ended December 31,
+ 2018 %Change 2017 %Change 2016
+ (Dollars in thousands)
+Sales and marketing $ 64,891 (21 )% $ 81,951 2 % $ 80,250
+
+2018 compared to 2017: Sales and marketing expenses decreased by $17.1 million, primarily due to decreases in advertising and marketing expenses and salary and employee benefits expenses. Advertising and marketing expenses decreased by $12.6 million, primarily due to a decrease in marketing activities and campaigns supporting our Registry Services business. Salary and employee benefits expenses decreased by $3.0 million due to a decrease in commissions expenses and a reduction in average headcount.
+
+2017 compared to 2016: Sales and marketing expenses increased by $1.7 million, primarily due to an increase in advertising and marketing expenses, partially offset by a decrease in salary and employee benefits expenses. Advertising and marketing expenses increased by $7.0 million, primarily due to increases in costs related to certain marketing campaigns supporting our Registry Services business. Salary and employee benefits expenses decreased by $4.2 million due to a reduction in average headcount.
+
+We expect sales and marketing expenses as a percentage of revenues to decrease in 2019 as compared to 2018, primarily due to the sale of the customer contracts of our Security Services business and the reduction in headcount from employees supporting the Security Services business.
+
+30
+
+Research and development
+
+Research and development expenses consist primarily of costs related to research and development personnel, including salaries and other personnel-related expenses, consulting fees, facilities costs, computer and communications equipment, support services used in our service and technology development, and allocations of indirect costs such as corporate overhead.
+A comparison of research and development expenses is presented below:
+
+------------------------ ----------------------- ------ ------- ---- - ------- - ------ --- -- - ------
+
+ Year Ended December 31,
+ 2018 %Change 2017 %Change 2016
+ (Dollars in thousands)
+Research and development $ 57,884 11 % $ 52,342 (11 )% $ 59,100
+
+2018 compared to 2017: Research and development expenses increased by $5.5 million, primarily due to a $2.6 million decrease in capitalized labor and a $2.0 million increase in salary and employee benefits expenses, including stock-based compensation expenses. Capitalized labor and stock-based compensation decreased due to a shift in work from capital projects to security-related and other non-capital projects. Salary and employee benefits expenses, including stock-based compensation expenses increased due to annual salary increases and an increase in allocated benefit expenses.
+2017 compared to 2016: Research and development expenses decreased by $6.8 million, primarily due to a decrease in salary and employee benefits expenses as a result of a reduction in average headcount.
+
+We expect research and development expenses as a percentage of revenues to remain consistent in 2019 as compared to 2018.
+General and administrative
+
+General and administrative expenses consist primarily of salaries and other personnel-related expenses for our executive, administrative, legal, finance, information technology and human resources personnel, costs of facilities, computer and communications equipment, management information systems, support services, professional services fees, certain tax and license fees, and bad debt expense, offset by allocations of indirect costs such as facilities and shared services expenses to other cost types.
+A comparison of general and administrative expenses is presented below:
+
+-------------------------- ----------------------- ------- ------- ---- - ------- - ------- -- - - -------
+
+ Year Ended December 31,
+ 2018 %Change 2017 %Change 2016
+ (Dollars in thousands)
+General and administrative $ 132,668 2 % $ 129,754 10 % $ 118,003
+
+2018 compared to 2017: General and administrative expenses increased by $2.9 million, primarily due to an increase in salary and employee benefits expenses, partially offset by a decrease in professional services expenses and an increase in overhead expenses allocated to other cost types. Salary and employee benefits expenses increased by $6.8 million due to an increase in average headcount and bonus expenses. Professional services expenses decreased by $2.4 million primarily due to decreased external consulting costs related to various projects. Overhead expenses allocated to other cost types increased by $1.6 million due to an increase in total allocable expenses.
+2017 compared to 2016: General and administrative expenses increased by $11.8 million, primarily due to increases in salary and employee benefits expenses, including stock-based compensation expenses, professional services expenses, and a decrease in overhead expenses allocated to other cost types, partially offset by a decrease in depreciation expenses. Salary and employee benefits expenses, including stock-based compensation expenses, increased by $4.9 million due to an increase in average headcount and higher projected achievement levels on certain performance-based restricted stock units (“RSU”) grants. Professional services expenses increased by $4.1 million primarily due to higher external fees on various projects. Overhead expenses allocated to other cost types decreased by $2.5 million due to an increase in the average headcount relative other cost types. Depreciation expenses decreased by $2.8 million as a result of a decrease in capital expenditures in recent years.
+We expect general and administrative expenses as a percentage of revenues to remain consistent in 2019 as compared to 2018.
+
+31
+
+Interest expense
+See Note 4, “Debt and interest expense” of our Notes to Consolidated Financial Statements in Item 15 of this Form 10-K.
+We expect interest expense to decrease in 2019 as compared to 2018 due to the redemption of the Subordinated Convertible Debentures in the second quarter of 2018.
+Non-operating income, net
+See Note 10, “Non-operating income, net” of our Notes to Consolidated Financial Statements in Item 15 of this Form 10-K.
+We expect Non-operating income, net to decrease in 2019 as compared to 2018 due to the gain recognized in 2018 related to the sale of the customer contracts of our Security Services business.
+Income tax expense
+
+------------------ ----------------------- ------- ---- - ------- -- - - -------
+
+ Year Ended December 31,
+ 2018 2017 2016
+ (Dollars in thousands)
+Income tax expense $ 147,027 $ 141,764 $ 140,528
+Effective tax rate 20 % 24 % 24 %
+
+Our effective tax rate for 2018 was lower than the statutory federal rate of 21% primarily due to foreign income taxed at lower rates and excess tax benefits related to stock-based compensation, partially offset by state taxes and the U.S. income tax impact of our foreign earnings. Our effective tax rate was lower than the statutory rate of 35% in 2017 and 2016, primarily due to benefits from foreign income taxed at lower rates and excess tax benefits related to stock-based compensation in 2017, partially offset by state income taxes. Our effective tax rate for 2017 was also impacted by the changes arising out of the enactment of the Tax Act in December 2017.
+Due to the change in tax law in 2017, we owe U.S. federal taxes on our accumulated and future foreign earnings. Our 2017 income tax expense included a provisional $162.4 million of expense related to the U.S. tax on accumulated foreign earnings and a provisional $33.6 million deferred tax expense for foreign withholding tax on unremitted foreign earnings, both net of related, previously unrecognized foreign tax credits. These tax expenses were offset by a tax benefit of $186.8 million related to the remeasurement of our net deferred tax liabilities at the new U.S. federal corporate tax rate of 21% which became effective on January 1, 2018. For further discussion see Note 11, “Income taxes” of our Notes to Consolidated Financial Statements in Item 15 of this Form 10-K.
+As of December 31, 2018, we had deferred tax assets arising from deductible temporary differences, tax losses, and tax credits of $115.7 million, net of valuation allowances, but before the offset of certain deferred tax liabilities. With the exception of deferred tax assets related to certain state and foreign NOL carryforwards, we believe it is more likely than not that the tax effects of the deferred tax liabilities, together with future taxable income, will be sufficient to fully recover the remaining deferred tax assets. Total deferred tax assets decreased in 2018 primarily due to the usage of tax credit and NOL carryforwards to offset 2018 taxable income.
+We qualify for a tax holiday in Switzerland which does not expire, unless the required non-Swiss income and expense thresholds are no longer met, or there is a law change which eliminates the holiday. The tax holiday provides reduced rates of taxation on certain types of income and also requires certain thresholds of foreign source income. The tax holiday reduced the our income tax expense by $16.9 million in 2018, $12.3 million in 2017, and $21.3 million in 2016. This resulted in an increase in earnings per share by$0.14, $0.10, and $0.16 in 2018, 2017, and 2016, respectively.
+
+32
+
+Liquidity and Capital Resources
+
+------------------------- ------------------ --------- ---- --------- - ---------
+
+ As of December 31,
+ 2018 2017
+ (In thousands)
+Cash and cash equivalents $ 357,415 $ 465,851
+Marketable securities 912,254 1,948,900
+Total $ 1,269,669 $ 2,414,751
+
+As of December 31, 2018, our principal source of liquidity was $357.4 million of cash and cash equivalents and $912.3 million of marketable securities. The marketable securities consist primarily of debt securities issued by the U.S. Treasury meeting the criteria of our investment policy, which is focused on the preservation of our capital through investment in investment grade securities. The cash equivalents consist mainly of amounts invested in money market funds and U.S. Treasury bills purchased with original maturities of less than 90 days. As of December 31, 2018, all of our debt securities have contractual maturities of less than one year. Our cash and cash equivalents are readily accessible. For additional information on our investment portfolio, see Note 2, “Financial Instruments,” of our Notes to Consolidated Financial Statements in Item 15 of this Form 10-K.
+During the first quarter of 2018 we completed the previously disclosed repatriation of $1.15 billion of cash held by foreign subsidiaries, net of $60.7 million of foreign withholding taxes which were accrued during 2017. As of December 31, 2018, the amount of cash and cash equivalents and marketable securities held by foreign subsidiaries was $765.8 million. In the first quarter of 2019, we intend to repatriate between $245.0 million to $250.0 million of cash held by foreign subsidiaries, net of withholding taxes, based on current exchange rates.
+On February 15, 2018 we called for the redemption of all the outstanding subordinated convertible debentures, with a redemption date of May 1, 2018. Substantially all of the holders elected to convert their debentures, and upon conversion, we settled the $1.25 billion principal value in cash, and issued 26.1 million shares of common stock for the $3.17 billion excess of the conversion value over the principal amount. The excess interest deductions on the subordinated convertible debentures that were converted, were not subject to recapture, and accordingly, the $439.2 million deferred tax liability related to the debentures was reversed into Additional paid-in capital upon extinguishment of the debt.
+In 2018, we repurchased 4.4 million shares of our common stock at an average stock price of $137.86 for an aggregate cost of $600.0 million under our share repurchase program. In 2017, we repurchased 6.3 million shares of our common stock at an average stock price of $94.59 for an aggregate cost of $592.7 million. In 2016, we repurchased 7.8 million shares of our common stock at an average stock price of $81.73 for an aggregate cost of $636.5 million. On February 7, 2019, our Board authorized the repurchase of our common stock in the amount of approximately $602.9 million, in addition to the $397.1 million remaining available for repurchase under the previous share repurchase program, for a total repurchase authorization of up to $1.0 billion under the share repurchase program.
+On December 5, 2018, we completed the sale of the rights, economic benefits, and obligations, in all customer contracts related to our Security Services business. The total purchase price, subject to a cap of $120.0 million, consists of a payment of $50.0 million, which was received at closing, plus an additional contingent amount, due after the first anniversary of closing. The additional contingent amount, which cannot be negative, is based upon, among other things, the successful transition of customers to Neustar during the 12-month period following closing.
+As of December 31, 2018, we had $550.0 million principal amount outstanding of 4.75% senior unsecured notes due 2027, $500.0 million principal amount outstanding of the 5.25% senior unsecured notes due 2025 and $750.0 million principal amount outstanding of the 4.625% senior unsecured notes due 2023. As of December 31, 2018, there were no borrowings outstanding under the $200.0 million unsecured revolving credit facility that will expire in 2020.
+We believe existing cash, cash equivalents and marketable securities, and funds generated from operations, together with our ability to arrange for additional financing should be sufficient to meet our working capital, capital expenditure requirements, and to service our debt for the next 12 months. We regularly assess our cash management approach and activities in view of our current and potential future needs.
+
+33
+
+In summary, our cash flows for 2018, 2017, and 2016 were as follows:
+
+----------------------------------------------------------------------------- ----------------------- -------- ---- -------- ---- ------- -------- - - -------
+
+ Year Ended December 31,
+ 2018 2017 2016
+ (In thousands)
+Net cash provided by operating activities $ 697,767 $ 702,761 $ 693,007
+Net cash provided by (used in) investing activities 1,070,130 (405,424 ) (42,732 )
+Net cash used in financing activities (1,875,325 ) (65,073 ) (648,821 )
+Effect of exchange rate changes on cash, cash equivalents and restricted cash (958 ) 1,294 (501 )
+Net (decrease) increase in cash, cash equivalents and restricted cash $ (108,386 ) $ 233,558 $ 953
+
+Cash flows from operating activities
+
+Our largest source of operating cash flows is cash collections from our customers. Our primary uses of cash from operating activities are for personnel related expenditures, and other general operating expenses, as well as payments related to taxes, interest and facilities.
+
+2018 compared to 2017: Cash provided by operating activities decreased slightly primarily due to an increase in cash paid for income taxes, partially offset by a decrease in cash paid to suppliers and employees and increases in cash received from customers and interest income. The increase in cash paid for income taxes was primarily due to the foreign withholding taxes paid on the repatriation of $1.15 billion cash held by foreign subsidiaries to the U.S. in the first quarter of 2018, and U.S. income taxes paid on accumulated foreign earnings. Cash paid to suppliers and employees decreased due to timing of certain vendor payments and a decrease in operating expenses. Cash received from customers increased primarily due to higher .com domain name registrations and renewals, and the increase in .net domain name registration fees in February 2018. Cash received from interest income increased due to increases in interest rates on our investments in debt securities.
+
+2017 compared to 2016: Cash provided by operating activities increased primarily due to increases in cash received from customers and an increase in interest income, partially offset by increases in cash paid to suppliers and employees, cash paid for income taxes, and cash paid for interest on our debt obligations. Cash received from customers increased primarily due to higher .com domain name registrations and renewals and the increase in .net domain name registration fees in February 2017. Cash received from interest income increased due to increases in interest rates and our investments in debt securities. Cash paid to suppliers and employees increased primarily due to timing of certain vendor payments. Cash paid for income taxes increased due to higher non-U.S. income tax payments. Cash paid for interest increased due to higher contingent interest related to the Subordinated Convertible Debentures.
+
+Cash flows from investing activities
+
+The changes in cash flows from investing activities primarily relate to purchases, maturities and sales of marketable securities, and purchases of property and equipment and rights to intangible assets.
+
+2018 compared to 2017: We had net cash inflows from investing activities in 2018, compared to net cash outflows during 2017, primarily due to increases in proceeds from sales and maturities of marketable securities, net of purchases, and proceeds from the sale of businesses, and a decrease in purchases of property and equipment.
+
+2017 compared to 2016: The increase in cash used in investing activities was primarily due to an increase in purchases of marketable securities, net of sales and maturities, and an increase in purchases of property and equipment, partially offset by the payments made in 2016 for the future assignment of the rights to the .web gTLD, and the proceeds received from the sale of a business.
+
+Cash flows from financing activities
+
+The changes in cash flows from financing activities primarily relate to share repurchases, proceeds from and repayment of borrowings, and our employee stock purchase plan (“ESPP”).
+
+2018 compared to 2017: The increase in net cash used in financing activities was primarily due to the repayment of the principal amount of the subordinated convertible debentures during the second quarter of 2018, the proceeds received from the issuance of the 4.75% senior notes due 2027 in the third quarter of 2017, and an increase in share repurchases.
+
+34
+
+2017 compared to 2016: The decrease in net cash used in financing activities was primarily due to the proceeds received from the issuance of the 4.75% senior notes due 2027 in the third quarter of 2017, net of issuance costs, and a decrease in share repurchases.
+
+Impact of Inflation
+
+We do not believe that inflation has had a significant impact on our operations in any of the periods presented.
+
+Income taxes
+We expect cash paid for income taxes in 2019 to be between $95.0 million and $115.0 million.
+Property and Equipment Expenditures
+
+Our planned property and equipment expenditures for 2019 are anticipated to be between $45.0 million and $55.0 million and will primarily be focused on infrastructure upgrades and enhancements to our product portfolio.
+
+Contractual Obligations
+
+See Note 12, “Commitments and Contingencies,” Purchase Obligations and Contractual Agreements, of our Notes to Consolidated Financial Statements in Item 15 of this Form 10-K.
+
+ Off-Balance Sheet Arrangements
+
+It is not our business practice to enter into off-balance sheet arrangements. As of December 31, 2018, we did not have any significant off-balance sheet arrangements. See Note 12, “Commitments and Contingencies,” Off-Balance Sheet Arrangements, of our Notes to Consolidated Financial Statements in Item 15 of this Form 10-K for further information regarding off-balance sheet arrangements.
+
+Dilution from RSUs
+Grants of stock-based awards are key components of the compensation packages we provide to attract and retain certain of our talented employees and align their interests with the interests of existing stockholders. We recognize that these stock-based awards dilute existing stockholders and have sought to control the number granted while providing competitive compensation packages. As of December 31, 2018, there are a total of 1.2 million unvested RSUs which represent potential dilution of 1.0%. This maximum potential dilution will only result if all outstanding RSUs vest and are settled. In recent years, our stock repurchase program has more than offset the dilutive effect of RSU grants to employees; however, we may reduce the level of our stock repurchases in the future as we may use our available cash for other purposes.
+
+35
+
+-------- ----------------------------------------------------------
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[refer to Note 8]:
+Note 8. Securitization Activities Jefferies Group engages in securitization activities related to corporate loans, commercial mortgage loans, consumer loans and mortgage-backed and other asset-backed securities. In securitization transactions, Jefferies Group transfers assets to special purpose entities ("SPEs") and acts as the placement or structuring agent for the beneficial interests sold to investors by the SPE. A significant portion of the securitization transactions are the securitization of assets issued or guaranteed by U.S. government agencies. These SPEs generally meet the criteria of VIEs; however, the SPEs are generally not consolidated as Jefferies Group is not considered the primary beneficiary for these SPEs. F-47 Jefferies Group accounts for securitization transactions as sales, provided it has relinquished control over the transferred assets. Transferred assets are carried at fair value with unrealized gains and losses reflected in Principal transactions revenues in the Consolidated Statements of Operations prior to the identification and isolation for securitization. Subsequently, revenues recognized upon securitization are reflected as net underwriting revenues. Jefferies Group generally receives cash proceeds in connection with the transfer of assets to an SPE. Jefferies Group may, however, have continuing involvement with the transferred assets, which is limited to retaining one or more tranches of the securitization (primarily senior and subordinated debt securities in the form of mortgage- and other asset-backed securities or CLOs), which are included in Trading assets and are generally initially categorized as Level 2 within the fair value hierarchy. Jefferies Group applies fair value accounting to the securities. The following table presents activity related to Jefferies Group's securitizations that were accounted for as sales in which it had continuing involvement (in millions): ----------------------------------------- --------------------...
+
+[See Note 4]:
+(4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES, Neff and BlueLine acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision (benefit) for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with t...
+
+[See Note 10]:
+Note 10. Stockholders' Equity Common Stock Our certificate of incorporation authorizes the issuance of Class A common stock and Class B common stock. As of December 31, 2018, we are authorized to issue 5,000 million shares of Class A common stock and 4,141 million shares of Class B common stock, each with a par value of $0.000006 per share. Holders of our Class A common stock and Class B common stock are entitled to dividends when, as and if, declared by our board of directors, subject to the rights of the holders of all classes of stock outstanding having priority rights to dividends. As of December 31, 2018, we have not declared any dividends and our credit facility contains restrictions on our ability to pay dividends. The holder of each share of Class A common stock is entitled to one vote, while the holder of each share of Class B common stock is entitled to ten votes. Shares of our Class B common stock are convertible into an equivalent number of shares of our Class A common stock and generally convert into shares of our Class A common stock upon 78 transfer. Class A common stock and Class B common stock are referred to as common stock throughout the notes to these financial statements, unless otherwise noted. As of December 31, 2018, there were 2,385 million shares and 469 million shares of Class A common stock and Class B common stock, respectively, issued and outstanding. Share Repurchase Program Our board of directors has authorized a share repurchase program that commenced in 2017 and does not have an expiration date. During the second quarter of 2018, we completed repurchases under the original authorization to purchase up to $6.0 billion of our Class A common stock. In April 2018, the authorization for the repurchase of our Class A common stock was increased by an additional $9.0 billion, and we completed repurchases under this authorization during the fourth quarter of 2018. During the year ended December 31, 2018, we repurchased and subsequently retir...
+
+[see Note 11]:
+Note 11. Marketable Securities 87
+
+[see Note 2]:
+(2) On April 17, 2018, our Board authorized a $1.25 billion share repurchase program which commenced in July 2018. The program was temporarily paused in November 2018 following the completion of the BlueLine acquisition discussed in note 4 to the consolidated financial statements. We intend to complete the program in 2019. Equity Compensation Plans For information regarding equity compensation plans, see Item 12 of this annual report on Form 10-K. 20  ------- -----------------------
+
+[See Note 12]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, CSX and Norfolk Southern Corporation ("NS") jointly own Conrail. CSX has a 42% economic interest and 50% voting interest in the jointly-owned entity, and NS has the remainder of the economic and voting interests. CSX's investment of $943 million is included on the consolidated balance sheet as investment in Conrail. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service charges in the shared asset area. These expenses are included in materials, supplies and other on the consolidated income statements. Future payments due to Conrail under the shared asset area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2019 $ 27 2020 27 2021 27 2022 27 2023 27 Thereafter 20 Total $ 155 Also, included in equity earnings of affiliates are CSX's 42 percent share of Conrail's income and its amortization of the fair value write-up arising from the acquisition of Conrail and certain other adjustments. The amortization primarily represents the additional after-tax depreciation expense related to the write-up of Conrail's fixed assets when the original purchase price, from the 1997 acquisition of Conrail, was allocated based on fair value. This write-up of fixed assets resulted in a difference between CSX's investment in Conrail and its share of Conrail's underlying net equity, which is $343 million as of December 2018. The following table discloses amounts related to Conrail. Purchase price amortization and equity earnings are included in equity earnings of affiliates and all other ...
+
+[See Note 12]:
+NOTE 12. Related Parties and Affiliates Conrail Through a limited liability company, CSX and Norfolk Southern Corporation ("NS") jointly own Conrail. CSX has a 42% economic interest and 50% voting interest in the jointly-owned entity, and NS has the remainder of the economic and voting interests. CSX's investment of $943 million is included on the consolidated balance sheet as investment in Conrail. Pursuant to the Investments-Equity Method and Joint Venture Topic in the ASC, CSX applies the equity method of accounting to its investment in Conrail. Conrail owns rail infrastructure and operates for the joint benefit of CSX and NS. This is known as the shared asset area. Conrail charges fees for right-of-way usage, equipment rentals and transportation, switching and terminal service charges in the shared asset area. These expenses are included in materials, supplies and other on the consolidated income statements. Future payments due to Conrail under the shared asset area agreements are shown in the table below. --------------------- --------------- --- (Dollars in Millions) Conrail Shared Years Asset Agreement 2019 $ 27 2020 27 2021 27 2022 27 2023 27 Thereafter 20 Total $ 155 Also, included in equity earnings of affiliates are CSX's 42 percent share of Conrail's income and its amortization of the fair value write-up arising from the acquisition of Conrail and certain other adjustments. The amortization primarily represents the additional after-tax depreciation expense related to the write-up of Conrail's fixed assets when the original purchase price, from the 1997 acquisition of Conrail, was allocated based on fair value. This write-up of fixed assets resulted in a difference between CSX's investment in Conrail and its share of Conrail's underlying net equity, which is $343 million as of December 2018. The following table discloses amounts related to Conrail. Purchase price amortization and equity earnings are included in equity earnings of affiliates and all other ...
+
+[Part I, Item 1A]:
+Item 1A. Risk Factors 8

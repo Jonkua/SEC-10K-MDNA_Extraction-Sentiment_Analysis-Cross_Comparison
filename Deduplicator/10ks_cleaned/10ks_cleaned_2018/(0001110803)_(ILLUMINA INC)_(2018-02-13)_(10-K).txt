@@ -1,0 +1,521 @@
+================================================================================
+CIK: 0001110803
+Company Name: ILLUMINA INC
+Filing Date: 2018-02-13
+Form Type: 10-K
+Extraction Date: 2025-08-30 14:17:05
+================================================================================
+
+ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Our Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) will help readers understand our results of operations, financial condition, and cash flow. It is provided in addition to the accompanying consolidated financial statements and notes. This MD&A is organized as follows:
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+• Business Overview and Outlook. High level discussion of our operating results and significant known trends that affect our business.
+
+- ------------------------------------------------------------------------
+• Results of Operations. Detailed discussion of our revenues and expenses.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Liquidity and Capital Resources. Discussion of key aspects of our statements of cash flows, changes in our financial position, and our financial commitments.
+
+- --------------------------------------------------------------------------
+• Off-Balance Sheet Arrangements. We have no off-balance sheet arrangements.
+
+- -----------------------------------------------------------------------------------------------------
+• Contractual Obligations. Tabular disclosure of known contractual obligations as of December 31, 2017.
+
+ 25
+
+Table of Contents
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Critical Accounting Policies and Estimates. Discussion of significant changes we believe are important to understanding the assumptions and judgments underlying our financial statements.
+
+- ---------------------------------
+• Recent Accounting Pronouncements.
+
+This MD&A discussion contains forward-looking statements that involve risks and uncertainties. See “Special Note Regarding Forward-Looking Statements” preceding Item 1 of this report for additional factors relating to such statements. See “Risk Factors” in Item 1A of this report for a discussion of certain risk factors applicable to our business, financial condition, and results of operations. Operating results are not necessarily indicative of results that may occur in future periods.
+
+Business Overview and Outlook
+
+We have two reportable segments: Illumina’s core operations (Core Illumina) and one segment related to the combined activities of our consolidated VIEs, GRAIL and Helix (Consolidated VIEs). Following the GRAIL deconsolidation on February 28, 2017, our Consolidated VIEs no longer include GRAIL. For information on GRAIL and Helix, refer to note “11. Segment Information, Geographic Data, and Significant Customers” in Part II, Item 8 of this report.
+
+We are the global leader in sequencing- and array-based technologies for genetic analysis, serving customers in a wide range of markets, enabling the adoption of genomic solutions in research and clinical settings.
+
+Our customers include leading genomic research centers, academic institutions, government laboratories, and hospitals, as well as pharmaceutical, biotechnology, commercial molecular diagnostic laboratories, and consumer genomics companies.
+
+Our portfolio of integrated systems, consumables, and analysis tools is designed to accelerate and simplify genetic analysis. This portfolio addresses the range of genomic complexity, price points, and throughput, enabling customers to select the best solution for their research or clinical challenge.
+
+Consolidated financial highlights include the following:
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Net revenue increased 15% in 2017 over 2016 due to the growth in sales of our sequencing consumables and genotyping services, as well as the launch of our NovaSeq platform, partially offset by lower shipments of our HiSeq instruments. We expect our revenue to continue to increase in 2018.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Gross profit as a percentage of revenue (gross margin) decreased to 66.4% in 2017 from 69.5% in 2016. The gross margin decrease was driven by a variety of factors, including impairment of an acquired intangible asset, an increase in lower-margin array services mix, inventory reserves related to product transitions, and lower instrument margin from the NovaSeq introduction. Our gross margin in future periods will depend on several factors, including: market conditions that may impact our pricing power; sales mix changes among consumables, instruments, and services; product mix changes between established products and new products; excess and obsolete inventories; royalties; our cost structure for manufacturing operations relative to volume; and product support obligations.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Income from operations as a percentage of revenue decreased to 22.0% in 2017 compared to 24.5% in 2016 primarily due to lower gross margins. We expect research and development and selling, general and administrative expenses to continue to grow.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• In accordance with the Tax Cuts and Jobs Act that was enacted on December 22, 2017 (U.S. Tax Reform), we have recorded a provision for income taxes of $150 million. The impact of U.S. Tax Reform primarily represents our provisional estimates of the one-time transition tax on earnings of certain foreign subsidiaries that were previously tax deferred, and the impact of revaluing our U.S. deferred tax assets and liabilities based on the rates at which they are expected to be recognized in the future. For U.S. federal purposes the corporate statutory income tax rate was reduced from 35% to 21%, effective for our 2018 tax year. The provisional impact of U.S. Tax Reform is our current best estimate based on a preliminary review of the new law and is subject to revision based on our existing accounting for income taxes policy as further information is gathered, and interpretation and analysis of the tax legislation evolves. The Securities and Exchange Commission has issued rules allowing for a measurement period of up to one year after the enactment date of U.S. Tax Reform to finalize the recording of the related tax impacts. Any future changes to our provisional estimated impact of U.S. Tax Reform will be included as an adjustment to the provision for income taxes.
+
+ 26
+
+Table of Contents
+
+Our effective tax rate was 35.0% and 23.7% in 2017 and 2016, respectively. The effective tax rate in 2017 was primarily impacted by the mix of earnings in jurisdictions with lower statutory tax rates than the U.S. federal statutory tax rate, such as in Singapore and the United Kingdom, and excess tax benefits related to share-based compensation. Such impacts were offset primarily by the provisional estimated impact of U.S. Tax Reform of $150 million.
+
+Our future effective tax rate may vary from the U.S. federal statutory tax rate due to the mix of earnings in tax jurisdictions with different statutory tax rates and the other factors discussed in the risk factor “We are subject to risks related to taxation in multiple jurisdictions” in Part I Item 1A “Risk Factors” of this report. We may also be adversely impacted in the future if the tax court opinion regarding the exclusion of stock compensation from cost-sharing charges is overturned. Based on our initial interpretation and analysis of U.S. Tax Reform and projected future financial results, we anticipate that our effective tax rate will trend lower than the U.S. federal statutory tax rate in the future due to the portion of our earnings that will be subject to lower statutory tax rates. As further information is gathered, and interpretation and analysis of the tax legislation evolves, we will update our estimate of the future effective tax rate.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We ended 2017 with cash, cash equivalents, and short-term investments totaling $2.1 billion, of which approximately $1.1 billion was held by our foreign subsidiaries.
+
+This overview and outlook provides a high-level discussion of our operating results and significant known trends that affect our business. We believe that an understanding of these trends is important to understanding our financial results for the periods reported herein as well as our future financial performance. This summary is not intended to be exhaustive, nor is it intended to be a substitute for the detailed discussion and analysis provided elsewhere in this report.
+
+ 27
+
+Table of Contents
+
+Results of Operations
+
+To enhance comparability, the following table sets forth audited consolidated statement of operations data for the years ended December 31, 2017, January 1, 2017, and January 3, 2016, stated as a percentage of total revenue.
+
+------------------------------------------------------ ----- - ---- ----- ---- ----- -
+
+ 2017 2016 2015
+Revenue:
+Product revenue 83.2 % 84.7 % 85.2 %
+Service and other revenue 16.8 15.3 14.8
+Total revenue 100.0 100.0 100.0
+Cost of revenue:
+Cost of product revenue 24.7 22.3 22.1
+Cost of service and other revenue 7.6 6.4 6.0
+Amortization of acquired intangible assets 1.3 1.8 2.1
+Total cost of revenue 33.6 30.5 30.2
+Gross profit 66.4 69.5 69.8
+Operating expense:
+Research and development 19.8 21.0 18.1
+Selling, general and administrative 24.6 24.4 23.2
+Legal contingencies — (0.4 ) 0.9
+Total operating expense 44.4 45.0 42.2
+Income from operations 22.0 24.5 27.6
+Other income (expense):
+Interest income 0.7 0.4 0.2
+Interest expense (1.3 ) (1.4 ) (1.9 )
+Cost-method investment gain, net — — 0.7
+Other income (expense), net 16.5 (0.1 ) (0.3 )
+Total other income (expense), net 15.9 (1.1 ) (1.3 )
+Income before income taxes 37.9 23.4 26.3
+Provision for income taxes 13.3 5.6 5.7
+Consolidated net income 24.6 17.8 20.6
+Add: Net loss attributable to noncontrolling interests 1.8 1.5 0.2
+Net income attributable to Illumina stockholders 26.4 % 19.3 % 20.8 %
+
+Percentages may not recalculate due to rounding
+
+Our fiscal year is the 52 or 53 weeks ending the Sunday closest to December 31, with quarters of 13 or 14 weeks ending the Sunday closest to March 31, June 30, September 30, and December 31. Fiscal year 2017 and 2016 were 52 weeks, and fiscal year 2015 was 53 weeks.
+
+Revenue
+
+------------------------- ----------- ----- ----------- --- ------ ----- -------- ---- --- ------ -------- - -- ----- -- - --- - -
+
+ 2017 - 2016 2016 - 2015
+(Dollars in millions) 2017 2016 Change % Change 2015 Change % Change
+Product revenue $ 2,289 $ 2,032 $ 257 13 % $ 1,891 $ 141 7 %
+Service and other revenue 463 366 97 27 329 37 11
+Total revenue $ 2,752 $ 2,398 $ 354 15 % $ 2,220 $ 178 8 %
+
+Product revenue consists primarily of revenue from sales of consumables and instruments. Service and other revenue consists primarily of sequencing and genotyping service revenue as well as instrument service contract revenue. Total revenue primarily relates to Core Illumina for all periods presented.
+
+ 28
+
+Table of Contents
+
+2017 Compared to 2016
+
+Revenue increased $354 million, or 15%, to $2,752 million in 2017 compared to $2,398 million in 2016.
+
+Consumables revenue increased $210 million, or 14%, to $1,753 million in 2017 compared to $1,543 million in 2016, driven by growth in the sequencing instrument installed base.
+
+Instrument revenue increased $46 million, or 10%, to $515 million in 2017 compared to $469 million in 2016, primarily due to shipments of our NovaSeq instrument introduced in Q1 2017, partially offset by lower shipments of our HiSeq and HiSeq X instruments.
+
+Service and other revenue increased $97 million, or 27%, to $463 million in 2017 compared to $366 million in 2016, driven by revenue from genotyping services and extended instrument service contracts associated with a larger sequencing installed base.
+
+2016 Compared to 2015
+
+Revenue increased $178 million, or 8%, to $2,398 million in 2016 compared to $2,220 million in 2015.
+
+Consumables revenue increased $264 million, or 21%, to $1,543 million in 2016 compared to $1,279 million in the prior year, driven by growth in the sequencing instrument installed base.
+
+Instrument revenue decreased $126 million, or 21%, to $469 million in 2016 compared to $595 million in the prior year, primarily due to lower shipments of our high-throughput platforms.
+
+Service and other revenue increased $37 million, or 11%, to $366 million in 2016 compared to $329 million in the prior year, driven by revenue from genotyping services and instrument service contracts associated with a larger sequencing installed base, partially offset by our NIPT customers shifting to in-house testing on our sequencers.
+
+Gross Margin
+
+--------------------- ----------- ----- ----------- ---- ------ ----- -------- ---- --- ------ - -------- - - ----- - --- - -
+
+ 2017 - 2016 2016 - 2015
+(Dollars in millions) 2017 2016 Change % Change 2015 Change % Change
+Total gross profit $ 1,826 $ 1,666 $ 160 10 % $ 1,549 $ 117 8 %
+Total gross margin 66.4 % 69.5 % 69.8 %
+
+2017 Compared to 2016
+
+Gross margin decreased to 66.4% in 2017 compared to 69.5% in 2016. The gross margin decrease was driven by a variety of factors, including an $18 million impairment of an acquired intangible asset, an increase in lower-margin array services mix, inventory reserves related to product transitions, and lower instrument margin from the NovaSeq introduction.
+
+2016 Compared to 2015
+
+Gross margin decreased to 69.5% compared to 69.8% in the prior year. Gross margin decreased primarily due to our increased manufacturing capacity, which was partially offset by a greater mix of sequencing consumables.
+
+Operating Expense
+
+----------------------------------- ----------- ----- ----------- --- ------ ----- -------- ---- ---- ------ -------- - --- --- ---- - --- -- -
+
+ 2017 - 2016 2016 - 2015
+(Dollars in millions) 2017 2016 Change % Change 2015 Change % Change
+Research and development $ 546 $ 504 $ 42 8 % $ 401 $ 103 26 %
+Selling, general and administrative 674 584 90 15 516 68 13
+Legal contingencies — (9 ) 9 (100 ) 19 (28 ) (147 )
+Total operating expense $ 1,220 $ 1,079 $ 141 13 % $ 936 $ 143 15 %
+
+ 29
+
+Table of Contents
+
+2017 Compared to 2016
+
+Research and development (R&D) expense increased by $42 million, or 8%, in 2017 from 2016. Core Illumina R&D expense increased by $58 million, or 13%, primarily due to increased headcount as we continue to invest in the research and development of new products and enhancements to existing products. R&D expense of our Consolidated VIEs decreased by $16 million, primarily due to the deconsolidation of GRAIL in Q1 2017, partially offset by growth in Helix’s operations.
+
+Selling, general and administrative (SG&A) expense increased by $90 million, or 15% in 2017 from 2016. Core Illumina SG&A expense increased by $73 million, or 13%, primarily due to increased headcount and facilities investment to support the continued growth and scale of our operations. SG&A expense of our Consolidated VIEs increased by $17 million due to marketing expenses related to Helix’s July 2017 platform launch and increased headcount, as well as performance-based compensation related to the GRAIL Series B financing. These results were partially offset by the deconsolidation of GRAIL in Q1 2017.
+
+Legal contingencies in 2016 represent a reversal of previously recorded expense related to the settlement of patent litigation.
+
+2016 Compared to 2015
+
+Research and development expense increased by $103 million, or 26%, in 2016 from 2015. Core Illumina R&D expense increased by $60 million, or 15%, primarily due to increased headcount and outside services as we continue to invest in the development of new products as well as enhancements to existing products. Our Consolidated VIEs contributed $43 million to the increase, primarily due to $34 million incurred by GRAIL.
+
+Selling, general and administrative expense increased by $68 million, or 13%, in 2016 from 2015. Core Illumina SG&A expense increased $45 million, or 9%, primarily due to headcount and facilities investment to support the continued growth and scale of our operations, as well as outside services. GRAIL and Helix contributed $14 million and $9 million to the increase, respectively.
+
+Legal contingencies in 2016 represent a reversal of prior year expense related to the settlement of patent litigation.
+
+Other Income (Expense), Net
+
+--------------------------------- ----------- --- ----------- --- ------ --- -------- - ---- ------- ------ -------- -- --- --- - ---- - - --- --
+
+ 2017 - 2016 2016 - 2015
+(Dollars in millions) 2017 2016 Change % Change 2015 Change % Change
+Interest income $ 19 $ 10 $ 9 90 % $ 5 $ 5 100 %
+Interest expense (37 ) (33 ) (4 ) 12 (43 ) 10 (23 )
+Cost-method investment gain, net — — — — 16 (16 ) (100 )
+Other income (expense), net 455 (3 ) 458 (15,267 ) (8 ) 5 (63 )
+Total other income (expense), net $ 437 $ (26 ) $ 463 (1,781 )% $ (30 ) $ 4 (13 )%
+
+Other income (expense), net primarily relates to Core Illumina for all periods presented.
+
+2017 Compared to 2016
+
+Interest income increased in 2017 compared to 2016 as a result of higher yields on our investments and higher savings and money market balances. Interest expense consisted primarily of accretion of discount on our convertible senior notes.
+
+Other income (expense), net, increased in 2017 compared to 2016 primarily due to a $453 million gain recorded on the deconsolidation of GRAIL in Q1 2017 and an increase in net foreign exchange gains.
+
+ 30
+
+Table of Contents
+
+2016 Compared to 2015
+
+Interest income increased in 2016 compared to 2015 as a result of higher yields on our investments and higher savings and money market balances. Interest expense consisted primarily of accretion of discount on our convertible senior notes. The decrease in interest expense in 2016 compared to 2015 was due to a lower outstanding principal balance on the 2016 Notes, which matured in March 2016.
+
+Cost-method investment gain, net in 2015 consisted primarily of gains on dispositions of cost-method investments, partially offset by impairment charges on other investments.
+
+Other expense, net, in 2015 consisted primarily of $4 million in net foreign exchange losses and $4 million in loss on extinguishment of debt.
+
+Provision for Income Taxes
+
+-------------------------- ----------- ----- ----------- ---- ------ --- -------- ---- --- ------ - -------- - - --- - - --- - -- --
+
+ 2017 - 2016 2016 - 2015
+(Dollars in millions) 2017 2016 Change % Change 2015 Change % Change
+Income before income taxes $ 1,043 $ 561 $ 482 86 % $ 583 $ (22 ) (4 )%
+Provision for income taxes 365 133 232 174 125 8 6
+Consolidated net income $ 678 $ 428 $ 250 58 % $ 458 $ (30 ) (7 )%
+Effective tax rate 35.0 % 23.7 % 21.6 %
+
+2017 Compared to 2016
+
+Our effective tax rate was 35.0% and 23.7% in 2017 and 2016, respectively. The effective tax rate in 2017 was primarily impacted by the mix of earnings in jurisdictions with lower statutory tax rates than the U.S. federal statutory tax rate, such as in Singapore and the United Kingdom, and excess tax benefits related to share-based compensation. Such impacts were offset primarily by the provisional estimated impact of U.S. Tax Reform of $150 million. The impact of U.S. Tax Reform primarily represents our provisional estimates of the one-time transition tax on earnings of certain foreign subsidiaries that were previously tax deferred, and the impact of revaluing our U.S. deferred tax assets and liabilities based on the statutory rates at which they are expected to be recognized in the future, which for federal purposes was reduced from 35% to 21%. In 2016, the variance from the U.S. federal statutory tax rate of 35% was primarily attributable the mix of earnings in jurisdictions with lower statutory rates from the U.S. federal statutory rate, such as in Singapore and the United Kingdom, partially offset by the tax impact associated with the investment in our consolidated variable interest entities.
+
+2016 Compared to 2015
+
+Our effective tax rate was 23.7% and 21.6% in 2016 and 2015, respectively. In 2016, the variance from the U.S. federal statutory tax rate of 35% was primarily attributable the mix of earnings in jurisdictions with lower statutory rates from the U.S. federal statutory rate, such as in Singapore and the United Kingdom, partially offset by the tax impact associated with the investment in our consolidated variable interest entities. In 2015, the variance from the U.S. federal statutory tax rate of 35% was primarily attributable to a discrete tax benefit of $25 million, related to the exclusion of stock compensation from prior period cost-sharing charges as a result of a tax court opinion in which an unrelated third party was successful in challenging such charges. The decrease from the U.S. federal statutory tax rate also resulted from the mix of earnings in jurisdictions with lower statutory tax rates than the U.S. federal statutory tax rate, such as in Singapore and the United Kingdom.
+
+Liquidity and Capital Resources
+
+At December 31, 2017, we had approximately $1.2 billion in cash and cash equivalents, of which approximately $826 million was held by our foreign subsidiaries. Cash and cash equivalents held by our consolidated VIEs as of December 31, 2017 were $18 million. Cash and cash equivalents decreased by $490 million from last year, due to the factors described in the “Cash Flow Summary” below. Our primary source of liquidity, other than our holdings of cash, cash equivalents, and investments, has been cash flows from operations. Our ability to generate cash from operations provides us with the financial flexibility we need to meet operating, investing, and financing needs. It is our intention to indefinitely reinvest the historical earnings of our foreign subsidiaries generated prior to 2017. For the year ended December 31, 2017, we asserted that $869 million of foreign earnings generated in 2017 would not be indefinitely invested.
+
+ 31
+
+Table of Contents
+
+Historically, we have liquidated our short-term investments and/or issued debt and equity securities to finance our business needs as a supplement to cash provided by operating activities. As of December 31, 2017, we had $920 million in short-term investments. Short-term investments held by our foreign subsidiaries as of December 31, 2017 were approximately $305 million. Our short-term investments include marketable securities consisting of U.S government-sponsored entities, corporate debt securities, and U.S. Treasury securities.
+
+We anticipate that our current cash, cash equivalents, and short-term investments, together with cash provided by operating activities are sufficient to fund our near-term capital and operating needs for at least the next 12 months. Operating needs include the planned costs to operate our business, including amounts required to fund working capital and capital expenditures. Our primary short-term needs for capital, which are subject to change, include:
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• support of commercialization efforts related to our current and future products, including expansion of our direct sales force and field support resources both in the United States and abroad;
+
+- -----------------------------------------------------------------------------------------------------------------------------------------
+• acquisitions of equipment and other fixed assets for use in our current and future manufacturing and research and development facilities;
+
+- --------------------------------------------------------------
+• the continued advancement of research and development efforts;
+
+- -------------------------------------------------
+• potential strategic acquisitions and investments;
+
+- -------------------------------------------------------------------------
+• potential early repayment of debt obligations as a result of conversions;
+
+- ---------------------------------------------------------------------------------------------------------
+• the expansion needs of our facilities, including costs of leasing and building out additional facilities;
+
+- ------------------------------------------------
+• repurchases of our outstanding common stock; and
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• the one-time transition tax on earnings of certain foreign subsidiaries that were previously tax deferred in accordance with the Tax Cuts and Jobs Act (U.S. Tax Reform) that was enacted on December 22, 2017.
+
+Our convertible senior notes due 2019 and 2021 were not convertible as of December 31, 2017.
+
+ On May 4, 2017, our Board of Directors authorized a share repurchase program to repurchase $250 million of outstanding common stock. The repurchases may be completed under a 10b5-1 plan or at management’s discretion. Authorizations to repurchase $100 million of our common stock remained available as of December 31, 2017.
+
+Certain noncontrolling Helix investors may require Illumina to redeem all noncontrolling interests in cash at the then approximate fair market value. Such redemption right is exercisable at the option of certain noncontrolling interest holders after January 1, 2021, provided that a bona fide pursuit of the sale of Helix has occurred and an initial public offering of Helix has not been completed. The fair value of the redeemable noncontrolling interests related to Helix as of December 31, 2017, was $220 million.
+
+We have $83 million remaining in our capital commitment to a venture capital investment fund as of December 31, 2017.
+
+We expect that our revenue and the resulting operating income, as well as the status of each of our new product development programs, will significantly impact our cash management decisions.
+
+Our future capital requirements and the adequacy of our available funds will depend on many factors, including:
+
+- -----------------------------------------------------------------------------------------------------------------------------
+• our ability to successfully commercialize and further develop our technologies and create innovative products in our markets;
+
+- -------------------------------------------------------------------------------------------------
+• scientific progress in our research and development programs and the magnitude of those programs;
+
+- ----------------------------------------------------
+• competing technological and market developments; and
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+• the need to enter into collaborations with other companies or acquire other companies or technologies to enhance or complement our product and service offerings.
+
+ 32
+
+Table of Contents
+
+Cash Flow Summary
+
+------------------------------------------------------------ ---- --- ---- ---- ---- --- ---- - - ---
+
+(In millions) 2017 2016 2015
+Net cash provided by operating activities $ 875 $ 779 $ 786
+Net cash used in investing activities (214 ) (515 ) (107 )
+Net cash used in financing activities (176 ) (296 ) (545 )
+Effect of exchange rate changes on cash and cash equivalents 5 (2 ) (1 )
+Net increase (decrease) in cash and cash equivalents $ 490 $ (34 ) $ 133
+
+Operating Activities
+
+Net cash provided by operating activities in 2017 primarily consisted of net income of $678 million and net changes in net operating assets and liabilities of $195 million. We also had $2 million in net non-cash adjustments to net income, consisting of a gain on deconsolidation of GRAIL of $453 million, depreciation and amortization expenses of $156 million, share-based compensation of $164 million, deferred income taxes of $81 million, impairment of intangible assets of $23 million, and accretion of debt discount of $30 million. Cash flow impact from changes in net operating assets and liabilities were primarily driven by an increase in other long-term liabilities of $160 million related primarily to estimated taxes associated with the U.S. tax reform as well as increases in accrued liabilities, inventory, and accounts receivable.
+
+Net cash provided by operating activities in 2016 consisted of net income of $428 million plus net adjustments of $396 million partially offset by net changes in net operating assets and liabilities of $45 million. The primary non-cash expenses added back to net income included depreciation and amortization expenses of $141 million, share-based compensation of $129 million, deferred income taxes of $94 million, and accretion of debt discount of $30 million. These non-cash add-backs were partially offset by a gain on litigation settlement of $11 million. Cash flow impact from changes in net operating assets and liabilities were primarily driven by an increase in inventory and a decrease in accrued liabilities.
+
+Net cash provided by operating activities in 2015 consisted of net income of $458 million plus net adjustments of $368 million partially offset by net changes in net operating assets and liabilities of $40 million. The primary non-cash expenses added back to net income included share-based compensation of $133 million, depreciation and amortization expenses of $127 million, deferred income taxes of $81 million, and accretion of debt discount of $39 million. These non-cash add-backs were partially offset by a $16 million in cost-method investment gain. Cash flow impact from changes in net operating assets included increases in accounts receivable, inventory, and prepaid expenses and other current assets, partially offset by increases in accounts payable, and accrued liabilities.
+
+Investing Activities
+
+Net cash used in investing activities totaled $214 million in 2017. We purchased $742 million of available-for-sale securities and $643 million of our available-for-sale securities matured or were sold during the period. We received $278 million from the sale of a portion of our ownership interest in GRAIL. In connection with the sale, we removed $52 million in cash from our consolidated balance sheet as a result of the deconsolidation. We paid $29 million for strategic investments and invested $310 million in capital expenditures primarily associated with our investment in facilities.
+
+Net cash used in investing activities totaled $515 million in 2016. We purchased $895 million of available-for-sale securities and $683 million of our available-for-sale securities matured or were sold during the period. We also paid net cash of $18 million for acquisitions, $14 million for strategic investments, $11 million for intangibles, and invested $260 million in capital expenditures primarily associated with facilities, and the purchase of manufacturing, research and development equipment.
+
+Net cash used in investing activities totaled $107 million in 2015. We purchased $797 million of available-for-sale securities and $876 million of our available-for-sale securities matured or were sold during the period. We also paid net cash of $37 million for acquisitions and invested $143 million in capital expenditures primarily associated with machinery and equipment, facilities, and information technology equipment and systems primarily related to our enterprise resource planning system implementation.
+
+ 33
+
+Table of Contents
+
+Financing Activities
+
+Net cash used in financing activities totaled $176 million in 2017. We used $251 million to repurchase our common stock and $68 million to pay taxes related to net share settlement of equity awards. We received $71 million in proceeds from the issuance of common stock through the exercise of stock options and the sale of shares under our employee stock purchase plan. Contributions from noncontrolling interest owners were $79 million. Additionally, $9 million was used by Helix to repay financing obligations.
+
+Net cash used in financing activities totaled $296 million in 2016. We used $100 million to pay taxes related to net share settlement of equity awards, $29 million to pay acquisition-related contingent consideration and $249 million to repurchase our common stock. We used $66 million to repay financing obligations and received $47 million in proceeds from the issuance of common stock through the exercise of stock options and the sale of shares under our employee stock purchase plan. Contributions from noncontrolling interest owners were $89 million.
+
+Net cash used in financing activities totaled $545 million in 2015. We used $127 million to pay taxes related to net share settlement of equity awards, and $274 million to repurchase our common stock. We used $245 million to repay financing obligations and received $72 million in proceeds from the issuance of common stock through the exercise of stock options and the sale of shares under our employee stock purchase plan. Contributions from noncontrolling interest owners were $32 million.
+
+Off-Balance Sheet Arrangements
+
+We do not participate in any transactions that generate relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. During the fiscal year ended December 31, 2017, we were not involved in any “off-balance sheet arrangements” within the meaning of the rules of the Securities and Exchange Commission.
+
+Contractual Obligations
+
+Contractual obligations represent future cash commitments and liabilities under agreements with third parties, and exclude orders for goods and services entered into in the normal course of business that are not enforceable or legally binding. The following table represents our contractual obligations as of December 31, 2017, aggregated by type (in millions):
+
+------------------------------------------------------ ------------------------- ----- --------- -- ----------- --- ----------- --------- --- --- --- - ---
+
+ Payments Due by Period(1)
+ Less Than More Than
+Contractual Obligation Total 1 Year 1 – 3 Years 3 – 5 Years 5 Years
+Debt obligations(2) $ 1,159 $ 3 $ 637 $ 519 $ —
+Operating leases 752 55 118 111 468
+Build-to-suit leases 294 22 40 42 190
+Purchase obligations(3) 107 27 80 — —
+Amounts due under executive deferred compensation plan 33 33 — — —
+Total $ 2,345 $ 140 $ 875 $ 672 $ 658
+
+_______________________________________
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) The table excludes $79 million of uncertain tax positions, a $150 million provisional estimate of the one-time transition tax related to U.S. Tax Reform, $220 million of redeemable noncontrolling interest, and $83 million of capital commitments for the Venture Fund as the timing and amounts of the settlement remained uncertain as of December 31, 2017. See note “9. Income Taxes” and note “2. Balance Sheet Account Details” in Part II, Item 8 of this report for further discussions.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Debt obligations include the principal amount of our convertible senior notes due 2019 and 2021, as well as interest payments to be made under the notes. Although these notes mature in 2019 and 2021, respectively, they may be converted into cash and shares of our common stock prior to maturity if certain conditions are met. Any conversion prior to maturity can result in repayments of the principal amounts sooner than the scheduled repayments as indicated in the table. See note “5. Debt and Other Commitments” in Part II, Item 8 of this report for further discussion.
+
+ 34
+
+Table of Contents
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) In the normal course of business, we enter into agreements to purchase goods or services that are not cancelable without penalty, primarily related to licensing and supply arrangements. See note “5. Debt and Other Commitments” in Part II, Item 8 of this report for further discussion.
+
+Critical Accounting Policies and Estimates
+
+The preparation of financial statements in accordance with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts reported in our consolidated financial statements and accompanying notes. Management bases its estimates on historical experience, market and other conditions, and various other assumptions it believes to be reasonable. Although these estimates are based on management’s best knowledge of current events and actions that may impact us in the future, the estimation process is, by its nature, uncertain given that estimates depend on events over which we may not have control. If market and other conditions change from those that we anticipate, our consolidated financial statements may be materially affected. In addition, if our assumptions change, we may need to revise our estimates, or take other corrective actions, either of which may also have a material effect on our consolidated financial statements.
+
+We believe that the following critical accounting policies and estimates have a higher degree of inherent uncertainty and require our most significant judgments. In addition, had we used estimates different from any of these, our consolidated financial statements could have been materially different from those presented. Members of our senior management have discussed the development and selection of our critical accounting policies and estimates, and our disclosure regarding them, with the audit committee of our board of directors. Our accounting policies are more fully described in note “1. Organization and Significant Accounting Policies” in Part II, Item 8 of this report.
+
+Revenue Recognition
+
+Our revenue is generated primarily from the sale of products and services. Product revenue primarily consists of sales of instruments and consumables used in genetic analysis. Service and other revenue primarily consists of revenue generated from genotyping and sequencing services and instrument service contracts. The timing of revenue recognition and the amount of revenue recognized in each case depends upon a variety of factors, including the specific terms of each arrangement and the nature of our deliverables and obligations. Determination of the appropriate amount of revenue recognized involves significant judgment and estimates.
+
+We recognize revenue when persuasive evidence of an arrangement exists, delivery has occurred or services have been rendered, the seller’s price to the buyer is fixed or determinable, and collectibility is reasonably assured. In instances where final acceptance of the product or system is required, revenue is deferred until all the acceptance criteria have been met. We occasionally offer discounts on newly introduced products to recent customers of existing products. Where applicable, we defer a portion of revenue on the sales of existing products in recognition of the promotional discounts until the delivery of new products. All revenue is recorded net of discounts and sales taxes collected on behalf of governmental authorities.
+
+Revenue from product sales is recognized generally upon transfer of title to the customer, provided that no significant obligations remain and collection of the receivable is reasonably assured. Revenue from instrument service contracts is recognized as the services are rendered, typically evenly over the contract term. Revenue from genotyping and sequencing services is recognized when earned, which is generally at the time the genotyping or sequencing analysis data is made available to the customer or agreed-upon milestones are reached.
+
+In order to assess whether the price is fixed or determinable, we evaluate whether an arrangement is cancellable or subject to future changes in price, deliverables, or other terms. If it is determined that the price is not fixed or determinable, we defer revenue recognition until the price becomes fixed or determinable. We assess collectibility based on a number of factors, including past transaction history with, and the creditworthiness of, the customer. If we determine that collection of a payment is not reasonably assured, revenue recognition is deferred until receipt of payment.
+
+We regularly enter into contracts where revenue is derived from multiple deliverables including products or services. These products or services are generally delivered within a short time frame, approximately three to six months, after the contract execution date. Revenue recognition for contracts with multiple deliverables is based on the individual units of accounting determined to exist in the contract. A delivered item is considered a separate unit of accounting when the delivered item has value to the customer on a stand-alone basis. Items are considered to have stand-alone value when they are sold separately by any vendor or when the customer could resell the item on a stand-alone basis.
+
+ 35
+
+Table of Contents
+
+For transactions with multiple deliverables, consideration is allocated at the inception of the contract to all deliverables based on their relative selling price. The relative selling price for each deliverable is determined using vendor-specific objective evidence (VSOE) of selling price or third-party evidence of selling price if VSOE does not exist. If neither VSOE nor third-party evidence exists, we use best estimate of the selling price for the deliverable.
+
+In order to establish VSOE of selling price, we must regularly sell the product or service on a standalone basis with a substantial majority priced within a relatively narrow range. VSOE of selling price is usually the midpoint of that range. If there are not a sufficient number of standalone sales and VSOE of selling price cannot be determined, then we consider whether third-party evidence can be used to establish selling price. Due to the lack of similar products and services sold by other companies within the industry, we have rarely established selling price using third-party evidence. If neither VSOE nor third-party evidence of selling price exists, we determine our best estimate of selling price using average selling prices over a rolling 12-month period coupled with an assessment of current market conditions. If the product or service has no history of sales or if the sales volume is not sufficient, we rely upon prices set by our pricing committee adjusted for applicable discounts. We recognize revenue for delivered elements only when we determine there are no uncertainties regarding customer acceptance.
+
+In certain markets, we sell products and provide services to customers through distributors that specialize in life science products. In most sales through distributors, the product is delivered directly to customers. In cases where the product is delivered to a distributor, revenue recognition is deferred until acceptance is received from the distributor, and/or the end-user, if required by the applicable sales contract. The terms of sales transactions through distributors are consistent with the terms of direct sales to customers. These transactions are accounted for in accordance with our revenue recognition policy described herein.
+
+Investments
+
+We invest in various types of securities, including debt securities in government-sponsored entities, corporate debt securities, and U.S. Treasury securities. As of December 31, 2017, we had $920 million in short-term investments. In accordance with the accounting standard for fair value measurements, we classify our investments as Level 1, 2, or 3 within the fair value hierarchy. Fair values determined by Level 1 inputs utilize quoted prices (unadjusted) in active markets for identical assets that we have the ability to access. Fair values determined by Level 2 inputs utilize data points that are observable such as quoted prices, interest rates and yield curves. Fair values determined by Level 3 inputs utilize unobservable data points for the asset.
+
+As discussed in note “4. Fair Value Measurements” in Part II, Item 8 of this report, a majority of our security holdings have been classified as Level 2. These securities have been initially valued at the transaction price and subsequently valued utilizing a third-party service provider who assesses the fair value using inputs other than quoted prices that are observable either directly or indirectly, such as yield curve, volatility factors, credit spreads, default rates, loss severity, current market and contractual prices for the underlying instruments or debt, broker and dealer quotes, as well as other relevant economic measures. We perform certain procedures to corroborate the fair value of these holdings, and in the process, we apply judgment and estimates that if changed, could significantly affect our statement of financial positions.
+
+Allowance for Doubtful Accounts
+
+We maintain an allowance for doubtful accounts for estimated losses resulting from the inability of our customers to make required payments. We evaluate the collectibility of our accounts receivable based on a combination of factors. We regularly analyze customer accounts, review the length of time receivables are outstanding, review historical loss rates and assess current economic trends that may impact the level of credit losses in the future. Our allowance for doubtful accounts has generally been adequate to cover our actual credit losses. However, since we cannot reliably predict future changes in the financial stability of our customers, we may need to increase our reserves if the financial conditions of our customers deteriorate.
+
+ 36
+
+Table of Contents
+
+Inventory Valuation
+
+Inventories are stated at lower of cost or net realizable value. We record adjustments to inventory for potentially excess, obsolete, or impaired goods in order to state inventory at net realizable value. We must make assumptions about future demand, market conditions, and the release of new products that will supersede old ones. We regularly review inventory for excess and obsolete products and components, taking into account product life cycles, quality issues, historical experience, and usage forecasts. Our gross inventory totaled $375 million and the cumulative adjustment for potentially excess and obsolete inventory was $42 million at December 31, 2017. Historically, our inventory adjustment has been adequate to cover our losses. However, if actual market conditions are less favorable than anticipated, additional inventory adjustments could be required.
+
+Contingencies
+
+We are involved in various lawsuits and claims arising in the ordinary course of business, including actions with respect to intellectual property, employment, and contractual matters. In connection with these matters, we assess, on a regular basis, the probability and range of possible loss based on the developments in these matters. A liability is recorded in the financial statements if it is believed to be probable that a loss has been incurred and the amount of the loss can be reasonably estimated. Because litigation is inherently unpredictable and unfavorable resolutions could occur, assessing contingencies is highly subjective and requires judgments about future events. We regularly review outstanding legal matters to determine the adequacy of the liabilities accrued and related disclosures in consideration of many factors, which include, but are not limited to, past history, scientific and other evidence, and the specifics and status of each matter. We may change our estimates if our assessment of the various factors changes and the amount of ultimate loss may differ from our estimates, resulting in a material effect on our business, financial condition, results of operations, and/or cash flows.
+
+Business Combinations
+
+Under the acquisition method of accounting, we allocate the fair value of the total consideration transferred to the tangible and identifiable intangible assets acquired and liabilities assumed based on their estimated fair values on the date of acquisition. The fair values assigned, defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between willing market participants, are based on estimates and assumptions determined by management. We record the excess consideration over the aggregate fair value of tangible and intangible assets, net of liabilities assumed, as goodwill. These valuations require us to make significant estimates and assumptions, especially with respect to intangible assets.
+
+In connection with certain of our acquisitions, additional contingent consideration is earned by the sellers upon completion of certain future performance milestones. In these cases, a liability is recorded on the acquisition date for an estimate of the acquisition date fair value of the contingent consideration by applying the income approach utilizing variable inputs such as anticipated future cash flows, risk-free adjusted discount rates, and nonperformance risk. Any change in the fair value of the contingent consideration subsequent to the acquisition date is recognized in acquisition-related (gain) expense, net, a component of operating expenses, in our consolidated statements of income. This method requires significant management judgment, including the probability of achieving certain future milestones and discount rates. Future changes in our estimates could result in expenses or gains.
+
+Management typically uses the discounted cash flow method to value our acquired intangible assets. This method requires significant management judgment to forecast future operating results and establish residual growth rates and discount factors. The estimates we use to value and amortize intangible assets are consistent with the plans and estimates that we use to manage our business and are based on available historical information and industry estimates and averages. If the subsequent actual results and updated projections of the underlying business activity change compared with the assumptions and projections used to develop these values, we could experience impairment charges. In addition, we have estimated the economic lives of certain acquired assets and these lives are used to calculate depreciation and amortization expense. If our estimates of the economic lives change, depreciation or amortization expenses could be accelerated or slowed.
+
+Intangible Assets and Other Long-Lived Assets — Impairment Assessments
+
+We regularly perform reviews to determine if the carrying values of our long-lived assets are impaired. A review of identifiable intangible assets and other long-lived assets is performed when an event occurs indicating the potential for impairment. If indicators of impairment exist, we assess the recoverability of the affected long-lived assets and compare their fair values to the respective carrying amounts.
+
+ 37
+
+Table of Contents
+
+In order to estimate the fair value of identifiable intangible assets and other long-lived assets, we estimate the present value of future cash flows from those assets. The key assumptions that we use in our discounted cash flow model are the amount and timing of estimated future cash flows to be generated by the asset over an extended period of time and a rate of return that considers the relative risk of achieving the cash flows, the time value of money, and other factors that a willing market participant would consider. Significant judgment is required to estimate the amount and timing of future cash flows and the relative risk of achieving those cash flows.
+
+Assumptions and estimates about future values and remaining useful lives are complex and often subjective. They can be affected by a variety of factors, including external factors such as industry and economic trends, and internal factors such as changes in our business strategy and our internal forecasts. For example, if our future operating results do not meet current forecasts or if we experience a sustained decline in our market capitalization that is determined to be indicative of a reduction in fair value of our reporting unit, we may be required to record future impairment charges for purchased intangible assets. Impairment charges could materially decrease our future net income and result in lower asset values on our balance sheet.
+
+Share-Based Compensation
+
+We are required to measure and recognize compensation expense for all share-based payments based on estimated fair value. We estimate the fair value of stock options granted and stock purchases under our employee stock purchase plan using the Black-Scholes-Merton (BSM) option-pricing model. The fair value of our restricted stock units is based on the market price of our common stock on the date of grant.
+
+The determination of fair value of share-based awards requires the use of certain estimates and highly judgmental assumptions that affect the amount of share-based compensation expense recognized in our consolidated statements of income. These include estimates of the expected volatility of our stock price, expected life of an award, expected dividends, the risk-free interest rate, and forecast of our future financial performance, in the case of performance stock units. We determine the volatility of our stock price by equally weighing the historical and implied volatility of our common stock. The historical volatility of our common stock over the most recent period is generally commensurate with the estimated expected life of our stock awards, adjusted for the impact of unusual fluctuations not reasonably expected to recur, and other relevant factors. Implied volatility is calculated from the implied market volatility of exchange-traded call options on our common stock. The expected life of an award is based on historical forfeiture experience, exercise activity, and on the terms and conditions of the stock awards. We determined expected dividend yield to be 0% given we have never declared or paid any cash dividends on our common stock and we currently do not anticipate paying such cash dividends. The risk-free interest rate is based upon U.S. Treasury securities with remaining terms similar to the expected term of the share-based awards. We update our forecast of future financial performance periodically, which impacts our estimate of the number of shares to be issued pursuant to the outstanding performance stock units. We amortize the fair value of share-based compensation on a straight-line basis over the requisite service periods of the awards. If any of the assumptions used change significantly, share-based compensation expense may differ materially from what we have recorded in the current period.
+
+Warranties
+
+We generally provide a one-year warranty on instruments. Additionally, we provide a warranty on consumables through the expiration date, which generally ranges from six to twelve months after the manufacture date. We establish an accrual for estimated warranty expenses based on historical experience as well as anticipated product performance. We periodically review the adequacy of our warranty reserve, and adjust, if necessary, the warranty percentage and accrual based on actual experience and estimated costs to be incurred. If our estimates of warranty obligation change or if actual product performance is below our expectations, we may incur additional warranty expense.
+
+Income Taxes
+
+Our provision for income taxes, deferred tax assets and liabilities, and reserves for unrecognized tax benefits reflect our best assessment of estimated future taxes to be paid. Significant judgments and estimates based on interpretations of existing tax laws or regulations in the United States and the numerous foreign jurisdictions where we are subject to income tax are required in determining our provision for income taxes. Changes in tax laws, statutory tax rates, and estimates of our future taxable income could impact the deferred tax assets and liabilities provided for in the consolidated financial statements and would require an adjustment to the provision for income taxes.
+
+In accordance with the Tax Cuts and Jobs Act that was enacted on December 22, 2017 (U.S. Tax Reform), we have recorded a provision for income taxes of $150 million. The impact of U.S. Tax Reform primarily represents our provisional estimates of the one-time transition tax on earnings of certain foreign subsidiaries that were previously tax deferred, and the
+
+ 38
+
+Table of Contents
+
+impact of revaluing our U.S. deferred tax assets and liabilities based on the rates at which they are expected to reverse in the future. For U.S. federal purposes the corporate statutory income tax rate was reduced from 35% to 21%, effective for our 2018 tax year. The provisional impact of U.S. Tax Reform is our current best estimate based on a preliminary review of the new law and is subject to revision based on our existing accounting for income taxes policy as further information is gathered, and interpretation and analysis of the tax legislation evolves. The Securities and Exchange Commission has issued rules allowing for a measurement period of up to one year after the enactment date of U.S. Tax Reform to finalize the recording of the related tax impacts. Any future changes to our provisional estimated impact of U.S. Tax Reform will be included as an adjustment to the provision for income taxes.
+
+Deferred tax assets are regularly assessed to determine the likelihood they will be recovered from future taxable income. A valuation allowance is established when we believe it is more likely than not the future realization of all or some of a deferred tax asset will not be achieved. In evaluating our ability to recover deferred tax assets within the jurisdiction which they arise, we consider all available positive and negative evidence. Factors reviewed include the cumulative pre-tax book income for the past three years, scheduled reversals of deferred tax liabilities, our history of earnings and reliability of our forecasts, projections of pre-tax book income over the foreseeable future, and the impact of any feasible and prudent tax planning strategies.
+
+We recognize the impact of a tax position in our financial statements only if that position is more likely than not of being sustained upon examination by taxing authorities, based on the technical merits of the position. Tax authorities regularly examine our returns in the jurisdictions in which we do business and we regularly assess the tax risk of our return filing positions. Due to the complexity of some of the uncertainties, the ultimate resolution may result in payments that are materially different from our current estimate of the tax liability. These differences, as well as any interest and penalties, will be reflected in the provision for income taxes in the period in which they are determined.
+
+Recent Accounting Pronouncements
+
+For summary of recent accounting pronouncements applicable to our consolidated financial statement see note “1. Organization and Summary of Significant Accounting Policies” in Part II, Item 8, Notes to Consolidated Financial Statements, which is incorporated herein by reference.
+
+-------- -----------------------------------------------------------
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part I Item 1A]:
+Item 1A. Risk Factors 18
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Part II, Item 8]:
+Item 8. Financial Statements and Supplementary Data 31

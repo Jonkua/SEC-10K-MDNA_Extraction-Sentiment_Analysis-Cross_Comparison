@@ -1,0 +1,1030 @@
+================================================================================
+CIK: 0001645590
+Company Name: Hewlett Packard Enterprise Co
+Filing Date: 2019-12-13
+Form Type: 10-K
+Extraction Date: 2025-08-31 09:11:06
+================================================================================
+
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations
+This Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD&A") is organized as follows:
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Overview. A discussion of our business and overall analysis of financial and other highlights affecting the Company to provide context for the remainder of MD&A. The overview analysis compares fiscal 2019 to fiscal 2018.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Critical Accounting Policies and Estimates. A discussion of accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Results of Operations. An analysis of our financial results comparing fiscal 2019 and fiscal 2018 to the prior-year periods. A discussion of the results of operations at the consolidated level is followed by a discussion of the results of operations at the segment level.
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+• Liquidity and Capital Resources. An analysis of changes in our cash flows and a discussion of our financial condition and liquidity.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Contractual and Other Obligations. An overview of contractual obligations, retirement and post-retirement benefit plan funding, restructuring plans, uncertain tax positions, off-balance sheet arrangements, cross-indemnifications with HP Inc. (formerly known as "Hewlett-Packard Company" and also referred to in this Annual Report as "former Parent"), and cross-indemnifications with DXC Technology Company ("DXC") and Micro Focus International plc (“Micro Focus”).
+
+We intend the discussion of our financial condition and results of operations that follows to provide information that will assist the reader in understanding our Consolidated Financial Statements, the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles, policies and estimates affect our Consolidated Financial Statements. This discussion should be read in conjunction with our Consolidated Financial Statements and the related notes that appear elsewhere in this document.
+Former Parent Separation Transaction
+On November 1, 2015, the Company became an independent publicly-traded company through a pro rata distribution by HP Inc. ("former Parent" or "HPI"), formerly known as Hewlett-Packard Company ("HP Co."), of 100% of the outstanding shares of Hewlett Packard Enterprise Company to HP Inc.'s stockholders (collectively, the "Separation"). Each HP Inc. stockholder of record received one share of Hewlett Packard Enterprise common stock for each share of HP Inc. common stock held on the record date. Following the Separation, the Company became an independent publicly-traded company.
+Discontinued Operations
+On April 1, 2017, HPE completed the separation and merger of its Enterprise Services business with Computer Sciences Corporation (“CSC”) (collectively, the “Everett Transaction”). HPE transferred its Enterprise Services business to Everett SpinCo, Inc. (a wholly-owned subsidiary of HPE) ("Everett") and distributed all of the shares of Everett to HPE stockholders. Following the distribution, New Everett Merger Sub Inc., a wholly-owned subsidiary of Everett, merged with and into CSC and Everett changed its name to DXC Technology Company ("DXC").
+On September 1, 2017, HPE completed the separation and merger of its Software business segment with Micro Focus International plc (“Micro Focus”) (collectively, the “Seattle Transaction”). HPE transferred its Software business segment to Seattle SpinCo, Inc. (a wholly-owned subsidiary of HPE) ("Seattle"), and distributed all of the shares of Seattle to HPE stockholders. Following the share distribution, Seattle MergerSub, Inc., an indirect, wholly-owned subsidiary of Micro Focus, merged with and into Seattle.
+The following Overview, Results of Operations and Liquidity discussions and analysis compare fiscal 2019 to fiscal 2018 and fiscal 2018 to fiscal 2017, unless otherwise noted. The Capital Resources and Contractual and Other Obligations discussions present information as of October 31, 2019, unless otherwise noted.
+        For purposes of this MD&A section, we use the terms "Hewlett Packard Enterprise", "HPE", "the Company", "we", "us", and "our" to refer to Hewlett Packard Enterprise Company. References in this MD&A section to "former Parent" refer to HP Inc.
+
+32
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+ OVERVIEW
+We are a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. We enable customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future. Our legacy dates back to a partnership founded in 1939 by William R. Hewlett and David Packard, and we strive every day to uphold and enhance that legacy through our dedication to providing innovative technological solutions to our customers.
+We organize our business into four segments for financial reporting purposes: Hybrid IT, Intelligent Edge, Financial Services ("FS") and Corporate Investments. The following provides an overview of our key financial metrics by segment for fiscal 2019, as compared to fiscal 2018:
+
+---------------------------------------------------------------- ------------------------------------------------- ------ --------- ---- ---------------- ------ ------------------ ---- -------------------- ----- --- ----- ----- - ---- -
+
+ HPEConsolidated Hybrid IT Intelligent Edge Financial Services CorporateInvestments
+ Dollars in millions, except for per share amounts
+Net revenue(1) $ 29,135 $ 22,825 $ 2,837 $ 3,581 $ 507
+Year-over-year change % (5.6 ) % (6.8 ) % (2.8 ) % (2.5 ) % (6.6 ) %
+Earnings (loss) from continuing operations(2) $ 1,274 $ 2,804 $ 95 $ 305 $ (108 )
+Earnings (loss) from continuing operations as a % of net revenue 4.4 % 12.3 % 3.3 % 8.5 % (21.3 ) %
+Year-over-year change percentage points (1.2 )pts 2.1 pts (6.2 )pts 0.7 pts (4.5 )pts
+Net earnings from continuing operations $ 1,049
+Net earnings per share
+Basic net EPS from continuing operations $ 0.78
+Diluted net EPS from continuing operations $ 0.77
+
+--- ---------------------------------------------------------------
+(1) HPE consolidated net revenue excludes intersegment net revenue.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Segment earnings from operations exclude certain unallocated corporate costs and eliminations, stock-based compensation expense related to corporate and certain global functions, transformation costs, amortization of intangible assets, acquisition, dispositions and other related charges, restructuring charges, separation costs, impairment of goodwill and disaster recoveries.
+
+Net revenue decreased by $1.7 billion, or 5.6% (decreased 4.3% on a constant currency basis), in fiscal 2019 as compared to fiscal 2018 as we continue to execute on our HPE Next transformation initiative, which includes streamlining our offerings and business processes, and shifting investments in innovation to high growth and higher-margin solutions and services. In addition to these planned actions, we experienced uneven demand in fiscal 2019 due to an uncertain macroeconomic environment along with go-to-market execution issues in certain business areas and unfavorable currency fluctuations.
+The leading contributors to the net revenue decline was lower revenue of $1.7 billion in Hybrid IT, primarily in Compute, due to a decline in Tier-1 server sales and lower revenue from China as we continue to exit less profitable product categories and certain markets. Also within Hybrid IT, weak demand in the enterprise market led to lower revenue from Industry Standard Server ("ISS") core products within Compute and from HPE Pointnext services. To a lesser extent, we experienced a revenue decline in Intelligent Edge due to lower sales of WLAN and switching products and in Financial Services due to lower rental revenue. The overall net revenue decline was partially offset by revenue growth in HPE Aruba Services within Intelligent Edge.
+Gross margin was 32.6% ($9.5 billion) and 29.9% ($9.2 billion) for fiscals 2019 and 2018, respectively. The 2.7 percentage point increase in gross margin was due primarily to Hybrid IT as a result of the year-over-year decrease in commodity costs, cost management initiatives, and a lower mix of revenue from lower-margin Tier-1 server sales along with a higher mix of revenue from higher-margin products. Operating margin decreased 1.2 percentage points in fiscal 2019 as compared to fiscal 2018 due primarily to higher acquisition, disposition and other related charges as a result of a one-time charge associated with an arbitration settlement and increased investments in research and development, these increases were partially offset by the higher gross margin.
+As of October 31, 2019, cash, cash equivalents and restricted cash and long-term investments were $4.1 billion, representing a decrease of approximately $1.0 billion from the October 31, 2018 balance of $5.1 billion. The decrease was due primarily to the following: investments in property, plant and equipment, net of sales proceeds of $2.3 billion, cash payments related to share repurchases and dividends of $2.9 billion and business acquisition activity of $1.5 billion, partially offset by cash provided by
+
+33
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+operating activities of $4.0 billion, net proceeds from debt issuance net of repayments of $1.3 billion and net cash received through our derivative collateral program from counter parties of $341 million.
+Trends and Uncertainties
+We are in the process of addressing many challenges facing our business. One set of challenges include dynamic and accelerating market trends, such as the market shift of workloads to cloud-related IT infrastructure business models, emergence of software-defined architectures and converged infrastructure functionality and growth in IT consumption models. Certain of our legacy hardware businesses in Hybrid IT face challenges as customers migrate to cloud-based offerings and reduce their purchases of hardware products. Therefore, the demand environment for traditional server and storage products is challenging and lower traditional compute and storage unit volume is impacting support attach opportunities in HPE Pointnext within the Hybrid IT segment.
+Another set of challenges relates to changes in the competitive landscape. Our major competitors are expanding their product and service offerings with integrated products and solutions, our business-specific competitors are exerting increased competitive pressure in targeted areas and are entering new markets, our emerging competitors are introducing new technologies and business models, and our alliance partners in some businesses are increasingly becoming our competitors in others.
+A third set of challenges relates to business model changes and our go-to-market execution. We are transitioning to an as-a-Service company, providing our entire portfolio through a range of subscription-based, pay-per-use and as-a-Service offerings. However, we will continue to provide our customers choice in consuming HPE products and services in a traditional or as-a-Service offering.
+To be successful in overcoming these challenges, we must address business model shifts and optimize go-to-market execution by successfully transitioning to our as-a-Service model, further improving our cost structure, aligning sales coverage with our strategic goals, improving channel execution, and strengthening our capabilities in our areas of strategic focus, which includes accelerating growth in the Intelligent Edge and delivering profitable growth in Hybrid IT. We need to continue to pursue new product innovation that builds on our existing capabilities in areas such as cloud and data center computing, software-defined networking, converged storage, high-performance compute, and wireless networking, which will keep us aligned with market demand, industry trends and the needs of our customers and partners. In addition, we need to continue to improve our operations, with a particular focus on enhancing our end-to-end processes and efficiencies.
+During the third quarter of fiscal 2017, we launched an initiative called HPE Next, through which we are putting in place a purpose-built company designed to compete and win in the markets where we participate. Through this initiative, we are simplifying our operating model and the way we work and streamlining our offerings and business processes to improve our execution. More importantly, we are shifting our investments in innovation towards high growth and higher-margin solutions and services such as an edge-to-cloud data platform, multi-cloud management through OneSphere, consumption-based service models with HPE Greenlake, and the adoption of composable infrastructure. The HPE Next initiative includes consolidating our manufacturing and support services locations, streamlining our business systems and reducing the number of countries in which we have a direct sales presence, while simultaneously migrating to a channel-only model in the remaining countries. For additional details on the HPE Next initiative, see Note 5, "HPE Next", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference.
+For a further discussion of trends, uncertainties and other factors that could impact our operating results, see the section entitled "Risk Factors" in Item 1A, which is incorporated herein by reference.
+
+34
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+General
+Our Consolidated Financial Statements are prepared in accordance with U.S. Generally Accepted Accounting Principles ("GAAP"), which requires management to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, net revenue and expenses, and the disclosure of contingent liabilities. Management bases its estimates on historical experience and on various other assumptions that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying amount of assets and liabilities that are not readily apparent from other sources. Management has discussed the development, selection and disclosure of these estimates with the Audit Committee of HPE's Board of Directors. Management believes that the accounting estimates employed and the resulting amounts are reasonable; however, actual results may differ from these estimates. Making estimates and judgments about future events is inherently unpredictable and is subject to significant uncertainties, some of which are beyond our control. Should any of these estimates and assumptions change or prove to have been incorrect, it could have a material impact on our results of operations, financial position and cash flows.
+A summary of significant accounting policies is included in Note 1, "Overview and Summary of Significant Accounting Policies", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, if different estimates reasonably could have been used, or if changes in the estimate that are reasonably possible could materially impact the financial statements. Management believes the following critical accounting policies reflect the significant estimates and assumptions used in the preparation of the Consolidated Financial Statements.
+Revenue Recognition
+General
+As a result of adopting the new revenue recognition standard ("ASC 606"), we now account for a contract with a customer when both parties have provided written approval and are committed to perform, each party’s rights including payment terms are identified, the contract has commercial substance, and collection of consideration is probable.
+We enter into contracts with customers that may include combinations of products and services, resulting in arrangements containing multiple performance obligations for hardware and software products and/or various services. We determine whether each product or service is distinct in order to identify the performance obligations in the contract and allocate the contract transaction price among the distinct performance obligations. Arrangements are distinct based on whether the customer can benefit from the product or service on its own or together with other resources that are readily available and whether the commitment to transfer the product or service to the customer is separately identifiable from other obligations in the contract. We classify our hardware, perpetual software licenses, and software-as-a-service ("SaaS") as distinct performance obligations. Term software licenses represent multiple obligations, which include software licenses and software maintenance. In transactions where we deliver hardware or software, we are typically the principal and record revenue and costs of goods sold on a gross basis.
+The majority of our revenue is derived from sales of product and the associated support and maintenance which is recognized when, or as, control of promised products or services is transferred to the customer, in an amount that reflects the consideration to which we expect to be entitled, in exchange for those products or services. Variable consideration offered in contracts with customers, partners and distributors may include rebates, volume-based discounts, cooperative marketing, price protection, and other incentive programs. Variable consideration is estimated at contract inception and updated at the end of each reporting period as additional information becomes available and recognized only to the extent that it is probable that a significant reversal of revenue will not occur.
+Transfer of control occurs once the customer has the contractual right to use the product, generally upon shipment or once delivery and risk of loss has transferred to the customer. Transfer of control can also occur over time for maintenance and services as the customer receives the benefit over the contract term. Our hardware and perpetual software licenses are distinct performance obligations where revenue is recognized upfront upon transfer of control. Term software licenses include multiple performance obligations where the term licenses are recognized upfront upon transfer of control, with the associated software maintenance revenue recognized ratably over the contract term as services and software updates are provided. SaaS arrangements have one distinct performance obligation which is satisfied over time with revenue recognized ratably over the contract term as the customer consumes the services. On our product sales, we record consideration from shipping and handling on a gross basis within net product sales. Revenue is recorded net of any associated sales taxes.
+
+35
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Significant Judgments
+We allocate the transaction price for the contract among the performance obligations on a relative standalone selling price basis. The standalone selling price ("SSP") is the price at which an entity would sell a promised product or service separately to a customer. We establish SSP for most of our products and services based on the observable price of the products or services when sold separately in similar circumstances to similar customers. When the SSP is not directly observable, we estimate SSP based on management judgment by considering available data such as internal margin objectives, pricing strategies, market/competitive conditions, historical profitability data, as well as other observable inputs. We establish SSP ranges for our products and services and reassesses them periodically.
+Judgment is applied in determining the transaction price as we may be required to estimate variable consideration when determining the amount of revenue to recognize. Variable consideration may include various rebates, volume-based discounts, cooperative marketing, price protection, and other incentive programs that are offered to customers, partners and distributors. When determining the amount of revenue to recognize, we estimate the expected usage of these programs, applying the expected value or most likely estimate and update the estimate at each reporting period as actual utilization becomes available. We also consider the customers' right of return in determining the transaction price, where applicable.
+Warranty
+We accrue the estimated cost of product warranties at the time we recognize revenue. We evaluate our warranty obligations on a product group basis. Our standard product warranty terms generally include post-sales support and repairs or replacement of a product at no additional charge for a specified period of time. While we engage in extensive product quality programs and processes, including actively monitoring and evaluating the quality of our component suppliers, we base our estimated warranty obligation on contractual warranty terms, repair costs, product call rates, average cost per call, current period product shipments and ongoing product failure rates, as well as specific product class failure outside of our baseline experience. Warranty terms generally range from one to five years for parts and labor, depending upon the product. For certain networking products, we offer a lifetime warranty. Over the last three fiscal years, the annual warranty expense has averaged approximately 1.4% of annual net product revenue.
+Restructuring
+We have engaged in restructuring actions which require management to estimate the timing and amount of severance and other employee separation costs for workforce reduction and enhanced early retirement programs, the fair value of assets made redundant or obsolete, and the value of lease and contract cancellation and other exit costs. We accrue for severance and other employee separation costs under these actions when it is probable that benefits will be paid and the amount is reasonably estimable. The rates used in determining severance accruals are based on existing plans, historical experiences and negotiated settlements. For a full description of our restructuring actions, refer to our discussions of restructuring in "Results of Operations" below and in Note 4, "Restructuring" and Note 5, "HPE Next", to the Consolidated Financial Statements.
+Retirement and Post-Retirement Benefits
+Our pension and other post-retirement benefit costs and obligations depend on various assumptions. Our major assumptions relate primarily to discount rates, mortality rates, expected increases in compensation levels and the expected long-term return on plan assets. The discount rate assumption is based on current investment yields of high-quality fixed-income securities with maturities similar to the expected benefits payment period. Mortality rates help predict the expected life of plan participants and are based on a historical demographic study of the plan. The expected increase in the compensation levels assumption reflects our long-term actual experience and future expectations. The expected long-term return on plan assets is determined based on asset allocations, historical portfolio results, historical asset correlations and management's expected returns for each asset class. In any fiscal year, significant differences may arise between the actual return and the expected long-term return on plan assets. Historically, differences between the actual return and expected long-term return on plan assets have resulted from changes in target or actual asset allocation, short-term performance relative to expected long-term performance, and to a lesser extent, differences between target and actual investment allocations, the timing of benefit payments compared to expectations, and the use of derivatives intended to effect asset allocation changes or hedge certain investment or liability exposures.
+Our major assumptions vary by plan, and the weighted-average rates used are set forth in Note 6, "Retirement and Post-Retirement Benefit Plans", to the Consolidated Financial Statements, which is incorporated herein by reference. The following table provides the impact changes in the weighted-average assumptions of discount rates, the expected increase in compensation levels and the expected long-term return on plan assets would have had on our net periodic benefit cost for fiscal 2019:
+
+36
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+---------------------------------------- ---------------------- - ----------------------------------- - --
+
+ Change in basis points Change in Net Periodic Benefit Cost
+ In millions
+Assumptions:
+Discount rate (25 ) $ 25
+Expected increase in compensation levels 25 $ 4
+Expected long-term return on plan assets (25 ) $ 31
+
+Taxes on Earnings
+We calculate our current and deferred tax provisions based on estimates and assumptions that could differ from the final positions reflected in our income tax returns. We will adjust our current and deferred tax provisions based on our tax returns which are generally filed in the third or fourth quarters of the subsequent fiscal year.
+We recognize deferred tax assets and liabilities for the expected tax consequences of temporary differences between the tax bases of assets and liabilities and their reported amounts using enacted tax rates in effect for the year in which we expect the differences to reverse.
+We record a valuation allowance to reduce deferred tax assets to the amount that we are more likely than not to realize. In determining the need for a valuation allowance, we consider future market growth, forecasted earnings, future sources of taxable income, the mix of earnings in the jurisdictions in which we operate, and prudent and feasible tax planning strategies. In the event we were to determine that it is more likely than not that we will be unable to realize all or part of our deferred tax assets in the future, we would increase the valuation allowance and recognize a corresponding charge to earnings or other comprehensive income in the period in which we make such a determination. Likewise, if we later determine that we are more likely than not to realize the deferred tax assets, we would reverse the applicable portion of the previously recognized valuation allowance. In order for us to realize our deferred tax assets, we must be able to generate sufficient taxable income in the jurisdictions in which the deferred tax assets are located.
+Our effective tax rate includes the impact of certain undistributed foreign earnings and basis differences for which we have not provided for U.S. federal taxes because we plan to reinvest such earnings and basis differences indefinitely outside the U.S. In connection with the Tax Act, substantially all accumulated undistributed earnings became subject to U.S. tax. In addition, future earnings from non-U.S. operations will largely be subject to U.S. tax. Therefore, the indefinitely reinvested undistributed foreign earnings and basis differences represent amounts that are not currently subject to U.S. tax post-Tax Act and are not expected to be subject to U.S. tax in the foreseeable future.
+We are subject to income taxes in the U.S. and approximately 95 other countries, and we are subject to routine corporate income tax audits in many of these jurisdictions. We believe that positions taken on our tax returns are fully supported, but tax authorities may challenge these positions, which may not be fully sustained on examination by the relevant tax authorities. Accordingly, our income tax provision includes amounts intended to satisfy assessments that may result from these challenges. Determining the income tax provision for these potential assessments and recording the related effects requires management judgments and estimates. The amounts ultimately paid on resolution of an audit could be materially different from the amounts previously included in our income tax provision and, therefore, could have a material impact on our income tax provision, net income and cash flows. Our accrual for uncertain tax positions is attributable primarily to uncertainties concerning the tax treatment of our international operations, including the allocation of income among different jurisdictions, intercompany transactions and related interest, uncertain tax positions from acquired companies, as well as pre-Separation state income tax liabilities of HP Inc. for which the Company is jointly and severally liable. For a further discussion on taxes on earnings, refer to Note 8, "Taxes on Earnings", to the Consolidated Financial Statements.
+Inventory
+We state our inventory at the lower of cost or net realizable value on a first-in, first-out basis. We make adjustments to reduce the cost of inventory to its net realizable value at the product group level for estimated excess or obsolescence. Factors influencing these adjustments include changes in demand, technological changes, product life-cycle and development plans, component cost trends, product pricing, physical deterioration, and quality issues.
+
+37
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Business Combinations
+We allocate the fair value of purchase consideration to the assets acquired, including in-process research and development ("IPR&D"), liabilities assumed, and non-controlling interests in the acquiree generally based on their fair values at the acquisition date. IPR&D is initially capitalized at fair value as an intangible asset with an indefinite life and assessed for impairment thereafter. The excess of the fair value of purchase consideration over the fair value of these assets acquired, liabilities assumed and non-controlling interests in the acquiree is recorded as goodwill.
+When determining the fair values of assets acquired, liabilities assumed, and non-controlling interests in the acquiree, management makes significant estimates and assumptions, especially with respect to intangible assets. Critical estimates in valuing intangible assets include, but are not limited to, expected future cash flows, which includes consideration of future growth rates and margins, attrition rates, future changes in technology and brand awareness, loyalty and position, and discount rates. Fair value estimates are based on the assumptions management believes a market participant would use in pricing the asset or liability. Amounts recorded in a business combination may change during the measurement period, which is a period not to exceed one year from the date of acquisition, as additional information about conditions existing at the acquisition date becomes available.
+Goodwill
+We review goodwill for impairment annually and whenever events or changes in circumstances indicate the carrying amount of goodwill may not be recoverable. We are permitted to conduct a qualitative assessment to determine whether it is necessary to perform a quantitative goodwill impairment test. We perform a quantitative test for each of our reporting units as part of our annual goodwill impairment test in the fourth quarter of each fiscal year.
+Goodwill is tested for impairment at the reporting unit level. As of October 31, 2019, our reporting units containing goodwill are consistent with the reportable segments identified in Note 3 “Segment Information” to the Consolidated Financial Statements.
+In the goodwill impairment test, we compare the fair value of each reporting unit to its carrying amount. We estimate the fair value of our reporting units using a weighting of fair values derived most significantly from the income approach and, to a lesser extent, the market approach. Under the income approach, we estimate the fair value of a reporting unit based on the present value of estimated future cash flows. Cash flow projections are based on management's estimates of revenue growth rates and operating margins, taking into consideration industry and market conditions. The discount rate used is based on the weighted-average cost of capital adjusted for the relevant risk associated with business specific characteristics and the uncertainty related to the reporting unit's ability to execute on the projected cash flows. Under the market approach, we estimate the fair value based on market multiples of revenue and earnings derived from comparable publicly traded companies with operating and investment characteristics similar to the reporting unit. We weight the fair value derived from the market approach depending on the level of comparability of these publicly traded companies to the reporting unit. When market comparables are not meaningful or not available, we estimate the fair value of a reporting unit using only the income approach. A significant and sustained decline in our stock price could provide evidence of a need to record a goodwill impairment charge.
+Estimating the fair value of a reporting unit is judgmental in nature and involves the use of significant estimates and assumptions. These estimates and assumptions include revenue growth rates and operating margins used to calculate projected future cash flows, risk adjusted discount rates, future economic and market conditions, and the determination of appropriate comparable publicly traded companies. In addition, we make certain judgments and assumptions in allocating shared assets and liabilities to individual reporting units to determine the carrying amount of each reporting unit.
+If the fair value of a reporting unit exceeds the carrying amount of the net assets assigned to that reporting unit, goodwill is not impaired. If the fair value of the reporting unit is less than its carrying amount, goodwill is impaired. The goodwill impairment loss is measured as the excess of the reporting unit's carrying value over its fair value (not to exceed the total goodwill allocated to that reporting unit).
+Our annual goodwill impairment analysis, which we performed as of the first day of the fourth quarter of fiscal 2019, did not result in any impairment charges. The excess of fair value over carrying amount for our reporting units ranged from approximately 46% to 52% of the respective carrying amounts. In order to evaluate the sensitivity of the estimated fair value of our reporting units in the goodwill impairment test, we applied a hypothetical 10% decrease to the fair value of each reporting unit. Based on the results of this hypothetical 10% decrease all of the reporting units had an excess of fair value over carrying amount.
+
+38
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Intangible Assets
+We review intangible assets with finite lives for impairment whenever events or changes in circumstances indicate the carrying amount of an asset may not be recoverable. Recoverability of our finite-lived intangible assets is assessed based on the estimated undiscounted future cash flows expected to result from the use and eventual disposition of the asset. If the undiscounted future cash flows are less than the carrying amount, the finite-lived intangible assets are considered to be impaired. The amount of the impairment loss, if any, is measured as the difference between the carrying amount of the asset and its fair value. We estimate the fair value of finite-lived intangible assets by using an income approach or, when available and appropriate, using a market approach.
+Fair Value of Derivative Instruments
+We use derivative instruments to manage a variety of risks, including risks related to foreign currency exchange rates and interest rates. We use forwards, swaps and, at times, options to hedge certain foreign currency and interest rate exposures. We do not use derivative financial instruments for speculative purposes. At October 31, 2019, the gross notional amount of our derivative portfolio was $24.2 billion. Assets and liabilities related to derivative instruments are measured at fair value, and were $468 million and $147 million, respectively, as of October 31, 2019.
+Fair value is the price we would receive to sell an asset or pay to transfer a liability in an orderly transaction between market participants at the measurement date. In the absence of active markets for identical assets or liabilities, such measurements involve developing assumptions based on market observable data and, in the absence of such data, internal information that is consistent with what market participants would use in a hypothetical transaction that occurs at the measurement date. The determination of fair value often involves significant judgments about assumptions such as determining an appropriate discount rate that factors in both risk and liquidity premiums, identifying the similarities and differences in market transactions, weighting those differences accordingly and then making the appropriate adjustments to those market transactions to reflect the risks specific to the asset or liability being valued. We generally use industry standard valuation models to measure the fair value of our derivative positions. When prices in active markets are not available for an identical asset or liability, we use industry standard valuation models to measure fair value. Where applicable, these models project future cash flows and discount the future amounts to present value using market based observable inputs, including interest rate curves, Company and counterparty credit risk, foreign currency exchange rates, and forward and spot prices.
+For a further discussion of fair value measurements and derivative instruments, refer to Note 13, "Fair Value" and Note 14, "Financial Instruments", respectively, to the Consolidated Financial Statements.
+Loss Contingencies
+We are involved in various lawsuits, claims, investigations and proceedings including those consisting of IP, commercial, securities, employment, employee benefits, and environmental matters, which arise in the ordinary course of business. We record a liability when we believe that it is both probable that a liability has been incurred and the amount of loss can be reasonably estimated. Significant judgment is required to determine both the probability of having incurred a liability and the estimated amount of the liability. We review these matters at least quarterly and adjust these liabilities to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and other updated information and events, pertaining to a particular case. Based on our experience, we believe that any damage amounts claimed in the specific litigation and contingency matters further discussed in Note 18, "Litigation and Contingencies", to the Consolidated Financial Statements are not a meaningful indicator of our potential liability. Litigation is inherently unpredictable. However, we believe we have valid defenses with respect to legal matters pending against us. Nevertheless, cash flows or results of operations could be materially affected in any particular period by the resolution of one or more of these contingencies. We believe we have recorded adequate provisions for any such matters and, as of October 31, 2019, it was not reasonably possible that a material loss had been incurred in connection with such matters in excess of the amounts recognized in our financial statements.
+
+ACCOUNTING PRONOUNCEMENTS
+For a summary of recent accounting pronouncements applicable to our Consolidated Financial Statements, see Note 1, "Overview and Summary of Significant Accounting Policies", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference.
+
+39
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+RESULTS OF OPERATIONS
+Revenue from our international operations has historically represented, and we expect will continue to represent, a majority of our overall net revenue. As a result, our revenue growth has been impacted, and we expect will continue to be impacted, by fluctuations in foreign currency exchange rates. In order to provide a framework for assessing performance excluding the impact of foreign currency fluctuations, we present the year-over-year percentage change in revenue on a constant currency basis, which assumes no change in foreign currency exchange rates from the prior-year period and doesn't adjust for any repricing or demand impacts from changes in foreign currency exchange rates. This change in revenue on a constant currency basis is calculated as the quotient of (a) current year revenue converted to U.S. dollars using the prior-year period's foreign currency exchange rates divided by (b) prior-year period revenue. This information is provided so that revenue can be viewed without the effect of fluctuations in foreign currency exchange rates, which is consistent with how management evaluates our revenue results and trends. This constant currency disclosure is provided in addition to, and not as a substitute for, the year-over-year percentage change in revenue on a GAAP basis. Other companies may calculate and define similarly labeled items differently, which may limit the usefulness of this measure for comparative purposes.
+Results of operations in dollars and as a percentage of net revenue were as follows:
+
+-------------------------------------------------- -------------------------------------- ------ ------------ ---- ------- - ------------ - ------- ---- ------------ ----- ------ - - ------ - ----- -
+
+ For the fiscal years ended October 31,
+ 2019 2018 2017
+ Dollars % of Revenue Dollars % of Revenue Dollars % of Revenue
+ Dollars in millions
+Net revenue $ 29,135 100.0 % $ 30,852 100.0 % $ 28,871 100.0 %
+Cost of sales 19,642 67.4 21,621 70.1 20,202 70.0
+Gross profit 9,493 32.6 9,231 29.9 8,669 30.0
+Research and development 1,842 6.3 1,667 5.4 1,490 5.2
+Selling, general and administrative 4,907 16.9 4,921 15.9 5,012 17.3
+Amortization of intangible assets 267 0.8 294 1.0 321 1.1
+Impairment of goodwill — — 88 0.3 — —
+Restructuring charges — — 19 0.1 388 1.3
+Transformation costs 453 1.6 414 1.3 359 1.2
+Disaster (recoveries) charges (7 ) — — — 93 0.3
+Acquisition, disposition and other related charges 757 2.6 82 0.3 203 0.7
+Separation costs — — 9 — 248 0.9
+Defined benefit plan remeasurement benefit — — — — (9 ) —
+Earnings from continuing operations 1,274 4.4 1,737 5.6 564 2.0
+Interest and other, net (177 ) (0.6 ) (274 ) (0.9 ) (327 ) (1.1 )
+Tax indemnification adjustments 377 1.3 (1,354 ) (4.3 ) (3 ) —
+Non-service net periodic benefit credit 59 0.2 121 0.4 61 0.2
+Earnings (loss) from equity interests 20 — 38 0.1 (23 ) (0.1 )
+Earnings from continuing operations before taxes 1,553 5.3 268 0.9 272 1.0
+(Provision) benefit for taxes (504 ) (1.7 ) 1,744 5.6 164 0.5
+Net earnings from continuing operations 1,049 3.6 2,012 6.5 436 1.5
+Net loss from discontinued operations — — (104 ) (0.3 ) (92 ) (0.3 )
+Net earnings $ 1,049 3.6 % $ 1,908 6.2 % $ 344 1.2 %
+
+40
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Net revenue
+The components of the weighted net revenue change by segment were as follows:
+
+------------------------------ -------------------------------------- - ---- ---
+
+ For the fiscal years ended October 31,
+ 2019 2018
+ Percentage Points
+Hybrid IT (5.4 ) 5.5
+Intelligent Edge (0.3 ) 0.7
+Financial Services (0.3 ) 0.2
+Corporate Investments/Other(1) 0.4 0.5
+Total HPE (5.6 ) 6.9
+
+(1) Other primarily related to the elimination of intersegment net revenue.
+Fiscal 2019 compared with Fiscal 2018
+In fiscal 2019, our total net revenue decreased by $1.7 billion or 5.6% (decreased 4.3% on a constant currency basis). U.S. net revenue decreased by $610 million or 6.0% to $9.6 billion, while net revenue from outside of the U.S. decreased by $1.1 billion or 5.4% to $19.5 billion.
+From a segment perspective, the primary factors contributing to the change in our total net revenue are summarized as follows:
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Hybrid IT net revenue decreased, led by Compute, due primarily to a decline in Tier-1 server sales and lower revenue from China as we continue to exit less profitable product categories and certain markets, and unfavorable currency fluctuations. Also, weak demand in the enterprise market led to lower revenue from ISS core products, resulting from longer sales cycles, and lower HPE Pointnext revenue, which also experienced unfavorable currency fluctuations. Storage revenue declined due to the overall weakness in the storage market;
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Intelligent Edge net revenue decreased due primarily to lower sales of our WLAN and switching products within HPE Aruba Products driven by sales execution issues, particularly in the North America region, weaker demand and unfavorable foreign currency fluctuations; and
+
+- -------------------------------------------------------------------------------------------------------------
+• FS net revenue decreased due primarily to a decrease in rental revenue and unfavorable currency fluctuations.
+
+Fiscal 2018 compared with Fiscal 2017
+In fiscal 2018, our total net revenue increased by $2.0 billion or 6.9% (increased 5.0% on a constant currency basis). U.S. net revenue increased by $170 million or 1.7% to $10.2 billion, while net revenue from outside of the U.S. increased by $1.8 billion or 9.6% to $20.7 billion.
+From a segment perspective, the primary factors contributing to the change in our total net revenue are summarized as follows:
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Hybrid IT net revenue increased due to growth in Compute from ISS core products as a result of higher average unit prices ("AUPs"), growth from edge products, increased market demand for IT products, favorable currency fluctuations, and growth in Storage primarily as a result of the Nimble Storage acquistion;
+
+- --------------------------------------------------------------------------------------------------------------
+• Intelligent Edge net revenue increased due primarily to growth in HPE Aruba Product from campus switching; and
+
+- ----------------------------------------------------------------------------------------------------------------------
+• FS net revenue increased due primarily to favorable foreign currency fluctuations and higher asset management revenue.
+
+41
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Gross margin
+Fiscal 2019 compared with Fiscal 2018
+Our gross margin increased 2.7 percentage points for fiscal 2019 as compared with fiscal 2018. From a segment perspective, the primary factors impacting gross margin performance are summarized as follows:
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Hybrid IT gross margin increased due primarily to a combination of factors including the year-over-year decrease in commodity costs, lower costs of services and products due to our cost management initiatives and a lower mix of revenue from lower-margin Tier-1 server sales coupled with a higher mix of revenue from higher-margin products;
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Intelligent Edge gross margin increased due primarily to a higher mix of revenue from higher-margin products and HPE Aruba Services, and cost management activities; and
+
+- -----------------------------------------------------------------------------------------------------------------------------
+• FS gross margin increased due primarily to higher margins from lease extensions and lease buyouts and lower bad debt expense.
+
+Fiscal 2018 compared with Fiscal 2017
+Our gross margin decreased 0.1 percentage points for fiscal 2018 as compared with fiscal 2017. From a segment perspective, the primary factors impacting gross margin performance are summarized as follows:
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+• Hybrid IT gross margin decreased due primarily to a higher mix of lower-margin solutions and higher variable compensation expense;
+
+- -----------------------------------------------------------------------------------------------------------------
+• Intelligent Edge gross margin increased due primarily to a higher mix of revenue from higher-margin products; and
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• FS gross margin increased due primarily to favorable foreign currency fluctuations, higher asset management activity related to lease extensions and higher margins on lease buyouts.
+
+Operating expenses
+Research and development
+R&D expense increased by $175 million, or 10%, in fiscal 2019 as compared to fiscal 2018, due primarily to our continued investments in the Intelligent Edge and Hybrid IT segments and on-going expenses from recent business acquisitions, partially offset by favorable currency fluctuations.
+R&D expense increased by $177 million, or 12%, in fiscal 2018 as compared to fiscal 2017, due to higher variable compensation expense and as we increase new product development in the Hybrid IT and Intelligent Edge segments.
+Selling, general and administrative
+SG&A expense decreased by $14 million, or 0.3%, for fiscal 2019 as compared to fiscal 2018, due primarily to favorable currency fluctuations and lower variable compensation expense, partially offset by higher investment in the sales organization.
+SG&A expense decreased by $91 million, or 2%, for fiscal 2018 as compared to fiscal 2017, due primarily to lower administrative expenses as a result of the HPE Next initiative, partially offset by higher marketing and field selling costs primarily from higher variable compensation expense and unfavorable currency fluctuations.
+Amortization of intangible assets
+Amortization expense decreased by $27 million, or 9%, in fiscal 2019 as compared to fiscal 2018, due to certain intangible assets associated with prior acquisitions reaching the end of their amortization periods, partially offset by an increase in the amortization of intangible assets from recent business acquisitions.
+Amortization expense decreased by $27 million, or 8%, in fiscal 2018 as compared to fiscal 2017, due to certain intangible assets associated with prior acquisitions reaching the end of their amortization periods, partially offset by higher amortization expense in the current period related to intangible assets from business acquisitions in fiscal 2017.
+
+42
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Impairment of goodwill
+During the fourth quarter of fiscal 2018, Hybrid IT segment management changed its evaluation of Hybrid IT to evaluate the previously integrated CMS business separately from the remainder of Hybrid IT, resulting in a reassessment of the reporting units. This change in segment management review triggered an interim goodwill test in the fourth quarter of fiscal 2018 and based on that test, the fair value of CMS was lower than its carrying value, leading to a goodwill impairment charge of $88 million in fiscal 2018.
+Restructuring charges
+Restructuring charges decreased in fiscal 2018 as compared to fiscal 2017, due to the completion of the restructuring plan we announced in September 2015 (the "2015 Plan") in connection with the Separation and the plan initially announced in May 2012 (the "2012 Plan"). As of October 31, 2018, both the 2015 Plan and the 2012 Plan are complete.
+Transformation costs
+Transformation costs increased by $39 million in fiscal 2019 as compared to fiscal 2018 due primarily to the current period containing the combination of lower gains from the sale of real estate and impairment charges on real estate assets, the effects of which were partially offset primarily by lower restructuring charges in the current year period.
+
+Transformation costs increased by $55 million in fiscal 2018 as compared to fiscal 2017 due to higher charges in connection with various transformation programs, partially offset by gains from the sale of real estate.
+Disaster (recoveries) charges
+In fiscal 2019, we recorded $7 million of insurance recoveries and in fiscal 2017, we recorded $93 million of charges, which primarily represented the deductible under the insurance program and an asset impairment charge, in relation to damage to our facilities in Houston, Texas due to Hurricane Harvey in fiscal 2017.
+Acquisition, disposition and other related charges
+Acquisition, disposition and other related charges increased by $675 million in fiscal 2019 as compared to fiscal 2018, due primarily to a charge related to a one-time arbitration settlement.
+Acquisition, disposition and other related charges decreased by $121 million in fiscal 2018 as compared to fiscal 2017, due primarily to reduced costs related to integration activities and retention bonuses.
+Separation costs
+Separation costs decreased by $239 million in fiscal 2018 as compared to fiscal 2017 due to lower costs from the Separation, Everett and Seattle Transactions along with a tax credit related to the Separation.
+Defined benefit plan remeasurement benefit
+Defined benefit plan remeasurement benefit in fiscal 2017 represents an adjustment to the service cost component of the net periodic pension benefit cost resulting from the remeasurement of certain Hewlett Packard Enterprise pension plans due to plan separations in connection with the Everett and Seattle Transactions.
+Interest and other, net
+Interest and other, net expense decreased by $97 million in fiscal 2019 as compared to fiscal 2018, due primarily to the combination of gains from equity investments and currency impacts.
+Interest and other, net expense decreased by $53 million in fiscal 2018 as compared to fiscal 2017, due primarily to lower currency transaction losses, a gain on the sale of Internet Protocol addresses and the sale of certain tax assets, partially offset by cumulative translation adjustments resulting from country exits associated with the HPE Next Initiative.
+Tax indemnification adjustments
+Tax indemnification adjustments, representing $377 million of income, $1.4 billion of expense, and $3 million of expense in fiscal 2019, 2018, and 2017, respectively, resulted primarily from the settlement of certain pre-Separation tax liabilities for
+
+43
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+which we share joint and several liability with HP Inc. and for which we were partially indemnified by HP Inc. under the terminated Tax Matters Agreement. Additionally, fiscal 2019 also includes the impact of the termination of the Tax Matters Agreement with HP Inc. In limited circumstances, we continue to be indemnified under the Termination and Mutual Release Agreement which terminated the Tax Matters Agreement.
+Non-service net periodic benefit credit
+Non-service net periodic benefit credit represents the components of net periodic pension benefit costs, other than service cost, for the Hewlett Packard Enterprise defined benefit pension and post-retirement benefit plans such as interest cost, expected return on plan assets, and the amortization of prior plan amendments and actuarial gains or losses. The credit also includes the impact of any plan settlements, curtailments, or special termination benefits.
+Non-service net periodic benefit credit decreased by $62 million in fiscal 2019 as compared to fiscal 2018, due primarily to lower expected returns on pension investments.
+
+Non-service net periodic benefit credit increased by $60 million in fiscal 2018 as compared to fiscal 2017, due primarily to a decrease in the amortization of pension actuarial losses.
+Earnings (loss) from equity interests
+Earnings (loss) from equity interests primarily represents our 49% interest in H3C and the amortization of our interest in a basis difference. Earnings from equity interests decreased by $18 million in fiscal 2019 as compared to fiscal 2018 due to lower net income earned by H3C.
+Earnings from equity interests increased by $61 million in fiscal 2018 as compared to fiscal 2017 due to higher net income earned by H3C.
+Provision for taxes
+Our effective tax rates were 32.5%, (650.7)% and (60.3)% in fiscal 2019, 2018 and 2017, respectively. In fiscal 2019, our effective tax rate was affected by recording additional valuation allowances on U.S. foreign tax credits as a result of impacts of the Tax Act. Our effective tax rate generally differs from the U.S. federal statutory rate of 21% due to favorable tax rates associated with certain earnings from our operations in lower tax jurisdictions throughout the world but may also be materially impacted by discrete tax adjustments during the fiscal year. The jurisdictions with favorable tax rates that had the most significant impact on our effective tax rate in the periods presented include Puerto Rico and Singapore.
+In fiscal 2019, we recorded $152 million of net income tax charges related to items unique to the year. These amounts primarily included $488 million of income tax charges related to changes in U.S. federal and state valuation allowances primarily as a result of impacts of the Tax Act and $40 million of income tax charges related to future withholding costs on potential intercompany distributions of earnings, the effects of which were partially offset by $274 million of income tax benefits related to the change in pre-Separation tax liabilities for which we shared joint and several liability with HP Inc., and $104 million of income tax benefits on transformation costs, and acquisition, disposition and other related charges.
+In fiscal 2018, we recorded $2.0 billion of net income tax benefits related to items unique to the year. These amounts primarily included $2.0 billion of income tax benefits related to the settlement of certain pre-Separation tax liabilities for which we shared joint and several liability with HP Inc. and for which we were partially indemnified by HP Inc. under the Tax Matters Agreement, $208 million of income tax benefits related to Everett pre-divestiture tax matters and valuation allowances, $125 million of income tax benefits on restructuring charges, separation costs, transformation costs and acquisition and other related charges, and $65 million of income tax benefits on net excess tax benefits related to stock-based compensation, the effects of which were partially offset by $422 million of income tax charges related to impacts of the Tax Act.
+ In fiscal 2017, we recorded $554 million of net income tax benefits related to items unique to the year. These amounts primarily included $699 million of income tax benefits in connection with the Everett and Seattle Transactions and $326 million of income tax benefits on restructuring charges, separation costs, transformation costs, and acquisition and other related charges, the effects of which were partially offset by $473 million of income tax charges to record valuation allowances on U.S. state deferred tax assets and $88 million of income tax charges related to pre-Separation tax matters.
+On December 22, 2017, the Tax Act was enacted into law, which significantly changed existing U.S. tax law and included numerous provisions that affect our business, such as imposing a one-time Transition Tax on deemed repatriation of deferred
+
+44
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+foreign income, reducing the U.S. federal statutory tax rate, and adopting a modified territorial tax system. See Note 8, "Taxes on Earnings", for a full description of the impact of the Tax Act to our operations.
+
+Segment Information
+A description of the products and services for each segment, along with other pertinent information related to Segments can be found in Note 3, "Segment Information", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference. Future changes to our organizational structure may result in changes to the segments disclosed.
+
+Hybrid IT
+
+---------------------------------------------- -------------------------------------- ------ ---- ---- ---- ------ --- - - ------
+
+ For the fiscal years ended October 31,
+ 2019 2018 2017
+ Dollars in millions
+Net revenue $ 22,825 $ 24,498 $ 22,939
+Earnings from operations $ 2,804 $ 2,503 $ 2,183
+Earnings from operations as a % of net revenue 12.3 % 10.2 % 9.5 %
+
+The components of net revenue and the weighted net revenue change by business unit were as follows:
+
+----------------- -------------------------------------- ------ -------------------------------------------- ----- ---- ------ ----- ---- ------ - ---- - ---
+
+ For the fiscal years ended October 31,
+ Net Revenue Weighted Net Revenue ChangePercentage Points
+ 2019 2018 2017 2019 2018
+ Dollars in millions
+Compute $ 12,879 $ 14,057 $ 12,913 (4.8 ) 4.9
+Storage 3,609 3,706 3,280 (0.4 ) 1.9
+Hybrid IT Product $ 16,488 $ 17,763 $ 16,193 (5.2 ) 6.8
+HPE Pointnext 6,337 6,735 6,746 (1.6 ) —
+Total Hybrid IT $ 22,825 $ 24,498 $ 22,939 (6.8 ) 6.8
+
+Fiscal 2019 compared with Fiscal 2018
+Hybrid IT net revenue decreased by $1.7 billion, or 6.8% (decreased 5.7% on a constant currency basis), in fiscal 2019 as compared to fiscal 2018, as we continue to execute on our HPE Next transformation initiative, which includes streamlining our offerings and business processes, and shifting investments in innovation towards high growth and higher-margin solutions and services. As a result, the decrease in Hybrid IT, led by Compute, due primarily to a decline in Tier-1 server sales and lower revenue from China as we continue to exit less profitable product categories and certain markets, and unfavorable currency fluctuations. Also, weak demand in the enterprise market led to lower revenue from ISS core products, resulting from longer sales cycles, and lower HPE Pointnext revenue, which also experienced unfavorable currency fluctuations. Storage revenue declined due to the overall weakness in the storage market, partially offset by higher revenue from HPE Nimble Storage.
+Hybrid IT Product net revenue decreased by $1.3 billion, or 7%, with declines of 8% and 3% in Compute and Storage, respectively.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The net revenue decrease in Compute was due primarily to a decline in Tier-1 server sales and a decline in revenue from China. Revenue from ISS core products decreased due to a decline in unit shipments as a result of demand weakness, primarily in the blade, tower and rack product categories, partially offset by higher AUPs in the tower and rack product categories. Mission Critical Servers ("MCS") experienced a net revenue decline driven by lower revenue from Itanium and NonStop products.
+
+- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The net revenue decrease in Storage was due primarily to a decline in Converged storage, driven by lower revenue in 3PAR and Big Data products, partially offset by growth from HPE Nimble Storage. Traditional storage experienced a revenue decline compared to the prior year period due primarily to lower revenues from Modular Storage Array ("MSA") and tape products.
+
+45
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+HPE Pointnext net revenue decreased by $398 million, or 6%, with revenue declines in Operational Services and Advisory and Professional Services resulting in part from demand weakness. Additionally, Advisory and Professional Services experienced lower revenue as a result of our initiative to streamline our go-to-market approach in certain countries. The impact of unfavorable currency fluctuations contributed to the overall revenue decline in HPE Pointnext.
+
+Hybrid IT earnings from operations as a percentage of net revenue increased 2.1 percentage points for fiscal 2019 as compared to fiscal 2018, due to an increase in gross margin which was partially offset by an increase in operating expenses as a percentage of net revenue. The increase in gross margin was due to a combination of factors including the year-over-year decrease in commodity costs, lower costs of services and products due to our cost management initiatives and a lower mix of revenue from lower-margin Tier-1 server sales coupled with a higher mix of revenue from higher-margin products. These increases to gross margin were partially offset by unfavorable currency fluctuations. The increase in operating expenses as a percentage of net revenue was due primarily to the impact of the net revenue decline, our planned increase to R&D costs in support of investments and on-going expenses from recent businesses acquisitions.
+Fiscal 2018 compared with Fiscal 2017
+Hybrid IT net revenue increased by $1.6 billion, or 6.8% (increased 5.0% on a constant currency basis), in fiscal 2018 as compared to fiscal 2017. The increase in Hybrid IT net revenue was due primarily to growth in Compute from ISS core products due to higher AUPs, growth from edge compute products, increased market demand for IT products, favorable currency fluctuations, and growth in Storage primarily as a result of the Nimble Storage acquisition.
+Hybrid IT Product net revenue increased by $1.6 billion, or 10%, with growth of 9% in Compute and 13% in Storage.
+
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The net revenue increase in Compute was due primarily to growth in ISS core products along with favorable currency fluctuations, growth in edge compute products and higher revenue from the MCS business. The increase in Compute net revenue was partially offset by a decline in Tier-1 server sales as we continue to exit less profitable product categories. The growth in core ISS revenue was driven by an increase in AUPs across most core products due to several factors including the cost of certain commodities, Generation 10 servers representing a higher mix of overall ISS core server products and improved server configurations. The increase in AUPs was partially offset by a decline in unit shipments, primarily in the rack, tower and blade categories. MCS revenue increased as a result of higher revenue from NonStop products.
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• The net revenue increase in Storage was driven by growth in our converged and traditional storage products. Converged storage revenue growth was due primarily to revenue from HPE Nimble Storage and growth in big data products. Traditional storage revenue increased as a result of growth in networking and MSA products.
+
+HPE Pointnext net revenue decreased by $11 million, or 0.2% compared to the prior-year period, due primarily to a revenue decline in Advisory and Professional Services, partially offset by favorable currency fluctuations and revenue growth in Operational Services. The revenue decline in Advisory and Professional Services was due to our exit from low margin countries in this business. Revenue in Operational Services increased due to growth in HPE Datacenter Care and HPE Proactive Care support solutions, partially offset by a reduction in support for legacy server and storage solutions.
+Hybrid IT earnings from operations as a percentage of net revenue increased by 0.7 percentage point, in fiscal 2018 as compared to fiscal 2017. The increase was due to a decrease in operating expenses as a percentage of net revenue partially offset by a decline in gross margin. The gross margin decline was due primarily to a higher mix of lower-margin solutions and higher variable compensation expense, despite being partially offset by a lower mix of revenue from lower-margin Tier-1 server sales. Operating expenses as a percentage of net revenue decreased due to lower expenses as a result of cost reduction and streamlining initiatives partially offset by higher variable compensation expense.
+
+46
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Intelligent Edge
+
+---------------------------------------------- -------------------------------------- ----- ---- --- ---- ----- ---- - - -----
+
+ For the fiscal years ended October 31,
+ 2019 2018 2017
+ Dollars in millions
+Net revenue $ 2,837 $ 2,920 $ 2,722
+Earnings from operations $ 95 $ 277 $ 291
+Earnings from operations as a % of net revenue 3.3 % 9.5 % 10.7 %
+
+The components of the weighted net revenue change by business unit were as follows:
+
+---------------------- -------------------------------------- ----- -------------------------------------------- --- ---- ----- ---- ---- ----- ---- - ---
+
+ For the fiscal years ended October 31,
+ Net Revenue Weighted Net Revenue ChangePercentage Points
+ 2019 2018 2017 2019 2018
+ Dollars in millions
+HPE Aruba Product $ 2,462 $ 2,599 $ 2,435 (4.6 ) 6.1
+HPE Aruba Services 375 321 287 1.8 1.2
+Total Intelligent Edge $ 2,837 $ 2,920 $ 2,722 (2.8 ) 7.3
+
+Fiscal 2019 compared with Fiscal 2018
+Intelligent Edge net revenue decreased by $83 million, or 2.8% (decreased 1.8% on a constant currency basis), in fiscal 2019 as compared to fiscal 2018. The decrease in Intelligent Edge net revenue was due to a net decrease in HPE Aruba Product revenue of $137 million, or 5%, partially offset by an increase in HPE Aruba Services revenue of $54 million, or 17%. The decrease in HPE Aruba Product revenue was due to a revenue decline in WLAN and switching products driven by sales execution issues, particularly in the North America region, weaker demand and unfavorable foreign currency fluctuations. The increase in HPE Aruba Services revenue was due primarily to services attach on a growing product installed base and an increase in renewal rates.
+
+Intelligent Edge earnings from operations as a percentage of net revenue decreased by 6.2 percentage points in fiscal 2019 as compared to fiscal 2018, due to an increase in operating expenses as a percentage of net revenue partially offset by an increase in gross margin. The increase in gross margin was due primarily to a higher mix of revenue from higher-margin products and HPE Aruba Services and cost management activities partially offset by pricing pressures on products. The increase in operating expenses as a percentage of net revenue was due primarily to our continued investments in R&D and the sales organization.
+Fiscal 2018 compared with Fiscal 2017
+Intelligent Edge net revenue increased by $198 million, or 7.3% (increased 5.5% on a constant currency basis), in fiscal 2018 as compared to fiscal 2017. The increase in Intelligent Edge net revenue was due primarily to a net increase in HPE Aruba Product revenue of $164 million, or 7%. The increase in HPE Aruba Product revenue was due primarily to revenue growth in Aruba branded campus switching products partially offset by a decline in revenue from WLAN products. HPE Aruba Services net revenue increased by $34 million, or 12% due primarily to services attach on a growing product installed base.
+Intelligent Edge earnings from operations as a percentage of net revenue decreased 1.2 percentage points in fiscal 2018 as compared to fiscal 2017. The decrease was due to an increase in operating expenses as a percentage of net revenue partially offset by an increase in gross margin. The increase in gross margin was due primarily to a higher mix of revenue from higher-margin products. The increase in operating expenses as a percentage of net revenue was due primarily to higher R&D and field selling costs and higher variable compensation expense.
+
+47
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Financial Services
+
+---------------------------------------------- -------------------------------------- ----- ---- --- ---- ----- --- - - -----
+
+ For the fiscal years ended October 31,
+ 2019 2018 2017
+ Dollars in millions
+Net revenue $ 3,581 $ 3,671 $ 3,602
+Earnings from operations $ 305 $ 286 $ 301
+Earnings from operations as a % of net revenue 8.5 % 7.8 % 8.4 %
+
+Fiscal 2019 compared with Fiscal 2018
+FS net revenue decreased by $90 million, or 2.5% (increased 0.2% on a constant currency basis), in fiscal 2019 due primarily to a decrease in rental revenue due to lower average operating leases and unfavorable currency fluctuations, partially offset by higher asset management revenue from lease extensions, end-of-lease monthly rentals, and lease buyouts.
+FS earnings from operations as a percentage of net revenue increased 0.7 percentage points due to an increase in gross margin and a decrease in operating expenses as a percentage of net revenue. The increase in gross margin was due primarily to higher margins from lease extensions and lease buyouts and lower bad debt expense, partially offset by lower portfolio margins from increased borrowing costs. Operating expenses as a percentage of net revenue decreased primarily as a result of lower field selling costs.
+Fiscal 2018 compared with Fiscal 2017
+FS net revenue increased by $69 million, or 1.9% (increased 0.4% on a constant currency basis), in fiscal 2018 due primarily to favorable foreign currency fluctuations and higher asset management revenue from end-of-lease monthly rentals, remarketing sales and lease extensions, partially offset by a decrease in rental revenue due to lower average operating leases and lower lease buyout revenue due primarily to a large customer buyout transaction in the fourth quarter of fiscal 2017.
+FS earnings from operations as a percentage of net revenue decreased 0.6 percentage points due to an increase in operating expenses as a percentage of net revenue, partially offset with an increase in gross margin. Operating expenses as a percentage of net revenue increased due primarily to higher marketing, administrative and field selling costs. The increase in gross margin was due primarily to favorable foreign currency fluctuations, higher asset management activity related to lease extensions and higher margins on lease buyouts, which was partially offset by an increase in bad debt expense in the current period.
+Financing Volume
+
+---------------------- -------------------------------------- ----- ---- ---- ----- - -----
+
+ For the fiscal years ended October 31,
+ 2019 2018 2017
+ Dollars in millions
+Total financing volume $ 6,200 $ 6,521 $ 6,085
+
+New financing volume, which represents the amount of financing provided to customers for equipment and related software and services, including intercompany activity, decreased by 4.9% in fiscal 2019 and increased 7.2% in fiscal 2018 as compared to the prior-year periods. The decrease in fiscal 2019 was primarily driven by unfavorable currency fluctuations, along with lower financing associated with HPE and third-party product sales and related service offerings. The increase in fiscal 2018 was primarily driven by higher financing associated with third-party product sales and related service offerings, along with favorable currency fluctuations.
+Portfolio Assets and Ratios
+The FS business model is asset intensive and uses certain internal metrics to measure its performance against other financial services companies, including a segment balance sheet that is derived from our internal management reporting system. The accounting policies used to derive FS amounts are substantially the same as those used by the Company. However, intercompany loans and certain accounts that are reflected in the segment balances are eliminated in our Consolidated Financial Statements.
+
+48
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+The portfolio assets and ratios derived from the segment balance sheets for FS were as follows:
+
+------------------------------------------------------------ ------------------- ------ ---- ------ - ------
+
+ As of October 31,
+ 2019 2018
+ Dollars in millions
+Financing receivables, gross $ 8,652 $ 8,256
+Net equipment under operating leases 4,084 4,212
+Capitalized profit on intercompany equipment transactions(1) 382 502
+Intercompany leases(1) 100 125
+Gross portfolio assets 13,218 13,095
+Allowance for doubtful accounts(2) 131 120
+Operating lease equipment reserve 60 63
+Total reserves 191 183
+Net portfolio assets $ 13,027 $ 12,912
+Reserve coverage 1.4 % 1.4 %
+Debt-to-equity ratio(3) 7.0x 7.0x
+
+--- -----------------------------------------------------
+(1) Intercompany activity is eliminated in consolidation.
+
+--- ----------------------------------------------------------------------------------------------------------
+(2) Allowance for doubtful accounts for financing receivables includes both the short- and long-term portions.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) Debt benefiting FS consists of intercompany equity that is treated as debt for segment reporting purposes, intercompany debt, and borrowing- and funding-related activity associated with FS and its subsidiaries. Debt benefiting FS totaled $11.4 billion at October 31, 2019 and 2018, respectively, and was determined by applying an assumed debt-to-equity ratio, which management believes to be comparable to that of other similar financing companies. FS equity at both October 31, 2019 and October 31, 2018 was $1.6 billion.
+
+At October 31, 2019 and 2018, FS net cash and cash equivalents were $711 million and $813 million, respectively.
+Net portfolio assets at October 31, 2019 increased 0.9% from October 31, 2018. The increase generally resulted from new financing volume exceeding portfolio runoff during the period.
+FS bad debt expense includes charges to reserves for sales-type, direct-financing and operating leases. FS recorded net bad debt expense of $75 million, $91 million and $45 million in fiscal 2019, 2018 and 2017, respectively.
+
+Corporate Investments
+
+------------------------------------------ -------------------------------------- ---- ---- ----- ---- --- ----- -- - --- -
+
+ For the fiscal years ended October 31,
+ 2019 2018 2017
+ Dollars in millions
+Net revenue $ 507 $ 543 $ 553
+Loss from operations $ (108 ) $ (91 ) $ (91 )
+Loss from operations as a % of net revenue (21.3 )% (16.8 )% (16.5 )%
+
+Fiscal 2019 compared with Fiscal 2018
+Corporate Investments net revenue decreased by $36 million, or 6.6% (decreased 4.4% on a constant currency bases), in fiscal 2019 as compared to fiscal 2018. The decrease in Corporate Investments net revenue was due to lower services revenue from the Communications and Media Solutions ("CMS") business and unfavorable currency fluctuations.
+Corporate Investments loss from operations as a percentage of net revenue increased 4.5 percentage points in fiscal 2019 as compared to fiscal 2018, due primarily to higher R&D expenses from Hewlett Packard Labs and a legal settlement expense in the CMS business, partially offset by a higher gross margin from the CMS business.
+
+49
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Fiscal 2018 compared with Fiscal 2017
+Corporate Investments net revenue decreased by $10 million, or 1.8% (decreased 4.0% on a constant currency bases), in fiscal 2018 as compared to fiscal 2017. The decrease in Corporate Investments net revenue, was due to lower services revenue from the CMS business.
+Corporate Investments loss from operations as a percentage of net revenue increased 0.3 percentage points in fiscal 2018 as compared to fiscal 2017, due primarily to the net revenue decline and a lower gross margin partially offset by lower R&D expenses from Hewlett Packard Labs, lower field selling costs and administrative expense from the CMS business.
+
+LIQUIDITY AND CAPITAL RESOURCES
+We use cash generated by operations as our primary source of liquidity. We believe that internally generated cash flows will be generally sufficient to support our operating businesses, capital expenditures, product development initiatives, acquisition and disposal activities including legal settlements, restructuring activities, transformation costs, indemnifications, maturing debt, interest payments, income tax payments, in addition to any future investments and any future share repurchases, and future stockholder dividend payments. We expect to supplement this short-term liquidity, if necessary, by accessing the capital markets, issuing commercial paper, and borrowing under credit facilities made available by various domestic and foreign financial institutions. However, our access to capital markets may be constrained and our cost of borrowing may increase under certain business, market and economic conditions. Our liquidity is subject to various risks including the risks identified in the section entitled "Risk Factors" in Item 1A and market risks identified in the section entitled "Quantitative and Qualitative Disclosures about Market Risk" in Item 7A, each of which is incorporated herein by reference.
+Our cash balances are held in numerous locations throughout the world, with a substantial amount held outside of the U.S. We utilize a variety of planning and financing strategies in an effort to ensure that our worldwide cash is available when and where it is needed. Our cash position is strong and we expect that our cash balances, anticipated cash flow generated from operations and access to capital markets will be sufficient to cover our expected near-term cash outlays.
+Amounts held outside of the U.S. are generally utilized to support non-U.S. liquidity needs. Due to the enactment of the Tax Act, all of our cash, cash equivalents, restricted cash and investments held by foreign subsidiaries were subject to U.S. taxation under the one-time Transition Tax as further discussed in Note 8, "Taxes on Earnings". Subsequent repatriations generally will not be taxable from a U.S. federal tax perspective but may be subject to state income or foreign withholding tax. Where local restrictions prevent an efficient intercompany transfer of funds, our intent is to keep cash balances outside of the U.S. and to meet liquidity needs through ongoing cash flows, external borrowings, or both. We do not expect restrictions or potential taxes incurred on repatriation of amounts held outside of the U.S. to have a material effect on our overall liquidity, financial condition or results of operations.
+On October 13, 2015, our Board of Directors approved a share repurchase program with a $3.0 billion authorization, which was refreshed with additional share repurchase authorizations of $3.0 billion, $5.0 billion and $2.5 billion on May 24, 2016, October 16, 2017 and February 21, 2018, respectively. As of October 31, 2019, we had a remaining authorization of $2.5 billion for future share repurchases. The number of shares that we repurchase under the share repurchase program may vary depending on numerous factors, including share price, liquidity and other market conditions, our ongoing capital allocation planning, levels of cash and debt balances, other demands for cash, such as acquisition activity, general economic or business conditions, and board and management discretion. Additionally, our share repurchase activity, if any, during any particular period may fluctuate. We may commence, accelerate, suspend, delay, or discontinue any share repurchase activity at any time, without notice. This program does not have a specific expiration date.
+In fiscal 2019, we repurchased an aggregate of $2.2 billion of our stock as a result of our share repurchase program. For more information on our share repurchase program, refer to Note 16, "Stockholders' Equity", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+50
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Liquidity
+Our cash, cash equivalents, restricted cash, total debt and available borrowing resources were as follows:
+
+------------------------------------------ ----------------- ------ ---- ---- ------ - ------
+
+ As of October 31,
+ 2019 2018 2017
+ In millions
+Cash, cash equivalents and restricted cash $ 4,076 $ 5,084 $ 9,592
+Total debt $ 13,820 $ 12,141 $ 14,032
+Available borrowing resources $ 10,389 $ 9,757 $ 9,891
+
+Our key cash flow metrics were as follows:
+
+------------------------------------------------------------ -------------------------------------- ------ ---- ------ ---- ------ ------ - - ------ -
+
+ For the fiscal years ended October 31,
+ 2019 2018 2017
+ In millions
+Net cash provided by operating activities $ 3,997 $ 2,964 $ 1,335
+Net cash used in investing activities (3,457 ) (1,880 ) (5,349 )
+Net cash (used in) provided by financing activities (1,548 ) (5,592 ) 164
+Net (decrease) in cash, cash equivalents and restricted cash $ (1,008 ) $ (4,508 ) $ (3,850 )
+
+Operating Activities
+Net cash provided by operating activities increased by $1.0 billion for fiscal 2019 as compared to fiscal 2018. The increase was driven primarily by higher cash generated from working capital management, lower payments related to our ongoing HPE Next, fiscal 2015 and fiscal 2012 restructuring plans, cash generated as a result of the settlement of the Tax Matters Agreement pursuant to the Termination and Mutual Release Agreement with HP Inc. and higher profitability, the effects of which were partially offset by an arbitration award settlement with DXC. Net cash provided by operating activities increased $1.6 billion for fiscal 2018 as compared to fiscal 2017 due primarily to higher net earnings in fiscal 2018 and a payment of $1.9 billion for pension funding in connection with the Everett Transaction in fiscal 2017, partially offset by higher cash usage for net working capital management in fiscal 2018.
+Our key working capital metrics were as follows:
+
+------------------------------------------------- ----------------- - ---- ---- ---- ---- -
+
+ As of October 31,
+ 2019 2018 2017
+Days of sales outstanding in accounts receivable 37 37 36
+Days of supply in inventory 45 40 39
+Days of purchases outstanding in accounts payable (104 ) (100 ) (102 )
+Cash conversion cycle (22 ) (23 ) (27 )
+
+Days of sales outstanding in accounts receivable ("DSO") measures the average number of days our receivables are outstanding. DSO is calculated by dividing ending accounts receivable, net of allowance for doubtful accounts, by a 90-day average of net revenue. For fiscal 2019, as compared to the prior-year period, DSO remained flat, as a result of the improvements in collections being offset with unfavorable currency fluctuations and extended payment terms. For fiscal 2018, as compared to the prior-year period, the increase in DSO was due primarily to unfavorable billing linearity, partially offset by an increase in early payments and factoring.
+Days of supply in inventory ("DOS") measures the average number of days from procurement to sale of our product. DOS is calculated by dividing ending inventory by a 90-day average of cost of goods sold. For fiscal 2019, as compared to the prior-year period, the increase in DOS was due primarily to an increase in inventory resulting from the acquisition of Cray Inc. For fiscal 2018, as compared to the prior-year period, the increase in DOS was due primarily to higher levels of strategic commodities inventory to support customer demand, manage supply risk and component cost increases, and higher inventory of server solutions which have longer time-to-shipment cycles.
+
+51
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Days of purchases outstanding in accounts payable ("DPO") measures the average number of days our accounts payable balances are outstanding. DPO is calculated by dividing ending accounts payable by a 90-day average of cost of goods sold. For fiscal 2019, as compared to the prior-year period, the increase in DPO was primarily the result of increase in lease payables due to slower disbursements, payment term extensions and favorable inventory purchasing linearity. For fiscal 2018, as compared to the prior-year period, the decrease in DPO was primarily the result of a reduction in purchases with original equipment manufacturers ("OEMs") and a shift to internal manufacturing for certain compute products.
+The cash conversion cycle is the sum of DSO and DOS, less DPO. Items which may cause the cash conversion cycle in a particular period to differ include, but are not limited to, changes in business mix, changes in payment terms (including extended payment terms from suppliers), the extent of receivables factoring, seasonal trends, the timing of revenue recognition and inventory purchases within the period, the impact of commodity costs and acquisition activity.
+Investing Activities
+Net cash used in investing activities increased by $1.6 billion in fiscal 2019 as compared to fiscal 2018. The increase was due primarily to an increase of $1.3 billion of cash used for payments made in connection with business acquisitions, an increase of $0.4 billion of cash used for investments in property, plant and equipment, net of proceeds from sales, partially offset by an increase of $0.2 billion of cash received from net financial collateral activities in the current period. Net cash used in investing activities decreased by $3.5 billion in fiscal 2018 as compared to fiscal 2017 due primarily to lower payments by $2.0 billion for business acquisitions, in addition to an increase in cash of $0.8 billion from net financial collateral activities and a decrease of $0.6 billion of cash used for investments in property, plant and equipment, net of proceeds from sales.
+Financing Activities
+Net cash used in financing activities decreased by $4.0 billion in fiscal 2019 as compared to fiscal 2018. The decrease was due primarily to the impact of a higher debt redemption by $1.9 billion in the prior period, an increase in cash proceeds from the issuance of debt of $1.1 billion and a lower utilization of cash for share repurchase activity by $1.3 billion in the current period. These amounts were partially offset by a net transfer of cash from Seattle of $0.2 billion in the prior period. Net cash used in financing activities increased by $5.8 billion in fiscal 2018 as compared to fiscal 2017 due primarily to cash dividends of $3.0 billion and $2.5 billion from Everett and Seattle, respectively, in fiscal 2017, higher cash used for share repurchase activity by $1.0 billion and higher debt redemption by $0.4 billion in fiscal 2018, partially offset by $1.1 billion of net transfers of cash and cash equivalents to Everett and Seattle.
+Capital Resources
+Debt Levels
+
+------------------------------ ------------------- ----- ---- --- ---- ------ --- - - ------
+
+ As of October 31,
+ 2019 2018 2017
+ Dollars in millions
+Short-term debt $ 4,425 $ 2,005 $ 3,850
+Long-term debt $ 9,395 $ 10,136 $ 10,182
+Weighted-average interest rate 4.1 % 4.5 % 3.8 %
+
+We maintain debt levels that we establish through consideration of a number of factors, including cash flow expectations, cash requirements for operations, investment plans (including acquisitions), share repurchase activities, our cost of capital, and targeted capital structure.
+On October 4, 2019 we redeemed $1.1 billion of Senior Notes at 2.10% on their maturity date.
+On September 20, 2019, we issued $763 million of asset-backed debt securities in six tranches at a discount to par, at a weighted average price of 99.99% and a weighted average interest rate of 2.31%, payable monthly from November 2019.
+On September 13, 2019, we completed our offering of $1.0 billion aggregate principal amount of 2.25% notes due in 2023 and $0.5 billion floating rate note at three month USD LIBOR plus 0.68% due in 2021. The net proceeds from this offering were used to fund the repayment of the $1.1 billion outstanding principal amount of the 2.10% registered Notes due in October 2019 and fund the acquisition of Cray Inc.
+
+52
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+During fiscal 2019, we issued $0.9 billion and repaid $0.6 billion of commercial paper. For more information on our borrowings, see Note 15, "Borrowings", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+Our weighted-average interest rate reflects the average effective rate on our borrowings prevailing during the period and reflects the impact of interest rate swaps. For more information on our interest rate swaps, see Note 14, "Financial Instruments", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+In December 2017, we filed a shelf registration statement with the Securities and Exchange Commission that allows us to sell, at any time and from time to time, in one or more offerings, debt securities, preferred stock, common stock, warrants, depositary shares, purchase contracts, guarantees or units consisting of any of these securities.
+Revolving Credit Facility
+On August 16, 2019, we entered into a revolving credit facility (the "Credit Agreement"), together with the lenders named therein, JPMorgan Chase Bank, N.A. ("JPMorgan"), as co-administrative agent and administrative processing agent, and Citibank, N.A., as co-administrative agent, providing for a senior, unsecured revolving credit facility with aggregate lending commitments of $4.75 billion. Loans under the revolving credit facility may be used for general corporate purposes. Commitments under the Credit Agreement are available for a period of five years, which period may be extended, subject to the satisfaction of certain conditions, by up to two, one-year periods. Commitment Fees, interest rates and other terms of borrowing under the credit facility vary based on Hewlett Packard Enterprise's external credit rating. This credit facility replaces our prior credit facility that was entered into on November 1, 2015, which was terminated in connection with us entering into the new credit facility. As of October 31, 2019 and 2018, no borrowings were outstanding under the Credit Agreement.
+Available Borrowing Resources
+As of October 31, 2019, we had the following resources available to obtain short- or long-term financing if we need additional liquidity:
+
+--------------------------- ---------------------- -----
+
+ As of October 31, 2019
+ In millions
+Commercial paper programs $ 4,302
+Uncommitted lines of credit $ 1,337
+Revolving credit facility $ 4,750
+
+For more information on our available borrowing resources, see Note 15, "Borrowings", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+CONTRACTUAL AND OTHER OBLIGATIONS
+Our contractual and other obligations as of October 31, 2019, were as follows:
+
+----------------------------------------------------------- ----------- ------ ---------------------- --- --------- ----- --------- ---------------- ----- ----- ----- - -----
+
+ Payments Due by Period
+ Total 1 Year orLess 1-3 Years 3-5 Years More than5 Years
+ In millions
+Principal payments on long-term debt(1) $ 12,773 $ 3,453 $ 3,557 $ 1,013 $ 4,750
+Interest payments on long-term debt(2) 4,459 538 750 538 2,633
+Operating lease obligations (net of sublease rental income) 1,243 190 301 241 511
+Purchase obligations and other(3) 296 138 99 18 41
+Capital lease obligations (includes interest) 73 6 13 13 41
+Total(4)(5)(6)(7)(8) $ 18,844 $ 4,325 $ 4,720 $ 1,823 $ 7,976
+
+53
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(1) Amounts represent the principal cash payments relating to our long-term debt and do not include fair value adjustments, discounts or premiums and debt issuance costs. As of October 31, 2019, the future principal payments related to asset-backed debt securities were expected to be $390 million in fiscal 2020, $248 million in fiscal 2021 and $125 million in fiscal 2022. For more information on our debt, see Note 15, "Borrowings", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Amounts represent the expected interest payments relating to our long-term debt. We use interest rate swaps to mitigate the exposure of our fixed rate debt to changes in fair value resulting from changes in interest rates, or hedge the variability of cash flows in the interest payments associated with our variable-rate debt. The impact of our outstanding interest rate swaps at October 31, 2019 was factored into the calculation of the future interest payments on long-term debt.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) Purchase obligations and other include agreements to purchase goods or services that are enforceable and legally binding on us and that specify all significant terms, including fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction, as well as settlements that we have reached with third parties, requiring us to pay determined amounts over a specific period of time. These purchase obligations are related principally to software maintenance and support services and other items. Purchase obligations exclude agreements that are cancelable without penalty. Purchase obligations also exclude open purchase orders that are routine arrangements entered into in the ordinary course of business as they are difficult to quantify in a meaningful way. Even though open purchase orders are considered enforceable and legally binding, the terms generally allow us the option to cancel, reschedule, and adjust terms based on our business needs prior to the delivery of goods or performance of services.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) In fiscal 2020, we anticipate making contributions of $182 million to our non-U.S. pension plans. Our policy is to fund pension plans so that we meet at least the minimum contribution requirements, as established by local government, funding and taxing authorities. Expected contributions and payments to our pension and post-retirement benefit plans are excluded from the contractual obligations table because they do not represent contractual cash outflows, as they are dependent on numerous factors which may result in a wide range of outcomes. For more information on our retirement and post-retirement benefit plans, see Note 6, "Retirement and Post-Retirement Benefit Plans", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(5) As of October 31, 2019, we expect future cash payments of approximately $597 million in connection with our approved restructuring plans, which includes $380 million expected to be paid in fiscal 2020 and $217 million expected to be paid through fiscal 2022. Payments for restructuring activities have been excluded from the contractual obligations table, because they do not represent contractual cash outflows and there is uncertainty as to the timing of these payments. For more information on our restructuring activities, see Note 4, "Restructuring", and Note 5, "HPE Next", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(6) As of October 31, 2019, we had approximately $536 million of recorded liabilities and related interest and penalties pertaining to uncertain tax positions. These liabilities and related interest and penalties include $3 million expected to be paid within one year. For the remaining amount, we are unable to make a reasonable estimate as to when cash settlement with the tax authorities might occur due to the uncertainties related to these tax matters. Payments of these obligations would result from settlements with taxing authorities. For more information on our uncertain tax positions, see Note 8, "Taxes on Earnings", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(7) In connection with the Separation, the Company entered into a Separation and Distribution Agreement with HP Inc., effective November 1, 2015, whereby the Company agreed to indemnify HP Inc., each of its subsidiaries and each of their respective directors, officers and employees from and against all liabilities relating to, arising out of or resulting from, among other matters, the liabilities allocated to the Company as part of the Separation. HP Inc. similarly agreed to indemnify the Company, each of its subsidiaries and each of their respective directors, officers and employees from and against all claims and liabilities relating to, arising out of or resulting from, among other matters, the liabilities allocated to HP Inc. as part of the Separation. Additionally, in connection with the Separation, the Company entered into a Tax Matters Agreement (the "Tax Matters Agreement") with HP Inc., effective November 1, 2015, that governs the rights and obligations of the Company and HP Inc. for certain pre-Separation tax liabilities. The Tax Matters Agreement provides that the Company and HP Inc. will share certain pre-Separation income tax liabilities that arise from adjustments made by tax authorities to the Company and HP Inc.'s U.S. and certain non-U.S. income tax returns. On October 30, 2019, the Company and HP Inc. entered into a Termination and Mutual Release Agreement to terminate the Tax Matters Agreement. Under the Termination and Mutual Release Agreement, HP Inc. paid the Company $200 million and agreed to pay $50 million on or before October 31, 2020 and October 31, 2021, each. The Company and HP Inc. also agreed to release each other from certain claims and liabilities related to the Tax Matters Agreement. As of October 31, 2019, we had approximately $231 million of recorded net receivables, pertaining to income tax indemnification with HP Inc., including $131 million related to certain state income tax liabilities for which the Company is joint and severally liable. For the amounts related to the joint and several state tax liabilities, we are unable to make a reasonable estimate as to when cash settlement with HP Inc. might occur due to the uncertainties related to the underlying tax matters. Realization of these obligations would result from payments to taxing authorities and the resulting settlements with HP Inc. under the Termination and Mutual Release Agreement. For more information on our general cross-indemnification, Tax Matters Agreement and other joint and several liability income tax matters with HP Inc., see Note 19, "Guarantees, Indemnifications and Warranties", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(8) In connection with the Everett and Seattle Transactions, the Company entered into a Separation and Distribution Agreement with each of DXC, effective May 24, 2016, and Seattle, effective September 7, 2016, whereby DXC and Seattle, as applicable, agreed to indemnify HPE, each of its subsidiaries and each of their respective directors, officers and employees from and against all losses relating to, arising out of or resulting from, among other matters, the liabilities allocated to DXC and Seattle as part of the Everett Transaction and Seattle Transaction, respectively. HPE similarly agreed to indemnify DXC and Seattle, each of their subsidiaries and each of their respective directors, officers and employees from and against all losses relating to, arising out of or resulting from, among other matters, the liabilities allocated to the Company as part of the Everett Transaction and Seattle Transaction, respectively. Additionally, in connection with the Everett and Seattle Transactions, HPE entered into a Tax Matters Agreement with DXC and affiliates, effective March 31, 2017, (the "DXC Tax Matters
+
+54
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Agreement"), and Micro Focus and affiliates, effective September 1, 2017, (the "Micro Focus Tax Matters Agreement"), that governs the rights and obligations of HPE and DXC or Micro Focus, as applicable, for certain pre-divestiture tax liabilities and tax receivables. Each of the DXC Tax Matters Agreement and Micro Focus Tax Matters Agreement generally provides that HPE will be responsible for pre-divestiture tax liabilities and will be entitled to pre-divestiture tax receivables that arise from adjustments made by tax authorities to HPE's and DXC's, or Micro Focus’, as applicable, U.S. and certain non-U.S. tax returns. In certain jurisdictions, HPE and DXC, or Micro Focus, as applicable, have joint and several liability for past income tax liabilities and accordingly, HPE could be legally liable under applicable tax law for such liabilities and required to make additional tax payments. As of October 31, 2019, we had approximately $11 million of recorded net receivables and $9 million of recorded net liabilities pertaining to tax indemnification with DXC and Micro Focus, respectively. We are unable to make a reasonable estimate as to when cash settlement with DXC or Micro Focus might occur due to the uncertainties related to the underlying tax matters. Payments or receipts of these obligations would result from settlements under the Tax Matters Agreement with DXC or Micro Focus. For more information on our general cross-indemnification, Tax Matters Agreement and other income tax matters with DXC and Micro Focus, see Note 19, "Guarantees, Indemnifications and Warranties", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+As part of our ongoing business, we have not participated in transactions that generate material relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+We have third-party revolving short-term financing arrangements intended to facilitate the working capital requirements of certain customers. For more information on our third-party revolving short-term financing arrangements, see Note 9, "Balance Sheet Details", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+55
+
+Table of Contents
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[see Note 5]:
+(5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ (7) This reflects write-offs of leasehold improvements and other fixed assets in connection with our restructuring programs. EBITDA GAAP Reconciliations. EBITDA represents the sum of net income, provision (benefit) for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the merger related costs, restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The EBITDA and adjusted EBITDA margins represent EBITDA or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company's results under U.S. generally accepted accounting principles ("GAAP") and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distor...
+
+[refer to Note 8]:
+Note 8. Securitization Activities Jefferies Group engages in securitization activities related to corporate loans, commercial mortgage loans, consumer loans and mortgage-backed and other asset-backed securities. In securitization transactions, Jefferies Group transfers assets to special purpose entities ("SPEs") and acts as the placement or structuring agent for the beneficial interests sold to investors by the SPE. A significant portion of the securitization transactions are the securitization of assets issued or guaranteed by U.S. government agencies. These SPEs generally meet the criteria of VIEs; however, the SPEs are generally not consolidated as Jefferies Group is not considered the primary beneficiary for these SPEs. F-47 Jefferies Group accounts for securitization transactions as sales, provided it has relinquished control over the transferred assets. Transferred assets are carried at fair value with unrealized gains and losses reflected in Principal transactions revenues in the Consolidated Statements of Operations prior to the identification and isolation for securitization. Subsequently, revenues recognized upon securitization are reflected as net underwriting revenues. Jefferies Group generally receives cash proceeds in connection with the transfer of assets to an SPE. Jefferies Group may, however, have continuing involvement with the transferred assets, which is limited to retaining one or more tranches of the securitization (primarily senior and subordinated debt securities in the form of mortgage- and other asset-backed securities or CLOs), which are included in Trading assets and are generally initially categorized as Level 2 within the fair value hierarchy. Jefferies Group applies fair value accounting to the securities. The following table presents activity related to Jefferies Group's securitizations that were accounted for as sales in which it had continuing involvement (in millions): ----------------------------------------- --------------------...
+
+[refer to Note 13]:
+Note 13. Income Taxes Income from continuing operations before income taxes included income from domestic operations of $12.0 billion, $10.7 billion, and $15.8 billion for the years ended December 31, 2016, 2017, and 2018, respectively, and income from foreign operations of $12.1 billion, $16.5 billion, and $19.1 billion for the years ended December 31, 2016, 2017, and 2018, respectively. The provision for income taxes consists of the following (in millions): -------------------------- ----------------------- ----- ---- ------ ---- ------ ----- - - ----- Year Ended December 31, 2016 2017 2018 Current: Federal and state $ 3,826 $ 12,608 $ 2,153 Foreign 966 1,746 1,251 Total 4,792 14,354 3,404 Deferred: Federal and state (70 ) 220 907 Foreign (50 ) (43 ) (134 ) Total (120 ) 177 773 Provision for income taxes $ 4,672 $ 14,531 $ 4,177 The Tax Act enacted on December 22, 2017 introduced significant changes to U.S. income tax law. Effective 2018, the Tax Act reduced the U.S. statutory tax rate from 35% to 21% and created new taxes on certain foreign-sourced earnings and certain related-party payments. 77 ----------------- ------------- Alphabet Inc. Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we made reasonable estimates of the effects and recorded provisional amounts in our consolidated financial statements as of December 31, 2017. As we collected and prepared necessary data, and interpreted the additional guidance issued by the U.S. Treasury Department, the IRS, and other standard-setting bodies, we made adjustments, over the course of the year, to the provisional amounts including refinements to deferred taxes. The accounting for the tax effects of the Tax Act has been completed as of December 31, 2018. One-time transition tax The Tax Act required us to pay U.S. income taxes on accumulated foreign subsidiary earnings not previously subject to U.S. income tax at a rate of 15.5% to the extent of foreign cash ...
+
+[see Note 1]:
+(1) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. As discussed above, we completed the acquisitions of NES and Neff in April 2017 and October 2017, respectively. Estimated market share as of December 31, 2017 includes the standalone, pre-acquisition revenues of NES and Neff. Estimated market share as of December 31, 2017 does not include BakerCorp and BlueLine because we had not acquired them as of December 31, 2017. If the standalone, pre-acquisition revenues of BakerCorp and BlueLine were included for the year ended December 31, 2017, estimated market share as of December 31, 2017 would have been 12.9 percent. Strategy 2 For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2019, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------...
+
+[See Note 8]:
+Note 8. Securitization Activities Jefferies Group engages in securitization activities related to corporate loans, commercial mortgage loans, consumer loans and mortgage-backed interests sold to investors by the SPE. A significant portion of the securitization transactions are the securitization of assets issued or guaranteed by U.S. government agencies. These SPEs generally related to Jefferies Group's securitizations that were accounted for as sales in which it had continuing involvement (in millions): ----------------------------------------- --------------------...
+
+[refer to Note 16]:
+Note 16. Commitments and Contingencies 78
+
+[see Note 15]:
+Note 15. Long-Term Debt The principal amount (net of unamortized discounts, premiums and debt issuance costs), stated interest rate and maturity date of outstanding debt are as follows (dollars in thousands): ------------------------------------------------------------------------------------- ----------------- --------- ----------------- --------- - --------- November 30, 2018 December 31, 2017 Parent Company Debt: Senior Notes: 5.50% Senior Notes due October 18, 2023, $750,000 principal $ 743,397 $ 742,348 6.625% Senior Notes due October 23, 2043, $250,000 principal 246,719 246,673 Total long-term debt - Parent Company 990,116 989,021 Subsidiary Debt (non-recourse to Parent Company): Jefferies Group: 5.125% Senior Notes, due April 13, 2018, $0 and $678,300 principal -- 682,338 8.5% Senior Notes, due July 15, 2019, $680,800 principal 699,659 728,872 2.375% Euro Medium Term Notes, due May 20, 2020, $565,500 and $594,725 principal 564,702 593,334 6.875% Senior Notes, due April 15, 2021, $750,000 principal 791,814 808,157 2.25% Euro Medium Term Notes, due July 13, 2022, $4,524 and $4,758 principal 4,243 4,389 5.125% Senior Notes, due January 20, 2023, $600,000 principal 612,928 615,703 4.85% Senior Notes, due January 15, 2027, $750,000 principal (1) 709,484 736,357 6.45% Senior Debentures, due June 8, 2027, $350,000 principal 373,669 375,794 3.875% Convertible Senior Debentures, due November 1, 2029, $0 and $324,779 principal -- 324,779 4.15% Senior Notes, due January 23, 2030, $1,000,000 and $0 principal 987,788 -- 6.25% Senior Debentures, due January 15, 2036, $500,000 principal 511,662 512,040 6.50% Senior Notes, due January 20, 2043, $400,000 principal 420,625 420,990 Structured Notes (2) (3) 686,170 614,091 Jefferies Group Revolving Credit Facility 183,539 -- National Beef Reducing Revolver Loan -- 120,000 National Beef Revolving Credit Facility -- 76,809 Foursight Capital Credit Facilities -- 170,455 Other 81,164 112,654 Total long-term debt - subsidiaries 6,627,447 6,...
+
+[see Note 14]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud offerings. - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Other Bets - Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes businesses such as Access, Calico, CapitalG, GV, Verily, Waymo, and X. Revenues from the Other Bets are derived primarily through the sales of internet and TV services through Access as well as licensing and R&D services through Verily. 80 ----------------- ------------- Alphabet Inc...
+
+[see Note 15]:
+Note 15. Long-Term Debt The principal amount (net of unamortized discounts, premiums and debt issuance costs), stated interest rate and maturity date of outstanding debt are as follows (dollars in thousands): ------------------------------------------------------------------------------------- ----------------- --------- ----------------- --------- - --------- November 30, 2018 December 31, 2017 Parent Company Debt: Senior Notes: 5.50% Senior Notes due October 18, 2023, $750,000 principal $ 743,397 $ 742,348 6.625% Senior Notes due October 23, 2043, $250,000 principal 246,719 246,673 Total long-term debt - Parent Company 990,116 989,021 Subsidiary Debt (non-recourse to Parent Company): Jefferies Group: 5.125% Senior Notes, due April 13, 2018, $0 and $678,300 principal -- 682,338 8.5% Senior Notes, due July 15, 2019, $680,800 principal 699,659 728,872 2.375% Euro Medium Term Notes, due May 20, 2020, $565,500 and $594,725 principal 564,702 593,334 6.875% Senior Notes, due April 15, 2021, $750,000 principal 791,814 808,157 2.25% Euro Medium Term Notes, due July 13, 2022, $4,524 and $4,758 principal 4,243 4,389 5.125% Senior Notes, due January 20, 2023, $600,000 principal 612,928 
+
+[see Note 15]:
+Note 15. Long-Term Debt The principal amount (net of unamortized discounts, premiums and debt issuance costs), stated interest rate and maturity date of outstanding debt are as follows (dollars in thousands): ------------------------------------------------------------------------------------- ----------------- --------- ----------------- --------- - --------- November 30, 2018 December 31, 2017 Parent Company Debt: Senior Notes: 5.50% Senior Notes due October 18, 2023, $750,000 principal $ 743,397 $ 742,348 6.625% Senior Notes due October 23, 2043, $250,000 principal 246,719 246,673 Total long-term debt - Parent Company 990,116 989,021 Subsidiary Debt (non-recourse to Parent Company): Jefferies Group: 5.125% Senior Notes, due April 13, 2018, $0 and $678,300 principal -- 682,338 8.5% Senior Notes, due July 15, 2019, $680,800 principal 699,659 728,872 2.375% Euro Medium Term Notes, due May 20, 2020, $565,500 and $594,725 principal 564,702 593,334 6.875% Senior Notes, due April 15, 2021, $750,000 principal 791,814 808,157 2.25% Euro Medium Term Notes, due July 13, 2022, $4,524 and $4,758 principal 4,243 4,389 5.125% Senior Notes, due January 20, 2023, $600,000 principal 612,928 615,703 4.85% Senior Notes, due January 15, 2027, $750,000 principal (1) 709,484 736,357 6.45% Senior Debentures, due June 8, 2027, $350,000 principal 373,669 375,794 3.875% Convertible Senior Debentures, due November 1, 2029, $0 and $324,779 principal -- 324,779 4.15% Senior Notes, due January 23, 2030, $1,000,000 and $0 principal 987,788 -- 6.25% Senior Debentures, due January 15, 2036, $500,000 principal 511,662 512,040 6.50% Senior Notes, due January 20, 2043, $400,000 principal 420,625 420,990 Structured Notes (2) (3) 686,170 614,091 Jefferies Group Revolving Credit Facility 183,539 -- National Beef Reducing Revolver Loan -- 120,000 National Beef Revolving Credit Facility -- 76,809 Foursight Capital Credit Facilities -- 170,455 Other 81,164 112,654 Total long-term debt - subsidiaries 6,627,447 6,...
+
+[see Note 6]:
+ growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and adjusted EBITDA help investors gain an understanding of the factors and trends affecting our ongoing cash earnings, from which capital investments are made and debt is serviced. However, EBITDA and adjusted EBITDA are not measures of financial performan...
+
+[see Note 4]:
+(4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES, Neff and BlueLine acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- when viewed with t...
+
+[see Note 8]:
+Note 8. Securitization Activities Jefferies Group engages in securitization activities related to corporate loans, commercial mortgage loans, consumer loans and mortgage-backed and other asset-backed securities. In securitization transactions, Jefferies Group transfers assets to special purpose entities ("SPEs") and acts as the placement or structuring agent for the beneficial interests sold to investors by the SPE. A significant portion of the securitization transactions are the securitization of assets issued or guaranteed by U.S. government agencies. These SPEs generally meet the criteria of VIEs; however, the SPEs are generally not consolidated as Jefferies Group is not considered the primary beneficiary for these SPEs. F-47 Jefferies Group accounts for securitization transactions as sales, provided it has relinquished control over the transferred assets. Transferred assets are carried at fair value with unrealized gains and losses reflected in Principal transactions revenues in the Consolidated Statements of Operations prior to the identification and isolation for securitization. Subsequently, revenues recognized upon securitization are reflected as net underwriting revenues. Jefferies Group generally receives cash proceeds in connection with the transfer of assets to an SPE. Jefferies Group may, however, have continuing involvement with the transferred assets, which is limited to retaining one or more tranches of the securitization (primarily senior and subordinated debt securities in the form of mortgage- and other asset-backed securities or CLOs), which are included in Trading assets and are generally initially categorized as Level 2 within the fair value hierarchy. Jefferies Group applies fair value accounting to the securities. The following table presents activity related to Jefferies Group's securitizations that were accounted for as sales in which it had continuing involvement (in millions): ----------------------------------------- --------------------...
+
+[see Note 19]:
+Note 19. Pension Plans and Postretirement Benefits U.S. Pension Plans Pursuant to the agreement to sell one of our former subsidiaries, WilTel Communications Group, LLC, ("WilTel") the responsibility for WilTel's defined benefit pension plan was retained by us. All benefits under this plan were frozen as of October 30, 2005. Prior to the acquisition of Jefferies Group, Jefferies Group sponsored a defined benefit pension plan covering certain employees; benefits under that plan were frozen as of December 31, 2005. A summary of activity with respect to both plans is as follows (in thousands): ----------------------------------------------- ------------------------------------- ------- ------------------------------------- ------ - ------- - Eleven Months Ended November 30, 2018 Twelve Months Ended December 31, 2017 Change in projected benefit obligation: Projected benefit obligation, beginning of year $ 211,257 $ 205,405 Interest cost 6,783 8,119 Actuarial (gains) losses (16,646 ) 6,644 Settlement payments (3,133 ) -- Benefits paid (7,000 ) (8,911 ) Projected benefit obligation, end of year $ 191,261 $ 211,257 Change in plan assets: Fair value of plan assets, beginning of year $ 150,806 $ 127,514 Actual return on plan assets (7,676 ) 22,192 Employer contributions 8,890 12,417 Benefits paid (7,000 ) (8,911 ) Settlement payments (3,133 ) -- Administrative expenses (2,895 ) (2,406 ) Fair value of plan assets, end of year $ 138,992 $ 150,806 Funded status at end of year $ (52,269 ) $ (60,451 ) As of November 30, 2018 and December 31, 2017, $49.7 million and $51.3 million, respectively, of the net amount recognized in the Consolidated Statements of Financial Condition was reflected as a charge to Accumulated other comprehensive income (substantially all of which were cumulative losses) and $52.3 million and $60.5 million, respectively, was reflected as accrued pension cost. F-71 The following table summarizes the components of net periodic pension cost and other amounts reco...
+
+[see Note 19]:
+Note 19. Pension Plans and Postretirement Benefits U.S. Pension Plans Pursuant to the agreement to sell one of our former subsidiaries, WilTel Communications Group, LLC, ("WilTel") the responsibility for WilTel's defined benefit pension plan was retained by us. All benefits under this plan were frozen as of October 30, 2005. Prior to the acquisition of Jefferies Group, Jefferies Group sponsored a defined benefit pension plan covering certain employees; benefits under that plan were frozen as of December 31, 2005. A summary of activity with respect to both plans is as follows (in thousands): ----------------------------------------------- ------------------------------------- beginning of year $ 211,257 $ 205,405 Interest cost 6,783 8,119 Actuarial (gains) losses (16,646 ) 6,644 Settlement payments (3,133 ) -- Benefits paid (7,000 ) (8,911 ) Projected benefit obligation, end of year $ 191,261 $ 211,257 Change in plan assets: Fair value of plan assets, beginning of year $ 150,806 $ 127,514 Actual return on plan assets (7,676 ) 22,192 Employer contributions 8,890 12,417 Benefits paid (7,000 ) (8,911 ) Settlement payments (3,133 ) -- Administrative expenses (2,895 ) (2,406 ) Fair value of plan assets, end of year $ 138,992 $ 150,806 Funded status at end of year $ (52,269 ) $ (60,451 ) As of November 30, 2018 and December 31, 2017, $49.7 million and $51.3 million, respectively, of the net amount recognized in the Consolidated Statements of Financial Condition was reflected as a charge to Accumulated other comprehensive income (substantially all of which were cumulative losses) and $52.3 million and $60.5 million, respectively, was reflected as accrued pension cost. F-71 The following table summarizes the components of net periodic pension cost and other amounts reco...
+
+[see Note 9]:
+Note 9. Commitments and Contingencies Commitments Leases We have entered into various non-cancelable operating lease agreements for certain of our offices, data centers, land, and colocations with original lease periods expiring between 2019 and 2093. We are committed to pay a portion of the related actual operating expenses under certain of these lease agreements. Certain of these arrangements have free rent periods or escalating rent payment provisions, and we recognize rent expense under such arrangements on a straight-line basis. The following is a schedule, by years, of the future minimum lease payments required under non-cancelable operating leases as of December 31, 2018 (in millions): ---------------------------- ---------------- ------ Operating Leases 2019 $ 698 2020 946 2021 1,055 2022 1,048 2023 1,054 Thereafter 9,850 Total minimum lease payments $ 14,651 Operating lease expense was $629 million, $363 million, and $269 million for the years ended December 31, 2018, 2017 and 2016, respectively. We fully repaid all our capital lease obligations during 2016. Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $6.17 billion of non-cancelable contractual commitments as of December 31, 2018, primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Contingencies Lega...
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[Item 8 of Part II]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[") and Micro Focus International plc (“Micro Focus”).
+
+We intend the discussion of our financial condition and results of operations that follows to provide information that will assist the reader in understanding our Consolidated Financial Statements, the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles, policies and estimates affect our Consolidated Financial Statements. This discussion should be read in conjunction with our Consolidated Financial Statements and the related notes that appear elsewhere in this document.
+Former Parent Separation Transaction
+On November 1, 2015, the Company became an independent publicly-traded company through a pro rata distribution by HP Inc. ("]:
+(1) As discussed above, we completed the acquisitions of BakerCorp and BlueLine the acquisitions of NES and Neff in April 2017 and October 2017, respectively. Estimated market share as of December 31, 2017 includes the standalone, pre-acquisition revenues of NES and Neff. Estimated were included for the year ended December 31, 2017, estimated market share as of December 31, 2017 would have been 12.9 percent. Strategy 2 For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior 
+
+['s expected returns for each asset class. In any fiscal year, significant differences may arise between the actual return and the expected long-term return on plan assets. Historically, differences between the actual return and expected long-term return on plan assets have resulted from changes in target or actual asset allocation, short-term performance relative to expected long-term performance, and to a lesser extent, differences between target and actual investment allocations, the timing of benefit payments compared to expectations, and the use of derivatives intended to effect asset allocation changes or hedge certain investment or liability exposures.
+Our major assumptions vary by plan, and the weighted-average rates used are set forth in Note 6, "]:
+(6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that and adjusted EBITDA are not measures of financial performan...
+
+["), liabilities assumed, and non-controlling interests in the acquiree generally based on their fair values at the acquisition date. IPR&D is initially capitalized at fair value as an intangible asset with an indefinite life and assessed for impairment thereafter. The excess of the fair value of purchase consideration over the fair value of these assets acquired, liabilities assumed and non-controlling interests in the acquiree is recorded as goodwill.
+When determining the fair values of assets acquired, liabilities assumed, and non-controlling interests in the acquiree, management makes significant estimates and assumptions, especially with respect to intangible assets. Critical estimates in valuing intangible assets include, but are not limited to, expected future cash flows, which includes consideration of future growth rates and margins, attrition rates, future changes in technology and brand awareness, loyalty and position, and discount rates. Fair value estimates are based on the assumptions management believes a market participant would use in pricing the asset or liability. Amounts recorded in a business combination may change during the measurement period, which is a period not to exceed one year from the date of acquisition, as additional information about conditions existing at the acquisition date becomes available.
+Goodwill
+We review goodwill for impairment annually and whenever events or changes in circumstances indicate the carrying amount of goodwill may not be recoverable. We are permitted to conduct a qualitative assessment to determine whether it is necessary to perform a quantitative goodwill impairment test. We perform a quantitative test for each of our reporting units as part of our annual goodwill impairment test in the fourth quarter of each fiscal year.
+Goodwill is tested for impairment at the reporting unit level. As of October 31, 2019, our reporting units containing goodwill are consistent with the reportable segments identified in Note 3 “Segment Information” to the Consolidated Financial Statements.
+In the goodwill impairment test, we compare the fair value of each reporting unit to its carrying amount. We estimate the fair value of a reporting unit based on the present value of estimated future cash flows. Cash flow projections are based on management']:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS XBRL Instance Document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 91 ------- ------------------------------------------------------ 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document * Indicates a management contract or compensatory plan or arrangement
+
+['s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+Intangible Assets
+We review intangible assets with finite lives for impairment whenever events or changes in circumstances indicate the carrying amount of an asset may not be recoverable. Recoverability of our finite-lived intangible assets is assessed based on the estimated undiscounted future cash flows expected to result from the use and eventual disposition of the asset. If the undiscounted future cash flows are less than the carrying amount, the finite-lived intangible assets are considered to be impaired. The amount of the impairment loss, if any, is measured as the difference between the carrying amount of the asset and its fair value. We estimate the fair value of finite-lived intangible assets by using an income approach or, when available and appropriate, using a market approach.
+Fair Value of Derivative Instruments
+We use derivative instruments to manage a variety of risks, including risks related to foreign currency exchange rates and interest rates. We use forwards, swaps and, at times, options to hedge certain foreign currency and interest rate exposures. We do not use derivative financial instruments for speculative purposes. At October 31, 2019, the gross notional amount of our derivative portfolio was $24.2 billion. Assets and liabilities related to derivative instruments are measured at fair value, and were $468 million and $147 million, respectively, as of October 31, 2019.
+Fair value is the price we would receive to sell an asset or pay to transfer a liability in an orderly transaction between market participants at the measurement date. In the absence of active markets for identical assets or liabilities, such measurements involve developing assumptions based on market observable data and, in the absence of such data, internal information that is consistent with what market participants would use in a hypothetical transaction that occurs at the measurement date. The determination of fair value often involves significant judgments about assumptions such as determining an appropriate discount rate that factors in both risk and liquidity premiums, identifying the similarities and differences in market transactions, weighting those differences accordingly and then making the appropriate adjustments to those market transactions to reflect the risks specific to the asset or liability being valued. We generally use industry standard valuation models to measure the fair value of our derivative positions. When prices in active markets are not available for an identical asset or liability, we use industry standard valuation models to measure fair value. Where applicable, these models project future cash flows and discount the future amounts to present value using market based observable inputs, including interest rate curves, Company and counterparty credit risk, foreign currency exchange rates, and forward and spot prices.
+For a further discussion of fair value measurements and derivative instruments, refer to Note 13, "]:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS XBRL Instance Document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 91 ------- ------------------------------------------------------ 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document * Indicates a management contract or compensatory plan or arrangement
+
+[" and Note 14, "]:
+Note 14. Information about Segments and Geographic Areas We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets. Our reported segments are: - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Google - Google includes our main products such as Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware (including Nest), Search, and YouTube. Our technical infrastructure is also Alphabet Inc...
+
+[", respectively, to the Consolidated Financial Statements.
+Loss Contingencies
+We are involved in various lawsuits, claims, investigations and proceedings including those consisting of IP, commercial, securities, employment, employee benefits, and environmental matters, which arise in the ordinary course of business. We record a liability when we believe that it is both probable that a liability has been incurred and the amount of loss can be reasonably estimated. Significant judgment is required to determine both the probability of having incurred a liability and the estimated amount of the liability. We review these matters at least quarterly and adjust these liabilities to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and other updated information and events, pertaining to a particular case. Based on our experience, we believe that any damage amounts claimed in the specific litigation and contingency matters further discussed in Note 18, "]:
+Note 18. Restructuring and Other Initiatives 86
+
+[", to the Consolidated Financial Statements are not a meaningful indicator of our potential liability. Litigation is inherently unpredictable. However, we believe we have valid defenses with respect to legal matters pending against us. Nevertheless, cash flows or results of operations could be materially affected in any particular period by the resolution of one or more of these contingencies. We believe we have recorded adequate provisions for any such matters and, as of October 31, 2019, it was not reasonably possible that a material loss had been incurred in connection with such matters in excess of the amounts recognized in our financial statements.
+
+ACCOUNTING PRONOUNCEMENTS
+For a summary of recent accounting pronouncements applicable to our Consolidated Financial Statements, see Note 1, "]:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS XBRL Instance Document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 91 ------- ------------------------------------------------------ 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document * Indicates a management contract or compensatory plan or arrangement
+
+[", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference.
+
+39
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+Item 8. Financial Statements and Supplementary Data 31
+
+['s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+
+foreign income, reducing the U.S. federal statutory tax rate, and adopting a modified territorial tax system. See Note 8, "]:
+Note 8. Securitization Activities Jefferies Group engages in securitization activities related to corporate loans, commercial mortgage loans, consumer loans and mortgage-backed and other asset-backed securities. In securitization transactions, Jefferies Group transfers assets to special purpose entities ("SPEs") and acts as the placement or structuring agent for the beneficial interests sold to investors by the SPE. A significant portion of the securitization transactions are the securitization of assets issued or guaranteed by U.S. government agencies. These SPEs generally meet the criteria of VIEs; however, the SPEs are generally not consolidated as Jefferies Group is not considered the primary beneficiary for these SPEs. F-47 Jefferies Group accounts for securitization transactions as sales, provided it has relinquished control over the transferred assets. Transferred assets are carried at fair value with unrealized gains and losses reflected in Principal transactions revenues in the Consolidated Statements of Operations prior to the identification and isolation for securitization. Subsequently, revenues recognized upon securitization are reflected as net underwriting revenues. Jefferies Group generally receives cash proceeds in connection with the transfer of assets to an SPE. Jefferies Group may, however, have continuing involvement with the transferred assets, which is limited to retaining one or more tranches of the securitization (primarily senior and subordinated debt securities in the form of mortgage- and other asset-backed securities or CLOs), which are included in Trading assets and are generally initially categorized as Level 2 within the fair value hierarchy. Jefferies Group applies fair value accounting to the securities. The following table presents activity related to Jefferies Group's securitizations that were accounted for as sales in which it had continuing involvement (in millions): ----------------------------------------- --------------------...
+
+[", for a full description of the impact of the Tax Act to our operations.
+
+Segment Information
+A description of the products and services for each segment, along with other pertinent information related to Segments can be found in Note 3, "]:
+(3) This reflects the impact of extending the useful lives of equipment acquired in the RSC, NES, Neff, BakerCorp and BlueLine acquisitions, net of the impact of additional depreciation associated with the fair value mark-up of such equipment. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (4) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in the RSC, NES, Neff and BlueLine acquisitions that was subsequently sold. --- ----------------------------------------------------------------------------------------------------------------------------- (5) This reflects a reduction of interest expense associated with the fair value mark-up of debt acquired in the RSC acquisition. --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- (6) As discussed in note 6 to our consolidated financial statements, this primarily reflects severance costs and branch closure charges associated with our restructuring programs. --- ------------------------------------------------------------------------------------------------------------------------ restructuring charge, stock compensation expense, net, and the impact of the fair value mark-up of acquired fleet. These items are excluded from adjusted EB...
+
+[", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference. Future changes to our organizational structure may result in changes to the segments disclosed.
+
+Hybrid IT
+
+---------------------------------------------- -------------------------------------- ------ ---- ---- ---- ------ --- - - ------
+
+ For the fiscal years ended October 31,
+ 2019 2018 2017
+ Dollars in millions
+Net revenue $ 22,825 $ 24,498 $ 22,939
+Earnings from operations $ 2,804 $ 2,503 $ 2,183
+Earnings from operations as a % of net revenue 12.3 % 10.2 % 9.5 %
+
+The components of net revenue and the weighted net revenue change by business unit were as follows:
+
+----------------- -------------------------------------- ------ -------------------------------------------- ----- ---- ------ ----- ---- ------ - ---- - ---
+
+ For the fiscal years ended October 31,
+ Net Revenue Weighted Net Revenue ChangePercentage Points
+ 2019 2018 2017 2019 2018
+ Dollars in millions
+Compute $ 12,879 $ 14,057 $ 12,913 (4.8 ) 4.9
+Storage 3,609 3,706 3,280 (0.4 ) 1.9
+Hybrid IT Product $ 16,488 $ 17,763 $ 16,193 (5.2 ) 6.8
+HPE Pointnext 6,337 6,735 6,746 (1.6 ) —
+Total Hybrid IT $ 22,825 $ 24,498 $ 22,939 (6.8 ) 6.8
+
+Fiscal 2019 compared with Fiscal 2018
+Hybrid IT net revenue decreased by $1.7 billion, or 6.8% (decreased 5.7% on a constant currency basis), in fiscal 2019 as compared to fiscal 2018, as we continue to execute on our HPE Next transformation initiative, which includes streamlining our offerings and business processes, and shifting investments in innovation towards high growth and higher-margin solutions and services. As a result, the decrease in Hybrid IT, led by Compute, due primarily to a decline in Tier-1 server sales and lower revenue from China as we continue to exit less profitable product categories and certain markets, and unfavorable currency fluctuations. Also, weak demand in the enterprise market led to lower revenue from ISS core products, resulting from longer sales cycles, and lower HPE Pointnext revenue, which also experienced unfavorable currency fluctuations. Storage revenue declined due to the overall weakness in the storage market, partially offset by higher revenue from HPE Nimble Storage.
+Hybrid IT Product net revenue decreased by $1.3 billion, or 7%, with declines of 8% and 3% in Compute and Storage, respectively.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ as a result of demand weakness, primarily in the blade, tower and rack product categories, partially offset by higher AUPs in the tower and rack product categories. Mission Critical Servers ("]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+50
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+Item 8. Financial Statements and Supplementary Data 31
+
+[") and a shift to internal manufacturing for certain compute products.
+The cash conversion cycle is the sum of DSO and DOS, less DPO. Items which may cause the cash conversion cycle in a particular period to differ include, but are not limited to, changes in business mix, changes in payment terms (including extended payment terms from suppliers), the extent of receivables factoring, seasonal trends, the timing of revenue recognition and inventory purchases within the period, the impact of commodity costs and acquisition activity.
+Investing Activities
+Net cash used in investing activities increased by $1.6 billion in fiscal 2019 as compared to fiscal 2018. The increase was due primarily to an increase of $1.3 billion of cash used for payments made in connection with business acquisitions, an increase of $0.4 billion of cash used for investments in property, plant and equipment, net of proceeds from sales, partially offset by an increase of $0.2 billion of cash received from net financial collateral activities in the current period. Net cash used in investing activities decreased by $3.5 billion in fiscal 2018 as compared to fiscal 2017 due primarily to lower payments by $2.0 billion for business acquisitions, in addition to an increase in cash of $0.8 billion from net financial collateral activities and a decrease of $0.6 billion of cash used for investments in property, plant and equipment, net of proceeds from sales.
+Financing Activities
+Net cash used in financing activities decreased by $4.0 billion in fiscal 2019 as compared to fiscal 2018. The decrease was due primarily to the impact of a higher debt redemption by $1.9 billion in the prior period, an increase in cash proceeds from the issuance of debt of $1.1 billion and a lower utilization of cash for share repurchase activity by $1.3 billion in the current period. These amounts were partially offset by a net transfer of cash from Seattle of $0.2 billion in the prior period. Net cash used in financing activities increased by $5.8 billion in fiscal 2018 as compared to fiscal 2017 due primarily to cash dividends of $3.0 billion and $2.5 billion from Everett and Seattle, respectively, in fiscal 2017, higher cash used for share repurchase activity by $1.0 billion and higher debt redemption by $0.4 billion in fiscal 2018, partially offset by $1.1 billion of net transfers of cash and cash equivalents to Everett and Seattle.
+Capital Resources
+Debt Levels
+
+------------------------------ ------------------- ----- ---- --- ---- ------ --- - - ------
+
+ As of October 31,
+ 2019 2018 2017
+ Dollars in millions
+Short-term debt $ 4,425 $ 2,005 $ 3,850
+Long-term debt $ 9,395 $ 10,136 $ 10,182
+Weighted-average interest rate 4.1 % 4.5 % 3.8 %
+
+We maintain debt levels that we establish through consideration of a number of factors, including cash flow expectations, cash requirements for operations, investment plans (including acquisitions), share repurchase activities, our cost of capital, and targeted capital structure.
+On October 4, 2019 we redeemed $1.1 billion of Senior Notes at 2.10% on their maturity date.
+On September 20, 2019, we issued $763 million of asset-backed debt securities in six tranches at a discount to par, at a weighted average price of 99.99% and a weighted average interest rate of 2.31%, payable monthly from November 2019.
+On September 13, 2019, we completed our offering of $1.0 billion aggregate principal amount of 2.25% notes due in 2023 and $0.5 billion floating rate note at three month USD LIBOR plus 0.68% due in 2021. The net proceeds from this offering were used to fund the repayment of the $1.1 billion outstanding principal amount of the 2.10% registered Notes due in October 2019 and fund the acquisition of Cray Inc.
+
+52
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+(1) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. As discussed above, we completed the acquisitions of NES and Neff in April 2017 and October 2017, respectively. Estimated market share as of December 31, 2017 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine were included for the year ended December 31, 2017, estimated market share as of December 31, 2017 would have been 12.9 percent. Strategy 2 For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2019, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------...
+
+['s external credit rating. This credit facility replaces our prior credit facility that was entered into on November 1, 2015, which was terminated in connection with us entering into the new credit facility. As of October 31, 2019 and 2018, no borrowings were outstanding under the Credit Agreement.
+Available Borrowing Resources
+As of October 31, 2019, we had the following resources available to obtain short- or long-term financing if we need additional liquidity:
+
+--------------------------- ---------------------- -----
+
+ As of October 31, 2019
+ In millions
+Commercial paper programs $ 4,302
+Uncommitted lines of credit $ 1,337
+Revolving credit facility $ 4,750
+
+For more information on our available borrowing resources, see Note 15, "]:
+(1) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. As discussed above, we completed the acquisitions of NES and Neff in April 2017 and October 2017, respectively. Estimated market share as of December 31, 2017 includes the standalone, pre-acquisition revenues of NES and Neff. Estimated market share as of December 31, 2017 does not include BakerCorp and BlueLine because we had not acquired them as of December 31, 2017. If the standalone, pre-acquisition revenues of BakerCorp and BlueLine were included for the year ended December 31, 2017, estimated market share as of December 31, 2017 would have been 12.9 percent. Strategy 2 For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2019, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------...
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+CONTRACTUAL AND OTHER OBLIGATIONS
+Our contractual and other obligations as of October 31, 2019, were as follows:
+
+----------------------------------------------------------- ----------- ------ ---------------------- --- --------- ----- --------- ---------------- ----- ----- ----- - -----
+
+ Payments Due by Period
+ Total 1 Year orLess 1-3 Years 3-5 Years More than5 Years
+ In millions
+Principal payments on long-term debt(1) $ 12,773 $ 3,453 $ 3,557 $ 1,013 $ 4,750
+Interest payments on long-term debt(2) 4,459 538 750 538 2,633
+Operating lease obligations (net of sublease rental income) 1,243 190 301 241 511
+Purchase obligations and other(3) 296 138 99 18 41
+Capital lease obligations (includes interest) 73 6 13 13 41
+Total(4)(5)(6)(7)(8) $ 18,844 $ 4,325 $ 4,720 $ 1,823 $ 7,976
+
+53
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+Item 8. Financial Statements and Supplementary Data 31
+
+['s U.S. and certain non-U.S. income tax returns. On October 30, 2019, the Company and HP Inc. entered into a Termination and Mutual Release Agreement to terminate the Tax Matters Agreement. Under the Termination and Mutual Release Agreement, HP Inc. paid the Company $200 million and agreed to pay $50 million on or before October 31, 2020 and October 31, 2021, each. The Company and HP Inc. also agreed to release each other from certain claims and liabilities related to the Tax Matters Agreement. As of October 31, 2019, we had approximately $231 million of recorded net receivables, pertaining to income tax indemnification with HP Inc., including $131 million related to certain state income tax liabilities for which the Company is joint and severally liable. For the amounts related to the joint and several state tax liabilities, we are unable to make a reasonable estimate as to when cash settlement with HP Inc. might occur due to the uncertainties related to the underlying tax matters. Realization of these obligations would result from payments to taxing authorities and the resulting settlements with HP Inc. under the Termination and Mutual Release Agreement. For more information on our general cross-indemnification, Tax Matters Agreement and other joint and several liability income tax matters with HP Inc., see Note 19, "]:
+Note 30. Selected Quarterly Financial Data (Unaudited) ------------------------------------------------------------------------------------------------------------ ---------------------------------------- --------- ----------------- ------- ---------------- ------- ----------------- - - --------- - - --------- - FirstQuarter (1) SecondQuarter (2) ThirdQuarter (3) FourthQuarter (4) (In thousands, except per share amounts) 2018 Net revenues $ 895,435 $ 911,159 $ 1,150,846 $ 806,594 Income (loss) from continuing operations 86,192 27,917 182,301 (19,318 ) Income from discontinued operations, net of taxes 52,957 77,106 -- -- Gain on disposal of discontinued operations, net of taxes -- 643,921 -- -- Net (income) loss attributable to the noncontrolling interest 1,344 (136 ) 12,000 (233 ) Net (income) loss attributable to the redeemable noncontrolling interests (14,796 ) (22,108 ) (390 ) 31 Preferred stock dividends (1,172 ) (1,171 ) (1,276 ) (851 ) Net income (loss) attributable to Jefferies Financial Group Inc. common shareholders 124,525 725,529 192,635 (20,371 ) Basic earnings (loss) per common share attributable to Jefferies Financial Group Inc. common shareholders: Income (loss) from continuing operations $ 0.23 $ 0.08 $ 0.56 $ (0.06 ) Income from discontinued operations 0.11 0.15 -- -- Gain on disposal of discontinued operations -- 1.82 -- -- Net income (loss) $ 0.34 $ 2.05 $ 0.56 $ (0.06 ) Number of shares used in calculation 366,427 352,049 341,434 329,101 Diluted earnings (loss) per common share attributable to Jefferies Financial Group Inc. common shareholders: Income (loss) from continuing operations $ 0.23 $ 0.08 $ 0.55 $ (0.06 ) Income from discontinued operations 0.11 0.15 -- -- Gain on disposal of discontinued operations -- 1.80 -- -- Net income (loss) $ 0.34 $ 2.03 $ 0.55 $ (0.06 ) Number of shares used in calculation 373,461 356,075 350,307 329,101 2017 Net revenues $ 1,306,526 $ 856,861 $ 857,223 $ 1,056,835 Income (loss) from continuing operations 249,751 20,072 15,778...
+
+[", to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ a Tax Matters Agreement with DXC and affiliates, effective March 31, 2017, (the "]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference.
+For a further discussion of trends, uncertainties and other factors that could impact our operating results, see the section entitled "]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[" in Item 1A, which is incorporated herein by reference.
+
+34
+
+Table of Contents
+HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+Management']:
+Item 1A. Risk Factors 8
+
+[", to the Consolidated Financial Statements in Item 8 of Part II, which is incorporated herein by reference. An accounting policy is deemed to be critical if it requires an accounting estimate to be possible could materially impact the financial statements. Management believes the following critical accounting policies reflect the significant estimates and assumptions used in the preparation of the Consolidated Financial Statements.
+Revenue Recognition
+General
+As a result of adopting the new revenue recognition standard ("]:
+Item 8. Financial Statements and Supplementary Data 31
+
+[". Subsequent repatriations generally will not be taxable from a U.S. federal tax perspective but may be subject to state income or foreign withholding tax. Where local restrictions prevent an efficient intercompany transfer of funds, our intent is to keep cash balances outside of the U.S. and to meet liquidity needs through ongoing cash flows, external borrowings, or both. We do not expect restrictions or potential taxes incurred on repatriation of amounts held outside of the U.S. to have a material effect on our overall liquidity, financial condition or results of operations.
+On October 13, 2015, our Board of Directors approved a share repurchase program with a $3.0 billion authorization, which was refreshed with additional share repurchase authorizations of $3.0 billion, $5.0 billion and $2.5 billion on May 24, 2016, October 16, 2017 and February 21, 2018, respectively. As of October 31, 2019, we had a remaining authorization of $2.5 billion for future share repurchases. The number of shares that we repurchase under the share repurchase program may vary depending on numerous factors, including share price, liquidity and other market conditions, our ongoing capital allocation planning, levels of cash and debt balances, other demands for cash, such as acquisition activity, general economic or business conditions, and board and management discretion. Additionally, our share repurchase activity, if any, during any particular period may fluctuate. We may commence, accelerate, suspend, delay, or discontinue any share repurchase activity at any time, without notice. This program does not have a specific expiration date.
+In fiscal 2019, we repurchased an aggregate of $2.2 billion of our stock as a result of our share repurchase program. For more information on our share repurchase program, refer to Note 16, "]:
+Note 13. Income Taxes Income from continuing operations before income taxes included income from domestic operations of $12.0 billion, $10.7 billion, and $15.8 billion for the years ended December 31, 2016, 2017, and 2018, respectively, and income from foreign operations of $12.1 billion, $16.5 billion, and $19.1 billion for the years ended December 31, 2016, 2017, and 2018, respectively. The provision for income taxes consists of the following (in millions): -------------------------- ----------------------- ----- ---- ------ ---- ------ ----- - - ----- Year Ended December 31, 2016 2017 2018 Current: Federal and state $ 3,826 $ 12,608 $ 2,153 Foreign 966 1,746 1,251 Total 4,792 14,354 3,404 Deferred: Federal and state (70 ) 220 907 Foreign (50 ) (43 ) (134 ) Total (120 ) 177 773 Provision for income taxes $ 4,672 $ 14,531 $ 4,177 The Tax Act enacted on December 22, 2017 introduced significant changes to U.S. income tax law. Effective 2018, the Tax Act reduced the U.S. statutory tax rate from 35% to 21% and created new taxes on certain foreign-sourced earnings and certain related-party payments. 77 ----------------- ------------- Alphabet Inc. Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we made reasonable estimates of the effects and recorded provisional amounts in our consolidated financial statements as of December 31, 2017. As we collected and prepared necessary data, and interpreted the additional guidance issued by the U.S. Treasury Department, the IRS, and other standard-setting bodies, we made adjustments, over the course of the year, to the provisional amounts including refinements to deferred taxes. The accounting for the tax effects of the Tax Act has been completed as of December 31, 2018. One-time transition tax The Tax Act required us to pay U.S. income taxes on accumulated foreign subsidiary earnings not previously subject to U.S. income tax at a rate of 15.5% to the extent of foreign cash ...

@@ -1,0 +1,689 @@
+================================================================================
+CIK: 0001091667
+Company Name: CHARTER COMMUNICATIONS, INC. /MO/
+Filing Date: 2020-01-31
+Form Type: 10-K
+Extraction Date: 2025-08-31 11:43:03
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Reference is made to “Part I. Item 1A. Risk Factors” and “Cautionary Statement Regarding Forward-Looking Statements,” which describe important factors that could cause actual results to differ from expectations and non-historical information contained herein. In addition, the following discussion should be read in conjunction with the audited consolidated financial statements and accompanying notes thereto of Charter included in “Part II. Item 8. Financial Statements and Supplementary Data.”
+
+Overview
+
+We are the second largest cable operator in the United States and a leading broadband communications services company providing video, Internet and voice services to approximately 29.2 million residential and small and medium business customers at December 31, 2019. We also offer mobile service to residential customers and recently launched mobile service to small and medium business customers. In addition, we sell video and online advertising inventory to local, regional and national advertising customers and tailored communications and managed solutions to larger enterprise customers. We also own and operate regional sports networks and local sports, news and community channels. See “Part I. Item 1. Business — Products and Services” for further description of these services, including customer statistics for different services.
+
+In 2019, with the integration of TWC and Bright House substantially behind us, we are realizing the benefits of operating as one company, with a unified product, marketing and service infrastructure. We remain focused on driving customer relationship growth
+
+ 26
+
+by deploying superior products and services packaged with attractive pricing. We expect our insourced, high quality workforce will continue to drive an improved customer experience which will result in lower customer churn, longer customer lifetimes and, combined with our continued ramping of our self-installation program, improved productivity with fewer customer calls and truck rolls per customer relationship. With approximately 85% of our residential customer base now in SPP packages, we expect additional benefits from lower legacy package migration activity, combined with SPP customers rolling off introductory pricing and price increases. Further, we expect to continue to drive customer relationship growth through sales of bundled services and improving customer retention despite the expectation for continued losses of video and wireline voice customers. With the completion of our all-digital conversion, roll-out of DOCSIS 3.1 technology across our footprint, and the integration of TWC and Bright House substantially complete, we have experienced a meaningful reduction in cable capital expenditures as a percent of revenue in 2019 and expect continued lower cable capital intensity in 2020.
+
+We launched our mobile product, Spectrum Mobile, in the second half of 2018 under our MVNO reseller agreement with Verizon. Our Spectrum Mobile service is offered to customers subscribing to our Internet service and runs on Verizon's mobile network combined with Spectrum WiFi. In the second quarter of 2019, we expanded our Spectrum Mobile bring-your-own-device program across all sales channels to include a broader set of devices which we believe lowers the cost for consumers of switching mobile carriers, and reduces the short-term working capital impact of selling new mobile devices on installment plans. We expect these developments, along with the launch of 5G service offerings in 2020, to contribute to the growth of our mobile business. We also continue to explore ways to drive even more mobile traffic to our network. We plan to use our WiFi network in conjunction with additional unlicensed, and potentially licensed, spectrum to improve network performance and expand capacity to offer consumers a superior mobile service at a lower total cost to us.​​ Further, we have experimental wireless licenses from the FCC that we are utilizing to test next generation mobile services in several service areas around the country.
+
+We believe Spectrum-branded mobile services will drive higher sales of our core products, create longer customer lives and increase profitability and cash flow over time. As a result of growth costs associated with our new mobile product line, we cannot be certain that we will be able to grow revenues or maintain our margins at recent historical rates. During the years ended December 31, 2019 and 2018, our mobile product line increased revenues by $726 million and $106 million, respectively, reduced Adjusted EBITDA by approximately $520 million and $240 million, respectively, and reduced free cash flow by approximately $1.2 billion and $594 million, respectively. As we continue to grow our mobile service and scale the business, we expect continued negative impacts to Adjusted EBITDA, as well as negative working capital impacts from the timing of device-related cash flows when we sell the handset or tablet to customers pursuant to equipment installment plans.
+
+The Company realized revenue, Adjusted EBITDA and income from operations during the periods presented as follows (in millions; all percentages are calculated using whole numbers. Minor differences may exist due to rounding).
+
+---------------------- ------------------------ ------ ---- -------------------- ------ ---- -
+
+ Years ended December 31,
+ 2019 2018 2019 vs. 2018 Growth
+Revenues $ 45,764 $ 43,634 4.9 %
+Adjusted EBITDA $ 16,855 $ 16,059 5.0 %
+Income from operations $ 6,511 $ 5,221 24.7 %
+
+Adjusted EBITDA is defined as net income attributable to Charter shareholders plus net income attributable to noncontrolling interest, net interest expense, income taxes, depreciation and amortization, stock compensation expense, loss on extinguishment of debt, (gain) loss on financial instruments, net, other pension (benefits) costs, net, other (income) expense, net and other operating (income) expenses, net, such as merger and restructuring costs, special charges and (gain) loss on sale or retirement of assets. See “—Use of Adjusted EBITDA and Free Cash Flow” for further information on Adjusted EBITDA and free cash flow.
+
+Growth in total revenue was primarily due to growth in our residential Internet, mobile and commercial business customers. Adjusted EBITDA and income from operations growth was impacted by growth in revenue and increases in operating costs and expenses, primarily mobile, programming and regulatory, connectivity and produced content. Income from operations was also affected by a decrease in depreciation and amortization expense.
+
+Approximately 91% of our revenues for each of the years ended December 31, 2019 and 2018 are attributable to monthly subscription fees charged to customers for our video, Internet, voice, mobile and commercial services. Generally, these customer subscriptions may be discontinued by the customer at any time subject to a fee for certain commercial customers. The remaining 9% of revenue is derived primarily from advertising revenues, franchise and other regulatory fee revenues (which are collected
+
+ 27
+
+by us but then paid to local authorities), VOD and pay-per-view programming, installation, processing fees or reconnection fees charged to customers to commence or reinstate service, revenue from regional sports and news channels and commissions related to the sale of merchandise by home shopping services.
+
+Critical Accounting Policies and Estimates
+
+Certain of our accounting policies require our management to make difficult, subjective and/or complex judgments. Management has discussed these policies with the Audit Committee of Charter’s board of directors, and the Audit Committee has reviewed the following disclosure. We consider the following policies to be the most critical in understanding the estimates, assumptions and judgments that are involved in preparing our financial statements, and the uncertainties that could affect our results of operations, financial condition and cash flows:
+
+- ------------------------------------------
+• Capitalization of labor and overhead costs
+
+- ---------------------------------------------------
+• Valuation and impairment of franchises and goodwill
+
+- ------------
+• Income taxes
+
+- -----------------------------
+• Defined benefit pension plans
+
+Capitalization of labor and overhead costs
+
+Costs associated with network construction or upgrades, placement of the customer drop to the dwelling and the placement of outlets within a dwelling along with the costs associated with the deployment of new customer premise equipment necessary to provide video, Internet or voice services, are capitalized.  Costs capitalized include materials, direct labor and certain indirect costs.  These indirect costs are associated with the activities of personnel who assist in installation activities, and consist of compensation and overhead costs associated with these support functions.  While our capitalization is based on specific activities, once capitalized, we track these costs on a composite basis by fixed asset category at the cable system level, and not on a specific asset basis.  For assets that are sold or retired, we remove the estimated applicable cost and accumulated depreciation.  The costs of disconnecting service and removing customer premise equipment from a dwelling and the costs to reconnect a customer drop or to redeploy previously installed customer premise equipment are charged to operating expense as incurred. Costs for repairs and maintenance are charged to operating expense as incurred, while plant and equipment replacement, including replacement of certain components, betterments, and replacement of cable drops and outlets, are capitalized.
+
+We make judgments regarding the installation and construction activities to be capitalized. We capitalized direct labor and overhead of $1.6 billion and $1.8 billion, respectively, for the years ended December 31, 2019 and 2018. We capitalize direct labor and overhead using standards developed from actual costs and applicable operational data. We calculate standards annually (or more frequently if circumstances dictate) for items such as the labor rates, overhead rates, and the actual amount of time required to perform a capitalizable activity. For example, the standard amounts of time required to perform capitalizable activities are based on studies of the time required to perform such activities. Overhead rates are established based on an analysis of the nature of costs incurred in support of capitalizable activities, and a determination of the portion of costs that is directly attributable to capitalizable activities. The impact of changes that resulted from these studies were not material in the periods presented.
+
+Labor costs directly associated with capital projects are capitalized. Capitalizable activities performed in connection with installations include such activities as:
+
+- -----------------------------------------------------------------------------------------------------------------------
+• dispatching a “truck roll” to the customer’s dwelling or business for service connection or placement of new equipment;
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• verification of serviceability to the customer’s dwelling or business (i.e., determining whether the customer’s dwelling is capable of receiving service by our cable network);
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• customer premise activities performed by in-house field technicians and third-party contractors in connection with the installation, replacement and betterment of equipment and materials to enable video, Internet or voice services; and
+
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• verifying the integrity of the customer’s network connection by initiating test signals downstream from the headend to the customer premise equipment, as well as testing signal levels at the utility pole or pedestal.
+
+Judgment is required to determine the extent to which overhead costs incurred result from specific capital activities, and therefore should be capitalized. The primary costs that are included in the determination of the overhead rate are (i) employee benefits and payroll taxes associated with capitalized direct labor, (ii) direct variable costs associated with capitalizable activities, (iii) the cost of support personnel, such as care personnel and dispatchers, who assist with capitalizable installation activities, and (iv) indirect costs directly attributable to capitalizable activities.
+
+While we believe our existing capitalization policies are appropriate, a significant change in the nature or extent of our operating practices could affect management’s judgment about the extent to which we should capitalize direct labor or overhead in the future.
+
+ 28
+
+We monitor the appropriateness of our capitalization policies, and perform updates to our internal studies on an ongoing basis to determine whether facts or circumstances warrant a change to our capitalization policies.
+
+Valuation and impairment of franchises
+
+The net carrying value of franchises as of both December 31, 2019 and 2018 was approximately $67.3 billion (representing 45% and 46% of total assets, respectively). For more information and a complete discussion of how we value and test franchise assets for impairment, see Note 5 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data.”
+
+We perform an impairment assessment of franchise assets annually or more frequently as warranted by events or changes in circumstances. We performed a qualitative assessment in 2019. Our assessment included consideration of a fair value appraisal performed for tax purposes in the beginning of 2019 as of a December 31, 2018 valuation date (the "Appraisal") along with a multitude of factors that affect the fair value of our franchise assets. Examples of such factors include environmental and competitive changes within our operating footprint, actual and projected operating performance, the consistency of our operating margins, equity and debt market trends, including changes in our market capitalization, and changes in our regulatory and political landscape, among other factors. Based on our assessment, we concluded that it was more likely than not that the estimated fair values of our franchise assets equals or exceeds their carrying values and that a quantitative impairment test is not required.
+
+Valuation and impairment of goodwill
+
+The net carrying value of goodwill as of both December 31, 2019 and 2018 was approximately $29.6 billion (representing 20% of total assets). We have determined that we have one reporting unit for purposes of the assessment of goodwill impairment. For more information and a complete discussion on how we test goodwill for impairment, see Note 5 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data.” We perform our impairment assessment of goodwill annually as of November 30. As with our franchise impairment testing, we elected to perform a qualitative assessment of goodwill in 2019 which included the Appraisal and other factors described above. Based on the Appraisal, we determined that the fair value of the reporting unit significantly exceeded the net asset carrying value of the reporting unit. Given the completion of the assessment and absence of significant adverse changes in factors impacting our fair value estimates, we concluded that it is more likely than not that our goodwill is not impaired.
+
+Income taxes
+
+As of December 31, 2019, Charter had approximately $7.5 billion of federal tax net operating loss carryforwards resulting in a gross deferred tax asset of approximately $1.6 billion. These losses resulted from the operations of Charter Holdco and its subsidiaries and from loss carryforwards received as a result of the merger with TWC in 2016. Federal tax net operating loss carryforwards expire in the years 2020 through 2035. In addition, as of December 31, 2019, Charter had state tax net operating loss carryforwards, resulting in a gross deferred tax asset (net of federal tax benefit) of approximately $257 million. State tax net operating loss carryforwards generally expire in the years 2020 through 2039.  Such tax loss carryforwards can accumulate and be used to offset Charter’s future taxable income. After December 31, 2019, $905 million of Charter's federal tax loss carryforwards are subject to Section 382 and other restrictions. Pursuant to these restrictions, Charter estimates that approximately $226 million annually over each of the next four years of federal tax loss carryforwards, should become unrestricted and available for Charter’s use. Charter’s state tax loss carryforwards are subject to similar but varying restrictions.
+
+In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will be realized. In evaluating the need for a valuation allowance, management takes into account various factors, including the expected level of future taxable income, available tax planning strategies and reversals of existing taxable temporary differences. Approximately $9 million of valuation allowance associated with federal capital loss carryforwards and approximately $37 million of valuation allowance associated with state tax loss carryforwards and other miscellaneous deferred tax assets remains on the December 31, 2019 consolidated balance sheet.
+
+In determining our tax provision for financial reporting purposes, we establish a reserve for uncertain tax positions unless such positions are determined to be “more likely than not” of being sustained upon examination, based on their technical merits. In evaluating whether a tax position has met the more-likely-than-not recognition threshold, we presume the position will be examined by the appropriate taxing authority that has full knowledge of all relevant information. A tax position that meets the more-likely-than-not recognition threshold is measured to determine the amount of benefit to be recognized in our financial statements. The tax position is measured as the largest amount of benefit that has a greater than 50% likelihood of being realized when the position is ultimately resolved. There is considerable judgment involved in determining whether positions taken on the tax return are “more
+
+ 29
+
+likely than not” of being sustained. We adjust our uncertain tax reserve estimates periodically because of ongoing examinations by, and settlements with, the various taxing authorities, as well as changes in tax laws, regulations and interpretations.
+
+No tax years for Charter are currently under examination by the IRS for income tax purposes. Charter's 2016 through 2019 tax years remain open for examination and assessment. Charter’s short period return dated May 17, 2016 (prior to the merger with TWC and acquisition of Bright House) remain subject to examination and assessment. Years prior to 2016 remain open solely for purposes of examination of Charter’s loss and credit carryforwards. The IRS is currently examining Charter Holdings' income tax return for 2016. Charter Holdings’ 2017 through 2019 tax years remain open for examination and assessment. The IRS is currently examining TWC’s income tax returns for 2011 through 2014. TWC’s tax year 2015 remains subject to examination and assessment. Prior to TWC’s separation from Time Warner Inc. (“Time Warner”) in March 2009, TWC was included in the consolidated U.S. federal and certain state income tax returns of Time Warner. The IRS has examined Time Warner’s 2008 through 2010 income tax returns and the results are under appeal. We do not anticipate that these examinations will have a material impact on our consolidated financial position or results of operations. In addition, we are also subject to ongoing examinations of our tax returns by state and local tax authorities for various periods. Activity related to these state and local examinations did not have a material impact on our consolidated financial position or results of operations during the year ended December 31, 2019, nor do we anticipate a material impact in the future.
+
+Defined benefit pension plans
+
+We sponsor three qualified defined benefit pension plans and one nonqualified defined benefit pension plan that provide pension benefits to a majority of employees who were employed by TWC before the merger with TWC. As of December 31, 2019, the accumulated benefit obligation and fair value of plan assets was $3.4 billion and $3.2 billion, respectively, and the net underfunded liability was recorded as a $1 million noncurrent asset, $4 million current liability and $160 million long-term liability. As of December 31, 2018, the accumulated benefit obligation and fair value of plan assets was $3.0 billion and $2.9 billion, respectively, and the net underfunded liability was recorded as a $1 million noncurrent asset, $4 million current liability and $95 million long-term liability.
+
+Pension benefits are based on formulas that reflect the employees’ years of service and compensation during their employment period. Actuarial gains or losses are changes in the amount of either the benefit obligation or the fair value of plan assets resulting from experience different from that assumed or from changes in assumptions. We have elected to follow a mark-to-market pension accounting policy for recording the actuarial gains or losses annually during the fourth quarter, or earlier if a remeasurement event occurs during an interim period. We use a December 31 measurement date for our pension plans.
+
+We recognized net periodic pension costs of $69 million and net periodic pension benefits of $192 million in 2019 and 2018, respectively. Net periodic pension benefit or expense is determined using certain assumptions, including the expected long-term rate of return on plan assets, discount rate and mortality assumptions. We determined the discount rate used to compute pension expense based on the yield of a large population of high-quality corporate bonds with cash flows sufficient in timing and amount to settle projected future defined benefit payments. In developing the expected long-term rate of return on assets, we considered the current pension portfolio’s composition, past average rate of earnings, and our asset allocation targets. We used a discount rate of 3.48% to determine the December 31, 2019 pension plan benefit obligation. A decrease in the discount rate of 25 basis points would result in a $157 million increase in our pension plan benefit obligation as of December 31, 2019 and net periodic pension expense recognized in 2019 under our mark-to-market accounting policy. The expected long-term rate of return on plan assets used to determine net periodic pension benefit for the year ended December 31, 2020 is expected to be 5.00%. A decrease in the expected long-term rate of return of 25 basis points to 4.75%, while holding all other assumptions constant, would result in an increase in our 2020 net periodic pension expense of approximately $7 million. See Note 22 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data” for additional discussion on these assumptions.
+
+ 30
+
+Results of Operations
+
+A discussion of changes in our results of operations during the year ended December 31, 2018 compared to the year ended December 31, 2017 has been omitted from this Annual Report on Form 10-K, but may be found in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended December 31, 2018, filed with the SEC on January 31, 2019, which is available free of charge on the SECs website at www.sec.gov and on our investor relations website at ir.charter.com.
+
+The following table sets forth the consolidated statements of operations for the periods presented (dollars in millions, except per share data):
+
+------------------------------------------------------------------------ ----------------------- ------ ---- ----------- - ------
+
+ Year Ended December 31,
+ 2019 2018
+Revenues $ 45,764 $ 43,634
+
+Costs and Expenses:
+Operating costs and expenses (exclusive of items shown separately below) 29,224 27,860
+Depreciation and amortization 9,926 10,318
+Other operating expenses, net 103 235
+ 39,253 38,413
+Income from operations 6,511 5,221
+
+Other Expenses:
+Interest expense, net (3,797 ) (3,540 )
+Loss on extinguishment of debt (25 ) —
+Loss on financial instruments, net (54 ) (110 )
+Other pension benefits (costs), net (69 ) 192
+Other expense, net (135 ) (77 )
+ (4,080 ) (3,535 )
+
+Income before income taxes 2,431 1,686
+Income tax expense (439 ) (180 )
+Consolidated net income 1,992 1,506
+Less: Net income attributable to noncontrolling interests (324 ) (276 )
+Net income attributable to Charter shareholders $ 1,668 $ 1,230
+
+EARNINGS PER COMMON SHARE ATTRIBUTABLE TO CHARTER SHAREHOLDERS:
+Basic $ 7.60 $ 5.29
+Diluted $ 7.45 $ 5.22
+
+Weighted average common shares outstanding, basic 219,506,735 232,356,665
+Weighted average common shares outstanding, diluted 223,786,380 235,525,226
+
+Revenues. Total revenues grew $2.1 billion or 4.9% during the year ended December 31, 2019 as compared to 2018 primarily due to increases in the number of residential Internet and commercial business customers, price adjustments as well as the launch of our mobile service in the second half of 2018 offset by a decrease in video customers.
+
+ 31
+
+Revenues by service offering were as follows (dollars in millions; all percentages are calculated using whole numbers. Minor differences may exist due to rounding):
+
+------------------------- ------------------------ ------ ---- ------ -------- ------ ----- -- --- -
+
+ Years ended December 31,
+ 2019 2018 % Growth
+Video $ 17,607 $ 17,348 1.5 %
+Internet 16,667 15,181 9.8 %
+Voice 1,920 2,114 (9.1 )%
+Residential revenue 36,194 34,643 4.5 %
+
+Small and medium business 3,868 3,665 5.6 %
+Enterprise 2,556 2,528 1.1 %
+Commercial revenue 6,424 6,193 3.7 %
+
+Advertising sales 1,568 1,785 (12.1 )%
+Mobile 726 106 NM
+Other 852 907 (6.2 )%
+ $ 45,764 $ 43,634 4.9 %
+
+Video revenues consist primarily of revenues from basic and digital video services provided to our residential customers, as well as franchise fees, equipment service fees and video installation revenue. The increase in video revenues was attributable to the following (dollars in millions):
+
+----------------------------------------------- --------------------- ---
+
+ 2019 compared to 2018
+Increase related to rate changes $ 758
+Decrease in average residential video customers (412 )
+Decrease in VOD and pay-per-view (87 )
+ $ 259
+
+The increase related to rate changes was primarily due to price adjustments including annual increases and promotional roll-off. Residential video customers decreased by 484,000 in 2019 compared to 2018.
+
+The increase in Internet revenues from our residential customers was attributable to the following (dollars in millions):
+
+-------------------------------------------------- --------------------- -----
+
+ 2019 compared to 2018
+Increase in average residential Internet customers $ 790
+Increase related to rate changes 696
+ $ 1,486
+
+Residential Internet customers grew by 1,283,000 in 2019 compared to 2018. The increase related to rate changes was primarily due to price adjustments including promotional roll-off.
+
+The decrease in voice revenues from our residential customers was attributable to the following (dollars in millions):
+
+----------------------------------------------- --------------------- ---- -
+
+ 2019 compared to 2018
+Decrease in average residential voice customers $ (102 )
+Decrease related to rate changes (92 )
+ $ (194 )
+
+ 32
+
+The decrease related to rate changes was primarily due to value-based pricing. Residential wireline voice customers decreased by 692,000 in 2019 compared to 2018.
+
+The increase in small and medium business commercial revenues was attributable to the following (dollars in millions):
+
+----------------------------------------------- --------------------- ---
+
+ 2019 compared to 2018
+Increase in small and medium business customers $ 317
+Decrease related to rate changes (114 )
+ $ 203
+
+Small and medium business PSUs increased by 237,000 in 2019 compared to 2018. The decrease related to rate changes was primarily due to value-based pricing related to SPP, net of promotional roll-off and price adjustments.
+
+Enterprise revenues increased $28 million during the year ended December 31, 2019 as compared to the corresponding period in 2018 primarily due to growth in customers offset by the sale of non-strategic assets. Enterprise PSUs increased by 19,000 in 2019 compared to 2018.
+
+Advertising sales revenues consist primarily of revenues from commercial advertising customers, programmers and other vendors, as well as local cable and advertising on regional sports and news channels. Advertising sales revenues decreased $217 million during the year ended December 31, 2019 as compared to the corresponding period in 2018 primarily due to a decrease in political revenue.
+
+During the year ended December 31, 2019, mobile revenues included approximately $488 million of device revenues and approximately $238 million of service revenues. During the year ended December 31, 2018, mobile revenues included approximately $97 million of device revenues and approximately $9 million of service revenues. As of December 31, 2019, we had 1,082,000 mobile lines compared to 134,000 mobile as of December 31, 2108.
+
+Other revenues consist of revenue from regional sports and news channels (excluding intercompany charges or advertising sales on those channels), home shopping, late payment fees, wire maintenance fees and other miscellaneous revenues. The decrease during the year ended December 31, 2019 as compared to the corresponding period in 2018 was primarily due to a decrease in late payment fees and home shopping revenue offset by the sale of video devices.
+
+Operating costs and expenses. The increase in our operating costs and expenses, exclusive of items shown separately in the consolidated statements of operations, was attributable to the following (dollars in millions):
+
+--------------------------------------------- --------------------- -----
+
+ 2019 compared to 2018
+Programming $ 166
+Regulatory, connectivity and produced content 156
+Costs to service customers (50 )
+Marketing 2
+Mobile 900
+Other 190
+ $ 1,364
+
+Programming costs were approximately $11.3 billion and $11.1 billion, representing 39% and 40% of operating costs and expenses for the years ended December 31, 2019 and 2018, respectively. Programming costs consist primarily of costs paid to programmers for basic, digital, premium, VOD, and pay-per-view programming. The increase in programming costs is primarily a result of contractual rate adjustments, including renewals and increases in amounts paid for retransmission consents partly offset by lower video customers and pay-per-view.  We expect programming rates will continue to increase due to a variety of factors, including annual increases imposed by programmers with additional selling power as a result of media consolidation, increased demands by owners of broadcast stations for payment for retransmission consent or linking carriage of other services to retransmission consent, and additional programming, particularly new services. We have been unable to fully pass these increases on to our customers and do not expect to be able to do so in the future without a potential loss of customers.
+
+ 33
+
+Regulatory, connectivity and produced content increased $156 million during the year ended December 31, 2019 compared to the corresponding period in 2018 primarily due to higher costs of video devices sold to customers, regulatory pass-through fees and original programming costs.
+
+Costs to service customers decreased $50 million during the year ended December 31, 2019 compared to the corresponding period in 2018 primarily due to lower maintenance and labor costs driven by fewer customer calls and truck rolls with improved productivity and a higher number of self-installations.
+
+Mobile costs of $1.2 billion and $346 million for the years ended December 31, 2019 and 2018, respectively, were comprised of mobile device costs and mobile service and operating costs.
+
+The increase in other expense was attributable to the following (dollars in millions):
+
+-------------------------- --------------------- ---
+
+ 2019 compared to 2018
+Corporate costs $ 80
+Property tax and insurance 54
+Stock compensation expense 30
+Sports and news 26
+Advertising sales expense (32 )
+Other 32
+ $ 190
+
+Depreciation and amortization. Depreciation and amortization expense decreased by $392 million during the year ended December 31, 2019 compared to the corresponding period in 2018 primarily due to certain assets acquired from TWC and Bright House becoming fully depreciated offset by an increase in depreciation as a result of more recent capital expenditures.
+
+Other operating expenses, net. The decrease in other operating expenses, net was attributable to the following (dollars in millions):
+
+------------------------------ --------------------- ---- -
+
+ 2019 compared to 2018
+Merger and restructuring costs $ (87 )
+Loss on sale of assets, net (43 )
+Special charges, net (2 )
+ $ (132 )
+
+The decrease in merger and restructuring costs is primarily due to lower employee retention and employee termination costs incurred during 2019 as compared to 2018.
+
+The decrease in loss on sale of assets, net for the year ended December 31, 2019 as compared to the year ended December 31, 2018 is primarily due to a $42 million impairment of non-strategic assets incurred during 2019 compared to a $75 million impairment of non-strategic assets incurred during 2018. For more information, see Note 15 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data.”
+
+Interest expense, net. Net interest expense increased by $257 million in 2019 from 2018 primarily due to an increase in weighted average debt outstanding of approximately $3.0 billion primarily as a result of the issuance of notes in 2019 and 2018 for general corporate purposes including stock buybacks and debt repayments offset by a decrease in weighted average interest rates.
+
+Loss on extinguishment of debt. Loss on extinguishment of debt of $25 million for the year ended December 31, 2019 primarily represents losses recognized as a result of the repurchase of CCO Holdings notes and amendments to Charter Operating's credit facilities. For more information, see Note 9 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data.”
+
+ 34
+
+Loss on financial instruments, net. Gains and losses on financial instruments are recognized due to changes in the fair value of our interest rate and our cross currency derivative instruments, and the foreign currency remeasurement of the fixed-rate British pound sterling denominated notes (the “Sterling Notes”) into U.S. dollars. For more information, see Note 12 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data.”
+
+Other pension benefits (costs), net. Other pension benefits (costs), net increased by $261 million during the year ended December 31, 2019 compared to the corresponding period in 2018 primarily due to a remeasurement loss recorded in 2019 versus a remeasurement gain in 2018. For more information, see Note 22 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data.”
+
+Other expense, net. Other expense, net includes impairments on equity investments of approximately $121 million and $58 million for the years ended December 31, 2019 and 2018, respectively. For more information, see Note 6 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data.”
+
+Income tax expense. We recognized income tax expense of $439 million and $180 million for the years ended December 31, 2019 and 2018, respectively. Income tax expense increased during the year ended December 31, 2019 compared to the corresponding period in 2018 primarily as a result of higher pretax income and lower benefit from state tax rate changes. For more information, see Note 17 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data.”
+
+Net income attributable to noncontrolling interest. Net income attributable to noncontrolling interest for financial reporting purposes represents A/N’s portion of Charter Holdings’ net income based on its effective common unit ownership interest and the preferred dividend of $150 million for each of the years ended December 31, 2019 and 2018. For more information, see Note 11 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data.”
+
+Net income attributable to Charter shareholders. Net income attributable to Charter shareholders was $1.7 billion and $1.2 billion for the years ended December 31, 2019 and 2018, respectively, primarily as a result of the factors described above.
+
+Use of Adjusted EBITDA and Free Cash Flow
+
+We use certain measures that are not defined by U.S. generally accepted accounting principles (“GAAP”) to evaluate various aspects of our business. Adjusted EBITDA and free cash flow are non-GAAP financial measures and should be considered in addition to, not as a substitute for, net income attributable to Charter shareholders and net cash flows from operating activities reported in accordance with GAAP. These terms, as defined by us, may not be comparable to similarly titled measures used by other companies. Adjusted EBITDA and free cash flow are reconciled to net income attributable to Charter shareholders and net cash flows from operating activities, respectively, below.
+
+Adjusted EBITDA eliminates the significant non-cash depreciation and amortization expense that results from the capital-intensive nature of our businesses as well as other non-cash or special items, and is unaffected by our capital structure or investment activities. However, this measure is limited in that it does not reflect the periodic costs of certain capitalized tangible and intangible assets used in generating revenues and our cash cost of financing. These costs are evaluated through other financial measures.
+
+Free cash flow is defined as net cash flows from operating activities, less capital expenditures and changes in accrued expenses related to capital expenditures.
+
+Management and Charter’s board of directors use Adjusted EBITDA and free cash flow to assess our performance and our ability to service our debt, fund operations and make additional investments with internally generated funds. In addition, Adjusted EBITDA generally correlates to the leverage ratio calculation under our credit facilities or outstanding notes to determine compliance with the covenants contained in the facilities and notes (all such documents have been previously filed with the SEC). For the purpose of calculating compliance with leverage covenants, we use Adjusted EBITDA, as presented, excluding certain expenses paid by our operating subsidiaries to other Charter entities. Our debt covenants refer to these expenses as management fees, which fees were in the amount of $1.2 billion and $1.1 billion for the years ended December 31, 2019 and 2018, respectively.
+
+ 35
+
+---------------------------------------------------------- ------------------------ ------ ---- ------ - ------
+
+ Years ended December 31,
+ 2019 2018
+Net income attributable to Charter shareholders $ 1,668 $ 1,230
+Plus: Net income attributable to noncontrolling interest 324 276
+Interest expense, net 3,797 3,540
+Income tax expense 439 180
+Depreciation and amortization 9,926 10,318
+Stock compensation expense 315 285
+Loss on extinguishment of debt 25 —
+Loss on financial instruments, net 54 110
+Other pension (benefits) costs, net 69 (192 )
+Other, net 238 312
+Adjusted EBITDA $ 16,855 $ 16,059
+
+Net cash flows from operating activities $ 11,748 $ 11,767
+Less: Purchases of property, plant and equipment (7,195 ) (9,125 )
+Change in accrued expenses related to capital expenditures 55 (470 )
+Free cash flow $ 4,608 $ 2,172
+
+Liquidity and Capital Resources
+
+Overview
+
+We have significant amounts of debt.  The principal amount of our debt as of December 31, 2019 was $78.4 billion, consisting of $10.4 billion of credit facility debt, $45.9 billion of investment grade senior secured notes and $22.1 billion of high-yield senior unsecured notes. Our business requires significant cash to fund principal and interest payments on our debt.
+
+Our projected cash needs and projected sources of liquidity depend upon, among other things, our actual results, and the timing and amount of our expenditures. As we continue to grow our new mobile services, we expect an initial funding period to grow a new product as well as negative working capital impacts from the timing of device-related cash flows when we provide the handset or tablet to customers pursuant to equipment installment plans. Free cash flow was $4.6 billion and $2.2 billion for the years ended December 31, 2019 and 2018, respectively. See table below for factors impacting free cash flow during the year ended December 31, 2019 compared to 2018. As of December 31, 2019, the amount available under our credit facilities was approximately $4.7 billion and cash on hand was approximately $3.5 billion. We expect to utilize free cash flow, cash on hand and availability under our credit facilities as well as future refinancing transactions to further extend the maturities of our obligations. The timing and terms of any refinancing transactions will be subject to market conditions among other considerations. Additionally, we may, from time to time, and depending on market conditions and other factors, use cash on hand and the proceeds from securities offerings or other borrowings to retire our debt through open market purchases, privately negotiated purchases, tender offers or redemption provisions. We believe we have sufficient liquidity from cash on hand, free cash flow and Charter Operating’s revolving credit facility as well as access to the capital markets to fund our projected cash needs.
+
+We continue to evaluate the deployment of our cash on hand and anticipated future free cash flow including to invest in our business growth and other strategic opportunities, including mergers and acquisitions as well as stock repurchases and dividends. Charter's target leverage of net debt to the last twelve months Adjusted EBITDA remains at 4 to 4.5 times Adjusted EBITDA, and up to 3.5 times Adjusted EBITDA at the Charter Operating level. Our leverage ratio was 4.5 times Adjusted EBITDA as of December 31, 2019. As Adjusted EBITDA grows, we expect to increase the total amount of our indebtedness to maintain leverage within Charter's target leverage range. During the years ended December 31, 2019 and 2018, Charter purchased approximately 16.7 million and 14.1 million shares, respectively, of Charter Class A common stock for approximately $6.7 billion and $4.3 billion, respectively.
+
+In December 2017, Charter and A/N entered into an amendment to the letter agreement (the "Letter Agreement") that requires A/N to sell to Charter or to Charter Holdings, on a monthly basis, a number of shares of Charter Class A common stock or Charter Holdings common units that represents a pro rata participation by A/N and its affiliates in any repurchases of shares of Charter Class A common stock from persons other than A/N effected by Charter during the immediately preceding calendar month, at a purchase price equal to the average price paid by Charter for the shares repurchased from persons other than A/N during such immediately preceding calendar month. A/N and Charter both have the right to terminate or suspend the pro rata repurchase arrangement on a prospective basis. Charter Holdings purchased from A/N 2.3 million and 2.1 million Charter Holdings common
+
+ 36
+
+units at an average price per unit of $388.72 and $308.90, or $885 million and $656 million, during the years ended December 31, 2019 and 2018, respectively.
+
+As of December 31, 2019, Charter had remaining board authority to purchase an additional $1.4 billion of Charter’s Class A common stock and/or Charter Holdings common units. Although Charter expects to continue to buy back its common stock consistent with its leverage target range, Charter is not obligated to acquire any particular amount of common stock, and the timing of any purchases that may occur cannot be predicted and will largely depend on market conditions and other potential uses of capital. Purchases may include open market purchases, tender offers or negotiated transactions.
+
+As possible acquisitions, swaps or dispositions arise, we actively review them against our objectives including, among other considerations, improving the operational efficiency, geographic clustering of assets, product development or technology capabilities of our business and achieving appropriate return targets, and we may participate to the extent we believe these possibilities present attractive opportunities. However, there can be no assurance that we will actually complete any acquisitions, dispositions or system swaps, or that any such transactions will be material to our operations or results.
+
+Recent Events
+
+In December 2019, CCO Holdings and CCO Holdings Capital Corp. jointly issued an additional $1.2 billion aggregate principal amount of 4.750% senior unsecured notes due 2030 at a price of 101.125% of the aggregate principal amount. The net proceeds were or will be used to pay related fees and expenses and for general corporate purposes, including to fund buybacks of Charter Class A common stock and Charter Holdings common units as well as repaying certain indebtedness.
+
+In December 2019, Charter Operating and Charter Communications Operating Capital Corp. jointly issued an additional $1.3 billion aggregate principal amount of 4.800% senior secured notes due 2050 at a price of 101.964% of the aggregate principal amount. The net proceeds were or will be used to pay related fees and expenses and for general corporate purposes, including to fund buybacks of Charter Class A common stock and Charter Holdings common units as well as repaying certain indebtedness.
+
+In addition to the debt issued in December 2019 as described above, CCO Holdings and CCO Holdings Capital Corp. jointly issued $3.35 billion aggregate principal amount of senior unsecured notes at varying rates, prices and maturity dates in 2019, and Charter Operating and Charter Communications Operating Capital Corp. jointly issued $4.75 billion aggregate principal amount of senior secured notes at varying rates, prices and maturity dates in 2019. The net proceeds were used to pay related fees and expenses and for general corporate purposes, including funding buybacks of Charter Class A common stock and Charter Holdings common units as well as repaying certain indebtedness.
+
+In 2019, Charter Operating also entered into an amendment to its Credit Agreement repricing $4.5 billion of its revolving loan and $4.0 billion of term loan A to LIBOR plus 1.25% and its existing term loan B to LIBOR plus 1.75%. In addition, $4.5 billion of the revolving loan and $4.0 billion of term loan A maturities were extended to 2025 and $3.8 billion of term loan B maturities were extended to 2027.
+ Free Cash Flow
+
+Free cash flow increased $2.4 billion during the year ended December 31, 2019 compared to the corresponding prior period due to the following.
+
+--------------------------------------------------------------- --------------------- -----
+
+ 2019 compared to 2018
+Decrease in capital expenditures $ 1,930
+Increase in Adjusted EBITDA 796
+Change in working capital, excluding change in accrued interest (255 )
+Increase in cash paid for interest, net (75 )
+Other, net 40
+ $ 2,436
+
+Free cash flow was reduced by $567 million during the year ended December 31, 2019 compared to the corresponding prior period due to mobile with impacts negatively affecting working capital, capital expenditures and Adjusted EBITDA.
+
+ 37
+
+Contractual Obligations
+
+The following table summarizes our payment obligations as of December 31, 2019 under our long-term debt and certain other contractual obligations and commitments (dollars in millions.)
+
+------------------------------------------- ------------------ ------- ---------------- ----- --------- ------ --------- ----------------- ------ ------ ------ - ------
+
+ Payments by Period
+ Total Less than 1 year 1-3 years 3-5 years More than 5 years
+Long-Term Debt Principal Payments (a) $ 78,416 $ 3,777 $ 6,504 $ 8,701 $ 59,434
+Long-Term Debt Interest Payments (b) 50,577 3,924 7,551 6,635 32,467
+Finance and Operating Lease Obligations (c) 1,594 272 492 360 470
+Programming Minimum Commitments (d) 276 216 49 11 —
+Other (e) 12,658 2,536 3,034 892 6,196
+ $ 143,521 $ 10,725 $ 17,630 $ 16,599 $ 98,567
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) The table presents maturities of long-term debt outstanding as of December 31, 2019. Refer to Notes 9 and 21 to our accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data” for a description of our long-term debt and other contractual obligations and commitments.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) Interest payments on variable debt are estimated using amounts outstanding at December 31, 2019 and the average implied forward LIBOR rates applicable for the quarter during the interest rate reset based on the yield curve in effect at December 31, 2019. Actual interest payments will differ based on actual LIBOR rates and actual amounts outstanding for applicable periods.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(c) We lease certain facilities and equipment under noncancelable finance and operating leases. Finance lease obligations represented $95 million of total finance and operating lease obligations as of December 31, 2019. Lease and rental costs charged to expense for the years ended December 31, 2019 and 2018 were $445 million and $382 million, respectively.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(d) We pay programming fees under multi-year contracts typically based on a flat fee per customer, which may be fixed for the term, or may in some cases escalate over the term. Programming costs included in the accompanying statement of operations were approximately $11.3 billion and $11.1 billion for the years ended December 31, 2019 and 2018, respectively. Certain of our programming agreements are based on a flat fee per month or have guaranteed minimum payments. The table sets forth the aggregate guaranteed minimum commitments under our programming contracts.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(e) “Other” represents other guaranteed minimum commitments, including rights negotiated directly with content owners for distribution on company-owned channels or networks, commitments related to our role as an advertising and distribution sales agent for third party-owned channels or networks, commitments to our customer premise equipment and device vendors and contractual obligations related to third-party network augmentation.
+
+The following items are not included in the contractual obligations table because the obligations are not fixed and/or determinable due to various factors discussed below. However, we incur these costs as part of our operations:
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We rent utility poles used in our operations. Generally, pole rentals are cancelable on short notice, but we anticipate that such rentals will recur. Rent expense incurred for pole rental attachments for the years ended December 31, 2019 and 2018 was $180 million and $171 million, respectively.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We pay franchise fees under multi-year franchise agreements based on a percentage of revenues generated from video service per year. We also pay other franchise related costs, such as public education grants, under multi-year agreements. Franchise fees and other franchise-related costs included in the accompanying statement of operations were $750 million and $747 million for the years ended December 31, 2019 and 2018, respectively.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We have $363 million in letters of credit, of which $36 million is secured under the Charter Operating credit facility, primarily to our various casualty carriers as collateral for reimbursement of workers' compensation, auto liability and general liability claims.
+
+- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• Minimum pension funding requirements have not been presented in the table above as such amounts have not been determined beyond 2019. We made no cash contributions to the qualified pension plans in 2019; however, we are permitted to make discretionary cash contributions to the qualified pension plans in 2020. For the nonqualified pension plan, we contributed $4 million during 2019 and will continue to make contributions in 2020 to the extent benefits are paid.
+
+See "Part I. Item 1. Business — Commitments Related to the 2016 Merger with TWC and Acquisition of Bright House" for a listing of commitments as a result of the merger with TWC and acquisition of Bright House in 2016.
+
+ 38
+
+Historical Operating, Investing, and Financing Activities
+
+Cash and Cash Equivalents. We held $3.5 billion and $551 million in cash and cash equivalents as of December 31, 2019 and 2018, respectively. We also held $66 million and $214 million in restricted cash as of December 31, 2019 and 2018, respectively, representing escrowed funds of a consolidated variable interest entity. See Note 6 to the accompanying consolidated financial statements contained in “Item 1. Financial Statements.”
+
+Operating Activities. Net cash provided by operating activities decreased $19 million during the year ended December 31, 2019 compared to the year ended December 31, 2018, primarily due to changes in working capital, excluding the change in accrued interest and accrued expenses related to capital expenditures, that used $780 million more cash and an increase in cash paid for interest, net of $75 million offset by an increase in Adjusted EBITDA of $796 million.
+
+Investing Activities. Net cash used in investing activities for the years ended December 31, 2019 and 2018 was $7.3 billion and $9.7 billion, respectively. The decrease in cash used was primarily due to a decrease in capital expenditures and increase in accrued expenses related to capital expenditures.
+
+Financing Activities. Net cash used in financing activities decreased $254 million during the year ended December 31, 2019 compared to the year ended December 31, 2018 primarily due to an increase in the amount by which borrowings of long-term debt exceeded repayments offset by an increase in the purchase of treasury stock and noncontrolling interest.
+
+Capital Expenditures
+
+We have significant ongoing capital expenditure requirements.  Capital expenditures were $7.2 billion and $9.1 billion for the years ended December 31, 2019 and 2018, respectively. The decrease was primarily due to lower customer premise equipment expenditures as a result of the completion of our all-digital conversion and fewer SPP migrations, lower scalable infrastructure as a result of the completion of the roll-out of DOCSIS 3.1 technology across our footprint and lower support spending with the substantial completion of the integration of TWC and Bright House. See the table below for more details.
+
+We currently expect 2020 cable capital expenditures to decline as a percentage of cable revenue versus 2019. The actual amount of our capital expenditures in 2020 will depend on a number of factors including further spend related to product development and growth rates of both our residential and commercial businesses.
+
+Our capital expenditures are funded primarily from cash flows from operating activities and borrowings on our credit facility. In addition, our accrued liabilities related to capital expenditures increased $55 million and decreased $470 million for the years ended December 31, 2019 and 2018, respectively.
+
+The following tables present our major capital expenditures categories in accordance with National Cable and Telecommunications Association (“NCTA”) disclosure guidelines for the years ended December 31, 2019 and 2018. These disclosure guidelines are not required disclosures under GAAP, nor do they impact our accounting for capital expenditures under GAAP (dollars in millions):
+
+-------------------------------------------------- ----------------------- ----- ---- ----- - -----
+
+ Year ended December 31,
+ 2019 2018
+Customer premise equipment (a) $ 2,070 $ 3,124
+Scalable infrastructure (b) 1,439 2,227
+Line extensions (c) 1,444 1,373
+Upgrade/rebuild (d) 634 704
+Support capital (e) 1,608 1,697
+Total capital expenditures $ 7,195 $ 9,125
+
+Capital expenditures included in total related to:
+Commercial services $ 1,314 $ 1,313
+All-digital transition $ — $ 344
+Mobile $ 432 $ 242
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) Customer premise equipment includes costs incurred at the customer residence to secure new customers and revenue generating units, including customer installation costs and customer premise equipment (e.g., set-top boxes and cable modems).
+
+ 39
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) Scalable infrastructure includes costs not related to customer premise equipment, to secure growth of new customers and revenue generating units, or provide service enhancements (e.g., headend equipment).
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(c) Line extensions include network costs associated with entering new service areas (e.g., fiber/coaxial cable, amplifiers, electronic equipment, make-ready and design engineering).
+
+--- -----------------------------------------------------------------------------------------------------------------
+(d) Upgrade/rebuild includes costs to modify or replace existing fiber/coaxial cable networks, including betterments.
+
+--- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(e) Support capital includes costs associated with the replacement or enhancement of non-network assets due to technological and physical obsolescence (e.g., non-network equipment, land, buildings and vehicles).
+
+Debt
+
+As of December 31, 2019, the accreted value of our total debt was approximately $79.1 billion, as summarized below (dollars in millions):
+
+----------------------------------------- ----------------- ----- ------------------ ------ ---------------------- ----- -------------------- ----------- ---------
+
+ December 31, 2019
+ Principal Amount Accreted Value (a) Interest Payment Dates Maturity Date (b)
+CCO Holdings, LLC:
+5.250% senior notes due 2022 $ 1,250 $ 1,241 3/30 & 9/30 9/30/2022
+5.125% senior notes due 2023 1,000 995 2/15 & 8/15 2/15/2023
+4.000% senior notes due 2023 500 497 3/1 & 9/1 3/1/2023
+5.125% senior notes due 2023 1,150 1,145 5/1 & 11/1 5/1/2023
+5.750% senior notes due 2023 500 497 3/1 & 9/1 9/1/2023
+5.750% senior notes due 2024 150 149 1/15 & 7/15 1/15/2024
+5.875% senior notes due 2024 1,700 1,690 4/1 & 10/1 4/1/2024
+5.375% senior notes due 2025 750 746 5/1 & 11/1 5/1/2025
+5.750% senior notes due 2026 2,500 2,471 2/15 & 8/15 2/15/2026
+5.500% senior notes due 2026 1,500 1,491 5/1 & 11/1 5/1/2026
+5.875% senior notes due 2027 800 796 5/1 & 11/1 5/1/2027
+5.125% senior notes due 2027 3,250 3,222 5/1 & 11/1 5/1/2027
+5.000% senior notes due 2028 2,500 2,469 2/1 & 8/1 2/1/2028
+5.375% senior notes due 2029 1,500 1,501 6/1 & 12/1 6/1/2029
+4.750% senior notes due 2030 3,050 3,041 3/1 & 9/1 3/1/2030
+Charter Communications Operating, LLC:
+3.579% senior notes due 2020 2,000 1,997 1/23 & 7/23 7/23/2020
+4.464% senior notes due 2022 3,000 2,987 1/23 & 7/23 7/23/2022
+Senior floating rate notes due 2024 900 902 2/1, 5/1, 8/1 & 11/1 2/1/2024
+4.500% senior notes due 2024 1,100 1,093 2/1 & 8/1 2/1/2024
+4.908% senior notes due 2025 4,500 4,471 1/23 & 7/23 7/23/2025
+3.750% senior notes due 2028 1,000 987 2/15 & 8/15 2/15/2028
+4.200% senior notes due 2028 1,250 1,240 3/15 & 9/15 3/15/2028
+5.050% senior notes due 2029 1,250 1,241 3/30 & 9/30 3/30/2029
+6.384% senior notes due 2035 2,000 1,982 4/23 & 10/23 10/23/2035
+5.375% senior notes due 2038 800 786 4/1 & 10/1 4/1/2038
+6.484% senior notes due 2045 3,500 3,467 4/23 & 10/23 10/23/2045
+5.375% senior notes due 2047 2,500 2,506 5/1 & 11/1 5/1/2047
+5.750% senior notes due 2048 2,450 2,391 4/1 & 10/1 4/1/2048
+5.125% senior notes due 2049 1,250 1,240 1/1 & 7/1 7/1/2049
+4.800% senior notes due 2050 2,800 2,798 3/1 & 9/1 3/1/2050
+6.834% senior notes due 2055 500 495 4/23 & 10/23 10/23/2055
+Credit facilities 10,427 10,345 Varies
+Time Warner Cable, LLC:
+5.000% senior notes due 2020 1,500 1,503 2/1 & 8/1 2/1/2020
+4.125% senior notes due 2021 700 711 2/15 & 8/15 2/15/2021
+4.000% senior notes due 2021 1,000 1,021 3/1 & 9/1 9/1/2021
+5.750% sterling senior notes due 2031 (c) 828 886 6/2 6/2/2031
+
+ 40
+
+----------------------------------------- ----- ------ ----- - ------ ------------ ----------
+
+6.550% senior debentures due 2037 1,500 1,675 5/1 & 11/1 5/1/2037
+7.300% senior debentures due 2038 1,500 1,772 1/1 & 7/1 7/1/2038
+6.750% senior debentures due 2039 1,500 1,713 6/15 & 12/15 6/15/2039
+5.875% senior debentures due 2040 1,200 1,255 5/15 & 11/15 11/15/2040
+5.500% senior debentures due 2041 1,250 1,258 3/1 & 9/1 9/1/2041
+5.250% sterling senior notes due 2042 (d) 861 831 7/15 7/15/2042
+4.500% senior debentures due 2042 1,250 1,142 3/15 & 9/15 9/15/2042
+Time Warner Cable Enterprises LLC:
+8.375% senior debentures due 2023 1,000 1,148 3/15 & 9/15 3/15/2023
+8.375% senior debentures due 2033 1,000 1,284 7/15 & 1/15 7/15/2033
+ $ 78,416 $ 79,078
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) The accreted values presented in the table above represent the principal amount of the debt adjusted for original issue discount or premium at the time of sale, deferred financing costs, and, in regards to the TWC debt assumed, fair value premium adjustments as a result of applying acquisition accounting plus the accretion of those amounts to the balance sheet date. However, the amount that is currently payable if the debt becomes immediately due is equal to the principal amount of the debt. In regards to the Sterling Notes, the principal amount of the debt and any premium or discount is remeasured into US dollars as of each balance sheet date. We have availability under our credit facilities of approximately $4.7 billion as of December 31, 2019.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) In general, the obligors have the right to redeem all of the notes set forth in the above table in whole or in part at their option, beginning at various times prior to their stated maturity dates, subject to certain conditions, upon the payment of the outstanding principal amount (plus a specified redemption premium) and all accrued and unpaid interest.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------
+(c) Principal amount includes £625 million valued at $828 million as of December 31, 2019 using the exchange rate as of December 31, 2019.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------
+(d) Principal amount includes £650 million valued at $861 million as of December 31, 2019 using the exchange rate as of December 31, 2019.
+
+See Note 9 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data” for further details regarding our outstanding debt and other financing arrangements, including certain information about maturities, covenants and restrictions related to such debt and financing arrangements. The agreements and instruments governing our debt and financing arrangements are complicated and you should consult such agreements and instruments which are filed with the SEC for more detailed information.
+
+At December 31, 2019, Charter Operating had a consolidated leverage ratio of approximately 2.9 to 1.0 and a consolidated first lien leverage ratio of 2.8 to 1.0. Both ratios are in compliance with the ratios required by the Charter Operating credit facilities of 5.0 to 1.0 consolidated leverage ratio and 4.0 to 1.0 consolidated first lien leverage ratio. A failure by Charter Operating to maintain the financial covenants would result in an event of default under the Charter Operating credit facilities and the debt of CCO Holdings. See “Part I. Item 1A. Risk Factors — The agreements and instruments governing our debt contain restrictions and limitations that could significantly affect our ability to operate our business, as well as significantly affect our liquidity.”
+
+Recently Issued Accounting Standards
+
+See Note 23 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data” for a discussion of recently issued accounting standards.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[see Note 5]:
+(5) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. Strategy For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2020, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * The further optimization of our customer mix and fleet mix, with a dual objective: to enhance our performance in serving our current customer base, and to focus on the accounts and customer types that are best suited to our strategy for profitable growth. We believe these efforts will lead to even better service of our target accounts, primarily large construction and industrial customers, as well as select l...
+
+[see Note 5]:
+(5) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. Strategy For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2020, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * The further optimization of our customer mix and fleet mix, with a dual objective: to enhance our performance in serving our current customer base, and to focus on the accounts and customer types that are best suited to our strategy for profitable growth. We believe these efforts will lead to even better service of our target accounts, primarily large construction and industrial customers, as well as select l...
+
+[see Note 6]:
+NOTE 6. DERIVATIVE FINANCIAL INSTRUMENTS We may use derivatives to partially offset our business exposure to foreign currency and interest rate risk on expected future cash flows, and certain existing assets and liabilities. We do not use any of our derivative instruments for trading purposes. We enter into master netting arrangements to mitigate credit risk in derivative transactions by permitting net settlement of transactions with the same counterparty. We do not offset fair value amounts recognized for derivative instruments under master netting arrangements. We also enter into collateral security agreements with certain of our counterparties to exchange cash collateral when the net fair value of certain derivative instruments fluctuates from contractually established thresholds. Collateral posted is included in prepaid expenses and other current assets and collateral received is included in accrued expenses on our Consolidated Balance Sheets. Cash Flow Hedges In countries outside the United States, we transact business in U.S. Dollars and in various other currencies. We may use foreign exchange option contracts or forward contracts to hedge a portion of our forecasted foreign currency denominated revenue. These foreign exchange contracts, carried at fair value, have maturities of up to twelve months. As of November 29, 2019, total notional amounts of outstanding cash flow hedges were $1.20 billion, hedging exposures denominated in Euros, British Pounds and Japanese Yen. In June 2019, in anticipation of refinancing our $2.25 billion Term Loan due April 30, 2020 and $900 million notes payable due February 1, 2020, we entered into Treasury lock agreements with large financial institutions which fixed benchmark U.S. Treasury rates for an aggregate notional amount of $1 billion of our future debt issuance. These derivative instruments hedge the impact of changes in the benchmark interest rate to future interest payments and will be terminated upon closing of our ant...
+
+[see Note 11]:
+Note 11.Commitments and Contingencies Guarantee In 2018, we established a multi-currency notional cash pool for certain of our entities with a third-party bank provider. Actual cash balances are not physically converted and are not commingled between participating legal entities. As part of the notional cash pool agreement, the bank extends overdraft credit to our participating entities as needed, provided that the overall notionally pooled balance of all accounts in the pool at the end of each day is at least zero. In the unlikely event of a default by our collective entities participating in the pool, any overdraft balances incurred would be guaranteed by Facebook, Inc. Other contractual commitments We also have $4.54 billion of non-cancelable contractual commitments as of December 31, 2019, which is primarily related to network infrastructure and our data center operations. These commitments are primarily due within five years. Legal Matters Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking 94  unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class a...
+
+[See Note 6]:
+NOTE 6. DERIVATIVE FINANCIAL INSTRUMENTS We may use derivatives to partially offset our business exposure to foreign currency and interest rate risk on expected future cash flows, and certain existing assets and liabilities. We do not use any of our derivative instruments for trading purposes. We enter into master netting arrangements to mitigate credit risk in derivative transactions by permitting net settlement of transactions with the same counterparty. We do not offset fair value amounts recognized for derivative instruments under master netting arrangements. We also enter into collateral security agreements with certain of our counterparties to exchange cash collateral when the net fair value of certain derivative instruments fluctuates from contractually established thresholds. Collateral posted is included in prepaid expenses and other current assets and collateral received is included in accrued expenses on our Consolidated Balance Sheets. Cash Flow Hedges In countries outside the United States, we transact business in U.S. Dollars and in various other currencies. We may use foreign exchange option contracts or forward contracts to hedge a portion of our forecasted foreign currency denominated revenue. These foreign exchange contracts, carried at fair value, have maturities of up to twelve months. As of November 29, 2019, total notional amounts of outstanding cash flow hedges were $1.20 billion, hedging exposures denominated in Euros, British Pounds and Japanese Yen. In June 2019, in anticipation of refinancing our $2.25 billion Term Loan due April 30, 2020 and $900 million notes payable due February 1, 2020, we entered into Treasury lock agreements with large financial institutions which fixed benchmark U.S. Treasury rates for an aggregate notional amount of $1 billion of our future debt issuance. These derivative instruments hedge the impact of changes in the benchmark interest rate to future interest payments and will be terminated upon closing of our ant...
+
+[") along with a multitude of factors that affect the fair value of our franchise assets. Examples of such factors include environmental and competitive changes within our operating footprint, actual and projected operating performance, the consistency of our operating margins, equity and debt market trends, including changes in our market capitalization, and changes in our regulatory and political landscape, among other factors. Based on our assessment, we concluded that it was more likely than not that the estimated fair values of our franchise assets equals or exceeds their carrying values and that a quantitative impairment test is not required.
+
+Valuation and impairment of goodwill
+
+The net carrying value of goodwill as of both December 31, 2019 and 2018 was approximately $29.6 billion (representing 20% of total assets). We have determined that we have one reporting unit for purposes of the assessment of goodwill impairment. For more information and a complete discussion on how we test goodwill for impairment, see Note 5 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data.” We perform our impairment assessment of goodwill annually as of November 30. As with our franchise impairment testing, we elected to perform a qualitative assessment of goodwill in 2019 which included the Appraisal and other factors described above. Based on the Appraisal, we determined that the fair value of the reporting unit significantly exceeded the net asset carrying value of the reporting unit. Given the completion of the assessment and absence of significant adverse changes in factors impacting our fair value estimates, we concluded that it is more likely than not that our goodwill is not impaired.
+
+Income taxes
+
+As of December 31, 2019, Charter had approximately $7.5 billion of federal tax net operating loss carryforwards resulting in a gross deferred tax asset of approximately $1.6 billion. These losses resulted from the operations of Charter Holdco and its subsidiaries and from loss carryforwards received as a result of the merger with TWC in 2016. Federal tax net operating loss carryforwards expire in the years 2020 through 2035. In addition, as of December 31, 2019, Charter had state tax net operating loss carryforwards, resulting in a gross deferred tax asset (net of federal tax benefit) of approximately $257 million. State tax net operating loss carryforwards generally expire in the years 2020 through 2039.  Such tax loss carryforwards can accumulate and be used to offset Charter’s future taxable income. After December 31, 2019, $905 million of Charter']:
+(31) (a) Rule 13a-14(a) Certification by Ryan R. Marshall, President and Chief Executive Officer (Filed herewith) (b) Rule 13a-14(a) Certification by Robert T. O'Shaughnessy, Executive Vice President and Chief Financial Officer (Filed herewith) (32) Certification Pursuant to 18 United States Code § 1350 and Rule 13a-14(b) of the Securities Exchange Act of 1934 (Furnished herewith) 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 89 ------- --------------------------------------------------------------------------- 101.DEF InlineXBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) * Indicates a management contract or compensatory plan or arrangement
+
+[") that requires A/N to sell to Charter or to Charter Holdings, on a monthly basis, a number of shares of Charter Class A common stock or Charter Holdings common units that represents a pro rata participation by A/N and its affiliates in any repurchases of shares of Charter Class A common stock from persons other than A/N effected by Charter during the immediately preceding calendar month, at a purchase price equal to the average price paid by Charter for the shares repurchased from persons other than A/N during such immediately preceding calendar month. A/N and Charter both have the right to terminate or suspend the pro rata repurchase arrangement on a prospective basis. Charter Holdings purchased from A/N 2.3 million and 2.1 million Charter Holdings common
+
+ 36
+
+units at an average price per unit of $388.72 and $308.90, or $885 million and $656 million, during the years ended December 31, 2019 and 2018, respectively.
+
+As of December 31, 2019, Charter had remaining board authority to purchase an additional $1.4 billion of Charter’s Class A common stock and/or Charter Holdings common units. Although Charter expects to continue to buy back its common stock consistent with its leverage target range, Charter is not obligated to acquire any particular amount of common stock, and the timing of any purchases that may occur cannot be predicted and will largely depend on market conditions and other potential uses of capital. Purchases may include open market purchases, tender offers or negotiated transactions.
+
+As possible acquisitions, swaps or dispositions arise, we actively review them against our objectives including, among other considerations, improving the operational efficiency, geographic clustering of assets, product development or technology capabilities of our business and achieving appropriate return targets, and we may participate to the extent we believe these possibilities present attractive opportunities. However, there can be no assurance that we will actually complete any acquisitions, dispositions or system swaps, or that any such transactions will be material to our operations or results.
+
+Recent Events
+
+In December 2019, CCO Holdings and CCO Holdings Capital Corp. jointly issued an additional $1.2 billion aggregate principal amount of 4.750% senior unsecured notes due 2030 at a price of 101.125% of the aggregate principal amount. The net proceeds were or will be used to pay related fees and expenses and for general corporate purposes, including to fund buybacks of Charter Class A common stock and Charter Holdings common units as well as repaying certain indebtedness.
+
+In December 2019, Charter Operating and Charter Communications Operating Capital Corp. jointly issued an additional $1.3 billion aggregate principal amount of 4.800% senior secured notes due 2050 at a price of 101.964% of the aggregate principal amount. The net proceeds were or will be used to pay related fees and expenses and for general corporate purposes, including to fund buybacks of Charter Class A common stock and Charter Holdings common units as well as repaying certain indebtedness.
+
+In addition to the debt issued in December 2019 as described above, CCO Holdings and CCO Holdings Capital Corp. jointly issued $3.35 billion aggregate principal amount of senior unsecured notes at varying rates, prices and maturity dates in 2019, and Charter Operating and Charter Communications Operating Capital Corp. jointly issued $4.75 billion aggregate principal amount of senior secured notes at varying rates, prices and maturity dates in 2019. The net proceeds were used to pay related fees and expenses and for general corporate purposes, including funding buybacks of Charter Class A common stock and Charter Holdings common units as well as repaying certain indebtedness.
+
+In 2019, Charter Operating also entered into an amendment to its Credit Agreement repricing $4.5 billion of its revolving loan and $4.0 billion of term loan A to LIBOR plus 1.25% and its existing term loan B to LIBOR plus 1.75%. In addition, $4.5 billion of the revolving loan and $4.0 billion of term loan A maturities were extended to 2025 and $3.8 billion of term loan B maturities were extended to 2027.
+ Free Cash Flow
+
+Free cash flow increased $2.4 billion during the year ended December 31, 2019 compared to the corresponding prior period due to the following.
+
+--------------------------------------------------------------- --------------------- -----
+
+ 2019 compared to 2018
+Decrease in capital expenditures $ 1,930
+Increase in Adjusted EBITDA 796
+Change in working capital, excluding change in accrued interest (255 )
+Increase in cash paid for interest, net (75 )
+Other, net 40
+ $ 2,436
+
+Free cash flow was reduced by $567 million during the year ended December 31, 2019 compared to the corresponding prior period due to mobile with impacts negatively affecting working capital, capital expenditures and Adjusted EBITDA.
+
+ 37
+
+Contractual Obligations
+
+The following table summarizes our payment obligations as of December 31, 2019 under our long-term debt and certain other contractual obligations and commitments (dollars in millions.)
+
+------------------------------------------- ------------------ ------- ---------------- ----- --------- ------ --------- ----------------- ------ ------ ------ - ------
+
+ Payments by Period
+ Total Less than 1 year 1-3 years 3-5 years More than 5 years
+Long-Term Debt Principal Payments (a) $ 78,416 $ 3,777 $ 6,504 $ 8,701 $ 59,434
+Long-Term Debt Interest Payments (b) 50,577 3,924 7,551 6,635 32,467
+Finance and Operating Lease Obligations (c) 1,594 272 492 360 470
+Programming Minimum Commitments (d) 276 216 49 11 —
+Other (e) 12,658 2,536 3,034 892 6,196
+ $ 143,521 $ 10,725 $ 17,630 $ 16,599 $ 98,567
+
+--- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) The table presents maturities of long-term debt outstanding as of December 31, 2019. Refer to Notes 9 and 21 to our accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data” for a description of our long-term debt and other contractual obligations and commitments.
+
+--- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) Interest payments on variable debt are estimated using amounts outstanding at December 31, 2019 and the average implied forward LIBOR rates applicable for the quarter during the interest rate reset based on the yield curve in effect at December 31, 2019. Actual interest payments will differ based on actual LIBOR rates and actual amounts outstanding for applicable periods.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(c) We lease certain facilities and equipment under noncancelable finance and operating leases. Finance lease obligations represented $95 million of total finance and operating lease obligations as of December 31, 2019. Lease and rental costs charged to expense for the years ended December 31, 2019 and 2018 were $445 million and $382 million, respectively.
+
+--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(d) We pay programming fees under multi-year contracts typically based on a flat fee per customer, which may be fixed for the term, or may in some cases escalate over the term. Programming costs included in the accompanying statement of operations were approximately $11.3 billion and $11.1 billion for the years ended December 31, 2019 and 2018, respectively. Certain of our programming agreements are based on a flat fee per month or have guaranteed minimum payments. The table sets forth the aggregate guaranteed minimum commitments under our programming contracts.
+
+--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(e) “Other” represents other guaranteed minimum commitments, including rights negotiated directly with content owners for distribution on company-owned channels or networks, commitments related to our role as an advertising and distribution sales agent for third party-owned channels or networks, commitments to our customer premise equipment and device vendors and contractual obligations related to third-party network augmentation.
+
+The following items are not included in the contractual obligations table because the obligations are not fixed and/or determinable due to various factors discussed below. However, we incur these costs as part of our operations:
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We rent utility poles used in our operations. Generally, pole rentals are cancelable on short notice, but we anticipate that such rentals will recur. Rent expense incurred for pole rental attachments for the years ended December 31, 2019 and 2018 was $180 million and $171 million, respectively.
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We pay franchise fees under multi-year franchise agreements based on a percentage of revenues generated from video service per year. We also pay other franchise related costs, such as public education grants, under multi-year agreements. Franchise fees and other franchise-related costs included in the accompanying statement of operations were $750 million and $747 million for the years ended December 31, 2019 and 2018, respectively.
+
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• We have $363 million in letters of credit, of which $36 million is secured under the Charter Operating credit facility, primarily to our various casualty carriers as collateral for reimbursement of workers']:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. Our business is organized into three reportable segments: Digital Media, Digital Experience and Publishing. These segments provide our senior management with a comprehensive financial view of our key businesses. Our segments are aligned around our 70  ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) two strategic growth opportunities as described in the "Business Overview" within Part I, Item 1, placing our Publishing business in a third segment that contains some of our mature products and solutions. In fiscal 2019, we categorized our products into the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ * Digital Media--Our Digital Media segment provides tools and solutions that enable individuals, teams and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include content creators, experien...
+
+[See "Part I. Item 1. Business — Commitments Related to the 2016 Merger with TWC and Acquisition of Bright House"]:
+Item 1. Business 3

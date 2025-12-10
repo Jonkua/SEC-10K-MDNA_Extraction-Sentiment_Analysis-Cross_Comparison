@@ -1,0 +1,540 @@
+================================================================================
+CIK: 0001278021
+Company Name: MARKETAXESS HOLDINGS INC
+Filing Date: 2020-02-18
+Form Type: 10-K
+Extraction Date: 2025-08-31 12:42:09
+================================================================================
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+You should read the following discussion and analysis of our financial condition and results of operations in conjunction with “Selected Financial Data” and our consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. In addition to historical information, this discussion and analysis contains forward-looking statements relating to future events and the future performance of MarketAxess that are based on our current expectations, assumptions, estimates and projections about us and our industry. These forward-looking statements involve risks and uncertainties. Our actual results and timing of various events could differ materially from those anticipated in such forward-looking statements as a result of a variety of factors, as more fully described in this section, in “Item 1A. Risk Factors”, in “Cautionary Note Regarding Forward Looking Statements” and elsewhere in this Annual Report on Form 10-K. Except as may be required by applicable law, we undertake no obligation to update publicly any forward-looking statements for any reason, even if new information becomes available or other events occur in the future.
+
+The following discussion includes a comparison of our Financial Results, Cash Flow Comparisons and Liquidity and Capital Resources for the years ended December 31, 2019 and 2018, respectively. A discussion of changes in our Financial Results and Cash Flow Comparisons from the year ended December 31, 2017 to December 31, 2018 has been omitted from this form 10-K, but may be found in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” of Part II of our Annual Report on Form 10-K for the year ended December 31, 2018.
+
+Executive Overview
+
+MarketAxess operates leading electronic trading platforms delivering expanded liquidity opportunities, improved execution quality and significant cost savings across global fixed-income markets. Over 1,700 institutional investor and broker-dealer firms are active users of our patented trading technology, accessing global liquidity on our platforms in U.S. investment-grade bonds, U.S. high-yield bonds, U.S. Treasuries, emerging market debt, Eurobonds and other fixed income securities. Through our Open Trading protocols, we execute bond trades between and among institutional investor and broker-dealer clients in the leading all-to-all anonymous trading environment for corporate bonds. We also offer a number of trading-related products and services, including: Composite+TM pricing and other market data products to assist clients with trading decisions; auto-execution and other execution services for clients requiring specialized workflow solutions; connectivity solutions that facilitate straight-through processing; and technology services to optimize trading environments. In addition, we provide a range of pre- and post-trade services, including trade matching, trade publication, regulatory transaction reporting and market and reference data across a range of fixed-income and other products.
+
+Our platforms’ innovative technology solutions are designed to increase the number of potential trading counterparties and create a menu of solutions to address different trade sizes and bond liquidity characteristics. Our traditional RFQ model allows our institutional investor clients to simultaneously request competing, executable bids or offers from our broker-dealer clients and execute trades with the broker-dealer of their choice from among those that choose to respond. Our Open Trading protocols complement our request-for-quote model by increasing the number of potential counterparties and improving liquidity by allowing all participants to interact anonymously in an all-to-all trading environment. Clients can use our auto-execution technology with both our traditional RFQ and Open Trading protocols, thereby using rules-based execution to connect to diverse sources of liquidity while reducing trading inefficiencies and human errors. Leveraging the benefits of our Open Trading marketplace, we recently launched Live Markets, an order book that will create a single view of two-way, actionable prices for the most active bonds, including newly issued debt, benchmark issues and news-driven securities. We expect that Open Trading participants will improve their trading capacity through the Live Markets order book, by more efficiently trading liquid names in larger size and accessing integrated real-time market data, such as Composite+.
+
+We derive revenue from commissions for trades executed on our platform, information services, post-trade services and other revenues. Our expenses consist of employee compensation and benefits, depreciation and amortization, technology and communication expenses, professional and consulting fees, occupancy, marketing and advertising, clearing costs and other general and administrative expenses.
+
+Our objective is to provide the leading global electronic trading platforms for fixed-income securities, connecting broker-dealers and institutional investors more easily and efficiently, while offering a broad array of trading information and technology services to market participants across the trading cycle. The key elements of our strategy are:
+
+ • to use our broad network of over 1,700 active institutional investor and broker-dealer participants to drive more clients to our platforms;
+
+ • to increase the secondary market liquidity on our trading platform by deploying innovative technology solutions, such as our Open Trading protocols, to increase the number of potential trading counterparties on our platform and to address different trade sizes, bond liquidity characteristics and trading preferences;
+
+49
+
+ • to continue to develop innovative next-generation technologies that will allow our clients to further automate and improve the performance of their trading desks through increased liquidity, enhanced trading efficiencies and the ability to identify trends within the bond market;
+
+ • to expand and strengthen our existing service, data and analytical offerings throughout the trading cycle so that we are more fully integrated into the workflow of our broker-dealer and institutional investor clients; and
+
+ • to increase and supplement our internal growth by entering into strategic alliances, or acquiring businesses or technologies that will enable us to enter new markets, provide new products or services, or otherwise enhance the value of our platform to our clients.
+
+Critical Factors Affecting Our Industry and Our Company
+
+Economic, Political and Market Factors
+
+The global fixed-income securities industry is risky and volatile and is directly affected by a number of economic, political and market factors that may result in declining trading volume. These factors could have a material adverse effect on our business, financial condition and results of operations. These factors include, among others, credit market conditions, the current interest rate environment, including the volatility of interest rates and investors’ forecasts of future interest rates, economic and political conditions in the United States, Europe and elsewhere, and the consolidation or contraction of our broker-dealer and institutional investor clients.
+
+Our results of operations are impacted by a number of factors, including market conditions and the overall level of market volumes in our core products. In 2019, estimated U.S. high-grade and U.S. high-yield market volume, as reported by Financial Industry Regulatory Authority’s (“FINRA”) Trade Reporting and Compliance Engine (“TRACE”), increased 8.1% and 10.4%, respectively, compared to 2018. Historically, market conditions are typically more constructive for electronic trading and the growth of our market share when there is lower new issuance activity, increased volatility, widening credit spreads and increased investment fund flow movement, among other factors. In 2019, aggregate U.S high-grade and U.S. high-yield new issue activity was approximately 5.8% higher than 2018. In addition, whereas credit spreads and credit spread volatility generally widened during 2018, both volatility and spreads tightened throughout 2019. The decline in U.S. Treasury yields, tightening of credit spreads and increase in average years-to-maturity led to longer duration on U.S. high-grade bonds traded on our platform and an increase in U.S. high-grade fee capture compared to 2018.
+
+Competitive Landscape
+
+The global fixed-income securities industry generally, and the electronic financial services markets in which we operate in particular, are highly competitive, and we expect competition to intensify in the future. We primarily compete with other electronic trading platforms and trading business conducted directly between broker-dealers and their institutional investor clients over the telephone, e-mail or instant messaging. Competitors, including companies in which some of our broker-dealer clients have invested, have developed or acquired electronic trading platforms or have announced their intention to explore the development of electronic platforms or information networks that may compete with us.
+
+In general, we compete on the basis of a number of key factors, including, among others, the liquidity provided on our platform, the magnitude and frequency of price improvement enabled by our platform, total transaction costs, the quality and speed of execution and our platforms’ features and trading functionalities. We believe that our ability to grow volumes and revenues will largely depend on our performance with respect to these factors.
+
+Our competitive position is also enhanced by the familiarity and integration of our broker-dealer and institutional investor clients with our electronic trading platform and other systems. We have focused on the unique aspects of the credit markets we serve in the development of our platform, working closely with our clients to provide a system that is suited to their needs.
+
+Regulatory Environment
+
+Our business is subject to extensive regulations in the United States and internationally, which may expose us to significant regulatory risk and cause additional legal costs to ensure compliance. See “Business — Government Regulation.” The existing legal framework that governs the financial markets is periodically reviewed and amended, resulting in enforcement of new laws and regulations that apply to our business. The current regulatory environment in the United States may be subject to future legislative changes driven by the current presidential administration as it largely pursues policies of financial deregulaton. In 2017, the SEC established a Fixed Income Market Structure Advisory Committee in order to provide the SEC with diverse perspectives on the structure and operations of the U.S. fixed-income markets, as well as advice and recommendations on matters related to fixed-income market structure. The impact of any reform efforts on us and our operations remains uncertain.
+
+50
+
+In addition, the U.K. ceased to be a member of the E.U. on January 31, 2020 (commonly referred to as “Brexit”), triggering a period during which the U.K. will continue to observe applicable E.U. regulations through December 31, 2020 or any later extension date (the “Transition Period”). In preparation for Brexit, we obtained AFM authorizations for our subsidiaries in the Netherlands in 2019 and, during the Transition Period, we are able to provide regulated services to our European clients in reliance on the cross-border services passport held by our Dutch subsidiaries. Brexit is expected to lead to legal uncertainty and potentially divergent national laws and regulations as the U.K. determines which E.U. laws to replace or replicate, which may impact our ability to comply with the extensive government regulation to which we are subject. In addition, the cost and complexity of operating across increasingly divergent regulatory regimes could increase following Brexit.
+
+Compliance with regulations may require us to dedicate additional financial and operational resources, which may adversely affect our profitability. However, we believe new regulations may also increase demand for our platforms and we believe we are well positioned to benefit from those regulatory changes that cause market participants to seek electronic platforms that meet the various regulatory requirements and help them comply with their regulatory obligations.
+
+Technology Environment
+
+We must continue to enhance and improve our electronic trading platform. The electronic financial services industry is characterized by increasingly complex systems and infrastructures and new business models. Our future success will depend on our ability to enhance our existing products and services, develop and/or license new products and technologies that address the increasingly sophisticated and varied needs of our existing and prospective broker-dealer and institutional investor clients and respond to technological advances and emerging industry standards and practices on a cost-effective and timely basis. We plan to continue to focus on technology infrastructure initiatives and continually improve our platforms to further enhance our leading market position. We expect that our transition to agile software development processes will help us continue to be a market leader in developing the technology solutions for our clients’ trading needs.
+
+We experience cyber-threats and attempted security breaches. Cyber security incidents could impact revenue and operating income and increase costs. We therefore continue to make investments, which may result in increased costs, to strengthen our cybersecurity measures. See also Item 1A. Risk Factors, “Cybersecurity Risks”.
+
+Trends in Our Business
+
+The majority of our revenue is derived from commissions for transactions executed on our platforms between and among our institutional investor and broker-dealer clients and monthly distribution fees. We believe that there are five key variables that impact the notional value of such transactions on our platforms and the amount of commissions and distribution fees earned by us:
+
+ • the number of participants on our platforms and their willingness to originate transactions through the platforms;
+
+ • the frequency and competitiveness of the price responses by participants on our platforms;
+
+ • the number of markets that are available for our clients to trade on our platforms;
+
+ • the overall level of activity in these markets; and
+
+ • the level of commissions that we collect for trades executed through the platforms.
+
+We believe that overall corporate bond market trading volume is affected by various factors including the absolute levels of interest rates, the direction of interest rate movements, the level of new issues of corporate bonds and the volatility of corporate bond spreads versus U.S. Treasury securities. Because a significant percentage of our revenue is tied directly to the volume of securities traded on our platforms, it is likely that a general decline in trading volumes, regardless of the cause of such decline, would reduce our revenues and have a significant negative impact on profitability.
+
+Commission Revenue
+
+Commissions are generally calculated as a percentage of the notional dollar volume of bonds traded on our platforms and vary based on the type, size, yield and maturity of the bond traded. Under our disclosed trading transaction fee plans, bonds that are more actively traded or that have shorter maturities are generally charged lower commissions, while bonds that are less actively traded or that have longer maturities generally command higher commissions.
+
+For Open Trading trades that we execute between and among institutional investor and broker-dealer clients on a matched principal basis by serving as counterparty to both the buyer and the seller, we earn our commission through the difference in price between the two trades. For U.S. Treasury matched principal trades, commissions are invoiced and recorded on a monthly basis.
+
+51
+
+U.S. High-Grade Corporate Bond Commissions. Our U.S. high-grade corporate bond fee plans generally incorporate variable transaction fees and fixed distribution fees billed to our broker-dealer clients on a monthly basis. Certain dealers participate in fee programs that do not contain monthly distribution fees and instead incorporate additional per transaction execution fees and minimum monthly fee commitments. Under these fee plans, we electronically add the transaction fee to the spread quoted by the broker-dealer client. The U.S. high-grade transaction fee is generally designated in basis points in yield and, as a result, is subject to fluctuation depending on the duration of the bond traded. The average U.S. high-grade fees per million may vary in the future due to changes in yield, years-to-maturity and nominal size of bonds traded on our platform. Distribution fees include any unused monthly fee commitments under our variable fee plans.
+
+Other Credit Commissions. Other credit includes Eurobonds, emerging markets bonds, high-yield bonds, municipal bonds and leveraged loans. Commissions for other credit products generally vary based on the type of the instrument traded using standard fee schedules. Our high-yield fee plan structure is similar to our U.S. high-grade fee plans. Certain dealers participate in a high-yield fee plan that incorporates a variable transaction fee and fixed distribution fee, while other dealers participate in a plan that does not contain monthly distribution fees and instead incorporates additional per transaction execution fees and minimum monthly fee commitments. The average other credit fees per million may vary in the future due to changes in product mix or trading protocols.
+
+ Rates Commissions. Rates includes U.S. Treasury, U.S. agency, European government bonds and credit derivatives. Commissions for rates products generally vary based on the type of the instrument traded. U.S. Treasury fee plans are typically volume tiered and can vary based on the trading protocol. The average rates fee per million may vary in the future due to changes in product mix or trading protocols.
+
+ We anticipate that average fees per million may change in the future. Consequently, past trends in commissions are not necessarily indicative of future commissions.
+
+Information Services
+
+ We generate revenue from data licensed to our broker-dealer clients, institutional investor clients and data-only subscribers; professional and consulting services; technology software licenses; and maintenance and support services. These revenues are either for subscription-based services transferred over time, and may be net of volume-based discounts, or one-time services. Revenues for services transferred over time are recognized ratably over the contract period while revenues for services transferred at a point in time are recognized in the period the services are provided. Customers are generally billed monthly, quarterly, or annually; revenues billed in advance are deferred and recognized ratably over the contract period.
+
+Post-trade Services
+
+ We generate revenue from regulatory transaction reporting, trade publication and trade matching services. Customers are generally billed monthly in arrears and revenue is recognized in the period that the transactions are processed. Revenues billed in advance are deferred and recognized ratably over the contract period. We also generate one-time implementation fees for onboarding clients which are invoiced and recognized in the period the implementation is complete.
+
+Other Revenue
+
+Other revenue includes revenue generated from telecommunications line charges to broker-dealer clients.
+
+Expenses
+
+In the normal course of business, we incur the following expenses:
+
+Employee Compensation and Benefits. Employee compensation and benefits is our most significant expense and includes employee salaries, stock-based compensation costs, other incentive compensation, employee benefits and payroll taxes.
+
+Depreciation and Amortization. We depreciate our computer hardware and related software, office hardware and furniture and fixtures and amortize our capitalized software development costs on a straight-line basis over three to seven years. We amortize leasehold improvements on a straight-line basis over the lesser of the life of the improvement or the remaining term of the lease. Intangible assets with definite lives, including purchased technologies, customer relationships and other intangible assets, are amortized over their estimated useful lives, which range from one to 15 years, using either a straight-line or accelerated amortization method based on the pattern of economic benefit that we expect to realize from such assets. Intangible assets are assessed for impairment when events or circumstances indicate a possible impairment.
+
+52
+
+Technology and Communications. Technology and communications expense consists primarily of costs relating to maintenance on software and hardware, our internal network connections, data center hosting costs and data feeds provided by outside vendors or service providers. The majority of our broker-dealer clients have dedicated high-speed communication lines to our network in order to provide fast data transfer. We charge certain broker-dealer clients a monthly fee for these connections, which is recovered against the relevant expenses we incur.
+
+Professional and Consulting Fees. Professional and consulting fees consist primarily of accounting fees, legal fees and fees paid to information technology and other consultants for services provided for the maintenance of our trading platform, information services and post-trade services.
+
+Occupancy. Occupancy costs consist primarily of office and equipment rent, utilities and commercial rent tax.
+
+Marketing and Advertising. Marketing and advertising expense consists primarily of print and other advertising expenses we incur to promote our products and services. This expense also includes costs associated with attending or exhibiting at industry-sponsored seminars, conferences and conventions, and travel and entertainment expenses incurred by our sales force to promote our trading platforms, information services and post-trade services.
+
+Clearing Costs. Clearing costs consist of fees that we are charged by third-party clearing brokers for the clearing and settlement of matched principal trades.
+
+General and Administrative. General and administrative expense consists primarily of general travel and entertainment, board of directors’ expenses, charitable contributions, employee training and professional development, provision for doubtful accounts and various state franchise and U.K. value-added taxes.
+
+Expenses may grow in the future, notably in employee compensation and benefits as we increase headcount to support investment in new products and geographic expansion, depreciation and amortization due to increased investment in new products and enhancements to our trading platforms, and technology and communication costs. Expenses may also grow due to acquisitions, including the LiquidityEdge acquisition, which closed on November 1, 2019.
+
+Other Income (Expense)
+
+Investment Income. Investment income consists of income earned on our investments.
+
+Other, Net. Other, net consists of unrealized gains or losses on trading security investments, realized gains or losses on investments, foreign currency transaction gains or losses, investment advisory fees and other miscellaneous revenues and expenses.
+
+Critical Accounting Policies and Estimates
+
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations discusses our Consolidated Financial Statements, which have been prepared in accordance with accounting principles generally accepted in the United States, also referred to as U.S. GAAP. The preparation of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the reported amounts of income and expenses during the reporting periods. We base our estimates and judgments on historical experience and on various other factors that we believe are reasonable under the circumstances. Actual results may differ from these estimates under varying assumptions or conditions. Note 2 of the Notes to our Consolidated Financial Statements includes a summary of the significant accounting policies and methods used in the preparation of our Consolidated Financial Statements. There were no significant changes to our critical accounting policies and estimates during the year ended December 31, 2019, as compared to those we disclosed in Management’s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the year ended December 31, 2018.
+
+Recent Accounting Pronouncements
+
+See Note 2 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for a discussion of recent accounting pronouncements, including but not limited to the Company’s adoption of the new U.S. GAAP leasing standard (ASC 842) on a modified retrospective basis effective January 1, 2019 and the cloud computing arrangements standard on a prospective basis effective July 1, 2019.
+
+53
+
+Segment Results
+
+We operate electronic platforms for the trading of fixed-income securities and provide related data, analytics, compliance tools and post-trade services. We consider our operations to constitute a single business segment because of the highly integrated nature of these product and services, the financial markets in which we compete and our worldwide business activities. We believe that results by geographic region or client sector are not necessarily meaningful in understanding our business. See Note 15 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for certain geographic information about our business required by U.S. GAAP.
+
+Results of Operations
+
+Year Ended December 31, 2019 Compared to Year Ended December 31, 2018
+
+On November 1, 2019, we completed our acquisition of LiquidityEdge which enabled us to expand our trading capabilities to include U.S. Treasuries. For additional information regarding this acquisition, see Note 5 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+
+The following table summarizes our financial results, which includes LiquidityEdge related revenue and expenses of $2.5 million and $3.8 million, respectively, recognized during 2019:
+
+ Year Ended December 31,
+------------------------------------- ------------------------------------------ ------- ---- - ------- -------- - -------- ---- - -
+ 2019 2018 $ Change % Change
+ ($ in thousands, except per share amounts)
+Revenues $ 511,352 $ 435,565 $ 75,787 17.4 %
+Expenses 260,470 222,981 37,489 16.8
+Operating income 250,882 212,584 38,298 18.0
+Other income 6,542 5,502 1,040 18.9
+Income before income taxes 257,424 218,086 39,338 18.0
+Provision for income taxes 52,522 45,234 7,288 16.1
+Net income $ 204,902 $ 172,852 $ 32,050 18.5 %
+
+Net income per common share - Diluted $ 5.40 $ 4.57 $ 0.83 18.2 %
+
+A 3.9% change in the average foreign currency exchange rate of the British pound sterling compared to the U.S. Dollar during 2019 had the effect of decreasing revenues and expenses by $2.8 million and $2.9 million, respectively, for the year ended December 31, 2019.
+
+Revenues
+
+Our revenues for the years ended December 31, 2019 and 2018, and the resulting dollar and percentage changes, were as follows:
+
+ Year Ended December 31,
+-------------------- ----------------------- ------- ------------- ----- ------------- -------- ------- -------- ----- - - ------ - ----- - -
+ 2019 2018
+ ($ in thousands)
+ $ % of Revenues $ % of Revenues $ Change % Change
+Commissions $ 463,856 90.7 % $ 390,834 89.7 % $ 73,022 18.7 %
+Information services 30,730 6.0 28,227 6.5 2,503 8.9
+Post-trade services 15,763 3.1 15,346 3.5 417 2.7
+Other 1,003 0.2 1,158 0.3 (155 ) (13.4 )
+Total revenues $ 511,352 100.0 % $ 435,565 100.0 % $ 75,787 17.4 %
+
+54
+
+Commissions
+
+ Our commission revenues for the years ended December 31, 2019 and 2018, and the resulting dollar and percentage changes, were as follows:
+
+ Year Ended December 31,
+------------------------------- ----------------------- ------- ---- - ------- -------- - -------- - ----- - -
+ 2019 2018 $ Change % Change
+ ($ in thousands)
+Variable transaction fees
+U.S. high-grade $ 173,944 $ 144,642 $ 29,302 20.3 %
+Other credit 188,514 147,148 41,366 28.1
+Total credit 362,458 291,790 70,668 24.2
+Rates 4,722 2,146 2,576 120.0
+Total variable transaction fees 367,180 293,936 73,244 24.9
+Distribution fees
+U.S. high-grade 71,885 72,135 (250 ) (0.3 )
+Other credit 24,347 24,077 270 1.1
+Total credit 96,232 96,212 20 0.0
+Rates 444 686 (242 ) (35.3 )
+Total distribution fees 96,676 96,898 (222 ) (0.2 )
+Total commissions $ 463,856 $ 390,834 $ 73,022 18.7 %
+
+U.S. high-grade variable transaction fees increased $29.3 million due to a 14.0% increase in trading volume and a 5.5% increase in the variable transaction fee per million. Other credit variable transaction fees increased $41.4 million due to a 33.1% increase in trading volume offset by a 3.8% decrease in the variable transaction fee per million. Open trading volume increased by 44.2% and represented 21.1% and 16.9% of credit commission revenue for the years ended December 31, 2019 and 2018, respectively. The 120.0% increase in variable transaction fees for rates was attributable to the inclusion of U.S. Treasuries trading volume and commissions subsequent to the November 1, 2019 acquisition of LiquidityEdge.
+
+Our trading volume for each of the years presented was as follows:
+
+ Year Ended December 31,
+------------------------------- ----------------------- --------- ---- - --------- -------- - -------- --- ---- -
+ 2019 2018 $ Change % Change
+ ($ in millions)
+Trading Volume Data
+U.S. high-grade - fixed rate $ 992,844 $ 867,518 $ 125,326 14.4 %
+U.S. high-grade - floating rate 64,980 60,654 4,326 7.1
+Total U.S. high-grade 1,057,824 928,172 129,652 14.0
+Other credit 974,494 731,888 242,606 33.1
+Total credit 2,032,318 1,660,060 372,258 22.4
+
+Rates 659,548 53,479 606,069 N/M
+
+Number of U.S. Trading Days 250 249
+Number of U.K. Trading Days 253 253
+
+For volume reporting purposes, transactions in foreign currencies are converted to U.S. dollars at average monthly rates. The 14.0% increase in our U.S. high-grade volume was principally due to an increase in estimated overall market volume coupled with growth in our estimated market share. Our estimated market share of total U.S. high-grade corporate bond volume increased to 19.0% for the year ended December 31, 2019 from 18.1% for the year ended December 31, 2018. Estimated U.S. high-grade TRACE volume increased by 8.1% to $5.6 trillion for the year ended December 31, 2019 from $5.1 trillion for the year ended December 31, 2018.
+
+55
+
+Other credit volumes increased by 33.1% for the year ended December 31, 2019 compared to the year ended December 31, 2018, primarily due to increases of 48.4% in Eurobond volume, 29.4% in emerging markets bond volume and 28.7% in high-yield bond volume. Our estimated market share of U.S. high-yield TRACE volume increased to 10.4% for the year ended December 31, 2019 from 8.9% for the year ended December 31, 2018.
+
+The significant increase in rates volume was attributable to the inclusion of U.S. Treasuries trading volumes subsequent to the November 1, 2019 acquisition of LiquidityEdge.
+
+Our average variable transaction fee per million for the years ended December 31, 2019 and 2018 was as follows:
+
+ Year Ended December 31,
+-------------------------------------------- ----------------------- ------ ---- - ------
+ 2019 2018
+Average Variable Transaction fee per million
+U.S. high-grade - fixed rate $ 171.06 $ 160.63
+U.S. high-grade - floating rate 63.15 87.22
+Total U.S. high-grade 164.44 155.84
+Other credit 193.45 201.05
+Total credit 178.35 175.77
+
+Rates 7.16 40.13
+
+Total U.S. high-grade average variable transaction fee per million increased to $164 per million for the year ended December 31, 2019 from $156 per million for the year ended December 31, 2018, mainly due to an increase in the duration of bonds traded on the platforms. Other credit average variable transaction fee per million decreased to $193 per million for the year ended December 31, 2019 from $201 million for the year ended December 31, 2018, mainly due to a larger percentage of trading volume in Eurobonds that command lower fees per million. The significant decrease in the average variable transaction fee per million for rates products was primarily attributable to the inclusion of U.S. Treasuries trading volumes that command lower fees per million. We expect rates variable transaction fee per million to decline in 2020 upon reflecting a full period of activity for U.S. Treasuries trading volume.
+
+Information Services. Information services revenue increased $2.5 million for the year ended December 31, 2019. The increase is attributable to revenue from new data contracts of $3.2 million offset by the unfavorable impact of the stronger U.S. dollar of $0.7 million.
+
+Post-Trade Services. Post-trade services revenue increased $0.4 million for the year ended December 31, 2019 principally due to an increase of $1.4 million in regulatory transaction reporting services revenue, offset by the unfavorable impact of the stronger U.S. dollar of $0.7 million. Our transaction reporting business processed 1.2 billion transactions for the year ended December 31, 2019 compared to 0.9 billion for the year ended December 31, 2018.
+
+Other. Other revenue was $1.0 million and $1.2 million for the years ended December 31, 2019 and 2018, respectively.
+
+56
+
+Expenses
+
+Our expenses for the years ended December 31, 2019 and 2018, and the resulting dollar and percentage changes, were as follows:
+
+ Year Ended December 31,
+---------------------------------- ----------------------- ------- ------------- ---- - ------------- ------- -------- - -------- - ------ - ----- - -
+ 2019 2018
+ ($ in thousands)
+ $ % of Revenues $ % of Revenues $ Change % Change
+Expenses
+Employee compensation and benefits $ 131,079 25.6 % $ 109,117 25.1 % $ 21,962 20.1 %
+Depreciation and amortization 26,857 5.3 23,080 5.3 3,777 16.4
+Technology and communications 26,792 5.2 23,866 5.5 2,926 12.3
+Professional and consulting fees 25,534 5.0 21,521 4.9 4,013 18.6
+Occupancy 11,639 2.3 14,176 3.3 (2,537 ) (17.9 )
+Marketing and advertising 11,559 2.3 12,114 2.8 (555 ) (4.6 )
+Clearing costs 11,314 2.2 7,754 1.8 3,560 45.9
+General and administrative 15,696 3.1 11,353 2.6 4,343 38.3
+Total expenses $ 260,470 50.9 % $ 222,981 51.2 % $ 37,489 16.8 %
+
+Employee compensation and benefits increased by $22.0 million primarily due increases in salaries, taxes and benefits on higher employee headcount of $10.3 million, stock-based compensation of $9.5 million resulting from higher employee equity awards granted in 2019 and employee incentive compensation of $3.3 million, which is tied to operating performance. The total number of employees increased to 527 as of December 31, 2019 from 454 as of December 31, 2018.
+
+Depreciation and amortization increased by $3.8 million primarily due to higher amortization of software development costs of $1.1 million, amortization of software licenses of $1.0 million and depreciation of production hardware of $0.9 million. For the years ended December 31, 2019 and 2018, $12.3 million and $35.9 million, respectively, of equipment purchases and leasehold improvements and $22.4 million and $11.7 million, respectively, of software development costs were capitalized. In 2018, we incurred capital expenditures of $25.1 million related to the build-out of our new headquarters in New York City.
+
+Technology and communications expenses increased by $2.9 million primarily due to increases in software subscription costs of $1.2 million, data center and cloud hosting of $0.9 million and market data costs of $0.8 million.
+
+Professional and consulting fees increased by $4.0 million primarily due to $1.7 million of acquisition related costs, $0.9 million of consulting and legal fees related to the self-clearing initiative and higher IT consulting fees of $0.5 million.
+
+Occupancy costs decreased by $2.5 million primarily due to an increase in rent expense of $5.0 million offset by a reduction of $7.1 million in duplicate rent expense incurred during the build-out phase of our new headquarters in New York City during the year ended December 31, 2018. We relocated to the new headquarters in January 2019.
+
+Clearing costs increased by $3.6 million due to $3.0 million of clearing expenses associated with higher Open Trading volume and $0.6 million of clearing expenses associated with U.S. Treasuries matched principal transactions. Third-party clearing costs as a percentage of Open Trading matched principal trading revenue from credit products decreased to 11.0% for the year ended December 31, 2019 from 11.8% for the year ended December 31, 2018.
+
+General and administrative expenses increased by $4.3 million primarily due to higher employee training and professional development costs of $2.1 million, general travel, entertainment and meals of $0.9 million and registration fees of $0.5 million.
+
+57
+
+Other Income (Expense)
+
+Our other income for the years ended December 31, 2019 and 2018, and the resulting dollar and percentage changes, were as follows:
+
+ Year Ended December 31,
+------------------ ----------------------- ------ ------------- ---- ---- - - ------------- ----- - -------- - - -------- - ----- - ----- -
+ 2019 2018
+ ($ in thousands)
+
+ $ % of Revenues $ % of Revenues $ Change % Change
+Investment income $ 8,063 1.6 % $ 6,112 1.4 % $ 1,951 31.9 %
+Other, net (1,521 ) (0.3 ) (610 ) (0.1 ) (911 ) 149.3
+Total other income $ 6,542 1.3 % $ 5,502 1.3 % $ 1,040 18.9 %
+
+Investment income increased by $1.9 million primarily due to higher investment balances and an increase in interest rates in 2019. Other, net decreased by $0.9 million as 2018 included $0.8 million of sales tax refunds.
+
+Provision for Income Taxes.
+
+The provision for income taxes and effective tax rate for the years ended December 31, 2019 and 2018 were as follows:
+
+ Year Ended December 31,
+-------------------------- ----------------------- ------ - ---- - ------ -------- - -------- ---- -
+ 2019 2018 $ Change % Change
+ ($ in thousands)
+Provision for income taxes $ 52,522 $ 45,234 $ 7,288 16.1 %
+
+Effective tax rate 20.4 % 20.7 %
+
+The income tax provision reflected $10.6 million and $5.6 million of excess tax benefits related to share-based compensation awards that vested or were exercised during the years ended December 31, 2019 and 2018, respectively. Our consolidated effective tax rate can vary from period to period depending on the geographic mix of our earnings, changes in tax legislation and tax rates and the amount and timing of excess tax benefits related to share-based payments, among other factors.
+
+58
+
+Quarterly Results of Operations
+
+Our quarterly results have varied significantly as a result of:
+
+ • changes in trading volume due to market conditions, changes in the number of trading days in certain quarters, and seasonality effects caused by slow-downs in trading activity during certain periods;
+
+ • changes in the number of broker-dealers and institutional investors using our trading platform, as well as variation in usage by existing clients;
+
+ • acquisitions or the Company’s expansion into new products; or
+
+ • variance in our expenses, particularly employee compensation and benefits.
+
+The following table sets forth certain unaudited consolidated quarterly income statement data for the eight quarters ended December 31, 2019. In our opinion, this unaudited information has been prepared on a basis consistent with our annual financial statements and includes all adjustments (consisting only of normal recurring adjustments) necessary for a fair statement of the unaudited quarterly data. This information should be read in conjunction with our Consolidated Financial Statements and related Notes included in this Annual Report on Form 10-K. The results of operations for any quarter are not necessarily indicative of results that we may achieve for any subsequent periods.
+
+ Three Months Ended
+---------------------------------- ---------------------------------------------------- ------- - ------------ - ------- ------------ - ------------ - ------------ ------- ------------ - ------- ------------ - ------------ - - ------- - - ------- -
+ Dec 31, 2019 Sep 30, 2019 Jun 30, 2019 Mar 31, 2019 Dec 31, 2018 Sep 30, 2018 Jun 30, 2018 Mar 31, 2018
+ (In thousands, except per share amounts) (unaudited)
+Revenues
+Commissions $ 117,103 $ 119,869 $ 114,124 $ 112,760 $ 101,436 $ 90,513 $ 96,113 $ 102,772
+Information services 8,515 7,693 7,156 7,366 7,057 7,174 6,930 7,066
+Post-trade services 3,923 3,784 3,956 4,100 3,675 3,475 3,620 4,576
+Other 233 251 254 265 276 281 301 300
+Total revenues 129,774 131,597 125,490 124,491 112,444 101,443 106,964 114,714
+
+Expenses
+Employee compensation and benefits 33,117 32,681 32,623 32,658 27,802 26,282 26,199 28,834
+Depreciation and amortization 7,730 6,700 6,345 6,082 5,848 6,173 5,790 5,269
+Technology and communications 7,155 7,381 6,474 5,782 6,415 5,879 5,793 5,779
+Professional and consulting fees 6,389 7,018 6,296 5,831 5,353 5,685 5,426 5,057
+Occupancy 3,090 2,802 2,798 2,949 3,844 3,528 3,467 3,337
+Marketing and advertising 3,087 2,506 3,667 2,299 3,534 2,980 3,535 2,065
+Clearing costs 3,345 2,782 2,610 2,577 2,257 1,760 2,012 1,725
+General and administrative 5,010 3,762 3,800 3,124 3,426 2,744 2,708 2,475
+Total expenses 68,923 65,632 64,613 61,302 58,479 55,031 54,930 54,541
+Operating income 60,851 65,965 60,877 63,189 53,965 46,412 52,034 60,173
+Other income (expense)
+Investment income 1,767 2,211 2,096 1,989 1,926 1,635 1,383 1,168
+Other, net (661 ) (838 ) (64 ) 42 175 (250 ) (207 ) (328 )
+Total other income 1,106 1,373 2,032 2,031 2,101 1,385 1,176 840
+Income before income taxes 61,957 67,338 62,909 65,220 56,066 47,797 53,210 61,013
+Provision for income taxes 11,684 13,336 14,804 12,698 10,235 9,203 12,723 13,073
+Net income $ 50,273 $ 54,002 $ 48,105 $ 52,522 $ 45,831 $ 38,594 $ 40,487 $ 47,940
+
+Net income per common share
+Basic $ 1.35 $ 1.46 $ 1.30 $ 1.42 $ 1.24 $ 1.04 $ 1.10 $ 1.30
+Diluted $ 1.32 $ 1.42 $ 1.27 $ 1.39 $ 1.21 $ 1.02 $ 1.07 $ 1.27
+
+59
+
+The following tables set forth trading volume and average variable transaction fee per million for the eight quarters ended December 31, 2019.
+
+ Three Months Ended
+---------------------------------------------------------------------------------------------------------------------------- ------------------ ------- ------------ - ------- ------------ - ------------ ------------ ------- ------------ - ------- ------------ - ------------ - ------- - -------
+ Dec 31, 2019 Sep 30, 2019 Jun 30, 2019 Mar 31, 2019 Dec 31, 2018 Sep 30, 2018 Jun 30, 2018 Mar 31, 2018
+Trading Volume Data (In millions)
+U.S. high-grade - fixed rate $ 238,959 $ 245,027 $ 249,025 $ 259,833 $ 223,737 $ 191,950 $ 215,308 $ 236,523
+U.S. high-grade - floating rate 14,150 16,918 16,335 17,577 16,915 14,066 15,211 14,462
+Total U.S. high-grade 253,109 261,945 265,360 277,410 240,652 206,016 230,519 250,985
+Other credit 236,403 255,097 248,503 234,491 187,274 166,990 177,681 199,943
+Total credit 489,512 517,042 513,863 511,901 427,926 373,006 408,200 450,928
+
+Rates (1) 620,437 11,661 13,174 14,276 14,345 12,505 12,550 14,079
+(1) Rates includes U.S. Treasury volume traded through LiquidityEdge, which was acquired by the Company on November 1, 2019.
+
+ Three Months Ended
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------ ------ ------------ - ------ ------------ - ------------ ------------ ------ ------------ - ------ ------------ - ------------ - ------ - ------
+ Dec 31, 2019 Sep 30, 2019 Jun 30, 2019 Mar 31, 2019 Dec 31, 2018 Sep 30, 2018 Jun 30, 2018 Mar 31, 2018
+Average Variable Transaction Fee Per Million
+U.S. high-grade - fixed rate $ 177.27 $ 181.45 $ 168.05 $ 158.45 $ 160.52 $ 162.02 $ 162.26 $ 158.14
+U.S. high-grade - floating rate 53.64 56.08 65.22 75.70 69.53 91.36 96.35 94.29
+Total U.S. high-grade 170.36 173.35 161.72 153.21 154.12 157.19 157.91 154.46
+Other credit 191.36 196.04 190.07 196.32 207.55 198.15 195.66 202.19
+Total credit 180.50 184.55 175.43 172.95 177.50 175.53 174.34 175.62
+
+Rates (1) 4.81 48.62 46.69 38.99 41.34 38.56 38.86 41.43
+
+Number of U.S. trading days 62 64 63 61 61 63 64 61
+Number of U.K. trading days 64 65 61 63 64 64 62 63
+
+(1) The decrease in the average variable transaction fee per million for rates during the three months ended December 31, 2019 was attributable to the inclusion of U.S. Treasury trading volumes traded through LiquidityEdge, which command lower fees per million.
+
+ Liquidity and Capital Resources
+
+During the past two years, we have met our funding requirements through cash on hand and internally generated funds. Cash and cash equivalents and investments totaled $500.6 million at December 31, 2019.
+
+In October 2015, we entered into a two-year amended and restated credit agreement (the “Credit Agreement”) that increased our borrowing capacity to an aggregate of $100.0 million. In October 2017, we amended the Credit Agreement and extended the maturity date to October 2018. The amended Credit Agreement also provided for two additional one-year extension options and modified certain borrowing terms and covenants. Following the exercise of the first option to extend the maturity date by one year in October 2018, we exercised our second option in October 2019 to extend the maturity date to October 2020. Subject to satisfaction of certain specified conditions, we are permitted to upsize the borrowing capacity under the Credit Agreement by an additional $50.0 million. As of December 31, 2019, we had $1.0 million in letters of credit outstanding and $99.0 million in available borrowing capacity under the Credit Agreement.
+
+60
+
+During the past two years, our cash flows were as follows:
+
+ Year Ended December 31,
+------------------------------------------------------------ ----------------------- -------- - ---- - ------- -
+ 2019 2018
+ (In thousands)
+Net cash provided by operating activities $ 265,935 $ 223,917
+Net cash (used in) investing activities (122,051 ) (50,296 )
+Net cash (used in) financing activities (118,100 ) (92,673 )
+Effect of exchange rate changes on cash and cash equivalents 1,011 (1,640 )
+Net increase for the period $ 26,795 $ 79,308
+
+Cash Flows for the Year Ended December 31, 2019 Compared to Year Ended December 31, 2018
+
+The $42.0 million increase in net cash provided by operating activities was primarily due to increases in net income of $32.1 million, stock-based compensation expense of $9.4 million and amortization of operating lease right-of-use assets of $5.8 million, decreases in deferred taxes of $3.9 million and net purchases of corporate debt trading investments of $3.2 million offset by an increase in working capital of $11.0 million.
+
+The $71.8 million increase in net cash (used in) investing activities was attributable to cash of $97.4 million used as partial consideration for the acquisition of LiquidityEdge, net of cash and restricted cash acquired, offset by an increase in net proceeds from sales and maturities of securities available-for-sale of $12.9 million and a decrease in capital expenditures of $12.9 million. The decrease in capital expenditures was comprised of a $23.6 million decrease in purchases of furniture, equipment and leasehold improvements related to the build-out of our new headquarters in New York City offset by an increase in capitalized software development costs of $10.7 million.
+
+The $25.4 million increase in net cash (used in) financing activities was principally due to an increase in withholding tax payments on restricted stock vesting and stock option exercises of $17.8 million and an increase in cash dividends paid on common stock of $13.8 million, offset by a decrease in repurchases of our common stock of $7.9 million.
+
+Non-GAAP Financial Measures
+
+In addition to reporting financial results in accordance with GAAP, we use certain non-GAAP financial measures called earnings before interest, taxes, depreciation and amortization (“EBITDA”) and free cash flow (“FCF”). We define FCF as cash flow from operating activities excluding the net change in trading investments less expenditures for furniture, equipment and leasehold improvements and capitalized software development costs. We believe these non-GAAP financial measures, when taken into consideration with the corresponding GAAP financial measures, are important in understanding our operating results. EBITDA and FCF are not measures of financial performance or liquidity under GAAP and therefore should not be considered an alternative to net income or cash flow from operating activities as an indicator of operating performance or liquidity. We believe that EBITDA and FCF provide useful additional information concerning profitability of our operations and business trends and the cash flow available to pay dividends, repurchase stock and meet working capital requirements.
+
+The table set forth below presents a reconciliation of our net income to EBITDA, as defined, for the years ended December 31, 2019 and 2018:
+
+ Year Ended December 31,
+-------------------------------------------------------------- ----------------------- ------- ---- - -------
+ 2019 2018
+ (In thousands)
+Net income $ 204,902 $ 172,852
+Add back:
+Interest expense — —
+Provision for income taxes 52,522 45,234
+Depreciation and amortization 26,857 23,080
+Earnings before interest, taxes, depreciation and amortization $ 284,281 $ 241,166
+
+61
+
+The table set forth below presents a reconciliation of our net cash provided by operating activities to FCF, as defined, for the years ended December 31, 2019 and 2018:
+
+ Year Ended December 31,
+------------------------------------------------------------------ ----------------------- ------- - ---- - ------- -
+ 2019 2018
+ (In thousands)
+Net cash provided by operating activities $ 265,935 $ 223,917
+Exclude: Net change in trading investments (4,045 ) (856 )
+Less: Purchases of furniture, equipment and leasehold improvements (12,292 ) (35,888 )
+Less: Capitalization of software development costs (22,408 ) (11,705 )
+Free cash flow $ 227,190 $ 175,468
+
+Other Factors Influencing Liquidity and Capital Resources
+
+We believe that our current resources are adequate to meet our liquidity needs and capital expenditure requirements for at least the next 12 months. However, our future liquidity and capital requirements will depend on a number of factors, including expenses associated with product development and expansion and new business opportunities that are intended to further diversify our revenue stream. We may also acquire or invest in technologies, business ventures or products that are complementary to our business. In the event we require any additional financing, it will take the form of equity or debt financing. Any additional equity offerings may result in dilution to our stockholders. Any debt financings, if available at all, may involve restrictive covenants with respect to dividends, issuances of additional capital and other financial and operational matters related to our business.
+
+Certain of our U.S. subsidiaries are registered as a broker-dealer or a SEF and therefore are subject to the applicable rules and regulations of the SEC and the CFTC. These rules contain minimum net capital requirements, as defined in the applicable regulations, and also may require a significant part of the registrants’ assets be kept in relatively liquid form. Certain of our foreign subsidiaries are regulated by the Financial Conduct Authority in the U.K. or other foreign regulators and must maintain financial resources, as defined in the applicable regulations, in excess of the applicable financial resources requirement. As of December 31, 2019, each of our subsidiaries that are subject to these regulations had net capital or financial resources in excess of their minimum requirements. As of December 31, 2019, our subsidiaries maintained aggregate net capital and financial resources that were $219.7 million in excess of the required levels of $15.8 million.
+
+Each of our U.S. and foreign regulated subsidiaries are subject to local regulations which generally prohibit repayment of borrowings from our affiliates, paying cash dividends, making loans to our affiliates or otherwise entering into transactions that result in a significant reduction in regulatory net capital or financial resources without prior notification to or approval from such regulated entity’s principal regulator. As of December 31, 2019, the amount of unrestricted cash held by our non-U.S. subsidiaries was $153.9 million.
+
+We execute certain bond transactions between and among institutional investor and broker-dealer clients on a matched principal basis by serving as counterparty to both the buyer and the seller in trades which settle through third-party clearing brokers. Settlement typically occurs within one to two trading days after the trade date. Cash settlement of the transaction occurs upon receipt or delivery of the underlying instrument that was traded. Under securities clearing agreements with third party clearing brokers, we maintain collateral deposits with each clearing broker in the form of cash. The amount of the collateral deposits, which are disclosed in the Consolidated Statements of Cash Flows as restricted cash, and included in prepaid expenses and other assets in the Consolidated Statements of Financial Condition was $4.1 million and $1.1 million as of December 31, 2019 and 2018, respectively. We are exposed to credit risk in the event a counterparty does not fulfill its obligation to complete a transaction or if there is a miscommunication or other error in executing a matched principal transaction. Pursuant to the terms of the securities clearing agreements, each third-party clearing broker has the right to charge us for any losses they suffer resulting from a counterparty failure on any of our trades. We did not record any liabilities or losses with regard to this right for the years ended December 31, 2019 and 2018.
+
+ In the normal course of business, we enter into contracts that contain a variety of representations, warranties and general indemnifications. Our maximum exposure from any claims under these arrangements is unknown, as this would involve claims that have not yet occurred. However, based on past experience, we expect the risk of material loss to be remote.
+
+See Item 5 of this Annual Report on Form 10-K for a discussion of our repurchases of our common stock and our dividend policy.
+
+62
+
+Effects of Inflation
+
+Because the majority of our assets are short-term in nature, they are not significantly affected by inflation. However, the rate of inflation may affect our expenses, such as employee compensation, office leasing costs and communications expenses, which may not be readily recoverable in the prices of our services. To the extent inflation results in rising interest rates and has other adverse effects on the securities markets, it may adversely affect our financial position and results of operations.
+
+Contractual Obligations and Commitments
+
+As of December 31, 2019, we had the following contractual obligations and commitments:
+
+ Payments due by period
+--------------------------------- ---------------------- ------- ---------------- - ------- ----------- - ----------- ----------------- ------ - ------
+ Total Less than 1 year 1 - 3 years 3 - 5 years More than 5 years
+ (In thousands)
+Operating leases $ 144,390 $ 11,307 $ 22,413 $ 20,980 $ 89,690
+Foreign currency forward contract 158,657 158,657 — — —
+Total $ 303,047 $ 169,964 $ 22,413 $ 20,980 $ 89,690
+
+We enter into foreign currency forward contracts to hedge the net investment in our U.K. subsidiaries. As of December 31, 2019, the notional value of the foreign currency forward contract outstanding was $155.9 million and the fair value of the liability was $2.8 million.
+
+63
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[See Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. Our business is organized into three reportable segments: Digital Media, Digital Experience and Publishing. These segments provide our senior management with a comprehensive financial view of our key businesses. Our segments are aligned around our 70 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) two strategic growth opportunities as described in the "Business Overview" within Part I, Item 1, placing our Publishing business in a third segment that contains some of our mature products and solutions. In fiscal 2019, we categorized our products into the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ * Digital Media--Our Digital Media segment provides tools and solutions that enable individuals, teams and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include content creators, experien...
+
+[See Note 15]:
+Note 15 - Arrangements with Off-Balance Sheet Risk 89
+
+[see Note 5]:
+(5) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. Strategy For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2020, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * The further optimization of our customer mix and fleet mix, with a dual objective: to enhance our performance in serving our current customer base, and to focus on the accounts and customer types that are best suited to our strategy for profitable growth. We believe these efforts will lead to even better service of our target accounts, primarily large construction and industrial customers, as well as select l...
+
+[Note 2 to the Consolidated Financial Statements]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill and intangible assets, we do not identify or allocate our assets by the reportable segments. Our business is organized into three reportable segments: Digital Media, Digital Experience and Publishing. These segments provide our senior management with a comprehensive financial view of our key businesses. Our segments are aligned around our 70 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) two strategic growth opportunities as described in the "Business Overview" within Part I, Item 1, placing our Publishing business in a third segment that contains some of our mature products and solutions. In fiscal 2019, we categorized our products into the following reportable segments: - ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ include content creators, experien...
+
+[Note 15 to the Consolidated Financial Statements]:
+Note 15 - Arrangements with Off-Balance Sheet Risk 89
+
+[Note 5 to the Consolidated Financial Statements]:
+(5) As discussed above, we completed the acquisitions of BakerCorp and BlueLine in July 2018 and October 2018, respectively. Estimated market share as of December 31, 2018 includes the standalone, pre-acquisition revenues of BakerCorp and BlueLine. Strategy For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. In 2020, we expect to continue our disciplined focus on increasing our profitability and return on invested capital. In particular, our strategy calls for: - ----------------------------------------------------------------------------------------------------------- * A consistently superior standard of service to customers, often provided through a single point of contact; - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- are best suited to our strategy for profitable growth. We believe these efforts will lead to even better service of our target accounts, primarily large construction and industrial customers, as well as select l...
+
+[See also Item 1A]:
+Item 1A. Risk Factors 22

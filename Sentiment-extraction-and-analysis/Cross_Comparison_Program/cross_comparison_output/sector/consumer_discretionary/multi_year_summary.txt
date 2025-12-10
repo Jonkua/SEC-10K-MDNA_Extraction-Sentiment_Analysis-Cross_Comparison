@@ -1,0 +1,151 @@
+================================================================================
+MULTI-YEAR SENTIMENT ANALYSIS COMPARISON
+FinBERT vs. LM Dictionary
+================================================================================
+
+CONFIGURATION
+--------------------------------------------------------------------------------
+Threshold method: std
+LM standardization: proportion
+Year range: (2018, 2025)
+
+YEARS ANALYZED
+--------------------------------------------------------------------------------
+Years: [2018, 2019, 2020, 2021, 2022, 2023]
+Total years: 6
+
+SAMPLE SIZES
+--------------------------------------------------------------------------------
+  2018: 30 companies
+  2019: 27 companies
+  2020: 27 companies
+  2021: 26 companies
+  2022: 21 companies
+  2023: 20 companies
+
+Total observations: 151
+Unique companies: 27
+
+COMPANY COVERAGE
+--------------------------------------------------------------------------------
+Companies present in all 6 years: 20
+Companies present in some years: 7
+Total unique companies: 27
+
+CORRELATION RESULTS BY YEAR
+================================================================================
+
+Net Sentiment Correlations:
+--------------------------------------------------------------------------------
+  Year 2018:
+    Pearson:  r = 0.638 (p = 1.4911e-04)
+    Spearman: r = 0.632 (p = 1.8021e-04)
+    Kendall:  τ = 0.464 (p = 3.3281e-04)
+  Year 2019:
+    Pearson:  r = 0.688 (p = 7.2961e-05)
+    Spearman: r = 0.672 (p = 1.2465e-04)
+    Kendall:  τ = 0.500 (p = 2.6245e-04)
+  Year 2020:
+    Pearson:  r = 0.659 (p = 1.8661e-04)
+    Spearman: r = 0.634 (p = 3.8715e-04)
+    Kendall:  τ = 0.481 (p = 2.8575e-04)
+  Year 2021:
+    Pearson:  r = 0.666 (p = 2.0445e-04)
+    Spearman: r = 0.562 (p = 2.8144e-03)
+    Kendall:  τ = 0.448 (p = 1.3859e-03)
+  Year 2022:
+    Pearson:  r = 0.591 (p = 4.7914e-03)
+    Spearman: r = 0.490 (p = 2.4002e-02)
+    Kendall:  τ = 0.348 (p = 2.7427e-02)
+  Year 2023:
+    Pearson:  r = 0.849 (p = 2.1646e-06)
+    Spearman: r = 0.750 (p = 1.3841e-04)
+    Kendall:  τ = 0.558 (p = 3.5900e-04)
+
+Positive Sentiment Correlations:
+--------------------------------------------------------------------------------
+  Year 2018:
+    Pearson:  r = 0.323 (p = 8.1552e-02)
+    Spearman: r = 0.408 (p = 2.5273e-02)
+    Kendall:  τ = 0.353 (p = 6.6017e-03)
+  Year 2019:
+    Pearson:  r = 0.353 (p = 7.0752e-02)
+    Spearman: r = 0.281 (p = 1.5506e-01)
+    Kendall:  τ = 0.207 (p = 1.3288e-01)
+  Year 2020:
+    Pearson:  r = 0.485 (p = 1.0271e-02)
+    Spearman: r = 0.596 (p = 1.0385e-03)
+    Kendall:  τ = 0.358 (p = 9.1038e-03)
+  Year 2021:
+    Pearson:  r = 0.540 (p = 4.3960e-03)
+    Spearman: r = 0.372 (p = 6.1437e-02)
+    Kendall:  τ = 0.303 (p = 3.0645e-02)
+  Year 2022:
+    Pearson:  r = 0.187 (p = 4.1787e-01)
+    Spearman: r = 0.325 (p = 1.5087e-01)
+    Kendall:  τ = 0.186 (p = 2.3871e-01)
+  Year 2023:
+    Pearson:  r = 0.167 (p = 4.8082e-01)
+    Spearman: r = 0.294 (p = 2.0799e-01)
+    Kendall:  τ = 0.212 (p = 1.9390e-01)
+
+Negative Sentiment Correlations:
+--------------------------------------------------------------------------------
+  Year 2018:
+    Pearson:  r = 0.393 (p = 3.1568e-02)
+    Spearman: r = 0.318 (p = 8.6674e-02)
+    Kendall:  τ = 0.234 (p = 7.1284e-02)
+  Year 2019:
+    Pearson:  r = 0.529 (p = 4.5134e-03)
+    Spearman: r = 0.442 (p = 2.1034e-02)
+    Kendall:  τ = 0.306 (p = 2.5642e-02)
+  Year 2020:
+    Pearson:  r = 0.696 (p = 5.4699e-05)
+    Spearman: r = 0.690 (p = 6.8539e-05)
+    Kendall:  τ = 0.526 (p = 1.2387e-04)
+  Year 2021:
+    Pearson:  r = 0.658 (p = 2.5756e-04)
+    Spearman: r = 0.641 (p = 4.1294e-04)
+    Kendall:  τ = 0.458 (p = 1.0944e-03)
+  Year 2022:
+    Pearson:  r = 0.686 (p = 5.9231e-04)
+    Spearman: r = 0.430 (p = 5.1782e-02)
+    Kendall:  τ = 0.314 (p = 4.8734e-02)
+  Year 2023:
+    Pearson:  r = 0.843 (p = 3.0136e-06)
+    Spearman: r = 0.743 (p = 1.7389e-04)
+    Kendall:  τ = 0.596 (p = 2.4433e-04)
+
+CLASSIFICATION METRICS BY YEAR
+================================================================================
+  Year 2018:
+  Year 2019:
+  Year 2020:
+  Year 2021:
+  Year 2022:
+  Year 2023:
+
+OVERALL STATISTICS (ALL YEARS COMBINED)
+================================================================================
+Overall Pearson correlation: r = 0.689 (p = 1.4811e-22, N = 151)
+
+Average Metrics Across All Years:
+--------------------------------------------------------------------------------
+Average net Pearson correlation:   r = 0.682
+Average net Spearman correlation:  r = 0.623
+Average net Kendall correlation:   τ = 0.467
+Average Cohen's Kappa:             κ = nan
+Average classification accuracy:     nan (nan%)
+
+
+SUMMARY & INTERPRETATION
+================================================================================
+The average correlation between FinBERT and LM methods is 0.682,
+indicating a moderate positive relationship.
+
+The classification methods agree nan% of the time on average,
+suggesting limited agreement between the two sentiment analysis approaches.
+
+================================================================================
+END OF REPORT
+================================================================================

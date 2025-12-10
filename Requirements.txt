@@ -1,0 +1,199 @@
+# Master Requirements File
+# Complete MD&A Sentiment Analysis Pipeline
+# Includes all tools: Extraction, Deduplication, FinBERT Analysis, LM Analysis, and Cross-Comparison
+# Python 3.7+
+
+# ============================================================================
+# CORE DEPENDENCIES (Required by multiple tools)
+# ============================================================================
+
+# Data manipulation and analysis
+pandas>=1.3.0
+numpy>=1.21.0
+
+# ============================================================================
+# MD&A EXTRACTOR DEPENDENCIES
+# ============================================================================
+
+# Document parsing and text extraction
+beautifulsoup4>=4.9.3
+lxml>=4.6.3
+
+# Logging with colors
+colorlog>=6.6.0
+
+# ============================================================================
+# TEXT DEDUPLICATOR DEPENDENCIES
+# ============================================================================
+
+# Note: Uses only Python standard library - no additional packages needed
+
+# ============================================================================
+# FINBERT ANALYZER DEPENDENCIES
+# ============================================================================
+
+# Deep Learning Framework
+torch>=1.9.0
+# Note: For GPU support (NVIDIA CUDA), install with:
+# pip install torch --index-url https://download.pytorch.org/whl/cu118
+# For CPU-only (slower but works without GPU):
+# pip install torch
+
+# Transformers and tokenizers
+transformers>=4.0.0
+tokenizers>=0.10.0
+
+# ============================================================================
+# LM DICTIONARY ANALYZER DEPENDENCIES
+# ============================================================================
+
+# Text processing with polarity/subjectivity
+textblob>=0.15.3
+
+# ============================================================================
+# BOTH ANALYZERS (FinBERT & LM) DEPENDENCIES
+# ============================================================================
+
+# Natural Language Processing
+nltk>=3.6
+
+# ============================================================================
+# CROSS-COMPARISON TOOL DEPENDENCIES
+# ============================================================================
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Statistical analysis
+scipy>=1.7.0
+
+# Machine learning metrics
+scikit-learn>=0.24.0
+
+# ============================================================================
+# OPTIONAL DEPENDENCIES (Enhanced functionality)
+# ============================================================================
+
+# For testing and development
+# pytest>=7.0.0
+# pytest-cov>=3.0.0
+
+# For enhanced visualization
+# plotly>=5.0.0
+# jupyterlab>=3.0.0
+
+# For export to statistical software
+# pyreadstat>=1.1.0  # For Stata .dta files
+
+# ============================================================================
+# EXTERNAL DATA FILES REQUIRED
+# ============================================================================
+
+# Loughran-McDonald Master Dictionary (CSV)
+# Download from: https://sraf.nd.edu/loughranmcdonald-master-dictionary/
+# File: LoughranMcDonald_MasterDictionary_1993-2024.csv
+# Place in accessible directory for LM Analyzer
+
+# ============================================================================
+# NLTK DATA (Downloaded automatically on first run)
+# ============================================================================
+
+# Required NLTK datasets:
+# - punkt (sentence tokenizer)
+# - punkt_tab (additional tokenizer data)
+# - stopwords (English stopwords)
+#
+# These are downloaded automatically by the analyzers on first run
+# Manual download (if needed):
+# python -m nltk.downloader punkt punkt_tab stopwords
+
+# ============================================================================
+# SYSTEM REQUIREMENTS
+# ============================================================================
+
+# Minimum:
+# - Python 3.7+
+# - CPU: 4 cores
+# - RAM: 8GB
+# - Disk: 5GB (2GB for models/data + 3GB for working space)
+
+# Recommended:
+# - Python 3.9+
+# - CPU: 8+ cores
+# - RAM: 16GB
+# - GPU: NVIDIA GPU with 4GB+ VRAM (for FinBERT)
+# - Disk: 10GB
+
+# ============================================================================
+# INSTALLATION INSTRUCTIONS
+# ============================================================================
+
+# 1. Create virtual environment:
+# python -m venv venv
+# source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# 2. Upgrade pip:
+# pip install --upgrade pip
+
+# 3. Install requirements:
+# pip install -r requirements.txt
+
+# 4. For GPU support (optional, NVIDIA only):
+# pip install torch --index-url https://download.pytorch.org/whl/cu118
+
+# 5. Verify installation:
+# python -c "import torch; print(f'PyTorch: {torch.__version__}')"
+# python -c "import transformers; print(f'Transformers: {transformers.__version__}')"
+# python -c "import pandas; print(f'Pandas: {pandas.__version__}')"
+
+# 6. Download NLTK data (if not automatic):
+# python -m nltk.downloader punkt punkt_tab stopwords
+
+# ============================================================================
+# TROUBLESHOOTING
+# ============================================================================
+
+# Issue: torch installation fails
+# Solution: Try installing with --no-cache-dir flag
+# pip install --no-cache-dir torch
+
+# Issue: CUDA version mismatch
+# Solution: Install specific torch version matching your CUDA
+# See: https://pytorch.org/get-started/locally/
+
+# Issue: Memory errors with FinBERT
+# Solution: Reduce batch size or use CPU-only mode
+
+# Issue: NLTK data download fails
+# Solution: Manual download from https://www.nltk.org/data.html
+
+# ============================================================================
+# PACKAGE DESCRIPTIONS
+# ============================================================================
+
+# pandas: Data manipulation, CSV reading/writing
+# numpy: Numerical operations, array handling
+# torch: PyTorch deep learning framework (FinBERT)
+# transformers: HuggingFace transformers library (FinBERT model)
+# nltk: Natural language toolkit (tokenization, stopwords)
+# textblob: Sentiment polarity and subjectivity (LM analyzer)
+# matplotlib: Plotting and visualization
+# seaborn: Statistical visualization
+# scipy: Statistical tests (correlations, significance)
+# scikit-learn: Machine learning metrics (confusion matrix, kappa)
+# beautifulsoup4: HTML parsing (MD&A extraction)
+# lxml: XML/HTML parser (MD&A extraction)
+# colorlog: Colored logging output
+
+# ============================================================================
+# VERSION NOTES
+# ============================================================================
+
+# These version requirements represent tested compatibility
+# Newer versions should work but have not been extensively tested
+# If you encounter issues, try installing exact versions:
+# pip install -r requirements.txt --no-deps
+
+# For reproducible research, consider freezing exact versions:
+# pip freeze > requirements_frozen.txt

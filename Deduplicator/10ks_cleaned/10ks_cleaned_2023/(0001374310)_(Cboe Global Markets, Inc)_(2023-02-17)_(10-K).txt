@@ -1,0 +1,1840 @@
+================================================================================
+CIK: 0001374310
+Company Name: Cboe Global Markets, Inc
+Filing Date: 2023-02-17
+Form Type: 10-K
+Extraction Date: 2025-09-03 10:41:19
+================================================================================
+
+Item 7.      Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is provided to assist the reader in understanding the results of operations, liquidity and capital resources, and critical accounting estimates and policies through the eyes of our management team. The following discussion should be read in conjunction with the consolidated financial statements of the Company and the notes thereto included in Item 8 of this Annual Report on Form 10-K. The following discussion contains forward-looking statements. Actual results could differ materially from the results discussed in the forward-looking statements. See “Risk Factors” and “Forward-Looking Statements” above.
+A detailed comparison of the Company’s 2021 operating results to its 2020 operating results can be found in the Management’s Discussion and Analysis of Financial Condition and Results of Operations section in the Company’s 2021 Annual Report on Form 10-K filed February 18, 2022 at www.sec.gov.
+INTRODUCTION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations is organized as follows:
+ ● Executive Summary – Includes an overview of the Company’s business; a description of notable recent developments, current economic, competitive and regulatory trends relevant to our business; the Company’s current business strategy; and the Company’s primary sources of operating and non-operating revenues and expenses.
+
+ ● Results of Operations – Includes an analysis of the Company’s 2022 and 2021 financial results and a discussion of any known events or trends which are likely to impact future results.
+
+ ● Liquidity and Capital Resources – Includes a discussion of the Company’s future cash requirements, capital resources, and financing arrangements.
+
+ ● Critical Accounting Estimates – Provides an explanation of accounting estimates which may have a significant impact on the Company’s financial results and the judgments, assumptions, and uncertainties associated with those estimates.
+
+ ● Recent Accounting Pronouncements – Includes an evaluation of recent accounting pronouncements and the potential impact of their future adoption on the Company’s financial results.
+
+EXECUTIVE SUMMARY
+Overview
+Cboe Global Markets, Inc., a leading provider of market infrastructure and tradable products, delivers cutting-edge trading, clearing and investment solutions to market participants around the world. The Company is committed to operating a trusted, inclusive global marketplace, and to providing leading products, technology and data solutions that enable participants to define a sustainable financial future. Cboe provides trading solutions and products in multiple asset classes, including equities, derivatives, FX, and digital assets, across North America, Europe, and Asia Pacific.
+Cboe’s subsidiaries include the largest options exchange and the third largest stock exchange operator in the U.S. In addition, the Company operates one of the largest stock exchanges by value traded in Europe, and owns Cboe Clear Europe (rebranded from EuroCCP in November of 2022), a leading pan-European equities and derivatives clearinghouse, BIDS Trading, a leading block-trading ATS by volume in the U.S., MATCHNow (operating as TriAct Canada Marketplace LP), a leading equities ATS in Canada, Cboe Australia, an operator of trading venues in Australia, and Cboe Japan, an operator of trading venues in Japan. Cboe also is a leading market globally for exchange-traded products (“ETPs”) listings and trading. On May 2, 2022, Cboe completed its acquisition of ErisX, subsequently rebranded to Cboe Digital, an operator of a U.S. based digital asset spot market, a regulated futures exchange, and a regulated clearinghouse. On June 1, 2022, Cboe completed its acquisition of NEO Exchange Inc. (“NEO”), which is a recognized Canadian securities exchange.
+The Company is headquartered in Chicago with offices in Amsterdam, Belfast, Hong Kong, Kansas City, London, Manila, New York, San Francisco, Sarasota Springs, Singapore, Sydney, Tokyo and Toronto.
+
+64
+
+Table of Contents
+
+Recent Developments
+Acquisition of Cboe Digital
+On October 20, 2021, the Company announced it entered into a definitive agreement to acquire ErisX, which was subsequently rebranded Cboe Digital. Cboe Digital operates a U.S. based digital asset spot market, a regulated futures exchange, and a regulated clearinghouse. Ownership of Cboe Digital allows the Company to enter the digital asset spot and derivatives marketplaces through a digital-first platform developed with industry partners to focus on robust regulatory compliance, data and transparency. The transaction closed on May 2, 2022.
+Acquisition of NEO
+On November 15, 2021, the Company announced it entered into a definitive agreement to acquire NEO. NEO is a fintech organization that is comprised of a fully registered Canadian securities exchange with a diverse product and services set ranging from corporate listings to cash equities trading and a non-listed securities distribution platform. With ownership of NEO, the Company expects to further grow Canada as a hub for global equities trading and listings. The transaction closed on June 1, 2022.
+Business Segments
+The Company previously operated five reportable business segments prior to the quarter ended June 30, 2022. As a result of the Cboe Digital acquisition during the quarter ended June 30, 2022, the Company operates six reportable segments: Options, North American Equities, Europe and Asia Pacific, Futures, Global FX, and Digital, which is reflective of how the Company's chief operating decision-maker reviews and operates the business, as discussed in Note 1 (“Nature of Operations”). Segment performance is primarily evaluated based on operating income (loss). The Company’s chief operating decision-maker does not use segment-level assets or income and expenses below operating income (loss) as key performance metrics; therefore, such information is not presented below. The Company has aggregated all of its corporate costs, as well as other business ventures, within the Corporate Items and Eliminations totals based on the decision that those activities should not be used to evaluate the operating performance of the segments; however, operating expenses that relate to activities of a specific segment have been allocated to that segment.
+Options. The Options segment includes options on market indices (“index options”), as well as on the stocks of individual corporations (“equity options”), and options on ETPs, such as exchange-traded funds (“ETFs”) and exchange-traded notes (“ETNs”), which are “multi-listed” options and listed on a non-exclusive basis. These options are eligible to trade, as applicable, on Cboe Options, C2, BZX, EDGX, and/or other U.S. national security exchanges. Cboe Options is the Company’s primary options market and offers trading in listed options through a single system that integrates electronic trading and traditional open outcry trading on the Cboe Options trading floor in Chicago. C2 Options, BZX Options, and EDGX Options are all-electronic options exchanges, and typically operate with different market models and fee structures than Cboe Options. The Options segment also includes applicable market data fees generated from the consolidated tape plans, the licensing of proprietary options market data, index licensing, and access and capacity services.
+North American Equities. The North American Equities segment includes listed U.S. equities and ETP transaction services that occur on fully electronic exchanges owned and operated by BZX, BYX, EDGX, and EDGA, equities transactions that occur on the BIDS Trading platform, and Canadian equities and other transaction services that occur on or through the MATCHNow ATS, and NEO, as of the June 1, 2022 acquisition. The North American Equities segment also includes listing services on NEO Exchange, ETP listings on BZX, the Cboe Global Markets, Inc. common stock listing, applicable market data fees generated from the consolidated tape plans, the licensing of proprietary equities market data, routing services, and access and capacity services.
+Europe and Asia Pacific. The Europe and Asia Pacific segment includes the pan-European listed equities and derivatives transaction services, ETPs, exchange-traded commodities, and international depository receipts that are hosted on MTFs operated by Cboe Europe Equities (Cboe Europe and Cboe NL equities exchanges) and Cboe Europe Derivatives (“CEDX”). It also includes the ETP listings business on RMs and clearing activities of Cboe Clear Europe, as well as the equities transaction services of Cboe Australia and Cboe Japan, operators of trading venues in Australia and Japan, respectively. This segment was previously referred to as the European Equities segment but was updated to the Europe segment in the first quarter of 2021 as a result of the launch of Cboe Europe Derivatives, a pan-European derivatives platform in September 2021. The segment was subsequently updated to Europe and Asia Pacific to reflect the acquisition of Chi-X in July 2021. Cboe Europe operates lit and dark books, a periodic auctions book, and Cboe BIDS
+
+65
+
+Table of Contents
+
+Europe, a Large-in-Scale (“LIS”) trading negotiation facility for UK symbols. Cboe NL, launched in October 2019 and based in Amsterdam, operates similar business functionality to that offered by Cboe Europe, and provides for trading only in European Economic Area (“EEA”) symbols. The new Cboe Europe Derivatives venue offers futures and options based on Cboe Europe equity indices. This segment also includes Cboe Europe, Cboe NL, CEDX, Cboe Australia, and Cboe Japan revenue generated from the licensing of proprietary market data and from access and capacity services.
+Futures. The Futures segment includes transaction services provided by CFE, a fully electronic futures exchange, which includes offerings for trading of VIX futures and other futures products, the licensing of proprietary market data, as well as access and capacity services.
+Global FX. The Global FX segment includes institutional FX trading services that occur on the Cboe FX fully electronic trading platform, non-deliverable forward FX transactions (“NDFs”) offered for execution on Cboe SEF and Cboe Swiss, transaction services that occur on the electronic trading system for U.S government securities executed by Cboe Fixed Income, as well as revenue generated from the licensing of proprietary market data and from access and capacity services.
+Digital. The Digital segment includes Cboe Digital, an operator of a U.S. based digital asset spot market and a regulated futures exchange, and Cboe Clear Digital, a regulated clearinghouse, as well as revenue generated from the licensing of proprietary market data and from access and capacity services.
+General Factors Affecting Results of Operations
+In broad terms, our business performance is impacted by a number of drivers, including macroeconomic events affecting the risk and return of financial assets, investor sentiment, the regulatory environment for capital markets, geopolitical events, tax policies, central bank policies and changing technology, particularly in the financial services industry. We believe our future revenues and net income will continue to be influenced by a number of domestic and international economic trends, including:
+​
+ ● trading volumes on our proprietary products such as VIX options and futures and SPX options;
+
+ ● trading volumes in listed equity securities, options, futures, and ETPs in North America, Europe, and Asia Pacific, clearing volumes in listed equity securities and ETPs in Europe, volumes in listed equity options, volumes in digital assets, and volumes in institutional FX trading;
+
+ ● the demand for and pricing structure of the U.S. tape plan market data distributed by the SIPs, which determines the pool size of the industry market data fees we receive based on our market share;
+
+ ● consolidation and expansion of our customers and competitors in the industry;
+
+ ● the demand for information about, or access to, our markets and products, which is dependent on the products we trade, our importance as a liquidity center, quality and integrity of our proprietary indices, and the quality and pricing of our data and access and capacity services;
+
+ ● continuing pressure in transaction fee pricing due to intense competition in the North American, European, and Asia Pacific markets;
+
+ ● significant fluctuations in foreign currency translation rates or weakened value of currencies; and
+
+ ● regulatory changes and obligations relating to market structure, digital assets and increased capital requirements, and those which affect certain types of instruments, transactions, products, pricing structures, capital market participants or reporting or compliance requirements.
+
+A number of significant structural, political and monetary issues, global conflicts and global pandemics continue to confront the global economy, and instability could continue, resulting in an increased or subdued level of inflation, market volatility, supply chain constraints, changes in trading volumes and greater uncertainty. Inflationary increases in our expenses, such as compensation inflation, and increased costs related to CAT may have an adverse effect on our financial results.
+Components of Revenues
+Beginning in the first quarter of 2022, the Company updated the financial statement captions within its consolidated statements of income to better reflect the Company’s diversified products, expansive geographical reach, and overall business strategy. The changes do not have a financial impact on the Company’s reported revenue, revenues less cost of revenues, reported net income, or cash flows from operations.
+​
+
+66
+
+Table of Contents
+
+The components of revenues which include the above changes are described below:
+Cash and Spot Markets
+Revenue aggregated into cash and spot markets includes associated transaction and clearing fees, the portion of market data fees relating to associated U.S. tape plan market data fees, associated regulatory fees, and associated other revenue from the Company’s North American Equities, Europe and Asia Pacific, Global FX, and Digital segments.
+Data and Access Solutions
+Revenue aggregated into data and access solutions includes access and capacity fees, proprietary market data fees, and associated other revenue across the Company’s six segments.
+Derivatives Markets
+Includes associated transaction and clearing fees, the portion of market data fees relating to associated U.S. tape plan market data fees, associated regulatory fees, and associated other fees from the Company’s Options, Futures, Europe and Asia Pacific, and Digital segments.
+Components of Cost of Revenues
+Liquidity Payments
+Liquidity payments are directly correlated to the volume of securities traded on our markets. As stated above, we record the liquidity rebates paid to market participants providing liquidity, in the case of C2, BZX, EDGX, and Cboe Europe Equities and Derivatives, and Cboe Digital, as cost of revenue. BYX and EDGA offer a pricing model where we rebate liquidity takers for executing against an order resting on our book, which is also recorded as a cost of revenues.
+Routing and Clearing
+Various rules require that U.S. options and equities trade executions occur at the NBBO displayed by any exchange. Linkage order routing consists of the cost incurred to provide a service whereby Cboe equities and options exchanges deliver orders to other execution venues when there is a potential for obtaining a better execution price or when instructed to directly route an order to another venue by the order provider. The service affords exchange order flow providers an opportunity to obtain the best available execution price and may also result in cost benefits to those clients. Such an offering improves our competitive position and provides an opportunity to attract orders which would otherwise bypass our exchanges. We utilize third-party brokers or our broker-dealer, Cboe Trading, to facilitate such delivery. Also included within routing and clearing are the Order Management System and Execution Management System (“OMS” and “EMS”, respectively) fees incurred for U.S. Equities Off-Exchange order execution, as well as settlement costs incurred for the settlement process executed by Cboe Clear Europe and Cboe Clear Digital.
+Section 31 Fees
+Exchanges under the authority of the SEC (Cboe Options, C2, BZX, BYX, EDGX, and EDGA as well as CFE to the extent that CFE offers trading in security futures products) are assessed fees pursuant to the Exchange Act designed to recover the costs to the U.S. government of supervision and regulation of securities markets and securities professionals. We treat these fees as a pass-through charge to customers executing eligible listed equities and listed equity options trades. Accordingly, we recognize the amount that we are charged under Section 31 as a cost of revenues and the corresponding amount that we charge our customers as regulatory transaction fees revenue. Since the regulatory transaction fees recorded in revenues are equal to the Section 31 fees recorded in cost of revenues, there is no impact on our operating income. Cboe Trading, Cboe Europe, Cboe NL, BIDS, MATCHNow, Cboe FX, Cboe Australia, Cboe Japan, Cboe Digital, and NEO are not U.S. national securities exchanges, and accordingly are not charged Section 31 fees.
+Royalty Fees and Other Cost of Revenues
+Royalty fees primarily consist of license fees paid by us for the use of underlying indices in our proprietary products usually based on contracts traded. The Company has licenses with the owners of the S&P 500 Index, S&P 100 Index and certain other S&P indices, FTSE Russell indices, the DJIA, MSCI, and certain other index products. This category also
+
+67
+
+Table of Contents
+
+includes fees related to the dissemination of market data related to S&P indices and other products through Cboe Streaming Market Indices (“CSMI”).
+Other cost of revenues primarily consists of interest expense from clearing operations, electronic access permit fees and other miscellaneous costs associated with other revenue.
+Components of Operating Expenses
+Compensation and Benefits
+Compensation and benefits represent our largest expense category and tend to be driven by our staffing requirements, financial performance, and the general dynamics of the employment market. Stock-based compensation is a non-cash expense related to equity awards. Stock-based compensation can vary depending on the quantity and fair value of the award on the date of grant and the related service period.
+Depreciation and Amortization
+Depreciation and amortization expense results from the depreciation of long-lived assets purchased, the amortization of purchased and internally developed software, and the amortization of intangible assets.
+Technology Support Services
+Technology support services consists primarily of costs related to the maintenance of computer equipment supporting our system architecture, circuits supporting our wide area network, support for production software, operating system license and support fees, fees paid to information vendors for displaying data and off-site system hosting fees.
+Professional Fees and Outside Services
+Professional fees and outside services consist primarily of consulting services, which include supplemental staff activities primarily related to systems development and maintenance, legal, regulatory and audit, and tax advisory services.
+Travel and Promotional Expenses
+Travel and promotional expenses primarily consist of advertising, costs for special events, sponsorship of industry conferences, options education seminars and travel-related expenses.
+Facilities Costs
+Facilities costs primarily consist of expenses related to owned and leased properties including rent, maintenance, utilities, real estate taxes and telecommunications costs.
+Acquisition-Related Costs
+Acquisition-related costs relate to acquisitions and other strategic opportunities. The acquisition-related costs include fees for investment banking advisors, lawyers, accountants, tax advisors, public relations firms, severance and retention costs, capitalized software and facilities, and other external costs directly related to the mergers and acquisitions.
+Goodwill Impairment
+Goodwill impairment consists of charges to impair goodwill of our reporting units if the carrying value exceeds the implied fair value.
+​
+
+68
+
+Table of Contents
+
+Other Expenses
+Other expenses represent costs necessary to support our operations that are not already included in the above categories, including, but not limited to the impairment of digital assets held presented in intangible assets, net as part of the ordinary operations of the Digital segment and changes in contingent consideration.
+Non-Operating (Expenses) Income
+Income and expenses incurred through activities outside of our core operations are considered non-operating and are classified as other (expense) income. These activities primarily include interest earned on the investing of excess cash, interest expense related to outstanding debt facilities, dividend income, income and unrealized gains and losses related to investments held in a trust for the Company’s non-qualified retirement and benefit plans, realized gains and losses related to the Company’s previously held minority investments, equity earnings or losses from our investments in other business ventures, impairment of the Company’s investments, investment establishment costs associated with new business ventures, and loan forgiveness provided under the SBA’s Paycheck Protection Program (“PPP”). See Note 12 (“Debt”) for additional information regarding the PPP.
+RESULTS OF OPERATIONS
+The following are summaries of changes in financial performance and include certain non-GAAP financial measures. Management uses these non-GAAP measures internally in conjunction with GAAP measures to help evaluate our performance and to help make financial and operational decisions. These non-GAAP financial measures assist management in comparing our performance on a consistent basis for purposes of business decision making by removing the impact of certain items management believes do not reflect our underlying operations.
+We believe our presentation of these measures provides investors with greater transparency into financial measures used by management and is useful to investors for period-to-period comparisons of our ongoing operating performance.
+These non-GAAP financial measures are not presented in accordance with, or as an alternative to, GAAP financial measures and may be calculated differently from non-GAAP measures used by other companies, which reduces their usefulness as comparative measures. We encourage analysts, investors and other interested parties to use these non-GAAP measures as supplemental information to the GAAP financial measures included herein, including our consolidated financial statements, to enhance their analysis and understanding of our performance and in making comparisons. Please see the footnotes below for definitions, additional information, and reconciliations from the closest GAAP measure.
+​
+
+69
+
+Table of Contents
+
+Comparison of Years Ended December 31, 2022 and 2021
+Overview
+The following summarizes changes in financial performance for the year ended December 31, 2022, compared to the year ended December 31, 2022:
+
+(1) These are Non-GAAP figures for which reconciliations are provided below (in millions, except percentages, earnings per share, and as noted below).
+
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------------------- - ------------ ------- --------- - ---------- - ------ ------- - ---- -
+​ ​ Year Ended ​ ​ ​
+​ ​ December 31, ​ Increase/ ​ Percent
+​ 2022 2021 (Decrease) Change
+Total revenues ​ $ 3,958.5 ​ $ 3,494.8 ​ $ 463.7 ​ 13 %
+Total cost of revenues ​ 2,216.8 ​ 2,018.7 ​ 198.1 10 %
+Revenues less cost of revenues ​ 1,741.7 ​ 1,476.1 ​ 265.6 18 %
+Total operating expenses ​ 1,252.1 ​ 670.2 ​ 581.9 87 %
+Operating income ​ 489.6 ​ 805.9 ​ (316.3) (39) %
+Income before income tax provision ​ 432.9 ​ 756.1 ​ (323.2) (43) %
+Income tax provision ​ 197.9 ​ 227.1 ​ (29.2) (13) %
+Net income ​ $ 235.0 ​ $ 529.0 ​ $ (294.0) (56) %
+Basic earnings per share ​ $ 2.20 ​ $ 4.93 ​ $ (2.73) ​ (55) %
+Diluted earnings per share ​ ​ 2.19 ​ ​ 4.92 ​ ​ (2.73) ​ (55) %
+Organic net revenue (1) ​ $ 1,713.0 ​ $ 1,476.1 ​ $ 236.9 ​ 16 %
+EBITDA (2) ​ $ 655.2 ​ $ 969.2 ​ $ (314.0) (32) %
+EBITDA margin (3) ​ 37.6 % 65.7 % (28.1) % *
+Adjusted EBITDA (2) ​ $ 1,135.6 ​ $ 987.1 ​ $ 148.5 15 %
+Adjusted EBITDA margin (4) ​ 65.2 % 66.9 % (1.7) % *
+Adjusted earnings (5) ​ $ 739.8 ​ $ 648.8 ​ $ 91.0 14 %
+Adjusted earnings margin (5) ​ ​ 42.5 % ​ 44.0 % ​ (1.5) % ​ *
+Diluted weighted average shares outstanding ​ ​ 106.7 ​ ​ 107.2 ​ ​ (0.5) ​ (0) %
+Adjusted Diluted earnings per share (6) ​ $ 6.93 ​ $ 6.05 ​ $ 0.88 15 %
+
+* Not meaningful
+
+70
+
+Table of Contents
+
+(1) Organic net revenue is defined as revenues less cost of revenues excluding revenues less cost of revenues of any acquisition that has been owned for less than one year. Revenues from acquisitions that have been owned at least one year are considered organic and are no longer excluded from organic net revenue from either period for comparative purposes. Organic net revenue does not represent, and should not be considered as, an alternative to revenues less cost of revenues, or net revenue, as determined in accordance with GAAP. We have presented organic net revenue because we consider it an important supplemental measure of our performance and we use it as the basis for monitoring our operating financial performance before the effects of acquisitions. We also believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies. We believe that investors may find this non-GAAP measure useful in evaluating our performance compared to that of peer companies in our industry. Other companies may calculate organic net revenue differently than we do. Organic net revenue has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our results as reported under GAAP.
+
+​ ​ ​ ​ ​ ​ ​
+------------------------------------------ ------------ ------- ---- - ------- -
+​ Year Ended
+​ December 31,
+​ 2022 ​ 2021 ​
+Revenues less cost of revenues $ 1,741.7 ​ $ 1,476.1 ​
+Recent acquisitions: ​ ​ ​ ​ ​ ​
+Acquisition revenues less cost of revenues $ (28.7) ​ $ — ​
+Organic net revenue $ 1,713.0 ​ $ 1,476.1 ​
+
+​
+(2) EBITDA is defined as income before interest, income taxes, depreciation and amortization. Adjusted EBITDA is defined as EBITDA before acquisition-related costs, impairment of investment, gain on investment, investment establishment costs, impairment of goodwill, loan forgiveness, and change in contingent consideration. EBITDA and adjusted EBITDA do not represent, and should not be considered as, alternatives to net income as determined in accordance with GAAP. We have presented EBITDA and adjusted EBITDA because we consider them important supplemental measures of our performance and believe that they are frequently used by analysts, investors and other interested parties in the evaluation of companies. In addition, we use adjusted EBITDA as a measure of operating performance for preparation of our forecasts and evaluating our leverage ratio for the debt to earnings covenant included in our outstanding credit facility. Other companies may calculate EBITDA and adjusted EBITDA differently than we do. EBITDA and adjusted EBITDA have limitations as analytical tools, and you should not consider them in isolation or as substitutes for analysis of our results as reported under GAAP.
+
+(3) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+(4) Adjusted EBITDA margin represents adjusted EBITDA divided by revenues less cost of revenues.
+
+(5) Adjusted earnings is defined as net income adjusted for amortization of purchased intangibles, acquisition-related costs, impairment of investment, gain on investment, investment establishment costs, impairment of goodwill, loan forgiveness, certain tax reserve changes, deferred tax re-measurements, change in contingent consideration, and net income or loss allocated to participating securities, net of the income tax effects of these adjustments. Adjusted earnings does not represent, and should not be considered as, an alternative to net income, as determined in accordance with GAAP. We have presented adjusted earnings because we consider it an important supplemental measure of our performance and we use it as the basis for monitoring our own core operating financial performance relative to other operators of exchanges. We also believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies. We believe that investors may find this non-GAAP measure useful in evaluating our performance compared to that of peer companies in our industry. Other companies may calculate adjusted earnings differently than we do. Adjusted earnings has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our results as reported under GAAP.
+
+(6) Adjusted diluted earnings per share represents adjusted earnings divided by diluted weighted average shares outstanding.
+
+71
+
+Table of Contents
+
+The following is a reconciliation of net income (loss) allocated to common stockholders to EBITDA and adjusted EBITDA (in millions):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+-------------------------------------------------- - ----------------------- ----- ----------------------- - ----------------------- - ------- ---- --------- - ------- - --------- ----- ----- - ------- - - ------ - - -------
+​ ​ Year Ended December 31,
+​ ​ 2022
+​ Options North American Equities Europe and Asia Pacific Futures Global FX Digital Corporate Total
+Net income (loss) allocated to common stockholders ​ $ 478.1 ​ $ 125.9 ​ $ 22.8 ​ $ 12.8 ​ $ 9.1 ​ $ (369.7) ​ $ (44.9) ​ $ 234.1
+Interest expense (income), net ​ — ​ (0.4) ​ 8.0 ​ — ​ (0.4) ​ — ​ 49.2 ​ 56.4
+Income tax provision (benefit) ​ 260.7 ​ 20.5 ​ 6.8 ​ 42.4 ​ 0.1 ​ (119.0) ​ (13.6) ​ 197.9
+Depreciation and amortization ​ 26.5 ​ 74.1 ​ 37.0 ​ 2.6 ​ 21.9 ​ 4.7 ​ — ​ 166.8
+EBITDA ​ 765.3 ​ 220.1 ​ 74.6 ​ 57.8 ​ 30.7 ​ (484.0) ​ (9.3) ​ 655.2
+Acquisition-related costs ​ — ​ 3.9 ​ 3.6 ​ — ​ — ​ 9.5 ​ 2.9 ​ 19.9
+Impairment of investment ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 10.6 ​ ​ 10.6
+Loan forgiveness ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ (1.3) ​ ​ — ​ ​ (1.3)
+Gain on investment ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ (7.5) ​ ​ (7.5)
+Goodwill impairment ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 460.9 ​ ​ — ​ ​ 460.9
+Investment establishment costs ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 3.0 ​ ​ 3.0
+Change in contingent consideration ​ ​ — ​ ​ (5.2) ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ (5.2)
+Adjusted EBITDA ​ $ 765.3 ​ $ 218.8 ​ $ 78.2 ​ $ 57.8 ​ $ 30.7 ​ $ (14.9) ​ $ (0.3) ​ $ 1,135.6
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+​ ​ Year Ended December 31,
+​ ​ 2021
+​ ​ Options North American Equities ​ Europe and Asia Pacific ​ Futures ​ Global FX ​ Digital ​ Corporate ​ Total
+Net income (loss) allocated to common stockholders ​ $ 364.7 ​ $ 133.5 ​ $ 18.6 ​ $ 34.9 ​ $ 2.6 ​ $ — ​ $ (27.0) ​ $ 527.3
+Interest expense, net ​ — ​ — ​ 12.4 ​ — ​ — ​ — ​ 35.0 ​ 47.4
+Income tax provision (benefit) ​ 171.3 ​ 22.1 ​ 26.5 ​ 30.9 ​ — ​ — ​ (23.7) ​ 227.1
+Depreciation and amortization ​ 29.4 ​ 75.7 ​ 35.1 ​ 2.9 ​ 24.3 ​ — ​ — ​ 167.4
+EBITDA ​ 565.4 ​ 231.3 ​ 92.6 ​ 68.7 ​ 26.9 ​ — ​ (15.7) ​ 969.2
+Acquisition-related costs ​ 0.3 ​ 2.8 ​ 1.4 ​ — ​ — ​ — ​ 11.1 ​ 15.6
+Impairment of investment ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 5.0 ​ ​ 5.0
+Change in contingent consideration ​ ​ — ​ ​ (2.7) ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ (2.7)
+Adjusted EBITDA ​ $ 565.7 ​ $ 231.4 ​ $ 94.0 ​ $ 68.7 ​ $ 26.9 ​ $ — ​ $ 0.4 ​ $ 987.1
+
+​
+The following is a reconciliation of net income allocated to common stockholders to adjusted earnings (in millions):
+​ ​ ​ ​ ​ ​ ​
+------------------------------------------------ - ----------------------- ------- ---- - ------
+​ ​ Year Ended December 31,
+​ 2022 2021
+Net income allocated to common stockholders ​ $ 234.1 ​ $ 527.3
+Amortization ​ 124.3 ​ 126.6
+Acquisition-related costs ​ 19.9 ​ 15.6
+Impairment of investment ​ ​ 10.6 ​ ​ 5.0
+Loan forgiveness ​ ​ (1.3) ​ ​ —
+Gain on investment ​ ​ (7.5) ​ ​ —
+Goodwill impairment ​ ​ 460.9 ​ ​ —
+Investment establishment costs ​ ​ 3.0 ​ ​ —
+Change in contingent consideration ​ ​ (5.2) ​ ​ (2.7)
+Increase (release) of tax reserves ​ ​ 48.5 ​ ​ (5.4)
+Tax effect of adjustments ​ (143.7) ​ (31.8)
+Deferred tax re-measurements ​ ​ (2.0) ​ ​ 14.6
+Net income allocated to participating securities ​ ​ (1.8) ​ ​ (0.4)
+Adjusted earnings ​ $ 739.8 ​ $ 648.8
+
+​
+​
+
+72
+
+Table of Contents
+
+The following summarizes changes in certain operational and financial metrics for the year ended December 31, 2022 compared to the year ended December 31, 2021:
+
+​
+
+73
+
+Table of Contents
+
+The following table includes operational and financial metrics for our Options, North American Equities, Europe and Asia Pacific, Futures, and Global FX segments. The metrics listed for Canadian Equities in the table below include NEO as a result of the acquisition completed during 2022. Therefore, the metrics shown in the table below in Canadian Equities do not include NEO for the periods preceding the acquisition. The following summarizes changes in certain operational and financial metrics for the year ended December 31, 2022 compared to the year ended December 31, 2021:
+​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+----------------------------------------------------------------------------- - ------------------------------------------------------------------- ------- --------- - ---------- - ------ ------- - ---- -
+​ ​ Year Ended ​ ​ ​ ​
+​ ​ December 31, ​ Increase/ ​ Percent ​
+​ 2022 2021 (Decrease) Change ​
+
+​ ​ (in millions, except percentages, trading days, and as noted below) ​
+Options: ​ ​
+Average daily volume (ADV) (in millions of contracts): ​ ​ ​ ​
+Market ADV ​ 41.1 ​ ​ 39.2 ​ ​ 1.9 5 %
+Total touched contracts (1) ​ 13.6 ​ ​ 12.1 ​ ​ 1.5 13 %
+Multi-listed contract ADV ​ ​ 10.8 ​ ​ 10.1 ​ ​ 0.7 ​ 7 %
+Index contract ADV ​ 2.8 ​ ​ 2.0 ​ ​ 0.8 44 %
+Number of trading days ​ ​ 251 ​ ​ 252 ​ ​ (1) (0) %
+Total Options revenue per contract (RPC) (2) ​ $ 0.234 ​ $ 0.192 ​ $ 0.042 22 %
+Multi-listed options RPC (2) ​ ​ 0.063 ​ ​ 0.067 ​ ​ (0.004) (6) %
+Index options RPC (2) ​ ​ 0.879 ​ ​ 0.832 ​ ​ 0.047 6 %
+Total Options market share ​ ​ 33.2 % ​ 30.8 % ​ 2.4 % ​ *
+Multi-listed options market share ​ ​ 28.2 % ​ 27.1 % ​ 1.1 % ​ *
+North American Equities: ​ ​ ​ ​ ​ ​
+U.S. Equities: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+U.S. Equities - Exchange: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADV: ​ ​ ​ ​ ​ ​
+Total touched shares (in billions) (1) ​ 1.7 ​ 1.7 ​ — (1) %
+Market ADV (in billions) ​ 11.9 ​ 11.4 ​ 0.5 4 %
+Market share ​ ​ 13.6 % ​ 14.2 % ​ (0.6) % ​ *
+U.S. Equities - Exchange (net capture per one hundred touched shares) (3) ​ $ 0.021 ​ $ 0.020 ​ $ 0.001 7 %
+U.S. ETPs: launches (number of launches) ​ 80 ​ ​ 117 ​ (37) (32) %
+U.S. ETPs: listings (number of listings) ​ 592 ​ ​ 539 ​ 53 10 %
+U.S. Equities - Off-Exchange: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADV: ​ ​ ​ ​ ​ ​
+Total touched shares (in millions) (1) ​ 90.4 ​ 83.0 ​ 7.4 9 %
+U.S. Equities - Off-Exchange (net capture per one hundred touched shares) (4) ​ $ 0.113 ​ $ 0.120 ​ $ (0.007) (6) %
+Trading days ​ ​ 251 ​ ​ 252 ​ ​ (1) ​ (0) %
+Canadian Equities: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADV (matched shares, in millions) (5) ​ ​ 91.8 ​ ​ 49.4 ​ ​ 42.4 ​ 86 %
+Trading days ​ ​ 250 ​ ​ 251 ​ ​ (1) ​ (0) %
+Net capture (per 10,000 touched shares, in Canadian dollars) (6) ​ ​ 4.966 ​ ​ 7.822 ​ ​ (2.856) ​ (37) %
+Europe and Asia Pacific: ​ ​ ​ ​ ​
+European Equities: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADNV: ​ ​ ​ ​ ​ ​ ​
+Matched ADNV (in billions) (7) ​ € 10.8 ​ € 7.7 ​ € 3.1 ​ 41 %
+Market ADNV (in billions) ​ ​ 46.2 ​ ​ 42.6 ​ ​ 3.6 ​ 8 %
+Trading days ​ 257 ​ 258 ​ ​ (1) ​ (0) %
+Market share ​ ​ 23.5 % ​ 18.1 % ​ 5.4 % ​ *
+Net capture (per matched notional value in basis points) (8) ​ ​ 0.231 ​ ​ 0.267 ​ ​ (0.036) ​ (14) %
+Cboe Clear Europe: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+Trades cleared (9) ​ ​ 1,493.3 ​ ​ 1,244.2 ​ ​ 249.1 ​ 20 %
+Fee per trade cleared (10) ​ € 0.009 ​ € 0.011 ​ € (0.002) ​ (17) %
+European equities market share cleared (11) ​ ​ 32.7 % ​ 29.6 % ​ 3.1 ​ ​ *
+Net settlement volume (12) ​ ​ 10.3 ​ ​ 9.9 ​ ​ 0.4 ​ 4 %
+Net fee per settlement (13) ​ € 0.881 ​ € 0.871 ​ € 0.010 ​ 1 %
+Australian Equities: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADNV (AUD billions) ​ $ 0.8 ​ $ 0.8 ​ $ — ​ 2 %
+Trading days ​ ​ 253 ​ ​ 130 ​ ​ 123 ​ 95 %
+Market share - Continuous ​ ​ 16.6 % ​ 15.9 % ​ 0.7 % ​ *
+Net capture (per matched notional value in basis points) (14) ​ ​ 0.164 ​ ​ 0.172 ​ ​ (0.008) ​ (5) %
+Japanese Equities: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADNV (JPY billions) ​ ¥ 142.9 ​ ¥ 100.1 ​ ¥ 42.8 ​ 43 %
+Trading days ​ ​ 244 ​ ​ 123 ​ ​ 121 ​ 98 %
+Market share - Lit Continuous ​ ​ 3.6 % ​ 2.7 % ​ 0.9 % ​ *
+Net capture (per matched notional value in basis points) (15) ​ ​ 0.252 ​ ​ 0.361 ​ ​ (0.109) ​ (30) %
+Futures: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADV (in thousands) ​ ​ 218.2 ​ ​ 230.4 ​ ​ (12.2) ​ (5) %
+Trading days ​ ​ 251 ​ ​ 252 ​ ​ (1) ​ (0) %
+Revenue per contract ​ $ 1.674 ​ $ 1.641 ​ $ 0.033 ​ 2 %
+Global FX: ​ ​ ​ ​ ​ ​ ​
+ADNV (in billions) ​ $ 40.9 ​ $ 33.9 ​ $ 7.0 ​ 21 %
+Market share ​ ​ 17.6 % ​ 16.6 % ​ 1.0 ​ ​ *
+Trading days ​ 260 ​ 260 ​ ​ — ​ — %
+Net capture (per one million dollars traded) (16) ​ ​ 2.69 ​ ​ 2.73 ​ ​ (0.04) ​ (1) %
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+Average British pound/U.S. dollar exchange rate ​ $ 1.237 ​ $ 1.375 ​ $ (0.138) ​ (10) %
+Average Canadian dollar/U.S. dollar exchange rate ​ $ 0.769 ​ $ 0.798 ​ $ (0.029) ​ (4) %
+Average Euro/U.S. dollar exchange rate ​ $ 1.054 ​ $ 1.183 ​ $ (0.129) ​ (11) %
+Average Euro/British pound exchange rate ​ £ 0.852 ​ £ 0.860 ​ £ (0.008) ​ (1) %
+Average Australian dollar/U.S. dollar exchange rate ​ $ 0.694 ​ $ 0.726 ​ $ (0.032) ​ (4) %
+Average Japanese Yen/U.S. dollar exchange rate ​ $ 0.008 ​ $ 0.009 ​ $ (0.001) ​ (14) %
+
+* Not meaningful
+Note, the percent change listed represents the change in the unrounded metrics figures.
+
+74
+
+Table of Contents
+
+(1) Touched volume represents the total number of shares of equity securities and ETFs internally matched on our exchanges or routed to and executed on an external market center.
+(2) Average revenue per contract, for options and futures represents total net transaction fees recognized for the period divided by total contracts traded during the period.
+(3) Net capture per one hundred touched shares refers to transaction fees less liquidity payments and routing and clearing costs divided by the product of one-hundredth ADV of touched shares on BZX, BYX, EDGX, and EDGA and the number of trading days.
+(4) Net capture per 100 touched shares refers to transaction fees less order and execution management system (OMS/EMS) fees and clearing costs divided by the product of one-hundredth ADV of touched shares on BIDS Trading and the number of trading days for the period.
+(5) Matched volume represents the total number of shares of equity securities and ETFs activity executed on our exchanges.
+(6) Net capture per 10,000 touched shares refers to transaction fees divided by the product of one-ten thousandth ADV of shares for NEO and MATCHNow and the number of trading days.
+(7) Matched ADNV represents the average daily notional value of shares or contracts executed on our exchanges.
+(8) Net capture per matched notional value refers to transaction fees less liquidity payments in British pounds divided by the product of ADNV in British pounds of shares matched on Cboe Europe Equities and the number of trading days.
+(9) Trades cleared refers to the total number of non-interoperable trades cleared.
+(10) Fee per trade cleared refers to clearing fees divided by number of non-interoperable trades cleared.
+(11) European Equities market share cleared represents Cboe Clear Europe’s client volume cleared divided by the total volume of the publicly reported European venues.
+(12) Net settlement volume refers to the total number of settlements executed after netting.
+(13) Net fee per settlement refers to settlement fees less direct costs incurred to settle divided by the number of settlements executed after netting.
+(14) Net capture per matched notional value refers to transaction fees less liquidity payments in Australian dollars divided by the product of ADNV in Australian dollars of shares matched on Cboe Australia and the number of Australian Equities trading days.
+(15) Net capture per matched notional value refers to transaction fees less liquidity payments in Japanese Yen divided by the product of ADNV in Japanese Yen of shares matched on Cboe Japan and the number of Japanese Equities trading days.
+(16) Net capture per one million dollars traded refers to net transaction fees less liquidity payments, if any, divided by the Spot and SEF products of one-thousandth of ADNV traded on the Cboe FX Markets and the number of trading days, divided by two, which represents the buyer and seller that are both charged on the transaction.
+
+75
+
+Table of Contents
+
+Revenue
+Total revenues for the year ended December 31, 2022 increased $463.7 million, or 13%, compared to the prior period primarily due to higher revenue across all revenue captions as a result of increased volumes traded on the Options and European Equities exchanges, an increase in the Section 31 fee rate following a rate increase that was effective on May 14, 2022, an increase in data and access solutions revenue primarily related to an increase in access and capacity fees in the Options and North American Equities segments, and additional revenues attributable to acquisitions made in 2022 and the later half of 2021. The following summarizes changes in revenues for the year ended December 31, 2022 compared to the year ended December 31, 2021 (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------- - ------------ ------- --------- - ---------- - ------ ----- - -- -
+​ ​ Year Ended ​ ​ ​ ​ ​
+​ ​ December 31, ​ Increase/ ​ Percent
+​ 2022 2021 (Decrease) Change
+Cash and spot markets ​ $ 1,777.6 ​ $ 1,660.5 ​ $ 117.1 ​ 7 %
+Data and access solutions ​ 497.0 ​ 427.7 ​ 69.3 ​ 16 %
+Derivatives markets ​ ​ 1,683.9 ​ ​ 1,406.6 ​ ​ 277.3 ​ 20 %
+Total revenues ​ $ 3,958.5 ​ $ 3,494.8 ​ $ 463.7 ​ 13 %
+
+​
+Cash and Spot Markets
+Cash and spot markets revenue increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increases in regulatory fees and transaction and clearing fees, partially offset by a decrease in industry market data fees. Regulatory fees increased primarily due to an 109% increase in the Section 31 fee rate, from an average rate of $7.80 per million dollars of covered sales for the year ended December 31, 2021 to an average rate of $16.30 per million dollars of covered sales for the year ended December 31, 2022. Transaction and clearing fees increased primarily due to a 41% increase in European Equities matched ADNV, additional transaction and clearing fees attributable to NEO, which was acquired in second quarter of 2022, and a 21% increase in Global FX ADNV, partially offset by a 1% decrease in total touched shares on the U.S. Equities exchanges, a 17% decrease in the fee per trade cleared by Cboe Clear Europe, and adverse changes in foreign currency rates, most notably Euro and British Pounds, for the year ended December 31, 2022 compared to the prior period. Industry market data fees decreased primarily due to a decrease in U.S. tape plan revenue as a result of a 1% decline in market share on the U.S. Equities exchanges.
+​
+Data and Access Solutions
+Data and access solutions revenue increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increases in access and capacity fees and proprietary market data fees. Access and capacity fees increased primarily due to increased logical and physical port fees in the Options and North American Equities segments driven by an increase in subscribers, coupled with an increase in access and membership fees across the Europe and Asia Pacific and Options segments driven by an increase in subscribers. Proprietary market data fees increased primarily due to proprietary market data attributable to Cboe Asia Pacific, which was acquired in the third quarter of 2021, and NEO.
+​
+Derivatives Markets
+Derivatives markets revenue increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increases in transaction and clearing fees and regulatory fees. Transaction and clearing fees increased primarily due to a 44% increase in index options ADV and a 7% increase in multi-listed options ADV, partially offset by a 5% decrease in Futures ADV. Regulatory fees increased primarily due to a 109% increase in the Section 31 fee rate, from an average rate of $7.80 per million dollars of covered sales for the year ended December 31, 2021 to an average rate of $16.30 per million dollars of covered sales for the year ended December 31, 2022.
+​
+
+76
+
+Table of Contents
+
+Cost of Revenues
+The following tables reconcile the cost of revenues captions presented on the consolidated statements of income to the updated net revenue captions discussed in Note 1 (“Nature of Operations”) for the year ended December 31, 2022 and 2021, respectively (in millions):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+--------------------------------------- - -------------------- ----------------------- ------------------------ - ------------------ - ----- ----- - - -------
+​ ​ ​ Year Ended December 31,
+​ ​ ​ 2022
+​ ​ Cash andSpot Markets ​ Data andAccess Solutions ​ DerivativesMarkets ​ Total
+Liquidity payments ​ $ 1,024.0 ​ $ — ​ $ 646.2 ​ $ 1,670.2
+Routing and clearing fees ​ ​ 56.0 ​ ​ — ​ ​ 27.2 ​ ​ 83.2
+Section 31 fees ​ ​ 276.8 ​ ​ — ​ ​ 53.0 ​ ​ 329.8
+Royalty fees and other cost of revenues ​ ​ 14.1 ​ ​ 9.2 ​ ​ 110.3 ​ ​ 133.6
+Total cost of revenues ​ $ 1,370.9 ​ $ 9.2 ​ $ 836.7 ​ $ 2,216.8
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+​ ​ ​ Year Ended December 31,
+​ ​ ​ 2021
+​ ​ Cash andSpot Markets ​ Data andAccess Solutions ​ DerivativesMarkets ​ Total
+Liquidity payments ​ $ 1,025.4 ​ $ — ​ $ 625.3 ​ $ 1,650.7
+Routing and clearing fees ​ ​ 65.2 ​ ​ — ​ ​ 22.6 ​ ​ 87.8
+Section 31 fees ​ ​ 159.7 ​ ​ — ​ ​ 19.9 ​ ​ 179.6
+Royalty fees and other cost of revenues ​ ​ 14.3 ​ ​ 8.4 ​ ​ 77.9 ​ ​ 100.6
+Total cost of revenues ​ $ 1,264.6 ​ $ 8.4 ​ $ 745.7 ​ $ 2,018.7
+
+​
+Cost of revenues increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increased cash and spot markets and derivatives markets costs of revenues driven by an increase in Section 31 fees as a result of an increase in the Section 31 fee rate, coupled with an increase in royalty fees and an increase in liquidity payments driven by an increase in volumes traded on the Options and European Equities exchanges.
+​
+The following summarizes changes in the disaggregated cost of revenues for the year ended December 31, 2022 compared to the year ended December 31, 2021 (in millions, except percentages):
+​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+--------------------------------------- - ------------ ------- --------- - ---------- - ------ ----- - --- -
+​ ​ Year Ended ​ ​ ​ ​ ​
+​ ​ December 31, ​ Increase/ ​ Percent
+​ 2022 2021 (Decrease) Change
+Liquidity payments ​ $ 1,670.2 ​ $ 1,650.7 ​ $ 19.5 ​ 1 %
+Routing and clearing ​ 83.2 ​ 87.8 ​ (4.6) ​ (5) %
+Section 31 fees ​ ​ 329.8 ​ ​ 179.6 ​ ​ 150.2 ​ 84 %
+Royalty fees and other cost of revenues ​ ​ 133.6 ​ ​ 100.6 ​ ​ 33.0 ​ 33 %
+Total ​ $ 2,216.8 ​ $ 2,018.7 ​ $ 198.1 ​ 10 %
+
+​
+Liquidity Payments
+Liquidity payments increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to an increase in volumes traded on the Options and European Equities exchanges, partially offset by a decrease in volumes traded on the U.S Equities exchanges.
+Routing and Clearing
+Routing and clearing fees decreased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to a decrease in routed shares on the U.S. Equities exchanges and adverse changes in foreign currency rates, most notably Euro and British Pounds, for the year ended December 31, 2022 compared to the prior period, partially offset by an increase in routed trades on the Options exchanges.
+​
+
+77
+
+Table of Contents
+
+Section 31 Fees
+Section 31 fees increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to a 109% increase in the Section 31 fee rate, from an average rate of $7.80 per million dollars of covered sales in 2021 to an average rate of $16.30 per million dollars of covered sales in 2022.
+Royalty Fees and Other Cost of Revenues
+Royalty fees increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to an increase in trading volumes of licensed products in the Options segment.
+Revenues Less Cost of Revenues
+Revenues less cost of revenues increased $265.6 million, or 18%, for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to an increase in derivatives markets revenue less cost of revenues attributable to an increase in volumes traded on the Options exchanges, an increase in access and capacity fees in the Options and North American Equities segments, and additional revenues less cost of revenues attributable to acquisitions made in 2022 and the latter half of 2021.
+The following summarizes the components of revenues less cost of revenues for the year ended December 31, 2022, presented as a percentage of revenues less cost of revenues and compared to the year ended December 31, 2021 (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ------- ------- - ------------ - ---- - ------------- - --- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage of
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues Less
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Cost of
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ Year Ended
+​ ​ December 31, ​ Percent ​ December 31,
+​ 2022 2021 Change 2022 2021 ​
+Cash and spot markets ​ $ 406.7 ​ $ 395.9 ​ 3 % 23 % 27 %
+Data and access solutions ​ 487.8 ​ 419.3 ​ 16 % 28 % 28 %
+Derivatives markets ​ ​ 847.2 ​ ​ 660.9 ​ 28 % 49 % 45 %
+Revenues less cost of revenues ​ $ 1,741.7 ​ $ 1,476.1 ​ 18 % 100 % 100 %
+
+​
+Cash and Spot Markets
+Cash and spot markets revenues less cost of revenues increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increases in transaction and clearing fees less liquidity payments and routing and clearing costs (“net transaction and clearing fees”) in the Global FX and Europe and Asia Pacific segments, partially offset by a decrease in industry market data fees. Net transaction and clearing fees increased primarily due to a 21% increase in Global FX ADNV, 41% increase in European Equities matched ADNV, and net transaction and clearing fees attributable to Cboe Asia Pacific and NEO, partially offset by a 1% decrease in total touched shares on the U.S. Equities exchanges and adverse changes in foreign currency rates, most notably Euro and British Pounds, for the year ended December 31, 2022 compared to the prior period. Industry market data fees decreased primarily due to a decrease in U.S. tape plan revenue driven by a 1% decline in market share on the U.S. Equities exchanges.
+Data and Access Solutions
+Data and access solutions revenues less cost of revenues increased for the year ended December 31, 2022 compared the year ended December 31, 2021, primarily due to increases driven by an increase in subscribers, coupled with an increase in access and membership fees across the Europe and Asia Pacific and Options segments, also driven by an increase in subscribers. Proprietary market data fees increased primarily due to proprietary market data attributable to Cboe Asia Pacific and NEO.
+​
+
+78
+
+Table of Contents
+
+Derivatives Markets
+Derivatives markets revenues less cost of revenues increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increases in transaction and clearing fees primarily due to a 44% increase in index options ADV, partially offset by a 5% decrease in Futures ADV and an increase in royalty fees due to an increase in trading volumes of licensed products in the Options segment.
+Operating Expenses
+For the year ended December 31, 2022 compared to the year ended December 31, 2021, total operating expenses increased primarily due to goodwill impairment recorded in 2022 and an increase in compensation and benefits compared to the prior period. The following summarizes changes in operating expenses for the year ended December 31, 2022 compared to the year ended December 31, 2021 (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+-------------------------------------- - ------------ ------- --------- - ---------- - ------ ----- - --- -
+​ ​ Year Ended ​ ​ ​ ​ ​
+​ ​ December 31, ​ Increase/ ​ Percent
+​ 2022 2021 (Decrease) Change
+Compensation and benefits ​ $ 363.0 ​ $ 288.5 ​ $ 74.5 ​ 26 %
+Depreciation and amortization ​ 166.8 ​ 167.4 ​ (0.6) ​ (0) %
+Technology support services ​ 77.7 ​ 66.7 ​ 11.0 ​ 16 %
+Professional fees and outside services ​ 89.0 ​ 83.7 ​ 5.3 ​ 6 %
+Travel and promotional expenses ​ 23.7 ​ 9.7 ​ 14.0 ​ 144 %
+Facilities costs ​ 25.1 ​ 22.2 ​ 2.9 ​ 13 %
+Acquisition-related costs ​ 19.9 ​ 15.6 ​ 4.3 ​ 28 %
+Goodwill impairment ​ ​ 460.9 ​ ​ — ​ ​ 460.9 ​ * %
+Other expenses ​ 26.0 ​ 16.4 ​ 9.6 ​ 59 %
+Total operating expenses ​ $ 1,252.1 ​ $ 670.2 ​ $ 581.9 ​ 87 %
+
+*  Not meaningful
+Compensation and Benefits
+Compensation and benefits increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to a $66.1 million increase in salaries, wages, and bonuses, driven by a $24.3 million increase in salaries and wages as a result of merit, cost-of-labor increases, and increased headcount excluding acquisitions, as well as a $23.0 million increase in bonuses from strong Company performance year to date, resulting in higher short-term incentive bonus expense, coupled with an $18.8 million increase related to the acquisitions of Cboe Digital, Cboe Asia Pacific, and NEO.
+Depreciation and Amortization
+Depreciation and amortization was relatively flat for the year ended December 31, 2022 compared to the year ended December 31, 2021, due to an increase in depreciation expense related to the acquisitions of Cboe Asia Pacific, Cboe Digital, and NEO, as well as an increase in depreciation expense related to the former headquarters location, which was not subject to depreciation during four months in 2021, as it was classified as held for sale from May 1, 2019 until May 1, 2021, offset by a decline in amortization under the discounted cash flow method for the intangibles acquired in the Bats acquisition.
+Technology Support Services
+Technology support services costs increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increases in technology support services, including software maintenance support service fees, software licenses and subscriptions, cloud services, and hardware maintenance, partially offset by a decrease in purchased hardware and equipment and purchased software.
+Professional Fees and Outside Services
+Professional and outside services fees increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increases in regulatory costs driven by an increase in CAT expense, as well as
+
+79
+
+Table of Contents
+
+increases in consulting fees, recruiting fees, contract services, and external audit fees, partially offset by a decrease in legal fees.
+Travel and Promotional Expenses
+Travel and promotional expenses increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to an increase in marketing expenses driven by product promotions and an increase in travel expenses due to changes in travel guidelines following the COVID-19 pandemic.
+Facilities Costs
+Facilities costs increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to an increase in rent expense related to the new Amsterdam lease that commenced in February 2022 and additional office space in London that commenced in March 2022, along with additional office locations following acquisitions in 2021 and 2022.
+Acquisition-Related Costs
+Acquisition-related costs increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due an increase in general and administrative costs associated with the acquisitions of Cboe Digital and NEO.
+Goodwill Impairment
+Goodwill impairment increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, due to impairment recognized in the Digital segment in the second quarter of 2022.
+Other Expenses
+Other expenses increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increased charitable contributions, an increase in VAT taxes, and expenses associated with hosting the Cboe Risk Management Conference.
+Operating Income
+As a result of the items above, operating income for the year ended December 31, 2022 was $489.6 million, compared to operating income of $805.9 million for the year ended December 31, 2021, a decrease of $316.3 million.
+Interest Expense, Net
+Net interest expense increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to additional interest expense incurred in connection with the 3.000% Senior Notes issued at the end of the first quarter of 2022, coupled with additional interest expense incurred in connection with the additional borrowings on the Term Loan in the second quarter of 2022, as well as an increase in the SOFR rate, partially offset by principal repayments on the Term Loan and a decrease in interest expense related to the Cboe Clear Europe Credit Facility, which was amended and restated in June 2022.
+Other (Expense) Income, Net
+Net other expense decreased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to a $7.5 million gain on the Company’s previous minority ownership of ErisX, which increased in fair value as a result of the Company’s acquisition of Cboe Digital, recorded in the second quarter of 2022, coupled with a $5.0 million impairment adjustment recorded in 2021 related to the Company’s previously held investment in Curve Global, which did not recur in 2022, and a $4.2 million unrealized gain on the Company’s investment in 7Ridge Fund (which owns Trading Technologies) as part of a semi-annual valuation update recorded in 2022, partially offset by a $10.6 million impairment adjustment on the Company’s investment in American Financial Exchange, LLC recorded in 2022.
+
+80
+
+Table of Contents
+
+Income Before Income Tax Provision
+As a result of the above, income before income tax provision for the year ended December 31, 2022 was $432.9 million compared to income before income tax provision of $756.1 million for the year ended December 31, 2021, a decrease of $323.2 million.
+Income Tax Provision
+For the year ended December 31, 2022, the income tax provision was $197.9 million compared to $227.1 million for the year ended December 31, 2021, a decrease of $29.2 million, primarily due to a decrease in income before income tax provision, partially offset by a higher effective tax rate for the year ended December 31, 2022. The effective tax rate for the year ended December 31, 2022 was 45.7%, compared to a rate of 30.0% for the year ended December 31, 2021. The higher effective tax rate in the year ended December 31, 2022 compared to the year ended December 31, 2021, is primarily due to the derecognition of the Company’s Section 199 tax benefits for the tax years 2008 through 2016 upon the unfavorable decision by the United States Tax Court in the matter of Bats Global Markets Holdings, Inc. and Subsidiaries v. Commissioner of Internal Revenue, on March 31, 2022.
+The following table summarizes the non-GAAP calculation of the effective tax rate for the year ended December 31, 2022:
+​ ​ ​ ​
+------------------------------------------------------------------------ - ----------------- -
+​ ​ Year Ended ​
+​ ​ December 31, 2022 ​
+GAAP effective tax rate ​ 45.7 %
+Tax effect of goodwill impairment ​ (8.5) %
+Tax effect of Section 199 related matters ​ (5.5) %
+Effective tax rate excluding goodwill impairment and Section 199 matters ​ 31.7 %
+
+​
+Net Income
+As a result of the items above, net income for the year ended December 31, 2022 was $235.0 million, or 14% of revenues less cost of revenues, compared to $529.0 million, or 36% of revenues less cost of revenues, for the year ended December 31, 2021, a decrease of $294.0 million, or 56%.
+Segment Operating Results
+We report results from our six segments: Options, North American Equities, Europe and Asia Pacific, Futures, Global FX, and Digital. Segment performance is primarily based on operating income (loss). We have aggregated all corporate costs, as well as other business ventures, within Corporate Items and Eliminations as those activities should not be used to evaluate a segment’s operating performance. All operating expenses that relate to activities of a specific segment have been allocated to that segment.
+​
+
+81
+
+Table of Contents
+
+The following summarizes our total revenues by segment (in millions, except percentages):
+​
+
+​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+----------------------- - ------------ ------- ------- - ------------ - ----- - ------------- - --- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage of
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ Year Ended
+​ ​ December 31, ​ Percent ​ December 31,
+​ 2022 2021 Change 2022 2021
+Options ​ $ 1,823.2 ​ $ 1,505.0 ​ 21 % 46 % 43 %
+North American Equities ​ 1,681.7 ​ 1,570.5 ​ 7 % 42 % 45 %
+Europe and Asia Pacific ​ 264.6 ​ 240.3 ​ 10 % 7 % 7 %
+Futures ​ 119.8 ​ 120.6 ​ (1) % 3 % 3 %
+Global FX ​ ​ 68.9 ​ ​ 58.1 ​ 19 % 2 % 2 %
+Digital ​ ​ 0.3 ​ ​ — ​ * ​ — % — %
+Corporate ​ ​ — ​ ​ 0.3 ​ (100) % — % — %
+Total revenues ​ $ 3,958.5 ​ $ 3,494.8 ​ 13 % 100 % 100 %
+
+*  Not meaningful
+
+82
+
+Table of Contents
+
+The following summarizes our revenues less cost of revenues by segment (in millions, except percentages):
+​
+
+​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------------ - ------------ ------- ------- - ------------ - ----- - --------------------- - --- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage of
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total Revenues
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ less Cost of Revenues
+​ ​ Year Ended ​ ​ ​ Year Ended
+​ ​ December 31, ​ Percent ​ December 31,
+​ 2022 2021 Change 2022 2021
+Options ​ $ 983.2 ​ $ 755.0 ​ 30 % 56 % 51 %
+North American Equities ​ 378.9 ​ 362.5 ​ 5 % 22 % 25 %
+Europe and Asia Pacific ​ 196.1 ​ 183.9 ​ 7 % 11 % 12 %
+Futures ​ 116.0 ​ 116.8 ​ (1) % 7 % 8 %
+Global FX ​ ​ 67.9 ​ ​ 57.6 ​ 18 % 4 % 4 %
+Digital ​ ​ (0.4) ​ ​ — ​ * ​ — % — %
+Corporate ​ ​ — ​ ​ 0.3 ​ (100) % — % — %
+Total revenues less cost of revenues ​ $ 1,741.7 ​ $ 1,476.1 ​ 18 % 100 % 100 %
+
+*  Not meaningful
+
+83
+
+Table of Contents
+
+Options
+The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Options segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ----- - ------- - ----- ------------ - -- ---- - ---------- ---- - -- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ of Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ ​ ​ Year Ended
+​ ​ December 31, ​ ​ Percent ​ ​ December 31,
+​ 2022 2021 Change 2022 2021
+Revenues less cost of revenues ​ $ 983.2 ​ ​ $ 755.0 ​ 30 % ​ 54 % ​ 50 %
+Operating expenses ​ 242.7 ​ ​ 217.0 ​ 12 % ​ 13 % ​ 14 %
+Operating income ​ $ 740.5 ​ ​ $ 538.0 ​ 38 % ​ 41 % ​ 36 %
+EBITDA (1) ​ $ 765.3 ​ ​ $ 565.4 ​ 35 % ​ 42 % ​ 38 %
+EBITDA margin (2) ​ 77.8 % ​ 74.9 % ​ * ​ ​ * ​ ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+Revenues less cost of revenues increased $228.2 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to a 44% increase in index options ADV, coupled with an 6% increase in index options net capture and an increase in logical port fees, partially offset by an increase in royalty fees driven by an increase in trading volumes of licensed products. For the year ended December 31, 2022, operating income for the Options segment increased $202.5 million compared to the year ended December 31, 2021 primarily due to an increase in revenues less cost of revenues, partially offset by an increase in operating expenses. Operating expenses increased $25.7 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to increases in compensation and benefits and travel and promotional expenses, partially offset by a decrease in depreciation and amortization.
+North American Equities
+The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our North American Equities segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ----- - ------- - ----- ------------ - --- ---- - ---------- ---- - -- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ of Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ ​ ​ Year Ended
+​ ​ December 31, ​ ​ Percent ​ ​ December 31,
+​ 2022 2021 Change 2022 2021
+Revenues less cost of revenues ​ $ 378.9 ​ ​ $ 362.5 ​ 5 % ​ 23 % ​ 23 %
+Operating expenses ​ 232.3 ​ ​ 206.4 ​ 13 % ​ 14 % ​ 13 %
+Operating income ​ $ 146.6 ​ ​ $ 156.1 ​ (6) % ​ 9 % ​ 10 %
+EBITDA (1) ​ $ 220.1 ​ ​ $ 231.3 ​ (5) % ​ 13 % ​ 15 %
+EBITDA margin (2) ​ 58.1 % ​ 63.8 % ​ * ​ ​ * ​ ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+Revenues less cost of revenues increased $16.4 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to additional revenue attributable to NEO, coupled with an increase in access and capacity fees driven by an increase in physical and logical port fees and a 7% increase in U.S. Equities net capture, partially offset by a 1% decrease in total touched shares on U.S. Equities exchanges and a decrease in industry market data fees as a result of a decrease in U.S. tape plan revenue due to a 1% decline in market share on the U.S. Equities exchanges. For the year ended December 31, 2022, operating income for the North American Equities segment
+
+84
+
+Table of Contents
+
+decreased $9.5 million compared to the year ended December 31, 2021 primarily due to an increase in operating expenses, partially offset by an increase in revenues less cost of revenues. Operating expenses increased $25.9 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to increases in compensation and benefits, travel and promotional expenses, professional fees and outside services, and technology support services, partially offset by a decrease in depreciation and amortization.
+Europe and Asia Pacific
+The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Europe and Asia Pacific segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ----- - ------- - ----- ------------ - ---- ---- - ---------- ---- - -- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ of Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ ​ ​ Year Ended
+​ ​ December 31, ​ ​ Percent ​ ​ December 31,
+​ 2022 2021 Change 2022 2021
+Revenues less cost of revenues ​ $ 196.1 ​ ​ $ 183.9 ​ 7 % ​ 74 % ​ 77 %
+Operating expenses ​ 158.0 ​ ​ 127.9 ​ 24 % ​ 60 % ​ 53 %
+Operating income ​ $ 38.1 ​ ​ $ 56.0 ​ (32) % ​ 14 % ​ 23 %
+EBITDA (1) ​ $ 74.6 ​ ​ $ 92.6 ​ (19) % ​ 28 % ​ 39 %
+EBITDA margin (2) ​ 38.0 % ​ 50.4 % ​ * ​ ​ * ​ ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+Revenues less cost of revenues increased $12.2 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to additional revenue attributed to Cboe Asia Pacific, coupled with an increase in transaction and clearing fees as a result of a 41% increase in European Equities matched ADNV, driven by a 5% increase in European Equities market share, partially offset by a 17% decrease in the fee per trade cleared by Cboe Clear Europe. For the year ended December 31, 2022, operating income for the Europe and Asia Pacific segment decreased $17.9 million compared to the year ended December 31, 2021 primarily due to an increase in operating expenses, partially offset by an increase revenues less cost of revenues. Operating expenses increased $30.1 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to increases in compensation and benefits, other expenses, technology support services, facilities costs, depreciation and amortization, and travel and promotional expenses. Operating income was adversely impacted for the year ended December 31, 2022 compared to the prior period by changes in foreign currency rates, most notably Euros and British Pounds.
+​
+
+85
+
+Table of Contents
+
+Futures
+The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA, and EBITDA margin for our Futures segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ----- - ------- - ----- ------------ - ---- ---- - ---------- ---- - -- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ of Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ ​ ​ Year Ended
+​ ​ December 31, ​ ​ Percent ​ ​ December 31,
+​ 2022 2021 Change 2022 2021
+Revenues less cost of revenues ​ $ 116.0 ​ ​ $ 116.8 ​ (1) % ​ 97 % ​ 97 %
+Operating expenses ​ 60.8 ​ ​ 50.8 ​ 20 % ​ 51 % ​ 42 %
+Operating income ​ $ 55.2 ​ ​ $ 66.0 ​ (16) % ​ 46 % ​ 55 %
+EBITDA (1) ​ $ 57.8 ​ ​ $ 68.7 ​ (16) % ​ 48 % ​ 57 %
+EBITDA margin (2) ​ 49.8 % ​ 58.8 % ​ * ​ ​ * ​ ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+Revenues less cost of revenues decreased $0.8 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due a decline in transaction and clearing fees as a result of a 5% decrease in ADV, coupled with a decrease in membership fees and logical port fees, partially offset by an increase in physical port fees, an increase in proprietary market data revenue, and a 2% increase in net capture. For the year ended December 31, 2022, operating income for the Futures segment decreased $10.8 million compared to the year ended December 31, 2021 primarily due to an increase in operating expenses. Operating expenses increased $10.0 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to increases in compensation and benefits, travel and promotional expenses, and other expenses, partially offset by a decrease in professional fees and outside services.
+Global FX
+The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Global FX segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ---- - ------- - ---- ------------ - --- ---- - ---------- ---- - -- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ of Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ ​ ​ Year Ended
+​ ​ December 31, ​ ​ Percent ​ ​ December 31,
+​ 2022 2021 Change 2022 2021
+Revenues less cost of revenues ​ $ 67.9 ​ ​ $ 57.6 ​ 18 % ​ 99 % ​ 99 %
+Operating expenses ​ 59.1 ​ ​ 54.9 ​ 8 % ​ 86 % ​ 94 %
+Operating income ​ $ 8.8 ​ ​ $ 2.7 ​ 226 % ​ 13 % ​ 5 %
+EBITDA (1) ​ $ 30.7 ​ ​ $ 26.9 ​ 14 % ​ 45 % ​ 46 %
+EBITDA margin (2) ​ 45.2 % ​ 46.7 % ​ * ​ ​ * ​ ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+Revenues less cost of revenues increased $10.3 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to a 21% increase in ADNV, partially offset by a 1% decrease in net capture. For the year ended December 31, 2022, operating income for the Global FX segment increased $6.1 million compared to the year ended December 31, 2021 primarily due to an increase in revenues less cost of revenues, partially offset by an increase in operating expenses. Operating expenses increased $4.2 million for the year ended December 31, 2022
+
+86
+
+Table of Contents
+
+compared to the year ended December 31, 2021 primarily due to increases in compensation and benefits, facilities costs, technology support services, and professional fees and outside services, partially offset by a decrease in depreciation and amortization.
+Digital
+The following summarizes revenues less cost of revenues, operating expenses, operating loss, EBITDA, and EBITDA margin for our Digital segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ------- - ------------ ---------- -
+​ ​ ​ ​ ​ ​ Percentage ​
+​ ​ ​ ​ ​ ​ of Total ​
+​ ​ ​ ​ ​ ​ Revenues ​
+​ ​ Year Ended ​ ​ Year Ended ​
+​ ​ December 31, ​ ​ December 31, ​
+​ 2022 2022
+Revenues less cost of revenues ​ $ (0.4) ​ ​ * %
+Operating expenses ​ 491.0 ​ ​ * %
+Operating income (loss) ​ $ (491.4) ​ ​ * %
+EBITDA (1) ​ $ (484.0) ​ ​ * %
+EBITDA margin (2) ​ * % ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+​
+The Digital segment was established in the second quarter of 2022 following the acquisition of ErisX, which was subsequently rebranded to Cboe Digital. Cost of revenues exceeded revenues for the year ended December 31, 2022 primarily due to liquidity payments on spot and futures transactions, partially offset by transaction and clearing fees attributable to spot transactions. For the year ended December 31, 2022, the Digital segment had an operating loss of $491.4 million, primarily due to $460.9 million impairment of goodwill.
+
+87
+
+Table of Contents
+
+LIQUIDITY AND CAPITAL RESOURCES
+Below are charts that reflect elements of our capital allocation:
+
+​
+We expect our cash on hand at December 31, 2022 and other available resources, including cash generated from operations, to be sufficient to continue to meet our cash requirements for the foreseeable future. In the near term, we expect that our cash from operations and availability under the Revolving Credit Facility, and potentially participating in future financing transactions to obtain additional capital will meet our cash needs to fund our operations, capital expenditures, interest payments on debt, debt repayments, such as under the Term Loan Agreement, which matures on December 15, 2023, any dividends, potential strategic acquisitions, opportunities for common stock repurchases under the previously announced program, and payouts related to the unfavorable decision in the Section 199 litigation. See Note 12 (“Debt”) to the consolidated financial statements for further information.
+Cboe Clear Europe also has a €1.25 billion committed syndicated multicurrency revolving and swingline credit facility agreement with Cboe Clear Europe as borrower and the Company as guarantor of scheduled interest and fees on borrowings (but not the principal amount of any borrowings) (the “Facility”). The Facility is available to be drawn by Cboe Clear Europe towards (a) financing unsettled amounts in connection with the settlement of transactions in securities and other items processed through Cboe Clear Europe’s clearing system and (b) financing any other liability or liquidity requirement of Cboe Clear Europe incurred in the operation of its clearing system. Borrowings under the Facility are secured by cash, eligible bonds and eligible equity assets deposited by Cboe Clear Europe into secured accounts. As a result, should the Facility be drawn by Cboe Clear Europe it could potentially impact Cboe Clear Europe’s liquidity, and we can give no assurance that this Facility will be sufficient to meet all of such obligations or sufficiently mitigate Cboe Clear Europe’s liquidity risk to meet its payment obligations when due. Additionally, a default of the Facility may allow lenders, under certain circumstances, to accelerate any related drawn amounts and may result in the acceleration of the Company’s other outstanding debt to which a cross-acceleration or cross-default provision applies, which may limit the Company’s liquidity, business and financing activities. The Facility was amended on June 30, 2022, which extended the term of the facility through June 29, 2023. Please refer to Note 12 (“Debt”) for further information on the amendment.
+Our long-term cash needs will depend on many factors, including an introduction of new products, enhancements of current products, the geographic mix of our business and any potential acquisitions. We believe our cash from operations and the availability under our Revolving Credit Facility will meet any long-term needs unless a significant acquisition or acquisitions are identified, in which case we expect that we would be able to borrow the necessary funds and/or issue additional shares of our common stock to complete such acquisition(s).
+​
+
+88
+
+Table of Contents
+
+Cash and cash equivalents includes cash in banks and all non-restricted, highly liquid investments with original maturities of three months or less at the time of purchase. Cash and cash equivalents as of December 31, 2022 increased $90.8 million from December 31, 2021 primarily due to additional borrowings on the Term Loan Agreement, issuance of the 3.000% Senior Notes in the first quarter of 2022, and results of operations, partially offset by acquisitions, net of cash acquired and repayments on the Term Loan Agreement. See “Cash Flow” below for further discussion.
+Our cash and cash equivalents held outside of the United States in various foreign subsidiaries totaled $226.1 million and $185.9 million as of December 31, 2022 and 2021, respectively. The remaining balance was held in the United States and totaled $206.6 million and $156.0 million as of December 31, 2022 and 2021, respectively. The majority of cash held outside the United States is available for repatriation, but under current law, could subject us to additional United States income taxes, less applicable foreign tax credits. See Note 18 (“Regulatory Capital”) for information regarding cash held for purposes of regulatory capital requirements.
+Our financial investments include deferred compensation plan assets as well as investments with original or acquired maturities longer than three months but that mature in less than one year from the balance sheet date and are recorded at fair value. As of December 31, 2022, financial investments primarily consisted of U.S. Treasury securities and deferred compensation plan assets.
+Cash Flow
+The following table summarizes our cash flow data for the years ended December 31, 2022, 2021 and 2020 (in millions):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+-------------------------------------------------------------------------------------------------------------------- - ------------------ ------- ---- - ------- - - -------
+​ ​ For the Year Ended
+​ ​ December 31,
+​ 2022 2021 2020
+Net cash provided by operating activities ​ $ 651.1 ​ $ 596.8 ​ $ 1,458.8
+Net cash used in investing activities ​ (835.1) ​ (352.7) ​ (430.5)
+Net cash provided by (used in) financing activities ​ 81.7 ​ (200.3) ​ (201.7)
+Effect of foreign currency exchange rate changes on cash, cash equivalents, and restricted cash and cash equivalents ​ (10.0) ​ (9.1) ​ 1.6
+(Decrease) increase in cash, cash equivalents, and restricted cash and cash equivalents ​ $ (112.3) ​ $ 34.7 ​ $ 828.2
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+​ ​ As of December 31,
+​ ​ 2022 2021 2020
+Reconciliation of cash, cash equivalents, and restricted cash and cash equivalents: ​ ​ ​ ​ ​ ​ ​ ​ ​
+Cash and cash equivalents ​ $ 432.7 ​ $ 341.9 ​ $ 245.4
+Restricted cash and cash equivalents (margin deposits and clearing funds) ​ ​ 530.3 ​ ​ 745.9 ​ ​ 812.1
+Restricted cash and cash equivalents (included in other current assets) ​ ​ 4.2 ​ ​ 4.4 ​ ​ —
+Customer bank deposits (included in margin deposits and clearing funds) ​ ​ 12.7 ​ ​ — ​ ​ —
+Total ​ $ 979.9 ​ $ 1,092.2 ​ $ 1,057.5
+
+​
+Net Cash Flows Provided by Operating Activities
+During the year ended December 31, 2022, net cash provided by operating activities was $416.1 million higher than net income. The variance is primarily attributable to the adjustment for goodwill impairment of $460.9 million, the adjustment for depreciation and amortization expense of $166.8 million, and the change in Section 31 fees payable of $106.3 million, partially offset by the change in restricted cash and cash equivalents of $217.5 million, driven by the change in margin and clearing funds related to Cboe Clear Europe for the year ended December 31, 2022, and the benefit for deferred income taxes of $155.7 million.
+Net cash flows provided by operating activities were $651.1 million and $596.8 million for the years ended December 31, 2022 and 2021, respectively. The change in net cash flows provided by operating activities was primarily due to the adjustment for goodwill impairment and the change in Section 31 fees payable, partially offset by the change in net income, the change in restricted cash and cash equivalents, driven by margin deposits and clearing funds related to Cboe Clear Europe, the change in benefit for deferred income taxes, and the change in accounts receivable.
+
+89
+
+Table of Contents
+
+Net cash provided by operating activities was $67.8 million higher than net income for the fiscal year ended December 31, 2021. The variance is primarily attributable to the adjustment for depreciation and amortization expense of $167.4 million, the change in accounts payable and accrued liabilities of $45.0 million, and the change in unrecognized tax benefits of $33.2 million, partially offset by the change in Section 31 fees payable of $112.1 million and the change in restricted cash and cash equivalents, driven by a $66.2 million decrease in margin deposits and clearing funds related to Cboe Clear Europe for the year ended December 31, 2021.
+Net cash provided by operating activities was $596.8 million and $1,458.8 million for the years ended December 31, 2021 and 2020, respectively. The change in net cash flows provided by operating activities was primarily due to the change in restricted cash and cash equivalents, driven by margin deposits and clearing funds related to Cboe Clear Europe, as well as the change in Section 31 fees payable, partially offset by the change in accounts receivable, the change in net income, the change in the bargain purchase gain, and the change in provision for deferred income taxes for the year ended December 31, 2021 compared to the year ended December 31, 2020.
+Net Cash Flows Used in Investing Activities
+During the year ended December 31, 2022, net cash used in investing activities primarily consisted of acquisitions, net of cash acquired of $708.3 million, purchases of available-for-sale financial investments of $104.7 million, and purchases of property and equipment and leasehold improvements of $59.8 million, partially offset by proceeds from maturities of available-for-sale financial investments of $51.2 million.
+Net cash flows used in investing activities were $835.1 million and $352.7 million for the years ended December 31, 2022 and 2021, respectively. The variance is primarily due to the change in acquisitions, net of cash acquired, and the change in proceeds from maturities of available-for-sale financial investments, partially offset by the change in contributions to investments for the year ended December 31, 2022 compared to the year ended December 31, 2021.
+During the year ended December 31, 2021, net cash used in investing activities primarily consisted of contributions to investments of $209.8 million, acquisitions, net of cash acquired of $151.5 million, and purchases of available-for-sale financial investments of $101.2 million, partially offset by proceeds from maturities of available-for-sale financial investments of $160.2 million.
+Capital expenditures are expected to be in the range of $60.0 million to $66.0 million, reflecting expenditures associated with the Company’s ongoing capacity and technology-related investments, as well as continued integration of Cboe Asia Pacific and global expansion of data and access solutions.
+Net Cash Flows Provided by (Used in) Financing Activities
+During the year ended December 31, 2022, net cash provided by financing activities primarily consisted of proceeds from the long-term debt issuance of $663.6 million, partially offset by principal repayments of long-term debt of $220.0 million, cash dividends on common stock, share repurchases, and payments of contingent consideration related to acquisitions.
+Net cash flows provided by (used in) financing activities were $81.7 million and ($200.3) million for the years ended December 31, 2022 and 2021, respectively. The variance is primarily due to proceeds from the long-term debt issuance, partially offset by principal repayments of long-term debt, the change in payments of contingent consideration related to acquisitions, the change in share repurchases, and the change in cash dividends on common stock.
+Net cash flows used in financing activities totaled $200.3 million for the year ended December 31, 2021. During the year ended December 31, 2021, net cash used in financing activities primarily consisted of cash dividends paid on common stock of $193.3 million and share repurchases of $81.3 million, partially offset by proceeds from long-term debt of $110.0 million.
+For the year ended December 31, 2020, the Company received proceeds from long-term debt of $493.7 million, of which $70.0 million was used to pay down the revolving credit facility draw taken in the third quarter of 2020, repurchased $349.1 million of common stock, paid dividends totaling $170.6 million, and paid down $155.0 million of long-term debt.
+
+90
+
+Table of Contents
+
+Financial Assets
+The following summarizes our financial assets excluding margin deposits and clearing funds as of December 31, 2022, 2021 and 2020 (in millions):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+--------------------------------------- - ------------------ ------ ---- - ------ - - -------
+​ ​ As of December 31,
+​ 2022 2021 2020
+Cash and cash equivalents ​ $ 432.7 ​ $ 341.9 ​ $ 245.4
+Financial investments ​ 91.7 ​ 37.1 ​ 92.4
+Less deferred compensation plan assets ​ ​ (27.5) ​ ​ (28.0) ​ ​ (24.5)
+Less cash collected for Section 31 fees ​ ​ (93.7) ​ ​ (25.9) ​ ​ (103.0)
+Adjusted cash (1) ​ $ 403.2 ​ $ 325.1 ​ $ 210.3
+
+(1) Adjusted cash is a non-GAAP measure and represents cash and cash equivalents plus financial investments, minus deferred compensation plan assets and cash collected for Section 31 fees. We have presented adjusted cash because we consider it an important supplemental measure of our liquidity and believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies.
+
+Debt
+​
+The following summarizes our debt obligations as of December 31, 2022, 2021 and 2020 (in millions):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------------------------- - ------------------ ------- ---- - ------- - - -------
+​ ​ As of December 31,
+​ 2022 2021 2020
+Term Loan Agreement ​ $ 305.0 ​ $ 160.0 ​ $ 70.0
+3.650% Senior Notes ​ 650.0 ​ 650.0 ​ 650.0
+1.625% Senior Notes ​ ​ 500.0 ​ ​ 500.0 ​ ​ 500.0
+3.000% Senior Notes ​ ​ 300.0 ​ ​ — ​ ​ —
+Revolving Credit Agreement ​ ​ — ​ ​ — ​ ​ —
+Cboe Clear Europe Credit Facility ​ ​ — ​ ​ — ​ ​ —
+Less unamortized discount and debt issuance costs ​ ​ (13.0) ​ ​ (10.7) ​ ​ (16.1)
+Total debt ​ $ 1,742.0 ​ $ 1,299.3 ​ $ 1,203.9
+
+​
+At December 31, 2022, we were in compliance with the covenants of our debt agreements.
+In addition to the debt outstanding, as of December 31, 2022, we had an additional $400.0 million available through our revolving credit facility, with the ability to borrow another $200.0 million by increasing the commitments under the facility. Together with adjusted cash, we had $1.0 billion available to fund our operations, capital expenditures, potential acquisitions, debt repayments and any dividends, net of regulatory capital requirements, as of December 31, 2022.
+Dividends
+The Company’s expectation is to continue to pay dividends. The decision to pay a dividend, however, remains within the discretion of the Company's Board of Directors and may be affected by various factors, including our earnings, financial condition, capital requirements, level of indebtedness and other considerations our Board of Directors deems relevant. Future debt obligations and statutory provisions, among other things, may limit, or in some cases prohibit, our ability to pay dividends.
+Share Repurchase Program
+In 2011, the Board of Directors approved an initial authorization for the Company to repurchase shares of its outstanding common stock of $100 million and subsequently approved additional authorizations, for a total authorization of $1.6 billion. The program permits the Company to purchase shares through a variety of methods, including in the open market or through privately negotiated transactions, in accordance with applicable securities laws. It does not obligate the Company to make any repurchases at any specific time or situation. Share repurchases are repurchased to the Company’s Treasury stock and ultimately retired or they are available to be redistributed.
+Under the program, for the year ended December 31, 2022, the Company repurchased 876,238 shares of common stock at an average cost per share of $115.20, totaling $100.9 million. Since inception of the program through December
+
+91
+
+Table of Contents
+
+31, 2022, the Company has repurchased 18,948,367 shares of common stock at an average cost per share of $70.30, totaling $1.3 billion. The Company retired 744,127 and 18,072,129 shares of treasury stock in the years ended December 31, 2022 and 2021, respectively.
+On August 16, 2022, President Biden signed into law H.R. 5376 (commonly known as the “Inflation Reduction Act of 2022” or simply the “IRA”). Tax measures contained in the new law include, among other items, an excise tax of 1% on corporate stock buy-backs. The IRA imposes a new 1% excise tax on repurchases of stock by domestic corporations with stock traded on established securities markets. The amount on which the tax is imposed is reduced by the value of any stock issued by such corporation during the tax year and the tax generally applies to stock buy-back transactions occurring after December 31, 2022. This new tax is not expected to result in a material impact to the Company.
+As of December 31, 2022, the Company had $217.9 million of availability remaining under its existing share repurchase authorizations.
+Lease and Obligations
+The Company currently leases additional office space, data centers and remote network operations center, with lease terms remaining from 5 months to 174 months as of December 31, 2022. Additionally, in October 2021, the Company signed a new lease that commenced in February 2022 for a new principal office space in Amsterdam. See Note 24 (“Leases”) to the consolidated financial statements for additional information.
+Total rent expense related to current and former lease obligations for the years ended December 31, 2022, 2021 and 2020 totaled $30.0 million, $25.6 million and $20.2 million, respectively. In addition to our lease obligations, we have contractual obligations related to certain operating leases, data and telecommunications agreements, and our long-term debt outstanding.
+Purchase obligations include our estimate of the minimum outstanding obligations under agreements to purchase goods or services that we believe are enforceable and legally binding and that specify all significant terms, including fixed or minimum quantities to be purchased; fixed or minimum and maximum amounts to be paid; and the approximate timing of the transaction. Purchase obligations include certain licensing agreements with various licensors which contain annual minimum fee requirements as well as payments calculated using agreed upon contract rates and reported cleared volumes. Purchase obligations exclude agreements that are cancellable at any time without penalty.
+We have excluded from the contractual obligations listed below $543.0 million in cash margin deposits and clearing funds related to Cboe Clear Europe and Cboe Clear Digital. Clearing participants of Cboe Clear Europe are required to make deposits to a clearing fund. The cash deposits made by clearing participants are recorded in the consolidated balance sheet as current assets with equal and offsetting current liabilities. See Note 14 (“Clearing Operations”) to the consolidated financial statements for additional information on Cboe Clear Europe and Cboe Clear Digital and the margin deposits and clearing funds.
+Future minimum payments under these leases and agreements were as follows as of December 31, 2022:
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+-------------------------- - ----- ---------------------- - ------ --------- - ------ ---------
+​ ​ ​ Payments Due by Period
+​ ​ ​ ​ ​ ​ Less than ​ ​ More than
+​ Total ​ 1 year ​ 1 year
+
+Contractual Obligations ​ ​
+Operating leases ​ $ 156.7 ​ $ 22.4 ​ $ 134.3
+Purchase obligations ​ ​ 883.8 ​ ​ 71.3 ​ ​ 812.5
+Principal payments of debt ​ 1,755.0 ​ 305.0 ​ 1,450.0
+Interest payments on debt ​ 257.3 ​ 54.9 ​ 202.4
+Total ​ $ 3,052.8 ​ $ 453.6 ​ $ 2,599.2
+
+​
+Commercial Commitments and Contractual Obligations
+As of December 31, 2022, our commercial commitments and contractual obligations included operating leases, data and telecommunications agreements, equipment leases, our long-term debt outstanding, contingent considerations, software development activities and other obligations. See Note 23 (“Commitments, Contingencies, and Guarantees”) to the consolidated financial statements for a discussion of commitments and contingencies, Note 12 (“Debt”) for a
+
+92
+
+Table of Contents
+
+discussion of the outstanding debt, Note 14 (“Clearing Operations”) for information on Cboe Clear Europe and Cboe Digital’s clearinghouse exposure guarantees, and Note 24 (“Leases”) for discussion on operating leases and equipment leases.
+Guarantees
+We use Wedbush and Morgan Stanley to clear our routed equities transactions for our U.S. Equities exchanges. Wedbush and Morgan Stanley guarantee the trade until one day after the trade date, after which time the National Securities Clearing Corporation (“NSCC”) provides a guarantee. The BIDS Trading ATS platform delivers matched trades to BofA Securities, Inc. (“BOA”), which delivers the matched trades to the NSCC. BOA guarantees the trade until one day after the trade date, after which time the NSCC provides a guarantee. In the case of failure to perform on the part of Wedbush or Morgan Stanley on routed transactions for our U.S. Equities exchanges, we provide the guarantee to the counterparty to the trader. In the case of failure to perform on the part of BOA on transactions for the BIDS Trading ATS platform, BIDS has obligations to the counterparties to satisfy the trades. OCC acts as a central counterparty on all transactions in listed equity options in our Options segment, and as such, guarantees clearance and settlement of all of our options transactions. We believe that any potential requirement for us to make payments under these guarantees is remote and accordingly, have not recorded any liability in the consolidated financial statements for these guarantees. Similarly, with respect to trades in U.S. listed equity options and futures occurring on Cboe Options, C2, BZX, EDGX, and CFE, we deliver matched trades of our customers to the OCC, which acts as a central counterparty on all transactions occurring on these exchanges and, as such, guarantees clearance and settlement of all of those matched options and futures trades. With respect to Canadian equities, we deliver matched trades of our customers to The Canadian Depository for Securities, which acts as a central counterparty on all transactions occurring on MATCHNow and NEO and, as such, guarantees clearance and settlement of all of our matched Canadian equities trades. With respect to Australian equities and derivatives, we deliver matched trades of our customers to ASX Clear Pty Ltd and ASX Settlement Pty Ltd. ASX Clear Pty Ltd acts as a central counterparty on all transactions occurring on Cboe Australia and, as such, guarantees clearance and settlement on all of our matched trades in Australia. With respect to Japanese equities, we deliver matched trades of our customers to the Japanese Securities Clearing Corporation, which acts as a central counterparty on all transactions occurring on Cboe Japan and, as such, guarantees clearance and settlement on all of our matched trades in Japan.
+CRITICAL ACCOUNTING ESTIMATES
+The preparation of consolidated financial statements in conformity with U.S. GAAP requires our management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of the amounts of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ materially from those estimates. On an ongoing basis, the Company evaluates its estimates, including those related to areas that require a significant level of judgment or are otherwise subject to an inherent degree of uncertainty. The Company bases its estimates on historical experience, observance of trends in particular areas, information available from outside sources and various other assumptions that are believed to be reasonable under the circumstances. Information from these sources form the basis for making judgments about the carrying values of assets and liabilities that may not be readily apparent from other sources.
+We have identified the estimates below as critical to our business operations and the understanding of our results of operations. The impact of, and any associated risks related to, these estimates on our business operations is discussed throughout "Management's Discussion and Analysis of Financial Condition and Results of Operations." For a detailed discussion on these estimates and other accounting policies, see Note 2 (“Summary of Significant Accounting Policies”) to the consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K.
+Goodwill and Other Intangible Assets
+Description
+Our acquisitions of Bats, Silexx Financial Systems, LLC (“Silexx”), Livevol, Inc. (“LiveVol”), Hanweck, FT Options, Trade Alert, MATCHNow, BIDS Holdings, Cboe Asia Pacific, Cboe Digital, and NEO resulted in the recording of goodwill and other intangible assets, while our acquisition of Cboe Clear Europe, resulted in a bargain purchase gain and other intangible assets. In accordance with FASB Accounting Standards Codification (“ASC”) 350 – Intangibles – Goodwill and
+
+93
+
+Table of Contents
+
+Other, we test the carrying values of goodwill and indefinite-lived intangible assets for impairment at least annually, or more frequently when events or changes in circumstances signal indicators of impairment are present.
+Judgments and Uncertainties
+The estimated fair values of our reporting units are based on the market approach and the income approach (using discounted estimated future cash flows). The estimated fair values of indefinite-lived intangibles are based on the cost method and income approach. The discounted estimated future cash flow analysis requires judgments about the discount rate, forecasted revenue growth rate, and operating expenses, that are inherent in these fair value estimates over the estimated remaining operating period. Additionally, the analysis contains uncertainty surrounding future events. As such, actual results may differ from these estimates and lead to a revaluation of our goodwill and indefinite-lived intangible assets.
+Effect if Actual Results Differ from Assumptions
+​
+If updated estimates indicate that the fair value of goodwill or any indefinite-lived intangibles is less than the carrying value of the asset, an impairment charge is expected to be recorded in the consolidated statements of income in the period of the change in estimate, which could result in a material change to the consolidated financial statements.
+​
+Following the acquisition of Cboe Digital in the quarter ended June 30, 2022, negative events and trends in the broader digital asset environment emerged, such as deleveraging and bankruptcies, and certain negative trends in the broader digital asset environment that started in late 2021 intensified, such as the decline in digital asset prices, overall market activity, and market capitalization. Additionally, following the acquisition of Cboe Digital , the efforts to syndicate minority ownership interests in Cboe Digital to potential investors during the quarter ended June 30, 2022 became more challenging, and the outlook for the Digital segment’s future market growth was negatively impacted. The Company considered these developments, in particular the syndication efforts during the quarter ended June 30, 2022, to be potential indications of impairment and performed an interim impairment test for the goodwill recognized in the Digital reporting unit during the quarter ended June 30, 2022. The Company concluded that the carrying value of the reporting unit exceeded its estimated fair value, which was based on the income approach and corroborated with the market approach, and recorded a goodwill impairment charge of $460.1 million in the consolidated statements of income during the quarter ended June 30, 2022, and also recognized a deferred tax asset of $116.2 million. This deferred tax asset, resulting from the excess of tax-deductible goodwill over book goodwill, relates to future tax deductions the Company expects to realize to reduce potential tax payments on future income. As a result, the carrying value of Cboe Digital decreased by $343.9 million, to $220.0 million as of June 30, 2022. The Company also performed testing over the intangible assets recognized as a result of the Cboe Digital acquisition during the quarter ended June 30, 2022, and based on the results of the assessments, determined there was no impairment required as the fair value approximated the carrying value. No other long lived assets were recognized as a result of the acquisition and subject to further assessment.
+​
+As a result of the finalization of the net working capital calculation associated with the acquisition of Cboe Digital during the quarter ended September 30, 2022, the Company recorded additional goodwill of $0.8 million. Subsequently, the Company concluded that the indicators of impairment outlined in the previous paragraph continued to be relevant and recorded an additional goodwill impairment charge of $0.8 million in the consolidated statements of income for the three months ended September 30, 2022, resulting in the write-down of the carrying value of the goodwill associated with the acquisition of Cboe Digital to zero.
+​
+As a result of the Company’s annual impairment analysis, completed in the fourth quarter of 2022, in which all reporting units estimated fair value exceeded their carrying value, we do not consider our goodwill and indefinite-lived intangibles to have a significant risk of additional impairment.
+​
+Income Taxes
+​
+Description
+The Company’s consolidated global income tax provision, deferred tax assets and liabilities, valuation allowances, and liabilities for unrecognized tax benefits are determined through the interpretation of tax laws and assumptions of future events to calculate an expectation of future tax consequences.
+​
+
+94
+
+Table of Contents
+
+Judgments and Uncertainties
+On an ongoing basis, the Company evaluates its tax estimates and judgments. This evaluation is based on factors including historical experience, such as the conclusions of examinations by tax authorities, changes in tax laws or rates, new examination activity, and results of any related legal processes. We use judgment in the evaluation of uncertain tax positions and the estimation of unrecognized tax benefits when determining the largest amount greater than 50% likely to be realized upon ultimate settlement with the taxing authority, assessing the likelihood of the benefit being realized upon settlement, and the calculating expected ultimate settlement amount.
+Effect if Actual Results Differ from Assumptions
+Significant changes in these estimates or judgments may result in an increase or decrease to our tax provision in a future period. Additionally, it is possible that the ultimate settlement may differ from the liabilities for unrecognized tax benefits currently reported if tax authorities ultimately reach a conclusion that differs from the Company’s expectation. We believe assumptions made regarding income taxes to be reasonable and do not believe any change in the judgments made by management would result in a material change to the consolidated financial statements.
+RECENT ACCOUNTING PRONOUNCEMENTS
+See Note 3 (“Recent Accounting Pronouncements”) to the consolidated financial statements for further discussion of recently adopted and recently issued accounting pronouncements that are applicable to the Company.
+
+--------------------------------------------------------------------------------
+CROSS-REFERENCES
+--------------------------------------------------------------------------------
+
+[as discussed in Note 1]:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
+
+[See Note 12]:
+Note 12 - Leases 81
+
+[See Note 12]:
+Note 12 - Leases 81
+
+[refer to Note 12]:
+Note 12 - Leases 81
+
+[See Note 18]:
+NOTE 18. LEASES We lease certain facilities and data centers under non-cancellable operating lease arrangements that expire at various dates through 2032. We also have one land lease that expires in 2091. Our lease agreements do not contain any material residual value guarantees, material variable payment provisions or material restrictive covenants. Operating lease expense was $121 million for fiscal 2022 and $119 million for both fiscal 2021 and 2020. We recognized operating lease expense in cost of revenue and operating expenses in our Consolidated Statements of Income. Our operating lease expense includes variable lease costs and is net of sublease income, both of which are not material. Supplemental cash flow information for fiscal 2022, 2021 and 2020 related to operating leases was as follows: -------------------------------------------------------------------------------- - ---- ---- - ---- - -- (in millions) 2022 2021 2020 Cash paid for amounts included in the measurement of operating lease liabilities $ 107 $ 116 $ 99 Right-of-use assets obtained in exchange for operating lease liabilities $ 59 $ 60 $ 52 The weighted-average remaining lease term and weighted-average discount rate for our operating lease liabilities as of December 2, 2022 were 7 years and 2.37%, respectively. As of December 2, 2022, the maturities of lease liabilities under operating leases were as follows: ---------------------------------- -------------------- --- (in millions) Fiscal Year Operating Leases (1) 2023 $ 95 2024 78 2025 74 2026 67 2027 67 Thereafter 167 Total lease liabilities $ 548 Less: Imputed interest 44 Present value of lease liabilities $ 504 _________________________________________ (1) Legally binding minimum lease payments for leases signed but not yet commenced as of December 2, 2022 were not material. 88 ADOBE INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+[See Note 24]:
+Note 24 - Reportable Operating Segments and Geographic Operations 150
+
+[See Note 14]:
+Note 14 - Arrangements with Off-Balance Sheet Risk 88
+
+[See Note 23]:
+NOTE 23: COMMITMENTS AND CONTINGENT LIABILITIES The Company is involved in various litigation, claims and administrative proceedings, including those related to environmental (including asbestos) and legal matters. In accordance with ASC 450, Contingencies, the Company records accruals for loss contingencies when it is probable that a liability will be incurred and the amount of the loss can be reasonably estimated. These accruals are generally based upon a range of possible outcomes. If no amount within the range is a better estimate than any other, the Company accrues the minimum amount. In addition, these estimates are reviewed periodically and adjusted to reflect additional information when it becomes available. The Company is unable to predict the final outcome of the following matters based on the information currently available, except as otherwise noted. However, the Company does not believe that the resolution of any of these matters will have a material adverse effect upon the Company's competitive position, results of operations, cash flows or financial condition. Environmental Matters The Company's operations are subject to environmental regulation by various authorities. The Company has accrued for the costs of environmental remediation activities, including but not limited to, investigatory, remediation, operating and maintenance costs and performance guarantees. The most likely cost to be incurred is accrued based on an evaluation of currently available facts with respect to individual sites, including the technology required to remediate, current laws and regulations and prior remediation experience. As of December 31, 2022 and 2021, the outstanding liability for environmental obligations are as follows: -------------------------------------------------------------- ---- --- ---- --- - --- (In millions) 2022 2021 Environmental reserves included in Accrued liabilities $ 24 $ 29 Environmental reserves included in Other long-term liabilities 211 191 Tot...
+
+[see Note 2]:
+NOTE 2. REVENUE Segment Information We report segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of our reportable segments. Our Chief Executive Officer, the chief operating decision maker, reviews revenue and gross margin information for each of our reportable segments, but does not review operating expenses on a segment by segment basis. In addition, with the exception of goodwill, we do not identify or allocate our assets by the reportable segments. Our business is organized into the following reportable segments: *Digital Media--Our Digital Media segment provides products, services and solutions that enable individuals, teams and enterprises to create, publish and promote their content anywhere and accelerate their productivity by modernizing how they view, share, engage with and collaborate on documents and creative content. Our customers include creative professionals, including photographers, video editors, graphic and experience designers and game developers, communicators, including content creators, students, marketers and knowledge workers, and consumers. *Digital Experience--Our Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize and optimize customer experiences that span from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers and executives across the C-suite. *Publishing and Advertising--Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web application development, high-end printing and our Adobe Advertising Cl...
+
+[See Note 3]:
+NOTE 3. ACQUISITIONS Figma On September 15, 2022, we entered into a definitive agreement under which we intend to acquire Figma, Inc. ("Figma") for approximately $20 billion, comprised of approximately half cash and half stock, subject to customary purchase price adjustments. Approximately 6 million additional restricted stock units will be granted to Figma's Chief Executive Officer and employees that will vest over four years subsequent to closing. The transaction is subject to regulatory approvals and customary closing conditions, and is expected to close in 2023. We will be required to pay Figma a reverse termination fee of $1 billion if the transaction fails to receive regulatory clearance, assuming all other closing conditions have been satisfied or waived, or if it fails to close within 18 months from September 15, 2022. Figma is a privately held company that provides a web-first collaborative product design platform. Following the closing, we intend to integrate Figma into our Digital Media reportable segment for financial reporting purposes. Frame.io On October 7, 2021, we completed the acquisition of Frame.io, a privately held company that provides a cloud-based video collaboration platform, for approximately $1.24 billion, primarily in cash consideration. The financial results of Frame.io have been included in our Consolidated Financial Statements since the date of the acquisition. Frame.io is reported as part of our Digital Media reportable segment. During fiscal 2022, we recorded purchase accounting adjustments that were not material based on changes to management's estimates and assumptions primarily in regards to the total purchase price and its related impact to goodwill. The table below represents the final purchase price allocation to total identifiable intangible assets acquired and net liabilities assumed based on their respective estimated fair values as of October 7, 2021. --------------------------------------- ------ ----- --------------------...
+
+['s chief operating decision-maker reviews and operates the business, as discussed in Note 1 (“Nature of Operations”). Segment Eliminations totals based on the decision that those activities should not be used to evaluate the operating performance of the segments; however, operating expenses that relate to activities of a specific segment have been allocated to that segment.
+Options. The Options segment includes options on market indices (“index options”), as well as on the stocks of individual corporations (“equity options”), and options on ETPs, such as exchange-traded funds (“ETFs”) and exchange-traded notes (“ETNs”), which are “multi-listed” options and listed on a non-exclusive basis. These options are eligible to trade, as applicable, on Cboe Options, C2, BZX, EDGX, and/or other U.S. national security exchanges. Cboe Options is the Company’s primary options market and offers trading in listed options through a single system that integrates electronic trading and traditional open outcry trading on the Cboe Options trading floor in Chicago. C2 Options, BZX Options, and EDGX Options are all-electronic options exchanges, of proprietary options market data, index licensing, and access and capacity services.
+North American Equities. The North American Equities segment includes listed U.S. equities and ETP transaction services services.
+Europe and Asia Pacific. The Europe and Asia Pacific segment includes the pan-European listed equities and derivatives transaction services, ETPs, exchange-traded commodities, and international on RMs and clearing activities of Cboe Clear Europe, as well as the equities transaction services of Cboe Australia and Cboe Japan, operators of trading venues in Australia and Japan, respectively. This auctions book, and Cboe BIDS
+
+65
+
+Table of Contents
+
+Europe, a Large-in-Scale (“LIS”) trading negotiation facility for UK symbols. Cboe NL, launched in October 2019 and based in Amsterdam, operates similar services.
+Futures. The Futures segment includes transaction services provided by CFE, a fully electronic futures exchange, which includes offerings for trading of VIX futures and other futures products, the licensing of proprietary market data, as well as access and capacity services.
+Global FX. The Global FX segment includes institutional FX trading services that occur on the Cboe FX fully electronic securities executed by Cboe Fixed Income, as well as revenue generated from the licensing of proprietary market data and from access and capacity services.
+Digital. The Digital segment includes Cboe Digital, market data and from access and capacity services.
+General Factors Affecting Results of Operations
+In broad terms, our business performance is impacted by a number of drivers, including macroeconomic particularly in the financial services industry. We believe our future revenues and net income will continue to be influenced by a number of domestic and international economic trends, including:
+​
+ ● trading volumes on our proprietary products such as VIX options and futures and SPX options;
+
+ ● trading volumes in listed equity securities, options, futures, and ETPs in North America, Europe, and Asia Pacific, clearing volumes in listed equity securities and ETPs in Europe, volumes in listed equity options, volumes in digital assets, and volumes in institutional FX trading;
+
+ ● the demand for and pricing structure of the U.S. tape plan market data distributed by the SIPs, which determines the pool size of the industry market data fees we receive based on our market share;
+
+ ● consolidation and expansion of our customers and competitors in the industry;
+
+ ● the demand for information about, or access to, our markets and products, which is dependent on the products we trade, our importance as a liquidity center, quality and integrity of our proprietary indices, and the quality and pricing of our data and access and capacity services;
+
+ ● continuing pressure in transaction fee pricing due to intense competition in the North American, European, and Asia Pacific markets;
+
+ ● significant fluctuations in foreign currency translation rates or weakened value of currencies; and
+
+ ● regulatory changes and obligations relating to market structure, digital assets and increased capital requirements, and those which affect certain types of instruments, transactions, products, pricing structures, capital market participants or reporting or compliance requirements.
+
+A number of significant structural, political and monetary issues, global conflicts and global pandemics continue to confront the global economy, and instability could continue, resulting in an increased or subdued level of inflation, market volatility, supply chain constraints, changes in trading volumes and greater uncertainty. Inflationary increases in our expenses, such as compensation inflation, and increased costs related to CAT may have an adverse effect on our financial results.
+Components of Revenues
+Beginning in the first quarter of 2022, the Company updated the financial statement captions within its consolidated statements of income to better reflect the Company’s diversified products, expansive geographical reach, and overall business strategy. The changes do not have a financial impact on the Company’s reported revenue, revenues less cost of revenues, reported net income, or cash flows from operations.
+​
+
+66
+
+Table of Contents
+
+The components of revenues which include the above changes are described below:
+Cash and Spot Markets
+Revenue aggregated into cash and spot markets includes associated transaction and clearing fees, the portion of market data fees relating to associated U.S. tape plan market data fees, associated regulatory fees, and associated other revenue from the Company’s North American Equities, Europe and Asia Pacific, Global FX, and Digital segments.
+Data and Access Solutions
+Revenue aggregated into data and access solutions includes access and capacity fees, proprietary market data fees, and associated other revenue across the Company’s six segments.
+Derivatives Markets
+Includes associated transaction and clearing fees, the portion of market data fees relating to associated U.S. tape plan market data fees, associated regulatory fees, and associated other fees from the Company’s Options, Futures, Europe and Asia Pacific, and Digital segments.
+Components of Cost of Revenues
+Liquidity Payments
+Liquidity payments are directly correlated a cost of revenues.
+Routing and Clearing
+Various rules require that U.S. options and equities trade executions occur at the NBBO displayed by any exchange. Linkage order routing consists of the cost incurred Equities Off-Exchange order execution, as well as settlement costs incurred for the settlement process executed by Cboe Clear Europe and Cboe Clear Digital.
+Section 31 Fees
+Exchanges under the authority of the SEC (Cboe Options, C2, BZX, BYX, EDGX, and EDGA as well as CFE to the extent that CFE offers trading in security futures products) are assessed fees pursuant to the Exchange Act designed to recover the costs to the U.S. government of supervision and regulation of securities markets and securities professionals. We treat these fees as a pass-through charge to customers executing eligible listed equities Cboe Europe, Cboe NL, BIDS, MATCHNow, Cboe FX, Cboe Australia, Cboe Japan, Cboe Digital, and NEO are not U.S. national securities exchanges, and accordingly are not charged Section 31 fees.
+Royalty Fees and Other Cost of Revenues
+Royalty fees primarily consist of license fees paid by us for the use of underlying indices in our proprietary products usually based on contracts traded. The Company has licenses with the owners of the S&P 500 Index, S&P 100 Index and certain other S&P indices, FTSE Russell indices, the DJIA, MSCI, and certain other index products. This category also
+
+67
+
+Table of Contents
+
+includes fees related to the dissemination of market data related to S&P indices and other products through Cboe Streaming Market Indices (“CSMI”).
+Other cost of revenues primarily consists of interest expense from clearing operations, electronic access permit fees and other miscellaneous costs associated with other revenue.
+Components of Operating Expenses
+Compensation and Benefits
+Compensation and benefits expense related to equity awards. Stock-based compensation can vary depending on the quantity and fair value of the award on the date of grant and the related service period.
+Depreciation and Amortization
+Depreciation and amortization expense results from the depreciation of long-lived assets purchased, the amortization of purchased and internally developed software, and the amortization of intangible assets.
+Technology Support Services
+Technology support services consists primarily of costs related to the maintenance of computer equipment supporting our system architecture, circuits supporting our wide area network, support for production software, operating system license and support fees, fees paid to information vendors for displaying data and off-site system hosting fees.
+Professional Fees and Outside Services
+Professional fees and outside services consist primarily of consulting services, which include supplemental staff activities primarily related to systems development and maintenance, legal, regulatory and audit, and tax advisory services.
+Travel and Promotional Expenses
+Travel and promotional expenses primarily consist of advertising, costs for special events, sponsorship of industry conferences, options education seminars and travel-related expenses.
+Facilities Costs
+Facilities costs primarily consist of expenses related to owned and leased properties including rent, maintenance, utilities, real estate taxes and telecommunications costs.
+Acquisition-Related Costs
+Acquisition-related costs relate to acquisitions and other strategic opportunities. The acquisition-related costs include fees for investment banking advisors, lawyers, accountants, tax advisors, public relations firms, severance and retention costs, capitalized software and facilities, and other external costs directly related to the mergers and acquisitions.
+Goodwill Impairment
+Goodwill impairment consists of charges to impair goodwill of our reporting units if the carrying value exceeds the implied fair value.
+​
+
+68
+
+Table of Contents
+
+Other Expenses
+Other expenses represent costs necessary to support our operations that are not already included in the above categories, including, but not limited to the impairment of digital assets held presented in intangible assets, net as part of the ordinary operations of the Digital segment and changes in contingent consideration.
+Non-Operating (Expenses) Income
+Income and expenses incurred through activities outside of our core operations are considered non-operating and are classified as other (expense) income. These activities primarily include interest earned on the investing of excess cash, interest expense related to outstanding debt facilities, dividend income, income and unrealized gains and losses related to investments held in a trust for the Company’s non-qualified retirement and benefit plans, realized gains and losses related to the Company’s previously held minority investments, equity earnings or losses from our investments in other business ventures, impairment of the Company’s investments, investment establishment costs associated with new business ventures, and loan forgiveness provided under the SBA’s Paycheck Protection Program (“PPP”). See Note 12 (“Debt”) for additional information regarding the PPP.
+RESULTS OF OPERATIONS
+The following are summaries of changes in financial performance and include certain non-GAAP financial measures. Management uses these non-GAAP measures internally in conjunction with GAAP measures to help evaluate our performance and to help make financial and operational decisions. These non-GAAP financial measures assist management in comparing our performance on a consistent basis for purposes of business decision making by removing the impact of certain items management believes do not reflect our underlying operations.
+We believe our presentation of these measures provides investors with greater transparency into financial measures used by management and is useful to investors for period-to-period comparisons of our ongoing operating performance.
+These non-GAAP financial measures are not presented in accordance with, or as an alternative to, GAAP financial measures and may be calculated differently from non-GAAP measures used by other companies, which reduces their usefulness as comparative measures. We encourage analysts, investors and other interested parties to use these non-GAAP measures as supplemental information to the GAAP financial measures included herein, including our consolidated financial statements, to enhance their analysis and understanding of our performance and in making comparisons. Please see the footnotes below for definitions, additional information, and reconciliations from the closest GAAP measure.
+​
+
+69
+
+Table of Contents
+
+Comparison of Years Ended December 31, 2022 and 2021
+Overview
+The following summarizes changes in financial performance for the year ended December 31, 2022, compared to the year ended December 31, 2022:
+
+(1) These are Non-GAAP figures for which reconciliations are provided below (in millions, except percentages, earnings per share, and as noted below).
+
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------------------- - ------------ ------- --------- - ---------- - ------ ------- - ---- -
+​ ​ Year Ended ​ ​ ​
+​ ​ December 31, ​ Increase/ ​ Percent
+​ 2022 2021 (Decrease) Change
+Total revenues ​ $ 3,958.5 ​ $ 3,494.8 ​ $ 463.7 ​ 13 %
+Total cost of revenues ​ 2,216.8 ​ 2,018.7 ​ 198.1 10 %
+Revenues less cost of revenues ​ 1,741.7 ​ 1,476.1 ​ 265.6 18 %
+Total operating expenses ​ 1,252.1 ​ 670.2 ​ 581.9 87 %
+Operating income ​ 489.6 ​ 805.9 ​ (316.3) (39) %
+Income before income tax provision ​ 432.9 ​ 756.1 ​ (323.2) (43) %
+Income tax provision ​ 197.9 ​ 227.1 ​ (29.2) (13) %
+Net income ​ $ 235.0 ​ $ 529.0 ​ $ (294.0) (56) %
+Basic earnings per share ​ $ 2.20 ​ $ 4.93 ​ $ (2.73) ​ (55) %
+Diluted earnings per share ​ ​ 2.19 ​ ​ 4.92 ​ ​ (2.73) ​ (55) %
+Organic net revenue (1) ​ $ 1,713.0 ​ $ 1,476.1 ​ $ 236.9 ​ 16 %
+EBITDA (2) ​ $ 655.2 ​ $ 969.2 ​ $ (314.0) (32) %
+EBITDA margin (3) ​ 37.6 % 65.7 % (28.1) % *
+Adjusted EBITDA (2) ​ $ 1,135.6 ​ $ 987.1 ​ $ 148.5 15 %
+Adjusted EBITDA margin (4) ​ 65.2 % 66.9 % (1.7) % *
+Adjusted earnings (5) ​ $ 739.8 ​ $ 648.8 ​ $ 91.0 14 %
+Adjusted earnings margin (5) ​ ​ 42.5 % ​ 44.0 % ​ (1.5) % ​ *
+Diluted weighted average shares outstanding ​ ​ 106.7 ​ ​ 107.2 ​ ​ (0.5) ​ (0) %
+Adjusted Diluted earnings per share (6) ​ $ 6.93 ​ $ 6.05 ​ $ 0.88 15 %
+
+* Not meaningful
+
+70
+
+Table of Contents
+
+(1) Organic net revenue is defined as revenues less cost of revenues excluding revenues less cost of revenues of any acquisition that has been owned for less than one year. Revenues from acquisitions that have been owned at least one year are considered organic and are no longer excluded from organic net revenue from either period for comparative purposes. Organic net revenue does not represent, and should not be considered as, an alternative to revenues less cost of revenues, or net revenue, as determined in accordance with GAAP. We have presented organic net revenue because we consider it an important supplemental measure of our performance and we use it as the basis for monitoring our operating financial performance before the effects of acquisitions. We also believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies. We believe that investors may find this non-GAAP measure useful in evaluating our performance compared to that of peer companies in our industry. Other companies may calculate organic net revenue differently than we do. Organic net revenue has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our results as reported under GAAP.
+
+​ ​ ​ ​ ​ ​ ​
+------------------------------------------ ------------ ------- ---- - ------- -
+​ Year Ended
+​ December 31,
+​ 2022 ​ 2021 ​
+Revenues less cost of revenues $ 1,741.7 ​ $ 1,476.1 ​
+Recent acquisitions: ​ ​ ​ ​ ​ ​
+Acquisition revenues less cost of revenues $ (28.7) ​ $ — ​
+Organic net revenue $ 1,713.0 ​ $ 1,476.1 ​
+
+​
+(2) EBITDA is defined as income before interest, income taxes, depreciation and amortization. Adjusted EBITDA is defined as EBITDA before acquisition-related costs, impairment of investment, gain on investment, investment establishment costs, impairment of goodwill, loan forgiveness, and change in contingent consideration. EBITDA and adjusted EBITDA do not represent, and should and believe that they are frequently used by analysts, investors and other interested parties in the evaluation of companies. In addition, we use adjusted EBITDA as a measure of operating performance 
+
+(3) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+(4) Adjusted EBITDA margin represents adjusted EBITDA divided by revenues less cost of revenues.
+
+(5) Adjusted earnings is defined as net income adjusted for amortization of purchased intangibles, acquisition-related costs, impairment of investment, gain on investment, investment establishment costs, impairment of goodwill, loan forgiveness, certain tax reserve changes, deferred tax re-measurements, change in contingent consideration, and net income or loss allocated to participating securities, net of the income tax effects of these adjustments. Adjusted earnings does not represent, and should not be considered as, an alternative to net income, as determined in accordance with GAAP. We have presented adjusted earnings because we consider it an important supplemental measure of our performance and we use it as the basis for monitoring our own core operating financial performance relative to other operators of exchanges. We also believe that it is frequently used by analysts, investors and other interested parties in the evaluation of companies. We believe that investors may find this non-GAAP measure useful in evaluating our performance compared to that of peer companies in our industry. Other companies may calculate adjusted earnings differently than we do. Adjusted earnings has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our results as reported under GAAP.
+
+(6) Adjusted diluted earnings per share represents adjusted earnings divided by diluted weighted average shares outstanding.
+
+71
+
+Table of Contents
+
+The following is a reconciliation of net income (loss) allocated to common stockholders to EBITDA and adjusted EBITDA (in millions):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+-------------------------------------------------- - ----------------------- ----- ----------------------- - ----------------------- - ------- ---- --------- - ------- - --------- ----- ----- - ------- - - ------ - - -------
+​ ​ Year Ended December 31,
+​ ​ 2022
+​ Options North American Equities Europe and Asia Pacific Futures Global FX Digital Corporate Total
+Net income (loss) allocated to common stockholders ​ $ 478.1 ​ $ 125.9 ​ $ 22.8 ​ $ 12.8 ​ $ 9.1 ​ $ (369.7) ​ $ (44.9) ​ $ 234.1
+Interest expense (income), net ​ — ​ (0.4) ​ 8.0 ​ — ​ (0.4) ​ — ​ 49.2 ​ 56.4
+Income tax provision (benefit) ​ 260.7 ​ 20.5 ​ 6.8 ​ 42.4 ​ 0.1 ​ (119.0) ​ (13.6) ​ 197.9
+Depreciation and amortization ​ 26.5 ​ 74.1 ​ 37.0 ​ 2.6 ​ 21.9 ​ 4.7 ​ — ​ 166.8
+EBITDA ​ 765.3 ​ 220.1 ​ 74.6 ​ 57.8 ​ 30.7 ​ (484.0) ​ (9.3) ​ 655.2
+Acquisition-related costs ​ — ​ 3.9 ​ 3.6 ​ — ​ — ​ 9.5 ​ 2.9 ​ 19.9
+Impairment of investment ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 10.6 ​ ​ 10.6
+Loan forgiveness ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ (1.3) ​ ​ — ​ ​ (1.3)
+Gain on investment ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ (7.5) ​ ​ (7.5)
+Goodwill impairment ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 460.9 ​ ​ — ​ ​ 460.9
+Investment establishment costs ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 3.0 ​ ​ 3.0
+Change in contingent consideration ​ ​ — ​ ​ (5.2) ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ (5.2)
+Adjusted EBITDA ​ $ 765.3 ​ $ 218.8 ​ $ 78.2 ​ $ 57.8 ​ $ 30.7 ​ $ (14.9) ​ $ (0.3) ​ $ 1,135.6
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+​ ​ Year Ended December 31,
+​ ​ 2021
+​ ​ Options North American Equities ​ Europe and Asia Pacific ​ Futures ​ Global FX ​ Digital ​ Corporate ​ Total
+Net income (loss) allocated to common stockholders ​ $ 364.7 ​ $ 133.5 ​ $ 18.6 ​ $ 34.9 ​ $ 2.6 ​ $ — ​ $ (27.0) ​ $ 527.3
+Interest expense, net ​ — ​ — ​ 12.4 ​ — ​ — ​ — ​ 35.0 ​ 47.4
+Income tax provision (benefit) ​ 171.3 ​ 22.1 ​ 26.5 ​ 30.9 ​ — ​ — ​ (23.7) ​ 227.1
+Depreciation and amortization ​ 29.4 ​ 75.7 ​ 35.1 ​ 2.9 ​ 24.3 ​ — ​ — ​ 167.4
+EBITDA ​ 565.4 ​ 231.3 ​ 92.6 ​ 68.7 ​ 26.9 ​ — ​ (15.7) ​ 969.2
+Acquisition-related costs ​ 0.3 ​ 2.8 ​ 1.4 ​ — ​ — ​ — ​ 11.1 ​ 15.6
+Impairment of investment ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 5.0 ​ ​ 5.0
+Change in contingent consideration ​ ​ — ​ ​ (2.7) ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ (2.7)
+Adjusted EBITDA ​ $ 565.7 ​ $ 231.4 ​ $ 94.0 ​ $ 68.7 ​ $ 26.9 ​ $ — ​ $ 0.4 ​ $ 987.1
+
+​
+The following is a reconciliation of net income allocated to common stockholders to adjusted earnings (in millions):
+​ ​ ​ ​ ​ ​ ​
+------------------------------------------------ - ----------------------- ------- ---- - ------
+​ ​ Year Ended December 31,
+​ 2022 2021
+Net income allocated to common stockholders ​ $ 234.1 ​ $ 527.3
+Amortization ​ 124.3 ​ 126.6
+Acquisition-related costs ​ 19.9 ​ 15.6
+Impairment of investment ​ ​ 10.6 ​ ​ 5.0
+Loan forgiveness ​ ​ (1.3) ​ ​ —
+Gain on investment ​ ​ (7.5) ​ ​ —
+Goodwill impairment ​ ​ 460.9 ​ ​ —
+Investment establishment costs ​ ​ 3.0 ​ ​ —
+Change in contingent consideration ​ ​ (5.2) ​ ​ (2.7)
+Increase (release) of tax reserves ​ ​ 48.5 ​ ​ (5.4)
+Tax effect of adjustments ​ (143.7) ​ (31.8)
+Deferred tax re-measurements ​ ​ (2.0) ​ ​ 14.6
+Net income allocated to participating securities ​ ​ (1.8) ​ ​ (0.4)
+Adjusted earnings ​ $ 739.8 ​ $ 648.8
+
+​
+​
+
+72
+
+Table of Contents
+
+The following summarizes changes in certain operational and financial metrics for the year ended December 31, 2022 compared to the year ended December 31, 2021:
+
+​
+
+73
+
+Table of Contents
+
+The following table includes operational and financial metrics for our Options, metrics for the year ended December 31, 2022 compared to the year ended December 31, 2021:
+​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+----------------------------------------------------------------------------- - ------------------------------------------------------------------- ------- --------- - ---------- - ------ ------- - ---- -
+​ ​ Year Ended ​ ​ ​ ​
+​ ​ December 31, ​ Increase/ ​ Percent ​
+​ 2022 2021 (Decrease) Change ​
+
+​ ​ (in millions, except percentages, trading days, and as noted below) ​
+Options: ​ ​
+Average daily volume (ADV) (in millions of contracts): ​ ​ ​ ​
+Market ADV ​ 41.1 ​ ​ 39.2 ​ ​ 1.9 5 %
+Total touched contracts (1) ​ 13.6 ​ ​ 12.1 ​ ​ 1.5 13 %
+Multi-listed contract ADV ​ ​ 10.8 ​ ​ 10.1 ​ ​ 0.7 ​ 7 %
+Index contract ADV ​ 2.8 ​ ​ 2.0 ​ ​ 0.8 44 %
+Number of trading days ​ ​ 251 ​ ​ 252 ​ ​ (1) (0) %
+Total Options revenue per contract (RPC) (2) ​ $ 0.234 ​ $ 0.192 ​ $ 0.042 22 %
+Multi-listed options RPC (2) ​ ​ 0.063 ​ ​ 0.067 ​ ​ (0.004) (6) %
+Index options RPC (2) ​ ​ 0.879 ​ ​ 0.832 ​ ​ 0.047 6 %
+Total Options market share ​ ​ 33.2 % ​ 30.8 % ​ 2.4 % ​ *
+Multi-listed options market share ​ ​ 28.2 % ​ 27.1 % ​ 1.1 % ​ *
+North American Equities: ​ ​ ​ ​ ​ ​
+U.S. Equities: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+U.S. Equities - Exchange: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADV: ​ ​ ​ ​ ​ ​
+Total touched shares (in billions) (1) ​ 1.7 ​ 1.7 ​ — (1) %
+Market ADV (in billions) ​ 11.9 ​ 11.4 ​ 0.5 4 %
+Market share ​ ​ 13.6 % ​ 14.2 % ​ (0.6) % ​ *
+U.S. Equities - Exchange (net capture per one hundred touched shares) (3) ​ $ 0.021 ​ $ 0.020 ​ $ 0.001 7 %
+U.S. ETPs: launches (number of launches) ​ 80 ​ ​ 117 ​ (37) (32) %
+U.S. ETPs: listings (number of listings) ​ 592 ​ ​ 539 ​ 53 10 %
+U.S. Equities - Off-Exchange: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADV: ​ ​ ​ ​ ​ ​
+Total touched shares (in millions) (1) ​ 90.4 ​ 83.0 ​ 7.4 9 %
+U.S. Equities - Off-Exchange (net capture per one hundred touched shares) (4) ​ $ 0.113 ​ $ 0.120 ​ $ (0.007) (6) %
+Trading days ​ ​ 251 ​ ​ 252 ​ ​ (1) ​ (0) %
+Canadian Equities: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADV (matched shares, in millions) (5) ​ ​ 91.8 ​ ​ 49.4 ​ ​ 42.4 ​ 86 %
+Trading days ​ ​ 250 ​ ​ 251 ​ ​ (1) ​ (0) %
+Net capture (per 10,000 touched shares, in Canadian dollars) (6) ​ ​ 4.966 ​ ​ 7.822 ​ ​ (2.856) ​ (37) %
+Europe and Asia Pacific: ​ ​ ​ ​ ​
+European Equities: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADNV: ​ ​ ​ ​ ​ ​ ​
+Matched ADNV (in billions) (7) ​ € 10.8 ​ € 7.7 ​ € 3.1 ​ 41 %
+Market ADNV (in billions) ​ ​ 46.2 ​ ​ 42.6 ​ ​ 3.6 ​ 8 %
+Trading days ​ 257 ​ 258 ​ ​ (1) ​ (0) %
+Market share ​ ​ 23.5 % ​ 18.1 % ​ 5.4 % ​ *
+Net capture (per matched notional value in basis points) (8) ​ ​ 0.231 ​ ​ 0.267 ​ ​ (0.036) ​ (14) %
+Cboe Clear Europe: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+Trades cleared (9) ​ ​ 1,493.3 ​ ​ 1,244.2 ​ ​ 249.1 ​ 20 %
+Fee per trade cleared (10) ​ € 0.009 ​ € 0.011 ​ € (0.002) ​ (17) %
+European equities market share cleared (11) ​ ​ 32.7 % ​ 29.6 % ​ 3.1 ​ ​ *
+Net settlement volume (12) ​ ​ 10.3 ​ ​ 9.9 ​ ​ 0.4 ​ 4 %
+Net fee per settlement (13) ​ € 0.881 ​ € 0.871 ​ € 0.010 ​ 1 %
+Australian Equities: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADNV (AUD billions) ​ $ 0.8 ​ $ 0.8 ​ $ — ​ 2 %
+Trading days ​ ​ 253 ​ ​ 130 ​ ​ 123 ​ 95 %
+Market share - Continuous ​ ​ 16.6 % ​ 15.9 % ​ 0.7 % ​ *
+Net capture (per matched notional value in basis points) (14) ​ ​ 0.164 ​ ​ 0.172 ​ ​ (0.008) ​ (5) %
+Japanese Equities: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADNV (JPY billions) ​ ¥ 142.9 ​ ¥ 100.1 ​ ¥ 42.8 ​ 43 %
+Trading days ​ ​ 244 ​ ​ 123 ​ ​ 121 ​ 98 %
+Market share - Lit Continuous ​ ​ 3.6 % ​ 2.7 % ​ 0.9 % ​ *
+Net capture (per matched notional value in basis points) (15) ​ ​ 0.252 ​ ​ 0.361 ​ ​ (0.109) ​ (30) %
+Futures: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+ADV (in thousands) ​ ​ 218.2 ​ ​ 230.4 ​ ​ (12.2) ​ (5) %
+Trading days ​ ​ 251 ​ ​ 252 ​ ​ (1) ​ (0) %
+Revenue per contract ​ $ 1.674 ​ $ 1.641 ​ $ 0.033 ​ 2 %
+Global FX: ​ ​ ​ ​ ​ ​ ​
+ADNV (in billions) ​ $ 40.9 ​ $ 33.9 ​ $ 7.0 ​ 21 %
+Market share ​ ​ 17.6 % ​ 16.6 % ​ 1.0 ​ ​ *
+Trading days ​ 260 ​ 260 ​ ​ — ​ — %
+Net capture (per one million dollars traded) (16) ​ ​ 2.69 ​ ​ 2.73 ​ ​ (0.04) ​ (1) %
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+Average British pound/U.S. dollar exchange rate ​ $ 1.237 ​ $ 1.375 ​ $ (0.138) ​ (10) %
+Average Canadian dollar/U.S. dollar exchange rate ​ $ 0.769 ​ $ 0.798 ​ $ (0.029) ​ (4) %
+Average Euro/U.S. dollar exchange rate ​ $ 1.054 ​ $ 1.183 ​ $ (0.129) ​ (11) %
+Average Euro/British pound exchange rate ​ £ 0.852 ​ £ 0.860 ​ £ (0.008) ​ (1) %
+Average Australian dollar/U.S. dollar exchange rate ​ $ 0.694 ​ $ 0.726 ​ $ (0.032) ​ (4) %
+Average Japanese Yen/U.S. dollar exchange rate ​ $ 0.008 ​ $ 0.009 ​ $ (0.001) ​ (14) %
+
+* Not meaningful
+Note, the percent change listed represents the change in the unrounded metrics figures.
+
+74
+
+Table of Contents
+
+(1) Touched volume represents the total number of shares of equity securities and ETFs internally matched on our exchanges or routed to and executed on an external market center.
+(2) Average revenue per contract, for options and futures represents total net transaction fees recognized for the period divided by total contracts traded during the period.
+(3) Net capture per one hundred of trading days.
+(4) Net capture per 100 touched shares refers to transaction fees less order and execution management system (OMS/EMS) fees and clearing costs divided by the product of one-hundredth ADV of touched shares on BIDS Trading and the number of trading days for the period.
+(5) Matched volume represents the total number of shares of equity securities and ETFs activity executed on our exchanges.
+(6) Net capture per 10,000 touched shares refers to transaction fees divided by the product of one-ten thousandth ADV of shares for NEO and MATCHNow and the number of trading days.
+(7) Matched ADNV represents the average daily notional value of shares or contracts executed on our exchanges.
+(8) Net capture per matched notional value refers to transaction fees less liquidity payments in British pounds divided by the product of ADNV in British pounds of shares matched on Cboe Europe Equities and the number of trading days.
+(9) Trades cleared refers to the total number of non-interoperable trades cleared.
+(10) Fee per trade cleared refers to clearing fees divided by number of non-interoperable trades cleared.
+(11) European Equities market share cleared represents Cboe Clear Europe’s client volume cleared divided by the total volume of the publicly reported European venues.
+(12) Net settlement volume refers to the total number of settlements executed after netting.
+(13) Net fee per settlement refers to settlement fees less direct costs incurred to settle divided by the number of settlements executed after netting.
+(14) Net capture per matched notional value refers to transaction fees less liquidity payments in Australian dollars divided by the product of ADNV in Australian dollars of shares matched on Cboe Australia and the number of Australian Equities trading days.
+(15) Net capture per matched notional value refers to transaction fees less liquidity payments in Japanese Yen divided by the product of ADNV in Japanese Yen of shares matched on Cboe Japan and the number of Japanese Equities trading days.
+(16) Net capture per one million dollars traded refers to net transaction fees less liquidity payments, if any, divided by the Spot and SEF products of one-thousandth of ADNV traded on the Cboe FX Markets and the number of trading days, divided by two, which represents the buyer and seller that are both charged on the transaction.
+
+75
+
+Table of Contents
+
+Revenue
+Total revenues for the year ended December 31, 2022 increased $463.7 million, or 13%, compared to the prior period primarily due to higher revenue across all revenue captions as a result of increased volumes traded on the Options and European in access and capacity fees in the Options and North American Equities segments, and additional revenues attributable to acquisitions made in 2022 and the later half of 2021. The following summarizes changes in revenues for the year ended December 31, 2022 compared to the year ended December 31, 2021 (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------- - ------------ ------- --------- - ---------- - ------ ----- - -- -
+​ ​ Year Ended ​ ​ ​ ​ ​
+​ ​ December 31, ​ Increase/ ​ Percent
+​ 2022 2021 (Decrease) Change
+Cash and spot markets ​ $ 1,777.6 ​ $ 1,660.5 ​ $ 117.1 ​ 7 %
+Data and access solutions ​ 497.0 ​ 427.7 ​ 69.3 ​ 16 %
+Derivatives markets ​ ​ 1,683.9 ​ ​ 1,406.6 ​ ​ 277.3 ​ 20 %
+Total revenues ​ $ 3,958.5 ​ $ 3,494.8 ​ $ 463.7 ​ 13 %
+
+​
+Cash and Spot Markets
+ most notably Euro and British Pounds, for the year ended December 31, 2022 compared to the prior period. Industry market data fees decreased primarily due to a decrease in U.S. tape plan revenue as a result of a 1% decline in market share on the U.S. Equities exchanges.
+​
+Data and Access Solutions
+Data and access solutions revenue increased for the year ended December 31, 2022 compared to the year and NEO.
+​
+Derivatives Markets
+Derivatives markets revenue increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increases in transaction and clearing fees and regulatory fees. Transaction and clearing fees increased primarily due to a 44% increase in index options ADV and a 7% increase in multi-listed options ADV, partially offset by a 5% decrease 2021 to an average rate of $16.30 per million dollars of covered sales for the year ended December 31, 2022.
+​
+
+76
+
+Table of Contents
+
+Cost of Revenues
+The following tables reconcile the cost of revenues (in millions):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+--------------------------------------- - -------------------- ----------------------- ------------------------ - ------------------ - ----- ----- - - -------
+​ ​ ​ Year Ended December 31,
+​ ​ ​ 2022
+​ ​ Cash andSpot Markets ​ Data andAccess Solutions ​ DerivativesMarkets ​ Total
+Liquidity payments ​ $ 1,024.0 ​ $ — ​ $ 646.2 ​ $ 1,670.2
+Routing and clearing fees ​ ​ 56.0 ​ ​ — ​ ​ 27.2 ​ ​ 83.2
+Section 31 fees ​ ​ 276.8 ​ ​ — ​ ​ 53.0 ​ ​ 329.8
+Royalty fees and other cost of revenues ​ ​ 14.1 ​ ​ 9.2 ​ ​ 110.3 ​ ​ 133.6
+Total cost of revenues ​ $ 1,370.9 ​ $ 9.2 ​ $ 836.7 ​ $ 2,216.8
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+​ ​ ​ Year Ended December 31,
+​ ​ ​ 2021
+​ ​ Cash andSpot Markets ​ Data andAccess Solutions ​ DerivativesMarkets ​ Total
+Liquidity payments ​ $ 1,025.4 ​ $ — ​ $ 625.3 ​ $ 1,650.7
+Routing and clearing fees ​ ​ 65.2 ​ ​ — ​ ​ 22.6 ​ ​ 87.8
+Section 31 fees ​ ​ 159.7 ​ ​ — ​ ​ 19.9 ​ ​ 179.6
+Royalty fees and other cost of revenues ​ ​ 14.3 ​ ​ 8.4 ​ ​ 77.9 ​ ​ 100.6
+Total cost of revenues ​ $ 1,264.6 ​ $ 8.4 ​ $ 745.7 ​ $ 2,018.7
+
+​
+Cost of revenues increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily in royalty fees and an increase in liquidity payments driven by an increase in volumes traded on the Options and European Equities exchanges.
+​
+The following summarizes changes in the disaggregated cost of revenues for the year ended December 31, 2022 compared to the year ended December 31, 2021 (in millions, except percentages):
+​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+--------------------------------------- - ------------ ------- --------- - ---------- - ------ ----- - --- -
+​ ​ Year Ended ​ ​ ​ ​ ​
+​ ​ December 31, ​ Increase/ ​ Percent
+​ 2022 2021 (Decrease) Change
+Liquidity payments ​ $ 1,670.2 ​ $ 1,650.7 ​ $ 19.5 ​ 1 %
+Routing and clearing ​ 83.2 ​ 87.8 ​ (4.6) ​ (5) %
+Section 31 fees ​ ​ 329.8 ​ ​ 179.6 ​ ​ 150.2 ​ 84 %
+Royalty fees and other cost of revenues ​ ​ 133.6 ​ ​ 100.6 ​ ​ 33.0 ​ 33 %
+Total ​ $ 2,216.8 ​ $ 2,018.7 ​ $ 198.1 ​ 10 %
+
+​
+Liquidity Payments
+Liquidity payments increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to an increase in volumes traded on the Options and European Equities exchanges, partially offset by a decrease in volumes traded on the U.S Equities exchanges.
+Routing and Clearing
+Routing and clearing fees decreased for the notably Euro and British Pounds, for the year ended December 31, 2022 compared to the prior period, partially offset by an increase in routed trades on the Options exchanges.
+​
+
+77
+
+Table of Contents
+
+Section 31 Fees
+Section 31 fees increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to a 109% increase in the Section 31 fee rate, from an average rate of $7.80 per million dollars of covered sales in 2021 to an average rate of $16.30 per million dollars of covered sales in 2022.
+Royalty Fees and Other Cost of Revenues
+Royalty fees increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to an increase in trading volumes of licensed products in the Options segment.
+Revenues Less Cost of Revenues
+Revenues less cost of revenues attributable to acquisitions made in 2022 and the latter half of 2021.
+The following summarizes the components of revenues less cost of revenues for the year ended December 31, 2022, presented as a percentage of revenues less cost of revenues and compared to the year ended December 31, 2021 (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ------- ------- - ------------ - ---- - ------------- - --- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage of
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues Less
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Cost of
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ Year Ended
+​ ​ December 31, ​ Percent ​ December 31,
+​ 2022 2021 Change 2022 2021 ​
+Cash and spot markets ​ $ 406.7 ​ $ 395.9 ​ 3 % 23 % 27 %
+Data and access solutions ​ 487.8 ​ 419.3 ​ 16 % 28 % 28 %
+Derivatives markets ​ ​ 847.2 ​ ​ 660.9 ​ 28 % 49 % 45 %
+Revenues less cost of revenues ​ $ 1,741.7 ​ $ 1,476.1 ​ 18 % 100 % 100 %
+
+​
+Cash and Spot Markets
+Cash and spot markets revenues 31, 2022 compared to the prior period. Industry market data fees decreased primarily due to a decrease in U.S. tape plan revenue driven by a 1% decline in market share on the U.S. Equities exchanges.
+Data and Access Solutions
+Data and access solutions revenues less cost of revenues increased for the year ended December 31, 2022 compared the year ended December 31, 2021, primarily due to increases in access and capacity fees and proprietary market data fees. Access and capacity fees increased primarily due to increased logical and physical port fees in the Options and North American Equities segments market data fees increased primarily due to proprietary market data attributable to Cboe Asia Pacific and NEO.
+​
+
+78
+
+Table of Contents
+
+Derivatives Markets
+Derivatives markets revenues less cost of revenues ADV, partially offset by a 5% decrease in Futures ADV and an increase in royalty fees due to an increase in trading volumes of licensed products in the Options segment.
+Operating Expenses
+For the year 
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+-------------------------------------- - ------------ ------- --------- - ---------- - ------ ----- - --- -
+​ ​ Year Ended ​ ​ ​ ​ ​
+​ ​ December 31, ​ Increase/ ​ Percent
+​ 2022 2021 (Decrease) Change
+Compensation and benefits ​ $ 363.0 ​ $ 288.5 ​ $ 74.5 ​ 26 %
+Depreciation and amortization ​ 166.8 ​ 167.4 ​ (0.6) ​ (0) %
+Technology support services ​ 77.7 ​ 66.7 ​ 11.0 ​ 16 %
+Professional fees and outside services ​ 89.0 ​ 83.7 ​ 5.3 ​ 6 %
+Travel and promotional expenses ​ 23.7 ​ 9.7 ​ 14.0 ​ 144 %
+Facilities costs ​ 25.1 ​ 22.2 ​ 2.9 ​ 13 %
+Acquisition-related costs ​ 19.9 ​ 15.6 ​ 4.3 ​ 28 %
+Goodwill impairment ​ ​ 460.9 ​ ​ — ​ ​ 460.9 ​ * %
+Other expenses ​ 26.0 ​ 16.4 ​ 9.6 ​ 59 %
+Total operating expenses ​ $ 1,252.1 ​ $ 670.2 ​ $ 581.9 ​ 87 %
+
+*  Not meaningful
+Compensation and Benefits
+Compensation and benefits increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to a $66.1 million increase in salaries, Asia Pacific, and NEO.
+Depreciation and Amortization
+Depreciation and amortization was relatively flat for the year ended December 31, 2022 compared to the year ended December 31, 2021, due to an increase subject to depreciation during four months in 2021, as it was classified as held for sale from May 1, 2019 until May 1, 2021, offset by a decline in amortization under the discounted cash flow method for the intangibles acquired in the Bats acquisition.
+Technology Support Services
+Technology support services costs increased for the year ended December 31, 2022 compared to the year ended December 31, offset by a decrease in purchased hardware and equipment and purchased software.
+Professional Fees and Outside Services
+Professional and outside services fees increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increases in regulatory costs driven by an increase in CAT expense, as well as
+
+79
+
+Table of Contents
+
+increases in consulting fees, recruiting fees, contract services, and external audit fees, partially offset by a decrease in legal fees.
+Travel and Promotional Expenses
+Travel and promotional expenses increased for the year ended December 31, following the COVID-19 pandemic.
+Facilities Costs
+Facilities costs increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to an increase in rent expense related to the new Amsterdam lease that commenced in February 2022 and additional office space in London that commenced in March 2022, along with additional office locations following acquisitions in 2021 and 2022.
+Acquisition-Related Costs
+Acquisition-related costs increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due an increase in general and administrative costs associated with the acquisitions of Cboe Digital and NEO.
+Goodwill Impairment
+Goodwill impairment increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, due to impairment recognized in the Digital segment in the second quarter of 2022.
+Other Expenses
+Other expenses increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increased charitable contributions, an increase in VAT taxes, and expenses associated with hosting the Cboe Risk Management Conference.
+Operating Income
+As a result of the items above, operating income for the year ended December 31, 2022 was $489.6 million, compared to operating income of $805.9 million for the year ended December 31, 2021, a decrease of $316.3 million.
+Interest Expense, Net
+Net interest expense increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to additional interest expense incurred in connection with amended and restated in June 2022.
+Other (Expense) Income, Net
+Net other expense decreased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to a $7.5 million in American Financial Exchange, LLC recorded in 2022.
+
+80
+
+Table of Contents
+
+Income Before Income Tax Provision
+As a result of the above, income before income tax provision for the year ended December 31, 2022 was $432.9 million compared to income before income tax provision of $756.1 million for the year ended December 31, 2021, a decrease of $323.2 million.
+Income Tax Provision
+For the year ended December 31, 2022, the income tax provision was $197.9 million compared to $227.1 million for the year ended December 31, 2021, a decrease of $29.2 million, primarily due to a decrease in income before income tax provision, partially offset by a higher effective tax rate for the year ended December 31, 2022. The effective tax rate for the year ended December 31, 2022 was 45.7%, compared to a rate of 30.0% of Internal Revenue, on March 31, 2022.
+The following table summarizes the non-GAAP calculation of the effective tax rate for the year ended December 31, 2022:
+​ ​ ​ ​
+------------------------------------------------------------------------ - ----------------- -
+​ ​ Year Ended ​
+​ ​ December 31, 2022 ​
+GAAP effective tax rate ​ 45.7 %
+Tax effect of goodwill impairment ​ (8.5) %
+Tax effect of Section 199 related matters ​ (5.5) %
+Effective tax rate excluding goodwill impairment and Section 199 matters ​ 31.7 %
+
+​
+Net Income
+As a result of the items above, net income for the year ended December 31, 2022 was $235.0 million, or 14% of revenues less cost of revenues, compared to $529.0 million, or 36% of revenues less cost of revenues, for the year ended December 31, 2021, a decrease of $294.0 million, or 56%.
+Segment Operating Results
+We report that relate to activities of a specific segment have been allocated to that segment.
+​
+
+81
+
+Table of Contents
+
+The following summarizes our total revenues by segment (in millions, except percentages):
+​
+
+​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+----------------------- - ------------ ------- ------- - ------------ - ----- - ------------- - --- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage of
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ Year Ended
+​ ​ December 31, ​ Percent ​ December 31,
+​ 2022 2021 Change 2022 2021
+Options ​ $ 1,823.2 ​ $ 1,505.0 ​ 21 % 46 % 43 %
+North American Equities ​ 1,681.7 ​ 1,570.5 ​ 7 % 42 % 45 %
+Europe and Asia Pacific ​ 264.6 ​ 240.3 ​ 10 % 7 % 7 %
+Futures ​ 119.8 ​ 120.6 ​ (1) % 3 % 3 %
+Global FX ​ ​ 68.9 ​ ​ 58.1 ​ 19 % 2 % 2 %
+Digital ​ ​ 0.3 ​ ​ — ​ * ​ — % — %
+Corporate ​ ​ — ​ ​ 0.3 ​ (100) % — % — %
+Total revenues ​ $ 3,958.5 ​ $ 3,494.8 ​ 13 % 100 % 100 %
+
+*  Not meaningful
+
+82
+
+Table of Contents
+
+The following summarizes our revenues less cost of revenues by segment (in millions, except percentages):
+​
+
+​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------------ - ------------ ------- ------- - ------------ - ----- - --------------------- - --- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage of
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total Revenues
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ less Cost of Revenues
+​ ​ Year Ended ​ ​ ​ Year Ended
+​ ​ December 31, ​ Percent ​ December 31,
+​ 2022 2021 Change 2022 2021
+Options ​ $ 983.2 ​ $ 755.0 ​ 30 % 56 % 51 %
+North American Equities ​ 378.9 ​ 362.5 ​ 5 % 22 % 25 %
+Europe and Asia Pacific ​ 196.1 ​ 183.9 ​ 7 % 11 % 12 %
+Futures ​ 116.0 ​ 116.8 ​ (1) % 7 % 8 %
+Global FX ​ ​ 67.9 ​ ​ 57.6 ​ 18 % 4 % 4 %
+Digital ​ ​ (0.4) ​ ​ — ​ * ​ — % — %
+Corporate ​ ​ — ​ ​ 0.3 ​ (100) % — % — %
+Total revenues less cost of revenues ​ $ 1,741.7 ​ $ 1,476.1 ​ 18 % 100 % 100 %
+
+*  Not meaningful
+
+83
+
+Table of Contents
+
+Options
+The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Options segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ----- - ------- - ----- ------------ - -- ---- - ---------- ---- - -- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ of Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ ​ ​ Year Ended
+​ ​ December 31, ​ ​ Percent ​ ​ December 31,
+​ 2022 2021 Change 2022 2021
+Revenues less cost of revenues ​ $ 983.2 ​ ​ $ 755.0 ​ 30 % ​ 54 % ​ 50 %
+Operating expenses ​ 242.7 ​ ​ 217.0 ​ 12 % ​ 13 % ​ 14 %
+Operating income ​ $ 740.5 ​ ​ $ 538.0 ​ 38 % ​ 41 % ​ 36 %
+EBITDA (1) ​ $ 765.3 ​ ​ $ 565.4 ​ 35 % ​ 42 % ​ 38 %
+EBITDA margin (2) ​ 77.8 % ​ 74.9 % ​ * ​ ​ * ​ ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+Revenues less cost of revenues increased $228.2 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to a 44% increase in index options ADV, coupled with an 6% increase in index options net capture and an expenses, partially offset by a decrease in depreciation and amortization.
+North American Equities
+The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our North American Equities segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ----- - ------- - ----- ------------ - --- ---- - ---------- ---- - -- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ of Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ ​ ​ Year Ended
+​ ​ December 31, ​ ​ Percent ​ ​ December 31,
+​ 2022 2021 Change 2022 2021
+Revenues less cost of revenues ​ $ 378.9 ​ ​ $ 362.5 ​ 5 % ​ 23 % ​ 23 %
+Operating expenses ​ 232.3 ​ ​ 206.4 ​ 13 % ​ 14 % ​ 13 %
+Operating income ​ $ 146.6 ​ ​ $ 156.1 ​ (6) % ​ 9 % ​ 10 %
+EBITDA (1) ​ $ 220.1 ​ ​ $ 231.3 ​ (5) % ​ 13 % ​ 15 %
+EBITDA margin (2) ​ 58.1 % ​ 63.8 % ​ * ​ ​ * ​ ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+ with an increase in access and capacity fees driven by an increase in physical and logical port fees and a 7% increase in U.S. Equities net capture, partially offset by a 1% decrease in total touched the year ended December 31, 2022, operating income for the North American Equities segment
+
+84
+
+Table of Contents
+
+decreased $9.5 million compared to the year ended December 31, 2021 primarily due to an increase in operating expenses, partially offset by an increase in revenues less cost of revenues. Operating expenses increased $25.9 million for the year ended December 31, 2022 compared to the year by a decrease in depreciation and amortization.
+Europe and Asia Pacific
+The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Europe and Asia Pacific segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ----- - ------- - ----- ------------ - ---- ---- - ---------- ---- - -- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ of Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ ​ ​ Year Ended
+​ ​ December 31, ​ ​ Percent ​ ​ December 31,
+​ 2022 2021 Change 2022 2021
+Revenues less cost of revenues ​ $ 196.1 ​ ​ $ 183.9 ​ 7 % ​ 74 % ​ 77 %
+Operating expenses ​ 158.0 ​ ​ 127.9 ​ 24 % ​ 60 % ​ 53 %
+Operating income ​ $ 38.1 ​ ​ $ 56.0 ​ (32) % ​ 14 % ​ 23 %
+EBITDA (1) ​ $ 74.6 ​ ​ $ 92.6 ​ (19) % ​ 28 % ​ 39 %
+EBITDA margin (2) ​ 38.0 % ​ 50.4 % ​ * ​ ​ * ​ ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+Revenues less cost of revenues increased $12.2 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to additional revenue attributed to Cboe Asia Pacific, coupled with 31, 2021 primarily due to an increase in operating expenses, partially offset by an increase revenues less cost of revenues. Operating expenses increased $30.1 million for the year ended December 31, and travel and promotional expenses. Operating income was adversely impacted for the year ended December 31, 2022 compared to the prior period by changes in foreign currency rates, most notably Euros and British Pounds.
+​
+
+85
+
+Table of Contents
+
+Futures
+The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA, and EBITDA margin for our Futures segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ----- - ------- - ----- ------------ - ---- ---- - ---------- ---- - -- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ of Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ ​ ​ Year Ended
+​ ​ December 31, ​ ​ Percent ​ ​ December 31,
+​ 2022 2021 Change 2022 2021
+Revenues less cost of revenues ​ $ 116.0 ​ ​ $ 116.8 ​ (1) % ​ 97 % ​ 97 %
+Operating expenses ​ 60.8 ​ ​ 50.8 ​ 20 % ​ 51 % ​ 42 %
+Operating income ​ $ 55.2 ​ ​ $ 66.0 ​ (16) % ​ 46 % ​ 55 %
+EBITDA (1) ​ $ 57.8 ​ ​ $ 68.7 ​ (16) % ​ 48 % ​ 57 %
+EBITDA margin (2) ​ 49.8 % ​ 58.8 % ​ * ​ ​ * ​ ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+Revenues less cost of revenues decreased $0.8 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due a decline in transaction and clearing fees as a result of a 5% decrease in ADV, coupled with a decrease partially offset by a decrease in professional fees and outside services.
+Global FX
+The following summarizes revenues less cost of revenues, operating expenses, operating income, EBITDA and EBITDA margin for our Global FX segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ---- - ------- - ---- ------------ - --- ---- - ---------- ---- - -- -
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Percentage
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ of Total
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenues
+​ ​ Year Ended ​ ​ ​ ​ ​ Year Ended
+​ ​ December 31, ​ ​ Percent ​ ​ December 31,
+​ 2022 2021 Change 2022 2021
+Revenues less cost of revenues ​ $ 67.9 ​ ​ $ 57.6 ​ 18 % ​ 99 % ​ 99 %
+Operating expenses ​ 59.1 ​ ​ 54.9 ​ 8 % ​ 86 % ​ 94 %
+Operating income ​ $ 8.8 ​ ​ $ 2.7 ​ 226 % ​ 13 % ​ 5 %
+EBITDA (1) ​ $ 30.7 ​ ​ $ 26.9 ​ 14 % ​ 45 % ​ 46 %
+EBITDA margin (2) ​ 45.2 % ​ 46.7 % ​ * ​ ​ * ​ ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+Revenues less cost of revenues increased $10.3 million for the year ended December 31, 2022 compared to the year ended December 31, 2021 primarily due to a 21% increase in ADNV, partially offset by a 1% decrease in net capture. For the year ended December 31, 2022, operating income for the Global FX segment increased $6.1 million compared to the year ended December 31, 2021 primarily due to an increase in revenues less cost of revenues, partially offset by an increase in operating expenses. Operating expenses increased $4.2 million for the year ended December 31, 2022
+
+86
+
+Table of Contents
+
+compared to the year ended December 31, 2021 
+Digital
+The following summarizes revenues less cost of revenues, operating expenses, operating loss, EBITDA, and EBITDA margin for our Digital segment (in millions, except percentages):
+​ ​ ​ ​ ​ ​ ​ ​
+------------------------------ - ------------ ------- - ------------ ---------- -
+​ ​ ​ ​ ​ ​ Percentage ​
+​ ​ ​ ​ ​ ​ of Total ​
+​ ​ ​ ​ ​ ​ Revenues ​
+​ ​ Year Ended ​ ​ Year Ended ​
+​ ​ December 31, ​ ​ December 31, ​
+​ 2022 2022
+Revenues less cost of revenues ​ $ (0.4) ​ ​ * %
+Operating expenses ​ 491.0 ​ ​ * %
+Operating income (loss) ​ $ (491.4) ​ ​ * %
+EBITDA (1) ​ $ (484.0) ​ ​ * %
+EBITDA margin (2) ​ * % ​ * ​
+
+*  Not meaningful
+(1) See footnote (2) to the table under “Overview” above for a reconciliation of net income to EBITDA, and management’s reasons for using such non-GAAP measures.
+
+(2) EBITDA margin represents EBITDA divided by revenues less cost of revenues.
+
+​
+The Digital segment was established in the second quarter of 2022 following the acquisition of ErisX, which was subsequently 
+
+87
+
+Table of Contents
+
+LIQUIDITY AND CAPITAL RESOURCES
+Below are charts that reflect elements of our capital allocation:
+
+​
+We expect our cash on hand at December 31, 2022 and other available resources, under the Revolving Credit Facility, and potentially participating in future financing transactions to obtain additional capital will meet our cash needs to fund our operations, capital expenditures, 
+ Clear Europe incurred in the operation of its clearing system. Borrowings under the Facility are secured by cash, eligible bonds and eligible equity assets deposited by Cboe Clear Europe into secured may limit the Company’s liquidity, business and financing activities. The Facility was amended on June 30, 2022, which extended the term of the facility through June 29, 2023. Please refer to Note 12 (“Debt”) for further information on the amendment.
+Our long-term cash needs will depend on many factors, including an introduction of new products, enhancements of current products, the geographic mix or acquisitions are identified, in which case we expect that we would be able to borrow the necessary funds and/or issue additional shares of our common stock to complete such acquisition(s).
+​
+
+88
+
+Table of Contents
+
+Cash and cash equivalents includes cash in banks and all non-restricted, highly liquid investments with original maturities of three months or less at the time of purchase. Cash and cash equivalents and results of operations, partially offset by acquisitions, net of cash acquired and repayments on the Term Loan Agreement. See “Cash Flow” below for further discussion.
+Our cash and cash equivalents requirements.
+Our financial investments include deferred compensation plan assets as well as investments with original or acquired maturities longer than three months but that mature in less than one year from the balance sheet date and are recorded at fair value. As of December 31, 2022, financial investments primarily consisted of U.S. Treasury securities and deferred compensation plan assets.
+Cash Flow
+The following table summarizes our cash flow data for the years ended December 31, 2022, 2021 and 2020 (in millions):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+-------------------------------------------------------------------------------------------------------------------- - ------------------ ------- ---- - ------- - - -------
+​ ​ For the Year Ended
+​ ​ December 31,
+​ 2022 2021 2020
+Net cash provided by operating activities ​ $ 651.1 ​ $ 596.8 ​ $ 1,458.8
+Net cash used in investing activities ​ (835.1) ​ (352.7) ​ (430.5)
+Net cash provided by (used in) financing activities ​ 81.7 ​ (200.3) ​ (201.7)
+Effect of foreign currency exchange rate changes on cash, cash equivalents, and restricted cash and cash equivalents ​ (10.0) ​ (9.1) ​ 1.6
+(Decrease) increase in cash, cash equivalents, and restricted cash and cash equivalents ​ $ (112.3) ​ $ 34.7 ​ $ 828.2
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+​ ​ As of December 31,
+​ ​ 2022 2021 2020
+Reconciliation of cash, cash equivalents, and restricted cash and cash equivalents: ​ ​ ​ ​ ​ ​ ​ ​ ​
+Cash and cash equivalents ​ $ 432.7 ​ $ 341.9 ​ $ 245.4
+Restricted cash and cash equivalents (margin deposits and clearing funds) ​ ​ 530.3 ​ ​ 745.9 ​ ​ 812.1
+Restricted cash and cash equivalents (included in other current assets) ​ ​ 4.2 ​ ​ 4.4 ​ ​ —
+Customer bank deposits (included in margin deposits and clearing funds) ​ ​ 12.7 ​ ​ — ​ ​ —
+Total ​ $ 979.9 ​ $ 1,092.2 ​ $ 1,057.5
+
+​
+Net Cash Flows Provided by Operating Activities
+During the year ended December million, driven by the change in margin and clearing funds related to Cboe Clear Europe for the year ended December 31, 2022, and the benefit for deferred income taxes of $155.7 million.
+Net cash flows provided by operating activities were $651.1 million and $596.8 million for the years ended December 31, 2022 and 2021, respectively. The change in net cash flows provided by operating activities was by margin deposits and clearing funds related to Cboe Clear Europe, the change in benefit for deferred income taxes, and the change in accounts receivable.
+
+89
+
+Table of Contents
+
+Net cash provided by operating activities was $67.8 million higher than net income for the fiscal year ended December 31, 2021. The variance is primarily attributable to the adjustment for depreciation and amortization expense of $167.4 31, 2021.
+Net cash provided by operating activities was $596.8 million and $1,458.8 million for the years ended December 31, 2021 and 2020, respectively. The change in net cash flows provided by operating activities was primarily due to the change in restricted cash and cash equivalents, driven by margin deposits and clearing funds related to Cboe Clear Europe, as well as the change in Section 31 fees December 31, 2021 compared to the year ended December 31, 2020.
+Net Cash Flows Used in Investing Activities
+During the year ended December 31, 2022, net cash used in investing activities primarily consisted of acquisitions, net of cash acquired of $708.3 million, purchases of available-for-sale financial investments of $104.7 million, and purchases of property and equipment and leasehold improvements of $59.8 million, partially offset by proceeds from maturities of available-for-sale financial investments of $51.2 million.
+Net cash flows used in investing activities were $835.1 million and $352.7 million financial investments, partially offset by the change in contributions to investments for the year ended December 31, 2022 compared to the year ended December 31, 2021.
+During the year ended December financial investments of $101.2 million, partially offset by proceeds from maturities of available-for-sale financial investments of $160.2 million.
+Capital expenditures are expected to be in the range of $60.0 million to $66.0 million, reflecting expenditures associated with the Company’s ongoing capacity and technology-related investments, as well as continued integration of Cboe Asia Pacific and global expansion of data and access solutions.
+Net Cash Flows Provided by (Used in) Financing Activities
+During the year ended December 31, 2022, net cash provided by financing activities primarily consisted of contingent consideration related to acquisitions.
+Net cash flows provided by (used in) financing activities were $81.7 million and ($200.3) million for the years ended December 31, 2022 and 2021, respectively. the change in share repurchases, and the change in cash dividends on common stock.
+Net cash flows used in financing activities totaled $200.3 million for the year ended December 31, 2021. During the year ended December 31, 2021, net cash used in financing activities primarily consisted of cash dividends paid on common stock of $193.3 million and share repurchases of $81.3 million, partially offset by proceeds from long-term debt of $110.0 million.
+For the year ended December 31, 2020, the Company received proceeds from long-term debt of $493.7 million, of which $70.0 million was used to pay down the revolving credit facility draw taken in the third quarter of 2020, repurchased $349.1 million of common stock, paid dividends totaling $170.6 million, and paid down $155.0 million of long-term debt.
+
+90
+
+Table of Contents
+
+Financial Assets
+The following summarizes our financial assets excluding margin deposits and clearing funds as of December 31, 2022, 2021 and 2020 (in millions):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+--------------------------------------- - ------------------ ------ ---- - ------ - - -------
+​ ​ As of December 31,
+​ 2022 2021 2020
+Cash and cash equivalents ​ $ 432.7 ​ $ 341.9 ​ $ 245.4
+Financial investments ​ 91.7 ​ 37.1 ​ 92.4
+Less deferred compensation plan assets ​ ​ (27.5) ​ ​ (28.0) ​ ​ (24.5)
+Less cash collected for Section 31 fees ​ ​ (93.7) ​ ​ (25.9) ​ ​ (103.0)
+Adjusted cash (1) ​ $ 403.2 ​ $ 325.1 ​ $ 210.3
+
+(1) Adjusted cash is a non-GAAP measure and represents cash and cash equivalents plus financial investments, minus deferred compensation plan assets and cash collected for Section in the evaluation of companies.
+
+Debt
+​
+The following summarizes our debt obligations as of December 31, 2022, 2021 and 2020 (in millions):
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+------------------------------------------------- - ------------------ ------- ---- - ------- - - -------
+​ ​ As of December 31,
+​ 2022 2021 2020
+Term Loan Agreement ​ $ 305.0 ​ $ 160.0 ​ $ 70.0
+3.650% Senior Notes ​ 650.0 ​ 650.0 ​ 650.0
+1.625% Senior Notes ​ ​ 500.0 ​ ​ 500.0 ​ ​ 500.0
+3.000% Senior Notes ​ ​ 300.0 ​ ​ — ​ ​ —
+Revolving Credit Agreement ​ ​ — ​ ​ — ​ ​ —
+Cboe Clear Europe Credit Facility ​ ​ — ​ ​ — ​ ​ —
+Less unamortized discount and debt issuance costs ​ ​ (13.0) ​ ​ (10.7) ​ ​ (16.1)
+Total debt ​ $ 1,742.0 ​ $ 1,299.3 ​ $ 1,203.9
+
+​
+At December 31, 2022, we were in compliance with the covenants of our debt agreements.
+In addition commitments under the facility. Together with adjusted cash, we had $1.0 billion available to fund our operations, capital expenditures, potential acquisitions, debt repayments and any dividends, net of regulatory capital requirements, as of December 31, 2022.
+Dividends
+The Company’s expectation is to continue to pay dividends. The decision to pay a dividend, however, remains within the discretion of the Company']:
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Operations Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service ("SaaS") model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers ("VARs"), systems integrators ("SIs"), independent software vendors ("ISVs"), retailers, software developers and original equipment manufacturers ("OEMs"). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa ("EMEA"); and Asia-Pacific ("APAC"). Basis of Presentation The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial State...
