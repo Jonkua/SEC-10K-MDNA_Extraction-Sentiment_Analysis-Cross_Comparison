@@ -1,26 +1,79 @@
+"""
+Section Parser for SEC Filing MD&A Extraction
+==============================================
+
+This module provides intelligent detection of MD&A (Management's Discussion and
+Analysis) section boundaries within SEC 10-K and 10-Q filings. The parser must
+handle numerous challenges:
+
+Challenges Addressed:
+- Table of Contents (TOC) false positives: "Item 7" appears in TOC before actual content
+- Multiple Item 7 references: Filings may reference Item 7 multiple times
+- Varying formatting: Different companies format section headers differently
+- Incorporation by reference: Some filings reference MD&A from other documents
+- 10-K vs 10-Q differences: Different item numbers (Item 7 vs Item 2)
+
+Solution Approach:
+The parser uses a sophisticated scoring system to evaluate potential MD&A section
+start positions. Each candidate is scored on multiple factors:
+- Position in document (TOC typically in first 10-15%)
+- Presence of surrounding content (TOC entries lack narrative text)
+- MD&A keywords in following content
+- Proper section sequence (Item 6 should precede Item 7)
+- Text structure (prose vs. TOC-style short lines)
+
+The highest-scoring candidate is selected as the true MD&A start, with fallback
+strategies if no good candidate is found.
+"""
+
 import re
 from typing import Optional, Tuple, List, Dict
 from dataclasses import dataclass
 from ...config.patterns import COMPILED_PATTERNS
 from ...src.utils.logger import get_logger
 
+# Module logger for tracking section detection progress
 logger = get_logger(__name__)
 
 
 @dataclass
 class SectionBoundary:
-    """Represents a section boundary in the document."""
+    """
+    Represents a section boundary in the document.
+
+    Attributes:
+        pattern_matched: The regex pattern that matched this boundary
+        start_pos: Character position where section starts
+        end_pos: Character position where section ends
+        line_number: Line number in the document
+        confidence: Initial confidence score (0.0-1.0) based on pattern specificity
+        score: Final score (0-100) after comprehensive evaluation
+    """
     pattern_matched: str
     start_pos: int
     end_pos: int
     line_number: int
     confidence: float
-    score: float = 0.0  # New scoring field
+    score: float = 0.0  # Scoring field populated by _score_item_7_match
 
 
 @dataclass
 class IncorporationByReference:
-    """Represents an incorporation by reference."""
+    """
+    Represents an incorporation by reference scenario.
+
+    Some SEC filings don't contain the MD&A directly but instead reference
+    another document (e.g., the Annual Report to Shareholders, a Proxy
+    Statement, or an Exhibit). This dataclass captures that reference
+    for potential resolution.
+
+    Attributes:
+        full_text: The full text of the incorporation reference
+        document_type: Type of referenced document (e.g., "DEF 14A", "Exhibit 13")
+        caption: Section name in referenced document
+        page_reference: Page range in referenced document
+        position: Character position of the reference in the filing
+    """
     full_text: str
     document_type: Optional[str]  # e.g., "DEF 14A", "Exhibit 13"
     caption: Optional[str]  # e.g., "Management's Discussion and Analysis"
@@ -29,11 +82,21 @@ class IncorporationByReference:
 
 
 class SectionParser:
-    """Parses SEC filings to identify MD&A sections."""
+    """
+    Parses SEC filings to identify MD&A sections using pattern matching and scoring.
+
+    The parser handles both 10-K (Item 7) and 10-Q (Item 2) filings, using
+    form-type-specific detection strategies.
+
+    Attributes:
+        patterns: Pre-compiled regex patterns from config
+        _current_form_type: Current form type being processed (for context)
+    """
 
     def __init__(self):
+        """Initialize parser with compiled regex patterns."""
         self.patterns = COMPILED_PATTERNS
-        self._current_form_type = "10-K"  # Default
+        self._current_form_type = "10-K"  # Default form type
 
     def find_mdna_section(self, text: str, form_type: str = "10-K") -> Optional[Tuple[int, int]]:
         """

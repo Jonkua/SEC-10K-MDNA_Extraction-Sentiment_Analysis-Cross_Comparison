@@ -1,18 +1,54 @@
-"""Manager for handling filing selection logic (10-K vs 10-Q fallback)."""
+"""
+Filing Manager for Selection and Prioritization Logic
+=======================================================
+
+This module manages the selection of which SEC filings to process when
+multiple filings exist for the same company and year. This is common
+when companies file amendments (10-K/A) or when quarterly reports (10-Q)
+are available but annual reports (10-K) are not yet filed.
+
+Filing Priority Rules:
+1. 10-K/A (amended annual): Highest priority - supersedes 10-K
+2. 10-K (annual): Standard annual report - preferred over quarterly
+3. 10-Q/A (amended quarterly): Only if no 10-K available
+4. 10-Q (quarterly): Lowest priority - fallback only
+
+Use Cases:
+- Company files 10-K then later files 10-K/A: Process only 10-K/A
+- Company has 10-K and multiple 10-Qs for same year: Process only 10-K
+- Company only has 10-Qs (mid-year): Use most recent 10-Q as fallback
+
+The manager collects all available filings, organizes them by
+CIK/year/form type, then applies selection rules to determine
+which filings should actually be processed.
+"""
 
 import re
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from ...src.utils.logger import get_logger
 
+# Module logger for filing selection operations
 logger = get_logger(__name__)
 
 
 class FilingManager:
-    """Manages filing selection and prioritization logic."""
+    """
+    Manages filing selection and prioritization logic.
+
+    This class tracks all available filings and implements selection
+    logic to choose the most appropriate filing for each company/year
+    combination.
+
+    Attributes:
+        filings_by_cik_year: Nested dictionary organizing filings by
+            CIK -> year -> form_type -> list of file paths
+    """
 
     def __init__(self):
-        self.filings_by_cik_year = {}  # {cik: {year: {form_type: [file_paths]}}}
+        """Initialize the filing manager with empty filing registry."""
+        # Structure: {cik: {year: {form_type: [file_paths]}}}
+        self.filings_by_cik_year = {}
 
     def add_filing(self, file_path: Path, cik: str, year: int, form_type: str):
         """

@@ -1,4 +1,24 @@
-"""Logging configuration and utilities."""
+"""
+Logging Configuration and Utilities
+=====================================
+
+This module provides a centralized logging configuration for the MD&A
+extraction pipeline. Features include:
+- Color-coded console output for different log levels
+- File-based error logging for post-processing analysis
+- Consistent log formatting across all modules
+- Summary reporting utilities
+
+Log Levels:
+- DEBUG: Detailed information for debugging
+- INFO: Progress updates and successful operations
+- WARNING: Non-critical issues that don't stop processing
+- ERROR: Failures that prevent extraction for specific files
+- CRITICAL: System-level failures
+
+The log system uses Python's standard logging module with colorlog
+extension for terminal output colors.
+"""
 
 import logging
 import colorlog
@@ -7,7 +27,8 @@ from datetime import datetime
 from typing import Optional
 from ...config.settings import LOG_DIR, LOG_FILENAME, LOG_FORMAT, LOG_DATE_FORMAT
 
-# Global error log file
+# Global path to error log file
+# All ERROR level messages are written here for later analysis
 ERROR_LOG_PATH = LOG_DIR / LOG_FILENAME
 
 

@@ -1,4 +1,27 @@
-"""Parser for resolving cross-references in MD&A sections."""
+"""
+Cross-Reference Parser for SEC Filings
+=======================================
+
+This module handles the detection and resolution of cross-references within
+MD&A sections. SEC filings frequently reference other sections, notes to
+financial statements, exhibits, or items within the same document.
+
+Common Cross-Reference Types:
+- Note References: "See Note 12 to the Financial Statements"
+- Item References: "As discussed in Item 7A"
+- Exhibit References: "Refer to Exhibit 10.1"
+- Section References: "See 'Liquidity and Capital Resources'"
+
+Resolution Strategy:
+1. Detect cross-references using regex patterns
+2. Parse reference to identify type (note/item/exhibit/section) and target
+3. Search the full document for the referenced content
+4. Extract a relevant snippet or summary of the referenced material
+5. Handle nested references up to MAX_CROSS_REFERENCE_DEPTH
+
+The resolved references can be appended to the extracted MD&A to provide
+complete context without requiring access to the full filing.
+"""
 
 import re
 from typing import List, Dict, Optional
@@ -7,12 +30,24 @@ from ...config.patterns import COMPILED_PATTERNS
 from ...config.settings import MAX_CROSS_REFERENCE_DEPTH
 from ...src.utils.logger import get_logger
 
+# Module logger for cross-reference resolution tracking
 logger = get_logger(__name__)
 
 
 @dataclass
 class CrossReference:
-    """Represents a cross-reference in the text."""
+    """
+    Represents a cross-reference found in the text.
+
+    Attributes:
+        reference_text: The full text of the reference (e.g., "See Note 5")
+        reference_type: Category of reference ('note', 'item', 'exhibit', 'section')
+        target_id: Identifier of the referenced item (e.g., "5" for Note 5)
+        start_pos: Character position where reference starts
+        end_pos: Character position where reference ends
+        resolved: Whether the reference has been successfully resolved
+        resolution_text: The resolved content from the referenced location
+    """
     reference_text: str
     reference_type: str  # 'note', 'item', 'exhibit', 'section'
     target_id: str
@@ -23,10 +58,24 @@ class CrossReference:
 
 
 class CrossReferenceParser:
-    """Handles cross-reference detection and resolution."""
+    """
+    Handles cross-reference detection and resolution within SEC filings.
+
+    The parser finds references to notes, items, exhibits, and sections,
+    then resolves them by locating the referenced content within the
+    full document. Results are cached to avoid redundant lookups.
+
+    Attributes:
+        patterns: Compiled regex patterns for detecting cross-references
+        resolved_cache: Cache of already-resolved references for efficiency
+    """
 
     def __init__(self):
+        """Initialize parser with patterns and empty cache."""
+        # Get cross-reference patterns from compiled patterns config
         self.patterns = COMPILED_PATTERNS["cross_reference"]
+
+        # Cache to store resolved references (key: "type:target_id")
         self.resolved_cache: Dict[str, str] = {}
 
     def find_cross_references(self, text: str) -> List[CrossReference]:
