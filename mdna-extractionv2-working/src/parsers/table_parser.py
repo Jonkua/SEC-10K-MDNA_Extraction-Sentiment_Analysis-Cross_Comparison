@@ -1,4 +1,24 @@
-"""Parser for detecting and preserving tables within MD&A sections."""
+"""
+Table Parser for SEC Filing Financial Tables
+=============================================
+
+This module detects and preserves financial tables within MD&A sections.
+Tables are critical components of MD&A content, containing quantitative
+data that supports the narrative discussion.
+
+Detection Methods:
+1. Delimited Tables: Tables with clear horizontal delimiters (---, ===, ___)
+2. Pipe-Delimited Tables: Markdown-style tables with | separators
+3. Space-Aligned Tables: Tables using whitespace for column alignment
+
+Table Structure Recognition:
+- Header detection based on date/year patterns and financial keywords
+- Column boundary detection using whitespace analysis
+- Row continuation handling for totals and subtotals
+
+The parser preserves original formatting to maintain column alignment,
+which is essential for accurate interpretation of financial data.
+"""
 
 import re
 
@@ -8,12 +28,26 @@ from ...config.patterns import COMPILED_PATTERNS
 from ...config.settings import TABLE_MIN_COLUMNS, TABLE_MIN_ROWS
 from ...src.utils.logger import get_logger
 
+# Module logger for table detection progress
 logger = get_logger(__name__)
 
 
 @dataclass
 class Table:
-    """Represents a detected table."""
+    """
+    Represents a detected table with its content and metadata.
+
+    Attributes:
+        content: Table data as 2D list (rows of cells)
+        start_pos: Character position where table starts
+        end_pos: Character position where table ends
+        start_line: Line number where table starts
+        end_line: Line number where table ends
+        title: Optional table title from preceding text
+        confidence: Detection confidence score (0.0-1.0)
+        table_type: Detection method ('delimited', 'aligned', 'mixed')
+        original_text: Original text preserving exact formatting
+    """
     content: List[List[str]]  # Table as list of rows
     start_pos: int
     end_pos: int
@@ -22,13 +56,24 @@ class Table:
     title: Optional[str]
     confidence: float
     table_type: str  # 'delimited', 'aligned', 'mixed'
-    original_text: str  # Preserve original formatting
+    original_text: str  # Preserve original formatting - critical for column alignment
 
 
 class TableParser:
-    """Detects and preserves tables within text."""
+    """
+    Detects and preserves tables within text content.
+
+    The parser uses multiple detection strategies to identify tables:
+    - Horizontal delimiters (lines of dashes, equals, underscores)
+    - Pipe-delimited content (Markdown-style tables)
+    - Space-aligned columns (whitespace-based alignment)
+
+    Tables are preserved with their original formatting intact to
+    maintain column alignment for accurate data extraction.
+    """
 
     def __init__(self):
+        """Initialize the parser with compiled patterns."""
         self.patterns = COMPILED_PATTERNS
 
     def identify_tables(self, text: str) -> List[Table]:

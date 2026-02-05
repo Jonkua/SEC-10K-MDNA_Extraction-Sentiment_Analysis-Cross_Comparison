@@ -1,8 +1,46 @@
-"""Regex patterns for MD&A section detection and parsing."""
+"""
+Regex Patterns for MD&A Section Detection and Parsing
+======================================================
+
+This module contains all regex patterns used for parsing SEC filings.
+Patterns are organized by their purpose:
+
+Section Detection Patterns:
+- ITEM_7_START_PATTERNS: Patterns to find MD&A section start in 10-K filings
+- ITEM_7A_START_PATTERNS: Patterns for Item 7A (Market Risk) section
+- ITEM_8_START_PATTERNS: Patterns for Item 8 (Financial Statements)
+- ITEM_2_START_PATTERNS: Patterns for MD&A in 10-Q filings
+- ITEM_3_START_PATTERNS: Patterns for Item 3 in 10-Q filings
+- ITEM_4_START_PATTERNS: Patterns for Item 4 (Controls) in 10-Q
+- PART_II_START_PATTERNS: Patterns for Part II section start
+
+Document Structure Patterns:
+- FORM_TYPE_PATTERNS: Patterns to identify 10-K vs 10-Q forms
+- CROSS_REFERENCE_PATTERNS: Patterns for detecting cross-references
+- TABLE_DELIMITER_PATTERNS: Patterns for identifying table structures
+- TABLE_HEADER_PATTERNS: Patterns for detecting table headers
+- SEC_MARKERS: Patterns for SEC-specific document markers
+- INCORPORATION_BY_REFERENCE_PATTERNS: Patterns for IBR detection
+
+Pattern Design Philosophy:
+- Patterns are comprehensive to handle the wide variety of SEC filing formats
+- Case-insensitive matching is used by default
+- Multiple variations are included to catch OCR errors, typos, and formatting differences
+- Patterns are ordered roughly by specificity (most specific first)
+
+The compile_patterns() function compiles all patterns with appropriate flags
+for optimal performance during matching.
+"""
 
 import re
 
-# Section boundary patterns (case-insensitive)
+# =============================================================================
+# ITEM 7 (MD&A) START PATTERNS - 10-K FILINGS
+# =============================================================================
+# These patterns detect the beginning of the MD&A section in annual reports.
+# The patterns are extensive to handle various formatting styles, OCR errors,
+# and the many different ways companies format their section headers.
+
 ITEM_7_START_PATTERNS = [
     # Standard “Management’s Discussion and Analysis”
     r"ITEM\s*7\.?\s*MANAGEMENT['’]?S\s*DISCUSSION\s*AND\s*ANALYSIS",
@@ -256,6 +294,12 @@ ITEM_7_START_PATTERNS = [
 ]
 
 
+# =============================================================================
+# ITEM 7A (MARKET RISK) PATTERNS - 10-K FILINGS
+# =============================================================================
+# These patterns detect Item 7A which marks the END of MD&A section.
+# Item 7A discusses quantitative and qualitative market risk disclosures.
+
 ITEM_7A_START_PATTERNS = [
     # Standard quantitative/qualitative heading
     r"^\s*ITEM\s*7A\.?\s*QUANTITATIVE\s*AND\s*QUALITATIVE\s*DISCLOSURES",
@@ -294,6 +338,11 @@ ITEM_7A_START_PATTERNS = [
 ]
 
 
+# =============================================================================
+# ITEM 8 (FINANCIAL STATEMENTS) PATTERNS - 10-K FILINGS
+# =============================================================================
+# Item 8 marks financial statements, another potential MD&A endpoint.
+
 ITEM_8_START_PATTERNS = [
     # Basic Financial Statements
     r"^\s*ITEM\s*8\.?\s*FINANCIAL\s*STATEMENTS",
@@ -330,7 +379,12 @@ ITEM_8_START_PATTERNS = [
 ]
 
 
-# 10-Q specific end patterns
+# =============================================================================
+# 10-Q FILING PATTERNS
+# =============================================================================
+# 10-Q (quarterly) filings use different item numbers than 10-K (annual) filings.
+# Item 2 in 10-Q is equivalent to Item 7 in 10-K (both are MD&A).
+
 ITEM_2_START_PATTERNS = [
     r"(?:^|\n)\s*ITEM\s*2[\.\:\-\s]*MANAGEMENT['’`]?[S]?\s*DISCUSSION\s*(?:AND|&)\s*ANALYSIS",
     r"(?:^|\n)\s*ITEM\s+TWO[\.\:\-\s]*MANAGEMENT['’`]?[S]?\s*DISCUSSION\s*(?:AND|&)\s*ANALYSIS",
@@ -364,7 +418,12 @@ PART_II_START_PATTERNS = [
 ]
 
 
-# Form type patterns - expanded to properly detect 10-Q
+# =============================================================================
+# FORM TYPE DETECTION PATTERNS
+# =============================================================================
+# These patterns identify whether a filing is 10-K, 10-K/A, 10-Q, or 10-Q/A.
+# This is critical because different form types have different section structures.
+
 FORM_TYPE_PATTERNS = [
     r"(?:FORM|CONFORMED\s*SUBMISSION\s*TYPE)[\s:\-]*(\d{1,2}-[KQ](?:/A|A)?)",
     r"^\s*(?:FORM\s*)?(\d{1,2}-[KQ](?:/A|A)?)\s*$",
@@ -375,7 +434,12 @@ FORM_TYPE_PATTERNS = [
 ]
 
 
-# Cross-reference patterns
+# =============================================================================
+# CROSS-REFERENCE PATTERNS
+# =============================================================================
+# These patterns detect references to other parts of the filing or external
+# documents. Examples: "See Note 5", "Refer to Item 8", "See Exhibit 10.1"
+
 CROSS_REFERENCE_PATTERNS = [
     # --- Note references ---
     r"(?:see|refer(?:red)?\s*to|as\s*discussed\s*in)\s*Note\s+(\d+)",  # See Note 3
@@ -478,7 +542,12 @@ CROSS_REFERENCE_PATTERNS = [
 ]
 
 
-# Table detection patterns
+# =============================================================================
+# TABLE DETECTION PATTERNS
+# =============================================================================
+# Patterns for identifying financial tables within the text.
+# Tables may use various delimiter styles: pipes, dashes, spaces, tabs.
+
 TABLE_DELIMITER_PATTERNS = [
     r"^\s*[-=]{3,}\s*$",                      # --- or === line
     r"^\s*\|.*\|.*\|",                        # Pipe-delimited
@@ -501,7 +570,12 @@ TABLE_HEADER_PATTERNS = [
 ]
 
 
-# SEC document markers to remove
+# =============================================================================
+# SEC DOCUMENT MARKERS TO REMOVE
+# =============================================================================
+# These patterns identify SEC-specific formatting and metadata that should
+# be removed or ignored during text normalization.
+
 SEC_MARKERS = [
     r"<PAGE>\s*\d+",                                 # Page number
     r"Table\s*of\s*Contents",                         # TOC mention
@@ -518,7 +592,13 @@ SEC_MARKERS = [
 ]
 
 
-# Incorporation by reference patterns
+# =============================================================================
+# INCORPORATION BY REFERENCE PATTERNS
+# =============================================================================
+# These patterns detect when MD&A content is not present in the filing but
+# instead references another document (proxy statement, annual report, exhibit).
+# Such filings require special handling to obtain the actual MD&A content.
+
 INCORPORATION_BY_REFERENCE_PATTERNS = [
     # Standard incorporation language
     r"(?:information\s+required\s+by\s+)?Item\s*7.*?(?:is\s+)?incorporated\s+(?:herein\s+)?by\s+reference",
@@ -549,9 +629,23 @@ INCORPORATION_BY_REFERENCE_PATTERNS = [
     r"hereby\s+incorporated\s+by\s+reference",
 ]
 
-# Compile patterns for efficiency
+# =============================================================================
+# PATTERN COMPILATION
+# =============================================================================
+# Patterns are compiled at module load time for optimal performance.
+# Compiled patterns are stored in COMPILED_PATTERNS dictionary.
+
 def compile_patterns():
-    """Compile all regex patterns for better performance."""
+    """
+    Compile all regex patterns for better performance.
+
+    Pre-compiling patterns with appropriate flags (IGNORECASE, MULTILINE)
+    provides significant performance improvements when patterns are used
+    repeatedly during processing of large documents.
+
+    Returns:
+        Dictionary mapping pattern names to lists of compiled regex objects
+    """
     compiled = {
         "item_7_start": [re.compile(p, re.IGNORECASE | re.MULTILINE) for p in ITEM_7_START_PATTERNS],
         "item_7a_start": [re.compile(p, re.IGNORECASE | re.MULTILINE) for p in ITEM_7A_START_PATTERNS],

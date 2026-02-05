@@ -1,4 +1,34 @@
-"""Modified main entry point with improved in-place table preservation."""
+"""
+Main Entry Point for MD&A Extraction Pipeline
+==============================================
+
+This module provides the command-line interface for the MD&A extraction
+system. It handles:
+- Command-line argument parsing
+- Signal handling and graceful cleanup
+- Orchestrating the extraction pipeline
+- Statistics reporting
+
+Usage:
+    python -m src.main -i /path/to/zips -o /path/to/output -c /path/to/ciks.csv
+
+Command-Line Options:
+    -i, --input:       Input directory containing ZIP files with SEC filings
+    -o, --output:      Output directory for extracted MD&A sections
+    -c, --cik-csv:     CSV file containing CIKs to filter
+    -r, --raw-dir:     Directory to save raw extracted files (optional)
+    -v, --verbose:     Enable verbose/debug logging
+    --keep-raw:        Keep raw files after processing
+    --preserve-tables: Preserve table structure in output (default: True)
+
+The main() function implements the complete extraction workflow:
+1. Parse command-line arguments
+2. Initialize CIK filter from CSV
+3. Set up signal handlers for graceful shutdown
+4. Process all ZIP files in input directory
+5. Extract MD&A from matching filings
+6. Report statistics
+"""
 
 import argparse
 import sys
@@ -9,6 +39,8 @@ import time
 import shutil
 import zipfile
 from typing import Dict
+
+# Import configuration and core modules
 from ..config.settings import (
     VALID_EXTENSIONS,
     INPUT_DIR,
@@ -19,6 +51,7 @@ from .core.extractor import MDNAExtractor
 from .core.cik_filter import CIKFilter
 from .utils.logger import setup_logging, get_logger, log_summary
 
+# Initialize module logger
 logger = get_logger(__name__)
 
 # Global cleanup paths

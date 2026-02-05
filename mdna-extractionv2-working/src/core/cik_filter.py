@@ -1,4 +1,33 @@
-"""Simplified CIK filter for processing a single CSV file with CIKs."""
+"""
+CIK Filter for Selective Filing Processing
+===========================================
+
+This module provides CIK (Central Index Key) based filtering for the
+extraction pipeline. When processing large archives of SEC filings,
+it's often necessary to extract data only for specific companies.
+
+Features:
+- Load company CIKs from CSV file (first column)
+- Auto-detect CSV header row
+- Handle CIK format variations (with/without leading zeros)
+- Lazy loading (CIKs loaded on first use)
+
+CIK Format:
+SEC CIKs are assigned as integers but often represented with leading
+zeros to form a 10-digit identifier. This filter handles both formats:
+- "0000012345" (10-digit padded)
+- "12345" (without padding)
+
+CSV File Format:
+The input CSV should have CIKs in the first column. A header row is
+automatically detected and skipped. Other columns (ticker, company name)
+are ignored.
+
+Example CSV:
+    CIK,Ticker,Company
+    320193,AAPL,Apple Inc.
+    789019,MSFT,Microsoft Corporation
+"""
 
 import csv
 import re
@@ -6,11 +35,23 @@ from pathlib import Path
 from typing import Dict, List, Set, Optional
 from ...src.utils.logger import get_logger
 
+# Module logger for CIK filtering operations
 logger = get_logger(__name__)
 
 
 class CIKFilter:
-    """Filter filings based on CIK list from CSV file."""
+    """
+    Filter filings based on CIK list from CSV file.
+
+    This class implements lazy loading: CIKs are loaded from the CSV
+    file on first use (when should_process_cik is called).
+
+    Attributes:
+        cik_csv_file: Path to the CSV file containing CIKs
+        input_dir: Input directory (kept for interface compatibility)
+        ciks: Set of CIKs to process (populated on first use)
+        _loaded: Flag indicating whether CIKs have been loaded
+    """
 
     def __init__(self, cik_csv_file: Optional[Path] = None, input_dir: Optional[Path] = None):
         """

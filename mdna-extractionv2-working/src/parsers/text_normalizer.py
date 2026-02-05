@@ -1,17 +1,60 @@
-"""Text normalization utilities for cleaning SEC filings while preserving structure."""
+"""
+Text Normalization Utilities for SEC Filings
+=============================================
+
+This module provides text cleaning and normalization functions specifically
+designed for SEC filing documents. The key challenge is to clean text for
+NLP processing while preserving the structural formatting that indicates
+tables, columns, and section boundaries.
+
+Normalization Pipeline:
+1. SEC marker removal (page markers, standalone page numbers)
+2. Control character replacement (except tabs and newlines)
+3. Unicode normalization (convert fancy quotes, dashes to ASCII)
+4. Encoding issue fixes (handle mojibake from encoding mismatches)
+5. Structure-aware whitespace normalization
+
+The module distinguishes between:
+- Structured content (tables, columnar data): Preserve exact spacing
+- Narrative text: Normalize whitespace while preserving indentation
+
+Unicode Handling:
+SEC filings may contain various Unicode characters from different sources:
+- Smart quotes from word processors
+- Em/en dashes
+- Non-breaking spaces
+- Various bullet point characters
+
+These are converted to ASCII equivalents for consistent processing.
+"""
 
 import re
 import unicodedata
-
 
 from ...config.settings import CONTROL_CHAR_REPLACEMENT
 
 
 class TextNormalizer:
-    """Handles text cleaning and normalization for SEC filings while preserving document structure."""
+    """
+    Handles text cleaning and normalization for SEC filings.
+
+    The normalizer provides structure-preserving text cleaning that
+    maintains table and columnar formatting while normalizing narrative
+    text. This is essential for accurate extraction and downstream
+    NLP processing.
+
+    Attributes:
+        control_char_pattern: Regex matching control characters to remove
+        non_ascii_pattern: Regex matching non-ASCII characters
+    """
 
     def __init__(self):
-        self.control_char_pattern = re.compile(r'[\x00-\x08\x0B-\x0C\x0E-\x1F\x7F-\x9F]')  # Preserve \t, \n, \r
+        """Initialize normalizer with compiled regex patterns."""
+        # Pattern for control characters to remove
+        # Explicitly preserves \t (0x09), \n (0x0A), \r (0x0D)
+        self.control_char_pattern = re.compile(r'[\x00-\x08\x0B-\x0C\x0E-\x1F\x7F-\x9F]')
+
+        # Pattern for non-ASCII characters (for optional removal)
         self.non_ascii_pattern = re.compile(r'[^\x00-\x7F]+')
 
     def normalize_text(self, text: str, preserve_structure: bool = True) -> str:
